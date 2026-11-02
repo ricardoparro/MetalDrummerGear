@@ -1,0 +1,3358 @@
+{
+  "generatedAt": "2026-11-02T07:37:57.116Z",
+  "targetsFile": ".agents/llm-citation-targets.json",
+  "providers": [
+    "perplexity"
+  ],
+  "providersSkipped": [],
+  "queriesTotal": 100,
+  "queriesCitedAny": 17,
+  "queriesNotCitedAny": 83,
+  "queriesErrored": 0,
+  "competitorsTracked": [
+    "drumeo.com",
+    "moderndrummer.com",
+    "drummerworld.com",
+    "vintagedrumguide.com",
+    "drumsetbuying.com",
+    "drummagazine.com",
+    "loudwire.com",
+    "blabbermouth.net",
+    "drumhead.com",
+    "premier-guitar.com"
+  ],
+  "results": [
+    {
+      "q": "joey jordison drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:joey-jordison",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/joey-jordison/"
+          ],
+          "allCitations": [
+            "https://pearldrum.com/en/artist/joey-jordison",
+            "https://www.musicradar.com/news/joey-jordison-metal-drummer-death-tribute",
+            "https://www.guitarcenter.com/Used/Pearl/Used-Pearl-8-Piece-Joey-Jordison-Signature-Drum-Kit-Black-Drum-Kit-122374434.gc",
+            "https://www.musicradar.com/news/drums/slipknots-joey-jordisons-drum-setup-in-pictures-375412",
+            "https://equipboard.com/pros/joey-jordison",
+            "https://www.zzounds.com/item--PEAJJ728",
+            "https://pearldrum.com/eu/products/snares/signature-snares/joey-jordison?pearl=eu",
+            "https://drummagazine.com/joey-jordison/",
+            "https://www.long-mcquade.com/2246/Drums/Acoustic/Pearl/Joey-Jordinson-Signature-Drum-Kit.htm",
+            "https://www.musicradar.com/news/drums/drum-heroes-week-the-secret-weapons-of-your-favourite-drummers-599452"
+          ],
+          "bodyExcerpt": "Joey Jordison was best known for using a **Pearl Reference Series** double-bass drum kit, typically finished in black with Slipknot branding.[1][2]\n\n### Typical Joey Jordison kit\n\n- **Bass drums:** Two 22\" × 18\"\n- **Rack toms:** 8\" × 7\", 10\" × 8\", 12\" × 8/9\", and 13\" × 9/10\"\n- **Floor toms:** 14\" × 14\", 16\" × 16\", and 18\" × 16\"\n- **Snare:** Pearl Joey Jordison signature snare, usually 13\" or 14\" ×"
+        }
+      }
+    },
+    {
+      "q": "what cymbals does joey jordison use",
+      "intent": "long-tail-informational",
+      "target_entity": "drummer:joey-jordison",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/joey-jordison/"
+          ],
+          "allCitations": [
+            "https://www.paiste.com/en/musicians/joey-jordison",
+            "https://equipboard.com/pros/joey-jordison?gear=cymbals",
+            "https://www.musicradar.com/news/joey-jordison-slipknot-interview",
+            "https://www.musicradar.com/news/joey-jordison-i-honestly-would-not-change-a-fing-thing-im-happy-where-im-at",
+            "https://www.youtube.com/watch?v=9LH6m5sBeMQ",
+            "https://www.musicradar.com/news/joey-jordison-metal-drummer-death-tribute",
+            "https://en.wikipedia.org/wiki/Joey_Jordison",
+            "https://drummagazine.com/joey-jordison/",
+            "https://equipboard.com/pros/joey-jordison",
+            "https://www.youtube.com/watch?v=rtT1MrRlAoE&list=PLPSOX00TLs7-qmqFF3X8-CewdMmig-D2a&index=85"
+          ],
+          "bodyExcerpt": "Joey Jordison primarily used **Paiste cymbals**, often in black **Color Sound** finishes. His setups varied by era, but commonly included:\n\n- **14\" 2002 Wild Hats** or **14\" Signature hi-hats**\n- **13\" Signature Heavy Hi-Hats** or Signature hats\n- **6\", 8\", and 10\" Signature splashes**\n- **16\"–19\" 2002 Power Crashes**\n- **17\" and 18\" RUDE Crash/Rides**\n- **20\" 2002 Power Ride**—some setups also us"
+        }
+      }
+    },
+    {
+      "q": "lars ulrich drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:lars-ulrich",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/consequence-news/2024/11/metallica-lars-ulrich-40th-anniversary-tama-drum-kit/",
+            "https://www.moderndrummer.com/article/tama-lars-ulrich-signature-kit/"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Lars_Ulrich",
+            "https://www.moderndrummer.com/consequence-news/2024/11/metallica-lars-ulrich-40th-anniversary-tama-drum-kit/",
+            "https://www.bestbuy.com/product/axe-heaven-lars-ulrich-lars-ulrich-metallica-tama-magnetic-orange-14-scale-miniature-drum-kit-collectible-collectibles-multicolor/JXLLP5VFHY/sku/11371737",
+            "https://equipboard.com/pros/lars-ulrich",
+            "https://www.moderndrummer.com/article/tama-lars-ulrich-signature-kit/",
+            "https://mixdownmag.com.au/features/rig-rundown-lars-ulrich-of-metallica/",
+            "https://www.bestbuy.com/product/axe-heaven-lars-ulrich-lars-ulrich-metallica-tama-magnetic-orange-14-scale-miniature-drum-kit-collectible-collectibles-multicolor/JXLLP5VFHY",
+            "https://www.encyclopedia-metallica.com/equipment/larseq.shtml",
+            "https://www.bestbuy.com/product/axe-heaven-lars-ulrich-lars-ulrich-metallica-tama-magnetic-orange-14-scale-miniature-drum-kit-collectible-collectibles-multicolor/JXLLP5VFHY/sku/12816560",
+            "https://www.metmuseum.org/art/collection/search/752792"
+          ],
+          "bodyExcerpt": "Lars Ulrich currently plays a **Tama Starclassic Maple** kit with this core configuration:\n\n- Two \\(22 \\times 16\\) in. bass drums\n- \\(10 \\times 8\\) in. and \\(12 \\times 10\\) in. rack toms\n- Two \\(16\\)-in. floor toms\n- Tama LU1465 \\(14 \\times 6.5\\) in. steel signature snare\n- Zildjian cymbals\n- Remo drumheads\n- Ahead drumsticks[1][2]\n\nHis **M72 World Tour** kit has a bright yellow finish with black "
+        }
+      }
+    },
+    {
+      "q": "lars ulrich cymbals",
+      "intent": "long-tail-informational",
+      "target_entity": "drummer:lars-ulrich",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/lars-ulrich-hardwired-for-the-long-game/"
+          ],
+          "allCitations": [
+            "https://equipboard.com/pros/lars-ulrich",
+            "https://en.wikipedia.org/wiki/Lars_Ulrich",
+            "https://www.gear4music.com/blog/lars-ulrichs-drum-sets/",
+            "https://metallica.fandom.com/wiki/Lars_Ulrich",
+            "https://www.youtube.com/watch?v=bFAuc4lixLg",
+            "https://equipboard.com/albums/metallica-load-remastered",
+            "https://www.reddit.com/r/drums/comments/1r11ubv/lars_ulrichs_current_zildjian_cymbals/",
+            "https://www.youtube.com/watch?v=rjxc6Mttl3o",
+            "https://drummagazine.com/lars-ulrich-hardwired-for-the-long-game/",
+            "https://www.encyclopedia-metallica.com/equipment/larseq.shtml"
+          ],
+          "bodyExcerpt": "Lars Ulrich primarily uses **Zildjian cymbals**. His commonly reported setup includes:\n\n- **14-inch Z Custom Dyno Beat hi-hats**, often positioned on both sides of the kit[1][3]\n- **17-, 18-, and 19-inch A Custom Projection crashes**[4][7]\n- **18- and 20-inch Oriental China Trash cymbals**[2][4]\n- Occasionally **A Rock crashes** in 16-, 17-, and 18-inch sizes, depending on the era and setup[3]\n- H"
+        }
+      }
+    },
+    {
+      "q": "dave lombardo drum setup",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:dave-lombardo",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/2009/07/dave-lombardo-3/"
+          ],
+          "allCitations": [
+            "https://www.tama.com/usa/artists/detail/1044.html",
+            "https://www.paiste.com/en/musicians/dave-lombardo",
+            "https://www.accordo.it/article/viewPub/79251",
+            "https://www.therockpit.net/2015/Dave-Lombardo-Interview-2015.php",
+            "https://www.drummers-gear.com/dave-lombardo-drum-kit/",
+            "https://www.tama.com/eu/artists/detail/1044.html",
+            "https://www.youtube.com/watch?v=oXuA0giEoGc&xstg=CAMSBhUDze3xHw==",
+            "https://www.therockpit.net/2015/interview-dave-lombardo-philm/",
+            "https://equipboard.com/pros/dave-lombardo",
+            "https://www.moderndrummer.com/2009/07/dave-lombardo-3/"
+          ],
+          "bodyExcerpt": "Dave Lombardo uses several configurations depending on the band, but his well-known modern Tama setup is:\n\n- **Drums:** Tama Starclassic Bubinga, custom red burst\n- **Bass drum:** 24″ × 18″\n- **Snare:** 14″ × 5.5″ hammered-bronze snare\n- **Rack toms:** 10″ × 8″, 12″ × 9″, 13″ × 10″, and 14″ × 11″\n- **Floor tom:** 18″ × 16″\n- **Pedals:** Tama Iron Cobra Power Glide bass-drum pedals\n- **Hi-hat stand"
+        }
+      }
+    },
+    {
+      "q": "gene hoglan drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:gene-hoglan",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drumeo.com/beat/gene-hoglans-drum-kit/",
+            "https://www.moderndrummer.com/2017/05/gene-hoglan-auctions-studiotouring-drumkit-charity/",
+            "https://blabbermouth.net/news/gene-hoglan-ive-always-tried-to-bring-new-concepts-to-drumming",
+            "https://blabbermouth.net/news/strapping-young-lad-drummer-hoglan-the-genius-that-is-devin-townsend"
+          ],
+          "allCitations": [
+            "https://www.drumeo.com/beat/gene-hoglans-drum-kit/",
+            "https://www.daddario.com/pages/artists/gene-hoglan",
+            "https://en.wikipedia.org/wiki/Gene_Hoglan",
+            "https://www.moderndrummer.com/2017/05/gene-hoglan-auctions-studiotouring-drumkit-charity/",
+            "https://www.youtube.com/watch?v=FfltstvZ8E0",
+            "https://blabbermouth.net/news/gene-hoglan-ive-always-tried-to-bring-new-concepts-to-drumming",
+            "https://blabbermouth.net/news/strapping-young-lad-drummer-hoglan-the-genius-that-is-devin-townsend",
+            "https://pearldrum.com/en/artist/gene-hoglan?pearl=de",
+            "https://www.youtube.com/watch?v=gve4FTIz-10",
+            "https://www.youtube.com/watch?v=qMZDiAW0KS8"
+          ],
+          "bodyExcerpt": "Gene Hoglan’s current setup is generally a **Pearl Reference seven-piece kit** with two bass drums, three rack toms, one floor tom, and a 14×8 snare.[1][5]\n\n- **Bass drums:** 2 × 24×16\n- **Toms:** 10×9, 12×10, 14×11, and 18×16 floor tom\n- **Snare:** 14×8 Pearl snare\n- **Cymbals:** Sabian, including 15-inch AAX hi-hats, HH Power Bell rides, crashes, and Chinese cymbals[1][3]\n- **Drumheads:** Evans "
+        }
+      }
+    },
+    {
+      "q": "george kollias drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:george-kollias",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/2014/03/niles-george-kollias-conduct-drum-camp-los-angeles/"
+          ],
+          "allCitations": [
+            "https://www.georgekollias.com/setup/",
+            "https://www.georgekollias.com/",
+            "https://zildjian.com/blogs/artist/george-kollias",
+            "https://equipboard.com/pros/george-kollias",
+            "https://whatsthescene.com/interview/interview-with-george-kollias-nile/",
+            "https://drumfaster.com/drummers/george-kollias/",
+            "https://drumfaster.com/rigs/george-kollias/",
+            "https://www.youtube.com/watch?v=gdwWPMhoXO8",
+            "https://drummerszone.com/artists/george-kollias/6436/profile/",
+            "https://www.moderndrummer.com/2014/03/niles-george-kollias-conduct-drum-camp-los-angeles/"
+          ],
+          "bodyExcerpt": "George Kollias currently uses a large **Pearl Masterworks metal kit** in piano black with gold hardware. The main setup includes:[1]\n\n- **Bass drums:** 22\" × 18\" and 16\" × 14\"\n- **Rack toms:** 8\" × 7\", 10\" × 8\", 12\" × 9\", 13\" × 10\", and 14\" × 12\"\n- **Floor toms:** 14\" × 14\" and 16\" × 16\"\n- **Snares:** 14\" × 6.5\" Nile-graphics snare and 12\" × 5\" snare\n- **Cymbals:** Zildjian, including K, A Custom,"
+        }
+      }
+    },
+    {
+      "q": "tomas haake drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:tomas-haake",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/tomas-haake-meshuggahs-djentle-giant/",
+            "https://drummagazine.com/tomas-haake-meshuggah-goes-it-alone/"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Tomas_Haake",
+            "https://drumfaster.com/rigs/tomas-haake/",
+            "https://drumfaster.com/drummers/tomas-haake/",
+            "https://www.ableton.com/en/packs/bully-kit/",
+            "https://drummagazine.com/tomas-haake-meshuggahs-djentle-giant/",
+            "https://www.toontrack.com/product/the-metal-foundry-sdx/",
+            "https://www.toontrack.com/product/metalheads-ezx/",
+            "https://drummagazine.com/tomas-haake-meshuggah-goes-it-alone/",
+            "https://equipboard.com/pros/tomas-haake",
+            "https://www.altomusic.com/products/toontrack-tt123-the-metal-foundry-sdx-c01"
+          ],
+          "bodyExcerpt": "Tomas Haake primarily uses a **Sonor SQ2** kit, commonly configured with:\n\n- **Bass drums:** Two 22″ × 18″ Sonor SQ2 kicks\n- **Toms:** 12″ × 11″ and 14″ × 14″ rack toms; 15″ × 15″ and 18″ × 18″ floor toms\n- **Snare:** 14″ × 6″ Sonor Artist Bronze snare\n- **Cymbals:** Sabian HHX and AAXtreme models, including crashes, Chinese cymbals, hats, and a 22″ Legacy Ride used as a crash\n- **Heads:** Remo\n- "
+        }
+      }
+    },
+    {
+      "q": "danny carey drum setup",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:danny-carey",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drumeo.com/beat/danny-carey-genius/",
+            "https://drummagazine.com/tool-drummer/",
+            "https://www.moderndrummer.com/drum-videos/danny-carey-tool-tour-kit-rundown/"
+          ],
+          "allCitations": [
+            "https://drumfaster.com/rigs/danny-carey/",
+            "https://www.drumeo.com/beat/danny-carey-genius/",
+            "https://drummagazine.com/tool-drummer/",
+            "https://drumspy.com/danny-carey-drum-set-gear/",
+            "https://www.moderndrummer.com/drum-videos/danny-carey-tool-tour-kit-rundown/",
+            "https://www.musicradar.com/news/tool-danny-carey-drum-kit-tour-joe-slaby",
+            "https://www.youtube.com/watch?v=Es_KF954wHY",
+            "https://equipboard.com/pros/danny-carey",
+            "https://drumfaster.com/drummers/danny-carey/",
+            "https://www.youtube.com/watch?v=DsxZjzBi4ww"
+          ],
+          "bodyExcerpt": "Danny Carey’s Tool setup is a large **Sonor SQ2 kit** with Paiste cymbals and extensive electronic percussion.\n\n- **Bass drums:** 20×24″ and 19×22″ SQ2 kicks  \n- **Toms:** 8×8″, 10×10″, 12×12″ rack toms; 14×16″ and 16×18″ floor toms  \n- **Gong drum:** 15×22″  \n- **Snares:** primarily 14×8″ bronze Sonor snares, plus wood and purple-bronze alternatives[2][3][5]\n- **Cymbals:** Paiste models including"
+        }
+      }
+    },
+    {
+      "q": "mike portnoy drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:mike-portnoy",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/mike-portnoy-kit-tour/",
+            "https://www.moderndrummer.com/drum-videos/mike-portnoy-tour-kit-rundown-2023/",
+            "https://www.drumeo.com/beat/gear-breakdown-max-portnoy-learns/",
+            "https://drummagazine.com/evolution-of-mike-portnoys-drum-kit/"
+          ],
+          "allCitations": [
+            "https://drummagazine.com/mike-portnoy-kit-tour/",
+            "https://www.lewitt-audio.com/blog/home-studio-legendary-drummer-mike-portnoy",
+            "https://www.loudersound.com/features/video-mike-portnoy-thrashes-metal-classics-on-a-tiny-pokemon-drum-kit",
+            "https://www.tama.com/usa/artists/detail/152.html",
+            "https://equipboard.com/pros/mike-portnoy",
+            "https://www.moderndrummer.com/drum-videos/mike-portnoy-tour-kit-rundown-2023/",
+            "https://www.musicradar.com/news/drums/mike-portnoys-2012-drum-setup-in-pictures-540891",
+            "https://www.drumeo.com/beat/gear-breakdown-max-portnoy-learns/",
+            "https://drummagazine.com/evolution-of-mike-portnoys-drum-kit/",
+            "https://www.youtube.com/watch?v=MlDMADh8TRM"
+          ],
+          "bodyExcerpt": "Mike Portnoy primarily plays **Tama Starclassic** drum kits with **Sabian cymbals**, though his setup changes by band and era.\n\nA representative large setup includes:\n\n- **Two 22″ × 18″ bass drums**\n- **8″, 10″, and 12″ rack toms**\n- **16″ and 18″ floor toms**\n- **20″ × 14″ gong bass drum**\n- **14″ × 5.5″ Melody Master signature snare**\n- **12″ × 5″ secondary Melody Master snare**\n- **Four octoban"
+        }
+      }
+    },
+    {
+      "q": "what drums did lars ulrich use on master of puppets",
+      "intent": "album-specific",
+      "target_entity": "article:master-of-puppets-drum-setup",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/llms/articles/master-of-puppets-drum-setup.md"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://equipboard.com/albums/metallica-master-of-puppets-remastered",
+            "https://au.rollingstone.com/music/music-news/metallica-talk-30-years-of-master-of-puppets-we-were-just-kids-1030/",
+            "https://metalforge.io/llms/articles/master-of-puppets-drum-setup.md",
+            "https://www.altomusic.com/blogs/news/blast-from-the-past-40-years-of-master-of-puppets",
+            "https://en.faceoffrockshow.com/post/lars-ulrich-1",
+            "https://www.youtube.com/watch?v=SCO8K1Du3o4",
+            "https://en.wikipedia.org/wiki/Master_of_Puppets",
+            "https://www.metallica.com/releases/albums/master-of-puppets-album.html",
+            "https://equipboard.com/pros/lars-ulrich?gear=snare-drums",
+            "https://musicbrainz.org/release/74b76679-bb33-4fe7-9662-13f7e95da457"
+          ],
+          "bodyExcerpt": "Lars Ulrich used a **Tama drum kit**, generally identified as a **Tama Artstar II**, when recording *Master of Puppets*. The kit included a bass drum, rack toms, and floor toms, with Zildjian cymbals. [3][4]\n\nThe album’s distinctive snare sound came from a **Ludwig Black Beauty** snare borrowed from Def Leppard drummer Rick Allen—not Ulrich’s usual Tama snare. [1][2][7]"
+        }
+      }
+    },
+    {
+      "q": "what drums did dave lombardo use on reign in blood",
+      "intent": "album-specific",
+      "target_entity": "article:reign-in-blood-drum-setup",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/llms/articles/reign-in-blood-drum-setup.md",
+            "https://metalforge.io/articles/reign-in-blood-drum-setup"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://mixdownmag.com.au/features/gear-rundown-slayers-reign-in-blood/",
+            "https://metalforge.io/llms/articles/reign-in-blood-drum-setup.md",
+            "https://www.loudersound.com/music/albums/slayer-reign-in-blood-facts",
+            "https://metalforge.io/articles/reign-in-blood-drum-setup",
+            "https://drummerszone.com/news/article/namm-2015-61-13116/dave-lombardo-about-his-paiste-rude-reign/",
+            "https://arrowlordsofmetal.nl/lombardo-reflects-on-making-raining-blood/",
+            "https://en.wikipedia.org/wiki/Reign_in_Blood",
+            "https://www.musicradar.com/news/dave-lombardo-paiste-cymbal-setup-testament",
+            "https://www.musicradar.com/news/drums/namm-2015-drum-gear-of-the-stars-615193",
+            "https://drumscore.com/sheet-music/browse-by-artist/category/4103-slayer"
+          ],
+          "bodyExcerpt": "Dave Lombardo’s exact **studio kit on *Reign in Blood*** isn’t fully documented, but the commonly reported setup was:\n\n- **Pearl kit**, likely a Maxwin-era kit\n- **Two 22-inch bass drums**, rather than a double pedal\n- **10-inch and 12-inch rack toms**\n- **14-inch and 16-inch floor toms**\n- **Tama Superstar steel snare**, 14\" × 6.5\"\n- **Paiste cymbals**, including RUDE and 2002 models\n\nThe most id"
+        }
+      }
+    },
+    {
+      "q": "what drum kit on iowa album",
+      "intent": "album-specific",
+      "target_entity": "article:iowa-drum-setup",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/articles/iowa-anniversary"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://metalforge.io/articles/iowa-anniversary",
+            "https://industryme.co.uk/iowa-slipknots-stunning-savage-disasterpiece-25-year-anniversary/",
+            "https://www.youtube.com/watch?v=teMphRXYh4I",
+            "https://equipboard.com/albums/slipknot-iowa",
+            "https://equipboard.com/items/ocdp-joey-jordison-iowa-drum-kit",
+            "https://www.youtube.com/watch?v=_cabzV7-xhU",
+            "https://equipboard.com/items/orange-county-drum-percussion-pink-champagne-sparkle-drum-kit",
+            "https://equipboard.com/items/orange-county-drums-and-percussion-type-4-glowstick-green-acrylic",
+            "https://equipboard.com/pros/joey-jordison",
+            "https://www.reddit.com/r/Slipknot/comments/16pycgn/joey_jordison_disasterpiece_kit/"
+          ],
+          "bodyExcerpt": "Joey Jordison recorded Slipknot’s **Iowa** primarily with a **Gretsch maple kick drum** and an **OCDP (Orange County Drum & Percussion) 12×7-inch maple vented snare**. He used a double pedal, likely a Tama Iron Cobra, plus Paiste cymbals.[6]\n\nThe large black-and-chrome **OCDP “Iowa” kit** commonly associated with the era was mainly the touring/Disasterpieces setup, rather than necessarily the exac"
+        }
+      }
+    },
+    {
+      "q": "danny carey gear lateralus",
+      "intent": "album-specific",
+      "target_entity": "article:lateralus-drum-setup",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/articles/lateralus-drum-setup",
+            "https://metalforge.io/llms/evolution/danny-carey.md"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://metalforge.io/articles/lateralus-drum-setup",
+            "https://www.reddit.com/r/copypasta/comments/guqxxj/pitchforks_review_of_tools_lateralus/",
+            "https://www.changeyourstrings.com/bands/tool",
+            "https://metalforge.io/llms/evolution/danny-carey.md",
+            "https://www.changeyourstrings.com/drummers/danny-carey",
+            "https://www.instagram.com/p/DebjxMYkUcw/",
+            "https://energy.co.kr:455/news/a-look-at-danny-careys-time-in-the-band.html",
+            "https://www.reddit.com/r/ToolBand/comments/s4gepp/view_of_the_kit/",
+            "https://www.youtube.com/watch?v=e2xP8UNU7vE",
+            "https://www.musicradar.com/news/youtube-drummer-covers-tool-lateralus-full-album-drum-parts-in-one-take"
+          ],
+          "bodyExcerpt": "For the **Lateralus-era setup**, Danny Carey reportedly used:\n\n- **Drums:** Sonor Designer Series prototype kit, later associated with the SQ2 line; maple shells with reinforcement rings.[1]\n- **Bass drum:** 24×18-inch kick; other accounts describe a twin-kick setup, so exact studio/live configurations may differ.[1][2]\n- **Toms:** 8, 10, 12, and 13-inch rack toms, plus 14, 16, and 18-inch floor t"
+        }
+      }
+    },
+    {
+      "q": "fastest metal drummer",
+      "intent": "comparative",
+      "target_entity": "lists:fastest-metal-drummers",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://loudwire.com/10-stupidly-fast-drummers-in-metal/"
+          ],
+          "allCitations": [
+            "https://www.youtube.com/watch?v=bY0tCGP8va0",
+            "https://en.wikipedia.org/wiki/Dan_Prestup",
+            "https://www.reddit.com/r/InMetalWeTrust/comments/128iiw8/who_is_the_fastest_drummer_in_metal_music_history/",
+            "https://www.youtube.com/watch?v=aCgUjbYH1q0",
+            "https://97rockonline.com/tom-grosset-worlds-fastest-drummer-video/",
+            "https://www.youtube.com/watch?v=maRXwqA70Mc",
+            "https://loudwire.com/10-stupidly-fast-drummers-in-metal/",
+            "https://www.youtube.com/watch?v=2fxRh2FpUEI",
+            "https://www.reddit.com/r/Metal/comments/3ogt2p/what_is_the_fastest_metal_song_you_know/",
+            "https://www.youtube.com/watch?v=96IVPqGgmPc"
+          ],
+          "bodyExcerpt": "**George Kollias** of Nile is often regarded as the fastest metal drummer, especially for sustained extreme-metal double-bass and blast-beat playing at around 280 BPM.[8][10]\n\nIf measuring the **official fastest single-stroke record across all drumming**, the answer is **Tom Grosset**, who recorded 1,208 strokes in one minute in 2013.[1][5]"
+        }
+      }
+    },
+    {
+      "q": "best death metal drummer",
+      "intent": "comparative",
+      "target_entity": "lists:death-metal-drummers",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://loudwire.com/best-death-metal-drummers-the-black-dahlia-murder-alan-cassidy/",
+            "https://loudwire.com/best-doom-metal-drummers-crypt-sermon-enrique-sagarnaga/"
+          ],
+          "allCitations": [
+            "https://loudwire.com/best-death-metal-drummers-the-black-dahlia-murder-alan-cassidy/",
+            "https://www.loudersound.com/features/the-10-best-drummers-in-technical-death-metal",
+            "https://www.thetoptens.com/metal/best-death-metal-drummers/",
+            "https://www.gear4music.com/blog/best-metal-drummers/",
+            "https://www.reddit.com/r/Deathmetal/comments/5i665q/best_death_metal_drummers/",
+            "http://www.youtube.com/watch?v=oGpGoRG3_Is",
+            "https://www.reddit.com/r/Deathcore/comments/t96dwc/best_drummers_in_death_metal/",
+            "https://loudwire.com/best-doom-metal-drummers-crypt-sermon-enrique-sagarnaga/",
+            "https://www.musicianwages.com/best-metal-drummers-of-all-time/",
+            "https://www.ocweekly.com/the-10-best-metal-drummers-6605211/"
+          ],
+          "bodyExcerpt": "**George Kollias of Nile** is the strongest single answer: he combines extreme speed, highly precise blast beats, powerful double-bass technique, and musical control. He is also widely recognized for his instructional work and technical skill.[1][3]\n\nOther top contenders, depending on taste:\n\n- **Flo Mounier** — Cryptopsy; chaotic, technical, and hugely influential.\n- **Derek Roddy** — Hate Eterna"
+        }
+      }
+    },
+    {
+      "q": "most innovative metal drummers",
+      "intent": "comparative",
+      "target_entity": "lists:most-innovative-drummers",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://blabbermouth.net/news/joey-jordison-metallicas-lars-ulrich-is-probably-one-of-the-best-and-most-innovative-drummers-ever"
+          ],
+          "allCitations": [
+            "https://blabbermouth.net/news/joey-jordison-metallicas-lars-ulrich-is-probably-one-of-the-best-and-most-innovative-drummers-ever",
+            "https://loadedradio.com/best-metal-drummers/",
+            "https://metalinjection.net/lists/5-insane-death-metal-drummers",
+            "https://www.classical-music.com/rock/best-rock-drummers",
+            "https://www.thetoptens.com/metal/best-metal-drummers/",
+            "https://www.ranker.com/list/the-best-drummers-of-all-time/music-lover",
+            "https://www.reddit.com/r/drums/comments/1ebbgjs/who_are_the_most_creative_drummers_who_didnt/",
+            "https://www.thomannmusic.com/blog/inspire/top-10-drummers-to-follow/",
+            "https://www.reddit.com/r/progmetal/comments/1p1280/opinions_on_the_best_prog_metalrock_drummers/",
+            "https://www.reddit.com/r/TechnicalDeathMetal/comments/1kxhw4p/who_has_the_weirdestmost_creative_drums_in/"
+          ],
+          "bodyExcerpt": "The **most innovative metal drummers**—judged by originality, influence, rhythmic invention, and how much they expanded the genre—include:\n\n- **Tomas Haake — Meshuggah:** Pioneered layered polyrhythms, with complex foot patterns against seemingly steady hand rhythms; foundational to djent.[2][5]\n- **Danny Carey — Tool:** Combines progressive-metal precision with tribal, jazz, and electronic-influe"
+        }
+      }
+    },
+    {
+      "q": "how fast does george kollias play",
+      "intent": "fact-lookup",
+      "target_entity": "drummer:george-kollias",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.youtube.com/watch?v=fIFXuctOQfM",
+            "https://www.reddit.com/r/drums/comments/xlqkm/fast_wow_george_kollias/",
+            "https://www.reddit.com/r/Metal/comments/4rfi1o/george_kollias_is_truly_one_of_the_best_death/",
+            "https://en.wikipedia.org/wiki/George_Kollias_(drummer)",
+            "https://en.beatit.tv/drum-fest-2017-george-kollias-interview/",
+            "https://www.loudersound.com/news/nile-drummer-george-kollias-unleashes-a-devastating-new-solo-track",
+            "http://mikedolbear.com/interviews/george-kollias/",
+            "https://www.youtube.com/watch?v=6_q36wrXHmg",
+            "http://www.youtube.com/watch?v=oGpGoRG3_Is",
+            "https://www.youtube.com/watch?v=Uho510OGu7I"
+          ],
+          "bodyExcerpt": "George Kollias can play **single-foot blast beats around 280–290 BPM**, an exceptional speed for extreme-metal drumming.[1][2] He has described **240 BPM as comfortable** and frequently plays songs in the **260 BPM range**.[3][4]\n\nThe exact note rate depends on the subdivision: 16th notes at 280 BPM produce **about 18.7 hits per second** with one foot. His technique is especially notable because h"
+        }
+      }
+    },
+    {
+      "q": "how to play double bass like joey jordison",
+      "intent": "how-to",
+      "target_entity": "technique:double-bass",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/joey-jordison-slipknots-speed-demon/",
+            "https://www.drumeo.com/beat/5-things-every-drummer-can-learn-from-joey-jordison/",
+            "https://www.drumeo.com/beat/the-5-most-iconic-double-bass-grooves/",
+            "https://drummagazine.com/joey-jordison/"
+          ],
+          "allCitations": [
+            "https://www.youtube.com/watch?v=CBbmxjryuio",
+            "https://www.electronicdrumadvisor.com/how-to-drum-like-joey-jordison/",
+            "https://www.reddit.com/r/drums/comments/tcns2d/how_to_play_like_joey_jordison_of_slipknot/",
+            "https://freedrumlessons.com/articles/double-bass-drumming.php",
+            "https://drummagazine.com/joey-jordison-slipknots-speed-demon/",
+            "https://www.drumeo.com/beat/5-things-every-drummer-can-learn-from-joey-jordison/",
+            "https://www.drumeo.com/beat/the-5-most-iconic-double-bass-grooves/",
+            "https://drummagazine.com/joey-jordison/",
+            "https://www.youtube.com/watch?v=7OL56NoXxMk&vl=fr",
+            "https://www.youtube.com/watch?v=xPoR4vBZ4OY"
+          ],
+          "bodyExcerpt": "To play double bass in the style of **Joey Jordison**, prioritize relaxed speed, precise alternating strokes, aggressive dynamics, and musical placement—not speed alone. Jordison emphasized starting slowly, building gradually, and using double bass as a musical dynamic rather than constant flash.[5][6]\n\n## Technique\n\n- **Start heel-up:** Keep your heels elevated and use controlled ankle motion. Jo"
+        }
+      }
+    },
+    {
+      "q": "blast beat technique metal drummers",
+      "intent": "how-to",
+      "target_entity": "technique:blast-beat",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/11-blastbeats-to-master-improve-your-technique-with-this-extreme-chops-challenge/",
+            "https://www.drummerworld.com/articles/news/drumming-techniques-explained/"
+          ],
+          "allCitations": [
+            "https://drumbeatsonline.com/blog/how-to-play-a-blast-beat-the-extreme-metal-technique-every-drummer-should-know",
+            "https://drummagazine.com/11-blastbeats-to-master-improve-your-technique-with-this-extreme-chops-challenge/",
+            "https://drumbeatsonline.com/blog/metal-drum-beats-essential-patterns-every-drummer-should-know",
+            "https://lamniformes.substack.com/p/21326",
+            "http://www.furious.com/perfect/heavymetaldrumblasts.html",
+            "https://www.youtube.com/watch?v=_hzyXFlMDQQ",
+            "https://www.drummerworld.com/articles/news/drumming-techniques-explained/",
+            "https://note.com/guitar_drum_repo/n/nb431a346ca09?hl=en",
+            "https://freedrumlessons.com/drum-lessons/heavy-metal-drumming.php",
+            "https://www.scribd.com/document/454201782/kollias-Intense-Metal-Drums-pdf"
+          ],
+          "bodyExcerpt": "A **blast beat** is a high-speed metal pattern that coordinates rapid strokes between the kick drum, snare, and cymbal, creating a continuous “wall of sound.”[1][3]\n\n## Core techniques\n\n- **Traditional/Euro blast:** Alternate kick and snare—typically kick on one subdivision, snare on the next—while the cymbal hand plays steady subdivisions.[1][2]\n- **Hammer/unison blast:** Strike the snare and cym"
+        }
+      }
+    },
+    {
+      "q": "what is a blast beat",
+      "intent": "fact-lookup",
+      "target_entity": "technique:blast-beat",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Blast_beat",
+            "https://drumbeatsonline.com/blog/how-to-play-a-blast-beat-the-extreme-metal-technique-every-drummer-should-know",
+            "https://www.ubisoft.com/en-au/game/rocksmith/plus/news-updates/6sjLIE1Fp55vU9RE7L04F6/bloodbaths-fathomless-mastery-of-blast-beats",
+            "https://en.wiktionary.org/wiki/blast_beat",
+            "https://metaldevastationradio.com/thebeast/blog/8276/benante-pioneered-blast-beat",
+            "https://www.youtube.com/watch?v=LOrPt3nTPwk",
+            "https://www.ultimate-guitar.com/forum/showthread.php?t=454405",
+            "https://www.heavyblogisheavy.com/2015/12/08/with-the-force-of-a-thousand-suns-the-enduring-appeal-of-the-blast-beat/",
+            "https://www.youtube.com/watch?v=K9E0ffzv74o",
+            "https://www.youtube.com/watch?v=vtw62gxiQRM"
+          ],
+          "bodyExcerpt": "A **blast beat** is an extremely fast drum pattern used especially in grindcore, death metal, and black metal. It typically alternates rapid strokes between the **bass drum and snare**, while the drummer plays matching hits on a ride, crash, or hi-hat cymbal, creating a relentless “machine-gun” sound.[1][2]\n\nIt’s less a single fixed rhythm than a family of related patterns, including traditional, "
+        }
+      }
+    },
+    {
+      "q": "types of blast beats",
+      "intent": "fact-lookup",
+      "target_entity": "technique:blast-beat",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drumeo.com/beat/a-drummers-guide-to-metal/"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Blast_beat",
+            "https://www.drumming.com/drum-lesson/blast-beats-the-extreme-art-of-drumset-speed",
+            "https://www.youtube.com/watch?v=r-4xnnG4xzA",
+            "http://www.furious.com/perfect/heavymetaldrumblasts.html",
+            "https://www.drumeo.com/beat/a-drummers-guide-to-metal/",
+            "https://www.youtube.com/watch?v=vE_DgKyy_88",
+            "https://www.youtube.com/watch?v=KxeoGX5f3ig",
+            "https://www.youtube.com/watch?v=8KinlGUH4bk",
+            "https://www.youtube.com/watch?v=cX6xUQEc6wU",
+            "https://www.youtube.com/watch?v=js0AGmB8Z4E"
+          ],
+          "bodyExcerpt": "The **four main types of blast beats** are:\n\n- **Traditional blast** — Alternates snare and bass drum while the cymbal commonly plays alongside the snare. Also called the *Euro blast* or *fast polka*.[1][4]\n- **Bomb blast** — Uses continuous or near-continuous double-bass beneath snare and cymbal attacks, producing a dense, explosive sound.[1][5]\n- **Hammer blast** — Snare and bass drum strike tog"
+        }
+      }
+    },
+    {
+      "q": "what is a gravity blast",
+      "intent": "fact-lookup",
+      "target_entity": "technique:gravity-blast",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://drumbeatsonline.com/blog/how-to-play-a-blast-beat-the-extreme-metal-technique-every-drummer-should-know",
+            "https://www.youtube.com/watch?v=dodxK4dg4Pk",
+            "https://note.com/guitar_drum_repo/n/nb431a346ca09?hl=en",
+            "https://www.youtube.com/watch?v=HchxmhJFW9Y",
+            "https://playgama.com/game/gravity-blast",
+            "https://game8.co/games/Xenoblade-Chronicles-X/archives/506111",
+            "https://www.youtube.com/watch?v=X-RZP5aFmik",
+            "https://www.youtube.com/watch?v=UVKOU3mmlJc",
+            "https://www.youtube.com/watch?v=UrB6qV9s5kg",
+            "http://www.furious.com/perfect/heavymetaldrumblasts.html"
+          ],
+          "bodyExcerpt": "A **gravity blast** is an extreme-metal drumming technique—also called a **freehand roll**—that lets one hand produce two snare hits per arm movement. The drummer rests the stick against the snare rim, using the rim as a pivot: one stroke occurs on the way down and another as the stick rebounds on the way up.[1][3]\n\nDespite its name, it does not depend solely on gravity; the technique primarily us"
+        }
+      }
+    },
+    {
+      "q": "metalforge",
+      "intent": "brand",
+      "target_entity": "site:home",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://metalforge.us/",
+            "https://github.com/letbakty/MetalForge",
+            "https://play.google.com/store/apps/details?id=com.syntheticfaction.metalforge",
+            "https://metalforge.io/",
+            "https://metalforge.xyz/help",
+            "https://webpo.space/best-app-gallery/metalforge",
+            "https://github.com/sue1231511/skills-repository/blob/main/design-tools/metalforge.md",
+            "https://metalforge.xyz/",
+            "https://metalforge.xyz/pricing",
+            "https://metalforge.xyz/privacy"
+          ],
+          "bodyExcerpt": "“MetalForge” refers to several products and projects:\n\n- **Shader editor:** A browser-based tool for generating visual shaders and animations for SwiftUI, React Native, and the web.[8]\n- **GPU video-processing library:** A Swift package for real-time Metal and AVFoundation video processing on Apple platforms.[2]\n- **Metal music app:** An AI prompt, lyric, and album-art generator for artists using "
+        }
+      }
+    },
+    {
+      "q": "metalforge drummer database",
+      "intent": "brand",
+      "target_entity": "site:home",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://www.metalforge.io/drummers",
+            "https://www.metalforge.io/",
+            "https://metalforge.io/facts",
+            "https://metalforge.io/songs",
+            "https://metalforge.io/drummer/frost",
+            "https://metalforge.io/drummers/scott-travis/licks/scott-travis-breaking-the-law",
+            "https://metalforge.io/drummer/daray",
+            "https://metalforge.io/drummer/john-otto",
+            "https://metalforge.io/llms.txt",
+            "https://metalforge.io/drummer/sean-reinert"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.metalforge.io/drummers",
+            "https://www.metalforge.io/",
+            "https://metalforge.io/facts",
+            "https://metalforge.io/songs",
+            "https://metalforge.io/drummer/frost",
+            "https://metalforge.io/drummers/scott-travis/licks/scott-travis-breaking-the-law",
+            "https://metalforge.io/drummer/daray",
+            "https://metalforge.io/drummer/john-otto",
+            "https://metalforge.io/llms.txt",
+            "https://metalforge.io/drummer/sean-reinert"
+          ],
+          "bodyExcerpt": "MetalForge is a database of professional metal drummers and their equipment, including drum kits, cymbals, pedals, hardware, sticks, biographies, and playing techniques. It lists more than 70 drummer profiles, including Lars Ulrich, Dave Lombardo, Joey Jordison, George Kollias, Frost, and Sean Reinert.[1][2]\n\nIt also includes:\n\n- Drummer profiles organized by band, genre, country, and brand[1]\n- A"
+        }
+      }
+    },
+    {
+      "q": "metal drummer gear database",
+      "intent": "category",
+      "target_entity": "site:home",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://www.metalforge.io/",
+            "https://www.metalforge.io/drummers",
+            "https://metalforge.io/llms.txt",
+            "https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-lippincott-polyrhythm",
+            "https://metalforge.io/drummers/scott-travis/licks/scott-travis-breaking-the-law",
+            "https://metalforge.io/gear-finder",
+            "https://metalforge.io/llms-full.txt"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.metalforge.io/",
+            "https://www.metalforge.io/drummers",
+            "https://metalforge.io/llms.txt",
+            "https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-lippincott-polyrhythm",
+            "https://www.changeyourstrings.com/drummers",
+            "https://metalforge.io/drummers/scott-travis/licks/scott-travis-breaking-the-law",
+            "https://metalforge.io/gear-finder",
+            "https://drumfaster.com/rigs/",
+            "https://drumfaster.com/gear/item/",
+            "https://metalforge.io/llms-full.txt"
+          ],
+          "bodyExcerpt": "MetalForge is a dedicated **metal drummer gear database** covering professional drummers’ kits, snares, cymbals, pedals, hardware, and sticks. It includes profiles for players such as Lars Ulrich, Joey Jordison, Dave Lombardo, George Kollias, and dozens more.[1][2]\n\nUseful sections include:\n\n- **Drummer profiles:** complete setups organized by artist.[2]\n- **Gear Finder:** filter equipment by bran"
+        }
+      }
+    },
+    {
+      "q": "joey jordison vs gene hoglan",
+      "intent": "comparative",
+      "target_entity": "vs:joey-jordison-vs-gene-hoglan",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://metalinjection.net/news/the-10-metal-drummers-that-are-almost-impossible-to-replicate",
+            "https://www.thetoptens.com/metal/best-metal-drummers/",
+            "https://www.thetoptens.com/metal/best-death-metal-drummers/",
+            "http://www.youtube.com/watch?v=maRXwqA70Mc",
+            "https://www.musicindustryhowto.com/metal-drummers/",
+            "https://www.yahoo.com/entertainment/consequence-drummer-survey-62-drummers-130014301.html",
+            "https://www.loudersound.com/features/a-bunch-of-top-metal-drummers-interview-metal-drumming-legend-gene-hoglan",
+            "http://www.metalunderground.com/news/details.cfm?newsid=58162",
+            "https://www.reddit.com/r/MetalForTheMasses/comments/1i0vrri/who_are_the_best_metal_drummers/",
+            "https://www.loudersound.com/features/who-has-replaced-joey-jordison"
+          ],
+          "bodyExcerpt": "**Gene Hoglan wins on technical depth; Joey Jordison wins on impact, aggression, and showmanship.**\n\n| Category | Edge | Why |\n|---|---|---|\n| Speed and precision | **Gene Hoglan** | His “Atomic Clock” reputation comes from exceptionally consistent timing, complex double-kick patterns, and controlled execution.[1][7] |\n| Creativity and arrangements | **Gene Hoglan** | Hoglan frequently builds intr"
+        }
+      }
+    },
+    {
+      "q": "thrash metal drummers ranked",
+      "intent": "comparative",
+      "target_entity": "lists:thrash-metal-drummers",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drumeo.com/beat/ash-pearsons-top-50-metal-drummers/"
+          ],
+          "allCitations": [
+            "https://loadedradio.com/best-metal-drummers/",
+            "https://www.thetoptens.com/metal/best-metal-drummers/",
+            "https://www.ranker.com/list/the-best-drummers-of-all-time/music-lover",
+            "https://www.thetoptens.com/metal/best-thrash-drummers/",
+            "https://top40weekly.com/best-drummers-of-all-time/",
+            "https://www.drumeo.com/beat/ash-pearsons-top-50-metal-drummers/",
+            "https://www.thetoptens.com/music/drummers/",
+            "https://www.reddit.com/r/thrashmetal/comments/1fsg1ba/drumming_recommendations_in_the_genre/",
+            "https://www.reddit.com/r/MetalForTheMasses/comments/1e9323x/whos_the_best_drummer_in_thrash_metal/",
+            "https://www.ocweekly.com/the-10-best-metal-drummers-6605211/"
+          ],
+          "bodyExcerpt": "A defensible ranking of the **greatest thrash-metal drummers**—balancing technique, influence, songwriting, consistency, and iconic recordings—is:\n\n1. **Dave Lombardo — Slayer**  \n   The benchmark for thrash intensity: explosive double-bass, extreme precision, and an enormous influence on death and extreme metal. *Reign in Blood* is the essential evidence.\n\n2. **Charlie Benante — Anthrax**  \n   Ex"
+        }
+      }
+    },
+    {
+      "q": "what pedals does george kollias use",
+      "intent": "long-tail-informational",
+      "target_entity": "drummer:george-kollias",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "http://www.youtube.com/watch?v=qBGJ4qf0AhE",
+            "https://drumfaster.com/drummers/george-kollias/",
+            "https://whatsthescene.com/interview/interview-with-george-kollias-nile/",
+            "https://www.youtube.com/watch?v=Uho510OGu7I",
+            "https://en.wikipedia.org/wiki/George_Kollias_(drummer)",
+            "https://www.drummingnewsnetwork.com/george-kollias-switches-from-axis-pedals-and-helps-to-develop-the-new-pearl-demon-xr-pedal/",
+            "https://www.youtube.com/watch?v=IswYSq7Q4yY",
+            "https://www.youtube.com/watch?v=URguu2Gp890",
+            "http://www.youtube.com/watch?v=1L8oiw_s0T8",
+            "https://www.youtube.com/watch?v=C5eqx76nLk8"
+          ],
+          "bodyExcerpt": "George Kollias has used two main pedal setups:\n\n- **Axis George Kollias Signature Edition pedals**—specifically the GK-1 single and GK-2 double pedals, available in silver or black. He used Axis pedals for many years. [2][3][9]\n- **Pearl Demon XR pedals**—his current signature model, developed with Pearl and based partly on the Demon Drive. The models are the **P-3500D single** and **P-3502D doubl"
+        }
+      }
+    },
+    {
+      "q": "who is the drummer of slipknot",
+      "intent": "fact-lookup",
+      "target_entity": "band:slipknot",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drumeo.com/beat/slipknots-new-drummer-eloy-casagrande/",
+            "https://loudwire.com/eloy-casagrande-finish-drums-slipknot-album/",
+            "https://blabbermouth.net/news/eloy-casagrande-says-slipknot-is-recording-a-lot-of-songs-for-upcoming-album-we-are-making-real-music"
+          ],
+          "allCitations": [
+            "https://www.nme.com/news/music/slipknot-have-confirmed-the-identity-of-their-new-drummer-3751953",
+            "https://bluntmag.com.au/music/slipknots-eloy-casagrande-finishes-drums-for-new-album/",
+            "https://popcrush.com/ixp/366/p/slipknot-eloy-casagrande-playing-like-joey-jordison/",
+            "https://en.wikipedia.org/wiki/List_of_Slipknot_band_members",
+            "https://www.loudersound.com/news/eloy-casagrande-finished-recording-slipknot-drums-2026",
+            "https://www.drumeo.com/beat/slipknots-new-drummer-eloy-casagrande/",
+            "https://loudwire.com/eloy-casagrande-finish-drums-slipknot-album/",
+            "https://en.wikipedia.org/wiki/Slipknot_(band)",
+            "https://blabbermouth.net/news/eloy-casagrande-says-slipknot-is-recording-a-lot-of-songs-for-upcoming-album-we-are-making-real-music",
+            "https://www.loudersound.com/news/slipknot-name-new-drummer-2024-eloy-casagrande"
+          ],
+          "bodyExcerpt": "Slipknot’s current drummer is **Eloy Casagrande**, who joined the band in 2024 after Jay Weinberg’s departure.[1]"
+        }
+      }
+    },
+    {
+      "q": "who is the drummer of tool",
+      "intent": "fact-lookup",
+      "target_entity": "band:tool",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drumeo.com/beat/the-8-tool-beats-every-drummer-should-know/"
+          ],
+          "allCitations": [
+            "https://www.changeyourstrings.com/drummers/danny-carey",
+            "https://www.classicrockhistory.com/complete-list-of-tool-band-members/",
+            "https://www.berklee.edu/news/berklee-now/tools-rhythm-section-goes-deep-their-origin-stories",
+            "https://www.drumeo.com/beat/the-8-tool-beats-every-drummer-should-know/",
+            "https://www.songfacts.com/facts/tool",
+            "https://www.clevescene.com/cleveland/speaking-in-advance-of-sundays-show-at-rocket-mortgage-fieldhouse-tool-drummer-hints-new-music-might-be-in-the-works/Content?oid=38545611",
+            "https://en.wikipedia.org/wiki/Danny_Carey",
+            "https://www.loudersound.com/features/how-tool-started",
+            "https://www.musictimes.com/articles/4797/20140314/music-times-celebrates-pi-day-mathematical-tool.htm",
+            "https://www.loudersound.com/features/tool-danny-carey-top-10-best-songs"
+          ],
+          "bodyExcerpt": "Tool’s drummer is **Danny Carey**. He has been the band’s drummer since its formation in 1990.[1][3]"
+        }
+      }
+    },
+    {
+      "q": "who is the drummer of gojira",
+      "intent": "fact-lookup",
+      "target_entity": "band:gojira",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://blabbermouth.net/news/gojira-plays-first-show-with-paleface-swiss-drummer-luigi-paraventi-video",
+            "https://loudwire.com/gojira-mario-duplantier-best-drummer-2017-loudwire-music-awards/"
+          ],
+          "allCitations": [
+            "https://www.imdb.com/name/nm1359633/bio/",
+            "https://www.imdb.com/name/nm1359633/",
+            "https://en.wikipedia.org/wiki/Mario_Duplantier",
+            "https://blabbermouth.net/news/gojira-plays-first-show-with-paleface-swiss-drummer-luigi-paraventi-video",
+            "https://www.musicradar.com/news/drums/gojiras-mario-duplantier-talks-magma-programmed-beats-and-chasing-lars-sound-638730",
+            "https://rollingstoneindia.com/gojira-its-a-challenge-to-deliver-a-perfect-show-night-after-night/",
+            "https://loudwire.com/gojira-mario-duplantier-best-drummer-2017-loudwire-music-awards/",
+            "https://www.loudersound.com/features/gojiras-mario-duplantier-10-drummers-who-changed-my-life",
+            "https://www.gamespot.com/articles/luigi-replaces-mario-due-to-immigration-issue/",
+            "https://www.metalsucks.net/2021/05/05/video-gojiras-mario-duplantier-play-drums-on-late-night-with-seth-meyers/"
+          ],
+          "bodyExcerpt": "Gojira’s drummer is **Mario Duplantier**, who is also the brother of vocalist and guitarist Joe Duplantier.[1]"
+        }
+      }
+    },
+    {
+      "q": "who is the drummer of mastodon",
+      "intent": "fact-lookup",
+      "target_entity": "band:mastodon",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://blabbermouth.net/news/mastodons-brann-dailor-brent-hinds-got-away-with-a-lot-of-things-that-other-people-wouldnt-be-able-to",
+            "https://blabbermouth.net/news/mastodons-brann-dailor-on-marrow-deep-its-the-right-record-for-us-at-this-point-in-time"
+          ],
+          "allCitations": [
+            "https://www.songfacts.com/facts/mastodon",
+            "https://www.classicrockhistory.com/complete-list-of-mastodon-band-members/",
+            "https://www.latimes.com/entertainment-arts/music/story/2026-10-12/ghost-of-brent-hinds-haunts-mastodons-emotional-hollywood-palladium-show",
+            "https://www.grammy.com/news/mastodon-brann-dailor-medium-rarities-interview/",
+            "https://www.loudersound.com/bands-artists/mastodon-marrow-deep-interview",
+            "https://blabbermouth.net/news/mastodons-brann-dailor-brent-hinds-got-away-with-a-lot-of-things-that-other-people-wouldnt-be-able-to",
+            "https://www.allmusic.com/artist/mastodon-mn0000382565",
+            "https://www.mercurynews.com/2026/10/10/review-mastodon-concert-tour-oakland-fox/",
+            "https://blabbermouth.net/news/mastodons-brann-dailor-on-marrow-deep-its-the-right-record-for-us-at-this-point-in-time",
+            "https://en.wikipedia.org/wiki/Brann_Dailor"
+          ],
+          "bodyExcerpt": "Mastodon’s drummer is **Brann Dailor**, who also shares vocal duties and has been with the band since its formation.[1][4]"
+        }
+      }
+    },
+    {
+      "q": "who is the drummer of pantera",
+      "intent": "fact-lookup",
+      "target_entity": "band:pantera",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://blabbermouth.net/news/panteras-charlie-benante-drum-kit-rundown-for-north-american-stadium-tour-with-metallica",
+            "https://loudwire.com/pantera-2022-first-show-back-charlie-benante-remarks/"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Vinnie_Paul",
+            "https://pantera.com/rest-in-peace-vinnie-paul-abbott/",
+            "https://www.denverpost.com/2018/06/24/vinnie-paul-pantera-drummer-dies/",
+            "https://www.avclub.com/r-i-p-pantera-drummer-vinnie-paul-1827076023",
+            "https://en.wikipedia.org/wiki/Pantera",
+            "https://blabbermouth.net/news/panteras-charlie-benante-drum-kit-rundown-for-north-american-stadium-tour-with-metallica",
+            "https://loudwire.com/pantera-2022-first-show-back-charlie-benante-remarks/",
+            "https://www.hotpress.com/music/tributes-pour-in-for-panteras-drummer-22641641",
+            "https://www.business-standard.com/article/news-ians/another-massive-loss-for-world-of-metal-with-death-of-legend-vinnie-paul-tribute-118062800251_1.html",
+            "https://www.kera.org/artandseek/remembering-vinnie-paul-and-the-legacy-of-pantera/"
+          ],
+          "bodyExcerpt": "Pantera’s original and longtime drummer was **Vinnie Paul Abbott**, who played with the band from 1981 to 2003. The current touring drummer is **Charlie Benante** of Anthrax.[1][2]"
+        }
+      }
+    },
+    {
+      "q": "most used drum brand in metal",
+      "intent": "fact-lookup",
+      "target_entity": "studies:most-used-gear-brands-metal",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/gear/drums"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://metalforge.io/gear/drums",
+            "https://drumhelper.com/accessories/best-drumsticks-for-metal/",
+            "https://www.musicindustryhowto.com/drum-machines-for-metal/",
+            "https://www.reddit.com/r/drums/comments/1ohgrhj/drum_brands_that_are_associated_with_a_music_genre/",
+            "https://www.gear4music.com/blog/best-drum-sets-for-metal/",
+            "https://www.reddit.com/r/Drumming/comments/17k24v5/drumstick_for_metal/",
+            "https://mmrmagazine.com/weve-not-slowed-down-for-a-minute-snare-drum-sales-in-2021/",
+            "https://www.gear4music.com/blog/best-drum-set-brands/",
+            "https://www.reddit.com/r/drums/comments/1ik3gx6/drumscymbals_used_by_popular_drummers/",
+            "https://drumhelper.com/drums/best-snare-drums-for-metal/"
+          ],
+          "bodyExcerpt": "**Tama** is probably the most commonly associated drum-kit brand with metal, especially in heavy, thrash, and extreme metal. Its artists include Lars Ulrich, Nicko McBrain, and many other prominent metal drummers.[1][5]\n\n**Pearl** is the closest major competitor, while **DW** and **Mapex** are also very common among professional players.[1][10] There is no definitive industry-wide survey proving o"
+        }
+      }
+    },
+    {
+      "q": "how fast is death metal bpm",
+      "intent": "fact-lookup",
+      "target_entity": "studies:metal-tempo-by-subgenre",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/studies/metal-tempo-by-subgenre"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://genre-ai.app/genre/death-metal",
+            "https://www.veena.studio/make/metal-music",
+            "https://bpmcalc.com/genres/metal/",
+            "https://github.com/sevenskytech1/suno-ai-metal-prompts",
+            "https://www.atlassian.com/blog/innovation/metal-music-for-programming",
+            "https://www.melodigging.com/genre/death-metal",
+            "https://www.june.kim/jamdojo/learn/genre/metal/",
+            "https://metalforge.io/studies/metal-tempo-by-subgenre",
+            "https://orphiq.com/resources/types-of-metal-music",
+            "https://tunableapp.com/bpm/192/"
+          ],
+          "bodyExcerpt": "Death metal typically runs around **160–250 BPM**, with many songs averaging roughly **170–180 BPM**.[1][8]\n\n- **Standard fast sections:** 160–200 BPM  \n- **Blast-beat sections:** 200–270+ BPM  \n- **Breakdowns or death-doom passages:** sometimes below 100 BPM[1][6]\n\nFor writing death metal, **180–200 BPM** is a solid starting point; use **220+ BPM** for an especially extreme feel."
+        }
+      }
+    },
+    {
+      "q": "do metal drummers use double bass or double pedal",
+      "intent": "fact-lookup",
+      "target_entity": "studies:metal-kit-configurations",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drumeo.com/beat/a-drummers-guide-to-metal/"
+          ],
+          "allCitations": [
+            "https://www.drumeo.com/beat/a-drummers-guide-to-metal/",
+            "https://en.wikipedia.org/wiki/Heavy_metal_drumming",
+            "https://en.wikipedia.org/wiki/Bass_drum",
+            "https://musiccritic.com/equipment/drums/best-double-bass-pedals/",
+            "https://www.musicradar.com/drums/drum-kits/drum-kit-beginners-guide-drum-week",
+            "https://en.wikipedia.org/?title=Double_bass_pedal",
+            "https://www.superprof.ca/blog/metal-drums/",
+            "https://www.electronicdrumadvisor.com/metal-drumming-tips-techniques/",
+            "https://www.reddit.com/r/drums/comments/16mktlp/are_metal_drummers_overrepresented_in_this_sub/",
+            "https://www.americanmusical.com/blog/ultimate-drum-set-buying-guide"
+          ],
+          "bodyExcerpt": "Both—**most metal drummers use a double pedal on one bass drum**, while some use **two separate bass drums with one pedal each**. The double pedal is more common because it is cheaper, easier to transport, and produces the same rapid alternating kick pattern.[1][2]\n\nThe technique is usually called **double bass** or **double-kick drumming**, regardless of whether it uses one drum with two pedals o"
+        }
+      }
+    },
+    {
+      "q": "what bpm is master of puppets",
+      "intent": "fact-lookup",
+      "target_entity": "songs:master-of-puppets",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://songbpm.com/@master-of-puppets",
+            "https://songbpm.com/@metallica/master-of-puppets-cCVebINm43",
+            "https://songbpm.com/@trivium/master-of-puppets",
+            "https://www.yahoo.com/entertainment/music/articles/metallicas-ten-fastest-songs-ranked-095317436.html",
+            "https://songbpm.com/@metallica/master-of-puppets-live-at-the-meadowlands-east-rutherford-nj---april-21st-1986",
+            "https://getsongbpm.com/song/master-of-puppets/o2r0L",
+            "https://songbpm.com/@metallica/master-of-puppets-saocg",
+            "https://songbpm.com/@chords-of-chaos/master-of-puppets",
+            "https://www.reddit.com/r/Metallica/comments/1cx9atl/what_do_you_think_the_bpm_of_master_of_puppets/",
+            "https://songbpm.com/@the-retro-spectres/master-of-puppets-originally-performed-by-metallica-instrumental-eN39asb3fi"
+          ],
+          "bodyExcerpt": "Metallica’s **“Master of Puppets” is generally about 212 BPM** for its main sections. Some sources list it at roughly **105–117 BPM** when counted in half-time, while the slower middle section drops significantly.[2][4][7]"
+        }
+      }
+    },
+    {
+      "q": "fastest metal song",
+      "intent": "comparative",
+      "target_entity": "songs:fastest-metal-songs",
+      "priority": "high",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://metalinsider.net/news-around-the-world/whats-the-fastest-metal-song",
+            "https://www.reddit.com/r/MetalForTheMasses/comments/1twf3wz/what_is_the_fastest_metal_song_you_know/",
+            "https://www.loudersound.com/features/metallicas-fastest-songs-ranked-by-bpm",
+            "https://www.reddit.com/r/Metal/comments/3ogt2p/what_is_the_fastest_metal_song_you_know/",
+            "https://thecmr.forumotion.com/t14562-fastest-metal-songs-ever",
+            "https://www.reddit.com/r/PowerMetal/comments/17flxtm/top_3_fastest_power_metal_songs/",
+            "https://www.reddit.com/r/Metallica/comments/12o7i43/what_is_metallicas_fastest_song/",
+            "https://metalreviews.com/forum/d/13191-the-fastest-and-heaviest-rock-metal-song-of-1970s",
+            "https://www.reddit.com/r/Metallica/comments/u4jfkp/the_fastest_songs_off_every_metallica_album/",
+            "https://www.reddit.com/r/PowerMetal/comments/17s5ta/fastest_power_metal_song/"
+          ],
+          "bodyExcerpt": "There’s no universally agreed **fastest metal song**, because “fast” can mean BPM, blast-beat speed, riff density, or sustained tempo.\n\nFor a strong all-around pick, try **“You Suffer” by Napalm Death**—it is extremely intense, though only about 1.3 seconds long. For a full-length track, **“The Game” by DragonForce** is often cited at around **240 BPM**, while **“Raining Blood” by Slayer** reaches"
+        }
+      }
+    },
+    {
+      "q": "what bpm is raining blood",
+      "intent": "fact-lookup",
+      "target_entity": "songs:raining-blood",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.mixgraph.io/tracks/slayer-raining-blood",
+            "https://cs.uwaterloo.ca/~dtompkin/music/track/DTRANDOM_018/DTRANDOM_018-05.html",
+            "https://www.mixgraph.io/tracks/concord-dawn-raining-blood",
+            "https://songbpm.com/@slayer/raining-blood-HMvRFU97h5",
+            "https://songs.klang.io/en/s/Slayer/Raining%20Blood/d3-ITn0e00U",
+            "https://songparts.com/songs/slayer/raining-blood",
+            "https://songbpm.com/@slayer/raining-blood",
+            "https://www.mixgraph.io/tracks/figure-raining-blood-feat-planet-blood",
+            "https://www.tencymusic.com/music-licensing/slayer/raining-blood.html",
+            "https://songbpm.com/@slayer/raining-blood---live-1986"
+          ],
+          "bodyExcerpt": "Slayer’s **“Raining Blood”** is commonly counted at about **178 BPM** (or **89 BPM half-time**). Some sections vary, with estimates ranging roughly from **156–207 BPM** depending on the counting method.[1][4][5]"
+        }
+      }
+    },
+    {
+      "q": "who played drums on angel of death slayer",
+      "intent": "fact-lookup",
+      "target_entity": "songs:angel-of-death",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Angel_of_Death_(Slayer_song)",
+            "https://www.songfacts.com/facts/slayer/angel-of-death",
+            "https://www.yahoo.com/entertainment/music/articles/chaos-controversy-beefs-behind-slayer-000000656.html",
+            "https://music.apple.com/au/song/angel-of-death/1440821043",
+            "https://music.apple.com/za/song/angel-of-death/1733769074",
+            "https://stereogum.com/2222323/dave-lombardo-solo-album/interviews",
+            "https://www.musicradar.com/news/slayer-kerry-king-jeff-hanneman-interview-angel-of-death-song-story",
+            "https://www.reddit.com/r/Music/comments/57nprr/slayer_angel_of_death_thrash_metal/",
+            "https://au.rollingstone.com/music/music-lists/-45771/angel-of-death-slayer-45857/",
+            "https://www.hugi.is/metall/greinar/13852/slayer-facts/"
+          ],
+          "bodyExcerpt": "Dave Lombardo played drums on Slayer’s “Angel of Death,” from the 1986 album *Reign in Blood*.[1]"
+        }
+      }
+    },
+    {
+      "q": "jimmy degrasso drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:jimmy-degrasso",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/drummer/jimmy-degrasso"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://metalforge.io/drummer/jimmy-degrasso",
+            "https://worleygig.com/2009/01/15/an-interview-with-jimmy-degrasso-of-f5/",
+            "https://equipboard.com/items/pearl-reference-series",
+            "https://drummerszone.com/news/pearl-drums-at-winter-namm-2008/namm-2008-39-5769/article/",
+            "https://www.musicradar.com/news/drums/my-chemical-romances-drum-setup-in-pictures-458507",
+            "https://www.musicradar.com/news/drums/drum-kits-of-the-pros-stars-live-and-studio-drum-setups-in-pictures-428337",
+            "https://www.reddit.com/r/drums/comments/1k8xxh4/how_much_is_my_dads_drum_kit/",
+            "https://www.metrosiliconvalley.com/y-t-poppy-jasper-icon-award/",
+            "https://drummerszone.com/artists/jimmy-degrasso/815/profile/",
+            "https://www.musicradar.com/news/drums/from-the-riser-gallery-tommy-lee-neil-peart-and-more-642873"
+          ],
+          "bodyExcerpt": "Jimmy DeGrasso primarily played **Pearl drum kits**, usually with a large double-bass setup. A documented rig included:\n\n- **Bass drums:** two 18×22-inch kicks  \n- **Rack toms:** 10, 12, and 13 inches  \n- **Floor toms:** 14 and 16 inches  \n- **Snare:** Pearl Jimmy DeGrasso Signature 14×5.5-inch hammered-brass snare, model **JD1455**\n- **Cymbals:** Sabian  \n- **Drumheads:** Evans  \n- **Sticks:** Pr"
+        }
+      }
+    },
+    {
+      "q": "nick barker drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:nick-barker",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/drummers/nick-barker/evolution"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.youtube.com/watch?v=vo3uE0v73_c",
+            "https://metalforge.io/drummers/nick-barker/evolution",
+            "https://www.youtube.com/watch?v=wsDyElj1bDs",
+            "https://remo.com/profile/nick-barker",
+            "https://www.youtube.com/watch?v=uJw4EE6qpPk",
+            "https://pt.wikipedia.org/wiki/Nicholas_Barker?oldformat=true",
+            "https://www.wikidata.org/wiki/Q2343057",
+            "https://equipboard.com/items/superior-drummer-metal-machinery-expansion",
+            "https://www.youtube.com/watch?v=9P2UwnY7it4",
+            "https://en.beatit.tv/category/news-en/hot-news-from-the-world-of-drums/page/63/"
+          ],
+          "bodyExcerpt": "Nick Barker’s best-known kit was a **red Pearl Masters Custom** used with **Cradle of Filth and Dimmu Borgir**. He has described it as his first brand-new kit and one of his most prized instruments.[1][2]\n\nA documented Dimmu Borgir-era setup included:\n\n- **Pearl Masterworks handmade maple shells**\n- High-gloss piano-black finish\n- Two **20″ × 18″ bass drums**\n- Toms: **10″, 12″, 13″, 14″, and 16″*"
+        }
+      }
+    },
+    {
+      "q": "alex rudinger drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:alex-rudinger",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.tama.com/eu/artists/detail/975.html",
+            "https://www.tama.com/usa/artists/detail/975.html",
+            "https://www.youtube.com/watch?v=r1FHD5DvUKY",
+            "https://geargods.net/video/alex-rudinger-drum-kit-rundown/",
+            "https://equipboard.com/pros/alex-rudinger",
+            "https://www.youtube.com/watch?v=BqNVcQuEvkA",
+            "https://alexrudinger.com/pages/gear",
+            "https://www.youtube.com/watch?v=wG-xgpTbKuY&list=RD8O92AS-Drhk&index=27",
+            "https://www.youtube.com/watch?v=ftYLdLKUcyY",
+            "https://www.youtube.com/watch?v=73eQlk2Er_4"
+          ],
+          "bodyExcerpt": "Alex Rudinger uses several Tama kits. His current listed drum kits include:[7]\n\n- **Tama Star Maple**, Smoky Black: 10×6.5, 12×7, 14×11, 16×13, 18×15, 20×16 (×2)\n- **Tama Starclassic Maple**, Satin Aztec Gold: 8×6 through 22×16\n- **Tama Starclassic B/B**, Smoky Indigo Burst: 8×7, 10×7, 12×8, 14×12, 16×14, 20×16 (×2), 22×18\n- **Tama SLP Kapur**, Black Kapur Burst: 10×6.5, 12×7, 14×12, 16×14, 20×16 "
+        }
+      }
+    },
+    {
+      "q": "john longstreth drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:john-longstreth",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/drummer/john-longstreth"
+          ],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/article/page/172/"
+          ],
+          "allCitations": [
+            "https://metalforge.io/drummer/john-longstreth",
+            "https://www.youtube.com/watch?v=oSjEtQBNiJo",
+            "https://equipboard.com/pros/john-longstreth",
+            "https://drummerszone.com/artists/john-longstreth/4826/profile/",
+            "https://www.youtube.com/watch?v=ply6odMGMro",
+            "https://www.youtube.com/watch?v=1Mppbl5jR_s",
+            "https://www.moderndrummer.com/article/page/172/",
+            "https://www.youtube.com/watch?v=q3lBVZZDP1E",
+            "https://www.youtube.com/watch?v=PO4m3V4aoo4",
+            "https://www.youtube.com/watch?v=Dwq4kYfcrbU"
+          ],
+          "bodyExcerpt": "John Longstreth’s current documented setup includes:\n\n- **Drums:** Pearl kit; exact model and shell sizes aren’t publicly confirmed.[1]\n- **Cymbals:** Meinl setup, including Byzance Brilliant Heavy Hammered 22-inch ride and 20-inch china, Pure Alloy hats/crashes, and 10-inch splashes.[5]\n- **Pedals:** ACD Unlimited bass-drum pedals with FootBlaster triggers.[1]\n- **Sticks:** Meinl Standard Long 5B"
+        }
+      }
+    },
+    {
+      "q": "waltteri vayrynen drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:waltteri-vayrynen",
+      "priority": "medium",
+      "_source": "curated",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/drummer/waltteri-vayrynen"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://pearldrum.com/en/artist/waltteri-vayrynen/14246",
+            "https://audiodeluxe.com/products/xln-audio-progressive-metal-adpak",
+            "https://www.youtube.com/watch?v=iNJgQHce7kU&vl=en",
+            "https://metalforge.io/drummer/waltteri-vayrynen",
+            "https://support.xlnaudio.com/hc/en-us/articles/35693235444509-Product-release-Progressive-Metal-ADpak-Progressive-Metal-Beats-Songs-MIDIpak",
+            "https://www.facebook.com/waltterivofficial/posts/look-what-ive-got-my-own-balbex-g2b-premium-hickory-signature-drum-sticks-and-th/803519473087345/",
+            "https://www.youtube.com/watch?v=Qz_SelQD6Pc",
+            "https://www.youtube.com/watch?v=nSza8U9XAu8",
+            "https://www.instagram.com/waltsunfyre/",
+            "https://www.instagram.com/reel/DFpZcRis5la/"
+          ],
+          "bodyExcerpt": "Waltteri Väyrynen’s current **Pearl Reference Pure** kit is configured as follows:\n\n- **Bass drums:** two 22\" × 18\"\n- **Rack toms:** 10\" × 8\" and 12\" × 9\"\n- **Floor toms:** 14\" × 14\", 16\" × 16\", and 18\" × 16\"\n- **Gong drum:** 20\" × 14\"\n- **Snares:** Pearl Reference Steel, Brass, and Pure — each 14\" × 6.5\"\n- **Pedals:** Pearl P3002 Demon Drive\n\nHe pairs the kit with **Sabian cymbals**, including a "
+        }
+      }
+    },
+    {
+      "q": "matt halpern",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 9935,
+        "position": 10.40140915953699,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/drummers/matt-halpern/",
+            "https://www.moderndrummer.com/2012/08/mapex-mydentity-matt-halpern-clinic-tour/"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Matt_Halpern",
+            "https://www.linkedin.com/in/matt-halpern",
+            "https://www.heinemann.com/pd/consulting/products/101212s.aspx",
+            "https://www.smith-howard.com/team/matt-halpern/",
+            "https://www.heinemann.com/authors/101212.aspx",
+            "https://www.daddario.com/pages/artists/matt-halpern",
+            "https://www.guitarcenter.com/riffs/news/drums/matt-halpern-drum-workshop-at-guitar-center-hollywood",
+            "https://www.creativelive.com/instructors/matt-halpern",
+            "https://www.moderndrummer.com/drummers/matt-halpern/",
+            "https://www.moderndrummer.com/2012/08/mapex-mydentity-matt-halpern-clinic-tour/"
+          ],
+          "bodyExcerpt": "Matt Halpern is an American drummer best known as the drummer of the progressive-metal band **Periphery**, which he joined in 2009.[1][6]\n\nHe is also:\n\n- Co-founder of **GetGood Drums**, a music-software company.[6][9]\n- A drum educator and clinician who has won *Modern Drummer* awards for Metal Drummer and Clinician/Educator.[7][9]\n- Formerly associated with **Animals as Leaders**.[1]\n- A founder"
+        }
+      }
+    },
+    {
+      "q": "arin ilejay",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 643,
+        "position": 12.021772939346812,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/2016/08/qa-islanders-arin-ilejay/",
+            "https://loudwire.com/avenged-sevenfold-arin-ilejay-lars-ulrich-best-metal-drummer/",
+            "https://loudwire.com/most-searched-questions-avenged-sevenfold-answered/"
+          ],
+          "allCitations": [
+            "https://es.wikipedia.org/wiki/Arin_Ilejay",
+            "https://drumfaster.com/drummers/arin-ilejay/",
+            "https://x.com/Arrin_Ilejay",
+            "https://drummerszone.com/artists/arin-ilejay/12262/profile/",
+            "https://www.moderndrummer.com/2016/08/qa-islanders-arin-ilejay/",
+            "https://www.wikidata.org/wiki/Q2636051",
+            "https://drummerszone.com/news/drummer-speaks-up-about-being-fired-by-a7x/artist-news-1-13417/article/",
+            "https://www.loudersound.com/news/avenged-sevenfold-firing-arin-ilejay-shocked-scared",
+            "https://loudwire.com/avenged-sevenfold-arin-ilejay-lars-ulrich-best-metal-drummer/",
+            "https://loudwire.com/most-searched-questions-avenged-sevenfold-answered/"
+          ],
+          "bodyExcerpt": "Arin Ilejay (Richard Arin Ilejay, born February 17, 1988) is an American heavy-metal drummer best known for playing with **Avenged Sevenfold**. He toured with the band beginning in 2011, became an official member in 2013, recorded on *Hail to the King*, and left in 2015.[1][2]\n\nBefore Avenged Sevenfold, he played with Christian metalcore band **Confide**, including on their 2008 album *Shout the T"
+        }
+      }
+    },
+    {
+      "q": "jaska raatikainen",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 121,
+        "position": 10.958677685950413,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.instagram.com/raatikainen_jaska/",
+            "https://en.wikipedia.org/wiki/Jaska_Raatikainen",
+            "https://www.imdb.com/name/nm0704685/",
+            "https://www.metal-archives.com/artists/Jaska_Raatikainen/2032",
+            "https://www.liveone.com/artist/jaska-raatikainen",
+            "https://pantheon.world/profile/person/Jaska_Raatikainen",
+            "https://www.imdb.com/name/nm0704685/bio/",
+            "https://www.youtube.com/watch?v=IHfemkLO2DM",
+            "https://www.wikidata.org/wiki/Q374863",
+            "https://ucm.one/en/jaska-raatikainen-founding-member-and-drummer-of-children-of-bodom-joins-mercury-circle/"
+          ],
+          "bodyExcerpt": "Jaska Raatikainen is a Finnish drummer best known as the co-founder and longtime drummer of the melodic death-metal band **Children of Bodom**. Born on July 18, 1979, he was with the band from its formation in 1993 until its breakup in 2019.[2]\n\nHe later joined the Finnish metal project **Mercury Circle**.[5][10] In 2026, he also participated in Children of Bodom tribute/reunion performances honor"
+        }
+      }
+    },
+    {
+      "q": "igor cavalera",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 114,
+        "position": 13.078947368421053,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://blabbermouth.net/news/ex-sepultura-drummer-igor-cavalera-calls-dj-project-mixhell-a-continuation-of-my-career"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Igor_Cavalera",
+            "https://music.apple.com/us/artist/igor-cavalera/27397799",
+            "https://venezianews.it/en/events/igor-cavalera-teatro-del-parco-mestre/",
+            "https://talkhouse.com/david-castillo-and-igor-cavalera-on-the-metal-to-electronic-music-pipeline",
+            "https://www.noecho.net/interviews/igor-cavalera-on-his-favorite-drummers-early-sepultura-work",
+            "https://www.metal-archives.com/artists/Igor_Cavalera/4511",
+            "https://www.youtube.com/watch?v=TyTfzE1lrP8",
+            "https://www.metalpaths.com/news/2014/06/24/igor-cavalera-cooler-sepultura-ended-left-band/",
+            "https://www.imdb.com/name/nm0146746/",
+            "https://blabbermouth.net/news/ex-sepultura-drummer-igor-cavalera-calls-dj-project-mixhell-a-continuation-of-my-career"
+          ],
+          "bodyExcerpt": "Igor “Iggor” Cavalera (born September 4, 1970) is a Brazilian drummer best known as a co-founder and former member of the heavy-metal band **Sepultura**, which he formed with his brother Max Cavalera in 1984.[1][2]\n\nHe left Sepultura in 2006 and later reunited with Max in **Cavalera Conspiracy**. He is also active in **Mixhell**, an electronic project with his wife Laima Leyton, and has worked wit"
+        }
+      }
+    },
+    {
+      "q": "brann dailor",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 101,
+        "position": 10.94059405940594,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/article/brann-dailor-mastodons-modern-metal-master/"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Brann_Dailor",
+            "https://www.grammy.com/news/mastodon-brann-dailor-medium-rarities-interview/",
+            "https://www.moderndrummer.com/article/brann-dailor-mastodons-modern-metal-master/",
+            "https://www.goodbeerhunting.com/blog/2019/9/4/dangerous-stouts-and-dad-metal-an-afternoon-with-mastodon-drummer-brann-dailor",
+            "https://thecreativeindependent.com/people/musician-brann-dailor-on-using-art-to-cope-with-difficult-times/",
+            "https://drummerszone.com/artists/brann-dailor/5130/profile/",
+            "http://www.youtube.com/watch?v=aRx6E7Vx9kc",
+            "https://azb.wikipedia.org/wiki/%D8%A8%D8%B1%D9%86_%D8%AF%DB%8C%D9%84%D9%88%D8%B1",
+            "https://music.apple.com/fr/artist/brann-dailor/137848295",
+            "https://www.latimes.com/entertainment-arts/music/story/2026-10-12/ghost-of-brent-hinds-haunts-mastodons-emotional-hollywood-palladium-show"
+          ],
+          "bodyExcerpt": "Brann Dailor is an American drummer, singer, and songwriter best known as a founding member of the Atlanta-based progressive-metal band **Mastodon**. Born March 19, 1975, in Rochester, New York, he also performs with the synth-metal group **Arcadea** and has played in bands including Lethargy and Today Is the Day.[1][2]\n\nDailor is noted for combining highly technical drumming with melodic vocals a"
+        }
+      }
+    },
+    {
+      "q": "kevin talley",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 90,
+        "position": 11.533333333333333,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.linkedin.com/in/kevintalley2",
+            "https://rtf.utexas.edu/profiles/kevin-talley",
+            "https://en.wikipedia.org/wiki/Kevin_Talley",
+            "https://vertexeng.com/team-member/kevin-talley/",
+            "https://www.linkedin.com/in/kevin-a-talley",
+            "https://www.joinleland.com/kip-talley/executive",
+            "https://thetravelwins.com/kevin-talley-model-photography/",
+            "https://www.linkedin.com/in/kip-talley",
+            "https://www.bloomberg.com/profile/person/19941278",
+            "https://www.congress.gov/congressional-record/volume-146/issue-154/extensions-of-remarks-section/article/E2181-3"
+          ],
+          "bodyExcerpt": "“Kevin Talley” refers to multiple people, including:\n\n- **Kevin Talley, musician** — American drummer born May 21, 1979, known for playing with Dying Fetus, Misery Index, Six Feet Under, Suffocation, Chimaira, Feared, and other metal bands.[3]\n- **Kevin Talley, screenwriter** — MFA screenwriting student at the University of Texas, Austin Film Festival award winner, and playwright from the Texas Pa"
+        }
+      }
+    },
+    {
+      "q": "raymond herrera",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 72,
+        "position": 13.597222222222221,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Raymond_Herrera",
+            "https://www.linkedin.com/in/raymondherrera",
+            "https://drummerszone.com/artists/raymond-herrera/1488/profile/",
+            "https://texasborderbusiness.com/raymond-herrera-leads-the-pledge-of-allegiance/",
+            "https://www.imdb.com/name/nm1625455/",
+            "https://www.liveone.com/artist/raymond-herrera",
+            "https://www.imdb.com/name/nm1625455/bio/",
+            "https://www.mobygames.com/person/102869/raymond-herrera/",
+            "https://www.drummingnewsnetwork.com/raymond-herrera-returns-to-the-drums-after-16-years/",
+            "https://www.healthgrades.com/providers/raymond-herrera-2vhgw"
+          ],
+          "bodyExcerpt": "Raymond Herrera most commonly refers to the American musician and producer born December 18, 1972, in Los Angeles. He is best known as the founding drummer of industrial-metal band **Fear Factory**, and has also played with Brujeria and Arkaea.[1][3]\n\nHe later worked as a composer and producer for video games, films, and television, with credits connected to titles including *Gran Turismo 4*, *Dea"
+        }
+      }
+    },
+    {
+      "q": "mikkey dee",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 63,
+        "position": 13.65079365079365,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/article/mikkey-dee-playing-heavy-music-on-the-drums/",
+            "https://www.moderndrummer.com/2010/04/mikkey-dee/",
+            "https://blabbermouth.net/news/scorpions-ex-motorhead-drummer-mikkey-dee-i-never-f-up-when-i-perform-live"
+          ],
+          "allCitations": [
+            "https://www.sonor.com/drums/artists/artists-detail/mikkey-dee",
+            "https://en.wikipedia.org/wiki/Mikkey_Dee",
+            "https://www.sonor.com/de/drums/kuenstler/kuenstler-detail/mikkey-dee",
+            "https://www.kerrang.com/mikkey-dee-interview-life-less-ordinary-motorhead-scorpions-king-diamond-lex-legion",
+            "https://www.moderndrummer.com/article/mikkey-dee-playing-heavy-music-on-the-drums/",
+            "https://www.paiste.com/en/about/stories/musicians/mikkey-dee-interview",
+            "https://www.moderndrummer.com/2010/04/mikkey-dee/",
+            "https://www.pennlive.com/entertainment/2025/01/legendary-rocker-on-report-he-is-leaving-his-band-never-mind-expletives-making-up-fake-stories.html",
+            "https://readdork.com/credits/mikkey-dee",
+            "https://blabbermouth.net/news/scorpions-ex-motorhead-drummer-mikkey-dee-i-never-f-up-when-i-perform-live"
+          ],
+          "bodyExcerpt": "Mikkey Dee (born Micael Kiriakos Delaoglou on October 31, 1963) is a Swedish heavy-metal drummer best known for playing with **Motörhead** from 1992 until the band ended in 2015.[1][2]\n\n- He first gained recognition with **King Diamond**, performing on albums including *Fatal Portrait*, *Abigail*, *Them*, and *Conspiracy*.[5][7]\n- He joined Motörhead after replacing Phil “Philthy Animal” Taylor an"
+        }
+      }
+    },
+    {
+      "q": "flo mounier",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 57,
+        "position": 11.491228070175438,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drumeo.com/beat/flo-mounier/"
+          ],
+          "allCitations": [
+            "https://www.linkedin.com/in/flo-mounier",
+            "https://www.drumeo.com/beat/flo-mounier/",
+            "https://pearldrum.com/en/artist/flo-mounier",
+            "https://axispdc.com/blogs/artist-roster/flo-mounier-cryptopsy",
+            "https://drummerszone.com/artists/flo-mounier/5967/profile/",
+            "https://www.youtube.com/watch?v=PyKR5sXbFCo",
+            "https://www.instagram.com/bateristasales/p/DOgroUpEvGQ/",
+            "https://metalinjection.net/news/the-10-metal-drummers-that-are-almost-impossible-to-replicate",
+            "https://metalbite.com/interviews/254/cryptopsy-with-flo-mounier-drums",
+            "https://www.therockpit.net/2016/interview-flo-mounier-cryptopsy/"
+          ],
+          "bodyExcerpt": "Flo Mounier is a French-born Canadian extreme-metal drummer best known as a longtime member of **Cryptopsy**, the Montreal technical death-metal band. He is recognized for exceptionally fast, precise blast beats and highly technical playing.[3][5]\n\nHe is also a founding member of **Vltimas**, has toured extensively worldwide, and teaches through clinics and instructional material focused on extrem"
+        }
+      }
+    },
+    {
+      "q": "joey jordison drum set",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 51,
+        "position": 9.411764705882353,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/joey-jordison/"
+          ],
+          "allCitations": [
+            "https://www.musicradar.com/news/drums/slipknots-joey-jordisons-drum-setup-in-pictures-375412",
+            "https://pearldrum.com/en/artist/joey-jordison",
+            "https://drummagazine.com/joey-jordison/",
+            "https://equipboard.com/pros/joey-jordison",
+            "https://www.guitarcenter.com/Used/Pearl/Used-Pearl-8-Piece-Joey-Jordison-Signature-Drum-Kit-Black-Drum-Kit-122374434.gc",
+            "https://www.zzounds.com/item--PEAJJ728",
+            "https://drumfaster.com/rigs/joey-jordison/",
+            "https://pearldrum.com/en/products/snares/signature-snares/joey-jordison",
+            "https://equipboard.com/pros/joey-jordison?gear=drumsticks",
+            "https://www.zzounds.com/productreview--peajj728"
+          ],
+          "bodyExcerpt": "Joey Jordison primarily played **Pearl drum kits**, with configurations changing throughout his Slipknot career. His best-known large setup included:\n\n- **Two 22″ × 18″ bass drums**\n- **Pearl Reference Series toms:** 8″, 10″, 12″, 13″, 14″, 16″ and 18″\n- **14″ × 6.5″ snare**, plus his earlier **13″ × 6.5″ signature snare**\n- **20″ × 14″ gong drum**\n- Four auxiliary 6″-deep “rocket” or quarter toms"
+        }
+      }
+    },
+    {
+      "q": "mario duplantier drum kit",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 42,
+        "position": 7.476190476190476,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.tama.com/usa/artists/detail/190.html",
+            "https://remo.com/profile/mario-duplantier",
+            "https://www.native-instruments.com/products/gojira-mario-duplantier",
+            "https://drumfaster.com/drummers/mario-duplantier/",
+            "https://drumfaster.com/rigs/mario-duplantier/",
+            "https://www.native-instruments.com/en/products/nks-partners/mixwave/gojira-mario-duplantier/",
+            "https://mixwave.com/products/gojira-mario-duplantier",
+            "https://equipboard.com/pros/mario-duplantier",
+            "https://support.mixwave.com/en/help/gojira-mario-duplantier-user-guide",
+            "https://www.toontrack.com/product/rythme-sauvage-midi/"
+          ],
+          "bodyExcerpt": "Mario Duplantier’s primary Gojira kit is a **Tama Starclassic Bubinga** setup in White Pearl with Diamond Inlay and black-nickel hardware:[1]\n\n- **Bass drums:** 2 × 22\" × 18\"\n- **Rack toms:** 12\" × 9\" and 13\" × 10\"\n- **Floor tom:** 16\" × 16\"\n- **Main snare:** Tama 14\" × 6.5\"\n- **Bell-brass snare:** Tama PL565, 14\" × 6.5\"\n- **Hardware:** Tama Speed Cobra double pedal, Iron Cobra hi-hat stand, and 1"
+        }
+      }
+    },
+    {
+      "q": "best metal drummers of all time",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 41,
+        "position": 8.487804878048781,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/best-metal-drummers/",
+            "https://www.drumeo.com/beat/ash-pearsons-top-50-metal-drummers/"
+          ],
+          "allCitations": [
+            "https://drummagazine.com/best-metal-drummers/",
+            "https://www.gear4music.com/blog/best-metal-drummers/",
+            "https://www.drumeo.com/beat/ash-pearsons-top-50-metal-drummers/",
+            "https://consequence.net/2024/09/favorite-drummers-survey-drum-week/19/",
+            "https://www.musicradar.com/news/drums/drummers-world-cup-the-11-best-metal-and-prog-metal-drummers-of-all-time-567657",
+            "https://www.loudersound.com/features/joey-jordison-picks-the-10-greatest-drummers-ever",
+            "https://www.musicradar.com/news/the-greatest-drummers-of-all-time-ranked",
+            "https://www.wikimetal.com.br/en/the-11-greatest-drummers-of-all-time/",
+            "https://www.ranker.com/list/the-best-drummers-of-all-time/music-lover",
+            "https://www.classical-music.com/rock/best-rock-drummers"
+          ],
+          "bodyExcerpt": "There’s no single objective answer, but **Dave Lombardo** is the strongest overall pick: his speed, precision, double-kick technique, and influence on thrash and extreme metal are difficult to match. Drummers and critics frequently place him at or near the top of all-time metal lists.[1][3][4]\n\nA strong all-time shortlist:\n\n1. **Dave Lombardo** — Slayer; the benchmark for thrash-metal speed and ag"
+        }
+      }
+    },
+    {
+      "q": "eloy casagrande drum kit",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 39,
+        "position": 7.641025641025641,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drummerworld.com/articles/news/eloy-casagrande-on-gear-setup-secrets-and-honoring-joey-jordison/",
+            "https://www.drummerworld.com/articles/news/eloy-casagrande-slipknot-drummer/"
+          ],
+          "allCitations": [
+            "https://bogrendigital.com/collections/all/products/eloy-drums",
+            "https://bogrendigital.com/products/eloy-drums",
+            "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15592-Eloy-Drums",
+            "https://bogrendigital.com/collections/drum-instruments/products/eloy-drums",
+            "https://www.paiste.com/en/musicians/eloy-casagrande",
+            "https://equipboard.com/pros/eloy-casagrande",
+            "https://www.daddario.com/pages/artists/eloy-casagrande",
+            "https://seelectronics.com/products/v-pack-ec/",
+            "https://www.drummerworld.com/articles/news/eloy-casagrande-on-gear-setup-secrets-and-honoring-joey-jordison/",
+            "https://www.drummerworld.com/articles/news/eloy-casagrande-slipknot-drummer/"
+          ],
+          "bodyExcerpt": "Eloy Casagrande’s main drum setup is a **Tama Starclassic Bubinga** kit, with variations depending on the tour or era.\n\n- **Bass drums:** two 22\" × 16\" drums; some Slipknot configurations also use two 24\" × 14\" drums.[1][2]\n- **Snare:** Tama Bell Brass, commonly listed around 14\" × 5.5\" or 14\" × 6.5\".[1][2]\n- **Toms:** 10\" × 8\", 12\" × 9\", 16\" × 14\", and 18\" × 16\".[1][2]\n- **Cymbals:** primarily Pa"
+        }
+      }
+    },
+    {
+      "q": "limp bizkit drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 34,
+        "position": 10.323529411764707,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Limp_Bizkit",
+            "https://music.apple.com/us/artist/limp-bizkit/105544",
+            "https://drumscore.com/sheet-music/browse-by-drummer/category/4743-john-otto",
+            "https://wmmr.com/2026/08/19/limp-bizkit-returns-to-studio-for-seventh-album-amid-surge-in-popularity/",
+            "https://www.8notes.com/biographies/limp_bizkit.asp",
+            "https://www.rocklists.com/artists/limp-bizkit/",
+            "https://readdork.com/lyrics/artist/limp-bizkit",
+            "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/limp-bizkit-0",
+            "https://noisecreep.com/limp-bizkit-marilyn-manson-drummer-brandon-pertzborn-john-otto-fill-in-first-2021-show/",
+            "https://www.nme.com/news/music/limp-bizkit-are-back-in-the-studio-working-on-a-new-album-3808820"
+          ],
+          "bodyExcerpt": "Limp Bizkit’s drummer is **John Otto**, a founding member of the band and its current drummer.[1]"
+        }
+      }
+    },
+    {
+      "q": "iron man bpm",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 32,
+        "position": 8.84375,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.mixgraph.io/tracks/rema-iron-man",
+            "https://sfrbeats.com/tools/bpm/black-sabbath/iron-man",
+            "https://planetary.music/song-analysis/black-sabbath/iron-man",
+            "https://musicscene.com.au/lessons/songs/song-analysis/iron-man/",
+            "https://drumfaster.com/songs/iron-man/",
+            "https://music.amazon.de/tracks/B09B4B6P9S",
+            "https://songbpm.com/@iron-man/iron-man-made-famous-by-black-sabbath",
+            "https://www.jiosaavn.com/song/iron-man-168-bpm/GToMAh5XXnQ",
+            "https://getsongbpm.com/song/iron-man/rRY8lL",
+            "https://music.amazon.com/tracks/B09JKVKYGV"
+          ],
+          "bodyExcerpt": "Black Sabbath’s **“Iron Man” is about 77 BPM** in half-time, commonly counted as **154–164 BPM** in double-time depending on the section or recording analysis.[2][4][9]"
+        }
+      }
+    },
+    {
+      "q": "danny carey drum kit",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 26,
+        "position": 12.5,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/drum-videos/danny-carey-tool-tour-kit-rundown/",
+            "https://www.drumeo.com/beat/danny-carey-genius/",
+            "https://drummagazine.com/danny-careys-2016-kit/"
+          ],
+          "allCitations": [
+            "https://www.moderndrummer.com/drum-videos/danny-carey-tool-tour-kit-rundown/",
+            "https://drumfaster.com/rigs/danny-carey/",
+            "https://en.wikipedia.org/wiki/Danny_Carey",
+            "https://www.drumeo.com/beat/danny-carey-genius/",
+            "https://drummagazine.com/danny-careys-2016-kit/",
+            "https://www.musicradar.com/news/tool-danny-carey-drum-kit-tour-joe-slaby",
+            "https://drumfaster.com/drummers/danny-carey/",
+            "https://bluntmag.com.au/news/danny-carey-alex-grey-drum-kit/",
+            "https://equipboard.com/pros/danny-carey",
+            "https://www.thomannmusic.com/blog/gear/hit-the-tone-tools-danny-carey/"
+          ],
+          "bodyExcerpt": "Danny Carey’s current **Tool touring kit** is primarily a custom **Sonor SQ2** setup with Paiste cymbals and extensive electronic percussion. [1]\n\n- **Bass drums:** 18″ × 22″ and 20″ × 24″ Sonor SQ2\n- **Rack toms:** 8″ × 8″ and 10″ × 10″\n- **Floor toms:** 16″ × 14″ and 18″ × 16″\n- **RotoTom:** 14″, custom-mounted\n- **Gong drum:** 16″ × 22″\n- **Snares:** mainly 14″ × 8″ Sonor bronze HLD590 snares, "
+        }
+      }
+    },
+    {
+      "q": "hellhammer drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 26,
+        "position": 10.76923076923077,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Hellhammer_(musician)",
+            "https://www.instagram.com/popular/jan-axel-blomberg/",
+            "https://www.youtube.com/watch?v=GdBkGLP05Z0",
+            "https://en.wikipedia.org/wiki/Hellhammer",
+            "https://www.hellhammerdrummer.com/video/",
+            "https://shapes.inc/hellhammer",
+            "https://www.instagram.com/reel/DJE6M_MB82W/",
+            "https://pantheon.world/profile/person/Jan_Axel_Blomberg",
+            "https://equipboard.com/band/hellhammer",
+            "https://rutube.ru/video/b72d3bb7617373cd3457e119468c1900/"
+          ],
+          "bodyExcerpt": "The drummer known as **Hellhammer** is **Jan Axel Blomberg**, a Norwegian musician best known as the drummer of the black metal band **Mayhem**, which he joined in 1988.[1] He has also performed with bands including Arcturus, Dimmu Borgir, and The Kovenant.[6]"
+        }
+      }
+    },
+    {
+      "q": "best cymbals for metal",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 24,
+        "position": 9.791666666666666,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drumeo.com/beat/cymbal-buyers-guide/"
+          ],
+          "allCitations": [
+            "https://www.electronicdrumadvisor.com/best-cymbals-for-metal/",
+            "https://thedrumninja.com/best-cymbals-for-metal/",
+            "https://drumcenternh.com/blogs/news/best-cymbals-for-metal",
+            "https://www.musicradar.com/news/best-cymbals",
+            "https://drumcenternh.com/blogs/news/best-cymbals-for-metal-2022",
+            "https://drumcenternh.com/collections/cymbals",
+            "https://www.musicindustryhowto.com/best-cymbals-beginners-metal-church-money/",
+            "https://www.drumeo.com/beat/cymbal-buyers-guide/",
+            "https://drumstrive.com/best-cymbals-for-metal/",
+            "https://www.reddit.com/r/drums/comments/16qehe7/best_cymbals_for_metalcore/"
+          ],
+          "bodyExcerpt": "For metal, prioritize **bright, powerful cymbals with strong projection**. The best overall choices are:\n\n- **Paiste RUDE** — Best for extreme metal and very loud playing; raw, aggressive, and cuts through heavily distorted guitars.[1][3]\n- **Sabian AAX** — Best all-around option; bright, explosive, and versatile for metal, metalcore, and rock.[1][3]\n- **Zildjian A Custom** — Best for versatility;"
+        }
+      }
+    },
+    {
+      "q": "mastodon drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 24,
+        "position": 11.083333333333334,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/mastodon-drummer-brann-dailor-anatomy-of-a-session-for-emperor-of-sand/",
+            "https://blabbermouth.net/news/mastodons-brann-dailor-brent-hinds-got-away-with-a-lot-of-things-that-other-people-wouldnt-be-able-to"
+          ],
+          "allCitations": [
+            "https://www.cbsnews.com/sanfrancisco/news/cbs-sf-talks-to-mastodon-drummer-brann-dailor/",
+            "https://www.leoweekly.com/music/mastodon-drummer-makes-the-most-of-concepts-and-caffeine-15762857/",
+            "https://www.songfacts.com/facts/mastodon",
+            "https://www.latimes.com/entertainment-arts/music/story/2026-10-12/ghost-of-brent-hinds-haunts-mastodons-emotional-hollywood-palladium-show",
+            "https://www.goodbeerhunting.com/blog/2019/9/4/dangerous-stouts-and-dad-metal-an-afternoon-with-mastodon-drummer-brann-dailor",
+            "https://woub.org/2023/08/08/brann-dailor-reflects-on-mega-monsters-tour-hushed-and-grim-and-mastodons-evolution/",
+            "https://www.revolvermag.com/feature/digging-deep-mastodon-answer-fans-burning-questions/",
+            "https://drummagazine.com/mastodon-drummer-brann-dailor-anatomy-of-a-session-for-emperor-of-sand/",
+            "https://www.grammy.com/news/mastodon-brann-dailor-medium-rarities-interview/",
+            "https://blabbermouth.net/news/mastodons-brann-dailor-brent-hinds-got-away-with-a-lot-of-things-that-other-people-wouldnt-be-able-to"
+          ],
+          "bodyExcerpt": "Mastodon’s drummer is **Brann Dailor**, who also contributes vocals and is a founding member of the band.[1]"
+        }
+      }
+    },
+    {
+      "q": "ben koller",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 22,
+        "position": 9.227272727272727,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Ben_Koller",
+            "https://urbanmilwaukee.com/2013/08/19/newaukeean-of-the-week-ben-koller/",
+            "https://drummerszone.com/artists/ben-koller/6399/profile/",
+            "https://remo.com/profile/ben-koller",
+            "https://readdork.com/credits/ben-koller",
+            "https://newnoisemagazine.com/interviews/interview-ben-koller-talks-his-guest-appearance-on-the-armeds-ultrapop-2/",
+            "https://www.loudersound.com/features/ben-koller-diy-diehard",
+            "https://www.youtube.com/watch?v=fmvMgIhZRMo",
+            "https://www.syracuse.com/entertainment/2025/12/popular-metal-drummer-recovering-after-serious-hit-and-run-accident-lucky-to-be-alive.html",
+            "https://alchetron.com/Ben-Koller"
+          ],
+          "bodyExcerpt": "Ben Koller (born July 29, 1980) is an American drummer best known as a longtime member of the influential Massachusetts hardcore-metal band **Converge**.[1] He has also played with **Mutoid Man**, **All Pigs Must Die**, **Killer Be Killed**, and **Cave In**.[3][4]\n\nKoller has been active since 1997 and is recognized for an intense, technically versatile drumming style rooted in hardcore punk and m"
+        }
+      }
+    },
+    {
+      "q": "mayhem drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 20,
+        "position": 9.85,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://blabbermouth.net/news/necrobutcher-on-mayhems-longevity-i-felt-so-strongly-for-this-project-my-whole-life",
+            "https://blabbermouth.net/news/mayhem-drummer-euronymous-and-dead-had-to-die-in-order-for-the-band-to-progress",
+            "https://loudwire.com/slayer-drummer-dave-lombardo-discusses-mayhem-festival-life-on-the-road-more/",
+            "https://blabbermouth.net/news/mayhems-hellhammer-black-metal-for-me-is-about-thinking-for-yourself",
+            "https://loudwire.com/mayhem-drummer-hellhammer-miss-2020-tour-tony-laureano-fill-in/"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/List_of_Mayhem_band_members",
+            "https://en.wikipedia.org/wiki/Hellhammer_(musician)",
+            "https://blabbermouth.net/news/necrobutcher-on-mayhems-longevity-i-felt-so-strongly-for-this-project-my-whole-life",
+            "https://www.linkedin.com/in/larry-lynn-00675137",
+            "https://blabbermouth.net/news/mayhem-drummer-euronymous-and-dead-had-to-die-in-order-for-the-band-to-progress",
+            "https://loudwire.com/slayer-drummer-dave-lombardo-discusses-mayhem-festival-life-on-the-road-more/",
+            "http://hardrockhaven.net/online/2017/video-interview-with-jan-axel-blomberg-aka-hellhammer-of-mayhem/",
+            "https://www.nocleansinging.com/2019/07/08/an-ncs-interview-hellhammer-mayhem/",
+            "https://blabbermouth.net/news/mayhems-hellhammer-black-metal-for-me-is-about-thinking-for-yourself",
+            "https://loudwire.com/mayhem-drummer-hellhammer-miss-2020-tour-tony-laureano-fill-in/"
+          ],
+          "bodyExcerpt": "Mayhem’s current drummer is **Jan Axel Blomberg**, better known as **Hellhammer**. He joined the Norwegian black metal band in 1988 and has been its drummer since then, apart from a brief period away.[1][2]"
+        }
+      }
+    },
+    {
+      "q": "matt garstka drum kit",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 19,
+        "position": 6.842105263157895,
+        "clicks": 3,
+        "ctr": 0.15789473684210525
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://ggd.co/products/matt-garstka-signature-drums",
+            "https://drumfaster.com/rigs/matt-garstka/",
+            "https://equipboard.com/pros/matt-garstka",
+            "https://www.musicradar.com/news/animals-as-leaders-matt-garstka-switches-to-playing-dw-drums",
+            "https://remo.com/profile/matt-garstka",
+            "https://www.youtube.com/watch?v=oWiALitrOLU",
+            "https://www.toontrack.com/product/metal-fusion-midi/",
+            "https://www.youtube.com/watch?v=88cfW12iNpM",
+            "https://www.youtube.com/watch?v=JSSiBf9z86M",
+            "https://www.youtube.com/watch?v=87TSQ43NxrA"
+          ],
+          "bodyExcerpt": "Matt Garstka’s current main kit is a **DW Collector’s Series** setup, using a mixed-shell configuration with DW hardware.[1][4]\n\n- **Bass drums:** 22\" × 16\" DW Collector’s Series Maple Santa Monica; some configurations use two kicks.[1][4]\n- **Rack toms:** 10\" × 8\" and 12\" × 8\".[4]\n- **Floor toms:** 14\" × 14\" and 16\" × 16\".[4]\n- **Snares:** Common options include a 14\" × 6.5\" DW Purpleheart, 14\" ×"
+        }
+      }
+    },
+    {
+      "q": "john otto snare",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 19,
+        "position": 7,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://drumfaster.com/news/ocdp-john-otto-signature-snare/",
+            "https://www.youtube.com/watch?v=jKzmfdIrdUE",
+            "https://www.guitarcenter.com/TAMA/SLP-G-Maple-Snare-Drum-14-x-6-in-1500000260056.gc?template=0y7n73MAL4Km&page=72",
+            "https://drumfaster.com/tag/john-otto/",
+            "https://drummerszone.com/artists/john-da-beat-man-otto/2521/profile/",
+            "https://remo.com/profile/john-otto",
+            "https://www.youtube.com/watch?v=-fFq0yFF838&vl=en",
+            "https://www.reddit.com/r/drums/comments/1x7jf87/i_was_lucky_enough_to_snag_30_of_50_john_otto/",
+            "https://www.zinio.com/publications/modern-drummer-magazine/40281/issues/697882/articles",
+            "https://www.youtube.com/watch?v=2nSGfBBlVdk"
+          ],
+          "bodyExcerpt": "John Otto’s current signature snare is an **OCDP (Orange County Drum & Percussion) 14″ × 6″ vented maple snare**. It features a 12-ply maple shell, seven ¼″ vents, 45° bearing edges, die-cast hoops, Sharktooth lugs, and a custom graffiti wrap designed with Otto.[1]\n\n- **Limited edition:** 50 numbered drums  \n- **Price:** $799.99  \n- **Availability:** Guitar Center exclusive  \n- **Construction:** M"
+        }
+      }
+    },
+    {
+      "q": "periphery drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 19,
+        "position": 9.842105263157896,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://loudwire.com/periphery-matt-halpern-interview-2019/",
+            "https://www.moderndrummer.com/drummers/matt-halpern/",
+            "https://www.moderndrummer.com/article/june-2019-matt-halpern-on-periphery-iv-hail-stan/"
+          ],
+          "allCitations": [
+            "https://www.youtube.com/watch?v=yUZUKydNZUg",
+            "https://www.creativelive.com/classes/studio-pass-periphery-with-adam-nolly-getgood-matt-halpern",
+            "https://www.loudersound.com/news/listen-to-periphery-and-not-to-me-matt-halpern",
+            "https://loudwire.com/periphery-matt-halpern-interview-2019/",
+            "https://www.youtube.com/watch?v=KXiVNRBeOPk",
+            "https://en.wikipedia.org/wiki/Periphery_(band)",
+            "https://www.guitarcenter.com/riffs/news/drums/matt-halpern-drum-workshop-at-guitar-center-hollywood",
+            "https://www.youtube.com/watch?v=RW_fjJ7RPIs",
+            "https://www.moderndrummer.com/drummers/matt-halpern/",
+            "https://www.moderndrummer.com/article/june-2019-matt-halpern-on-periphery-iv-hail-stan/"
+          ],
+          "bodyExcerpt": "Periphery’s drummer is **Matt Halpern**, a founding/current member who has played with the band since 2009.[2][6]"
+        }
+      }
+    },
+    {
+      "q": "best drum heads for metal",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 18,
+        "position": 10.222222222222221,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.guitarcenter.com/riffs/buying-guides/drums/best-drum-heads-guide",
+            "https://drumcenternh.com/blogs/news/7-best-drumheads-for-metal-reviewed",
+            "https://equipboard.com/posts/best-drum-heads",
+            "https://primesound.org/best-drum-heads/",
+            "https://drumstrive.com/best-drum-heads-for-metal/",
+            "https://musiccritic.com/equipment/drums/best-drum-heads/",
+            "https://drumcenternh.com/blogs/news/coated-drum-heads-vs-clear-drum-heads-which-is-best",
+            "https://www.reddit.com/r/drums/comments/15nqln/what_is_the_best_drum_head_and_wood_for_the_metal/",
+            "https://drumstrive.com/best-drum-sets-for-metal/",
+            "https://www.reddit.com/r/drums/comments/178kh6m/what_are_the_best_drum_heads_for_metal/"
+          ],
+          "bodyExcerpt": "For most metal setups, choose **clear 2-ply heads for durability, attack, and controlled sustain**. A strong all-around configuration is:\n\n- **Toms:** Evans **EC2S Clear** or Remo **Emperor Clear** — articulate, punchy, and durable for fast fills and low tuning.[1][3]\n- **Snare:** Remo **Emperor X Coated** for maximum durability and a powerful, controlled crack; Evans **EC Reverse Dot** is another"
+        }
+      }
+    },
+    {
+      "q": "death drummers",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 18,
+        "position": 7,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://loudwire.com/best-death-metal-drummers-the-black-dahlia-murder-alan-cassidy/"
+          ],
+          "allCitations": [
+            "https://www.reddit.com/r/DeathBand/comments/ovj5lf/best_death_drummer/",
+            "https://loudwire.com/best-death-metal-drummers-the-black-dahlia-murder-alan-cassidy/",
+            "https://www.reddit.com/r/Deathmetal/comments/5i665q/best_death_metal_drummers/",
+            "https://www.thetoptens.com/metal/best-death-metal-drummers/",
+            "https://www.reddit.com/r/DeathBand/comments/1ezgdx4/rank_the_drummers_of_death/",
+            "https://www.toontrack.com/product/death-metal-ezx/",
+            "https://en.wikipedia.org/wiki/List_of_Death_(metal_band)_members",
+            "https://www.billboard.com/music/music-news/james-gadson-death-drummer-dies-diana-ross-bill-withers-1236215434",
+            "https://www.heart.org/en/news/2019/05/17/drummers-death-inspires-grief-stricken-bandmates-to-rethink-rock-n-roll-lifestyle",
+            "https://www.loudersound.com/features/the-10-best-drummers-in-technical-death-metal"
+          ],
+          "bodyExcerpt": "“Death drummers” could mean either:\n\n- **Drummers who played in the band Death:** Chris Reifert, Bill Andrews, Sean Reinert, Gene Hoglan, and Richard Christy are the best-known studio drummers across Death’s albums.[1][5][7]\n- **Notable death-metal drummers generally:** George Kollias, Flo Mounier, John Longstreth, Mike Heller, Hannes Grossmann, Derek Roddy, and Vitek are frequently highlighted fo"
+        }
+      }
+    },
+    {
+      "q": "frost satyricon",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 18,
+        "position": 10.88888888888889,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://loudwire.com/frost-new-satyricon-album-inspiration-motivation-exclusive-interview/",
+            "https://blabbermouth.net/news/satyricons-frost-i-never-try-to-copy-anyone"
+          ],
+          "allCitations": [
+            "https://distortedsoundmag.com/interview-frost-satyricon/",
+            "https://www.loudersound.com/the-story-behind-satyricon-king",
+            "https://en.wikipedia.org/wiki/Kjetil-Vidar_Haraldstad",
+            "http://www.youtube.com/watch?v=H5piFHEVkfU",
+            "https://metalbite.com/interviews/2777/satyricon-with-frost-drums",
+            "https://loudwire.com/frost-new-satyricon-album-inspiration-motivation-exclusive-interview/",
+            "https://blabbermouth.net/news/satyricons-frost-i-never-try-to-copy-anyone",
+            "https://www.yahoo.com/entertainment/music/articles/satyricon-created-black-metals-answer-160000863.html",
+            "https://www.rockombia.com/entrevista/entrevista-con-frost-de-satyricon",
+            "https://depart.gr/satyricon-dark-medieval-times-story/"
+          ],
+          "bodyExcerpt": "Frost is the stage name of **Kjetil-Vidar Haraldstad**, a Norwegian black-metal drummer best known as a member of **Satyricon** and **1349**. He was born on June 28, 1973, and first joined Satyricon to record *The Forest Is My Throne* before becoming a full-time member.[3]\n\nIn Satyricon, Frost performs alongside vocalist and multi-instrumentalist **Satyr**. He has played on major albums including "
+        }
+      }
+    },
+    {
+      "q": "frost drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 17,
+        "position": 8.058823529411764,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drummerworld.com/articles/news/frost-of-satyricon-joins-czarcie-kopyto/",
+            "https://drummagazine.com/derrick-frost-post-prog-powerhouse/"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Kjetil-Vidar_Haraldstad",
+            "https://drummerszone.com/artists/kjetil-frost-haraldstad/4868/profile/",
+            "https://simple.wikipedia.org/wiki/Kjetil-Vidar_Haraldstad",
+            "https://www.drummerworld.com/articles/news/frost-of-satyricon-joins-czarcie-kopyto/",
+            "https://drummagazine.com/derrick-frost-post-prog-powerhouse/",
+            "https://www.miaminewtimes.com/music/qanda-with-satyricon-playing-at-club-cinema-this-sunday-6449895/",
+            "https://en.beatit.tv/frost-satyricon-joins-czarcie-kopyto-family/",
+            "https://beatsperminute.com/experimental-producer-and-percussionist-frost-creates-minuscule-worlds-on-clave-c-and-clave-d/",
+            "https://www.invisibleoranges.com/interview-frost-satyricon/",
+            "http://www.youtube.com/watch?v=H5piFHEVkfU"
+          ],
+          "bodyExcerpt": "**Frost** is the stage name of **Kjetil-Vidar Haraldstad**, a Norwegian extreme-metal drummer best known for playing with **Satyricon** and **1349**.[1][2] He is renowned for his fast, precise blast beats and has also performed with bands including Gorgoroth, Gehenna, Zyklon-B, and Keep of Kalessin.[1][4]"
+        }
+      }
+    },
+    {
+      "q": "john otto drum kit",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 17,
+        "position": 8.176470588235293,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.youtube.com/watch?v=jKzmfdIrdUE",
+            "https://equipboard.com/pros/john-otto",
+            "https://www.stars-music.com/zildjian-signature-john-otto_107382.html",
+            "https://www.zzounds.com/item--ZDJSDBASOT",
+            "https://www.youtube.com/watch?v=P71fjhKFb1Y",
+            "https://www.youtube.com/watch?v=4ZxIanq3qpk",
+            "https://www.youtube.com/watch?v=EocT9FzzOfY",
+            "https://www.zinio.com/publications/modern-drummer-magazine/40281/issues/697882/articles",
+            "https://drummersreview.com/interviews/rollin-live-drum-cam-and-john-otto-interview-birmingham-13-03-25/",
+            "https://www.youtube.com/watch?v=8xDgUhTurqA"
+          ],
+          "bodyExcerpt": "John Otto of Limp Bizkit is primarily associated with **Orange County Drums and Percussion (OCDP)** kits, plus **Zildjian cymbals, Gibraltar hardware, and Remo heads**.[1][2]\n\n### Typical John Otto kit\n\n- **Bass drum:** 22 × 20 in\n- **Toms:** commonly 10 × 8, 12 × 10, 14 × 12, 16 × 14, and 18 × 16 in\n- **Snares:** custom OCDP/Orange County snares, often heavily vented and built with thick multi-pl"
+        }
+      }
+    },
+    {
+      "q": "children of bodom drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 16,
+        "position": 6.0625,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://blabbermouth.net/news/watch-children-of-bodom-members-play-first-a-celebration-of-music-concert-in-helsinki"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Children_of_Bodom",
+            "https://en.wikipedia.org/wiki/Jaska_Raatikainen",
+            "https://blabbermouth.net/news/watch-children-of-bodom-members-play-first-a-celebration-of-music-concert-in-helsinki",
+            "https://www.yahoo.com/entertainment/tour-manager-had-every-city-135441694.html",
+            "https://www.grimmgent.com/interviews/children-of-bodom/",
+            "https://www.deezer.com/us/artist/530",
+            "http://www.metalunderground.com/bands/details.cfm?bandid=448",
+            "https://www.loudersound.com/features/the-meteoric-rise-and-tragic-end-of-children-of-bodom",
+            "https://www.metalsucks.net/2019/11/01/children-of-bodom-to-undergo-major-line-up-change/",
+            "https://www.guitarworld.com/news/alexi-laiho-breaks-shoulder-tour-bus-mishap"
+          ],
+          "bodyExcerpt": "The drummer of **Children of Bodom** was **Jaska Raatikainen**, a Finnish musician and co-founder who played with the band from 1993 until its 2019 breakup.[1][2]"
+        }
+      }
+    },
+    {
+      "q": "jay weinberg drum kit",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 16,
+        "position": 8.625,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://loudwire.com/jay-weinberg-first-slipknot-drum-kit-secret/"
+          ],
+          "allCitations": [
+            "https://mixwave.com/products/jay-weinberg",
+            "https://drumfaster.com/rigs/jay-weinberg/",
+            "https://lambgoat.com/news/52123/ex-slipknot-drummer-jay-weinberg-selling-drums-and-collectibles-from-his-former-bands/",
+            "https://equipboard.com/items/jay-weinberg-2019-drum-kit",
+            "https://equipboard.com/pros/jay-weinberg",
+            "https://articles.roland.com/jay-weinberg-of-slipknot-vad506/",
+            "https://www.youtube.com/watch?v=VyPelauL_Nc&xstg=CAMSBhUDze3xHw==",
+            "https://www.musicradar.com/news/mixwave-jay-weinberg-slipknot-drum-sound-in-affordable-plugin-electronic-drum-set",
+            "https://www.reddit.com/r/Slipknot/comments/c9peks/jay_weinbergs_drum_kit/",
+            "https://loudwire.com/jay-weinberg-first-slipknot-drum-kit-secret/"
+          ],
+          "bodyExcerpt": "Jay Weinberg’s main acoustic setup is an **SJC Custom Drums 8-piece kit**, typically configured with:\n\n- **Bass drums:** Four 22-inch drums—two 22×14 and two 22×20\n- **Rack toms:** 10×7, 12×8, and 13×9\n- **Floor toms:** 16×16 and 18×16\n- **Snares:** Multiple SJC models, including The Crucible brass, Goliath bell brass, JW48 maple, and Liquid Death aluminum\n- **Cymbals:** Primarily **Zildjian**, in"
+        }
+      }
+    },
+    {
+      "q": "death drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 15,
+        "position": 8.733333333333334,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://loudwire.com/best-death-metal-drummers-the-black-dahlia-murder-alan-cassidy/"
+          ],
+          "allCitations": [
+            "https://www.billboard.com/music/music-news/james-gadson-death-drummer-dies-diana-ross-bill-withers-1236215434",
+            "https://en.wikipedia.org/wiki/Martin_Kearns",
+            "https://people.com/drummer-dead-after-collapsing-mid-show-at-rock-festival-12066003",
+            "https://www.nbc4i.com/news/u-s-world/zz-top-announces-death-of-drummer-frank-beard-at-77",
+            "https://memoritree.com/memorial/mike-browning",
+            "https://loudwire.com/best-death-metal-drummers-the-black-dahlia-murder-alan-cassidy/",
+            "https://www.pennlive.com/entertainment/2025/04/music-world-rocked-by-iconic-drummers-death-following-cancer-battle.html",
+            "https://www.noecho.net/interviews/septic-death-2026-interview",
+            "https://www.heart.org/en/news/2019/05/17/drummers-death-inspires-grief-stricken-bandmates-to-rethink-rock-n-roll-lifestyle",
+            "https://abc7.com/post/dh-peligro-dead-kennedys-drummer-celebrity-deaths-darren-henley/12396164/"
+          ],
+          "bodyExcerpt": "“Death drummer” could refer to several people:\n\n- **Mike Browning**, death-metal drummer, vocalist, and co-founder of **Morbid Angel** and **Nocturnus**, died July 13, 2026, at 62.[5]\n- **Frank Beard**, drummer of **ZZ Top**, died in August 2026 at 77; no cause of death was announced.[4]\n- **Raja Azreen Raja Talib**, drummer of Malaysian rock band **Meditasi**, died after collapsing during a July "
+        }
+      }
+    },
+    {
+      "q": "john otto",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 14,
+        "position": 12.428571428571429,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/2004/05/john-otto/"
+          ],
+          "allCitations": [
+            "https://www.wiesbaden.de/en/stadtlexikon/stadtlexikon-a-z/john-otto",
+            "https://www.linkedin.com/in/john-otto1",
+            "https://www.nps.gov/colm/learn/historyculture/john-otto.htm",
+            "https://www.linkedin.com/in/john-otto-70b02820",
+            "https://www.imdb.com/name/nm0653262/",
+            "https://en.wikipedia.org/wiki/John_Otto",
+            "https://news.tamus.edu/funeral-arrangements-announced-for-ex-state-rep-john-otto/",
+            "https://remo.com/profile/john-otto",
+            "https://www.moderndrummer.com/2004/05/john-otto/",
+            "https://triblive.com/opinion/john-otto-dont-pull-the-plug-on-our-energy-industry/"
+          ],
+          "bodyExcerpt": "“John Otto” can refer to several people. The most prominent are:\n\n- **John Otto (born 1977)** — American drummer and founding member of the rap-rock band **Limp Bizkit**.[1]\n- **John Otto (1870–1952)** — Promoter and first superintendent of **Colorado National Monument**, where he built trails and advocated for the site’s protection.[2]\n- **John E. Otto (1938–2020)** — American law-enforcement off"
+        }
+      }
+    },
+    {
+      "q": "lars ulrich 1983",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 14,
+        "position": 9.142857142857142,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://faroutmagazine.co.uk/the-1983-album-that-made-lars-ulrich-a-lifelong-enemy-hes-not-good/",
+            "https://www.metal-archives.com/artists/Lars_Ulrich/187",
+            "https://www.lesinrocks.com/artistes/lars-ulrich/",
+            "https://www.onthisday.com/people/lars-ulrich",
+            "https://www.a-speakers.com/speakers/lars-ulrich/",
+            "https://www.lyricsfreak.com/person/lars+ulrich-13839",
+            "https://metallica.fandom.com/wiki/Lars_Ulrich",
+            "https://codamusic.me/artists/lars-ulrich/",
+            "https://en.wikipedia.org/wiki/Lars_Ulrich",
+            "https://www.tvinsider.com/people/lars-ulrich/"
+          ],
+          "bodyExcerpt": "In **1983**, Lars Ulrich was **19** and serving as Metallica’s drummer and co-founder. The band released its debut album, *Kill ’Em All*, on July 25, 1983; Ulrich also received songwriting credits on several tracks.[2][4]\n\nThat year, Metallica’s lineup included James Hetfield, Cliff Burton, Kirk Hammett, and Ulrich, following Dave Mustaine’s departure. *Kill ’Em All* helped establish the band in t"
+        }
+      }
+    },
+    {
+      "q": "painkiller bpm",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 14,
+        "position": 7.142857142857143,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://songbpm.com/@ruel/painkiller-q9k13",
+            "https://www.mixgraph.io/tracks/coone-painkiller",
+            "https://songbpm.com/@judas-priest/painkiller",
+            "https://www.mixgraph.io/tracks/crewcutz-painkiller",
+            "https://getsongbpm.com/song/painkiller/lO00V",
+            "https://www.songscription.ai/catalog/judas-priest/painkiller/piano-tutorial",
+            "https://songparts.com/songs/three-days-grace/painkiller",
+            "https://songs.klang.io/en/s/Judas%20Priest/Painkiller/nM__lPTWThU",
+            "https://songbpm.com/@ruel/painkiller",
+            "https://songbpm.com/@freestylers/painkiller"
+          ],
+          "bodyExcerpt": "Which **“Painkiller”** do you mean?\n\n- **Judas Priest:** about **206–207 BPM**[5][8]\n- **Ruel:** **129 BPM**[1]\n- **Three Days Grace:** about **90 BPM**[7]\n- **Coone & Joe Killington:** **150 BPM**[2]"
+        }
+      }
+    },
+    {
+      "q": "best metal drummers",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 13,
+        "position": 11.23076923076923,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/best-metal-drummers/",
+            "https://www.drumeo.com/beat/ash-pearsons-top-50-metal-drummers/"
+          ],
+          "allCitations": [
+            "https://www.gear4music.com/blog/best-metal-drummers/",
+            "https://www.loudersound.com/features/top-10-best-drummers-in-metal-right-now",
+            "https://drummagazine.com/best-metal-drummers/",
+            "https://www.musicradar.com/news/best-of-2022-metal-drummers",
+            "https://www.musicradar.com/news/the-10-best-metal-drummers-in-the-world-right-now-as-voted-for-by-you",
+            "https://www.drumeo.com/beat/ash-pearsons-top-50-metal-drummers/",
+            "https://www.thomannmusic.com/blog/inspire/top-10-drummers-to-follow/",
+            "https://consequence.net/2024/09/favorite-drummers-survey-drum-week/19/",
+            "https://www.musicradar.com/news/drums/drummers-world-cup-the-11-best-metal-and-prog-metal-drummers-of-all-time-567657",
+            "https://www.reddit.com/r/MetalForTheMasses/comments/1i0vrri/who_are_the_best_metal_drummers/"
+          ],
+          "bodyExcerpt": "There’s no single objective “best,” but these drummers are widely regarded as essential across metal’s major styles:\n\n- **Dave Lombardo** — Slayer; explosive speed, precision, and pioneering thrash-metal double bass.\n- **Joey Jordison** — Slipknot; exceptional speed, accuracy, and highly energetic playing.[1][2]\n- **Tomas Haake** — Meshuggah; foundational polyrhythmic, groove-heavy work in progres"
+        }
+      }
+    },
+    {
+      "q": "how tall is danny carey",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 13,
+        "position": 11.384615384615385,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/tool-drummer/"
+          ],
+          "allCitations": [
+            "https://www.imdb.com/name/nm0136927/",
+            "https://www.imdb.com/name/nm0136927/bio/",
+            "https://www.kinopoisk.ru/name/562884/",
+            "https://celeb-db.com/en/danny-carey/",
+            "https://drummagazine.com/tool-drummer/",
+            "https://www.imdb.com/name/nm0136927/faq/?attribute=date-of-birth",
+            "https://www.astrotheme.com/astrology/Danny_Carey",
+            "https://www.wikidata.org/wiki/Q447698",
+            "https://www.rollingstone.com/music/music-news/tool-drummer-goes-to-circus-243759/",
+            "https://www.theshot.com/music/tallest-musicians"
+          ],
+          "bodyExcerpt": "Danny Carey is **6 feet 5 inches tall**—about **1.96 meters**.[1]"
+        }
+      }
+    },
+    {
+      "q": "john otto drum setup",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 13,
+        "position": 7.538461538461538,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/llms/articles/significant-other-drum-setup.md",
+            "https://metalforge.io/llms/drummers/john-otto.md"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.youtube.com/watch?v=jKzmfdIrdUE",
+            "https://metalforge.io/llms/articles/significant-other-drum-setup.md",
+            "https://metalforge.io/llms/drummers/john-otto.md",
+            "https://equipboard.com/pros/john-otto",
+            "https://www.youtube.com/watch?v=8xDgUhTurqA",
+            "https://www.youtube.com/watch?v=EocT9FzzOfY",
+            "https://www.youtube.com/watch?v=e5Ye2iY4X08",
+            "https://www.youtube.com/watch?v=4ZxIanq3qpk",
+            "https://www.youtube.com/watch?v=n603SS3l5rE",
+            "https://www.youtube.com/watch?v=Cq55GmS1_Tk&vl=en"
+          ],
+          "bodyExcerpt": "John Otto’s **classic Limp Bizkit-era setup** was a large OCDP kit, though the exact configuration varied by tour:\n\n- **Bass drum:** 22″ × 20″ kick; some later touring setups used two bass drums.[1][7]\n- **Rack toms:** Typically two, often around 10″/12″ or 12″/14″ configurations.[1][5]\n- **Floor toms:** Two large floor toms, commonly 16″ × 14″ and 18″ × 16″.[1]\n- **Snares:** A heavily vented, thi"
+        }
+      }
+    },
+    {
+      "q": "john otto cymbal setup",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 12,
+        "position": 6.583333333333333,
+        "clicks": 3,
+        "ctr": 0.25
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/llms/articles/significant-other-drum-setup.md",
+            "https://metalforge.io/drummer/john-otto",
+            "https://metalforge.io/llms/drummers/john-otto.md"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.youtube.com/watch?v=jKzmfdIrdUE",
+            "https://metalforge.io/llms/articles/significant-other-drum-setup.md",
+            "https://equipboard.com/pros/john-otto",
+            "https://www.youtube.com/watch?v=ApFLtw5WaAA",
+            "https://metalforge.io/drummer/john-otto",
+            "https://www.youtube.com/watch?v=4ZxIanq3qpk",
+            "https://metalforge.io/llms/drummers/john-otto.md",
+            "https://www.instagram.com/p/Cs4csU3Slcc/",
+            "https://www.youtube.com/watch?v=-fjD-iFaGNU",
+            "https://www.youtube.com/watch?v=98eHDRulJo4"
+          ],
+          "bodyExcerpt": "John Otto’s **documented Limp Bizkit-era cymbal setup** centers on Zildjian cymbals:\n\n- **13\" A Custom Mastersound hi-hats**\n- **16\" A Custom Projection Crash**\n- **17\" A Custom Projection Crash**\n- **20\" A Custom EFX**\n- **20\" FX Oriental Crash of Doom**[1][2]\n- **20\" A Custom or A Series ride**\n- Additional **splashes**, commonly reported around 4\", 6\", and 8\"\n- An **18\"–20\" Oriental China** dep"
+        }
+      }
+    },
+    {
+      "q": "nick menza drum kit",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 12,
+        "position": 4.583333333333334,
+        "clicks": 1,
+        "ctr": 0.08333333333333333
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://equipboard.com/pros/nick-menza",
+            "https://www.youtube.com/watch?v=pKjx5Pp_SKs",
+            "https://rockandrollparadise.com/nick-menza-52016/",
+            "https://www.youtube.com/watch?v=mPjsBbT6wWM",
+            "https://kids.kiddle.co/Nick_Menza",
+            "https://drummerszone.com/news/make-a-bid-on-megadeth-drum-kit/music-news-2-4192/article/",
+            "https://www.youtube.com/watch?v=shk6_2Vzssk",
+            "https://www.youtube.com/watch?v=ymZ4MTWcjIw",
+            "https://www.rollingstone.com/music/music-news/nick-menza-former-megadeth-drummer-dead-at-51-60991/",
+            "https://wgrd.com/nick-menza-releasing-drumkit-video-from-his-megadeth-years-video/"
+          ],
+          "bodyExcerpt": "Nick Menza used several kits throughout his career, but his iconic **Megadeth-era setup** was a large double-bass kit built around a custom **Greg Voelker Rack System**. The rack mounted the toms low and the cymbals high, creating the distinctive “cage” appearance associated with his *Rust in Peace* and *Countdown to Extinction* tours.[1][3][4]\n\n### Notable configurations\n\n- **Tama Artstar ES:** T"
+        }
+      }
+    },
+    {
+      "q": "john otto signature snare",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 12,
+        "position": 9.833333333333334,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/llms/drummers/john-otto.md"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://drumfaster.com/news/ocdp-john-otto-signature-snare/",
+            "https://metalforge.io/llms/drummers/john-otto.md",
+            "https://drumfaster.com/tag/john-otto/",
+            "https://www.reddit.com/r/drums/comments/1x7jf87/i_was_lucky_enough_to_snag_30_of_50_john_otto/",
+            "https://www.guitarcenter.com/Ludwig/Hammered-Acrolite-Snare-Drum-14-x-65-in-1500000020907.gc?template=0y7n73MAL4Km&page=90",
+            "https://www.guitarcenter.com/Orange-County-Drum-Percussion/Snare-Drums.gc",
+            "https://www.youtube.com/watch?v=jKzmfdIrdUE",
+            "https://drumfaster.com/news/canopus-ba-1470-baritone-snare/",
+            "https://www.musicarts.com/pro-drums-percussion?page=4",
+            "https://drumfaster.com/news/"
+          ],
+          "bodyExcerpt": "The **OCDP John Otto Signature Snare** is a limited-edition, USA-made snare designed with Limp Bizkit drummer John Otto:\n\n- **Size:** 14 × 6 inches  \n- **Shell:** 12-ply maple  \n- **Venting:** Seven ¼-inch vents  \n- **Hardware:** Die-cast hoops, sharktooth lugs, chrome fittings  \n- **Finish:** Custom graffiti wrap  \n- **Edition:** Limited to 50 numbered drums  \n- **Includes:** Signed certificate  "
+        }
+      }
+    },
+    {
+      "q": "matt greiner drum setup",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 12,
+        "position": 6.916666666666667,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": true,
+          "bodyMentionsUs": false,
+          "usCitations": [
+            "https://metalforge.io/drummer/matt-greiner"
+          ],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://metalforge.io/drummer/matt-greiner",
+            "https://www.youtube.com/watch?v=gGYL5YLdqmg",
+            "https://www.youtube.com/watch?v=AfSOCJNRJHc",
+            "http://www.youtube.com/watch?v=iHfDzYdtLUs",
+            "https://www.youtube.com/watch?v=YFc1ORopLtg",
+            "https://www.youtube.com/watch?v=H6TR9KcEMg4",
+            "https://www.youtube.com/watch?v=Z9auKuQAfSM",
+            "https://www.youtube.com/watch?v=zxFwlLFIfzs&xstg=CAMSBhUD_LL2Hw==",
+            "https://www.youtube.com/watch?v=ck_No-LUSBI",
+            "https://www.youtube.com/watch?v=ic-9iVKNYLw"
+          ],
+          "bodyExcerpt": "Matt Greiner’s setup has changed over time, but his well-documented modern rig is:\n\n- **Drums:** DW Collector’s Series Pure Maple shells with reinforcement rings.[1]\n- **Bass drums:** Often two 22-inch kicks with separate DW 9000 pedals; he has also used one kick with a double pedal.[2]\n- **Snare:** Primary brass snare, with a bronze backup.[1]\n- **Cymbals:** Zildjian setup featuring:\n  - 14\" A Cu"
+        }
+      }
+    },
+    {
+      "q": "mickey dee drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 12,
+        "position": 14.083333333333334,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/article/mikkey-dee-playing-heavy-music-on-the-drums/",
+            "https://drummagazine.com/mikkey-dee-shock-the-system/",
+            "https://www.moderndrummer.com/article-tags/mikkey-dee/"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Mikkey_Dee",
+            "https://www.sonor.com/de/drums/kuenstler/kuenstler-detail/mikkey-dee",
+            "https://fakti.bg/en/life/1095791-mickey-dee-turns-63-from-motorhead-to-scorpions",
+            "https://www.moderndrummer.com/article/mikkey-dee-playing-heavy-music-on-the-drums/",
+            "https://www.kerrang.com/mikkey-dee-interview-life-less-ordinary-motorhead-scorpions-king-diamond-lex-legion",
+            "https://www.paiste.com/en/about/stories/musicians/mikkey-dee-interview",
+            "https://drummagazine.com/mikkey-dee-shock-the-system/",
+            "https://www.youtube.com/watch?v=zBMy8yrML2s",
+            "https://www.moderndrummer.com/article-tags/mikkey-dee/",
+            "https://www.metal-archives.com/artists/Mikkey_Dee/295"
+          ],
+          "bodyExcerpt": "**Mikkey Dee**—sometimes written “Mickey Dee”—is the Swedish heavy-metal drummer Micael Kiriakos Delaoglou, born October 31, 1963. He played with **King Diamond** from 1985–1989, **Motörhead** from 1992–2015, and joined the **Scorpions** in 2016.[1][2]\n\nHe is known for fast, precise playing and extended drum solos, particularly on albums such as *Abigail* and *Conspiracy* with King Diamond.[3]"
+        }
+      }
+    },
+    {
+      "q": "who played drums on hail to the king",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 12,
+        "position": 7.416666666666667,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://blabbermouth.net/news/avenged-sevenfold-to-release-hail-to-the-king-single-on-monday"
+          ],
+          "allCitations": [
+            "https://www.musicradar.com/news/guitars/synyster-gates-talks-avenged-sevenfolds-hail-to-the-king-track-by-track-582256",
+            "https://www.songfacts.com/facts/avenged-sevenfold/hail-to-the-king",
+            "https://songsuey.com/artist/avenged-sevenfold/hail-to-the-king/",
+            "https://www.youtube.com/watch?v=cPwh80hqGGk",
+            "https://en.wikipedia.org/wiki/Hail_to_the_King_(song)",
+            "https://drummer-tube.com/songs/hail-to-the-king-original-version-drum-cover/",
+            "https://blabbermouth.net/news/avenged-sevenfold-to-release-hail-to-the-king-single-on-monday",
+            "https://www.duskyillusions.com/avenged-sevenfold-hail-king/",
+            "https://www.reddit.com/r/avengedsevenfold/comments/xab7tz/why_does_everyone_hate_hail_to_the_king/",
+            "https://www.reddit.com/r/avengedsevenfold/comments/1dlj5p3/whats_the_best_drumming_songs_for_a7x/"
+          ],
+          "bodyExcerpt": "**Arin Ilejay** played drums on Avenged Sevenfold’s *Hail to the King* album. It was the first album by the band to feature him, following Jimmy “The Rev” Sullivan’s death.[1]"
+        }
+      }
+    },
+    {
+      "q": "brann dailor drum kit",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 11,
+        "position": 5.545454545454546,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/mastodon-drummer-brann-dailor-anatomy-of-a-session-for-emperor-of-sand/"
+          ],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Brann_Dailor",
+            "https://www.tama.com/usa/artists/detail/53.html",
+            "https://equipboard.com/pros/brann-dailor",
+            "https://www.youtube.com/watch?v=0KoEkGHngmI",
+            "https://www.musicradar.com/news/drums/brann-dailors-mastodon-drum-setup-in-pictures-528024",
+            "https://geargods.net/video/mastodons-brann-dailor-has-a-randy-rhoads-drumset/",
+            "https://www.latimes.com/entertainment-arts/music/story/2026-10-12/ghost-of-brent-hinds-haunts-mastodons-emotional-hollywood-palladium-show",
+            "https://drummagazine.com/mastodon-drummer-brann-dailor-anatomy-of-a-session-for-emperor-of-sand/",
+            "https://www.youtube.com/watch?v=trmSdQzyO2Y",
+            "https://www.musicradar.com/news/drums/drum-heroes-week-the-secret-weapons-of-your-favourite-drummers-599452"
+          ],
+          "bodyExcerpt": "Brann Dailor’s current live kit is a **custom Tama Starclassic Performer B/B** setup:\n\n- **Bass drum:** 22\" × 18\"\n- **Rack toms:** 10\" × 8\", 12\" × 9\", 13\" × 10\"\n- **Floor tom:** 16\" × 16\"\n- **Snare:** Tama Starphonic brass, 14\" × 6\"\n- **Cymbals:** Meinl, including 14\" Mb20 hi-hats, 18\" and 20\" crashes, an 8\" bell, and a 21\" Mb8 Ghost Ride\n- **Pedal:** Tama Speed Cobra double pedal\n- **Heads:** Eva"
+        }
+      }
+    },
+    {
+      "q": "danny carey drum set",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 11,
+        "position": 12.818181818181818,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drumeo.com/beat/danny-carey-genius/",
+            "https://drummagazine.com/tool-drummer/"
+          ],
+          "allCitations": [
+            "https://www.drumeo.com/beat/danny-carey-genius/",
+            "https://drumfaster.com/rigs/danny-carey/",
+            "https://drummagazine.com/tool-drummer/",
+            "https://en.wikipedia.org/wiki/Danny_Carey",
+            "https://drumfaster.com/drummers/danny-carey/",
+            "https://equipboard.com/pros/danny-carey",
+            "https://www.youtube.com/watch?v=Bbid82Ws70k",
+            "https://www.musicradar.com/news/tool-danny-carey-drum-kit-tour-joe-slaby",
+            "https://reverb.com/news/the-gear-of-tool-adam-jones-justin-chancellor-danny-carey",
+            "https://www.uberproaudio.com/who-plays-what/189-tool-danny-carey-drum-kit-gear-and-drum-set-equipment"
+          ],
+          "bodyExcerpt": "Danny Carey’s main Tool drum setup is a **custom Sonor SQ2 kit** with Paiste cymbals and electronic Mandala pads.\n\n- **Bass drums:** 24″ × 20″ and 22″ × 19″  \n- **Rack toms:** 8″ × 8″, 10″ × 10″, and 12″ × 12″  \n- **Floor toms:** 14″ × 16″ and 16″ × 18″  \n- **Gong drum:** 22″ × 15″  \n- **Snare:** commonly a 14″ × 8″ Sonor or bronze snare[1][3]\n\nHis cymbal setup is dominated by **Paiste 2002, Signa"
+        }
+      }
+    },
+    {
+      "q": "hail to the king drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 11,
+        "position": 6.909090909090909,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.songfacts.com/facts/avenged-sevenfold/hail-to-the-king",
+            "https://drummer-tube.com/songs/hail-to-the-king-original-version-drum-cover/",
+            "https://en.wikipedia.org/wiki/Hail_to_the_King_(song)",
+            "https://en.wikipedia.org/wiki/Hail_to_the_King_(Avenged_Sevenfold_album)",
+            "https://www.musicradar.com/news/guitars/synyster-gates-talks-avenged-sevenfolds-hail-to-the-king-track-by-track-582256",
+            "https://alchetron.com/Hail-to-the-King-(song)",
+            "https://bravewords.com/news/hammerfall-take-you-behind-the-scenes-of-hail-to-the-king-video/",
+            "https://www.loudersound.com/music/tracks-singles/this-sort-of-dumbed-down-version-of-rock-music-is-very-unnatural-for-us-its-not-what-we-do-how-avenged-sevenfolds-funny-little-experiment-with-hail-to-the-king-yielded-extraordinary-results",
+            "https://www.sputnikmusic.com/review/58536/Avenged-Sevenfold-Hail-To-The-King/",
+            "https://en.wikipedia.org/wiki/Avenged_Sevenfold"
+          ],
+          "bodyExcerpt": "The drummer on Avenged Sevenfold’s **“Hail to the King”** was **Arin Ilejay**.[1] He performed on the 2013 album, which was his only studio album with the band.[4]"
+        }
+      }
+    },
+    {
+      "q": "jay weinberg drum set",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 11,
+        "position": 11.181818181818182,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://drumfaster.com/rigs/jay-weinberg/",
+            "https://www.musicradar.com/news/mixwave-jay-weinberg-slipknot-drum-sound-in-affordable-plugin-electronic-drum-set",
+            "https://equipboard.com/pros/jay-weinberg",
+            "https://equipboard.com/items/jay-weinberg-2019-drum-kit",
+            "https://www.youtube.com/watch?v=VyPelauL_Nc",
+            "https://articles.roland.com/jay-weinberg-of-slipknot-vad506/",
+            "https://www.youtube.com/watch?v=3xUi-Zy965A",
+            "https://www.youtube.com/watch?v=dI_XNLZ-r4I&vl=en",
+            "https://en.wikipedia.org/wiki/Jay_Weinberg",
+            "https://www.youtube.com/watch?v=KL7bIgvfHzg"
+          ],
+          "bodyExcerpt": "Jay Weinberg’s main acoustic setup has been built around **custom SJC drums**, **Zildjian cymbals**, **DW hardware**, **Evans heads**, and **Vater sticks**.[1][9]\n\n### Typical Slipknot touring kit\n\n- Two 22-inch bass drums, commonly 22\" × 14\"\n- Rack toms: 10\" × 7\", 12\" × 8\", and 13\" × 9\"\n- Floor toms: 16\" × 16\" and 18\" × 16\"\n- SJC signature snares, including:\n  - **The Crucible**: 14\" × 6.5\" brass"
+        }
+      }
+    },
+    {
+      "q": "kevin talley drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 11,
+        "position": 11.727272727272727,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://blabbermouth.net/news/misery-index-drummer-joins-chimaira-replacement-named"
+          ],
+          "allCitations": [
+            "https://www.facebook.com/drummerkevintalley/",
+            "https://en.wikipedia.org/wiki/Kevin_Talley",
+            "https://www.wikidata.org/wiki/Q3288729",
+            "https://metalstorm.net/bands/bandmember.php?member_id=2416",
+            "https://drummerszone.com/news/kevin-talley-drum-video-online/artist-news-1-5612/article/",
+            "https://www.metalblade.com/site/news/battlecross-announces-fill-in-live-drummer/",
+            "https://www.metalblade.com/us/news/battlecross-announces-fill-in-live-drummer/",
+            "https://www.metalpaths.com/news/2013/05/31/six-feet-under-parts-ways-with-drummer-announces-replacement/",
+            "https://themusic.com.au/news/soundwaves-six-feet-under-drummer-in-dirtbike-accidentq/X0Zwc3J1dHc/19-02-13",
+            "https://blabbermouth.net/news/misery-index-drummer-joins-chimaira-replacement-named"
+          ],
+          "bodyExcerpt": "Kevin Talley is an American metal drummer born May 21, 1979. He is known for his technical, fast style and has performed with **Dying Fetus, Misery Index, Chimaira, Six Feet Under, Suffocation, Dååth, Nothnegal, Feared,** and **Sylencer**.[2][4]\n\nHe has also served as a touring or fill-in drummer for **The Black Dahlia Murder, The Red Chord, Hate Eternal,** and **Battlecross**.[2][5][6] Talley aud"
+        }
+      }
+    },
+    {
+      "q": "nick menza",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 11,
+        "position": 9,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://en.wikipedia.org/wiki/Nick_Menza",
+            "https://music.apple.com/us/artist/nick-menza/170426322",
+            "https://megadeth.com.ar/miembros/nick-menza",
+            "https://www.bostonglobe.com/metro/obituaries/2016/05/22/megadeth-drummer-nick-menza-collapses-stage-dies/qG7NE2X7xRLfZL5N1voS9L/story.html",
+            "https://www.loudersound.com/features/nick-menza-obituary",
+            "https://www.musicradar.com/news/drums/drummer-nick-menza-dies-at-51-the-music-world-reacts-and-pays-tribute-638253",
+            "https://www.cnn.com/2016/05/22/living/nick-menza-ex-megadeth-drummer-death-trnd",
+            "https://www.imdb.com/name/nm1269458/",
+            "https://www.abc.net.au/news/2016-05-23/nick-menza-megadeth-drummer-dies-age-51/7436208",
+            "https://www.billboard.com/music/rock/megadeth-dave-mustaine-tribute-nick-menza-7378464/"
+          ],
+          "bodyExcerpt": "Nick Menza (1964–2016) was an American drummer best known for his nine-year tenure with **Megadeth**, from 1989 to 1998.[1][4]\n\nHe played on four of the band’s classic studio albums:\n\n- *Rust in Peace* (1990)\n- *Countdown to Extinction* (1992)\n- *Youthanasia* (1994)\n- *Cryptic Writings* (1997)[6]\n\nMenza also performed with the jazz-fusion group **OHM:** alongside former Megadeth guitarist Chris Po"
+        }
+      }
+    },
+    {
+      "q": "bill ward drum kit",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 10,
+        "position": 4.8,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [],
+          "allCitations": [
+            "https://www.billward.com/2005/10/bill-wards-2005-drum-kit-revealed/",
+            "https://www.billward.com/2000/01/bill-wards-drum-kit-available/",
+            "https://drumfaster.com/rigs/bill-ward/",
+            "https://www.changeyourstrings.com/drummers/bill-ward",
+            "https://equipboard.com/pros/bill-ward",
+            "https://www.musicradar.com/news/behind-the-kit-with-ex-black-sabbath-drummer-bill-ward",
+            "https://drumfaster.com/drummers/bill-ward/",
+            "https://music.mxdwn.com/2017/06/25/news/former-drummer-bill-ward-selling-vintage-used-black-sabbath-gear/",
+            "https://www.reddit.com/r/drums/comments/1lwv9be/bill_ward_2025_rig_run_down_help/",
+            "https://faroutmagazine.co.uk/black-sabbath-bill-ward-how-he-learned-the-drums/"
+          ],
+          "bodyExcerpt": "Bill Ward’s drum setups changed substantially over his career:\n\n- **Early Black Sabbath:** Slingerland kit in white marine pearl, generally a compact four-piece with a 22–24-inch bass drum, 12–13-inch rack tom, and 16-inch floor tom. He often used a **Ludwig Supraphonic snare** and Paiste cymbals.[3][7]\n- **Mid-1970s:** His setup expanded into a large Slingerland double-bass kit with **two 26-inch"
+        }
+      }
+    },
+    {
+      "q": "fastest double bass drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 9,
+        "position": 5.111111111111111,
+        "clicks": 1,
+        "ctr": 0.1111111111111111
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.drummerworld.com/forums/index.php?threads/fastest-double-bass-player.209/page-19"
+          ],
+          "allCitations": [
+            "https://ca.yamaha.com/en/musical-instruments/drums/artists/m/mike-mallais.html",
+            "https://www.drummerworld.com/forums/index.php?threads/fastest-double-bass-player.209/page-19",
+            "https://www.youtube.com/watch?v=bY0tCGP8va0",
+            "https://www.mapexdrums.com/mapex-international/artists/tim-waterson",
+            "https://www.youtube.com/watch?v=0vXjq0XM6zI",
+            "https://en-academic.com/dic.nsf/enwiki/1237182",
+            "https://www.youtube.com/watch?v=maRXwqA70Mc",
+            "https://www.youtube.com/watch?v=XU0RUBzeH40",
+            "https://www.youtube.com/watch?v=VNIAf-myh_0",
+            "https://www.reddit.com/r/MetalDrums/comments/15bk9pj/who_is_the_fastest_double_bass_drummer_in_metal/"
+          ],
+          "bodyExcerpt": "The **fastest double-bass drummer by recognized record** is generally **Tim “The Missile” Waterson**. He recorded **1,407 double-bass strokes per minute**—about **23.5 strokes per second**—using both feet.[1][2]\n\nIf referring to the fastest drummer overall rather than specifically double-bass playing, **Tom Grosset** is credited with **1,208 single strokes per minute** in an officially measured co"
+        }
+      }
+    },
+    {
+      "q": "best metal drummers ever",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 9,
+        "position": 16.22222222222222,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://drummagazine.com/best-metal-drummers/"
+          ],
+          "allCitations": [
+            "https://www.gear4music.com/blog/best-metal-drummers/",
+            "https://www.loudersound.com/features/joey-jordison-picks-the-10-greatest-drummers-ever",
+            "https://consequence.net/2024/09/favorite-drummers-survey-drum-week/19/",
+            "https://drummagazine.com/best-metal-drummers/",
+            "https://www.classical-music.com/rock/best-rock-drummers",
+            "https://www.thetoptens.com/music/drummers/",
+            "https://www.wikimetal.com.br/en/the-11-greatest-drummers-of-all-time/",
+            "https://www.ranker.com/list/the-best-drummers-of-all-time/music-lover",
+            "https://www.musicradar.com/news/the-10-best-metal-drummers-in-the-world-right-now-as-voted-for-by-you",
+            "https://www.ocweekly.com/the-10-best-metal-drummers-6605211/"
+          ],
+          "bodyExcerpt": "There’s no objective single winner, but **Dave Lombardo** is the strongest overall choice: his speed, precision, groove, and influence on thrash and extreme metal are nearly unmatched. Joey Jordison, Tomas Haake, and Bill Ward are also frequent contenders.[1][2][7]\n\n## Best metal drummers ever\n\n1. **Dave Lombardo — Slayer**  \n   The benchmark for thrash-metal drumming: explosive double bass, feroc"
+        }
+      }
+    },
+    {
+      "q": "mikkey dee drummer",
+      "intent": "gsc-derived",
+      "target_entity": "",
+      "priority": "medium",
+      "_gsc": {
+        "impressions": 9,
+        "position": 13,
+        "clicks": 0,
+        "ctr": 0
+      },
+      "_source": "gsc",
+      "providers": {
+        "perplexity": {
+          "cited": false,
+          "bodyMentionsUs": false,
+          "usCitations": [],
+          "competitorCitations": [
+            "https://www.moderndrummer.com/article/mikkey-dee-playing-heavy-music-on-the-drums/",
+            "https://www.moderndrummer.com/2010/04/mikkey-dee/",
+            "https://blabbermouth.net/news/mikkey-dee-doesnt-want-to-take-his-motorhead-tribute-thing-on-world-tour-i-just-wanna-keep-it-a-show-here-and-there"
+          ],
+          "allCitations": [
+            "https://www.sonor.com/de/drums/kuenstler/kuenstler-detail/mikkey-dee",
+            "https://en.wikipedia.org/wiki/Mikkey_Dee",
+            "https://www.moderndrummer.com/article/mikkey-dee-playing-heavy-music-on-the-drums/",
+            "https://www.kerrang.com/mikkey-dee-interview-life-less-ordinary-motorhead-scorpions-king-diamond-lex-legion",
+            "https://www.paiste.com/en/about/stories/musicians/mikkey-dee-interview",
+            "https://www.metal-archives.com/artists/Mikkey_Dee/295",
+            "https://www.pennlive.com/entertainment/2025/01/legendary-rocker-on-report-he-is-leaving-his-band-never-mind-expletives-making-up-fake-stories.html",
+            "https://www.moderndrummer.com/2010/04/mikkey-dee/",
+            "https://www.musicradar.com/tuition/drums/mikkey-dee-5-drum-soloing-tips-601334",
+            "https://blabbermouth.net/news/mikkey-dee-doesnt-want-to-take-his-motorhead-tribute-thing-on-world-tour-i-just-wanna-keep-it-a-show-here-and-there"
+          ],
+          "bodyExcerpt": "Mikkey Dee is the stage name of **Micael Kiriakos Delaoglou**, a Swedish heavy-metal drummer born on October 31, 1963. He is best known for:\n\n- **Motörhead:** Drummer from 1992 until the band ended in 2015, replacing Phil “Philthy Animal” Taylor.[1][3]\n- **King Diamond:** Member from 1985 to 1989, appearing on influential albums including *Abigail* and *Conspiracy*.[3][8]\n- **Scorpions:** Joined i"
+        }
+      }
+    }
+  ]
+}

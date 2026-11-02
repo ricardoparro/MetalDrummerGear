@@ -578,7 +578,7 @@ export const articles = {
       },
       {
         "question": "How old was Dave Lombardo when he recorded Show No Mercy?",
-        "answer": "Dave Lombardo was 19 years old when Slayer recorded Show No Mercy in 1983. Born on February 16, 1964, he was a teenager when he helped invent thrash metal on Slayer's debut album. The raw, slightly imprecise quality of his performance — no click track, budget studio, pure adrenaline — is part of what makes the recording historically significant. By the time of Reign in Blood in 1986, he had transformed into one of metal's most precise drummers."
+        "answer": "Dave Lombardo was 18 years old when Slayer recorded Show No Mercy in 1983. Born on February 16, 1965, he was a teenager when he helped invent thrash metal on Slayer's debut album. The raw, slightly imprecise quality of his performance — no click track, budget studio, pure adrenaline — is part of what makes the recording historically significant. By the time of Reign in Blood in 1986, he had transformed into one of metal's most precise drummers."
       },
       {
         "question": "What cymbals did Dave Lombardo use on Show No Mercy?",

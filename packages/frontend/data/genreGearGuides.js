@@ -66211,7 +66211,7 @@ Roddy has emphasized pedal setup and technique over gear choice throughout his c
 
           description: `Tim Yeung has run a Tama Starclassic Bubinga bass drum and Tama Speed Cobra 910 Double Pedal continuously since 2005, across a resume that reads like a who's-who of extreme metal, including deathcore-leaning act Divine Heresy. His setup philosophy — trigger-assisted bass drums for clarity at extreme tempos, paired with bright, cutting cymbals that penetrate dense guitar tones — translates directly to deathcore's dual blast-and-breakdown demands.
 
-Yeung's longevity across Hate Eternal, Vital Remains, Morbid Angel, and Divine Heresy on the same Starclassic Bubinga and Speed Cobra 910 setup demonstrates that a single dialed-in mid-pro rig, properly triggered and tuned, can deliver deathcore-caliber consistency without a rotating shell program.`,
+Yeung's longevity across Vital Remains, Morbid Angel, and Divine Heresy on the same Starclassic Bubinga and Speed Cobra 910 setup (established 2005) demonstrates that a single dialed-in mid-pro rig, properly triggered and tuned, can deliver deathcore-caliber consistency without a rotating shell program.`,
 
           pros: [
             "Tim Yeung's proven setup across multiple deathcore-adjacent extreme metal bands since 2005",

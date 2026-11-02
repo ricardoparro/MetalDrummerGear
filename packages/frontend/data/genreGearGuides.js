@@ -90937,7 +90937,7 @@ One overlooked factor: mathcore's unpredictability means the "right" stick often
     // SEO metadata
     title: "Best Drumsticks for Progressive Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Progressive Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for progressive metal drumming: what Mike Mangini (Vater Signature), Mike Portnoy (Promark Signature TX420N), and Danny Carey (Vic Firth Signature) actually play. Lighter, articulate sticks for odd-meter precision — ranked budget to pro.",
+    description: "Best drumsticks for progressive metal drumming: what Mike Mangini (Vater Signature), Mike Portnoy (Promark Signature TXMP420XW-AG), and Danny Carey (Vic Firth Signature) actually play. Lighter, articulate sticks for odd-meter precision — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for progressive metal',
       'progressive metal drumsticks',
@@ -90973,13 +90973,13 @@ One overlooked factor: mathcore's unpredictability means the "right" stick often
       title: "Why Progressive Metal Demands a Lighter, More Articulate Stick",
       content: `Progressive metal's constantly shifting meters, extended compositions, and wide dynamic range — from a whisper-quiet cymbal wash to a full-band unison hit — place unusual demands on a drumstick. Unlike a genre built around one repeating groove, progressive metal drummers move between odd-time fills, quiet dynamic passages, and explosive accents within a single song, and the stick has to stay controllable across all of it.
 
-Mike Mangini of Dream Theater plays his own Vater signature stick, tuned for the precision required to execute Dream Theater's famously complex, constantly-shifting arrangements without losing control at speed. Mike Portnoy, Dream Theater's original drummer and now of Sons of Apollo, plays his own Promark signature model, the TX420N, a nylon-tip stick built for consistent articulation across decades of technically dense progressive metal writing. Danny Carey of Tool plays his own barrel-tipped Vic Firth signature stick, built around the balanced control his polyrhythmic, odd-meter compositions require.
+Mike Mangini of Dream Theater plays his own Vater signature stick, tuned for the precision required to execute Dream Theater's famously complex, constantly-shifting arrangements without losing control at speed. Mike Portnoy, Dream Theater's original drummer and now of Sons of Apollo, plays his own Promark signature model, the TXMP420XW-AG, a nylon-tip stick built for consistent articulation across decades of technically dense progressive metal writing. Danny Carey of Tool plays his own barrel-tipped Vic Firth signature stick, built around the balanced control his polyrhythmic, odd-meter compositions require.
 
 This guide breaks down what actually makes a stick work for progressive metal's technical demands, what the genre's most influential drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Progressive metal rewards control and articulation over raw power — lighter, precisely-tapered sticks dominate",
         "Mike Mangini's Vater signature stick is tuned for Dream Theater's constantly-shifting, technically dense arrangements",
-        "Mike Portnoy's Promark TX420N nylon-tip signature has anchored his sound across decades of progressive metal writing",
+        "Mike Portnoy's Promark TXMP420XW-AG nylon-tip signature has anchored his sound across decades of progressive metal writing",
         "Danny Carey's barrel-tipped Vic Firth signature balances tonal fullness with polyrhythmic control"
       ]
     },
@@ -91072,15 +91072,15 @@ The front-weighted taper and acorn tip keep rebound fast and predictable, whethe
         },
         {
           rank: 2,
-          name: "Promark Mike Portnoy Signature TX420N",
+          name: "Promark Mike Portnoy Signature TXMP420XW-AG",
           brand: "Promark",
-          model: "Autograph Series TX420N",
+          model: "Autograph Series TXMP420XW-AG",
           image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
           priceRange: "€12-17 (pair)",
           tier: "pro",
           material: "American Hickory",
 
-          description: `Mike Portnoy's own Promark signature stick, the TX420N, has anchored his sound across decades of technically dense progressive metal writing — first as Dream Theater's founding drummer, and since across Sons of Apollo, The Winery Dogs, and a long list of collaborations. Its nylon tip delivers a bright, cutting cymbal articulation that cuts through Portnoy's famously dense, layered arrangements.
+          description: `Mike Portnoy's own Promark signature stick, the TXMP420XW-AG, has anchored his sound across decades of technically dense progressive metal writing — first as Dream Theater's founding drummer, and since across Sons of Apollo, The Winery Dogs, and a long list of collaborations. Its nylon tip delivers a bright, cutting cymbal articulation that cuts through Portnoy's famously dense, layered arrangements.
 
 Portnoy's choice reflects a career built on consistency: the same signature stick profile across three-plus decades of some of progressive metal's most compositionally ambitious material.`,
 
@@ -91103,7 +91103,7 @@ Portnoy's choice reflects a career built on consistency: the same signature stic
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Mike Portnoy", band: "Dream Theater / Sons of Apollo", note: "Promark TX420N signature — bright articulation for dense progressive arrangements" }
+            { name: "Mike Portnoy", band: "Dream Theater / Sons of Apollo", note: "Promark TXMP420XW-AG signature — bright articulation for dense progressive arrangements" }
           ],
           verdict: "The career-proven pick. Best for progressive metal drummers who want a stick validated across decades of the genre's most ambitious writing.",
           rating: 4.7,
@@ -91225,7 +91225,7 @@ It's a stick built for a drummer who needs both explosive climactic accents and 
         },
         {
           category: "Best for Career-Proven Consistency",
-          pedal: "Promark Mike Portnoy Signature TX420N",
+          pedal: "Promark Mike Portnoy Signature TXMP420XW-AG",
           reason: "Mike Portnoy's own stick, validated across three-plus decades of progressive metal's most ambitious writing."
         },
         {
@@ -91250,14 +91250,14 @@ It's a stick built for a drummer who needs both explosive climactic accents and 
     ],
     relatedDrummers: [
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Vater signature — precision for Dream Theater\'s constantly-shifting arrangements' },
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Promark TX420N signature — three-plus decades of progressive metal writing' },
+      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Promark TXMP420XW-AG signature — three-plus decades of progressive metal writing' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — polyrhythmic control for Tool\'s unconventional time signatures' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Vater signature — Dream Theater\'s technically demanding, constantly-shifting arrangements' },
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Promark TX420N signature — decades of progressive metal\'s most ambitious writing' },
+      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Promark TXMP420XW-AG signature — decades of progressive metal\'s most ambitious writing' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — Tool\'s polyrhythmic, odd-meter mastery' }
     ],
     relatedComparisons: [],
@@ -91270,7 +91270,7 @@ It's a stick built for a drummer who needs both explosive climactic accents and 
       },
       {
         question: "What drumsticks does Mike Portnoy use?",
-        answer: "Mike Portnoy plays his own Promark signature stick, the TX420N — a nylon-tip, American hickory model that has anchored his sound across three-plus decades of technically dense progressive metal writing with Dream Theater, Sons of Apollo, and beyond."
+        answer: "Mike Portnoy plays his own Promark signature stick, the TXMP420XW-AG — a nylon-tip, American hickory model that has anchored his sound across three-plus decades of technically dense progressive metal writing with Dream Theater, Sons of Apollo, and beyond."
       },
       {
         question: "What's the best drumstick for odd-meter progressive metal?",

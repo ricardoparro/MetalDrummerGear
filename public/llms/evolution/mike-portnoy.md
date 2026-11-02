@@ -180,7 +180,7 @@ After leaving Dream Theater, Portnoy streamlined his longtime Tama setup into th
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14"×5.5" *(continued Tama signature snare)*
 - **Cymbals:** Sabian HHX MAX / AAX MAXX Series — 22" HHX MAX Ride, X-Plosion crashes, O-Zone crash, HHX/Paragon Chinas, AAX MAXX splashes, AA MAX chimes *(continued Sabian relationship)*
 - **Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW) *(continued Tama hardware)*
-- **Sticks:** Pro-Mark Mike Portnoy Signature TX420N *(continued — no brand change)*
+- **Sticks:** Pro-Mark Mike Portnoy Signature TXMP420XW-AG *(continued — no brand change)*
 - **Heads:** Evans G2 / EMAD2 (continued)
 - **Electronics:** Roland SPD-SX *(switch — simplified for smaller venues)*
 - **Estimated kit cost:** ~$28,000

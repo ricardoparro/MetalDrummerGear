@@ -15,15 +15,15 @@ What separates Travis from pure speed metal drummers is compositional intelligen
 
 ## Kit Setup
 
-Travis plays **Tama Starclassic Walnut/Birch** (current) — he used Tama Artstar II birch shells on the original Painkiller recording:
+Travis has played three drum brands across his Judas Priest career: a Tama Artstar II (birch shells) on Painkiller (1990), Pearl's Reference Series through the 2000s (2005-2018), and since 2018's Firepower a **ddrum Dominion Series** kit — his current setup, carrying through 2024's Invincible Shield:
 
-- **Kick Drums:** 22" x 16" (x2) with Tama Iron Cobra 900 Double Pedal
-- **Snare:** 14" x 6.5" Tama Starclassic Steel or Maple
+- **Kick Drums:** 22" x 16" (x2) with DW 9000 Series Double Pedal
+- **Snare:** 14" x 6.5" ddrum Scott Travis Signature
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16"
 - **Cymbals:** Paiste RUDE / 2002 Series — bright, articulate character for speed metal clarity
-- **Pedals:** Tama Iron Cobra 900 Double Pedal (Power Glide cam, smooth acceleration)
-- **Sticks:** Vic Firth 5B (heavier weight for arena volumes)
+- **Pedals:** DW 9000 Series Double Pedal (current; Tama Iron Cobra 900 through his Painkiller and Pearl-kit eras)
+- **Sticks:** Vic Firth American Classic 5B (heavier weight for arena volumes)
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
 
 ## Tuning & Setup
@@ -51,14 +51,14 @@ Travis uses **matched grip** with precise, efficient technique that prioritizes 
 
 | Item | Travis's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Tama Starclassic Walnut/Birch | Tama Imperialstar (~$500) |
-| Snare | Tama S.L.P. 14" x 6.5" | Tama S.L.P. Big Black Steel |
+| Drum Kit | ddrum Dominion Series | Tama Imperialstar (~$500) |
+| Snare | ddrum Scott Travis Signature 14" x 6.5" | Pearl Sensitone |
 | Cymbals | Paiste RUDE/2002 selection | Paiste PST series (~$250) |
-| Double Pedal | Tama Iron Cobra 900 (~$400) | Tama Iron Cobra 200 Double (~$150) |
-| Sticks | Vic Firth 5B | Promark 5B or Vater 5B |
+| Double Pedal | DW 9000 Series (~$400) | Tama Iron Cobra 200 Double (~$150) |
+| Sticks | Vic Firth American Classic 5B | Promark 5B or Vater 5B |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EQ3 Clear |
 
-**Starter budget path (~$900):** Tama Imperialstar + Paiste PST series + Tama Iron Cobra 200. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/paiste](https://metalforge.io/brands/paiste).
+**Starter budget path (~$900):** Tama Imperialstar + Paiste PST series + Tama Iron Cobra 200 — recreating Travis's Painkiller-era Tama setup. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/paiste](https://metalforge.io/brands/paiste).
 
 ## Practice Routine
 
@@ -72,10 +72,10 @@ Travis uses **matched grip** with precise, efficient technique that prioritizes 
 ## FAQ
 
 **Q: What drum kit does Scott Travis use?**  
-A: Scott Travis has been a Tama endorser throughout his Judas Priest career. He used Tama Artstar II (birch shells) on Painkiller (1990), giving that album its aggressive, attack-forward drum sound. Currently he plays Tama Starclassic Walnut/Birch — a warmer, more versatile hybrid shell suited to Priest's more dynamic modern recordings. His configuration typically features double 22" bass drums, two rack toms (10", 12"), and two floor toms (14", 16").
+A: Scott Travis has played three drum brands across his Judas Priest career. He used a Tama Artstar II (birch shells) on Painkiller (1990), which gave that album its aggressive, attack-forward drum sound. He gradually migrated to Pearl's Reference Series through the 2000s (2005-2018). Since 2018's Firepower, he plays a ddrum Dominion Series kit — his current setup, carrying through 2024's Invincible Shield. His configuration typically features double 22" bass drums, two rack toms (10", 12"), and two floor toms (14", 16").
 
 **Q: What pedals does Scott Travis use?**  
-A: Scott Travis has been a long-time Tama Iron Cobra advocate, using the Iron Cobra 900 double pedal as his primary touring and recording pedal. He was an early Iron Cobra adopter. The 900's Power Glide cam provides smooth, consistent acceleration across the full foot stroke — critical for 200+ BPM double-bass passages on tracks like 'Painkiller' and 'Metal Meltdown'.
+A: Scott Travis played Tama Iron Cobra double pedals through his Painkiller and Pearl-kit eras before switching to the DW 9000 Series Double Pedal in 2018 alongside his move to ddrum, a setup that has carried through 2024's Invincible Shield. The 9000's smooth, consistent action suits his precision approach to sustained high-speed double-bass patterns, with the reliability to maintain consistent feel through long Judas Priest concerts.
 
 **Q: How do I develop Scott Travis's Painkiller double-bass technique?**  
 A: The key is precision before speed. Start at 140 BPM with a metronome. Every note must be equal in volume, timing, and tone. Record yourself — most players have a dominant foot; identify and train the weaker one to match. Increase 5 BPM per week, never before playing evenly at the current tempo. At 170-180 BPM, begin endurance training: sustained patterns for 2+ minutes. Speed emerges from technique consistency, not from trying to go fast.

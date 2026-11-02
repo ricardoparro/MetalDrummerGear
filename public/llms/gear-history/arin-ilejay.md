@@ -17,7 +17,7 @@
 - **Snare:** Budget maple/steel snare
 - **Cymbals:** Entry-level cymbal pack
 - **Pedal:** Standard single pedal
-- **Sticks:** Vic Firth 5A
+- **Sticks:** Promark 5B
 - **Heads:** Remo standard
 - **Estimated cost (2010):** ~$1,200
 - **Notable:** Ilejay played in the post-hardcore band Confide before joining Avenged Sevenfold, developing the technical chops that preceded his 2011 audition.
@@ -28,7 +28,7 @@
 - **Snare:** DW Collector's 14"x5.5" Maple/Mahogany
 - **Cymbals:** Zildjian A Custom — 14" hi-hats, 16"/18"/19" crashes, 20" ride, China
 - **Pedal:** DW 9000 Series double bass pedal
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Promark 5B
 - **Heads:** Remo Ambassador (toms/snare), Powerstroke 3 (kick)
 - **Original setup cost (2013):** ~$7,298
 - **Inflation-adjusted to 2026:** ~$10,261
@@ -40,7 +40,7 @@
 - **Snare:** Maple/mahogany hybrid snares
 - **Cymbals:** Mixed cymbal setups
 - **Pedal:** Double bass pedal
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Promark 5B
 - **Heads:** Remo
 - **Estimated cost (current):** ~$8,000
 - **Notable:** Ilejay departed Avenged Sevenfold in late 2014 (not publicly announced until 2015) and was replaced by former Bad Religion drummer Brooks Wackerman. Hail to the King remains his only album with the band.
@@ -52,7 +52,7 @@
 - **2011:** Joins Avenged Sevenfold; upgrades from budget Confide-era gear to a DW Collector's Series kit for arena touring
 - **2013:** Hail to the King recorded — definitive DW Collector's / Zildjian A Custom configuration, album debuts #1 on Billboard 200
 - **2014–2015:** Departs Avenged Sevenfold; replaced by Brooks Wackerman
-- **Career constant:** Vic Firth American Classic 5A sticks maintained across his tenure
+- **Career constant:** Promark 5B sticks maintained across his tenure
 
 ---
 

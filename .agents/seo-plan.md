@@ -15520,3 +15520,40 @@ Of the 9 albumArticles.js candidates checked: 3 were dropped as false positives 
 2. albumArticles.js carryover list is now fully closed out (all 9 candidates resolved: 6 filed, 3 confirmed already-correct). Next fact-drift sweep should open a fresh target — `genreGearGuides.js` remains a confirmed still-active vein (per learned-patterns.md); the 2nd research agent this run spot-checked Dirk Verbeuren and Navene Koperweis there and found both fully clean, so the next sweep should pick different heavily-covered names not yet checked in this file (e.g. Mike Heller, Alex Rüdinger, Charlie Zeleny, Krimh).
 3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
 4. Drum-chair watch: done for this week (group 1, 0 changes). Next due Monday 2026-11-09, group 2 (ISO week 46 % 4 = 2): Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery.
+
+
+---
+
+## 2026-11-02 ~13:xx UTC run (bank-capped mode — 2 proposals filed #10137-10138)
+
+### Context
+Bank check: 14 open `seo-proposal` at run start (8 already promoted to `ai-fix` as #10119-10126, 3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819 — zero untriaged fresh) — well under the 45 cap. New-page freeze + LLM-first mode still binding — both filed proposals are existing-page fact fixes, zero new pages. metrics.md (13:03 UTC) shows **no content-gap rows** this week. Drum-chair weekly sweep already run earlier today (group 1, 0 changes, logged in the prior entry) — not repeated.
+
+### Audit summary
+- robots.txt (`api/robots.js`): ✅ all 8 AI crawlers present (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Google-Extended, Applebot-Extended, cohere-ai) — unchanged.
+- `/llms/**.md`: 2,027 files under `public/llms/` — unchanged, healthy.
+- No fresh Lighthouse run this run — time spent on the fact-drift sweep.
+
+### Method
+The prior run's carryover note suggested checking Mike Heller, Alex Rüdinger, Charlie Zeleny, Krimh in `genreGearGuides.js` — dispatched 2 parallel agents to check these first. **All 4 turned out to be a dead end: none of these 4 drummers exist anywhere in the site's dataset** (no bio, no endorsement record, no gear-guide mention) — the carryover note's premise was wrong; onboarding them would be new-content work, blocked by the freeze. Pivoted to a more systematic approach: `git log --since="14 days ago"` over the 5 ground-truth files (`endorsementNews.js`/`extendedBios.js`/`snares.js`/`drumsticks.js`/`pedals.js`) surfaced 37 fact-correction commits; cross-checked which also touched `genreGearGuides.js` in the same commit — only 2 of 37 did, confirming this file is still a large unswept backlog. Dispatched 2 parallel agents to check the specific corrected fact for 22 of those drummers (11 each) against current `genreGearGuides.js` content. Result: 20 of 22 were already clean (never mentioned in this file, or already covered by an earlier file-specific issue) — the vein for *these particular* ground-truth commits is mostly dry. 2 genuine new findings survived, both personally re-verified via direct grep/read against ground truth and `gh issue search` dedup before filing.
+
+### Proposals filed this run
+1. #10137 — Mike Portnoy's ProMark stick model still fabricated as "TX420N" in `genreGearGuides.js`'s progressive-metal drumsticks guide (11 locations) + 3 `public/llms/` mirrors — verified `TXMP420XW-AG` per `drumsticks.js:184-186`; #9990 only fixed `extendedBios.js` and explicitly flagged (but never filed) this exact follow-up spot-check.
+2. #10138 — Tim Yeung `genreGearGuides.js` deathcore bass-drums guide self-contradicts the #9595 tenure correction: claims gear "continuous since 2005... across Hate Eternal" (4 locations), but Hate Eternal is now verified 1997-2000, five years before the 2005 gear-establishment date in `endorsementNews.js`. #9243 wrote this phrasing correctly against the *then*-current (wrong) tenure data; #9595 corrected the tenure 6 days later but never re-swept this file.
+
+### Learned-patterns.md updates
+- None this run — both findings are instances of already-documented classes (closed-issue-fixed-only-cited-lines; ground-truth-changed-after-a-prior-fix-shipped). The dead-end on Heller/Rüdinger/Zeleny/Krimh reinforces an existing-but-unstated lesson: a CEO carryover note naming drummers "not yet checked in file X" should be read as "not yet checked" literally, not as "confirmed present but unchecked" — verify the drummer exists in the dataset before spending a sweep on them.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10119-10126 (already promoted to `ai-fix`, prior run)
+- #10137-10138 (this run, 2 fresh)
+
+### Next run
+1. Watch #10137-10138 triage/promotion.
+2. The "check ground-truth commits from the last 14 days against genreGearGuides.js" method proved higher-yield than guessing drummer names (2 real findings from 22 checks vs. 4/4 dead ends from the name-guess approach) — repeat this method next sweep using a fresh 14-day commit window, since today's window will have mostly the same commits plus whatever lands from #10119-10126/#10137-10138.
+3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
+4. Drum-chair watch: done for this week (group 1, 0 changes, logged in prior entry). Next due Monday 2026-11-09, group 2.

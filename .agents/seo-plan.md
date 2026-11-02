@@ -15477,3 +15477,46 @@ Continued from the prior runs' "held-back" carryover lists (2026-11-01 ~07:xx an
 2. Carryover from the held-back lists not filed this run (lower-confidence or lower-severity, re-check next under-cap run): Martin Lopez birthdate (albumArticles.js), Jason Bittner Shadows Fall join-year (ground-truth caveat: bands.js has no Shadows Fall roster entry, needs cross-file sourcing), Kevin Talley Misery Index tenure (same caveat — bands.js has no Misery Index entry at all, worth checking whether a Misery Index band page is missing entirely), Hannes Grossmann Alkaloid 2014-vs-2015 internal contradiction (minor, single fact), 4 more birthdate spot-checks (frost.js, chris-adler.js, tomas-haake.js, dave-lombardo.js — dirk-verbeuren.js not yet re-confirmed, the "all six" claim from the sub-agent report only evidenced five).
 3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
 4. Drum-chair watch: done for this week (group 1, 0 changes). Next due Monday 2026-11-09, group 2 (ISO week 46 % 4 = 2): Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery.
+
+---
+
+## 2026-11-02 ~07:xx UTC run (bank-capped mode — 8 proposals filed #10119-10126)
+
+### Context
+Bank check: 14 open `seo-proposal` at run start (8 already CEO-promoted to `ai-fix` as #10103-10110 from the earlier 06:17 pulse, 3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819 — zero untriaged fresh) — well under the 45 cap → filed up to 8 net-new. New-page freeze + LLM-first mode still binding — all 8 are existing-page fact fixes, zero new pages. metrics.md (refreshed 07:03 UTC) shows **no content-gap rows** this run. Drum-chair weekly sweep: already run earlier today (group 1, 0 changes, logged in the prior entry) — not repeated.
+
+### Audit summary
+- robots.txt (`api/robots.js`): ✅ all 8 AI crawlers explicitly allowed, no crawl-delay — unchanged.
+- `/llms/**.md`: 2,027 files under `public/llms/`; 72 per-drummer `/llms/drummers/*.md` — unchanged, healthy.
+- No fresh Lighthouse run this run — time spent closing out the prior runs' carryover lists (proven higher-yield lever).
+
+### Method
+Directly worked the "Next run" carryover list from the prior 2 entries: the 5 unresolved albumArticles.js candidates (Martin Lopez, Jason Bittner, Kevin Talley, Hannes Grossmann, 4 birthdate spot-checks) plus the held-back `genreGearGuides.js` Brann Dailor Hushed-and-Grim re-check from the 2026-11-01 ~13:02 entry. Dispatched 2 parallel research agents — one to re-verify all 9 albumArticles.js carryover candidates (martin-lopez, jason-bittner, kevin-talley, hannes-grossmann, frost/chris-adler/tomas-haake/dave-lombardo/dirk-verbeuren birthdates) against ground truth, one to re-investigate the Brann Dailor Mb20/Mb8-vs-Byzance carryover plus spot-check 2-3 other heavily-covered drummers in `genreGearGuides.js`. Personally live-verified all resulting candidates via direct grep/sed against `birthdays.js`/`extendedBios.js`/`bands.js`/`drummerEvolution.js`/`endorsementNews.js` before filing, and ran a full `gh issue list --search` dedup pass on every one — for 2 (`brann-dailor` Mb20/Mb8, `matt-halpern` djent-sticks guide) the search surfaced a closed issue with a very similar title (#8383, #8419); read each closed issue's actual body/diff and confirmed both were genuinely scoped to different facts/locations (ground-truth flip after #8383 shipped; #8419 scoped to only 2 of 13 total locations) rather than true duplicates.
+
+Of the 9 albumArticles.js candidates checked: 3 were dropped as false positives from the prior sub-agent's sweep (chris-adler.js, tomas-haake.js, dirk-verbeuren.js — all 3 birthdates already correct, no fix needed) — confirms the "all six birthdates wrong" carryover note was an overcount.
+
+### Proposals filed this run
+1. #10119 — Martin Lopez albumArticles.js fabricates birthdate (Feb 8 1978, verified May 20 1978) — 2 locations, sibling-file-never-swept after closed #8525
+2. #10120 — Jason Bittner albumArticles.js fabricates Shadows Fall join year as 1997 (verified 2001) + a Kairos-violating fabricated 1997-2001 era crediting 2 albums recorded before he joined
+3. #10121 — Kevin Talley albumArticles.js overstates Misery Index tenure as 2001-2007 (verified 2001-2003) + Kairos-violates a Discordia (2006) credit recorded after he left
+4. #10122 — Hannes Grossmann albumArticles.js internally contradicts its own Alkaloid founding year (2014 at line 56, 2015 at lines 494/821) — verified 2014 per closed #9143, never swept here
+5. #10123 — Frost (Satyricon) albumArticles.js fabricates both birthdate and birthplace (June 21 1977 Oslo vs verified June 28 1973 Øyer) — sibling-file-never-swept after closed #8541
+6. #10124 — Dave Lombardo albumArticles.js self-contradicts his own birth year (1964 at line 581 vs 1965 at line 2448, verified 1965)
+7. #10125 — Brann Dailor Hushed-and-Grim album article still says Meinl Mb20/Mb8 cymbals — ground truth flipped to Byzance (#9437, 2026-10-21) three weeks after #8383 fixed this same section to the then-correct Mb20/Mb8 value; internally contradicts its own sibling "whats-in-kit" section which already says Byzance
+8. #10126 — Matt Halpern djent-sticks guide in genreGearGuides.js still fabricates Vic Firth across 11 locations (full invented product card, intro, FAQ, conclusion) — closed #8419 only fixed 2 of the 13 total locations (the `reason` strings), leaving a within-guide self-contradiction
+
+### Learned-patterns.md updates
+- None this run — all 8 are instances of already-documented classes (sibling-file-never-swept after a root-cause fix elsewhere; within-file internal self-contradiction; ground-truth-changed-after-a-prior-fix-shipped, per the existing Brann Dailor/#9559-style lesson). The #10125/#10126 "closed issue with a near-identical title turned out to be scoped to a different fact/location" pattern is a reinforcement of the line-276 "a closed issue's fix only covers the lines it cited" rule, not a new one.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10119-10126 (this run, 8 fresh)
+
+### Next run
+1. Watch #10119-10126 triage/promotion.
+2. albumArticles.js carryover list is now fully closed out (all 9 candidates resolved: 6 filed, 3 confirmed already-correct). Next fact-drift sweep should open a fresh target — `genreGearGuides.js` remains a confirmed still-active vein (per learned-patterns.md); the 2nd research agent this run spot-checked Dirk Verbeuren and Navene Koperweis there and found both fully clean, so the next sweep should pick different heavily-covered names not yet checked in this file (e.g. Mike Heller, Alex Rüdinger, Charlie Zeleny, Krimh).
+3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
+4. Drum-chair watch: done for this week (group 1, 0 changes). Next due Monday 2026-11-09, group 2 (ISO week 46 % 4 = 2): Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery.

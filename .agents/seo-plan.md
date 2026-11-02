@@ -15432,3 +15432,48 @@ Also caught one of my own filed issues (#10071, Danny Carey Evans heads) citing 
 2. `genreGearGuides.js` and `albumArticles/*.js` both still have more unswept drift — the research agents surfaced additional lower-confidence/scope-uncertain candidates not filed this run (Blake Richardson Meinl→Sabian cymbal drift across 4 `genreGearGuides.js` guide families; Brann Dailor cymbal self-contradiction in the `hushed-and-grim` album article, held back due to the very high density of already-closed near-identical Mb20/Mb8-vs-Byzance issues for this drummer — worth a careful re-check next time rather than a blind refile). Also flagged but explicitly NOT filed (needs external/founder-level resolution, not a code fix): Jay Weinberg's snare is a genuine 3-way conflict across `albumArticles.js`/`extendedBios.js` gearHighlights/`extendedBios.js` FAQ, and Nicko McBrain's pedal brand is a self-contradiction within `endorsementNews.js` itself (currentEndorsements says "unconfirmed", timeline asserts DW) — both logged here for whoever revisits, not raised as proposals.
 3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
 4. Drum-chair watch: due Monday 2026-11-02, group 1 (rotate by ISO week % 4) — not run today (Sunday).
+
+
+---
+
+## 2026-11-02 ~XX:XX UTC run (bank-capped mode — 8 proposals filed #10103-10110, drum-chair watch run — 0 changes)
+
+### Context
+Bank check: 13 open `seo-proposal` at run start (well under 45 cap) → filed up to 8 net-new. New-page freeze + LLM-first mode still binding — all 8 are existing-page fact fixes, zero new pages. metrics.md (01:03 UTC) shows **no content-gap rows** this week. Drum-chair weekly sweep: today is Monday 2026-11-02 — due, ran group 1 (ISO week 45 % 4 = 1): Entheos, Godsmack, Gojira, Hellyeah, Korn, Mastodon, Megadeth.
+
+### Audit summary
+- robots.txt (`api/robots.js`): ✅ all 8 AI crawlers explicitly allowed — unchanged.
+- `/llms/**.md`: 2,027 files under `public/llms/`; 72 per-drummer `/llms/drummers/*.md` — unchanged, healthy.
+- No fresh Lighthouse run this run — time spent on the fact-drift sweep + drum-chair watch.
+
+### Drum-chair watch (group 1)
+Dispatched a web-search agent across all 7 bands (14-day window, 2026-10-19 to 2026-11-02), 2-source verification bar. **Result: 0 verified changes, 0 unverified rumors.** Real lineup changes exist for Godsmack (Mangini, ~June 2026) and Gojira (temporary Paraventi fill-in, July 2026) but both are outside this week's 14-day window — not new, no action. Nothing to file.
+
+### Method (fact-drift sweep)
+Continued from the prior runs' "held-back" carryover lists (2026-11-01 ~07:xx and ~13:02 notes). Dispatched 2 parallel re-verification agents over ~19 previously-flagged-but-unfiled candidates (8 from the `albumArticles.js` directory-sweep carryover, 11 from the `genreGearGuides.js`/misc carryover), since several fact-fix batches have shipped since those were logged and some could already be fixed. Personally re-verified the highest-confidence 8 via direct grep against ground truth (`bands.js`/`extendedBios.js`/`birthdays.js`/`endorsementNews.js`) before filing, and ran a full `gh issue list --search` dedup pass on each — caught one near-duplicate (Igor Cavalera Cavalera-Conspiracy-era Tama/Paiste fabrication was already an exact match for open #7466, held since 2026-09-13 — dropped it and substituted the Blake Richardson genreGearGuides.js crash-guide candidate instead). Also confirmed two other close calls were NOT duplicates after reading the actual closed-issue diffs: Derek Roddy's birthdate fix (#8536) and Matt Halpern's brand self-contradiction fix (#7373) both targeted different files/sections than this run's candidates.
+
+### Proposals filed this run
+1. #10103 — Pete Sandoval albumArticles.js fabricates birthdate (Sept 21 1968 LA vs verified May 21 1964 El Salvador) + extends Morbid Angel tenure to 2013 (verified 2010) — sibling gap to closed #9978/#9661 (other files)
+2. #10104 — Derek Roddy albumArticles.js fabricates birthdate/birthplace (Feb 22 1972 Mullins vs verified Aug 28 1972 Myrtle Beach) + overstates Hate Eternal tenure (2001-2008 vs verified 2000-2006) — sibling gap to closed #8536 (extendedBios.js only)
+3. #10105 — Inferno (Behemoth) albumArticles.js fabricates birthdate/birthplace across 10 locations (Mar 23 1979 Gdańsk vs verified Dec 30 1978 Tczew) — never swept after closed #8534
+4. #10106 — Tim Yeung albumArticles.js fabricates Morbid Angel "Kingdoms Disdained" (2017) credit + extends tenure to 2014-2020 (verified 2010-2015) — distinct section from closed #9629's Hate Eternal-era scope in the same file
+5. #10107 — John Otto albumArticles.js FAQ omits verified 2005 Sammy Siegler fill-in — sibling gap to closed #9916 (drummerComparisons.js only)
+6. #10108 — Matt Halpern albumArticles.js debut-era entry: wrong birthdate (Aug 30 1984 vs verified June 21 1983) + DW/Sabian-vs-Pearl/Meinl title self-contradiction — sibling gap to closed #7373 (Periphery II entry only)
+7. #10109 — Richard Christy albumArticles.js states Death join year as 1996 (verified 1997) — sibling gap to closed #9677 (extendedBios.js only); distinct from #9247's birthdate-only fix to this same file
+8. #10110 — Blake Richardson genreGearGuides.js: stale Meinl crash-cymbal claims survive in 3 guide families (progressive-metal crash, mathcore crash, mathcore general cymbal) — verified Sabian since 2018, last unswept holdout of this fabrication class in this file
+
+### Learned-patterns.md updates
+- None this run — all 8 are instances of already-documented classes (sibling-file/sibling-section-never-swept after a root-cause fix elsewhere). The Igor Cavalera near-duplicate catch (exact match to open-but-held #7466) reinforces the standing practice of running a full dedup search before filing even when a candidate looks fresh from a sub-agent's sweep.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #7466 (Igor Cavalera Tribal Arsenal Tama/Paiste, seo+hold since 2026-09-13 — stale hold, not re-touched this run, not this agent's call to un-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10103-10110 (this run, 8 fresh)
+
+### Next run
+1. Watch #10103-10110 triage/promotion.
+2. Carryover from the held-back lists not filed this run (lower-confidence or lower-severity, re-check next under-cap run): Martin Lopez birthdate (albumArticles.js), Jason Bittner Shadows Fall join-year (ground-truth caveat: bands.js has no Shadows Fall roster entry, needs cross-file sourcing), Kevin Talley Misery Index tenure (same caveat — bands.js has no Misery Index entry at all, worth checking whether a Misery Index band page is missing entirely), Hannes Grossmann Alkaloid 2014-vs-2015 internal contradiction (minor, single fact), 4 more birthdate spot-checks (frost.js, chris-adler.js, tomas-haake.js, dave-lombardo.js — dirk-verbeuren.js not yet re-confirmed, the "all six" claim from the sub-agent report only evidenced five).
+3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
+4. Drum-chair watch: done for this week (group 1, 0 changes). Next due Monday 2026-11-09, group 2 (ISO week 46 % 4 = 2): Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery.

@@ -2915,7 +2915,7 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
       { slug: 'bodom-after-midnight', period: '2020-2021', role: 'N/A (Alexi\'s project)' }
     ],
     metaTitle: 'Jaska Raatikainen Drum Kit & Gear Setup — Children of Bodom Drummer | MetalForge',
-    metaDescription: 'Complete biography of Jaska Raatikainen, Children of Bodom co-founder and drummer. Explore his 26-year career, neoclassical metal style, and legacy in Finnish metal.',
+    metaDescription: 'What drum kit did Jaska Raatikainen play? The Children of Bodom drummer\'s Pearl Masters Premium Maple kit and Zildjian A/K Custom cymbals — full gear breakdown.',
     ogImage: '/images/drummers/jaska-raatikainen.webp',
     sections: {
       overview: {

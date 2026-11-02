@@ -13,7 +13,7 @@ export const extendedBios = {
       { slug: 'metallica', period: '1981-present', role: 'Drummer, co-founder' }
     ],
     metaTitle: 'Lars Ulrich Drum Kit & Gear Setup — Metallica Drummer | MetalForge',
-    metaDescription: 'Complete biography of Lars Ulrich, co-founder and drummer of Metallica. Explore his career from 1981 to present, drumming style, signature gear, and influence on thrash metal.',
+    metaDescription: 'See what drum kit Lars Ulrich (Metallica) plays — Tama Starclassic Maple kit, Tama LU1465 Signature snare, Zildjian A Custom cymbals, and Ahead Signature aluminum sticks. Complete gear guide.',
     ogImage: '/images/drummers/lars-ulrich.webp',
     keywords: ['thrash metal', 'metallica', 'big four', 'tama drums', 'danish drummer', 'rock hall of fame', 'heavy metal'],
     relatedDrummers: ['dave-lombardo', 'joey-jordison', 'gene-hoglan'],
@@ -287,7 +287,7 @@ For a complete era-by-era component breakdown, see the [Joey Jordison drum setup
       { slug: 'fear-factory', period: '2009-2012', role: 'Drummer' }
     ],
     metaTitle: 'Gene Hoglan Drum Kit & Gear Setup — "The Atomic Clock" Death Metal Drummer | MetalForge',
-    metaDescription: 'Complete biography of Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision. Explore his work with Death, Testament, Dethklok, and his influence on extreme metal.',
+    metaDescription: 'See what drum kit Gene Hoglan (Testament) plays — Pearl Reference Pure kit, Sabian AAX cymbals, Pearl Demon Drive double pedal, and ProMark Classic Forward 2B sticks. Complete gear guide.',
     ogImage: '/images/drummers/gene-hoglan.webp',
     keywords: ['death metal', 'testament', 'death', 'dethklok', 'atomic clock', 'pearl drums', 'technical drumming'],
     relatedDrummers: ['dave-lombardo', 'joey-jordison', 'george-kollias', 'flo-mounier'],
@@ -426,7 +426,7 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
       { slug: 'mr-bungle', period: '2019-present', role: 'Drummer' }
     ],
     metaTitle: 'Dave Lombardo Drum Kit & Gear Setup — Slayer Drummer | MetalForge',
-    metaDescription: 'Complete biography of Dave Lombardo, Slayer\'s legendary drummer and godfather of thrash metal drumming. Explore his revolutionary style, Reign in Blood legacy, and diverse career.',
+    metaDescription: 'See what drum kit Dave Lombardo (Slayer) plays — Tama Starclassic Walnut/Birch kit, Tama S.L.P. G-Maple snare, Paiste RUDE & 2002 cymbals, and Promark Signature 2Bx sticks. Complete gear guide.',
     ogImage: '/images/drummers/dave-lombardo.webp',
     keywords: ['slayer', 'thrash metal', 'big four', 'reign in blood', 'cuban drummer', 'tama drums', 'double bass'],
     relatedDrummers: ['lars-ulrich', 'joey-jordison', 'gene-hoglan', 'paul-bostaph'],
@@ -560,7 +560,7 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
       { slug: 'meshuggah', period: '1990-present', role: 'Drummer' }
     ],
     metaTitle: 'Tomas Haake Drum Kit & Gear Setup — Meshuggah Drummer | MetalForge',
-    metaDescription: 'Complete biography of Tomas Haake, Meshuggah\'s drummer and architect of the djent movement. Explore his revolutionary polyrhythmic style, the legendary "Bleed" drum part, and his influence on modern metal.',
+    metaDescription: 'See what drum kit Tomas Haake (Meshuggah) plays — Sonor SQ2 Heavy Beech kit, Sonor Signature snare, Sabian HHX/AAX cymbals, and two single Tama Speed Cobra pedals. Complete gear guide.',
     ogImage: '/images/drummers/tomas-haake.webp',
     keywords: ['meshuggah', 'djent', 'polyrhythms', 'sonor drums', 'swedish drummer', 'bleed', 'progressive metal'],
     relatedDrummers: ['danny-carey', 'mario-duplantier', 'mike-portnoy', 'travis-orbin'],
@@ -694,7 +694,7 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
       { slug: 'nile', period: '2004-present', role: 'Drummer' }
     ],
     metaTitle: 'George Kollias Drum Kit & Gear Setup — Nile Drummer | MetalForge',
-    metaDescription: 'Complete biography of George Kollias, Nile\'s drummer known for extreme speed and precision. Explore his career, educational materials, signature gear, and influence on death metal drumming.',
+    metaDescription: 'See what drum kit George Kollias (Nile) plays — Pearl Masterworks Stadium Exotic kit, Pearl Signature snare, Zildjian K/A Custom cymbals, and the Pearl Demon XR double pedal. Complete gear guide.',
     ogImage: '/images/drummers/george-kollias.webp',
     keywords: ['nile', 'death metal', 'greek drummer', 'pearl drums', 'blast beats', 'extreme drumming', 'drum educator'],
     relatedDrummers: ['gene-hoglan', 'flo-mounier', 'joey-jordison', 'dave-lombardo'],
@@ -2240,7 +2240,7 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
       { slug: 'solo', period: '1990-present', role: 'Solo artist' }
     ],
     metaTitle: 'Bill Ward Drum Kit & Gear Setup — Black Sabbath Drummer | MetalForge',
-    metaDescription: 'Complete biography of Bill Ward, founding Black Sabbath drummer who pioneered heavy metal drumming. Explore his jazz-influenced style, classic albums, and enduring influence on metal.',
+    metaDescription: 'See what drum kit Bill Ward (Black Sabbath) played — Ludwig Standard/Club Date kit, Ludwig Supraphonic 14x6.5 snare, Zildjian cymbals, and a Ludwig Speed King pedal. Complete gear guide.',
     ogImage: '/images/drummers/bill-ward.webp',
     sections: {
       overview: {
@@ -2507,7 +2507,7 @@ His drumming style combines relentless blast beats, complex double bass patterns
       { slug: 'steve-vai', period: '1996-2000', role: 'Drummer' }
     ],
     metaTitle: 'Mike Mangini Drum Kit & Gear Setup — Godsmack & Dream Theater Drummer | MetalForge',
-    metaDescription: 'Complete biography of Mike Mangini, Godsmack\'s touring drummer since 2026 and Dream Theater\'s drummer from 2010-2023. Berklee professor and world record holder, explore his technical mastery and progressive metal legacy.',
+    metaDescription: 'See what drum kit Mike Mangini (Godsmack) plays — Pearl Reference Series kit, Sabian HHX/AAX cymbals, Pearl Eliminator Redline pedal, and Vater Wicked Piston sticks. Complete gear guide.',
     ogImage: '/images/drummers/mike-mangini.webp',
     sections: {
       overview: {
@@ -3673,7 +3673,7 @@ Talley's drumming combines the technical demands of brutal death metal with the 
       { slug: 'pat-travers-band', period: '1977-1981', role: 'Drummer' }
     ],
     metaTitle: 'Nicko McBrain Drum Kit & Gear Setup — Iron Maiden Drummer | MetalForge',
-    metaDescription: 'Complete biography of Nicko McBrain, Iron Maiden\'s legendary drummer since 1982. Explore his career, signature single bass drum style, gear, and influence on heavy metal drumming.',
+    metaDescription: 'See what drum kit Nicko McBrain (Iron Maiden) plays — British Drum Co. kit, Sonor Signature snare, Paiste 2002 & Signature cymbals, and Vic Firth Signature SNM sticks. Complete gear guide.',
     ogImage: '/images/drummers/nicko-mcbrain.webp',
     sections: {
       overview: {
@@ -4711,7 +4711,7 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
       { slug: 'charred-walls-of-the-damned', period: '2009-present', role: 'Drummer' }
     ],
     metaTitle: 'Richard Christy Drum Kit & Gear Setup — Death & Iced Earth Drummer | MetalForge',
-    metaDescription: 'Complete biography of Richard Christy, legendary drummer for Death and Iced Earth. Explore his technical death metal mastery, work with Chuck Schuldiner, and career transition to entertainment.',
+    metaDescription: 'See what drum kit Richard Christy (Death) played — Pearl Masters Custom kit, a Pearl 14x6.5 maple snare, Sabian AA/AAX cymbals, and an Axis A Longboard double pedal. Complete gear guide.',
     ogImage: '/images/drummers/richard-christy.webp',
     sections: {
       overview: {
@@ -5089,7 +5089,7 @@ Before joining Korn, Luzier built an impressive resume playing with David Lee Ro
       { slug: 'limp-bizkit', period: '1994-present', role: 'Drummer, founding member' }
     ],
     metaTitle: 'John Otto Drum Kit & Gear Setup — Limp Bizkit Drummer | MetalForge',
-    metaDescription: 'Complete biography of John Otto, founding drummer of Limp Bizkit. Explore his career, jazz-influenced style, nu metal legacy, and contributions to one of the biggest bands of the late 90s.',
+    metaDescription: 'See what drum kit John Otto (Limp Bizkit) plays — OCDP Custom Type 5 Acrylic kit, OCDP Signature snares, Zildjian A Custom cymbals, and Gibraltar hardware. Complete gear guide.',
     ogImage: '/images/drummers/john-otto.webp',
     sections: {
       overview: {
@@ -5216,7 +5216,7 @@ Otto studied jazz drumming at the Douglas Anderson School of the Arts and played
       { slug: 'e-street-band', period: '2008-2009', role: 'Touring drummer (fill-in)' }
     ],
     metaTitle: 'Jay Weinberg Drum Kit & Gear Setup — Former Slipknot Drummer | MetalForge',
-    metaDescription: 'Complete biography of Jay Weinberg, Slipknot drummer from 2014-2023. Explore his journey from filling in for his father with Bruce Springsteen to becoming a metal icon with Slipknot.',
+    metaDescription: 'See what drum kit Jay Weinberg (Suicidal Tendencies) plays — SJC Custom Drums kit, his signature SJC "The Crucible" brass snare, Zildjian cymbals, and a DW 9000 double pedal. Complete gear guide.',
     ogImage: '/images/drummers/jay-weinberg.webp',
     sections: {
       overview: {
@@ -5344,7 +5344,7 @@ Weinberg's career spans diverse genres: from substituting for his father with Br
       { slug: 'hellyeah', period: '2006-2018', role: 'Drummer' }
     ],
     metaTitle: 'Vinnie Paul Drum Kit & Gear Setup — Pantera Drummer | MetalForge',
-    metaDescription: 'Complete biography of Vinnie Paul, legendary Pantera co-founder and drummer (1964-2018). Explore his revolutionary groove metal style, career with Dimebag Darrell, and lasting influence.',
+    metaDescription: 'See what drum kit Vinnie Paul (Pantera) played — a ddrum kit, ddrum Vinnie Paul Signature 14x8 snare, and Evans heads (cymbals and sticks reported but unconfirmed). Complete gear guide.',
     ogImage: '/images/drummers/vinnie-paul.webp',
     sections: {
       overview: {
@@ -5475,7 +5475,7 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
       { slug: 'pantera', period: '2022-present', role: 'Touring drummer' }
     ],
     metaTitle: 'Charlie Benante Drum Kit & Gear Setup — Anthrax Drummer | MetalForge',
-    metaDescription: 'Complete biography of Charlie Benante, Anthrax drummer and thrash metal pioneer. Explore his revolutionary double bass and blast beat techniques, Big Four legacy, and current Pantera touring role.',
+    metaDescription: 'See what drum kit Charlie Benante (Anthrax) plays — Tama Starclassic Maple kit, Tama Signature snare, Paiste 2002/RUDE cymbals, and a Tama Speed Cobra double pedal. Complete gear guide.',
     ogImage: '/images/drummers/charlie-benante.webp',
     lastUpdated: '2026-10-05',
     sections: {
@@ -5741,7 +5741,7 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
       { slug: 'firstborne', period: '2020-present', role: 'Drummer' }
     ],
     metaTitle: 'Chris Adler Drum Kit & Gear Setup — Lamb of God Drummer | MetalForge',
-    metaDescription: 'Complete biography of Chris Adler, Lamb of God\'s founding drummer. Explore his innovative groove metal style, Megadeth collaboration, signature gear, and lasting influence.',
+    metaDescription: 'See what drum kit Chris Adler (Lamb of God) played — Mapex Saturn kit, Mapex Chris Adler Signature snare, Meinl Byzance cymbals, and a Trick Pro 1-V double pedal. Complete gear guide.',
     ogImage: '/images/drummers/chris-adler.webp',
     lastUpdated: '2026-10-05',
     sections: {
@@ -5874,7 +5874,7 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
       { slug: 'periphery', period: '2009-present', role: 'Drummer' }
     ],
     metaTitle: 'Matt Halpern Drum Kit & Gear Setup — Periphery Drummer | MetalForge',
-    metaDescription: 'Complete biography of Matt Halpern, Periphery\'s influential drummer who helped define the djent movement. Explore his precise style, educational work, and signature gear.',
+    metaDescription: 'See what drum kit Matt Halpern (Periphery) plays — Pearl Reference Series kit, his signature Pearl MH1460/B brass snare, Meinl Byzance cymbals, and Promark Signature sticks. Complete gear guide.',
     ogImage: '/images/drummers/matt-halpern.webp',
     sections: {
       overview: {

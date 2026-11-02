@@ -15,7 +15,7 @@ Born September 8, 1982, in Bayreuth, Germany, Grossmann represents a rare inters
 
 His path through extreme metal is unusually distinguished. After honing his classical and jazz technique through formal studies, he joined Necrophagist in 2001, recording the landmark album *Epitaph* (2004) — a record that remains among the most influential technical death metal releases ever made. In 2007 he co-founded Obscura with guitarist Steffen Kummerer, recording *Cosmogenesis* (2009) and *Omnivium* (2011): two albums that defined progressive technical death metal as a genre with ears beyond pure extremity. In 2014 he co-founded Alkaloid, a supergroup-calibre project exploring the outermost territory of avant-garde progressive death — and one of the most intellectually ambitious metal acts currently active.
 
-Grossmann's open-handed technique is among his most discussed and studied characteristics. Playing hi-hat with his right hand without crossing over the left, he maintains an ergonomic, balanced setup that supports the extraordinary dynamic range his music requires — from near-silent ghost notes to explosive double-kick patterns, often within the same phrase. That technical freedom, combined with classical training that informs his compositional thinking, produces drumming that operates at elite levels of precision without sacrificing the musicality that separates Obscura's and Alkaloid's recordings from straightforward technical death metal.
+Grossmann's open-handed technique is among his most discussed and studied characteristics. Playing hi-hat with his left hand without crossing over the right, he maintains an ergonomic, balanced setup that supports the extraordinary dynamic range his music requires — from near-silent ghost notes to explosive double-kick patterns, often within the same phrase. That technical freedom, combined with classical training that informs his compositional thinking, produces drumming that operates at elite levels of precision without sacrificing the musicality that separates Obscura's and Alkaloid's recordings from straightforward technical death metal.
 
 His DW Collectors Series kit provides the acoustic foundation for that approach: custom North American maple shells with articulate, controlled resonance suited to dense progressive arrangements. Meinl Byzance cymbals add the warm, complex upper register that Grossmann's sensitive dynamic playing requires. The DW 9000 double pedal drives the footwork precision his music demands. Together, these components form an integrated system for one of prog-death metal's most complete musical minds.
 
@@ -52,7 +52,7 @@ For the straight-ahead backbeat authority that Obscura's heavier passages and Al
 
 Hannes Grossmann's Meinl Byzance setup reflects the aesthetic priority that separates prog-death metal's best drummers from technical metal's most technically proficient: cymbal choices that serve musical purpose rather than raw projection or exotic texture. The Byzance series, hand-hammered B20 bronze with natural patina finish, produces warm, complex, harmonically rich sounds — an ideal match for Grossmann's compositional sensibility.
 
-The 14" Byzance Traditional Hi-Hats are foundational to his open-handed technique. Played with the right hand without the crossed-arm position, these hi-hats produce the warm, defined articulation that Grossmann's high-density hi-hat patterns require. The Traditional series produces a layered, complex tone with natural stick response — each open-handed stroke speaks with character and clarity at the pattern densities Obscura's and Alkaloid's music demands. Bright, harsh hi-hats would fight the harmonic density of these recordings; the Byzance Traditional's warmth integrates rather than competes.
+The 14" Byzance Traditional Hi-Hats are foundational to his open-handed technique. Played with the left hand without the crossed-arm position, these hi-hats produce the warm, defined articulation that Grossmann's high-density hi-hat patterns require. The Traditional series produces a layered, complex tone with natural stick response — each open-handed stroke speaks with character and clarity at the pattern densities Obscura's and Alkaloid's music demands. Bright, harsh hi-hats would fight the harmonic density of these recordings; the Byzance Traditional's warmth integrates rather than competes.
 
 The Byzance Brilliant crash configuration spans two sizes. The Brilliant series adds a mirror-polished finish that brightens the Byzance's natural warmth — increasing projection while retaining the series' harmonic complexity. The 18" provides the fast-responding primary accent crash; the 19" covers larger dynamic peaks where more body and sustain serve the arrangement's needs.
 
@@ -89,7 +89,7 @@ For deeper exploration:
 - DW Collectors Series drums — flagship custom maple construction for precision and resonance control
 - Meinl Byzance cymbals — warm, complex voicing across 14" hi-hats, crashes, and 21" traditional ride
 - DW 9000 Series double pedal — adjustable cam action for the footwork his complex patterns demand
-- Open-handed technique — right hand plays hi-hat without crossing over, supporting dynamic freedom
+- Open-handed technique — left hand plays hi-hat without crossing over, supporting dynamic freedom
 - Classical percussion training informs compositional approach beyond pure technical execution
 - DW Collectors Series — custom ply and bearing edge for precisely controllable resonance and attack
 - Double 22" bass drums — symmetrical acoustic and geometric foundation for complex two-footed patterns
@@ -107,7 +107,7 @@ A: Hannes Grossmann plays a DW Collectors Series drum kit. The Collectors Series
 
 **Q: What makes Hannes Grossmann's technique unique?**
 
-A: Hannes Grossmann's technique is distinguished by three characteristics that operate simultaneously: his open-handed hi-hat grip, his classical-percussion-trained dynamic control, and his compositional approach to drum parts. The open-handed technique — playing hi-hat with his right hand without crossing over the left — preserves independent dynamic control of both hands, allowing the velocity precision that his ghost note-dense progressive playing demands. His formal classical percussion training gives him a dynamic vocabulary with precise gradations, producing drumming where ghost notes, medium-accented strokes, and full-force impacts coexist within the same phrase with musical intention. And his producer and composer's perspective means his drum parts are composed to serve the overall arrangement — melodic fills, structural polyrhythm, and dynamic arc — rather than existing as technical demonstrations parallel to the music.
+A: Hannes Grossmann's technique is distinguished by three characteristics that operate simultaneously: his open-handed hi-hat grip, his classical-percussion-trained dynamic control, and his compositional approach to drum parts. The open-handed technique — playing hi-hat with his left hand without crossing over the right — preserves independent dynamic control of both hands, allowing the velocity precision that his ghost note-dense progressive playing demands. His formal classical percussion training gives him a dynamic vocabulary with precise gradations, producing drumming where ghost notes, medium-accented strokes, and full-force impacts coexist within the same phrase with musical intention. And his producer and composer's perspective means his drum parts are composed to serve the overall arrangement — melodic fills, structural polyrhythm, and dynamic arc — rather than existing as technical demonstrations parallel to the music.
 
 **Q: What cymbals does Hannes Grossmann use?**
 
@@ -126,4 +126,4 @@ A: Hannes Grossmann plays Meinl Byzance cymbals. His setup includes Meinl Byzanc
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-02 · Source: [MetalForge.io](https://metalforge.io)*

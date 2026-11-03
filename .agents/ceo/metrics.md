@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-03 13:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-03 18:09 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,19 +8,19 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 447 |
-| Sessions | 512 |
-| Page views | 757 |
-| Engagement rate | 64.06% |
-| Avg session (s) | 117 |
+| Active users | 453 |
+| Sessions | 520 |
+| Page views | 773 |
+| Engagement rate | 65.00% |
+| Avg session (s) | 134 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 30 | 17 |
-| /drummers | 28 | 9 |
+| /drummers | 33 | 10 |
+| / | 31 | 18 |
+| /articles/slipknot-self-titled-drum-setup | 17 | 14 |
 | /drummer/mario-duplantier | 17 | 10 |
-| /articles/slipknot-self-titled-drum-setup | 16 | 13 |
 | /quiz | 16 | 3 |
 | /drummer/frost | 14 | 6 |
 | /lists/best-death-metal-drummers | 13 | 13 |
@@ -31,24 +31,24 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 414 | 349 |
+| Organic Search | 422 | 355 |
 | Direct | 98 | 97 |
-| Unassigned | 21 | 20 |
+| Unassigned | 3 | 3 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 189 | 175 |
-| United Kingdom | 36 | 21 |
+| United States | 190 | 176 |
+| United Kingdom | 38 | 22 |
+| Germany | 28 | 24 |
 | Singapore | 28 | 28 |
-| Germany | 27 | 23 |
 | Canada | 20 | 18 |
-| Australia | 18 | 14 |
+| Australia | 19 | 14 |
 | Brazil | 15 | 15 |
 | France | 13 | 11 |
-| Poland | 11 | 10 |
-| Norway | 9 | 7 |
+| Poland | 12 | 11 |
+| Norway | 10 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

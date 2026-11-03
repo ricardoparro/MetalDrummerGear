@@ -36,8 +36,8 @@ A: Power series. Full descriptions are in the Notable Lines section above.
 
 ## Study Rankings
 
-- [Vater ranks #3 in sticks usage in our brand-usage study (8.3% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Vater ranks #11 for overall brand reach in our endorsement-landscape study (8.3% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Vater ranks #3 in sticks usage in our brand-usage study (9.7% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Vater ranks #11 for overall brand reach in our endorsement-landscape study (9.7% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## Other Drumstick Brands We Cover
 
@@ -62,4 +62,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Vater 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -40,8 +40,8 @@ Source: [Tama — official site](https://www.tama.com).
 
 ## Study Rankings
 
-- [Tama ranks #2 in drum kits usage in our brand-usage study (29.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Tama ranks #2 for overall brand reach in our endorsement-landscape study (33.3% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Tama ranks #1 in drum kits usage in our brand-usage study (29.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Tama ranks #2 for overall brand reach in our endorsement-landscape study (36.1% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## More Resources
 
@@ -53,4 +53,4 @@ Source: [Tama — official site](https://www.tama.com).
 
 ---
 
-*Last updated: 2026-10-31 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -30,7 +30,7 @@
 | [Igor Cavalera](https://metalforge.io/cymbals/setups/igor-cavalera) | Sepultura / Cavalera Conspiracy / Soulwax | Zildjian A Custom Series, adopted for the Cavalera Conspiracy era starting with "Inflikted" |
 | [Jaska Raatikainen](https://metalforge.io/cymbals/setups/jaska-raatikainen) | Children of Bodom | Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride) |
 | [Jason Bittner](https://metalforge.io/cymbals/setups/jason-bittner) | Shadows Fall / Overkill / Category 7 | Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China) |
-| [Jay Weinberg](https://metalforge.io/cymbals/setups/jay-weinberg) | Suicidal Tendencies | Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell) |
+| [Jay Weinberg](https://metalforge.io/cymbals/setups/jay-weinberg) | ex-Slipknot / Suicidal Tendencies | Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell) |
 | [Jocke Wallgren](https://metalforge.io/cymbals/setups/jocke-wallgren) | Amon Amarth | Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride) |
 | [John Otto](https://metalforge.io/cymbals/setups/john-otto) | Limp Bizkit | Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom) |
 | [Jon Dette](https://metalforge.io/cymbals/setups/jon-dette) | Slayer | Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China) |
@@ -58,8 +58,8 @@ A: A Custom, Z Custom, K Custom (incl. K Custom Dark / Hybrid). Full description
 
 ## Study Rankings
 
-- [Zildjian ranks #1 in cymbals usage in our brand-usage study (31.9% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Zildjian ranks #3 for overall brand reach in our endorsement-landscape study (31.9% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Zildjian ranks #2 in cymbals usage in our brand-usage study (30.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Zildjian ranks #4 for overall brand reach in our endorsement-landscape study (30.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## Other Cymbal Brands We Cover
 
@@ -78,4 +78,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Zildjian, 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

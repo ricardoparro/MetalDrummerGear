@@ -11,9 +11,9 @@
 
 Aquiles Priester's drum setup during Angra's most celebrated era — the albums Rebirth (2001), Temple of Shadows (2004), and Aurora Consurgens (2006) — is the configuration that established him as the defining voice of Brazilian power metal drumming. Built around a Mapex Saturn kit, Sabian HHX cymbals, and the Axis A double pedal he relied on for the blazing kick work that made tracks like "Spread Your Fire" and "Heroes of Sand" instantly recognizable, this rig defined an entire era of technical metal drumming.
 
-Aquiles Priester (born June 25, 1971, in Outjo, Namibia) joined Angra in 2000, replacing Ricardo Confessori, and immediately raised the bar for what power metal drumming could demand from a player. His setup evolved through this period from pure Mapex/Sabian/Axis to incorporating Pearl Reference drums mid-era, but the Sabian HHX endorsement and the Axis pedal remained the constants that defined the sound on Angra's most important recordings.
+Aquiles Priester (born June 25, 1971, in Outjo, Namibia) joined Angra in 2001, replacing Ricardo Confessori, and immediately raised the bar for what power metal drumming could demand from a player. The Sabian HHX endorsement and the Axis A pedal remained constants throughout his Angra tenure, defining the sound on the band's most important recordings before he departed in 2008 to focus on his own band, Hangar, and later transitioned to Pearl Reference drums for his 2017 W.A.S.P. tenure.
 
-This guide breaks down Priester's setup during the Angra classic era (2000–2012): the drums, cymbals, pedals, and technique philosophy that produced some of the most admired drumming in power metal history. For the current Mapex Saturn Evolution/Paiste/DW 9000 touring setup, see the full drum kit guide.
+This guide breaks down Priester's setup during the Angra classic era (2001–2008): the drums, cymbals, pedals, and technique philosophy that produced some of the most admired drumming in power metal history. For the current Mapex Saturn Evolution/Paiste/DW 9000 touring setup, see the full drum kit guide.
 
 ## Gear Breakdown
 
@@ -32,11 +32,11 @@ For power metal, where the drums must project against multiple guitars, bass, ke
 
 Priester ran the double-bass configuration that has defined his career — two 22" kick drums giving him the independence and consistent feel between feet that a double pedal on a single kick cannot fully replicate. The five-tom spread (10", 12", 13", 16", 18") covered the melodic range his cascading fill work demanded, with each drum tuned to a distinct pitch to emphasize the musical character of his fills rather than just the physical pattern.
 
-Later in the classic era (2008–2012), Priester transitioned to Pearl Reference Series drums, maintaining the double-bass configuration and similar tom spread with a brighter, more open shell voice suited to W.A.S.P.'s heavier, more direct production aesthetic.
+After departing Angra in 2008, Priester transitioned to Pearl Reference Series drums for his 2017 W.A.S.P. tenure, maintaining the double-bass configuration and similar tom spread with a brighter, more open shell voice suited to W.A.S.P.'s heavier, more direct production aesthetic.
 
 ### Snare Setup — Power and Articulation
 
-Priester's snare in the Angra classic era varied between matching Mapex Saturn snares for the studio and Pearl Free-Floating models as his endorsement shifted. The consistent requirement across all configurations: a snare that cracked decisively over Angra's dense orchestral arrangements without losing the sensitivity for ghost notes and dynamic work in the band's more atmospheric passages.
+Priester's snare during the Angra classic era was a matching Mapex Saturn snare; he later shifted to Pearl Free-Floating models once his endorsement moved to Pearl Reference for his W.A.S.P. years. The consistent requirement across both configurations: a snare that cracked decisively over dense arrangements without losing the sensitivity for ghost notes and dynamic work in more atmospheric passages.
 
 At 182 BPM on "Spread Your Fire," Priester's snare backbeat swings with conviction — it never sounds mechanical or hurried despite the extreme tempo. The combination of a slightly deeper shell (6.5" vs. the standard 5.5") and tuning in the medium-high range creates a voice that carries in large outdoor venues without becoming papery or thin when pushed hard on rimshots.
 
@@ -70,16 +70,16 @@ For deeper study:
 ## Key Facts
 
 - Mapex Saturn Series shells — the kit on Rebirth and early Angra recordings
-- Sabian HHX endorsement throughout the Angra classic era (2000–2012)
+- Sabian HHX endorsement throughout the Angra classic era (2001–2008)
 - Axis A Double Pedal — ultra-light action enabling extreme double-bass speed
 - Vic Firth Aquiles Priester Signature sticks
 - Double-bass sustained at 182 BPM on "Spread Your Fire" (Temple of Shadows, 2004)
-- Setup shared across Angra, Hangar, and W.A.S.P. touring in this period
+- Setup shared across Angra and Hangar touring in this period
 - Mapex Saturn maple/walnut hybrid — warm with focused midrange punch
 - Double-bass configuration for sustained 16th-note kick patterns
 - Five-tom spread enabling melodic cascading fills
-- Transitioned to Pearl Reference during later classic era years
-- Consistent configuration across Angra, Hangar, and W.A.S.P. touring
+- Transitioned to Pearl Reference for his post-Angra W.A.S.P. years (2017-2023)
+- Consistent Mapex/Sabian/Axis configuration across Angra and Hangar touring
 - Estimated kit value: $2,500–4,500 (Saturn Series shell pack, vintage used market)
 - Estimated snare value: $400–900 (depending on model)
 
@@ -91,7 +91,7 @@ A: Aquiles Priester's classic era drum setup — the configuration on Angra's Te
 
 **Q: What cymbals did Aquiles Priester use on Temple of Shadows?**
 
-A: Aquiles Priester used Sabian HHX cymbals throughout the Angra classic era (2000–2012), including the Temple of Shadows sessions. His HHX setup included 14" hi-hats, a range of crashes from 16" to 20", a 21" ride, and an 18" China. Sabian HHX cymbals use an unlathed top surface that produces a darker, more complex tone suited to Angra's orchestral arrangements.
+A: Aquiles Priester used Sabian HHX cymbals throughout the Angra classic era (2001–2008), including the Temple of Shadows sessions. His HHX setup included 14" hi-hats, a range of crashes from 16" to 20", a 21" ride, and an 18" China. Sabian HHX cymbals use an unlathed top surface that produces a darker, more complex tone suited to Angra's orchestral arrangements.
 
 **Q: What double pedal did Aquiles Priester use with Angra?**
 
@@ -99,11 +99,11 @@ A: Aquiles Priester used the Axis A Double Pedal during the Angra classic era, p
 
 **Q: What drum kit did Aquiles Priester use on Rebirth?**
 
-A: Aquiles Priester used a Mapex Saturn Series kit for his early Angra recordings, including the Rebirth album (2001). The Saturn's maple/walnut hybrid shells provided the warm, focused tone suited to Angra's power metal arrangements. He later transitioned to Pearl Reference drums mid-era while maintaining the Sabian HHX cymbal endorsement throughout the classic period.
+A: Aquiles Priester used a Mapex Saturn Series kit for his early Angra recordings, including the Rebirth album (2001). The Saturn's maple/walnut hybrid shells provided the warm, focused tone suited to Angra's power metal arrangements. He maintained the Sabian HHX cymbal endorsement throughout his 2001-2008 Angra tenure, later transitioning to Pearl Reference drums for his 2017 W.A.S.P. tenure.
 
 **Q: Does Aquiles Priester still use Sabian cymbals?**
 
-A: Aquiles Priester used Sabian HHX cymbals throughout his Angra classic era (2000–2012). He later moved to Meinl Byzance cymbals during his W.A.S.P./Hangar focus years (2012–2022), and currently endorses Paiste cymbals for his Angra return. The Sabian HHX era is most associated with his most celebrated recordings on Temple of Shadows and Aurora Consurgens.
+A: Aquiles Priester used Sabian HHX cymbals throughout his Angra classic era (2001–2008). He later moved to Meinl Byzance cymbals during his W.A.S.P./Hangar focus years (2017–2023), and currently endorses Paiste cymbals for his ongoing W.A.S.P. tenure. The Sabian HHX era is most associated with his most celebrated recordings on Temple of Shadows and Aurora Consurgens.
 
 ## Related Articles
 
@@ -121,4 +121,4 @@ A: Aquiles Priester used Sabian HHX cymbals throughout his Angra classic era (20
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

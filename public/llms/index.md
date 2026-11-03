@@ -1,6 +1,6 @@
 # MetalForge - LLM Content Index
 
-> Last Updated: 2026-10-30  
+> Last Updated: 2026-11-03  
 > Source: https://metalforge.io
 
 ## About MetalForge
@@ -37,7 +37,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Eloy Casagrande | Slipknot | Nu Metal / Thrash Metal | [Profile](https://metalforge.io/drummer/eloy-casagrande) | [Markdown](https://metalforge.io/api/drummer/eloy-casagrande/markdown) |
 | Ray Luzier | Korn | Nu Metal | [Profile](https://metalforge.io/drummer/ray-luzier) | [Markdown](https://metalforge.io/api/drummer/ray-luzier/markdown) |
 | John Otto | Limp Bizkit | Nu Metal / Rap Metal | [Profile](https://metalforge.io/drummer/john-otto) | [Markdown](https://metalforge.io/api/drummer/john-otto/markdown) |
-| Jay Weinberg | Suicidal Tendencies | Hardcore / Thrash Crossover | [Profile](https://metalforge.io/drummer/jay-weinberg) | [Markdown](https://metalforge.io/api/drummer/jay-weinberg/markdown) |
+| Jay Weinberg | ex-Slipknot / Suicidal Tendencies | Hardcore / Thrash Crossover | [Profile](https://metalforge.io/drummer/jay-weinberg) | [Markdown](https://metalforge.io/api/drummer/jay-weinberg/markdown) |
 | Vinnie Paul | Pantera / Damageplan / Hellyeah | Groove Metal / Heavy Metal | [Profile](https://metalforge.io/drummer/vinnie-paul) | [Markdown](https://metalforge.io/api/drummer/vinnie-paul/markdown) |
 | Charlie Benante | Anthrax / S.O.D. / Pantera | Thrash Metal | [Profile](https://metalforge.io/drummer/charlie-benante) | [Markdown](https://metalforge.io/api/drummer/charlie-benante/markdown) |
 | Mike Portnoy | Dream Theater / Liquid Tension Experiment / The Winery Dogs | Progressive Metal | [Profile](https://metalforge.io/drummer/mike-portnoy) | [Markdown](https://metalforge.io/api/drummer/mike-portnoy/markdown) |
@@ -97,7 +97,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Jon Dette | Slayer | Thrash Metal | [Profile](https://metalforge.io/drummer/jon-dette) | [Markdown](https://metalforge.io/api/drummer/jon-dette/markdown) |
 | Jimmy DeGrasso | Megadeth | Thrash Metal | [Profile](https://metalforge.io/drummer/jimmy-degrasso) | [Markdown](https://metalforge.io/api/drummer/jimmy-degrasso/markdown) |
 | Nick Barker | Dimmu Borgir | Black Metal / Death Metal | [Profile](https://metalforge.io/drummer/nick-barker) | [Markdown](https://metalforge.io/api/drummer/nick-barker/markdown) |
-| Alex Rüdinger | The Faceless | Technical Death Metal / Progressive Metal | [Profile](https://metalforge.io/drummer/alex-rudinger) | [Markdown](https://metalforge.io/api/drummer/alex-rudinger/markdown) |
+| Alex Rüdinger | Trivium | Technical Death Metal / Progressive Metal | [Profile](https://metalforge.io/drummer/alex-rudinger) | [Markdown](https://metalforge.io/api/drummer/alex-rudinger/markdown) |
 | John Longstreth | Origin | Technical Death Metal / Brutal Death Metal | [Profile](https://metalforge.io/drummer/john-longstreth) | [Markdown](https://metalforge.io/api/drummer/john-longstreth/markdown) |
 | Waltteri Väyrynen | Opeth | Progressive Metal / Gothic Doom Metal | [Profile](https://metalforge.io/drummer/waltteri-vayrynen) | [Markdown](https://metalforge.io/api/drummer/waltteri-vayrynen/markdown) |
 
@@ -112,7 +112,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/master-of-puppets-drum-setup.md) |
 | What's In Lars Ulrich's Kit in 2026: The Most Famous Metal Drummer's Complete Setup | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/whats-in-lars-ulrichs-kit.md) |
 | ...And Justice for All Drum Setup: Lars Ulrich's Technical Peak | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/and-justice-for-all-drum-setup.md) |
-| The Black Album Drum Setup: Lars Ulrich's 1991 Tama Artist Maple Kit | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/black-album-drum-setup.md) |
+| The Black Album Drum Setup: Lars Ulrich's 1991 Tama Granstar Custom Kit | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/black-album-drum-setup.md) |
 | Metallica 'Load' Drum Setup: Lars Ulrich's 1996 Tama Star Classic Maple Kit | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/load-drum-setup.md) |
 | Metallica 'Reload' Drum Setup: Lars Ulrich's 1997 Tama Star Classic Maple Kit | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/reload-drum-setup.md) |
 | Lars Ulrich's Drum Setup on Metallica's St. Anger (2003) | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/st-anger-drum-setup.md) |
@@ -495,7 +495,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Isaac Lamb Drumming Breakdown — Kublai Khan TX's Beatdown Hardcore Engine | Isaac Lamb | [Markdown](https://metalforge.io/llms/articles/isaac-lamb-drum-setup.md) |
 | Absolute Drum Performance — Isaac Lamb's Defining Kublai Khan TX Statement | Isaac Lamb | [Markdown](https://metalforge.io/llms/articles/absolute-drum-setup.md) |
 | Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide | Daniel Erlandsson | [Markdown](https://metalforge.io/llms/articles/daniel-erlandsson-drum-setup.md) |
-| Daniel Erlandsson's Drum Setup on Arch Enemy's Wages of Sin (2002) | Daniel Erlandsson | [Markdown](https://metalforge.io/llms/articles/wages-of-sin-drum-setup.md) |
+| Daniel Erlandsson's Drum Setup on Arch Enemy's Wages of Sin (2001) | Daniel Erlandsson | [Markdown](https://metalforge.io/llms/articles/wages-of-sin-drum-setup.md) |
 | Arch Enemy Doomsday Machine Drum Setup: Daniel Erlandsson's 2005 Melodic Death Gear | Daniel Erlandsson | [Markdown](https://metalforge.io/llms/articles/doomsday-machine-drum-setup.md) |
 | Daniel Erlandsson's Drum Setup on Arch Enemy's Anthems of Rebellion (2003) | Daniel Erlandsson | [Markdown](https://metalforge.io/llms/articles/anthems-of-rebellion-drum-setup.md) |
 | Daniel Erlandsson's Drum Setup on Arch Enemy's Rise of the Tyrant (2007) | Daniel Erlandsson | [Markdown](https://metalforge.io/llms/articles/rise-of-the-tyrant-drum-setup.md) |

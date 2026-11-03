@@ -1,6 +1,6 @@
 # Hatebreeder Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 1999 Debut
 
-> Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hatebreeder (1999). Complete breakdown of the early Tama configuration, Zildjian A Series cymbals, and DW 5000 double pedal behind CoB's neo-classical death metal debut.
+> Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hatebreeder (1999). Complete breakdown of the early Tama configuration, Zildjian A Series cymbals, and Pearl Eliminator double pedal behind CoB's neo-classical death metal debut.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Jaska Raatikainen](/llms/drummers/jaska-raatikainen.md)
@@ -14,16 +14,16 @@
 
 Released on February 1, 1999, *Hatebreeder* is Children of Bodom's second full-length album and the record that established their signature neo-classical death metal sound on the global stage. Recorded at Astia Studio in Imatra, Finland — the home studio of producer Anssi Kippo, who would go on to engineer many of the most important Finnish metal records of the era — it introduced the fully-realized version of the fusion Alexi Laiho and Jaska Raatikainen had been developing since co-founding the band in Espoo in 1993.
 
-At the center of *Hatebreeder*'s relentless momentum was Raatikainen, 19 years old at the sessions and already demonstrating the technical vocabulary that would make him one of melodic death metal's most respected drummers. His early Tama kit, paired with Zildjian A Series cymbals and DW 5000 double pedals, delivered both the velocity required for the album's most aggressive passages and the musical sensitivity needed to track Janne Wirman's neo-classical keyboard countermelodies and Alexi Laiho's guitar runs.
+At the center of *Hatebreeder*'s relentless momentum was Raatikainen, 19 years old at the sessions and already demonstrating the technical vocabulary that would make him one of melodic death metal's most respected drummers. His early Tama kit, paired with Zildjian A Series cymbals and Pearl Eliminator double pedals, delivered both the velocity required for the album's most aggressive passages and the musical sensitivity needed to track Janne Wirman's neo-classical keyboard countermelodies and Alexi Laiho's guitar runs.
 
-*Hatebreeder* sits at the origin point of the Children of Bodom discovery cluster: it is the entry album for any listener tracing Jaska Raatikainen's career, the debut record that established the CoB sound, and the session that launched one of Finnish metal's most distinctive drummer-gear combinations. This article breaks down every component of Raatikainen's setup on *Hatebreeder* — the early Tama shells, the Zildjian A Series cymbal selection, the DW 5000 double pedal, and the stylistic approach that launched a career.
+*Hatebreeder* sits at the origin point of the Children of Bodom discovery cluster: it is the entry album for any listener tracing Jaska Raatikainen's career, the debut record that established the CoB sound, and the session that launched one of Finnish metal's most distinctive drummer-gear combinations. This article breaks down every component of Raatikainen's setup on *Hatebreeder* — the early Tama shells, the Zildjian A Series cymbal selection, the Pearl Eliminator double pedal, and the stylistic approach that launched a career.
 
 ## Gear Breakdown
 
 - **Drums:** Tama Tama Custom (early configuration) (Custom finish finish)
 - **Snare:** Tama Tama 14" x 5.5" Maple Snare, 14" x 5.5"
 - **Cymbals:** Zildjian — Zildjian A Series
-- **Hardware / Pedals:** DW 5000 Double Pedal; Vic Firth American Classic 5A; Remo Emperor Coated; Remo Powerstroke 3
+- **Hardware / Pedals:** Pearl Eliminator Double Pedal; Vic Firth American Classic 5A; Remo Emperor Coated; Remo Powerstroke 3
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-bright — attack clarity for neo-classical death metal without sacrificing body
 
@@ -55,24 +55,24 @@ The two A Series crashes (16" and 18") gave Raatikainen tonal variety for accent
 
 ## The Album That Started Everything: Hatebreeder and the CoB Drum Legacy
 
-*Hatebreeder* (1999) is where Jaska Raatikainen's approach to melodic death metal drumming first found full expression in a major studio context. The early Tama configuration, Zildjian A Series cymbals, and DW 5000 double pedal were not a finished setup — they were a starting point, the gear foundation from which the Starclassic Maple era, and later the Pearl Masters years, would evolve. But the drumming language was already complete.
+*Hatebreeder* (1999) is where Jaska Raatikainen's approach to melodic death metal drumming first found full expression in a major studio context. The early Tama configuration, Zildjian A Series cymbals, and Pearl Eliminator double pedal were not a finished setup — they were a starting point, the gear foundation from which the Starclassic Maple era, and later the Pearl Masters years, would evolve. But the drumming language was already complete.
 
-What makes *Hatebreeder* worth studying as a drum record is exactly what makes it the entry point for the Jaska Raatikainen discovery cluster: it captures the CoB approach before refinement, at its most direct and energetic. The rawer Astia Studio production, the brightness of the Zildjian A Series against the dense keyboard arrangements, the DW 5000's foundational double-kick engine — these elements create a drum sound with a character distinct from the more polished *Hate Crew Deathroll* recording, and that distinction is musically meaningful.
+What makes *Hatebreeder* worth studying as a drum record is exactly what makes it the entry point for the Jaska Raatikainen discovery cluster: it captures the CoB approach before refinement, at its most direct and energetic. The rawer Astia Studio production, the brightness of the Zildjian A Series against the dense keyboard arrangements, the Pearl Eliminator's foundational double-kick engine — these elements create a drum sound with a character distinct from the more polished *Hate Crew Deathroll* recording, and that distinction is musically meaningful.
 
 **For Drummers Studying Hatebreeder:**
 Start with "Towards Dead End" for the double-kick foundation: count the patterns against the keyboard lines, observe how the bass drum placement locks with the rhythm rather than simply underlining it. Then move to "Children of Decadence" for the fill language: track the tom phrases against Janne Wirman's keyboard runs, hear how each fill functions as melodic counterpoint. Finally, listen to "Downfall" for the full dynamic range — the contrast from verse restraint to the album's climactic close shows the compositional thinking that was already present at age 19.
 
 **The Gear Legacy:**
-The DW 5000 double pedal remains in production and remains respected as one of metal drumming's foundational chain-drive options. Zildjian A Series cymbals have been continuous for decades — the same B20 alloy and traditional lathing that Raatikainen used on *Hatebreeder* are available today.
+The Pearl Eliminator double pedal remains in production and remains respected as one of metal drumming's foundational double pedal options. Zildjian A Series cymbals have been continuous for decades — the same B20 alloy and traditional lathing that Raatikainen used on *Hatebreeder* are available today.
 
-For Jaska Raatikainen's complete gear evolution — from the DW 5000 era through the Tama Starclassic years and into the Pearl Masters decade — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup).
+For Jaska Raatikainen's complete gear evolution — from the Pearl Eliminator debut on *Hatebreeder* through the Tama Starclassic years and into the Pearl Masters decade — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup).
 
 ## Key Facts
 
 - Recorded at Astia Studio, Imatra — Anssi Kippo's first major CoB production
 - Jaska Raatikainen, age 19 — early Tama configuration before the Starclassic era
 - Zildjian A Series cymbals throughout — pre-endorsement, continuing through Follow the Reaper and Hate Crew Deathroll
-- DW 5000 double pedal — chain-drive foundation for the neo-classical double-kick approach
+- Pearl Eliminator double pedal — cam-driven foundation for the neo-classical double-kick approach
 - "Downfall" and "Children of Decadence" showcase the earliest expression of CoB's drum language
 - Entry point for the Jaska Raatikainen discovery cluster: debut album, youngest major Finnish metal lineup
 - Early Tama configuration — precedes the Starclassic Maple era documented on Hate Crew Deathroll
@@ -91,7 +91,7 @@ A: On *Hatebreeder* (1999), Jaska Raatikainen played an early Tama configuration
 
 **Q: What pedals did Jaska Raatikainen use on Hatebreeder?**
 
-A: Jaska Raatikainen used the DW 5000 double pedal on *Hatebreeder* (1999). The DW 5000's chain-drive mechanism delivered the consistent mechanical response essential to Children of Bodom's sustained double-kick patterns at extreme tempos — tracks like "Towards Dead End" and "Children of Decadence" deploy continuous double-bass passages where pedal consistency directly determines whether each stroke registers as a distinct musical event or an indistinct blur. The DW 5000 series has been among the most respected chain-drive double pedals in metal drumming since its introduction, valued for exactly the qualities that made it right for Raatikainen's debut major studio work. See the [Jaska Raatikainen full kit guide](/articles/jaska-raatikainen-drum-setup) for his pedal evolution across CoB's career.
+A: Jaska Raatikainen used the Pearl Eliminator double pedal on *Hatebreeder* (1999). The Pearl Eliminator's interchangeable cam system delivered the consistent mechanical response essential to Children of Bodom's sustained double-kick patterns at extreme tempos — tracks like "Towards Dead End" and "Children of Decadence" deploy continuous double-bass passages where pedal consistency directly determines whether each stroke registers as a distinct musical event or an indistinct blur. The Pearl Eliminator series has been among the most respected double pedals in metal drumming since its introduction, valued for exactly the qualities that made it right for Raatikainen's debut major studio work. See the [Jaska Raatikainen full kit guide](/articles/jaska-raatikainen-drum-setup) for his pedal evolution across CoB's career.
 
 **Q: What cymbals did Jaska Raatikainen use on Hatebreeder?**
 
@@ -115,4 +115,4 @@ A: *Hatebreeder* (1999) documents the first fully-realized expression of Jaska R
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

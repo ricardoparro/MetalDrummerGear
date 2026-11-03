@@ -14,7 +14,7 @@
 
 Released on March 12, 2001, "Blackwater Park" isn't just Opeth's masterpiece—it's one of the defining albums of progressive death metal. The album achieved what seemed impossible: seamlessly weaving brutal death metal passages with delicate acoustic beauty, creating a 66-minute journey that felt both crushing and intimate.
 
-At the heart of this achievement was drummer Martin Lopez. Born February 8, 1978, in Stockholm (raised in Mölndal), Lopez brought a jazz-influenced sensibility to extreme metal that few could match. His drumming on Blackwater Park is a masterclass in dynamic control—he could whisper with brushwork one moment and erupt into thunderous double bass the next, always serving the song's emotional arc.
+At the heart of this achievement was drummer Martin Lopez. Born May 20, 1978, in Stockholm (raised in Mölndal), Lopez brought a jazz-influenced sensibility to extreme metal that few could match. His drumming on Blackwater Park is a masterclass in dynamic control—he could whisper with brushwork one moment and erupt into thunderous double bass the next, always serving the song's emotional arc.
 
 The sessions took place at Fredman Studio in Gothenburg, Sweden, with an unusual collaborator at the helm: Steven Wilson of Porcupine Tree. Wilson's progressive rock sensibilities merged with Opeth's death metal foundation to create something entirely new. His production captured Lopez's dynamics in ways previous extreme metal albums rarely achieved—you can hear the room breathe, the cymbals shimmer, the kick drum punch without being sterile.
 
@@ -135,4 +135,4 @@ A: Martin Lopez's Sonor Designer Series kit retailed for approximately $3,500 to
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

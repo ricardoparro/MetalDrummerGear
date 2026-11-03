@@ -8,9 +8,9 @@
 
 ## Overview
 
-When discussing the architects of extreme metal drumming, Pete Sandoval's name stands at the foundation. As the drummer for Morbid Angel from 1988 to 2013, Sandoval didn't just play death metal — he helped invent it.
+When discussing the architects of extreme metal drumming, Pete Sandoval's name stands at the foundation. As the drummer for Morbid Angel from 1988 to 2010, Sandoval didn't just play death metal — he helped invent it.
 
-Born Pedro "Pete" Sandoval on September 21, 1968, in Los Angeles, California, he grew up on a steady diet of heavy metal and punk. But it was his work with Morbid Angel that would change the course of extreme music forever. Albums like "Altars of Madness" (1989), "Blessed Are the Sick" (1991), and "Covenant" (1993) established the Florida death metal sound that influenced countless bands worldwide.
+Born Pedro "Pete" Sandoval on May 21, 1964, in Santa Ana, El Salvador, he grew up on a steady diet of heavy metal and punk. But it was his work with Morbid Angel that would change the course of extreme music forever. Albums like "Altars of Madness" (1989), "Blessed Are the Sick" (1991), and "Covenant" (1993) established the Florida death metal sound that influenced countless bands worldwide.
 
 Sandoval is credited with pioneering the "gravity blast" technique — a method of producing extremely fast single-strokes on the snare drum by allowing the stick to bounce off the head and using gravity and wrist motion to sustain the pattern. This technique, combined with his relentless double bass drumming, created the template for extreme metal drumming that persists today.
 
@@ -75,7 +75,7 @@ Three decades after "Altars of Madness" changed everything, Pete Sandoval remain
 
 ## Key Facts
 
-- Co-founder of the Florida death metal sound with Morbid Angel (1988-2013)
+- Co-founder of the Florida death metal sound with Morbid Angel (1988-2010)
 - Pioneer of the gravity blast technique
 - Recorded landmark albums: Altars of Madness, Blessed Are the Sick, Covenant
 - Also known for work with Terrorizer (World Downfall, 1989)
@@ -116,4 +116,4 @@ A: Pete's specific ddrum series and snare model haven't been publicly confirmed,
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

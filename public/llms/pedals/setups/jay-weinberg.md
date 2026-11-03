@@ -1,6 +1,6 @@
 # What Pedals Does Jay Weinberg Use? Full Setup
 
-**Band:** Suicidal Tendencies | **Configuration:** double | **Drive Type:** chain
+**Band:** ex-Slipknot / Suicidal Tendencies | **Configuration:** double | **Drive Type:** chain
 
 ---
 
@@ -38,4 +38,4 @@ A: Jay Weinberg plays a DW 9000 Series double pedal (chain-drive).
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

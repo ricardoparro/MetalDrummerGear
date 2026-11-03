@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-03"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -206,10 +206,6 @@ Aquiles Priester plays a DW 9000 Series double pedal (chain-drive).
 
 Full breakdown: [Aquiles Priester's pedal setup](https://metalforge.io/pedals/setups/aquiles-priester).
 
-## Study Rankings
-
-- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
-
 ## Gear Evolution
 
 Full album-by-album gear evolution: [Aquiles Priester's gear evolution timeline](https://metalforge.io/llms/evolution/aquiles-priester.md).
@@ -236,4 +232,4 @@ Dated brand-endorsement timeline: [Aquiles Priester's endorsement history](https
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

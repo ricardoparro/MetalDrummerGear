@@ -1,6 +1,6 @@
 # Alex Rüdinger — Signature Drum Licks & Patterns
 
-**Band:** The Faceless | **Genre:** Technical Death Metal / Progressive Metal | **Lick Count:** 1
+**Band:** Trivium | **Genre:** Technical Death Metal / Progressive Metal | **Lick Count:** 1
 
 ---
 
@@ -50,4 +50,4 @@ Alex Rüdinger's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

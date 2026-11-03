@@ -1,10 +1,10 @@
-# Daniel Erlandsson's Drum Setup on Arch Enemy's Wages of Sin (2002)
+# Daniel Erlandsson's Drum Setup on Arch Enemy's Wages of Sin (2001)
 
-> Daniel Erlandsson's drum setup on Arch Enemy's Wages of Sin (2002) — Angela Gossow's debut as Arch Enemy vocalist, the Gothenburg melodic death metal sound at Studio Fredman, Andy Sneap production, Pearl drums, Sabian cymbals, and the album that broke Arch Enemy in North America.
+> Daniel Erlandsson's drum setup on Arch Enemy's Wages of Sin (2001) — Angela Gossow's debut as Arch Enemy vocalist, the Gothenburg melodic death metal sound at Studio Fredman, Andy Sneap production, Pearl drums, Sabian cymbals, and the album that broke Arch Enemy in North America.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Daniel Erlandsson](/llms/drummers/daniel-erlandsson.md)
-**Band / Album:** Arch Enemy — *Wages of Sin* (2002)
+**Band / Album:** Arch Enemy — *Wages of Sin* (2001)
 **Genre:** Melodic Death Metal
 **Label:** Century Media Records
 **Studio:** Studio Fredman, Gothenburg, Sweden
@@ -12,9 +12,9 @@
 
 ## Overview
 
-Released February 14, 2002 on Century Media Records, Arch Enemy's fourth studio album Wages of Sin is the record that turned the band from a respected European melodic death metal act into a global force. It is Angela Gossow's debut as Arch Enemy's vocalist — replacing original frontman Johan Liiva and instantly redefining the band's identity — and it is the arc-opening Gossow-era album that launched the trajectory carrying Arch Enemy across the next two decades of headlining tours and major festival slots. The "Ravenous" and "Heart of Darkness" singles broke through into rotation on MTV2's Headbangers Ball and across European metal radio, and the album marked Arch Enemy's commercial and critical breakthrough in North America — the first time the band's audience caught up with the technical quality of the music being made.
+Released February 14, 2001 on Century Media Records, Arch Enemy's fourth studio album Wages of Sin is the record that turned the band from a respected European melodic death metal act into a global force. It is Angela Gossow's debut as Arch Enemy's vocalist — replacing original frontman Johan Liiva and instantly redefining the band's identity — and it is the arc-opening Gossow-era album that launched the trajectory carrying Arch Enemy across the next two decades of headlining tours and major festival slots. The "Ravenous" and "Heart of Darkness" singles broke through into rotation on MTV2's Headbangers Ball and across European metal radio, and the album marked Arch Enemy's commercial and critical breakthrough in North America — the first time the band's audience caught up with the technical quality of the music being made.
 
-Behind the kit on Wages of Sin is Daniel Erlandsson, Arch Enemy co-founding member and one of melodic death metal's most disciplined practitioners. By 2002, Erlandsson had already cut three Arch Enemy studio albums (Black Earth, Stigmata, Burning Bridges) and was operating at the high end of the Gothenburg melodic death metal drumming vocabulary: blast beats deployed with compositional precision, double-kick patterns that follow guitar melodies rather than fight them, and the dynamic control to push tracks like "Enemy Within" and "Behind the Smile" through their full range without losing the band's signature combination of aggression and musicality.
+Behind the kit on Wages of Sin is Daniel Erlandsson, Arch Enemy co-founding member and one of melodic death metal's most disciplined practitioners. By 2001, Erlandsson had already cut two Arch Enemy studio albums (Black Earth, Burning Bridges) and was operating at the high end of the Gothenburg melodic death metal drumming vocabulary: blast beats deployed with compositional precision, double-kick patterns that follow guitar melodies rather than fight them, and the dynamic control to push tracks like "Enemy Within" and "Behind the Smile" through their full range without losing the band's signature combination of aggression and musicality.
 
 Wages of Sin was recorded at Studio Fredman in Gothenburg, Sweden — the same room that captured At the Gates' Slaughter of the Soul (1995), In Flames' early albums, and the broader Gothenburg melodic death metal canon. But the production team for Wages of Sin was distinctive: British producer Andy Sneap (Testament, Megadeth, Exodus) co-produced the record with Arch Enemy themselves, bringing a denser, more aggressive mix philosophy than Studio Fredman's earlier dry, gated Gothenburg template. The result is a hybrid: the Studio Fredman tracking room and house culture, processed through Sneap's modern metal production sensibility. The drum sound on Wages of Sin sits between the dry directness of mid-90s Gothenburg and the saturated polish of 2000s international metal production — punchy and articulate, but with more weight and modern low-end character than its Studio Fredman predecessors.
 
@@ -31,9 +31,9 @@ This article breaks down Daniel Erlandsson's drum setup for Wages of Sin — the
 - **Heads:** Evans Genera HD or Remo Emperor Coated batter — typical early-2000s metal snare configuration
 - **Snare tuning:** High tension batter, tight snare wires — bright cutting attack for dense modern mix
 
-### Daniel Erlandsson's 2002 Kit: Pearl Masters / Reference-Era Configuration
+### Daniel Erlandsson's 2001 Kit: Pearl Masters / Reference-Era Configuration
 
-Daniel Erlandsson has been a long-standing Pearl drums artist across his Arch Enemy career, and by the Wages of Sin sessions in 2001–2002 his kit was firmly within the Pearl Masters / Reference family — Pearl's flagship maple shell platform of the era. The configuration follows the standard Erlandsson template: two 22" x 18" bass drums in a true double-kick setup (not a double pedal on a single kick), 10" and 12" rack toms above the kicks, and 14" and 16" floor toms to his right.
+Daniel Erlandsson has been a long-standing Pearl drums artist across his Arch Enemy career, and by the Wages of Sin sessions in 2001 his kit was firmly within the Pearl Masters / Reference family — Pearl's flagship maple shell platform of the era. The configuration follows the standard Erlandsson template: two 22" x 18" bass drums in a true double-kick setup (not a double pedal on a single kick), 10" and 12" rack toms above the kicks, and 14" and 16" floor toms to his right.
 
 The maple shell character is essential to the Wages of Sin drum sound. Studio Fredman's tracking room is a controlled, relatively dry space — Fredrik Nordström's design philosophy from the mid-90s onward minimised room contribution in favour of close-mic definition. Maple shells project well in that environment: they have the tonal clarity and defined attack that translates directly to close microphones, without relying on room ambience to flesh out the sound. The result on Wages of Sin is a kit sound that reads as immediate and articulate even within the album's dense guitar production.
 
@@ -49,9 +49,9 @@ The 6.5" depth produces a snare voice that balances crack and body: deeper than 
 
 For Erlandsson's playing on the album, the brass snare's response at velocity is the key technical attribute. Blast beat passages on tracks like "Behind the Smile" and "Snowbound" require the drum to speak cleanly on every stroke without flamming or smearing into the next hit. Brass shells respond fast — the metallic shell character is more immediately reactive than wood — and the high-tuned head transmits each stroke with maximum definition. The combination produces blast beats that register as discrete strokes rather than buzzing washes, the production hallmark that lets Erlandsson's playing read as precise even at full velocity.
 
-### Sabian AA and HH: Daniel Erlandsson's Workhorse 2002 Cymbal Setup
+### Sabian AA and HH: Daniel Erlandsson's Workhorse 2001 Cymbal Setup
 
-Daniel Erlandsson has been a long-standing Sabian artist, and his 2002 cymbal setup for Wages of Sin draws from Sabian's professional workhorse lines: the AA series, with its bright B20 bronze attack and cutting projection, and the HH series, with its darker, hand-hammered tonal complexity. The AA/HH pairing was a standard professional metal configuration of the era — durable enough for tour-grade abuse, articulate enough for studio tracking, and tonally varied enough to give the drummer real musical range across a single recording.
+Daniel Erlandsson has been a long-standing Sabian artist, and his 2001 cymbal setup for Wages of Sin draws from Sabian's professional workhorse lines: the AA series, with its bright B20 bronze attack and cutting projection, and the HH series, with its darker, hand-hammered tonal complexity. The AA/HH pairing was a standard professional metal configuration of the era — durable enough for tour-grade abuse, articulate enough for studio tracking, and tonally varied enough to give the drummer real musical range across a single recording.
 
 The 14" AA Rock Hi-Hats are central to the album's drum identity. Erlandsson's hi-hat work on Wages of Sin moves between driving 8th-note patterns under verse riffs, rapid 16th-note articulation in chorus and transition sections, and tight closed-hat blast accompaniment. The AA Rock weight gives the cymbals the body needed to cut through the album's dense guitar mix without disappearing — and the bright B20 character delivers the immediate stick definition that close-mic studio capture demands.
 
@@ -63,7 +63,7 @@ The AA 18" Mini China and AA 10" Splash round out the accent vocabulary. China a
 
 ## Wages of Sin: The Album That Built Arch Enemy's Global Era
 
-Wages of Sin (February 14, 2002) is the breakthrough record at the heart of Arch Enemy's history. It introduced Angela Gossow as the band's vocalist — the defining identity-shaping move that gave Arch Enemy the global profile they would carry across the next two decades. It launched the singles "Ravenous" and "Heart of Darkness" into MTV2 rotation and European metal radio, breaking the band into North American media in a way their first three albums had not. And it consolidated Daniel Erlandsson's reputation as one of melodic death metal's most disciplined drummers, with playing that integrated blast beats, double-kick patterns, and melodic fill content into a mature compositional statement.
+Wages of Sin (February 14, 2001) is the breakthrough record at the heart of Arch Enemy's history. It introduced Angela Gossow as the band's vocalist — the defining identity-shaping move that gave Arch Enemy the global profile they would carry across the next two decades. It launched the singles "Ravenous" and "Heart of Darkness" into MTV2 rotation and European metal radio, breaking the band into North American media in a way their first three albums had not. And it consolidated Daniel Erlandsson's reputation as one of melodic death metal's most disciplined drummers, with playing that integrated blast beats, double-kick patterns, and melodic fill content into a mature compositional statement.
 
 The gear behind that performance — Pearl Masters / Reference-era maple shells, Pearl Free-Floating Brass 14" x 6.5" snare, Sabian AA and HH cymbal setup, Pearl Eliminator double bass pedal, ProMark 5B-class sticks — represents the early-2000s standard for professional melodic death metal drumming. Each component was chosen for function: the maple kit for tonal clarity within Studio Fredman's controlled tracking room, the brass snare for cutting projection through Andy Sneap's dense mix, the Sabian AA/HH pairing for tonal range across the album's compositional variety, the Eliminator pedal for the sustained double-kick consistency the material demanded.
 
@@ -91,18 +91,18 @@ The gear behind that performance — Pearl Masters / Reference-era maple shells,
 - Double 22" x 18" bass drum setup — true two-drum configuration, not double pedal on single kick
 - 10/12 rack toms and 14/16 floor toms — standard melodic death metal four-tom configuration
 - Maple shell construction suited to Studio Fredman's close-mic tracking approach
-- Estimated kit value: $3,500-5,500 (Pearl Masters / Reference-era full kit, 2002)
-- Estimated snare value: $400-600 (Pearl Free-Floating Brass, 2002)
+- Estimated kit value: $3,500-5,500 (Pearl Masters / Reference-era full kit, 2001)
+- Estimated snare value: $400-600 (Pearl Free-Floating Brass, 2001)
 
 ## Frequently Asked Questions
 
-**Q: Who played drums on Arch Enemy's Wages of Sin (2002)?**
+**Q: Who played drums on Arch Enemy's Wages of Sin (2001)?**
 
-A: Daniel Erlandsson played drums on Arch Enemy's Wages of Sin (2002), as he has on every Arch Enemy studio album since the band's 1995 founding. Wages of Sin was Erlandsson's fourth studio album with Arch Enemy following Black Earth (1996), Stigmata (1998), and Burning Bridges (1999), and it was the breakthrough record that established Arch Enemy as a global force in melodic death metal. The album is also notable as Angela Gossow's debut as Arch Enemy's vocalist, replacing original frontman Johan Liiva. For Erlandsson's broader gear and technique context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson).
+A: Daniel Erlandsson played drums on Arch Enemy's Wages of Sin (2001), as he has on every Arch Enemy studio album since the band's 1995 founding except Stigmata (1998), which was recorded by Peter Wildoer during Erlandsson's brief absence. Wages of Sin was Erlandsson's third studio album with Arch Enemy following Black Earth (1996) and Burning Bridges (1999), and it was the breakthrough record that established Arch Enemy as a global force in melodic death metal. The album is also notable as Angela Gossow's debut as Arch Enemy's vocalist, replacing original frontman Johan Liiva. For Erlandsson's broader gear and technique context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson).
 
 **Q: What drum kit did Daniel Erlandsson use on Wages of Sin?**
 
-A: Daniel Erlandsson used a Pearl Masters / Reference-era kit on Wages of Sin (2002), reflecting his long-standing Pearl artist relationship. The configuration followed his standard setup: two 22" x 18" bass drums in a true double-kick configuration (not double pedal on single kick), 10" and 12" rack toms, 14" and 16" floor toms, and a Pearl Free-Floating Brass 14" x 6.5" snare delivering the bright, cutting attack the album's dense Andy Sneap production demanded. His cymbal setup combined Sabian AA series (hi-hats, crashes, China, splash) for cutting brightness with a Sabian HH 20" Heavy Ride for darker tonal contrast. Pearl Eliminator double bass pedal provided the foot technique foundation, and ProMark 5B-class hickory sticks gave him the mass for sustained high-velocity playing.
+A: Daniel Erlandsson used a Pearl Masters / Reference-era kit on Wages of Sin (2001), reflecting his long-standing Pearl artist relationship. The configuration followed his standard setup: two 22" x 18" bass drums in a true double-kick configuration (not double pedal on single kick), 10" and 12" rack toms, 14" and 16" floor toms, and a Pearl Free-Floating Brass 14" x 6.5" snare delivering the bright, cutting attack the album's dense Andy Sneap production demanded. His cymbal setup combined Sabian AA series (hi-hats, crashes, China, splash) for cutting brightness with a Sabian HH 20" Heavy Ride for darker tonal contrast. Pearl Eliminator double bass pedal provided the foot technique foundation, and ProMark 5B-class hickory sticks gave him the mass for sustained high-velocity playing.
 
 **Q: Where was Wages of Sin recorded?**
 
@@ -110,7 +110,7 @@ A: Wages of Sin was recorded at Studio Fredman in Gothenburg, Sweden — the sam
 
 **Q: Why is Wages of Sin significant in Arch Enemy's discography?**
 
-A: Wages of Sin (February 14, 2002) is the arc-opening album of Arch Enemy's defining era. It marks Angela Gossow's debut as the band's vocalist — replacing original frontman Johan Liiva and immediately redefining Arch Enemy's identity — and it was the commercial and critical breakthrough that established the band in North America for the first time. The singles "Ravenous" and "Heart of Darkness" broke into MTV2 Headbangers Ball rotation and European metal radio, expanding the band's audience well beyond the underground melodic death metal scene that had supported their first three albums. Wages of Sin launched the trajectory carrying Arch Enemy across the next two decades of headlining tours, major festival slots, and ten studio albums of mature melodic death metal output. For the broader Arch Enemy and Erlandsson context: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson).
+A: Wages of Sin (February 14, 2001) is the arc-opening album of Arch Enemy's defining era. It marks Angela Gossow's debut as the band's vocalist — replacing original frontman Johan Liiva and immediately redefining Arch Enemy's identity — and it was the commercial and critical breakthrough that established the band in North America for the first time. The singles "Ravenous" and "Heart of Darkness" broke into MTV2 Headbangers Ball rotation and European metal radio, expanding the band's audience well beyond the underground melodic death metal scene that had supported their first three albums. Wages of Sin launched the trajectory carrying Arch Enemy across the next two decades of headlining tours, major festival slots, and ten studio albums of mature melodic death metal output. For the broader Arch Enemy and Erlandsson context: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson).
 
 **Q: What cymbals did Daniel Erlandsson play on Wages of Sin?**
 
@@ -131,4 +131,4 @@ A: Daniel Erlandsson played Sabian cymbals on Wages of Sin, combining the AA and
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # What Drumsticks Does Jay Weinberg Use? Vater 908
 
-**Band:** Suicidal Tendencies | **Brand:** Vater | **Model:** 908
+**Band:** ex-Slipknot / Suicidal Tendencies | **Brand:** Vater | **Model:** 908
 
 ---
 
@@ -42,4 +42,4 @@ A: It's a named signature model — the Vater 908 is designed and marketed speci
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

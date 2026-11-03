@@ -23,8 +23,8 @@ Source: [Mapex — History](https://www.mapexdrums.com/history).
 
 ## Study Rankings
 
-- [Mapex ranks #5 in drum kits usage in our brand-usage study (5.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Mapex ranks #13 for overall brand reach in our endorsement-landscape study (5.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Mapex ranks #6 in drum kits usage in our brand-usage study (5.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Mapex ranks #14 for overall brand reach in our endorsement-landscape study (5.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## More Resources
 
@@ -36,4 +36,4 @@ Source: [Mapex — History](https://www.mapexdrums.com/history).
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

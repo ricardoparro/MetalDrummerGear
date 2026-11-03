@@ -48,8 +48,8 @@ A: Model 2B. Full descriptions are in the Notable Lines section above.
 
 ## Study Rankings
 
-- [Promark ranks #2 in sticks usage in our brand-usage study (18.1% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Promark ranks #8 for overall brand reach in our endorsement-landscape study (18.1% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Promark ranks #2 in sticks usage in our brand-usage study (26.4% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Promark ranks #6 for overall brand reach in our endorsement-landscape study (26.4% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## Other Drumstick Brands We Cover
 
@@ -74,4 +74,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Pro-Ma
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

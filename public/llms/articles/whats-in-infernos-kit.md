@@ -11,7 +11,7 @@
 
 In the apocalyptic theater of Behemoth's live performances, seated upon a towering drum riser like a demonic throne, sits one of extreme metal's most devastating drummers: Inferno.
 
-Born Zbigniew Robert Promiński on March 23, 1979, in Gdańsk, Poland, Inferno has been the rhythmic foundation of Behemoth since 1997. That's over 27 years of relentless blast beats, surgical precision, and the kind of stamina that seems almost inhuman.
+Born Zbigniew Robert Promiński on December 30, 1978, in Tczew, Poland, Inferno has been the rhythmic foundation of Behemoth since 1997. That's over 27 years of relentless blast beats, surgical precision, and the kind of stamina that seems almost inhuman.
 
 While frontman Nergal commands the spotlight with his controversial pronouncements and theatrical presence, it's Inferno's drumming that drives Behemoth's sound—a devastating combination of black metal intensity and death metal technicality. From the rawness of "Satanica" through the masterpiece of "The Satanist" to the recent "Opvs Contra Natvram," his playing has evolved while maintaining its core brutality.
 
@@ -121,4 +121,4 @@ A: Inferno's Pearl Reference Series shell pack is estimated at $5,000 to $8,000 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

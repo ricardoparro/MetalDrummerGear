@@ -1,6 +1,6 @@
 # MetalForge — Signature Licks Database
 > Drummer signature fills, beats, and patterns with technique breakdowns and tutorial videos.
-Last updated: 2026-10-30 · Source: https://metalforge.io
+Last updated: 2026-11-03 · Source: https://metalforge.io
 
 Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time signature, difficulty, and techniques, followed by an answer-first "how to play it" walkthrough, the tutorial video, and the canonical page URL to cite.
 
@@ -2784,8 +2784,8 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 - Double Bass Pedals (pedals)
 **Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-pull-the-plug-lick
 
-### Zero the Hero Clock Polyrhythm — "D.N.R. (Do Not Resuscitate)", The Gathering (1999)
-- **BPM:** ~138 BPM | **Time:** 4/4 | **Technique:** polyrhythm | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
+### Zero the Hero Clock Polyrhythm — "Dark Roots of Earth", Dark Roots of Earth (2012)
+- **BPM:** ~145 BPM | **Time:** 4/4 | **Technique:** polyrhythm | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
 - **Techniques:** polyrhythm, groove-drumming, limb-independence
 
 **How to play it:**
@@ -2799,7 +2799,7 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 - Start with simple three-against-four polyrhythm at very slow tempo — internalize the combined pattern before adding speed
 - Practice each layer in isolation first, then combine two layers before adding the third
 - Use a metronome locked to the primary pulse so you always know where beat one is within the polyrhythmic complexity
-- Study The Gathering recording with a transcription to map exactly where each limb falls within the polyrhythmic framework
+- Study the Dark Roots of Earth recording with a transcription to map exactly where each limb falls within the polyrhythmic framework
 
 **Gear Used:**
 - Tama Drum Kit (drums)

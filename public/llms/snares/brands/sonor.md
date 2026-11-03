@@ -41,8 +41,8 @@ A: SQ2, Artist-signature models. Full descriptions are in the Notable Models sec
 
 ## Study Rankings
 
-- [Sonor ranks #3 in drum kits usage in our brand-usage study (12.5% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Sonor ranks #10 for overall brand reach in our endorsement-landscape study (12.5% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Sonor ranks #3 in drum kits usage in our brand-usage study (9.7% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Sonor ranks #10 for overall brand reach in our endorsement-landscape study (11.1% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## Other Snare Brands We Cover
 
@@ -63,4 +63,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Sonor, see:
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

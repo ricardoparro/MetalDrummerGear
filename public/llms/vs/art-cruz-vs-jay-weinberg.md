@@ -1,6 +1,6 @@
 # Art Cruz vs Jay Weinberg — Drum Kit Comparison
 
-> Side-by-side gear comparison between Art Cruz (Lamb of God) and Jay Weinberg (Suicidal Tendencies).
+> Side-by-side gear comparison between Art Cruz (Lamb of God) and Jay Weinberg (ex-Slipknot / Suicidal Tendencies).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/art-cruz-vs-jay-weinberg
 
@@ -70,4 +70,4 @@ A: No — Jay Weinberg departed Slipknot in November 2023 after nine years as th
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

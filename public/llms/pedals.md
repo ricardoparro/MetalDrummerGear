@@ -91,7 +91,7 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 | [Inferno](https://metalforge.io/pedals/setups/inferno) | Behemoth | Monolit Czarcie Kopyto | [Markdown](https://metalforge.io/llms/pedals/setups/inferno.md) |
 | [Jaska Raatikainen](https://metalforge.io/pedals/setups/jaska-raatikainen) | Children of Bodom | Pearl Eliminator | [Markdown](https://metalforge.io/llms/pedals/setups/jaska-raatikainen.md) |
 | [Jason Bittner](https://metalforge.io/pedals/setups/jason-bittner) | Shadows Fall / Overkill / Category 7 | Mapex Falcon | [Markdown](https://metalforge.io/llms/pedals/setups/jason-bittner.md) |
-| [Jay Weinberg](https://metalforge.io/pedals/setups/jay-weinberg) | Suicidal Tendencies | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/jay-weinberg.md) |
+| [Jay Weinberg](https://metalforge.io/pedals/setups/jay-weinberg) | ex-Slipknot / Suicidal Tendencies | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/jay-weinberg.md) |
 | [Jocke Wallgren](https://metalforge.io/pedals/setups/jocke-wallgren) | Amon Amarth | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/jocke-wallgren.md) |
 | [Joey Jordison](https://metalforge.io/pedals/setups/joey-jordison) | Slipknot | Pearl Demon Drive | [Markdown](https://metalforge.io/llms/pedals/setups/joey-jordison.md) |
 | [John Otto](https://metalforge.io/pedals/setups/john-otto) | Limp Bizkit | Gibraltar Professional Series | [Markdown](https://metalforge.io/llms/pedals/setups/john-otto.md) |
@@ -127,4 +127,4 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 - [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-11-01 · 55 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · 55 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*

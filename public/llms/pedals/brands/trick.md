@@ -20,8 +20,8 @@ Source: [MetalForge — Pedals Guide (verified roster data)](https://metalforge.
 
 ## Study Rankings
 
-- [Trick ranks #11 in pedals usage in our brand-usage study (1.4% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Trick ranks #23 for overall brand reach in our endorsement-landscape study (1.4% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Trick ranks #8 in pedals usage in our brand-usage study (2.8% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Trick ranks #19 for overall brand reach in our endorsement-landscape study (2.8% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## More Resources
 
@@ -32,4 +32,4 @@ Source: [MetalForge — Pedals Guide (verified roster data)](https://metalforge.
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

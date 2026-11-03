@@ -3,7 +3,7 @@
 > Era-by-era breakdown of how legendary metal drummers' gear evolved. Includes original kit specs, endorsement changes, and inflation-adjusted prices.
 > Optimised for AI crawlers answering "what drums did [drummer] use in [era]" queries.
 >
-> Last updated: 2026-11-02 · 71 drummers covered
+> Last updated: 2026-11-03 · 71 drummers covered
 
 ---
 
@@ -1585,7 +1585,7 @@ John Longstreth's setup around Origin's Chaosmos (2022) documents the rig behind
 
 ### Chaosmos Era (2022)
 
-- **Kit:** Pearl Masters Maple Complete — professional maple shell pack (representative model); 22" bass drum, 10"/12" rack toms, 16" floor tom
+- **Kit:** Pearl (shell series not independently documented) — unconfirmed, representative pricing only; shell sizes and finish not publicly documented
 - **Cymbals:** Meinl Classics Custom Dark + Generation X Trash Hat — 8" Dark Splash, 14" Dark Hi-Hats, 18" Dark China, 12"/14" Trash Hat
 - **Original setup cost (2022):** ~$4,273
 - **Inflation-adjusted to 2026:** ~$4,784
@@ -2741,15 +2741,15 @@ Scott Travis's 1990 Painkiller-era setup marks one of the most consequential gea
 
 - **Kit:** Pearl Reference Series — hybrid maple/birch/mahogany shells, Piano Black finish; dual 22"x18" independent bass drums, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms
 - **Snare:** Pearl Reference Brass 14"x6.5", beaded brass shell, die-cast hoops
-- **Cymbals:** Sabian HH/AA hybrid, evolving to full HHX by 2014
-- **Notable:** Travis switched from Tama's birch Artstar II to Pearl's hybrid-ply Reference Series for Rob Halford's 2003 return to the band, carrying it through Angel of Retribution (2005) and the 23-track concept album Nostradamus (2008). The Reference kit's dynamic range served both records' heaviest and quietest passages without a setup change. Redeemer of Souls (2014) — the Andy Sneap-produced, Grammy-nominated album — completed his transition to full Sabian HHX cymbals.
+- **Cymbals:** Paiste RUDE / 2002 Series — 14" hi-hats, 16"–20" crashes, 20" ride, 18" China
+- **Notable:** Travis switched from Tama's birch Artstar II to Pearl's hybrid-ply Reference Series for Rob Halford's 2003 return to the band, carrying it through Angel of Retribution (2005) and the 23-track concept album Nostradamus (2008). The Reference kit's dynamic range served both records' heaviest and quietest passages without a setup change. His Paiste RUDE/2002 cymbals, Vic Firth sticks, and Remo heads all carried over unchanged through Redeemer of Souls (2014), the Andy Sneap-produced, Grammy-nominated album.
 
-### Tama Starclassic / Firepower Era (2018–present)
+### ddrum / Firepower Era (2018–present)
 
-- **Kit:** Tama Starclassic Maple — 6-ply maple shells, Piano Black finish; 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms
-- **Snare:** Tama Starphonic Brass 14"x6"
-- **Cymbals:** Sabian HHX Series — 14" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China
-- **Notable:** Firepower (2018) marked Travis's thirty-year anniversary with Priest and his return to Tama, trading the Pearl Reference's hybrid ply for maple's warmer, fuller body — a better match for producers Andy Sneap and Tom Allom's layered guitar sound. The same Starclassic Maple platform carried him through Invincible Shield (2024), Priest's highest-charting album ever in the UK. Throughout every gear change, Travis has kept his career-long independent double-kick approach rather than switching to a linked pedal.
+- **Kit:** ddrum Dominion Series — shell pack built for cut through Judas Priest's dual-guitar attack
+- **Snare:** ddrum Scott Travis Signature 14"x6.5", signature snare designed to his own specifications
+- **Cymbals:** Paiste RUDE and 2002 Series — 14" RUDE hi-hats, 18"/19" RUDE crashes, 22" RUDE Power Ride, 18" RUDE China
+- **Notable:** Firepower (2018) marked Travis's thirty-year anniversary with Priest, with his setup switching from Pearl's Reference Series to a ddrum Dominion Series shell pack and ddrum Scott Travis Signature snare built to his own specifications for the explosive crack needed to cut through Priest's dual-guitar attack. The same ddrum/Paiste platform carried him through Invincible Shield (2024). Throughout every gear change, Travis has kept his career-long independent double-kick approach rather than switching to a linked pedal, and his Paiste cymbal and Vic Firth stick endorsements have never changed.
 
 **Price Evolution:**
 - 1990: $4,200 (Original Purchase) — Painkiller recording and world tour

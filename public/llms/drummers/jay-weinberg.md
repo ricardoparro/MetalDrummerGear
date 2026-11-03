@@ -1,24 +1,24 @@
 ---
 name: "Jay Weinberg"
-band: "Suicidal Tendencies"
+band: "ex-Slipknot / Suicidal Tendencies"
 genre: "Hardcore / Thrash Crossover"
 country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/jay-weinberg"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-03"
 ---
 
 # Jay Weinberg — Drum Kit & Gear Setup
 
-Jay Weinberg's drum kit and gear setup. Jay Weinberg is a professional metal drummer best known for their work with Suicidal Tendencies, a defining act in hardcore / thrash crossover.
+Jay Weinberg's drum kit and gear setup. Jay Weinberg is a professional metal drummer best known for their work with ex-Slipknot / Suicidal Tendencies, a defining act in hardcore / thrash crossover.
 
 ## Quick Facts
 
 | Fact | Value |
 |---|---|
 | Name | Jay Weinberg |
-| Band | Suicidal Tendencies |
+| Band | ex-Slipknot / Suicidal Tendencies |
 | All bands | Suicidal Tendencies, Slipknot, Against Me! |
 | Genre | Hardcore / Thrash Crossover |
 | Country | USA |
@@ -92,7 +92,7 @@ Jay Weinberg's drumming style combines the technical precision inherited from hi
 
 ## Band History
 
-- **Suicidal Tendencies** — 2023–present (current)
+- **Suicidal Tendencies** — 2023–2026
 - **Slipknot** — 2014–2023
 - **Against Me!** — 2009–2014
 
@@ -205,10 +205,6 @@ Jay Weinberg plays a DW 9000 Series double pedal (chain-drive).
 
 Full breakdown: [Jay Weinberg's pedal setup](https://metalforge.io/pedals/setups/jay-weinberg).
 
-## Study Rankings
-
-- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
-
 ## Gear Evolution
 
 Full album-by-album gear evolution: [Jay Weinberg's gear evolution timeline](https://metalforge.io/llms/evolution/jay-weinberg.md).
@@ -234,4 +230,4 @@ Dated brand-endorsement timeline: [Jay Weinberg's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

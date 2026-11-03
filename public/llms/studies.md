@@ -1,6 +1,6 @@
 # MetalForge Studies — Data-Driven Metal Drumming Analysis
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View hub →](https://metalforge.io/studies)
+> **Last updated:** 2026-11-03 · **Source:** [MetalForge.io](https://metalforge.io) · [View hub →](https://metalforge.io/studies)
 
 ---
 
@@ -14,7 +14,7 @@ Data-driven studies analyzing gear, technique, and tempo trends across MetalForg
 
 A data-driven breakdown of which drum, cymbal, snare, stick, and pedal brands metal’s professional drummers actually play, counted across the 72 drummers documented on MetalForge.
 
-**Headline finding:** Pearl is the most-used drum kit brand in metal, played by 22 of the 72 drummers documented on MetalForge (30.6%).
+**Headline finding:** Tama is the most-used drum kit brand in metal, played by 21 of the 72 drummers documented on MetalForge (29.2%).
 
 - [Full study →](https://metalforge.io/studies/most-used-gear-brands-metal)
 - [LLM mirror →](https://metalforge.io/llms/studies/most-used-gear-brands-metal.md)
@@ -32,7 +32,7 @@ Average, median, and max BPM for thrash, death, black, and 12 other metal subgen
 
 Which drum, cymbal, snare, stick, and pedal brands reach the most drummers across MetalForge’s 72-drummer roster, signature-model counts by brand, and kit-brand patterns by genre.
 
-**Headline finding:** Vic Firth reaches more metal drummers than any other brand tracked by MetalForge, endorsed by 44 of the 72 documented drummers (61.1%).
+**Headline finding:** Vic Firth reaches more metal drummers than any other brand tracked by MetalForge, endorsed by 36 of the 72 documented drummers (50%).
 
 - [Full study →](https://metalforge.io/studies/drum-endorsement-landscape)
 - [LLM mirror →](https://metalforge.io/llms/studies/drum-endorsement-landscape.md)
@@ -41,11 +41,11 @@ Which drum, cymbal, snare, stick, and pedal brands reach the most drummers acros
 
 How MetalForge’s 72 documented metal drummers set up double-kick sound — physical double bass, double pedal, or twin single pedals — plus cymbal-setup size by genre.
 
-**Headline finding:** Double pedal is by far the most common bass-drum configuration among metal drummers, used by 59 of the 72 documented drummers on MetalForge (81.9%).
+**Headline finding:** Double pedal is by far the most common bass-drum configuration among metal drummers, used by 47 of the 72 documented drummers on MetalForge (65.3%).
 
 - [Full study →](https://metalforge.io/studies/metal-kit-configurations)
 - [LLM mirror →](https://metalforge.io/llms/studies/metal-kit-configurations.md)
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

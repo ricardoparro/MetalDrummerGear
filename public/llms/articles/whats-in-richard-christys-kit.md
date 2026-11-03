@@ -10,7 +10,7 @@
 
 Richard Christy's name might be familiar to millions from his work on The Howard Stern Show, but to death metal fans, he represents something far more significant: the drummer who helped Chuck Schuldiner realize the most ambitious vision of Death's evolution.
 
-Born April 1, 1974, in Fort Scott, Kansas, Christy moved to Florida in 1993 with a singular mission — to break into the death metal scene. His dedication paid off when Chuck Schuldiner handpicked him to join Death in 1996, following auditions that proved his technical precision and musical understanding.
+Born April 1, 1974, in Fort Scott, Kansas, Christy moved to Florida in 1993 with a singular mission — to break into the death metal scene. His dedication paid off when Chuck Schuldiner handpicked him to join Death in 1997, following auditions that proved his technical precision and musical understanding.
 
 What followed was a remarkable creative partnership. "The Sound of Perseverance" (1998) showcased Christy's ability to match Schuldiner's increasingly progressive compositions while maintaining the intensity that defined Death. The album's drumming — complex, dynamic, and precise — demonstrated that technical death metal could have both brain and brute force.
 
@@ -90,7 +90,7 @@ The Sound of Perseverance was Death's final studio album. Richard Christy helped
 
 ## Key Facts
 
-- Death drummer 1996-2001, handpicked by Chuck Schuldiner
+- Death drummer 1997-2001, handpicked by Chuck Schuldiner
 - Recorded "The Sound of Perseverance" — Death's most technical album
 - Control Denied drummer on "The Fragile Art of Existence"
 - Iced Earth drummer 2003-2007
@@ -133,4 +133,4 @@ A: Richard Christy's Pearl Masters Custom shell pack originally retailed for app
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -112,7 +112,7 @@ A: John Otto uses Gibraltar hardware — cymbal stands, hi-hat stand, bass drum 
 
 **Q: What albums did John Otto record with Limp Bizkit?**
 
-A: John Otto recorded all of Limp Bizkit's studio albums as the band's founding drummer: Three Dollar Bill, Y'all$ (1997), Significant Other (1999), Chocolate Starfish and the Hot Dog Flavored Water (2000), Results May Vary (2003), The Unquestionable Truth (Part 1) (2005), Gold Cobra (2011), and Still Sucks (2021). Significant Other sold over 7 million copies in the United States; Chocolate Starfish debuted at #1 on the Billboard 200. Otto's continuous presence across all studio albums makes him one of the most commercially successful nu-metal drummers of his generation. Full discography and career notes: [John Otto at MetalForge](/drummer/john-otto).
+A: John Otto has drummed on every Limp Bizkit studio album — Three Dollar Bill, Y'all$ (1997), Significant Other (1999), Chocolate Starfish and the Hot Dog Flavored Water (2000), Results May Vary (2003), The Unquestionable Truth (Part 1) (2005), Gold Cobra (2011), and Still Sucks (2021) — aside from a brief 2005 fill-in by Sammy Siegler on much of The Unquestionable Truth (Part 1) while Otto was unavailable. Significant Other sold over 7 million copies in the United States; Chocolate Starfish debuted at #1 on the Billboard 200. Otto's near-continuous presence across all studio albums makes him one of the most commercially successful nu-metal drummers of his generation. Full discography and career notes: [John Otto at MetalForge](/drummer/john-otto).
 
 ## Related Articles
 
@@ -131,4 +131,4 @@ A: John Otto recorded all of Limp Bizkit's studio albums as the band's founding 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

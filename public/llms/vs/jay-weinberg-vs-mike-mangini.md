@@ -1,6 +1,6 @@
 # Jay Weinberg vs Mike Mangini — Drum Kit Comparison
 
-> Side-by-side gear comparison between Jay Weinberg (Suicidal Tendencies) and Mike Mangini (Godsmack (2026-present); Dream Theater (2010-2023)).
+> Side-by-side gear comparison between Jay Weinberg (ex-Slipknot / Suicidal Tendencies) and Mike Mangini (Godsmack (2026-present); Dream Theater (2010-2023)).
 
 **Category:** Progressive Metal · **URL:** https://metalforge.io/vs/jay-weinberg-vs-mike-mangini
 
@@ -63,4 +63,4 @@ A: Mike Mangini holds Guinness World Records for drumming speed and is considere
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

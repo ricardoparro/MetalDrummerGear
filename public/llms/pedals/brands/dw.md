@@ -21,7 +21,7 @@
 |---------|------|-------|------------|
 | [Aquiles Priester](https://metalforge.io/pedals/setups/aquiles-priester) | Angra / W.A.S.P. | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/aquiles-priester.md) |
 | [Hannes Grossmann](https://metalforge.io/pedals/setups/hannes-grossmann) | Obscura / ex-Necrophagist / Alkaloid | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/hannes-grossmann.md) |
-| [Jay Weinberg](https://metalforge.io/pedals/setups/jay-weinberg) | Suicidal Tendencies | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/jay-weinberg.md) |
+| [Jay Weinberg](https://metalforge.io/pedals/setups/jay-weinberg) | ex-Slipknot / Suicidal Tendencies | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/jay-weinberg.md) |
 | [Martin Axenrot](https://metalforge.io/pedals/setups/martin-axenrot) | Opeth | DW | [Markdown](https://metalforge.io/llms/pedals/setups/martin-axenrot.md) |
 | [Matt Greiner](https://metalforge.io/pedals/setups/matt-greiner) | August Burns Red | DW 9000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/matt-greiner.md) |
 | [Mikkey Dee](https://metalforge.io/pedals/setups/mikkey-dee) | Scorpions / Motörhead | DW 5000 Series | [Markdown](https://metalforge.io/llms/pedals/setups/mikkey-dee.md) |
@@ -36,8 +36,8 @@ Source: [DW — The DW Story](https://dwdrums.com/the-dw-story/).
 
 ## Study Rankings
 
-- [Ludwig ranks #7 in drum kits usage in our brand-usage study (4.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [DW ranks #7 for overall brand reach in our endorsement-landscape study (19.4% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [DW ranks #4 in drum kits usage in our brand-usage study (8.3% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [DW ranks #7 for overall brand reach in our endorsement-landscape study (23.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## More Resources
 
@@ -49,4 +49,4 @@ Source: [DW — The DW Story](https://dwdrums.com/the-dw-story/).
 
 ---
 
-*Last updated: 2026-10-31 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

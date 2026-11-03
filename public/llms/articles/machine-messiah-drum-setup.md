@@ -23,7 +23,7 @@ His gear for the album: a Tama Starclassic Walnut/Birch kit, Paiste 2002/RUDE cy
 ## Gear Breakdown
 
 - **Drums:** Tama Tama Starclassic Walnut/Birch (Custom Sepultura livery finish)
-- **Snare:** Tama Tama S.L.P. Sonic Steel, 14" x 5.5"
+- **Snare:** Tama Tama Bell Brass (BB146), 14" x 5.5"
 - **Cymbals:** Paiste — 2002 / RUDE Series
 - **Hardware / Pedals:** Tama Iron Cobra 900 Double Pedal; Tama HH905D Hi-Hat Stand; Roc-N-Soc Original Nitro Throne; Eloy Casagrande Signature
 - **Heads:** Evans (batter and resonant)
@@ -39,7 +39,7 @@ The four-tom configuration — three rack toms plus a 16" floor tom — gave Elo
 
 ### Snare: Definition for Eloy's Sepultura Debut
 
-Eloy's snare on *Machine Messiah* delivered the focused crack needed to anchor Sepultura's dense thrash arrangements. A steel shell construction provides the immediate, defined attack that cuts through distorted guitars without losing presence in a heavy mix — essential for a band recording in the same territory as Sepultura's classic catalog.
+Eloy's snare on *Machine Messiah* delivered the focused crack needed to anchor Sepultura's dense thrash arrangements. A brass shell construction provides the immediate, defined attack that cuts through distorted guitars without losing presence in a heavy mix — essential for a band recording in the same territory as Sepultura's classic catalog.
 
 Jens Bogren's engineering at Fascination Street captured the snare's natural character: bright enough to assert authority in the mix, with enough body to support the dynamic passages that *Machine Messiah* required. The result was a snare voice that established Eloy's rhythmic authority from his very first Sepultura studio record.
 
@@ -93,7 +93,7 @@ A: On Machine Messiah (2017), Eloy Casagrande's setup was: Tama Starclassic Waln
 
 **Q: How does Eloy's Machine Messiah setup compare to his Quadra setup?**
 
-A: Between Machine Messiah (2017) and Quadra (2020), Eloy's Tama and Paiste endorsements carried forward: Shells remained Tama Starclassic Walnut/Birch. Cymbals remained Paiste, expanding from the 2002/RUDE pairing to a fuller 2002/RUDE/PSTX arsenal. Pedals: Tama Iron Cobra 900 → Tama Speed Cobra HP310LW for lighter footboard response. The evolution reflects career growth and the sonic demands of Quadra's more ambitious compositional context rather than a change in brand. See the full Quadra breakdown at [/articles/quadra-drum-setup](/articles/quadra-drum-setup).
+A: Between Machine Messiah (2017) and Quadra (2020), Eloy's Tama and Paiste endorsements carried forward: Shells remained Tama Starclassic Walnut/Birch. Cymbals remained Paiste, expanding from the 2002/RUDE pairing to a fuller 2002/RUDE/PSTX arsenal. Pedals remained the Tama Iron Cobra double pedal across both albums. The evolution reflects career growth and the sonic demands of Quadra's more ambitious compositional context rather than a change in pedal. See the full Quadra breakdown at [/articles/quadra-drum-setup](/articles/quadra-drum-setup).
 
 **Q: What tracks on Machine Messiah best showcase Eloy Casagrande's drumming?**
 
@@ -113,4 +113,4 @@ A: "Phantom Self" (the lead single) is the primary showcase of Eloy's blast-beat
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

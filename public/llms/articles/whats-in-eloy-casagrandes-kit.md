@@ -20,9 +20,9 @@ This article breaks down every piece of gear Eloy is using with Slipknot, how hi
 ## Gear Breakdown
 
 - **Drums:** Tama Tama Starclassic Bubinga (Custom Slipknot Black/Red Tribal (exclusive) finish)
-- **Snare:** Tama Tama S.L.P. Sonic Steel 14"x6", 14" x 6"
+- **Snare:** Tama Tama Bell Brass (BB146) 14"x5.5", 14" x 5.5"
 - **Cymbals:** Paiste — Paiste RUDE / PST X / 2002
-- **Hardware / Pedals:** Tama Speed Cobra 910 Double Pedal; Tama Iron Cobra 900; Tama 1st Chair Ergo-Rider; Eloy Casagrande Signature; Custom IEMs
+- **Hardware / Pedals:** Tama Iron Cobra Double Pedal; Tama Iron Cobra 900; Tama 1st Chair Ergo-Rider; Eloy Casagrande Signature; Custom IEMs
 - **Heads:** Evans (batter and resonant)
 - **Snare tuning:** Medium-high for maximum cut and crack
 
@@ -36,19 +36,19 @@ Eloy's Slipknot configuration is more expansive than his Sepultura setup, featur
 
 The custom finish — a striking black with red tribal accents — was designed specifically for Slipknot's visual aesthetic. Each kit is built to withstand the punishment of Slipknot's explosive live shows, where drums must survive not just aggressive playing but the physical intensity of masked performance in hot stage conditions.
 
-Notably, Eloy's dual 22" bass drums are driven by a single Tama Speed Cobra 910 double pedal rather than two independent pedals, one per drum. This double-pedal configuration, common among extreme metal drummers, delivers the speed and power his double-bass patterns require through one mechanical unit.
+Notably, Eloy's dual 22" bass drums are driven by a single Tama Iron Cobra Double Pedal rather than two independent pedals, one per drum. This double-pedal configuration, common among extreme metal drummers, delivers the speed and power his double-bass patterns require through one mechanical unit.
 
 ### The Crack That Cuts Through Chaos
 
-For Slipknot's massive sound, Eloy relies on Tama's S.L.P. Sonic Steel — a 1.2mm steel shell that delivers the explosive crack needed to cut through nine musicians playing at stadium volume.
+For Slipknot's massive sound, Eloy relies on Tama's Bell Brass BB146 — a cast bell-brass shell that delivers the explosive crack needed to cut through nine musicians playing at stadium volume.
 
-The thinner steel shell vibrates more freely than heavier alternatives, producing a brighter, more sensitive tone that responds to Eloy's dynamic playing. This sensitivity is crucial for the ghost notes and subtle touches that separate good drummers from great ones.
+Brass shells vibrate more freely than heavier wood alternatives, producing a brighter, more sensitive tone that responds to Eloy's dynamic playing. This sensitivity is crucial for the ghost notes and subtle touches that separate good drummers from great ones.
 
-At 14" x 6", it's a standard depth that balances crack with body. Eloy tunes it on the higher side for maximum cut, essential when competing with Slipknot's wall of distorted guitars, samples, and percussion.
+At 14" x 5.5", it's a standard depth that balances crack with body. Eloy tunes it on the higher side for maximum cut, essential when competing with Slipknot's wall of distorted guitars, samples, and percussion.
 
-The S.L.P. (Sound Lab Project) series represents Tama's experimental approach to shell materials. The Sonic Steel's seamless 1.2mm shell delivers projection that rivals much heavier drums while maintaining playability for fast, technical passages.
+The Bell Brass line represents Tama's premium metal-shell snare offering. The BB146's cast construction delivers projection that rivals much heavier drums while maintaining playability for fast, technical passages.
 
-For Slipknot's outdoor festival appearances, the steel snare's projection is invaluable. Where wood snares might get lost in open-air venues, the Sonic Steel's metallic cut ensures every backbeat lands with authority.
+For Slipknot's outdoor festival appearances, the brass snare's projection is invaluable. Where wood snares might get lost in open-air venues, the Bell Brass's metallic cut ensures every backbeat lands with authority.
 
 ### Paiste Arsenal: RUDE Power for Stadium Sound
 
@@ -104,7 +104,7 @@ Eloy Casagrande's journey from São Paulo to Slipknot's stage represents what's 
 - Custom Slipknot tribal finish exclusive to Eloy
 - Built for touring durability in extreme conditions
 - Estimated kit value: $6,000-9,000 (Starclassic Bubinga custom configuration)
-- Estimated snare value: $400-550 (S.L.P. series)
+- Estimated snare value: $400-550 (Bell Brass BB146)
 
 ## Frequently Asked Questions
 
@@ -118,7 +118,7 @@ A: Eloy Casagrande uses a mix of Paiste RUDE, PST X, and 2002 series cymbals. Hi
 
 **Q: How much does Eloy Casagrande's drum kit cost?**
 
-A: A Tama Starclassic Bubinga kit matching Casagrande's configuration currently costs between $6,000 and $9,000. His Tama S.L.P. Sonic Steel snare adds approximately $400 to $550. A comparable Paiste RUDE and 2002 cymbal setup will run an additional $2,000 to $3,500. Total investment to approximate his full setup is in the range of $8,400 to $13,000.
+A: A Tama Starclassic Bubinga kit matching Casagrande's configuration currently costs between $6,000 and $9,000. His Tama Bell Brass (BB146) snare adds approximately $400 to $550. A comparable Paiste RUDE and 2002 cymbal setup will run an additional $2,000 to $3,500. Total investment to approximate his full setup is in the range of $8,400 to $13,000.
 
 ## Related Articles
 
@@ -135,4 +135,4 @@ A: A Tama Starclassic Bubinga kit matching Casagrande's configuration currently 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

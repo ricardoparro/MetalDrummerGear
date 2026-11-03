@@ -9,7 +9,7 @@
 
 ## Overview
 
-Frost (real name Kjetil-Vidar Haraldstad, born June 21, 1977, in Oslo, Norway) has been the rhythmic force behind Satyricon since 1993 — one of the longest-serving drummer–band partnerships in extreme metal. From the raw, storm-drenched aggression of Nemesis Divina (1996) to the sleek, almost rock-inflected production of Now, Diabolical (2006) and the self-titled 2013 record, Frost's playing has been the constant thread connecting black metal's most commercially successful act.
+Frost (real name Kjetil-Vidar Haraldstad, born June 28, 1973, in Øyer, Norway) has been the rhythmic force behind Satyricon since 1993 — one of the longest-serving drummer–band partnerships in extreme metal. From the raw, storm-drenched aggression of Nemesis Divina (1996) to the sleek, almost rock-inflected production of Now, Diabolical (2006) and the self-titled 2013 record, Frost's playing has been the constant thread connecting black metal's most commercially successful act.
 
 What makes Frost exceptional isn't simply speed or aggression — those are baseline requirements in Norwegian black metal. What separates him is his architectural approach to blast beats. Where many extreme metal drummers treat blasting as a textural wall, Frost shapes his blasts as rhythmic events with internal structure: slight dynamic swells, deliberate ride and hi-hat voicing, and micro-variations in foot patterns that create the impression of forward momentum even within static tempos. His blast beats breathe in a way that makes Satyricon's densest material feel kinetic rather than monolithic.
 
@@ -136,4 +136,4 @@ A: Frost is also the drummer for 1349, one of Norway's most extreme and relentle
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

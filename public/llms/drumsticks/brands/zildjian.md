@@ -37,8 +37,8 @@ A: Absolute Rock, DIP Series. Full descriptions are in the Notable Lines section
 
 ## Study Rankings
 
-- [Zildjian ranks #1 in cymbals usage in our brand-usage study (31.9% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Zildjian ranks #3 for overall brand reach in our endorsement-landscape study (31.9% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Zildjian ranks #2 in cymbals usage in our brand-usage study (30.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Zildjian ranks #4 for overall brand reach in our endorsement-landscape study (30.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## Other Drumstick Brands We Cover
 
@@ -63,4 +63,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Zildji
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

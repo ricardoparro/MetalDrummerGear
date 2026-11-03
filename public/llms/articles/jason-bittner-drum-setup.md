@@ -77,7 +77,7 @@ For deeper exploration:
 
 ## Key Facts
 
-- Shadows Fall drummer since 1997 — co-architect of the NWOAHM sound across six studio albums
+- Shadows Fall drummer since 2001 — co-architect of the NWOAHM sound across five studio albums
 - Overkill drummer since 2017 — thrash metal's most demanding full-time drum chair
 - Mapex Saturn V (or Black Panther series) — long-time Mapex endorsement built for power and durability in dense metal contexts
 - Zildjian K and A Custom cymbals — tone and cut for projection through NWOAHM and thrash guitar density
@@ -106,7 +106,7 @@ A: Jason Bittner uses the Mapex Falcon double bass pedal. The Falcon's adjustabl
 
 **Q: What bands has Jason Bittner played with?**
 
-A: Jason Bittner is best known as the drummer for Shadows Fall, the New Wave of American Heavy Metal band he joined in 1997, and Overkill, the New Jersey thrash metal institution he has been the full-time drummer for since 2017, replacing Ron Lipnicki. With Shadows Fall, he recorded six studio albums including The Art of Balance (2002) and The War Within (2004) — the two records most commonly cited as NWOAHM's technical benchmark. With Overkill, he has recorded two studio albums, The Wings of War (2019) and Scorched (2023), establishing himself as a leading figure in modern thrash metal as well as the NWOAHM context he originally rose from. He runs both engagements simultaneously — Overkill's primary touring and studio drummer while maintaining activity with Shadows Fall for reunion and select touring work. Full career context: [Jason Bittner at MetalForge](/drummer/jason-bittner).
+A: Jason Bittner is best known as the drummer for Shadows Fall, the New Wave of American Heavy Metal band he joined in 2001, and Overkill, the New Jersey thrash metal institution he has been the full-time drummer for since 2017, replacing Ron Lipnicki. With Shadows Fall, he recorded five studio albums including The Art of Balance (2002) and The War Within (2004) — the two records most commonly cited as NWOAHM's technical benchmark. With Overkill, he has recorded two studio albums, The Wings of War (2019) and Scorched (2023), establishing himself as a leading figure in modern thrash metal as well as the NWOAHM context he originally rose from. He runs both engagements simultaneously — Overkill's primary touring and studio drummer while maintaining activity with Shadows Fall for reunion and select touring work. Full career context: [Jason Bittner at MetalForge](/drummer/jason-bittner).
 
 ## Related Articles
 
@@ -123,4 +123,4 @@ A: Jason Bittner is best known as the drummer for Shadows Fall, the New Wave of 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

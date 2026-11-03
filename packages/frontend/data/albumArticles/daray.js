@@ -184,7 +184,7 @@ export const articles = {
     "dateModified": "2026-06-25",
     "author": "MetalForge Editorial",
     "title": "Abrahadabra — Dimmu Borgir Drum Setup (Daray, 2010)",
-    "description": "The drum setup behind Daray's first studio album as Dimmu Borgir's drummer: Pearl Masterworks Stadium Exotic with Paiste RUDE/2002 cymbals, recorded alongside a full orchestra and choir on Abrahadabra (2010).",
+    "description": "The drum setup behind Daray's first studio album as Dimmu Borgir's drummer: Pearl Reference Pure with Paiste RUDE/2002 cymbals, recorded alongside a full orchestra and choir on Abrahadabra (2010).",
     "seoKeywords": [
       "abrahadabra drum setup",
       "dimmu borgir drummer",
@@ -200,20 +200,20 @@ export const articles = {
     "ogImage": "/images/albums/abrahadabra-drums.webp",
     "intro": {
       "title": "Daray's Studio Debut With Dimmu Borgir",
-      "content": "*Abrahadabra* (released September 22, 2010 through Nuclear Blast) is the album that introduced Daray (Dariusz Brzozowski) as Dimmu Borgir's studio drummer. He had joined the band in 2008 as a replacement for Hellhammer, but *Abrahadabra* was the first time his playing was committed to a Dimmu Borgir studio record — a significant transition given the technical bar Hellhammer had set on the band's prior records, including the orchestral template established on *Death Cult Armageddon* (2003) and formalized further on *In Sorte Diaboli* (2007).\n\n*Abrahadabra* raised the orchestral stakes further still: the album was recorded with the Kringkastingsorkestret (the Norwegian Radio Orchestra) and the Schola Cantorum choir, a combined ensemble of more than 100 musicians and singers layered against the band's core extreme metal instrumentation. Drums and vocals were tracked at Dug Out Studios in Uppsala, Sweden, guitars and bass at Living Room Studios in Oslo, and the orchestral and choir parts at NRK Studios in Oslo — a multi-location production stitched together in the mix rather than a single-room live-band recording. Dimmu Borgir self-produced the album, with mixing handled by the band alongside veteran producer/engineer Andy Sneap.\n\nFor Daray, the technical demand was the same one that defines his entire tenure with the band: sustaining blast beats and double-kick patterns at extreme tempos while locking precisely to a fixed orchestral arrangement that cannot adjust to a drummer who rushes or drags. Tracks like \"Gateways\" — recorded with the full orchestra and choir — required exactly the kind of dynamic control and tempo discipline his Pearl Masterworks Stadium Exotic kit and Paiste cymbal setup were built to support, the same rig documented across his full Dimmu Borgir tenure.\n\nThis article breaks down the drum setup Daray brought to *Abrahadabra*'s sessions, how it served the album's orchestral integration, and why this record — his first with Dimmu Borgir — set the template for everything that followed through *Eonian* (2018).",
+      "content": "*Abrahadabra* (released September 22, 2010 through Nuclear Blast) is the album that introduced Daray (Dariusz Brzozowski) as Dimmu Borgir's studio drummer. He had joined the band in 2008 as a replacement for Hellhammer, but *Abrahadabra* was the first time his playing was committed to a Dimmu Borgir studio record — a significant transition given the technical bar Hellhammer had set on the band's prior records, including the orchestral template established on *Death Cult Armageddon* (2003) and formalized further on *In Sorte Diaboli* (2007).\n\n*Abrahadabra* raised the orchestral stakes further still: the album was recorded with the Kringkastingsorkestret (the Norwegian Radio Orchestra) and the Schola Cantorum choir, a combined ensemble of more than 100 musicians and singers layered against the band's core extreme metal instrumentation. Drums and vocals were tracked at Dug Out Studios in Uppsala, Sweden, guitars and bass at Living Room Studios in Oslo, and the orchestral and choir parts at NRK Studios in Oslo — a multi-location production stitched together in the mix rather than a single-room live-band recording. Dimmu Borgir self-produced the album, with mixing handled by the band alongside veteran producer/engineer Andy Sneap.\n\nFor Daray, the technical demand was the same one that defines his entire tenure with the band: sustaining blast beats and double-kick patterns at extreme tempos while locking precisely to a fixed orchestral arrangement that cannot adjust to a drummer who rushes or drags. Tracks like \"Gateways\" — recorded with the full orchestra and choir — required exactly the kind of dynamic control and tempo discipline his Pearl Reference Pure kit and Paiste cymbal setup were built to support — the Pearl kit he played from his 2008 arrival through 2013, with the Paiste cymbal setup carrying on across his full Dimmu Borgir tenure.\n\nThis article breaks down the drum setup Daray brought to *Abrahadabra*'s sessions, how it served the album's orchestral integration, and why this record — his first with Dimmu Borgir — set the template for everything that followed through *Eonian* (2018).",
       "keyPoints": [
         "Daray's first studio album with Dimmu Borgir, released September 22, 2010 (Nuclear Blast)",
         "Recorded with the Kringkastingsorkestret (Norwegian Radio Orchestra) and Schola Cantorum choir — 100+ musicians and singers",
         "Tracked across three locations: Dug Out Studios (Uppsala), Living Room Studios (Oslo), NRK Studios (Oslo, orchestra/choir)",
         "Self-produced by Dimmu Borgir, mixed with Andy Sneap",
-        "Pearl Masterworks Stadium Exotic kit and Paiste RUDE/2002 cymbals — the same touring and studio rig documented across Daray's Dimmu Borgir tenure",
+        "Pearl Reference Pure kit and Paiste RUDE/2002 cymbals — the kit he played from 2008 through 2013, with the cymbal setup carrying through his full Dimmu Borgir tenure",
         "\"Gateways\" is the album's key orchestra-and-choir showcase track"
       ]
     },
     "drumKit": {
-      "title": "Pearl Masterworks Stadium Exotic: Daray's Foundation From His First Dimmu Borgir Session Onward",
+      "title": "Pearl Reference Pure: The Kit Behind Daray's Dimmu Borgir Studio Debut",
       "brand": "Pearl",
-      "model": "Pearl Masterworks Stadium Exotic",
+      "model": "Pearl Reference Pure",
       "finish": "Custom Black",
       "config": {
         "bassdrums": [
@@ -227,16 +227,16 @@ export const articles = {
           "16\" Floor Tom",
           "18\" Floor Tom"
         ],
-        "shells": "Maple/Birch hybrid — Pearl Masterworks Stadium Exotic multi-core construction for balanced attack and resonance"
+        "shells": "Maple — Pearl Reference Pure single-species maple shell construction for balanced attack and resonance"
       },
-      "description": "Daray's Pearl Masterworks Stadium Exotic kit — the multi-ply maple/birch hybrid shell platform documented across his Dimmu Borgir career — was the foundation of his first studio session with the band. For a drummer stepping into a seat that had just produced *In Sorte Diaboli*'s dense orchestral arrangements, shell consistency was not optional: the Masterworks Stadium Exotic's tight-tolerance construction gave every drum uniform resonance under the high-velocity striking that *Abrahadabra*'s blast-beat and double-kick passages demanded.\n\nThe double 22\" kick configuration anchored the album's rhythmic foundation against the Kringkastingsorkestret's live orchestral tracking. On \"Gateways,\" where a full orchestra and choir sit alongside the band's core instrumentation, kick attack timing had to stay absolutely consistent — any drift between strikes would have produced audible phase conflicts against the orchestral tracks recorded separately at NRK Studios in Oslo. The Masterworks Stadium Exotic's response gave Daray that consistency from the first session of his Dimmu Borgir studio career onward.\n\nThe custom black finish also carried over from Daray's broader kit setup into the album's visual identity, matching the theatrical staging Dimmu Borgir had built its live reputation on. For a new drummer stepping into one of extreme metal's most demanding studio chairs, *Abrahadabra* established that his gear — not just his technique — could meet the same orchestral-integration bar Hellhammer had set on the band's prior symphonic records.",
+      "description": "Daray's Pearl Reference Pure kit — the single-species maple shell platform he played from his 2008 arrival through 2013 — was the foundation of his first studio session with the band. For a drummer stepping into a seat that had just produced *In Sorte Diaboli*'s dense orchestral arrangements, shell consistency was not optional: the Reference Pure's tight-tolerance construction gave every drum uniform resonance under the high-velocity striking that *Abrahadabra*'s blast-beat and double-kick passages demanded.\n\nThe double 22\" kick configuration anchored the album's rhythmic foundation against the Kringkastingsorkestret's live orchestral tracking. On \"Gateways,\" where a full orchestra and choir sit alongside the band's core instrumentation, kick attack timing had to stay absolutely consistent — any drift between strikes would have produced audible phase conflicts against the orchestral tracks recorded separately at NRK Studios in Oslo. The Reference Pure's response gave Daray that consistency from the first session of his Dimmu Borgir studio career onward.\n\nThe custom black finish also carried over from Daray's broader kit setup into the album's visual identity, matching the theatrical staging Dimmu Borgir had built its live reputation on. For a new drummer stepping into one of extreme metal's most demanding studio chairs, *Abrahadabra* established that his gear — not just his technique — could meet the same orchestral-integration bar Hellhammer had set on the band's prior symphonic records.",
       "notes": [
-        "Pearl Masterworks Stadium Exotic — Daray's studio and touring kit since joining Dimmu Borgir in 2008",
+        "Pearl Reference Pure — Daray's studio and touring kit from his 2008 arrival in Dimmu Borgir through 2013",
         "Custom black finish carried through to Dimmu Borgir's theatrical live staging",
         "Double 22\" kick configuration for sustained double-bass patterns locked to orchestral tracking",
-        "First studio use of this kit on a Dimmu Borgir record — set the template continued on Eonian (2018)"
+        "First and only studio use of this kit on a Dimmu Borgir record — Daray switched to Tama in 2014, ahead of Eonian (2018)"
       ],
-      "estimatedValue": "$3,500–6,000 (Pearl Masterworks Stadium Exotic shell pack)"
+      "estimatedValue": "$3,500–6,000 (Pearl Reference Pure shell pack)"
     },
     "snare": {
       "title": "Snare: Pearl Reference Brass for Cutting Through Orchestral Density",
@@ -268,12 +268,12 @@ export const articles = {
       "estimatedValue": "$1,800–2,800 (full Paiste cymbal setup)"
     },
     "hardware": {
-      "title": "Pearl Demon XR and Hardware: Consistency for Orchestral Lock",
+      "title": "Pearl Demon Drive and Hardware: Consistency for Orchestral Lock",
       "pedals": [
         {
           "brand": "Pearl",
-          "model": "Pearl Demon XR Double Bass Pedal",
-          "description": "The Pearl Demon XR's continuous chain-drive action gave Daray the predictable, low-resistance feel needed to sustain double-kick patterns at the extreme tempos *Abrahadabra* required while staying locked to the Kringkastingsorkestret's fixed orchestral tracking. A live orchestra cannot adjust its timing to a drummer who drifts, so the pedal's consistent return speed — the same mechanical foundation Daray has used throughout his Dimmu Borgir tenure — was as important on his first studio session with the band as it has been on every one since."
+          "model": "Pearl Demon Drive Double Bass Pedal",
+          "description": "The Pearl Demon Drive's continuous chain-drive action gave Daray the predictable, low-resistance feel needed to sustain double-kick patterns at the extreme tempos *Abrahadabra* required while staying locked to the Kringkastingsorkestret's fixed orchestral tracking. A live orchestra cannot adjust its timing to a drummer who drifts, so the pedal's consistent return speed — the same mechanical foundation Daray has used throughout his Dimmu Borgir tenure, carried unchanged through his 2014 switch to Tama drums — was as important on his first studio session with the band as it has been on every one since."
         }
       ],
       "sticks": {
@@ -289,7 +289,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Daray use on Abrahadabra?",
-        "answer": "Daray played his Pearl Masterworks Stadium Exotic kit in custom black finish on Abrahadabra (2010) — his first studio album with Dimmu Borgir. The double 22\" kick configuration and multi-ply maple/birch shell construction gave him the consistent response needed to lock against the Kringkastingsorkestret (Norwegian Radio Orchestra) and Schola Cantorum choir tracked separately at NRK Studios in Oslo. For his complete gear breakdown across his full Dimmu Borgir tenure, see the [Daray drum setup guide](/articles/daray-drum-setup)."
+        "answer": "Daray played his Pearl Reference Pure kit in custom black finish on Abrahadabra (2010) — his first studio album with Dimmu Borgir. The double 22\" kick configuration and single-species maple shell construction gave him the consistent response needed to lock against the Kringkastingsorkestret (Norwegian Radio Orchestra) and Schola Cantorum choir tracked separately at NRK Studios in Oslo. He played this kit from his 2008 arrival through 2013, switching to Tama drums in 2014. For his complete gear breakdown across his full Dimmu Borgir tenure, see the [Daray drum setup guide](/articles/daray-drum-setup)."
       },
       {
         "question": "Was Abrahadabra Daray's first studio album with Dimmu Borgir?",
@@ -319,7 +319,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Abrahadabra: Where Daray's Dimmu Borgir Studio Career Began",
-      "content": "*Abrahadabra* is the record that answered the question every new drummer in an iconic seat faces: could Daray meet the orchestral-integration bar Hellhammer had set on *Death Cult Armageddon* and *In Sorte Diaboli*? Recording alongside the Kringkastingsorkestret and Schola Cantorum choir on his very first Dimmu Borgir studio session, Daray's Pearl Masterworks Stadium Exotic and Paiste RUDE/2002 setup delivered the consistency and dynamic control the album's orchestral tracking required.\n\nThe gear that carried him through that debut session — the black-finish Masterworks Stadium Exotic, the brass snare, the RUDE and 2002 cymbals, the Demon XR double pedal — is the same rig documented across his entire Dimmu Borgir tenure, evidence that *Abrahadabra* did not require a special one-off setup so much as a rig built from the start to handle whatever the band's orchestral ambitions demanded.\n\nFor the complete picture of Daray's current gear, see the [Daray drum setup guide](/articles/daray-drum-setup) and the [Daray drummer profile](/drummer/daray). For the predecessor orchestral-integration template his own material built on, see [Hellhammer's In Sorte Diaboli drum setup](/articles/in-sorte-diaboli-drum-setup) and the [Hellhammer drum setup guide](/articles/hellhammer-drum-setup)."
+      "content": "*Abrahadabra* is the record that answered the question every new drummer in an iconic seat faces: could Daray meet the orchestral-integration bar Hellhammer had set on *Death Cult Armageddon* and *In Sorte Diaboli*? Recording alongside the Kringkastingsorkestret and Schola Cantorum choir on his very first Dimmu Borgir studio session, Daray's Pearl Reference Pure and Paiste RUDE/2002 setup delivered the consistency and dynamic control the album's orchestral tracking required.\n\nThe gear that carried him through that debut session — the black-finish Reference Pure kit, the brass snare, the RUDE and 2002 cymbals, the Demon Drive double pedal — anchored Daray's sound through 2013, before he switched to Tama drums in 2014; the Paiste cymbals and Demon Drive pedal carried over unchanged into that new era, evidence that *Abrahadabra* was never a one-off setup so much as the first chapter of a rig built to handle whatever the band's orchestral ambitions demanded.\n\nFor the complete picture of Daray's current gear, see the [Daray drum setup guide](/articles/daray-drum-setup) and the [Daray drummer profile](/drummer/daray). For the predecessor orchestral-integration template his own material built on, see [Hellhammer's In Sorte Diaboli drum setup](/articles/in-sorte-diaboli-drum-setup) and the [Hellhammer drum setup guide](/articles/hellhammer-drum-setup)."
     }
   },
   "eonian-drum-setup": {
@@ -339,13 +339,13 @@ export const articles = {
     "dateModified": "2026-06-25",
     "author": "MetalForge Editorial",
     "title": "Eonian — Dimmu Borgir Drum Setup (Daray, 2018)",
-    "description": "The drum setup behind Daray's second studio album with Dimmu Borgir: Pearl Masterworks Stadium Exotic with Paiste RUDE/2002 cymbals, recorded at Fascination Street Studios for the band's first album in nearly a decade.",
+    "description": "The drum setup behind Daray's second studio album with Dimmu Borgir: Tama Starclassic Performer B/B with Paiste RUDE/2002 cymbals, recorded at Fascination Street Studios for the band's first album in nearly a decade.",
     "seoKeywords": [
       "eonian drum setup",
       "dimmu borgir drummer",
       "daray drum kit",
       "dimmu borgir drums 2018",
-      "daray pearl reference pure",
+      "daray tama starclassic",
       "symphonic black metal drums",
       "eonian drums",
       "daray paiste cymbals",
@@ -355,21 +355,21 @@ export const articles = {
     "ogImage": "/images/albums/eonian-drums.webp",
     "intro": {
       "title": "Daray's Second Studio Album — an Eight-Year Wait Ends",
-      "content": "*Eonian* (released May 4, 2018 through Nuclear Blast) was Dimmu Borgir's first studio album in nearly eight years, and only the second time Daray's drumming was captured on a Dimmu Borgir studio record following *Abrahadabra* (2010). Recorded at Fascination Street Studios in Örebro, Sweden between January and April 2017, the album was self-produced by Dimmu Borgir with mixing and mastering handled by Jens Bogren — one of extreme metal production's most in-demand engineers, known for his work across Opeth, Kreator, and Arch Enemy.\n\nThe long gap between records raised the stakes on every performance decision, and Daray's drum tracking had to deliver the same orchestral-scale precision that had defined the band's studio catalog since *Death Cult Armageddon* (2003). *Eonian* continued Dimmu Borgir's pattern of pairing extreme metal drumming with large-scale orchestral and choral arrangements, requiring the same tempo discipline and dynamic control that had carried Daray through *Abrahadabra* eight years earlier.\n\nBy *Eonian*, Daray's rig was a known quantity rather than a new hire's audition: the Pearl Masterworks Stadium Exotic kit, Paiste RUDE and 2002 cymbals, and Pearl Demon XR double pedal that had anchored his first Dimmu Borgir session in 2010 returned as the foundation for his second. This article breaks down that setup as it was applied to *Eonian*'s sessions at Fascination Street Studios, and why a decade-plus into his tenure, Daray's gear choices remained consistent even as the band's production context evolved around him.",
+      "content": "*Eonian* (released May 4, 2018 through Nuclear Blast) was Dimmu Borgir's first studio album in nearly eight years, and only the second time Daray's drumming was captured on a Dimmu Borgir studio record following *Abrahadabra* (2010). Recorded at Fascination Street Studios in Örebro, Sweden between January and April 2017, the album was self-produced by Dimmu Borgir with mixing and mastering handled by Jens Bogren — one of extreme metal production's most in-demand engineers, known for his work across Opeth, Kreator, and Arch Enemy.\n\nThe long gap between records raised the stakes on every performance decision, and Daray's drum tracking had to deliver the same orchestral-scale precision that had defined the band's studio catalog since *Death Cult Armageddon* (2003). *Eonian* continued Dimmu Borgir's pattern of pairing extreme metal drumming with large-scale orchestral and choral arrangements, requiring the same tempo discipline and dynamic control that had carried Daray through *Abrahadabra* eight years earlier.\n\nBy *Eonian*, Daray's rig had changed since his studio debut: he switched from the Pearl Reference Pure kit heard on *Abrahadabra* to a Tama Starclassic Performer B/B kit in Piano Black in 2014, debuting the brand at the TAMA 40th Anniversary Drum Festival that July. The Paiste RUDE and 2002 cymbals and the Pearl Demon Drive double pedal that had anchored his first Dimmu Borgir session in 2010 carried over unchanged across that brand switch, giving *Eonian* a rig that was part new foundation, part decade-plus continuity. This article breaks down that setup as it was applied to *Eonian*'s sessions at Fascination Street Studios, and how Daray's core technique translated across a mid-tenure kit change.",
       "keyPoints": [
         "Released May 4, 2018 (Nuclear Blast) — Dimmu Borgir's first studio album in nearly eight years",
         "Daray's second studio album with the band, following Abrahadabra (2010)",
         "Recorded at Fascination Street Studios, Örebro, Sweden (Jan–Apr 2017)",
         "Self-produced by Dimmu Borgir; mixed and mastered by Jens Bogren",
-        "Pearl Masterworks Stadium Exotic kit and Paiste RUDE/2002 cymbals — the same rig documented since Daray's 2010 studio debut",
+        "Tama Starclassic Performer B/B kit (since 2014) and Paiste RUDE/2002 cymbals — his first studio album on Tama, following the Pearl Reference Pure kit heard on Abrahadabra",
         "Continued Dimmu Borgir's orchestral/choral integration approach established since Death Cult Armageddon (2003)"
       ]
     },
     "drumKit": {
-      "title": "Pearl Masterworks Stadium Exotic: Consistency Across an Eight-Year Gap",
-      "brand": "Pearl",
-      "model": "Pearl Masterworks Stadium Exotic",
-      "finish": "Custom Black",
+      "title": "Tama Starclassic Performer B/B: Daray's Kit Since 2014, On Record for the First Time",
+      "brand": "Tama",
+      "model": "Tama Starclassic Performer B/B, Piano Black",
+      "finish": "Piano Black",
       "config": {
         "bassdrums": [
           "22\" Bass Drum (x2 — double kick setup)"
@@ -382,27 +382,27 @@ export const articles = {
           "16\" Floor Tom",
           "18\" Floor Tom"
         ],
-        "shells": "Maple/Birch hybrid — Pearl Masterworks Stadium Exotic multi-core construction for balanced attack and resonance"
+        "shells": "Birch/Bubinga hybrid — Tama Starclassic Performer B/B construction for balanced attack and resonance"
       },
-      "description": "Daray brought the same Pearl Masterworks Stadium Exotic kit into *Eonian*'s sessions at Fascination Street Studios that had carried him through *Abrahadabra* eight years earlier. The multi-ply maple/birch hybrid shells gave Jens Bogren's mix the consistent, uniform resonance needed to sit alongside *Eonian*'s dense orchestral and choral arrangements without the tonal drift that lower-grade shells develop under sustained extreme-tempo striking.\n\nThe double 22\" kick configuration continued to anchor Dimmu Borgir's rhythmic foundation, with the Masterworks Stadium Exotic's response giving each kick strike consistent attack timing — essential given the album's layered production, where kick patterns needed to lock precisely against the surrounding orchestral and choral tracking at Fascination Street. That an eight-year gap between studio albums produced no change in Daray's core kit selection speaks to how thoroughly the Masterworks Stadium Exotic had proven itself on the demanding orchestral-integration standard Dimmu Borgir's studio work requires.",
+      "description": "Daray brought his Tama Starclassic Performer B/B kit into *Eonian*'s sessions at Fascination Street Studios — the first time this kit was captured on a Dimmu Borgir studio record. He had switched to Tama in 2014, four years after tracking *Abrahadabra* on a Pearl Reference Pure kit, debuting the Starclassic Performer B/B in Piano Black at the TAMA 40th Anniversary Drum Festival that July. By the time *Eonian*'s sessions began in January 2017, the kit had already been road-tested across several years of international touring.\n\nThe birch/bubinga hybrid shell construction gave Jens Bogren's mix the consistent, uniform resonance needed to sit alongside *Eonian*'s dense orchestral and choral arrangements without the tonal drift that lower-grade shells develop under sustained extreme-tempo striking. The double 22\" kick configuration continued to anchor Dimmu Borgir's rhythmic foundation, with the Starclassic Performer B/B's response giving each kick strike consistent attack timing — essential given the album's layered production, where kick patterns needed to lock precisely against the surrounding orchestral and choral tracking at Fascination Street.\n\nThe Piano Black finish carried the same theatrical integration into *Eonian*'s touring cycle that the kit's Pearl predecessor had provided, keeping Daray's rig visually consistent with Dimmu Borgir's stage production even as the underlying hardware brand changed.",
       "notes": [
-        "Pearl Masterworks Stadium Exotic — unchanged from Daray's 2010 studio debut on Abrahadabra",
-        "Custom black finish consistent with Dimmu Borgir's theatrical live production identity",
+        "Tama Starclassic Performer B/B — Daray's kit since 2014, first captured on a Dimmu Borgir studio record on Eonian",
+        "Piano Black finish consistent with Dimmu Borgir's theatrical live production identity",
         "Double 22\" kick configuration for sustained patterns against dense orchestral/choral tracking",
         "Recorded at Fascination Street Studios, Örebro under Jens Bogren"
       ],
-      "estimatedValue": "$3,500–6,000 (Pearl Masterworks Stadium Exotic shell pack)"
+      "estimatedValue": "$3,500–6,000 (Tama Starclassic Performer B/B shell pack)"
     },
     "snare": {
-      "title": "Snare: Pearl Reference Brass Under Jens Bogren's Production",
-      "brand": "Pearl",
-      "model": "Pearl Reference 14\" x 5.5\" Brass",
-      "size": "14\" x 5.5\"",
-      "shell": "Brass — Pearl Reference Series construction",
-      "description": "Daray's brass-shell Pearl Reference snare gave *Eonian* the same bright, fast-decaying crack that has defined his sound since *Abrahadabra* — necessary once again on a record where orchestral and choral arrangements occupy much of the same frequency territory the snare needs to cut through. Under Jens Bogren's mix at Fascination Street Studios, the snare's medium-high tuning and defined attack kept every hit distinct against the album's dense production, consistent with the same acoustic requirement that has governed Daray's snare choice throughout his Dimmu Borgir tenure.",
+      "title": "Snare: Tama S.L.P. Black Brass Under Jens Bogren's Production",
+      "brand": "Tama",
+      "model": "Tama S.L.P. Black Brass 14\" x 6.5\" (LBR1465)",
+      "size": "14\" x 6.5\"",
+      "shell": "Brass — Tama S.L.P. (Sound Lab Project) Series construction",
+      "description": "Daray's brass-shell Tama S.L.P. Black Brass snare — part of the Starclassic Performer B/B kit he switched to in 2014 — gave *Eonian* the same bright, fast-decaying crack that has defined his sound throughout his Dimmu Borgir tenure — necessary once again on a record where orchestral and choral arrangements occupy much of the same frequency territory the snare needs to cut through. Under Jens Bogren's mix at Fascination Street Studios, the snare's medium-high tuning and defined attack kept every hit distinct against the album's dense production, consistent with the same acoustic requirement that has governed Daray's snare choice across both his Pearl and Tama eras.",
       "tuningSetting": "Medium-high tension for fast response and upper-frequency cut against dense orchestral/choral arrangements",
       "heads": "Evans Ambassador Coated (batter) — controlled attack with warm fundamental",
-      "estimatedValue": "$350–550 (Pearl Reference brass snare)"
+      "estimatedValue": "$350–550 (Tama S.L.P. Black Brass snare)"
     },
     "cymbals": {
       "title": "Paiste RUDE and 2002: Unchanged Through Eight Years of Touring",
@@ -423,12 +423,12 @@ export const articles = {
       "estimatedValue": "$1,800–2,800 (full Paiste cymbal setup)"
     },
     "hardware": {
-      "title": "Pearl Demon XR: Extreme-Tempo Precision at Fascination Street",
+      "title": "Pearl Demon Drive: Extreme-Tempo Precision at Fascination Street",
       "pedals": [
         {
           "brand": "Pearl",
-          "model": "Pearl Demon XR Double Bass Pedal",
-          "description": "The Pearl Demon XR's chain-drive action once again gave Daray the low-resistance, predictable feel needed to sustain double-kick patterns at extreme tempos through *Eonian*'s sessions at Fascination Street Studios. With Jens Bogren's production placing the drums at the foundation of a dense orchestral/choral arrangement, consistent pedal response was as critical on this second studio album as it had been on Daray's 2010 debut."
+          "model": "Pearl Demon Drive Double Bass Pedal",
+          "description": "The Pearl Demon Drive's chain-drive action once again gave Daray the low-resistance, predictable feel needed to sustain double-kick patterns at extreme tempos through *Eonian*'s sessions at Fascination Street Studios. Daray adopted the Demon Drive in 2010 alongside his original Pearl kit and carried it over unchanged through the 2014 switch to Tama — with Jens Bogren's production placing the drums at the foundation of a dense orchestral/choral arrangement, consistent pedal response was as critical on this second studio album as it had been on Daray's 2010 debut."
         }
       ],
       "sticks": {
@@ -444,7 +444,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Daray use on Eonian?",
-        "answer": "Daray played the same Pearl Masterworks Stadium Exotic kit in custom black finish on Eonian (2018) that he used on Abrahadabra (2010) — his prior Dimmu Borgir studio album. The double 22\" kick configuration and multi-ply maple/birch shells gave Jens Bogren's production the consistent response needed against the album's dense orchestral and choral arrangements at Fascination Street Studios. For his complete gear breakdown, see the [Daray drum setup guide](/articles/daray-drum-setup)."
+        "answer": "Daray played a Tama Starclassic Performer B/B kit in Piano Black on Eonian (2018) — a switch he made in 2014, four years after tracking Abrahadabra (2010) on a Pearl Reference Pure kit. The double 22\" kick configuration and birch/bubinga hybrid shells gave Jens Bogren's production the consistent response needed against the album's dense orchestral and choral arrangements at Fascination Street Studios. For his complete gear breakdown, see the [Daray drum setup guide](/articles/daray-drum-setup)."
       },
       {
         "question": "Was Eonian Daray's second studio album with Dimmu Borgir?",
@@ -473,8 +473,8 @@ export const articles = {
       "daray-drum-setup"
     ],
     "conclusion": {
-      "title": "Eonian: Continuity Across an Eight-Year Gap",
-      "content": "*Eonian* demonstrates something *Abrahadabra* alone couldn't: that Daray's gear and technique weren't a one-album fit for Dimmu Borgir's orchestral ambitions but a durable foundation. Eight years and a full touring cycle after his studio debut, the same Pearl Masterworks Stadium Exotic kit, Paiste RUDE/2002 cymbals, and Pearl Demon XR pedal anchored his performance at Fascination Street Studios under Jens Bogren's production — proof that the rig built for *Abrahadabra* was never provisional.\n\nFor the complete picture of Daray's current gear, see the [Daray drum setup guide](/articles/daray-drum-setup) and the [Daray drummer profile](/drummer/daray). For the studio album that first proved this rig could meet Dimmu Borgir's orchestral demands, see the [Abrahadabra drum setup breakdown](/articles/abrahadabra-drum-setup)."
+      "title": "Eonian: A New Kit, the Same Technical Foundation",
+      "content": "*Eonian* captures Daray on different core gear than his studio debut: by the January 2017 sessions he had been playing a Tama Starclassic Performer B/B kit in Piano Black since 2014, replacing the Pearl Reference Pure kit heard on *Abrahadabra* eight years earlier. What carried across that switch — the Paiste RUDE/2002 cymbals, the Pearl Demon Drive pedal, the Vic Firth sticks, the Evans heads — mattered as much as what changed, anchoring his performance at Fascination Street Studios under Jens Bogren's production.\n\nFor the complete picture of Daray's current gear, see the [Daray drum setup guide](/articles/daray-drum-setup) and the [Daray drummer profile](/drummer/daray). For the studio album that captured his earlier Pearl-era rig, see the [Abrahadabra drum setup breakdown](/articles/abrahadabra-drum-setup)."
     }
   }
 };

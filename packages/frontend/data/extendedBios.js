@@ -450,8 +450,8 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
           { year: '1988', event: 'Released "South of Heaven," showcasing dynamic range beyond speed' },
           { year: '1992', event: 'First departure from Slayer due to financial disputes' },
           { year: '1998', event: 'Joined Mike Patton\'s Fantômas, exploring avant-garde metal' },
-          { year: '2001', event: 'Rejoined Slayer for "God Hates Us All" album' },
-          { year: '2006', event: 'Released "Christ Illusion" with Slayer, winning Grammy for Best Metal Performance' },
+          { year: '2001', event: 'Rejoined Slayer, succeeding Paul Bostaph' },
+          { year: '2006', event: 'Released "Christ Illusion" with Slayer, his first studio album back with the band, winning Grammy for Best Metal Performance' },
           { year: '2013', event: 'Second departure from Slayer' },
           { year: '2017', event: 'Formed Dead Cross with Mike Patton; joined Mr. Bungle reunion' },
           { year: '2019', event: 'Recorded "The Raging Wrath of the Easter Bunny Demo" with Mr. Bungle' }

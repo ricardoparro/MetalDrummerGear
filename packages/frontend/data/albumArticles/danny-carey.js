@@ -9,8 +9,7 @@ export const articles = {
     "band": "Tool",
     "bands": [
       "Tool",
-      "Volto!",
-      "Legend of the Seagullmen"
+      "Volto!"
     ],
     "genre": "Progressive Metal",
     "country": "USA",

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-02 19:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-03 00:18 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,86 +8,88 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 464 |
-| Sessions | 527 |
-| Page views | 766 |
-| Engagement rate | 63.95% |
-| Avg session (s) | 115 |
+| Active users | 420 |
+| Sessions | 479 |
+| Page views | 722 |
+| Engagement rate | 63.88% |
+| Avg session (s) | 120 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummers | 25 | 9 |
-| / | 24 | 16 |
-| /drummer/mario-duplantier | 19 | 10 |
-| /articles/slipknot-self-titled-drum-setup | 16 | 13 |
-| /drummer/frost | 16 | 7 |
+| / | 28 | 17 |
+| /drummers | 28 | 9 |
+| /drummer/mario-duplantier | 17 | 10 |
+| /quiz | 16 | 3 |
+| /articles/slipknot-self-titled-drum-setup | 15 | 12 |
+| /drummer/frost | 14 | 6 |
 | /lists/best-death-metal-drummers | 11 | 11 |
-| /drummer/matt-greiner | 10 | 8 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
-| /drummer/ben-koller | 8 | 4 |
-| /drummer/jay-weinberg | 8 | 7 |
+| /drummer/eloy-casagrande | 9 | 8 |
+| /drummer/jay-weinberg | 9 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 420 | 357 |
-| Direct | 106 | 105 |
-| Unassigned | 6 | 6 |
+| Organic Search | 385 | 326 |
+| Direct | 94 | 93 |
+| Unassigned | 13 | 12 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 192 | 178 |
-| United Kingdom | 40 | 22 |
-| Singapore | 34 | 34 |
-| Germany | 24 | 21 |
-| Canada | 20 | 19 |
-| Australia | 18 | 14 |
+| United States | 177 | 165 |
+| United Kingdom | 35 | 20 |
+| Germany | 27 | 23 |
+| Singapore | 27 | 27 |
+| Canada | 17 | 16 |
+| Australia | 15 | 11 |
 | Brazil | 14 | 14 |
-| France | 13 | 11 |
-| China | 11 | 11 |
-| Netherlands | 10 | 9 |
+| France | 12 | 10 |
+| Poland | 10 | 9 |
+| Spain | 9 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 17,518 |
-| Clicks | 291 |
-| CTR | 1.66% |
-| Avg position | 8.8 |
+| Impressions | 14,371 |
+| Clicks | 237 |
+| CTR | 1.65% |
+| Avg position | 8.7 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 30 | 3 | 10.00% | 9.1 |
-| death metal drum kit | 8 | 2 | 25.00% | 3.4 |
+| death metal drum kit | 7 | 2 | 28.57% | 3.4 |
 | gavin harrison cymbal setup | 11 | 2 | 18.18% | 4.5 |
 | joey jordison cymbals | 4 | 2 | 50.00% | 3.3 |
+| mario duplantier drum kit | 25 | 2 | 8.00% | 9.0 |
 | matt greiner cymbal setup | 3 | 2 | 66.67% | 9.3 |
 | best drumsticks for metal | 3 | 1 | 33.33% | 7.7 |
-| best metalcore drummers | 7 | 1 | 14.29% | 7.0 |
-| best nu metal drummers | 9 | 1 | 11.11% | 7.2 |
+| best metalcore drummers | 6 | 1 | 16.67% | 7.5 |
+| best nu metal drummers | 8 | 1 | 12.50% | 7.3 |
 | bill ward drum setup | 7 | 1 | 14.29% | 5.0 |
 | black sabbath drum kit | 1 | 1 | 100.00% | 3.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,460 | 107 | 2.40% | 8.3 |
-| gbr | 858 | 16 | 1.86% | 9.1 |
-| deu | 512 | 15 | 2.93% | 7.0 |
-| pol | 245 | 13 | 5.31% | 6.5 |
-| can | 664 | 12 | 1.81% | 8.7 |
-| aus | 530 | 10 | 1.89% | 7.5 |
-| fra | 457 | 10 | 2.19% | 7.8 |
-| bra | 1,949 | 7 | 0.36% | 10.2 |
-| cze | 109 | 7 | 6.42% | 7.8 |
-| idn | 417 | 5 | 1.20% | 8.9 |
+| usa | 3,725 | 85 | 2.28% | 8.1 |
+| deu | 450 | 13 | 2.89% | 6.9 |
+| gbr | 693 | 13 | 1.88% | 9.0 |
+| pol | 203 | 13 | 6.40% | 6.4 |
+| can | 552 | 9 | 1.63% | 8.7 |
+| fra | 370 | 9 | 2.43% | 7.6 |
+| aus | 434 | 8 | 1.84% | 7.2 |
+| bra | 1,645 | 7 | 0.43% | 10.1 |
+| idn | 338 | 5 | 1.48% | 8.9 |
+| ind | 204 | 5 | 2.45% | 8.8 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-_no significant gaps detected — all queries with traction have decent CTR_
+| Query | Impr | CTR | Pos | Action |
+| --- | --- | --- | --- | --- |
+| matt halpern | 4,031 | 0.02% | 10.7 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

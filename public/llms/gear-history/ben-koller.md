@@ -39,7 +39,7 @@
 - **Drums:** Tama Starclassic Maple — 22" kick, 10"/12"/14"/16" toms (switch from Rockstar)
 - **Snare:** Tama Lars Ulrich Signature / Custom Steel 14"x6.5"
 - **Cymbals:** Zildjian A Custom / K Custom Series — 14" A Custom hi-hats, 16"/17"/18" crashes, 21" ride
-- **Pedal:** Tama Iron Cobra 900 double pedal (Roller Glide cam)
+- **Pedal:** Tama Iron Cobra Double Pedal (Power Glide cam)
 - **Sticks:** Vic Firth 5B / Custom
 - **Heads:** Evans G2 (toms), EMAD (kick) — switch from Remo
 - **Estimated setup cost (2009):** ~$7,200
@@ -50,7 +50,7 @@
 - **Drums:** Tama Starclassic Maple (continued)
 - **Snare:** Tama Lars Ulrich Signature / Custom Steel 14"x6.5" (continued)
 - **Cymbals:** Zildjian A Custom / K Custom Series (expanded)
-- **Pedal:** Tama Iron Cobra 900 double pedal
+- **Pedal:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth 5B / Custom
 - **Heads:** Evans G2 / EMAD
 - **Estimated setup cost (2017):** ~$10,500
@@ -61,17 +61,17 @@
 ## Key Gear Changes
 
 - **1990–2000:** Secondhand Pearl/Tama DIY kits — whatever was available, prioritising durability over tone
-- **2001:** First consistent platform — Tama Rockstar/Imperialstar Series and Tama Iron Cobra double pedal adopted for Jane Doe
+- **2001:** First consistent platform — Tama Rockstar Series and Tama Iron Cobra double pedal adopted for Jane Doe
 - **2001:** Zildjian A Series replaces budget brass cymbals
 - **2009:** Switch to Tama Starclassic Maple — most refined platform of Koller's career; Evans G2/EMAD heads replace Remo
-- **2009–2017:** Tama Iron Cobra 900 upgrade; expanded Zildjian A Custom/K Custom cymbal setup
+- **2009–2017:** Continued on the Tama Iron Cobra Double Pedal; expanded Zildjian A Custom/K Custom cymbal setup
 
 ---
 
 ## FAQ
 
 **Q: What drum kit does Ben Koller use?**  
-A: Ben Koller currently plays a Tama Starclassic Maple kit, paired with Zildjian A Custom and K Custom cymbals, a Tama Iron Cobra 900 double pedal, and Evans G2/EMAD drumheads.
+A: Ben Koller currently plays a Tama Starclassic Maple kit, paired with Zildjian A Custom and K Custom cymbals, a Tama Iron Cobra Double Pedal, and Evans G2/EMAD drumheads.
 
 **Q: What drums did Ben Koller use on Jane Doe?**  
 A: On Jane Doe (2001), Koller played a Tama Rockstar Series shell pack with Zildjian A Series cymbals and a Tama Iron Cobra double pedal. The complete setup cost approximately $2,063, equivalent to about $3,816 adjusted for 2026 inflation.

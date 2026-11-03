@@ -46,9 +46,9 @@ Ben Koller co-founded Converge in Salem, Massachusetts in 1990 as a high-school 
 **Albums:** Jane Doe (2001), You Fail Me (2004), No Heroes (2006)
 **Tours:** Hydra Head Records touring circuit, metallic hardcore underground tours, various US and European hardcore dates
 
-Jane Doe (2001, Hydra Head Records) was the record that redefined what hardcore could be — and Ben Koller's drumming was central to its impact. The album's chaotic, jazz-influenced rhythmic structures demanded a step up in both setup and technique. Koller moved to a more stable Tama Rockstar / Imperialstar configuration, and the increased production quality of Jane Doe and its follow-ups amplified the power and precision of his upgraded setup.
+Jane Doe (2001, Hydra Head Records) was the record that redefined what hardcore could be — and Ben Koller's drumming was central to its impact. The album's chaotic, jazz-influenced rhythmic structures demanded a step up in both setup and technique. Koller moved to a more stable Tama Rockstar configuration, and the increased production quality of Jane Doe and its follow-ups amplified the power and precision of his upgraded setup.
 
-- **Drums:** Tama Imperialstar / Rockstar Series — maple/poplar shells: 22" kick, 10"/12"/14"/16" toms *(upgrade — first consistent platform, punchy mid-forward tone suited to Kurt Ballou's dense production)*
+- **Drums:** Tama Rockstar Series — maple/poplar shells: 22" kick, 10"/12"/14"/16" toms *(upgrade — first consistent platform, punchy mid-forward tone suited to Kurt Ballou's dense production)*
 - **Snare:** Tama Steel 14"×5.5" *(upgrade — increased shell depth improved projection and body for wider studio distribution)*
 - **Cymbals:** Zildjian A Series — 14" A New Beat hi-hats, 16"/17" crashes, 20" ride *(upgrade — brighter, more defined response suited to Jane Doe's precise rhythmic structures)*
 - **Hardware:** Tama Iron Cobra Double Pedal — Power Glide cam, chain drive *(switch — smooth response gave Koller improved control at extreme tempos)*
@@ -58,7 +58,7 @@ Jane Doe (2001, Hydra Head Records) was the record that redefined what hardcore 
 
 **Key developments:**
 - Jane Doe (2001) — considered one of the defining albums of metallic hardcore
-- Tama Imperialstar adopted as first consistent platform
+- Tama Rockstar Series adopted as first consistent platform
 - Tama Iron Cobra Power Glide double pedal for improved extreme-tempo control
 - Zildjian A Series replaces budget brass
 - You Fail Me (2004) and No Heroes (2006) — stripped, direct production reflects deliberate restraint
@@ -77,7 +77,7 @@ Axe to Fall (2009, Epitaph) marked Converge's most ambitious production to date 
 - **Drums:** Tama Starclassic Maple — maple shells: 22" kick, 10"/12"/14"/16" toms *(upgrade — consistent modern platform; premium maple shells deliver warmth and attack for touring and studio)*
 - **Snare:** Tama Lars Ulrich Signature Snare / Custom Steel 14"×6.5" *(upgrade — deeper shell for maximum punch and projection central to Converge's live sound)*
 - **Cymbals:** Zildjian A Custom / K Custom Series — 14" A Custom hi-hats, 16"/17"/18" crashes, 21" ride *(upgrade — combines A Custom brightness with K Custom warmth for a wider dynamic range)*
-- **Hardware:** Tama Iron Cobra 900 Double Pedal — Roller Glide cam *(upgrade — improved spring tension adjustability and more consistent response)*
+- **Hardware:** Tama Iron Cobra Double Pedal — Power Glide cam, chain drive *(continued — consistent spring tension and response at Converge's demanding live tempos)*
 - **Sticks:** Vic Firth 5B / Custom (maintained heavier hickory preference across his career)
 - **Heads:** Evans G2 / EMAD — G2 on toms, EMAD on kick *(switch — warm attack on toms, focused punchy low-end for dense metallic hardcore mixes)*
 - **Estimated kit cost (original):** ~$12,000
@@ -85,7 +85,7 @@ Axe to Fall (2009, Epitaph) marked Converge's most ambitious production to date 
 **Key developments:**
 - Tama Starclassic Maple adopted — most refined platform of career
 - Evans G2/EMAD heads replace Remo
-- Tama Iron Cobra 900 upgrade for improved live consistency
+- Continued on the Tama Iron Cobra Double Pedal for consistent live performance
 - Axe to Fall (2009) — Converge's most ambitious record; Epitaph debut
 - All We Love We Leave Behind (2012) and The Dusk in Us (2017) cement Koller's status as modern hardcore's definitive drummer
 - Bloodmoon: I (2021) — collaborative project with Chelsea Wolfe
@@ -107,12 +107,12 @@ Axe to Fall (2009, Epitaph) marked Converge's most ambitious production to date 
 ## Gear Brand Partnerships Timeline
 
 - **Pearl / Tama (secondhand, drums)** — 1990–2000 (DIY-era mixed kits)
-- **Tama Imperialstar / Rockstar (drums)** — 2001–2008 (Jane Doe breakthrough platform)
+- **Tama Rockstar (drums)** — 2001–2008 (Jane Doe breakthrough platform)
 - **Tama Starclassic Maple (drums)** — 2009–present (current premium platform)
 - **Zildjian ZBT / Sabian B8 (cymbals)** — 1990–2000 (entry-level brass)
 - **Zildjian A Series (cymbals)** — 2001–2008 (brighter, more defined response)
 - **Zildjian A Custom / K Custom (cymbals)** — 2009–present (current expanded tonal range)
-- **Tama Iron Cobra (hardware)** — 2001–present (Power Glide → Iron Cobra 900)
+- **Tama Iron Cobra (hardware)** — 2001–present (Power Glide cam, continued)
 - **Vic Firth 5B (sticks)** — throughout career (consistent heavier hickory)
 - **Evans G2 / EMAD (heads)** — 2009–present (replaced Remo)
 
@@ -121,10 +121,10 @@ Axe to Fall (2009, Epitaph) marked Converge's most ambitious production to date 
 ## FAQ
 
 **Q: What drum kit did Ben Koller use on Jane Doe?**
-A: Ben Koller recorded Jane Doe (2001) — widely considered one of the defining albums of metallic hardcore — with a Tama Imperialstar / Rockstar Series kit featuring maple/poplar shells. His snare was a Tama Steel 14"×5.5", and he had recently upgraded to Zildjian A Series cymbals and a Tama Iron Cobra Power Glide double pedal.
+A: Ben Koller recorded Jane Doe (2001) — widely considered one of the defining albums of metallic hardcore — with a Tama Rockstar Series kit featuring maple/poplar shells. His snare was a Tama Steel 14"×5.5", and he had recently upgraded to Zildjian A Series cymbals and a Tama Iron Cobra Power Glide double pedal.
 
 **Q: What drum kit does Ben Koller use today?**
-A: Ben Koller currently plays a Tama Starclassic Maple kit — an all-maple configuration with a 22" kick and 10"/12"/14"/16" toms. His cymbal setup combines Zildjian A Custom and K Custom series for a wider tonal range, and he uses the Tama Iron Cobra 900 double pedal.
+A: Ben Koller currently plays a Tama Starclassic Maple kit — an all-maple configuration with a 22" kick and 10"/12"/14"/16" toms. His cymbal setup combines Zildjian A Custom and K Custom series for a wider tonal range, and he uses the Tama Iron Cobra Double Pedal.
 
 **Q: What drumsticks does Ben Koller use?**
 A: Ben Koller has played Vic Firth 5B hickory sticks (and custom variants) throughout his career — a heavier spec chosen to handle the physical demands of hardcore drumming without sacrificing control.

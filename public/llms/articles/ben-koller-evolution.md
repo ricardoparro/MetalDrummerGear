@@ -31,13 +31,13 @@ The ZBT and B8 brass cymbals were the logical choice — loud, durable, and repl
 
 ## Era 2: Jane Doe Breakthrough Era (2001–2008)
 
-**Kit:** Tama Imperialstar / Rockstar Series (22" kick, 10"/12"/14"/16" toms)
+**Kit:** Tama Rockstar Series (22" kick, 10"/12"/14"/16" toms)
 **Snare:** Tama Steel 14"×5.5"
 **Cymbals:** Zildjian A Series (14" A New Beat hi-hats, 16"/17" crashes, 20" ride)
 **Pedals:** Tama Iron Cobra Power Glide
 **Heads:** Remo Emperor (toms), Remo Powerstroke 3 (kick)
 
-Jane Doe (2001, Hydra Head Records) redefined what hardcore could be — and Ben Koller's drumming was central to its impact. The album's chaotic, jazz-influenced rhythmic structures demanded a step up in both setup and technique. Koller moved to a consistent Tama Imperialstar configuration, and the increased production quality of Jane Doe amplified both the power and the precision his upgraded rig delivered.
+Jane Doe (2001, Hydra Head Records) redefined what hardcore could be — and Ben Koller's drumming was central to its impact. The album's chaotic, jazz-influenced rhythmic structures demanded a step up in both setup and technique. Koller moved to a consistent Tama Rockstar configuration, and the increased production quality of Jane Doe amplified both the power and the precision his upgraded rig delivered.
 
 The Iron Cobra Power Glide double pedal was the era's critical hardware upgrade. Its cam-driven, smooth response gave Koller improved control at the extreme tempos Jane Doe demanded — the difference between barely controlled chaos and intentional controlled aggression. Zildjian A Series replaced the budget brass, delivering the brighter, more defined cymbal response that suited the increasingly precise rhythmic structures of Converge's compositions.
 
@@ -50,12 +50,12 @@ You Fail Me (2004) and No Heroes (2006) reflected a deliberate period of strippe
 **Kit:** Tama Starclassic Maple (22" kick, 10"/12"/14"/16" toms)
 **Snare:** Tama / custom steel 14"×6.5"
 **Cymbals:** Zildjian A Custom / K Custom (14" A Custom hi-hats, 16"/17"/18" crashes, 21" ride)
-**Pedals:** Tama Iron Cobra 900 Roller Glide
+**Pedals:** Tama Iron Cobra Double Pedal (Power Glide cam)
 **Heads:** Evans G2 (toms), Evans EMAD (kick)
 
 Axe to Fall (2009, Epitaph) was Converge's most ambitious production: guest appearances from members of Neurosis, Genghis Tron, Disfear, and Nails; a sonic scope that stretched beyond metallic hardcore into something harder to categorise. Koller's Tama Starclassic Maple — premium maple shells for warmth and attack across studio and live performance — became the consistent modern platform his expanding compositional role required.
 
-The Evans G2/EMAD head transition reflected the more recorded, polished production approach of the Epitaph era. Evans G2 on toms for warm attack with defined transient; EMAD on kick for focused, punchy low-end suited to dense metallic hardcore mixes. The Iron Cobra 900 upgrade over the earlier Power Glide model improved spring tension adjustability and live consistency.
+The Evans G2/EMAD head transition reflected the more recorded, polished production approach of the Epitaph era. Evans G2 on toms for warm attack with defined transient; EMAD on kick for focused, punchy low-end suited to dense metallic hardcore mixes. Koller has stayed on the same Iron Cobra Double Pedal throughout, its Power Glide cam delivering the consistent spring tension and response Converge's demanding live tempos require.
 
 All We Love We Leave Behind (2012), The Dusk in Us (2017), and the collaborative Bloodmoon: I (2021, with Chelsea Wolfe) have confirmed Koller as one of modern heavy music's most influential drummers — a status his current Tama setup quietly supports.
 
@@ -64,16 +64,16 @@ All We Love We Leave Behind (2012), The Dusk in Us (2017), and the collaborative
 ## FAQ
 
 **Q: What drum kit did Ben Koller use on Jane Doe?**
-Ben Koller used a Tama Imperialstar / Rockstar Series kit on Jane Doe (2001) — his first consistent professional setup. The configuration featured a 22" kick with 10"/12"/14"/16" toms. He paired it with a Tama Iron Cobra Power Glide double pedal, Zildjian A Series cymbals, and Remo Emperor heads. The Iron Cobra Power Glide was the critical hardware choice — its smooth cam response gave Koller control at the extreme tempos Jane Doe demanded.
+Ben Koller used a Tama Rockstar Series kit on Jane Doe (2001) — his first consistent professional setup. The configuration featured a 22" kick with 10"/12"/14"/16" toms. He paired it with a Tama Iron Cobra Power Glide double pedal, Zildjian A Series cymbals, and Remo Emperor heads. The Iron Cobra Power Glide was the critical hardware choice — its smooth cam response gave Koller control at the extreme tempos Jane Doe demanded.
 
 **Q: What drum kit does Ben Koller use now?**
-Ben Koller's current setup centres on a Tama Starclassic Maple kit — premium maple shells with a 22" kick and 10"/12"/14"/16" toms. He uses Evans G2 heads on toms and Evans EMAD on the kick, Zildjian A Custom and K Custom cymbals, and a Tama Iron Cobra 900 double pedal. This configuration has served him through Axe to Fall (2009), All We Love We Leave Behind (2012), The Dusk in Us (2017), and Bloodmoon: I (2021).
+Ben Koller's current setup centres on a Tama Starclassic Maple kit — premium maple shells with a 22" kick and 10"/12"/14"/16" toms. He uses Evans G2 heads on toms and Evans EMAD on the kick, Zildjian A Custom and K Custom cymbals, and a Tama Iron Cobra Double Pedal. This configuration has served him through Axe to Fall (2009), All We Love We Leave Behind (2012), The Dusk in Us (2017), and Bloodmoon: I (2021).
 
 **Q: How has Ben Koller's style changed across Converge albums?**
 Koller's evolution tracks from raw, urgency-driven chaos in the 1990s DIY era through the controlled aggression of Jane Doe (2001) to the increasingly sophisticated compositional approach of the Axe to Fall era. The core physical intensity has remained constant — what changed is precision and intentionality. Later Converge records show greater dynamic variation, more deliberate rhythmic placement, and a broader vocabulary of textures — from blast-beat brutality to nuanced jazz-influenced phrasing — all executed with the same ferocious commitment.
 
 **Q: What double pedal does Ben Koller use?**
-Ben Koller has used Tama Iron Cobra double pedals throughout most of his career. He started with the Iron Cobra Power Glide during the Jane Doe era (2001–2008) and upgraded to the Iron Cobra 900 for the Axe to Fall era (2009–present). The 900 model's improved spring tension adjustability and consistent response make it suited to Converge's demanding live tempos across lengthy touring cycles.
+Ben Koller has used the same Tama Iron Cobra Double Pedal (Power Glide cam) since the Jane Doe era (2001) through to today — its smooth cam response and consistent spring tension have made it a mainstay across Converge's demanding live tempos and lengthy touring cycles.
 
 ## Structured Data
 

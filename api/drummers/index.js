@@ -1506,14 +1506,14 @@ const drummers = [
     name: 'Pete Sandoval',
     band: 'Morbid Angel',
     bands: [
-      { name: 'Morbid Angel', period: '1988–2013', current: false },
+      { name: 'Morbid Angel', period: '1988–2010', current: false },
       { name: 'Terrorizer', period: '1986–1989, 2005–present', current: true }
     ],
     genre: 'Death Metal',
     country: 'USA',
     image: '/images/drummers/pete-sandoval.webp',
     bio: 'Pedro "Pete" Sandoval, born May 21, 1964, in Santa Ana, El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval\'s combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.',
-    kitOverview: 'Pete Sandoval has been a ddrum artist for much of his career, though the specific drum series and snare model he currently plays are not publicly documented on ddrum\'s own artist page, which lists him only as an endorsee without kit specifics. Cymbal brand is similarly undocumented — Sabian\'s current official artist roster no longer lists Sandoval (it lists Tim Yeung, Morbid Angel\'s other touring drummer, instead), so no cymbal brand claim should be made without a fresher source. A ddrum-brand double pedal anchors the low end, though the specific model is unconfirmed. Pro-Mark sticks round out a historical endorsement — his current stick choice is not publicly documented. The Pete Sandoval drum set has remained associated with ddrum throughout a career spanning Morbid Angel (1988–2013) and Terrorizer (1986–1989, 2005–present).',
+    kitOverview: 'Pete Sandoval has been a ddrum artist for much of his career, though the specific drum series and snare model he currently plays are not publicly documented on ddrum\'s own artist page, which lists him only as an endorsee without kit specifics. Cymbal brand is similarly undocumented — Sabian\'s current official artist roster no longer lists Sandoval (it lists Tim Yeung, Morbid Angel\'s other touring drummer, instead), so no cymbal brand claim should be made without a fresher source. A ddrum-brand double pedal anchors the low end, though the specific model is unconfirmed. Pro-Mark sticks round out a historical endorsement — his current stick choice is not publicly documented. The Pete Sandoval drum set has remained associated with ddrum throughout a career spanning Morbid Angel (1988–2010) and Terrorizer (1986–1989, 2005–present).',
     sameAs: [
       'https://en.wikipedia.org/wiki/Pete_Sandoval',
       'https://www.discogs.com/artist/279619-Pete-Sandoval',

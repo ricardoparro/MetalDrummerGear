@@ -2202,7 +2202,7 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Abe Cunningham',
     band: 'Deftones',
     currentEndorsements: {
-      drums: { brand: 'Tama', model: 'Starclassic Maple/Bubinga', since: '1997' },
+      drums: { brand: 'Tama', model: 'Starclassic Bubinga', since: '1997' },
       cymbals: { brand: 'Zildjian', model: 'A Custom / K Custom hybrid', since: '2022' },
       sticks: { brand: 'Pro-Mark', since: '1997' },
       heads: { brand: 'Remo', model: 'Powerstroke P3 / Pinstripe / Ambassador', since: '1997' },

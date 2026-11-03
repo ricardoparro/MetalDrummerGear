@@ -516,7 +516,7 @@ export const articles = {
     "cymbals": {
       "title": "Meinl: The Warm Voice of Mastodon",
       "brand": "Meinl",
-      "series": "Meinl Byzance / Mb20 Series",
+      "series": "Meinl Byzance",
       "setup": [
         {
           "type": "Hi-Hats",
@@ -820,8 +820,8 @@ export const articles = {
     "cymbals": {
       "title": "Meinl: Brann's Dark, Complex Cymbal Voice from Day One",
       "brand": "Meinl",
-      "series": "Meinl Mb20 & Mb8 Series",
-      "description": "Brann Dailor signed with Meinl in 2004 — the same year *Leviathan* was released — drawn to the dark, complex tones that distinguished Meinl's Turkish-style cymbals from the brighter options on the market. That dark character gave *Leviathan* a cymbal voice with genuine low-mid weight, able to sit underneath Brent Hinds' and Bill Kelliher's dense guitar layers without turning harsh or brittle.\n\nThe china cymbal is particularly significant on *Leviathan*. Dailor uses it constantly throughout the album — aggressive, trashy accents marking riff transitions across \"Blood and Thunder,\" section boundaries in \"Iron Tusk,\" and the closing intensity of \"Hearts Alive.\" That trashy character became part of the album's recognisable sonic identity: not a brief decorative splash but a structural compositional element.\n\nMeinl's Mb20 and Mb8 series have remained Dailor's cymbal voice in the two decades since, carried forward across [Blood Mountain](/articles/blood-mountain-drum-setup) (2006), [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009), and every Mastodon record that followed. Specific individual hi-hat, crash, ride, and china models used during the *Leviathan* sessions are not independently documented. See also the [Brann Dailor drummer profile](/drummer/brann-dailor) for the full gear history."
+      "series": "Meinl Byzance",
+      "description": "Brann Dailor signed with Meinl in 2004 — the same year *Leviathan* was released — drawn to the dark, complex tones that distinguished Meinl's Turkish-style cymbals from the brighter options on the market. That dark character gave *Leviathan* a cymbal voice with genuine low-mid weight, able to sit underneath Brent Hinds' and Bill Kelliher's dense guitar layers without turning harsh or brittle.\n\nThe china cymbal is particularly significant on *Leviathan*. Dailor uses it constantly throughout the album — aggressive, trashy accents marking riff transitions across \"Blood and Thunder,\" section boundaries in \"Iron Tusk,\" and the closing intensity of \"Hearts Alive.\" That trashy character became part of the album's recognisable sonic identity: not a brief decorative splash but a structural compositional element.\n\nMeinl's Byzance series has remained Dailor's cymbal voice in the two decades since, carried forward across [Blood Mountain](/articles/blood-mountain-drum-setup) (2006), [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009), and every Mastodon record that followed. Specific individual hi-hat, crash, ride, and china models used during the *Leviathan* sessions are not independently documented. See also the [Brann Dailor drummer profile](/drummer/brann-dailor) for the full gear history."
     },
     "hardware": {
       "title": "Pedals, Sticks, and Hardware",
@@ -920,7 +920,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Leviathan to Crack the Skye: Brann's Gear Arc",
-      "content": "*Leviathan* sits near the start of one of the most interesting gear-and-development arcs in modern metal drumming. The Tama Starclassic Bubinga / Meinl / Tama Iron Cobra combination that defined the album would evolve in some respects over the following decade, while staying constant in others.\n\n**Bubinga to Maple:**\nThe Tama Starclassic Bubinga of *Leviathan* and [Blood Mountain](/articles/blood-mountain-drum-setup) (2006) gave way to a Tama Starclassic Maple kit for [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009). The shift from bubinga to maple was a deliberate tonal choice — *Crack the Skye*'s atmospheric concept demanded warmer, more fundamentally resonant shells than the focused, aggressive bubinga character. By the time of [Emperor of Sand](/articles/emperor-of-sand-drum-setup) (2017), Dailor was still on Tama, continuing on the Starclassic Maple line.\n\n**Meinl From the Start:**\nUnlike the kit and snare, Dailor's cymbal brand hasn't changed since *Leviathan*. He signed with Meinl in 2004 — the same year the album was released — and Meinl's Mb20 and Mb8 series have remained his cymbal voice on every record since, through [Crack the Skye](/articles/crack-the-skye-drum-setup) and beyond. The dark, complex tonal character that drew him to Meinl in 2004 is the same character that has anchored his cymbal sound for the past two decades.\n\n**Double Kick to Single Kick:**\nThe double-kick architecture that drove \"Blood and Thunder,\" \"Iron Tusk,\" and \"Hearts Alive\" eventually gave way to a single-bass-drum philosophy on *Emperor of Sand* and subsequent records. This reflected a compositional choice: single-kick playing forced more rhythmic creativity in the foot patterns and emphasised groove over velocity.\n\n**The Mastodon Arc:**\n*Leviathan* is the origin point for the Mastodon arc that runs through [Blood Mountain](/articles/blood-mountain-drum-setup), [Crack the Skye](/articles/crack-the-skye-drum-setup), and [Emperor of Sand](/articles/emperor-of-sand-drum-setup) — and understanding the *Leviathan* gear context is essential context for everything that followed.",
+      "content": "*Leviathan* sits near the start of one of the most interesting gear-and-development arcs in modern metal drumming. The Tama Starclassic Bubinga / Meinl / Tama Iron Cobra combination that defined the album would evolve in some respects over the following decade, while staying constant in others.\n\n**Bubinga to Maple:**\nThe Tama Starclassic Bubinga of *Leviathan* and [Blood Mountain](/articles/blood-mountain-drum-setup) (2006) gave way to a Tama Starclassic Maple kit for [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009). The shift from bubinga to maple was a deliberate tonal choice — *Crack the Skye*'s atmospheric concept demanded warmer, more fundamentally resonant shells than the focused, aggressive bubinga character. By the time of [Emperor of Sand](/articles/emperor-of-sand-drum-setup) (2017), Dailor was still on Tama, continuing on the Starclassic Maple line.\n\n**Meinl From the Start:**\nUnlike the kit and snare, Dailor's cymbal brand hasn't changed since *Leviathan*. He signed with Meinl in 2004 — the same year the album was released — and Meinl's Byzance series has remained his cymbal voice on every record since, through [Crack the Skye](/articles/crack-the-skye-drum-setup) and beyond. The dark, complex tonal character that drew him to Meinl in 2004 is the same character that has anchored his cymbal sound for the past two decades.\n\n**Double Kick to Single Kick:**\nThe double-kick architecture that drove \"Blood and Thunder,\" \"Iron Tusk,\" and \"Hearts Alive\" eventually gave way to a single-bass-drum philosophy on *Emperor of Sand* and subsequent records. This reflected a compositional choice: single-kick playing forced more rhythmic creativity in the foot patterns and emphasised groove over velocity.\n\n**The Mastodon Arc:**\n*Leviathan* is the origin point for the Mastodon arc that runs through [Blood Mountain](/articles/blood-mountain-drum-setup), [Crack the Skye](/articles/crack-the-skye-drum-setup), and [Emperor of Sand](/articles/emperor-of-sand-drum-setup) — and understanding the *Leviathan* gear context is essential context for everything that followed.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -934,8 +934,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Meinl Mb20 & Mb8 Series (signed 2004)",
-          "now": "Meinl Mb20 & Mb8 Series — unchanged since 2004"
+          "then": "Meinl Byzance (signed 2004)",
+          "now": "Meinl Byzance — unchanged since 2004"
         },
         {
           "category": "Sticks",
@@ -960,7 +960,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Brann Dailor use on Leviathan?",
-        "answer": "On Leviathan (2004), Brann Dailor played Meinl cymbals — specifically the Mb20 and Mb8 series. 2004 was the year Dailor signed with Meinl, drawn to the dark, complex tones of their Turkish-style cymbals. The china cymbal is especially prominent on the album, used for aggressive, trashy accents marking riff transitions throughout tracks like 'Blood and Thunder' and 'Iron Tusk.' Meinl's Mb20 and Mb8 series have remained Dailor's cymbal voice on every Mastodon record since, through Crack the Skye (2009) and beyond."
+        "answer": "On Leviathan (2004), Brann Dailor played Meinl cymbals — specifically the Byzance series. 2004 was the year Dailor signed with Meinl, drawn to the dark, complex tones of their Turkish-style cymbals. The china cymbal is especially prominent on the album, used for aggressive, trashy accents marking riff transitions throughout tracks like 'Blood and Thunder' and 'Iron Tusk.' Meinl's Byzance series has remained Dailor's cymbal voice on every Mastodon record since, through Crack the Skye (2009) and beyond."
       },
       {
         "question": "What is the song \"Blood and Thunder\" about?",

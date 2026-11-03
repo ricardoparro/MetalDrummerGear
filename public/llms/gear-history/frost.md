@@ -31,7 +31,7 @@
 - **Sticks:** Vic Firth American Classic Extreme 5B
 - **Heads:** Remo Powerstroke 3 (kick), Ambassador (toms)
 - **Estimated cost (1999–2006):** ~$4,500
-- **Notable:** Rebel Extravaganza (1999) pushed Satyricon into industrial black metal territory, and Frost switched from Pearl to Sonor — beginning a decades-long brand partnership. He co-founded 1349 in 2001, and Liberation (2003) and Hellfire (2005) showcased some of the fastest, most disciplined blast beat drumming the genre had produced.
+- **Notable:** Rebel Extravaganza (1999) pushed Satyricon into industrial black metal territory, and Frost switched from Pearl to Sonor — beginning a decades-long brand partnership. He joined 1349 around 2000, becoming a full member by 2003; Liberation (2003) and Hellfire (2005) showcased some of the fastest, most disciplined blast beat drumming the genre had produced.
 
 ### Now, Diabolical Era (2006–2013)
 
@@ -60,7 +60,8 @@
 
 ## Key Gear Changes
 
-- **1999:** Switches from Pearl Export to Sonor Designer series — beginning a decades-long brand partnership; co-founds 1349
+- **1999:** Switches from Pearl Export to Sonor Designer series — beginning a decades-long brand partnership
+- **2001:** Joins 1349 as drummer, appearing on the band's debut EP — becomes a full member by 2003
 - **2006:** Upgrades to Sonor SQ2 custom-build platform for Now, Diabolical — the signature Frost drum setup
 - **2006:** Zildjian cymbal setup expands to include K Custom Dark for atmospheric passages
 - **2017:** Sonor SQ2 / Zildjian K Custom Dark configuration reaches its fully refined, career-defining form
@@ -83,7 +84,7 @@ A: Frost's cymbal setup evolved from Paiste 2002 (1993–1999) to Zildjian A Ser
 A: Frost treats blast beats as architectural events rather than pure texture — shaping dynamic swells, deliberate cymbal voicing, and micro-variations in foot pattern that make even the densest material feel kinetic. He has balanced two demanding bands, Satyricon and 1349, across three decades while setting the technical benchmark for Norwegian black metal drumming.
 
 **Q: Has Frost always played the same drum kit?**
-A: No — he started on a budget Pearl Export kit for Satyricon's early years, switched to Sonor Designer in 1999 alongside founding 1349, and has played a Sonor SQ2 custom platform since upgrading for Now, Diabolical (2006), refining the same Sonor/Zildjian core across the past two decades.
+A: No — he started on a budget Pearl Export kit for Satyricon's early years, switched to Sonor Designer in 1999 (around the time he joined 1349), and has played a Sonor SQ2 custom platform since upgrading for Now, Diabolical (2006), refining the same Sonor/Zildjian core across the past two decades.
 
 ---
 

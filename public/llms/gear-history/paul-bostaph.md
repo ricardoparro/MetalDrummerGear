@@ -25,7 +25,7 @@
 - **Drums:** DW Collector's Series Maple
 - **Snare:** DW Collector's Steel Snare
 - **Cymbals:** Zildjian A Custom series
-- **Pedal:** DW 5002 Double Bass Drum Pedal (x2)
+- **Pedal:** Tama Iron Cobra Double Pedal (x2, retained from the previous era)
 - **Estimated cost (1998):** ~$3,900
 - **Notable:** Bostaph's first DW chapter — and one of only two occasions his cymbal choice broke from Paiste, moving to Zildjian A Custom for this album.
 

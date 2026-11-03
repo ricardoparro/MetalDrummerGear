@@ -34,7 +34,7 @@
 - **Drums:** Mapex Saturn Series — maple/walnut hybrid shells with SONIClear bearing edges; 22"×18" kick, 10"×7" and 12"×8" racks, 14"×14" and 16"×16" floors
 - **Snare:** Mapex Black Panther Design Lab 14"×6" (cherry/brass/maple options)
 - **Cymbals:** Meinl Byzance Series (Extra Dry, Dual, Traditional, Brilliant) — full setup established
-- **Pedal:** DW 9000 Double Pedal, Mapex Falcon hi-hat stand, Mapex Saddle Throne
+- **Pedal:** Pearl Demon Drive Double Pedal, Mapex Falcon hi-hat stand, Mapex Saddle Throne
 - **Sticks:** Vic Firth Matt Halpern Signature
 - **Heads:** Evans EMAD2 (kick), G2 Coated (toms), UV1 (snare)
 - **Original setup cost (2016):** ~$10,398
@@ -46,7 +46,7 @@
 - **Drums:** Mapex Saturn V MH Exotic — succeeded the standard Saturn configuration
 - **Snare:** Mapex Black Panther Design Lab (continued)
 - **Cymbals:** Meinl Byzance (mature, complete arsenal)
-- **Pedal:** DW 9000, Mapex Falcon hardware (consistent)
+- **Pedal:** Pearl Demon Drive Double Pedal, Mapex Falcon hardware (consistent)
 - **Notable:** "Periphery IV: Hail Stan" (2019) and "Periphery V: Aliens" (2023) showcase Halpern's most mature Mapex Saturn V MH Exotic configuration — a flagship-tier kit reflecting his fully developed signature endorsement relationship.
 
 ---
@@ -64,7 +64,7 @@
 ## FAQ
 
 **Q: What gear does Matt Halpern use?**  
-A: Matt Halpern currently plays a Mapex Saturn V MH Exotic drum kit with a Mapex Black Panther Design Lab signature snare, a comprehensive Meinl Byzance cymbal setup, DW 9000 double pedals, and Vic Firth Matt Halpern Signature sticks. His gear evolved from a DW Collector's Series + Sabian HHX setup on Periphery's 2010 debut through a full Mapex/Meinl transition completed by 2016.
+A: Matt Halpern currently plays a Mapex Saturn V MH Exotic drum kit with a Mapex Black Panther Design Lab signature snare, a comprehensive Meinl Byzance cymbal setup, a Pearl Demon Drive double pedal, and Vic Firth Matt Halpern Signature sticks. His gear evolved from a DW Collector's Series + Sabian HHX setup on Periphery's 2010 debut through a full Mapex/Meinl transition completed by 2016.
 
 **Q: What is Matt Halpern's signature snare?**  
 A: Matt Halpern's primary recording snare since 2016 has been the Mapex Black Panther Design Lab — a 14"×6" snare offered in cherry, brass, steel, and maple shell options, giving him flexibility to match snare character to musical context. It succeeded a DW Collector's Series maple snare used on Periphery's earlier albums.

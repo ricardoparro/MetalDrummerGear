@@ -38,7 +38,7 @@
 - **Drums:** DW Collector's Series — maple shells, 22" kick, 8"/10"/12"/14"/16" toms
 - **Snare:** DW Edge Series 14"x6.5" maple
 - **Cymbals:** Meinl Classics Custom Dark Series — 14" hi-hats, 16"/18" crashes, 21" ride
-- **Pedal:** DW 9000 Double Pedal
+- **Pedal:** Tama Speed Cobra 910 Double Pedal
 - **Sticks:** Vic Firth Derek Roddy Signature (launched)
 - **Electronics:** ddrum Acoustic Pro Triggers (continued)
 - **Estimated cost (2008):** ~$15,000
@@ -49,7 +49,7 @@
 - **Drums:** DW Collector's Series (refined) — custom finish maple, 22" kick, 8"/10"/12"/14"/16" toms
 - **Snare:** DW Collector's Series 14"x6.5" maple
 - **Cymbals:** Meinl Classics Custom Dark / Extra Dry — 14" Extra Dry hi-hats, 16"/18" crashes, 21" ride
-- **Pedal:** DW 9000 Double Pedal (continued)
+- **Pedal:** Tama Speed Cobra 910 Double Pedal (continued)
 - **Sticks:** Vic Firth Derek Roddy Signature (refined)
 - **Electronics:** Roland SPD-SX / ddrum Triggers
 - **Estimated cost (current):** ~$18,000
@@ -73,7 +73,7 @@
 A: Derek Roddy's 2005 Hate Eternal-era Pearl Reference setup cost approximately $10,000, equivalent to roughly $17,000 today after inflation. His current DW Collector's Series setup with Meinl Classics Custom cymbals and electronics is valued at approximately $18,000 at current retail.
 
 **Q: What gear does Derek Roddy use?**
-A: Derek Roddy currently plays a DW Collector's Series kit — an all-maple shell configuration with a 22" kick drum and 8"/10"/12"/14"/16" toms — paired with Meinl Classics Custom Dark and Extra Dry cymbals, a DW 9000 double pedal, and his own Vic Firth Derek Roddy Signature sticks.
+A: Derek Roddy currently plays a DW Collector's Series kit — an all-maple shell configuration with a 22" kick drum and 8"/10"/12"/14"/16" toms — paired with Meinl Classics Custom Dark and Extra Dry cymbals, a Tama Speed Cobra 910 double pedal, and his own Vic Firth Derek Roddy Signature sticks.
 
 **Q: What drums did Derek Roddy use on Hate Eternal's I, Monarch?**
 A: On I, Monarch (2005), Roddy played a Pearl Reference Series maple/birch hybrid kit with Zildjian K Custom Dark cymbals and a Pearl Demon Drive double pedal — an upgrade from the Pearl Masters setup he used during his Florida underground years.

@@ -16,7 +16,7 @@
 - **Drums:** Pearl Export Series — 5-piece; 22"×16" kick, 12"×10" and 13"×11" rack toms, 16"×16" floor tom
 - **Snare:** Pearl steel snare 14"×5.5" — steel shell, 8-lug
 - **Cymbals:** Sabian AA Series — 14" hi-hats, 16" and 18" crash, 20" ride
-- **Pedal:** DW 5000 single pedal (single-kick setup)
+- **Pedal:** Pearl P-2002C Eliminator single pedal (single-kick setup)
 - **Sticks:** Vic Firth 5A Hickory, wood tip
 - **Heads:** Remo Ambassador (clear toms, coated snare batter), Powerstroke kick
 - **Original setup cost (1992):** ~$2,028
@@ -27,7 +27,7 @@
 
 - **Drums:** Pearl Export (continued) or early Pearl Reference — 5-piece configuration unchanged
 - **Cymbals:** Sabian AA (consistent from early era)
-- **Pedal:** DW 5000 (unchanged)
+- **Pedal:** Pearl P-2002C Eliminator (unchanged)
 - **Notable:** The transition to vocalist George Fisher in 1995 brought a more technically varied songwriting approach. Mazurkiewicz's drumming on Gallery of Suicide (1998) and Bloodthirst (1999) reflected greater groove sophistication within the brutal death metal framework — his Pearl setup remained functional and unchanged while the compositions around him evolved.
 
 ### Kill / Evisceration Plague Era (2006–2009)
@@ -35,7 +35,7 @@
 - **Drums:** Pearl Reference Custom — flagship Pearl series; 22"×18" kick, 10"×8" and 12"×9" rack toms, 14"×14" and 16"×16" floor toms
 - **Snare:** Pearl Free-Floating Steel 14"×5.5"
 - **Cymbals:** Sabian AAX Series — upgrade from AA; brighter, faster response
-- **Pedal:** Pearl Eliminator double pedal (switch from DW 5000 to double-kick setup)
+- **Pedal:** Pearl Eliminator double pedal (switch from single to double-kick setup)
 - **Sticks:** Vic Firth 5A or 5B
 - **Heads:** Remo Emperor (toms), Powerstroke kick
 - **Notable:** By the Kill (2006) era, Mazurkiewicz had adopted a double-kick setup and upgraded to Pearl Reference Custom — one of Pearl's flagship shell packs. The Sabian AAX upgrade delivered faster crash response compared to the AA series, matching the technical demands of Cannibal Corpse's increasingly precise studio productions. His Pearl Eliminator double pedal transition enabled the burst double-bass patterns that became more prominent across this period.
@@ -62,7 +62,7 @@
 ## Key Gear Changes
 
 - **1988–2005:** Pearl Export single-kick setup — function over spectacle, consistent death metal workhorse
-- **~2006:** DW 5000 → Pearl Eliminator double pedal — transition to double-kick configuration for more rhythmic complexity
+- **~2006:** Pearl Eliminator single pedal → Pearl Eliminator double pedal — transition to double-kick configuration for more rhythmic complexity
 - **~2006:** Pearl Export → Pearl Reference Custom — first major kit upgrade coinciding with broader commercial growth
 - **~2006:** Sabian AA → Sabian AAX — brighter, faster cymbal response for precision studio work
 - **~2015+:** Pearl Reference Custom → Pearl Masters Maple Complete — top-tier Pearl upgrade for modern touring demands

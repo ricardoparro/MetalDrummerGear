@@ -28,7 +28,7 @@
 - **Drums:** Pearl Reference Series — 22"x18" bass drums (x2), 10"/12" rack toms, 16"/18" floor toms
 - **Snare:** Pearl Free-Floating / Sensitone 14"x6.5"
 - **Cymbals:** Sabian AAX/HHX — 14" AAX hi-hats, 16" AAX crash, 18" HHX crash, 20" HHX ride, 18" AAX China
-- **Pedal:** Tama Iron Cobra double pedal
+- **Pedal:** Pearl Demon Drive double pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Evans EMAD (kick), EC2 (toms), Remo Coated Ambassador (snare)
 - **Original setup cost (2011):** ~$5,898
@@ -50,7 +50,7 @@
 - **2003:** Pearl Reference series established as the core kit on Accelerated Evolution
 - **2011:** Deconstruction and Ghost recorded and released the same day — definitive Pearl Reference / Sabian AAX-HHX setup established
 - **2016:** Same core carried into Transcendence, the final studio album of his tenure with Devin Townsend
-- **Career constant:** Vic Firth sticks and a Tama Iron Cobra / DW 9000 double pedal maintained across his 2002–2018 collaboration with Townsend
+- **Career constant:** Vic Firth sticks and a Pearl Demon Drive double pedal maintained across his 2002–2018 collaboration with Townsend
 
 ---
 

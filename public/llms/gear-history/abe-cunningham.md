@@ -25,7 +25,7 @@
 - **Drums:** ddrum Dios Series (expanded) — 22" kick, 10"/12"/13"/16" toms
 - **Snare:** ddrum Steel 14"x6.5"
 - **Cymbals:** Zildjian A Custom Series
-- **Pedal:** DW 5000 double pedal added
+- **Pedal:** Tama Iron Cobra 900 Rolling Glide double pedal added
 - **Notable:** Deftones broke into the mainstream with Adrenaline (1995) and Around the Fur (1997), Ozzfest and Warped Tour exposure driving Cunningham's shift to a double-kick configuration.
 
 ### White Pony Era (2000–2003)
@@ -44,7 +44,7 @@
 - **Drums:** Gretsch USA Custom — maple shells; 22" kick, 10"/12"/14"/16" toms
 - **Snare:** Gretsch USA Custom 14"x6.5" Maple
 - **Cymbals:** Zildjian K Custom Series
-- **Pedal:** DW 9000 double pedal
+- **Pedal:** Tama Iron Cobra 900 Rolling Glide double pedal
 - **Sticks:** Vater 5A
 - **Notable:** Following the trauma of Chi Cheng's 2008 accident, Cunningham rebuilt his setup around the warm, organic Gretsch USA Custom kit for Diamond Eyes (2010) — an album written and recorded rapidly as a tribute to Chi.
 
@@ -53,7 +53,7 @@
 - **Drums:** Pearl Reference Series — maple/birch hybrid shells
 - **Snare:** Pearl Free-Floating Brass 14"x6.5"
 - **Cymbals:** Zildjian K Custom Dark Series
-- **Pedal:** DW 9000 double pedal
+- **Pedal:** Tama Iron Cobra 900 Rolling Glide double pedal
 - **Sticks:** Vater 5A
 - **Electronics:** Roland SPD-SX sampling pad
 - **Notable:** Cunningham returned to Pearl with the flagship Reference Series for the band's most compositionally sophisticated modern work — Koi No Yokan (2012), Gore (2016), and Ohms (2020).
@@ -63,7 +63,7 @@
 - **Drums:** SJC Custom Drums
 - **Snare:** SJC Custom 14"x6.5" Brass
 - **Cymbals:** Zildjian K Custom & A Custom Series — 14" K Custom Hi-Hats, 18"/20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China
-- **Pedal:** DW 9000 Series Double Pedal, DW hardware
+- **Pedal:** Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), Tama hardware
 - **Sticks:** Vic Firth American Classic 2B
 - **Heads:** Remo
 - **Notable:** Cunningham's current verified rig is an SJC Custom kit with a wide Zildjian K Custom/A Custom cymbal spread — dynamic, groove-first restraint that has defined nearly four decades behind the Deftones kit.
@@ -84,13 +84,13 @@
 ## FAQ
 
 **Q: What is Abe Cunningham's drum setup worth?**  
-A: Abe Cunningham's original 2000 Pearl Custom setup — the rig behind Deftones' White Pony — cost approximately $8,000. Adjusted for 2026 inflation, that's equivalent to roughly $15,220. His current verified SJC Custom setup, with a Zildjian K Custom/A Custom cymbal spread and DW hardware, represents a modern equivalent worth approximately $7,000–$7,500 at current retail prices.
+A: Abe Cunningham's original 2000 Pearl Custom setup — the rig behind Deftones' White Pony — cost approximately $8,000. Adjusted for 2026 inflation, that's equivalent to roughly $15,220. His current verified SJC Custom setup, with a Zildjian K Custom/A Custom cymbal spread and Tama hardware, represents a modern equivalent worth approximately $7,000–$7,500 at current retail prices.
 
 **Q: What drums did Abe Cunningham use on White Pony?**  
 A: On White Pony (2000), Cunningham played a Pearl Custom Series maple shell pack — switching from the ddrum kit he used on Adrenaline and Around the Fur. He also switched from Zildjian A Custom to the darker Zildjian K Series during this era, a tonal shift that matched the album's atmospheric, dynamic direction.
 
 **Q: What drums does Abe Cunningham play now?**  
-A: Abe Cunningham's current verified kit is an SJC Custom setup with an SJC Custom 14"x6.5" brass snare, a Zildjian K Custom & A Custom cymbal spread, a DW 9000 Series double pedal, and Vic Firth American Classic 2B sticks.
+A: Abe Cunningham's current verified kit is an SJC Custom setup with an SJC Custom 14"x6.5" brass snare, a Zildjian K Custom & A Custom cymbal spread, a Tama Iron Cobra Power Glide Twin Pedal, and Vic Firth American Classic 2B sticks.
 
 **Q: When did Abe Cunningham join Deftones?**  
 A: Abe Cunningham is a founding member of Deftones — he co-founded the band in Sacramento, California in 1988 with Chino Moreno, Stephen Carpenter, and the late Chi Cheng, and has appeared on every studio album since.

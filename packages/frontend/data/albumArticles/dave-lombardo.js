@@ -2610,10 +2610,10 @@ export const articles = {
         ],
         "description": "Establishing thrash metal's rhythmic template.",
         "gear": {
-          "drums": "Tama Imperialstar, then Artstar II",
-          "snare": "Tama Superstar Steel 14x6.5\"",
-          "cymbals": "Paiste 2002 / RUDE (early adoption)",
-          "hardware": "Tama Iron Cobra prototypes"
+          "drums": "Pearl Maxwin",
+          "snare": "Steel snare, brand undocumented for this era",
+          "cymbals": "Brand undocumented for this era",
+          "hardware": "Brand undocumented for this era"
         },
         "notes": "The Reign in Blood era — birch shells, steel snare, establishing the template."
       },

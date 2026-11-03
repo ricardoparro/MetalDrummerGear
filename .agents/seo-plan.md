@@ -15597,3 +15597,52 @@ Continued the "check recent ground-truth commits against files that lag behind" 
 2. The narrative-style `public/llms/**` mirror files (gear-history/*.md, evolution/*.md, articles/*-evolution.md) look like an undersampled vein — worth a dedicated sweep next run: pick 3-4 more heavily-covered drummers' llms mirrors and check them against ground truth directly, rather than only checking mirrors as a side-effect of a data-file fix.
 3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
 4. Drum-chair watch: already done this week (Monday 11-02, group 1, 0 changes). Next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-03 ~late-morning UTC run (bank-capped mode — 8 proposals filed #10162-10169, root-cause finding: check-llms-freshness red for days)
+
+### Context
+Bank check: 10 open `seo-proposal` at run start (4 fresh from the prior ~09:xx run, #10156-10159, not yet triaged; 3 human-held #7981/#10032/#10099; 3 standing umbrellas #2211/#3810/#3819) — well under the 45 cap → filed 8 net-new (full allowance, all high-confidence). New-page freeze + LLM-first mode still binding — all 8 are existing-page/existing-file fact fixes or a CI regen, zero new pages. metrics.md (07:02 UTC) shows no qualifying content-gap rows (matt halpern still the standing tracked tour-spike, no new action). Today is Tuesday — drum-chair sweep already done this week (Monday 11-02) — not repeated.
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawlers explicitly allowed — unchanged.
+- `/llms/**.md`: 2,027 files under `public/llms/` — unchanged, healthy count, but see root-cause finding below re: content freshness.
+- No fresh Lighthouse run this run — time spent on a root-cause investigation (higher-yield than another round of one-off candidate hunting).
+
+### Root-cause finding (the headline of this run)
+Checked `gh run list --workflow=check-llms-freshness.yml` — **all 15 most recent runs (scheduled + PR-triggered) are failing**, going back several days. Confirmed via job-step inspection this is NOT a workflow-config bug (the generic GitHub "likely a workflow file issue" banner is a red herring) — the actual failing step is `node scripts/check-llms-freshness.cjs` correctly detecting genuine content drift, exactly as designed. Ran `npm run generate:llms` + the freshness check locally (reverted after, `git checkout -- public/llms`, zero working-tree changes left behind) and confirmed **112 files have drifted** from committed `public/llms/**`, spot-verified direction is stale→correct (e.g. `articles/gene-hoglan-drum-setup.md` still has the pre-#10058 birthdate). This is the 4th occurrence of this exact symptom (#5037, #8682, #9961 all closed as one-time manual regens) — filed #10162 proposing both the immediate regen AND a structural self-healing fix (scheduled job auto-commits on drift instead of just failing), since one-time regens keep getting re-opened by the ongoing fact-drift sweep's own fixes.
+
+Also discovered during this investigation: some `public/llms/**` mirrors are **not covered by any generator at all** — `public/llms/gear-history/<slug>.md` is explicitly "66 hand-authored per-drummer files" per the generator script's own header comment, and `public/llms/evolution/*.md` has no writer script anywhere. These can only drift-fix via direct manual edit, never via regen — filed #10169 for 3 confirmed-fabricated instances (Lombardo/Hoglan/Portnoy gear-history mirrors).
+
+Also found that `api/drummers/index.js`'s per-drummer `bands` arrays (source for `generate-llms-drummers.cjs`) have genuine data errors — not regen-lag, since regenerating reproduces the same wrong content — filed #10163 (Dave Lombardo 3-stint Slayer tenure collapsed to 2 + stale Suicidal Tendencies "current"; Danny Carey fabricated "Legend of the Seagullmen" band entry with zero support anywhere in the dataset).
+
+### Method
+Dispatched 2 parallel research agents: one continuing the "git log --since 14 days on ground-truth files, diff against genreGearGuides.js/albumArticles.js" method (found 5 candidates, 1 dropped as exact-dupe of held #7466); one doing a dedicated sweep of 4 heavily-covered drummers' `public/llms/**` narrative mirrors against ground truth (found 6 items across Lombardo/Hoglan/Portnoy/Danny Carey, including the api/drummers/index.js and check-llms-freshness root-cause leads). Personally verified every candidate via direct grep/read against ground truth before filing, and ran full `gh issue list --search`/`gh issue view` dedup passes on each — for 4 (#9786-adjacent Benante, #8678-adjacent Daray, #9637/#10059-adjacent Erlandsson, #8941/#10125-adjacent Dailor, #9572-adjacent Axenrot) a very-similar-titled closed issue existed; read each one's actual body/diff to confirm the new candidate targets a genuinely different file/location/era, not a re-opened duplicate.
+
+### Proposals filed this run
+1. #10162 — Regenerate+commit the 112-file `public/llms/**` drift + propose converting the scheduled freshness-check run from detection-only to self-healing (auto-commit on drift) so this doesn't recur a 5th time
+2. #10163 — `api/drummers/index.js` Dave Lombardo Slayer-stint collapse + stale Suicidal Tendencies "current" + Danny Carey fabricated "Legend of the Seagullmen" band + extendedBios.js "God Hates Us All" misattribution (verified: Bostaph)
+3. #10164 — Charlie Benante Speed Cobra switch year still "2010" in `albumArticles/charlie-benante.js` + `top10Lists.js` — #9786 fixed 5 other files, these two never swept
+4. #10165 — Daray's Abrahadabra (2010) + Eonian (2018) album articles fabricate "Pearl Masterworks Stadium Exotic"/"Demon XR" — different entries from the generic one #8678 already fixed
+5. #10166 — Daniel Erlandsson 3 FAQ answers still claim "every Arch Enemy studio album since 1995" without the Stigmata/Wildoer exception already correctly present at line 535 of the same file
+6. #10167 — Brann Dailor's Leviathan (2004) cymbal section still says Meinl Mb20/Mb8 — ground truth flipped to Byzance after #8941 shipped it, same pattern #10125 just fixed for a different section of this file
+7. #10168 — Martin Axenrot `albumArticles.js` fabricates "twin bass drums" across 6 locations — #9572 fixed `genreGearGuides.js`+`extendedBios.js` only, this file never swept
+8. #10169 — Hand-authored `public/llms/gear-history/*.md` fabrications for Dave Lombardo/Gene Hoglan/Mike Portnoy — files not covered by any generator, independently drifted
+
+### Learned-patterns.md updates
+- Not yet appended — recommend the CEO or next run add an entry once #10162's structural fix is triaged: "generator-coverage gap: some public/llms/** paths (gear-history/<slug>.md, evolution/*.md) are hand-authored with zero generator coverage — a clean `check-llms-freshness` pass does NOT mean these are fresh, only that the generated subset matches." This is a real gap in how "audit: /llms/*.md endpoints live" has been interpreted — count ≠ freshness.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10156-10159 (prior run, not yet triaged at this run's start)
+- #10162-10169 (this run, 8 fresh)
+
+### Next run
+1. Watch #10162 closely — it's the highest-leverage item this run (112-file mechanical win + a structural ask that could prevent a 5th recurrence). If the structural auto-commit proposal is rejected/deferred, flag that future runs should expect this exact issue to resurface every few days and budget for it.
+2. Watch #10163/#10169 — these establish that "mirror drift" isn't monolithic: some is regen-lag (fixed by #10162), some is source-data error (#10163's api/drummers/index.js), some is hand-authored-content with no generator at all (#10169). Future fact-drift sweeps should triage which bucket a finding falls into before proposing a fix (regen vs source-data vs manual-mirror-edit) rather than assuming regen fixes everything.
+3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
+4. Drum-chair watch: done for this week (Monday 11-02, group 1, 0 changes). Next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

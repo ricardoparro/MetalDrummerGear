@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-03 00:18 UTC*
 
 ---
+## 2026-11-03 12:10 (daily deep run — 7/7 proposals verified+promoted #10163-10169, #10162 split, #10174/#10175 filed)
+
+### Context (≤3 lines)
+First run after 07:00 UTC. L1/L2/L3 snapshots refreshed yesterday (gsc-watch/indexation 11-02, not due again until ~11-09, no refresh needed this run). Metrics 12:10 UTC (445u/510s/755v 7d; GSC 17,279 impr/281 clicks/1.63% CTR/pos 8.6; content-gap row `matt halpern` still the only one, tour-driven spike tracked since 10-29, recheck due ~11-18, no new action). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#10162-10169, filed 07:15-07:17 UTC).
+
+### Actions taken
+- **Live-verified 7/8 via 7 parallel subagents** (grep/read against cited ground truth, dupe-search): #10163 (Lombardo Slayer stints collapsed + stale Suicidal Tendencies + Danny Carey fabricated "Legend of the Seagullmen") VERIFIED-CLEAN, found the fabricated band name replicated in 10+ more files/mirrors — flagged for same-PR fix. #10164 (Benante Speed Cobra 2010→2013) VERIFIED-WITH-NOTE — found ~15 more "2010" instances throughout the same file plus 4 stale llms mirrors, well beyond the 3 cited lines. #10165 (Daray Pearl Masterworks Stadium Exotic/Demon XR fabrications) VERIFIED-WITH-NOTE — fabrication counts 22x/8x (higher than cited), corrected the fix plan (Demon Drive applies to both album eras, not just Eonian). #10166 (Erlandsson Stigmata FAQ caveat missing) VERIFIED-CLEAN, exact 4-occurrence count confirmed. #10167 (Dailor Leviathan Mb20/Mb8→Byzance) VERIFIED-WITH-NOTE — clarified line 519 belongs to a third distinct section, not a 6th Leviathan location, but needs the same fix. #10168 (Axenrot fabricated "twin bass drums") VERIFIED-WITH-NOTE — revised the root-cause theory (not Duplantier cross-contamination, an invented detail stitched to a real quote) and found 3 more affected files to sweep in the same PR. #10169 (gear-history.md hand-authored mirrors, 3 drummers) VERIFIED-WITH-NOTE — confirmed un-synced by design; found the same DW-pedal fabrication pattern in 32/71 files total, too large to fold in, filed as separate audit **#10175**. All 7 promoted to `ai-fix` with verification/scope-correction comments.
+- **#10162 (regenerate public/llms drift + make check-llms-freshness self-healing) split in two**: promoted the immediate mechanical regen as `ai-fix` (zero-risk, pure derived data, same pattern as #9961/#8682/#5037), scoped the comment to explicitly exclude workflow-permission changes. The structural ask — granting a scheduled job `contents: write` to auto-commit+push directly to `main`, bypassing the Roadie PR→CI→merge pipeline — is a governance decision (new direct-to-main trust boundary on a public repo), not a content fix; filed **#10174** (`human-founder`) with 3 options (approve as-is / approve with a CI-gated auto-merge safety rail / reject and just tighten manual-regen cadence) for Ricardo to decide.
+- **GSC content-gap**: `matt halpern` still the only row, same tracked spike, no new action. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 + held proposals #7981/#10099/#10032 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots dated 2026-11-02 (gsc-watch 08:15, indexation 09:30) — not due again until ~11-09, correctly skipped this run (already closed the loop on the 11-02 12:11 run's L2-collapse investigation and 63-profile CTR batch).
+- **Starvation check**: post-triage backlog 0→9 (<15), bank 9→0 (≤2 excl. held #7981/#10099/#10032 + umbrellas #2211/#3810/#3819) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not escalated.
+- **Atomic-split sweep**: queried all open `ai-fix` issues >3 days old without in-progress/pr-opened/hold/blocked labels — zero matches. Nothing eligible.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 9 (#10162-10169 promoted; #10175 filed directly)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 8 fresh → 0
+- New human-founder ask: #10174 (direct-to-main self-healing workflow governance decision)
+
+### Quota check
+✅ SEO proposals: 7/7 live-verified and promoted + 1 split (regen promoted, structural half escalated). ✅ Founder ideas: inbox empty. ✅ GSC-gap: matt halpern tracked, no new rows. ✅ L1/L2/L3: correctly not due, last refresh 11-02 fully closed out. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10162-10169/#10175 pick up via Roadie; #10163/#10164/#10165/#10167/#10168 all carry wider-than-cited scope corrections in their promotion comments — confirm Roadie follows the comment's expanded scope, not just the issue body's original line list.
+2. #10174 is a new human-founder ask (workflow governance) — do not re-spam; wait for Ricardo's comment.
+3. L1/L2/L3 next weekly refresh due ~2026-11-09.
+4. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-11-03 00:18 (state-confirm — 2/2 proposals verified+promoted #10151/#10155)
 - Backlog: 2 ai-fix (post-triage) · 0 PRs open · proposals untriaged: 0 (held #10099/#10032/#7981 unchanged, excluded)
 - Org / Sessions / Views (7d): 420 / 479 / 722 · GSC 14,371 impr / 237 clicks / 1.65% CTR / pos 8.7

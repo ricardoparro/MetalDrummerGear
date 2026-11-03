@@ -1499,7 +1499,7 @@ Budget shouldn't stop you — Remo Ambassador X and Evans G1 Coated both offer a
       title: "Why Post-Metal Needs Heads That Breathe and Crush",
       content: `Post-metal lives on contrast. A song can spend four minutes building a hushed, cymbal-washed crescendo before detonating into a wall of down-tuned, distorted weight — and the drum heads underneath have to serve both halves of that arc without compromise. A head that's tuned purely for crushing low end goes dead and unresponsive during the quiet build; a head chasing maximum sensitivity can't carry the tectonic low-tuned tom hits that define the genre's climaxes.
 
-Brann Dailor of Mastodon built his sound on exactly this tension — warm, focused Evans G2 Clear heads that respond to brushed, jazz-informed dynamics one moment and slam into crushing sludge weight the next. Danny Carey's massive Tool kit uses the same open, resonant philosophy for the band's more atmospheric, post-metal-adjacent material, while Mario Duplantier of Gojira pairs thicker Remo Emperor and EMAD-family heads for a heavier, more controlled version of the same idea across his dual-kick setup. Abe Cunningham of Deftones rounds out the picture with Remo heads across his Tama Starclassic Maple/Bubinga kit, voiced specifically to serve both ambient restraint and explosive heaviness from one build.
+Brann Dailor of Mastodon built his sound on exactly this tension — warm, focused Evans G2 Clear heads that respond to brushed, jazz-informed dynamics one moment and slam into crushing sludge weight the next. Danny Carey's massive Tool kit uses the same open, resonant philosophy for the band's more atmospheric, post-metal-adjacent material, while Mario Duplantier of Gojira pairs thicker Remo Emperor and EMAD-family heads for a heavier, more controlled version of the same idea across his dual-kick setup. Abe Cunningham of Deftones rounds out the picture with Remo heads across his Tama Starclassic Bubinga kit, voiced specifically to serve both ambient restraint and explosive heaviness from one build.
 
 This guide breaks down the drum heads that deliver post-metal's full dynamic range — why moderate-ply, resonant constructions beat both fully open and heavily muffled extremes here, and which specific models let a kit whisper and crush within the same song.`,
       keyPoints: [
@@ -23301,7 +23301,7 @@ Start with heavy internal muffling on a dense, well-built shell — it's the pro
     // SEO metadata
     title: "Best Bass Drums for Post-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Post-Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for post-metal's quiet/loud crescendo dynamics. What Brann Dailor (Tama Starclassic Performer B/B), Danny Carey (Sonor SQ2 Heavy Beech), Mario Duplantier (Tama Starclassic Bubinga), and Abe Cunningham (Tama Starclassic Maple/Bubinga) actually play.",
+    description: "Best bass drums for post-metal's quiet/loud crescendo dynamics. What Brann Dailor (Tama Starclassic Performer B/B), Danny Carey (Sonor SQ2 Heavy Beech), Mario Duplantier (Tama Starclassic Bubinga), and Abe Cunningham (Tama Starclassic Bubinga) actually play.",
     seoKeywords: [
       'best bass drums for post-metal',
       'post-metal bass drum setup',
@@ -23338,7 +23338,7 @@ Start with heavy internal muffling on a dense, well-built shell — it's the pro
       title: "What Bass Drum Setup Do Post-Metal Drummers Actually Use?",
       content: `Post-metal's bass drum has to cover more dynamic ground than almost any other subgenre's kick. A single song might open on a barely-audible mallet roll and build, over ten minutes, into a crushing wall of down-tuned distortion — and the bass drum needs to sound intentional at every point along that arc, from a whispered pulse to a bone-rattling low end. That's a different brief than genres built around one consistent intensity: post-metal rewards a shell that can be played softly with real tone, not just loudly with real weight.
 
-Isis and Neurosis, the genre's foundational bands, don't currently have dedicated MetalForge gear profiles, so this guide draws on the closest working analogues from progressive and atmospheric-leaning metal lineages. Brann Dailor's Tama Starclassic Performer B/B delivers a warm, focused tone suited to jazz-influenced, dynamically expansive playing. Danny Carey's Sonor SQ2 Heavy Beech shell covers cinematic, ambient-to-crushing range with room for extended percussion. Mario Duplantier's dual-kick Tama Starclassic Bubinga setup builds atmospheric, environmentally-themed dynamic swells. Abe Cunningham's Tama Starclassic Maple/Bubinga kit is voiced for both crushing heaviness and ambient restraint in Deftones' genre-adjacent material.
+Isis and Neurosis, the genre's foundational bands, don't currently have dedicated MetalForge gear profiles, so this guide draws on the closest working analogues from progressive and atmospheric-leaning metal lineages. Brann Dailor's Tama Starclassic Performer B/B delivers a warm, focused tone suited to jazz-influenced, dynamically expansive playing. Danny Carey's Sonor SQ2 Heavy Beech shell covers cinematic, ambient-to-crushing range with room for extended percussion. Mario Duplantier's dual-kick Tama Starclassic Bubinga setup builds atmospheric, environmentally-themed dynamic swells. Abe Cunningham's Tama Starclassic Bubinga kit is voiced for both crushing heaviness and ambient restraint in Deftones' genre-adjacent material.
 
 This guide breaks down what makes a bass drum work for post-metal — dynamic range, shell tone, and low-end character — and which specific shells the genre's closest analogues actually play, from budget to professional touring rigs.`,
       keyPoints: [
@@ -23380,7 +23380,7 @@ This guide breaks down what makes a bass drum work for post-metal — dynamic ra
         {
           name: "Atmospheric/Ambient Compatibility",
           icon: "🌫️",
-          description: "Abe Cunningham's Tama Starclassic Maple/Bubinga kit is voiced for both crushing heaviness and ambient restraint — proof that a single, well-designed shell can genuinely serve both ends of post-metal's dynamic spectrum.",
+          description: "Abe Cunningham's Tama Starclassic Bubinga kit is voiced for both crushing heaviness and ambient restraint — proof that a single, well-designed shell can genuinely serve both ends of post-metal's dynamic spectrum.",
           recommendation: "A custom or well-matched shell voiced deliberately for both extremes rather than one compromise tone"
         },
         {
@@ -23517,20 +23517,20 @@ Bubinga's dense hardwood construction keeps quiet passages controlled rather tha
           rank: 4,
           name: "Tama Starclassic Bass Drum",
           brand: "Tama",
-          model: "Starclassic Maple/Bubinga 22\"x18\"",
+          model: "Starclassic Bubinga 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€1200-1800",
           tier: "premium",
-          material: "Maple/Bubinga Hybrid, 22\"x18\"",
+          material: "Bubinga, 22\"x18\"",
 
-          description: `Abe Cunningham's Tama Starclassic Maple/Bubinga bass drum is voiced for both crushing heaviness and ambient restraint, reflecting Deftones' own genre-adjacent balance between shoegaze-influenced texture and full-volume aggression. The Maple/Bubinga hybrid shell blends maple's warmth with bubinga's dense low-end punch.
+          description: `Abe Cunningham's Tama Starclassic Bubinga bass drum is voiced for both crushing heaviness and ambient restraint, reflecting Deftones' own genre-adjacent balance between shoegaze-influenced texture and full-volume aggression. The dense Bubinga shell delivers low-end punch and tuning stability.
 
 That dual-purpose voicing makes this one of the most explicitly post-metal-minded shells on the market, even though Deftones themselves sit adjacent to rather than inside the genre.`,
 
           pros: [
             "Abe Cunningham's proven Deftones platform",
             "Voiced for both crushing heaviness and ambient restraint",
-            "Maple/Bubinga hybrid shell balances warmth and low-end punch",
+            "Dense Bubinga shell delivers low-end punch and tuning stability",
             "Proven in a genre-adjacent context that shares post-metal's dynamic demands",
             "Wide range of finishes and configurations"
           ],
@@ -23541,14 +23541,14 @@ That dual-purpose voicing makes this one of the most explicitly post-metal-minde
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple/Bubinga Hybrid",
+            shell: "Bubinga",
             headRecommendation: "Evans EMAD",
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Abe Cunningham", band: "Deftones", note: "Tama Starclassic Maple/Bubinga kit voiced for both crushing heaviness and ambient restraint" }
+            { name: "Abe Cunningham", band: "Deftones", note: "Tama Starclassic Bubinga kit voiced for both crushing heaviness and ambient restraint" }
           ],
-          verdict: "Best for drummers who want a hybrid shell voiced explicitly for dynamic extremes.",
+          verdict: "Best for drummers who want a dense Bubinga shell voiced explicitly for dynamic extremes.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_bubinga_bass_drum.htm?partner_id=metalforge"
         }
@@ -23655,7 +23655,7 @@ That dual-purpose voicing makes this one of the most explicitly post-metal-minde
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — warm, dynamically expansive tone' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — cinematic, ambient-to-crushing range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual-kick Tama Starclassic Bubinga — atmospheric dynamic build' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic Maple/Bubinga — voiced for crushing and ambient extremes' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic Bubinga — voiced for crushing and ambient extremes' }
     ],
 
     // Featured drummers (issue template)
@@ -23669,7 +23669,7 @@ That dual-purpose voicing makes this one of the most explicitly post-metal-minde
     faq: [
       {
         question: "What bass drums do post-metal drummers use?",
-        answer: "Genre founders Isis and Neurosis don't have dedicated MetalForge gear profiles, so this guide draws on the closest working analogues. Brann Dailor of Mastodon plays a Tama Starclassic Performer B/B, Danny Carey of Tool plays a Sonor SQ2 Heavy Beech, Mario Duplantier of Gojira runs a dual-kick Tama Starclassic Bubinga setup, and Abe Cunningham of Deftones plays a Tama Starclassic Maple/Bubinga kit."
+        answer: "Genre founders Isis and Neurosis don't have dedicated MetalForge gear profiles, so this guide draws on the closest working analogues. Brann Dailor of Mastodon plays a Tama Starclassic Performer B/B, Danny Carey of Tool plays a Sonor SQ2 Heavy Beech, Mario Duplantier of Gojira runs a dual-kick Tama Starclassic Bubinga setup, and Abe Cunningham of Deftones plays a Tama Starclassic Bubinga kit."
       },
       {
         question: "What makes a bass drum good for post-metal specifically, versus other metal genres?",
@@ -23685,7 +23685,7 @@ That dual-purpose voicing makes this one of the most explicitly post-metal-minde
       },
       {
         question: "How should I tune a post-metal bass drum for both quiet and loud passages?",
-        answer: "Aim for moderate, resonant tuning rather than either extreme — too dry and quiet passages sound lifeless, too open and crushing passages turn boomy. Danny Carey's Sonor SQ2 Heavy Beech and Abe Cunningham's Tama Starclassic Maple/Bubinga are both deliberately voiced to avoid compromising toward either end."
+        answer: "Aim for moderate, resonant tuning rather than either extreme — too dry and quiet passages sound lifeless, too open and crushing passages turn boomy. Danny Carey's Sonor SQ2 Heavy Beech and Abe Cunningham's Tama Starclassic Bubinga are both deliberately voiced to avoid compromising toward either end."
       }
     ],
 
@@ -69073,19 +69073,19 @@ Across albums like "From Mars to Sirius" and "Magma," this snare has anchored Go
           rank: 3,
           name: "Tama Starclassic Matching Snare",
           brand: "Tama",
-          model: "Starclassic Maple/Bubinga Matching Snare",
+          model: "Starclassic Bubinga Matching Snare",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€350-600",
           tier: "premium",
-          material: "Maple/Bubinga Hybrid",
+          material: "Bubinga",
 
-          description: `Abe Cunningham anchors Deftones' sound — described by the band itself as a blend of "heavy and ambient music" — on a Tama Starclassic matching snare. The Maple/Bubinga shell lets Cunningham dial in a tonal shift between crushing heaviness and delicate, atmospheric restraint that has powered the band's peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan."
+          description: `Abe Cunningham anchors Deftones' sound — described by the band itself as a blend of "heavy and ambient music" — on a Tama Starclassic matching snare. The Bubinga shell lets Cunningham dial in a tonal shift between crushing heaviness and delicate, atmospheric restraint that has powered the band's peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan."
 
 Cunningham's ability to shift between those two extremes without changing gear is exactly the quality that makes his setup a genuine post-metal-adjacent reference point for drummers chasing that same dynamic range.`,
 
           pros: [
             "Abe Cunningham's proven Deftones configuration — explicitly 'heavy and ambient' sonic identity",
-            "Maple/Bubinga hybrid shell tuned for crushing-to-ambient dynamic range",
+            "Dense Bubinga shell tuned for crushing-to-ambient dynamic range",
             "Proven across Deftones' most acclaimed, dynamically varied albums",
             "Matches the rest of a Starclassic shell pack for tonal consistency",
             "Professional-tier craftsmanship"
@@ -69095,7 +69095,7 @@ Cunningham's ability to shift between those two extremes without changing gear i
             "Less widely available than entry-level manufacturer snares"
           ],
           specs: {
-            shell: "Maple/Bubinga Hybrid",
+            shell: "Bubinga",
             size: "14\" standard diameter",
             hoops: "Die-cast",
             lugs: "Tube lugs",
@@ -69162,12 +69162,12 @@ Cunningham's ability to shift between those two extremes without changing gear i
 - 14x6\" depth for balanced quick response and musical body
 - Best for: Atmosphere-driven, environmentally-themed progressive material
 
-**Maple/Bubinga Hybrid (Abe Cunningham):**
+**Bubinga (Abe Cunningham):**
 - Matched to a Starclassic shell pack, tuned to a heavy-and-ambient identity
 - Consistent tone across the full kit
 - Best for: Drummers who want dynamic range without leaving their shell pack
 
-**Our Recommendation:** Choose bronze if your material has the widest, most extreme dynamic range. Choose maple if warmth and atmosphere matter most. Choose a matched hybrid shell if tonal consistency with the rest of your kit matters most.`,
+**Our Recommendation:** Choose bronze if your material has the widest, most extreme dynamic range. Choose maple if warmth and atmosphere matter most. Choose a matched Bubinga shell if tonal consistency with the rest of your kit matters most.`,
       comparisonTable: [
         { feature: "Dynamic Range", bronze: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐", custom: "⭐⭐⭐⭐⭐" },
         { feature: "Warmth", bronze: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", custom: "⭐⭐⭐⭐" },
@@ -98457,7 +98457,7 @@ Start with a proven budget option like the Tama Iron Cobra 600 to build techniqu
     // SEO metadata
     title: "Best Drum Kits for Post-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Post-Metal 2026 | MetalForge Guide",
-    description: "Best drum kits for post-metal drumming: what Brann Dailor (Tama Starclassic Performer B/B), Danny Carey (Sonor SQ2 Heavy Beech), Mario Duplantier (Tama Starclassic Bubinga), and Abe Cunningham (Tama Starclassic Maple/Bubinga) actually play. Dynamic, atmosphere-driven shells for long-form crescendo — ranked budget to pro.",
+    description: "Best drum kits for post-metal drumming: what Brann Dailor (Tama Starclassic Performer B/B), Danny Carey (Sonor SQ2 Heavy Beech), Mario Duplantier (Tama Starclassic Bubinga), and Abe Cunningham (Tama Starclassic Bubinga) actually play. Dynamic, atmosphere-driven shells for long-form crescendo — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for post-metal',
       'post-metal drum kit',
@@ -98494,14 +98494,14 @@ Start with a proven budget option like the Tama Iron Cobra 600 to build techniqu
       title: "What Drum Kit Should I Use for Post-Metal?",
       content: `Post-metal is built on long-form dynamics — slow-building crescendos that shift from near-silent, textural passages into crushing, cathartic walls of sound, often within a single ten-minute song. That range makes shell choice unusually demanding: a post-metal kit has to sound musical and controlled at a whisper, then hold together and project without falling apart at full volume.
 
-No drummer in our roster currently records under a literal "post-metal" tag — it's a genre defined more by atmosphere and structure (Cult of Luna, Neurosis, Isis) than a single signature drumming style. But four artists at MetalForge represent the genre's closest working analogues: drummers whose bands share post-metal's DNA of dynamic extremity, textural build, and genre-blurring scope. Brann Dailor of progressive/sludge outfit Mastodon plays a Tama Starclassic Performer B/B kit built around jazz-influenced dynamics. Danny Carey of Tool builds his sound on a fully customized Sonor SQ2 Heavy Beech platform designed for cinematic, ambient-to-crushing range. Mario Duplantier of Gojira drives his atmospheric, environmentally-themed progressive death metal on a Tama Starclassic Bubinga kit. Abe Cunningham of Deftones anchors a sound the band itself describes as blending "heavy and ambient music" on a Tama Starclassic Maple/Bubinga kit.
+No drummer in our roster currently records under a literal "post-metal" tag — it's a genre defined more by atmosphere and structure (Cult of Luna, Neurosis, Isis) than a single signature drumming style. But four artists at MetalForge represent the genre's closest working analogues: drummers whose bands share post-metal's DNA of dynamic extremity, textural build, and genre-blurring scope. Brann Dailor of progressive/sludge outfit Mastodon plays a Tama Starclassic Performer B/B kit built around jazz-influenced dynamics. Danny Carey of Tool builds his sound on a fully customized Sonor SQ2 Heavy Beech platform designed for cinematic, ambient-to-crushing range. Mario Duplantier of Gojira drives his atmospheric, environmentally-themed progressive death metal on a Tama Starclassic Bubinga kit. Abe Cunningham of Deftones anchors a sound the band itself describes as blending "heavy and ambient music" on a Tama Starclassic Bubinga kit.
 
 This guide breaks down what actually makes a kit work for post-metal's dynamic extremes — shell material, mounting design, and tonal range — and which specific kits these four drummers rely on, from accessible starter kits to the professional setups behind some of modern metal's most atmospheric records.`,
       keyPoints: [
         "No roster drummer records under a literal 'post-metal' tag — this guide features the genre's closest working analogues by shared dynamic and atmospheric DNA",
         "Brann Dailor's Tama Starclassic Performer B/B brings jazz-influenced dynamic range to Mastodon's progressive/sludge sound",
         "Danny Carey's fully customized Sonor SQ2 Heavy Beech spans Tool's shift from ambient restraint to crushing weight",
-        "Abe Cunningham's Tama Starclassic Maple/Bubinga anchors Deftones' explicitly 'heavy and ambient' sonic identity"
+        "Abe Cunningham's Tama Starclassic Bubinga anchors Deftones' explicitly 'heavy and ambient' sonic identity"
       ]
     },
 
@@ -98536,7 +98536,7 @@ This guide breaks down what actually makes a kit work for post-metal's dynamic e
         {
           name: "Atmospheric/Ambient Compatibility",
           icon: "🌫️",
-          description: "Abe Cunningham's Tama Starclassic Maple/Bubinga kit anchors Deftones' sound specifically because it shifts cleanly between crushing heaviness and delicate, ambient dynamics without needing a second setup.",
+          description: "Abe Cunningham's Tama Starclassic Bubinga kit anchors Deftones' sound specifically because it shifts cleanly between crushing heaviness and delicate, ambient dynamics without needing a second setup.",
           recommendation: "A kit voiced to serve both delicate and crushing passages equally well"
         },
         {
@@ -98674,21 +98674,21 @@ Duplantier's approach — dynamics, groove, and an almost tribal quality — par
         },
         {
           rank: 4,
-          name: "Tama Starclassic Maple/Bubinga",
+          name: "Tama Starclassic Bubinga",
           brand: "Tama",
-          model: "Starclassic Maple/Bubinga",
+          model: "Starclassic Bubinga",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€2200-3800 (shell pack)",
           tier: "premium",
-          material: "Maple/Bubinga Hybrid",
+          material: "Bubinga",
 
-          description: `Abe Cunningham anchors Deftones' sound — described by the band itself as a blend of "heavy and ambient music" — on a Tama Starclassic Maple/Bubinga kit. The configuration has powered the band's peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan," proving a single kit can serve both crushing heaviness and delicate, atmospheric dynamics.
+          description: `Abe Cunningham anchors Deftones' sound — described by the band itself as a blend of "heavy and ambient music" — on a Tama Starclassic Bubinga kit. The configuration has powered the band's peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan," proving a single kit can serve both crushing heaviness and delicate, atmospheric dynamics.
 
 Cunningham's ability to shift between the two extremes without changing gear is exactly the quality that makes his setup a genuine post-metal-adjacent reference point for drummers chasing that same dynamic range.`,
 
           pros: [
             "Abe Cunningham's proven Deftones configuration",
-            "Maple/Bubinga hybrid shell tuned for crushing-to-ambient range",
+            "Dense Bubinga shell tuned for crushing-to-ambient range",
             "Proven across Deftones' most acclaimed, dynamically varied albums",
             "Wide range of finish options",
             "Professional-tier craftsmanship"
@@ -98698,14 +98698,14 @@ Cunningham's ability to shift between the two extremes without changing gear is 
             "Less widely available than entry-level manufacturer kits"
           ],
           specs: {
-            shell: "Maple/Bubinga Hybrid",
+            shell: "Bubinga",
             mount: "Suspension mount",
             finish: "Multiple finish options",
             kickSize: "22\" x 18\" standard",
             tomSizes: "Standard Starclassic configurations available"
           },
           usedBy: [
-            { name: "Abe Cunningham", band: "Deftones", note: "Tama Starclassic Maple/Bubinga kit voiced for both crushing heaviness and ambient restraint" }
+            { name: "Abe Cunningham", band: "Deftones", note: "Tama Starclassic Bubinga kit voiced for both crushing heaviness and ambient restraint" }
           ],
           verdict: "A professional-tier platform proven at shifting cleanly between post-metal's crushing and ambient extremes.",
           rating: 4.6,
@@ -98755,7 +98755,7 @@ Cunningham's ability to shift between the two extremes without changing gear is 
       title: "Tama vs Sonor for Post-Metal",
       content: `Shell platform choice shapes how a post-metal kit handles the genre's demand for extreme dynamic range. Here's how the main options compare:
 
-**Tama Starclassic (Dailor's Performer B/B, Duplantier's Bubinga, Cunningham's Maple/Bubinga):**
+**Tama Starclassic (Dailor's Performer B/B, Duplantier's Bubinga, Cunningham's Bubinga):**
 - Warm, focused tone with a proven track record in dynamically ambitious, riff-driven metal
 - Best for: Balanced warmth across atmospheric and heavy passages
 
@@ -98796,7 +98796,7 @@ Cunningham's ability to shift between the two extremes without changing gear is 
         },
         {
           category: "Best for Crushing-to-Ambient Shift",
-          pedal: "Tama Starclassic Maple/Bubinga",
+          pedal: "Tama Starclassic Bubinga",
           reason: "Abe Cunningham's Deftones kit, proven at serving both heaviness and atmosphere from one build."
         }
       ]
@@ -98812,13 +98812,13 @@ Cunningham's ability to shift between the two extremes without changing gear is 
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — warm, jazz-influenced dynamic range' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — cinematic ambient-to-crushing range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama Starclassic Bubinga — atmospheric, environmentally-themed weight' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic Maple/Bubinga — Deftones\' explicitly "heavy and ambient" sound' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic Bubinga — Deftones\' explicitly "heavy and ambient" sound' }
     ],
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — warm, jazz-influenced dynamic range' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — cinematic ambient-to-crushing range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama Starclassic Bubinga — atmospheric, environmentally-themed weight' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic Maple/Bubinga — Deftones\' explicitly "heavy and ambient" sound' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic Bubinga — Deftones\' explicitly "heavy and ambient" sound' }
     ],
     relatedComparisons: [],
 
@@ -98849,7 +98849,7 @@ Cunningham's ability to shift between the two extremes without changing gear is 
     // Conclusion
     conclusion: {
       title: "Build a Kit That Can Whisper and Crush",
-      content: `Post-metal drumming lives in the space between restraint and catharsis, and the kit has to serve both ends without compromise. Brann Dailor's Tama Starclassic Performer B/B, Danny Carey's fully customized Sonor SQ2, Mario Duplantier's dual-kick Tama Starclassic Bubinga, and Abe Cunningham's Tama Starclassic Maple/Bubinga all prove that dynamic range — not raw power — is the defining requirement.
+      content: `Post-metal drumming lives in the space between restraint and catharsis, and the kit has to serve both ends without compromise. Brann Dailor's Tama Starclassic Performer B/B, Danny Carey's fully customized Sonor SQ2, Mario Duplantier's dual-kick Tama Starclassic Bubinga, and Abe Cunningham's Tama Starclassic Bubinga all prove that dynamic range — not raw power — is the defining requirement.
 
 Start with an accessible, warm-toned kit like the Pearl Export to build your sense of dynamics, and invest in a fully customized platform once your material demands the extra textural and tonal range.
 

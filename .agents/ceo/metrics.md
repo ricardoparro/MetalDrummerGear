@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-03 01:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-03 06:13 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,46 +8,46 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 421 |
-| Sessions | 480 |
-| Page views | 723 |
-| Engagement rate | 63.96% |
-| Avg session (s) | 120 |
+| Active users | 436 |
+| Sessions | 499 |
+| Page views | 742 |
+| Engagement rate | 63.73% |
+| Avg session (s) | 118 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 28 | 17 |
+| / | 29 | 17 |
 | /drummers | 28 | 9 |
 | /drummer/mario-duplantier | 17 | 10 |
 | /quiz | 16 | 3 |
 | /articles/slipknot-self-titled-drum-setup | 15 | 12 |
 | /drummer/frost | 14 | 6 |
-| /lists/best-death-metal-drummers | 11 | 11 |
+| /lists/best-death-metal-drummers | 13 | 13 |
+| /drummer/eloy-casagrande | 10 | 8 |
+| /drummer/matt-greiner | 10 | 8 |
 | /drummers/vinnie-paul/evolution | 10 | 1 |
-| /drummer/eloy-casagrande | 9 | 8 |
-| /drummer/jay-weinberg | 9 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 386 | 327 |
-| Direct | 94 | 93 |
-| Unassigned | 16 | 15 |
+| Organic Search | 402 | 339 |
+| Direct | 97 | 96 |
+| Unassigned | 20 | 19 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 177 | 165 |
-| United Kingdom | 35 | 20 |
+| United States | 186 | 172 |
+| United Kingdom | 36 | 21 |
 | Germany | 27 | 23 |
 | Singapore | 27 | 27 |
-| Canada | 17 | 16 |
-| Australia | 15 | 11 |
-| Brazil | 14 | 14 |
-| France | 12 | 10 |
-| Poland | 10 | 9 |
+| Canada | 19 | 17 |
+| Australia | 16 | 12 |
+| Brazil | 15 | 15 |
+| France | 13 | 11 |
+| Poland | 11 | 10 |
 | Spain | 9 | 6 |
 
 ## Search Console — Search performance

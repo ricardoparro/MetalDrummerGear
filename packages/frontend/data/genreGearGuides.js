@@ -68096,7 +68096,7 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Modern Utility snar
       title: "Why Extreme Metal Snares Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability and speed demands on a snare drum that few other genres match. At 200-280 BPM sustained blast beats, a snare gets struck thousands of times a set, night after touring night, and has to keep firing instantly on every stroke long after ordinary snares would lose sensitivity or crack under the repeated impact.
 
-George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model — free-floating brass snares, prized for the cutting articulation that lets every stroke fire cleanly through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM, are what many extreme-tempo Pearl endorsers gravitate toward. Pete Sandoval of Morbid Angel built his gravity-blast sound on a ddrum maple snare (specific model unconfirmed) through his 2013 departure from the band, valuing the warm, controlled response that survived his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a Tama Starclassic Bubinga 14"x6.5" snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule.
+George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model — free-floating brass snares, prized for the cutting articulation that lets every stroke fire cleanly through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM, are what many extreme-tempo Pearl endorsers gravitate toward. Pete Sandoval of Morbid Angel built his gravity-blast sound on a ddrum maple snare (specific model unconfirmed) through his 2010 departure from the band — sidelined by back surgery, valuing the warm, controlled response that survived his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a Tama Starclassic Bubinga 14"x6.5" snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule.
 
 During his 2008-2018 Tama era (Testament, Dethklok), Gene Hoglan used his signature Gene Hoglan Signature 14"x8" steel snare, an exceptionally deep shell built for the thunderous power and cutting attack his metronomic "Atomic Clock" precision demands. Hoglan's current kit is Pearl Reference Pure (since 2018); no signature snare model is verified for that later era.
 
@@ -68283,7 +68283,7 @@ The extra 8" depth traded some of the instant crack a shallower shell offers for
           tier: "mid-pro",
           material: "Maple",
 
-          description: `ddrum was Pete Sandoval's snare brand throughout his Morbid Angel career, a career-long endorsement that lasted through his 2013 departure from the band — though the specific model he used is unconfirmed. This maple 14"x6.5" ddrum Dios offers the kind of warmer, more controlled response that suits gravity-blast-style technique, standing apart from the brighter metal shells favored elsewhere in extreme metal.
+          description: `ddrum was Pete Sandoval's snare brand throughout his Morbid Angel career, a career-long endorsement that lasted through his 2010 departure from the band — sidelined by back surgery — though the specific model he used is unconfirmed. This maple 14"x6.5" ddrum Dios offers the kind of warmer, more controlled response that suits gravity-blast-style technique, standing apart from the brighter metal shells favored elsewhere in extreme metal.
 
 The maple shell's warmth sits well against dense, downtuned guitar work, proving that a wood shell can still project with real authority in extreme metal's harshest sonic environment.`,
 
@@ -68307,7 +68307,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
             bestFor: "Warm, controlled response for demanding, repeated-force technique"
           },
           usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "ddrum — career-long endorsement through his 2013 Morbid Angel departure; specific model unconfirmed" }
+            { name: "Pete Sandoval", band: "Morbid Angel", note: "ddrum — career-long endorsement through his 2010 Morbid Angel departure (sidelined by back surgery); specific model unconfirmed" }
           ],
           verdict: "Best warm, controlled alternative to extreme metal's brighter metal shells. ddrum's maple shells reflect the warmth Sandoval's career-long endorsement was known for, proving wood can still cut through the chaos.",
           rating: 4.4,
@@ -68443,7 +68443,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
       },
       {
         question: "What snare did Pete Sandoval play?",
-        answer: "Pete Sandoval of Morbid Angel played ddrum snares throughout his career, through his 2013 departure from the band, valuing the warm, controlled response suited to his gravity-blast technique — the single-footed approach he pioneered in extreme metal. The specific model is unconfirmed."
+        answer: "Pete Sandoval of Morbid Angel played ddrum snares throughout his career, through his 2010 departure from the band (sidelined by back surgery), valuing the warm, controlled response suited to his gravity-blast technique — the single-footed approach he pioneered in extreme metal. The specific model is unconfirmed."
       },
       {
         question: "Steel, brass, bronze, or maple snare for extreme metal?",

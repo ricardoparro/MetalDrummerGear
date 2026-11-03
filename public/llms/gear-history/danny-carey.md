@@ -13,14 +13,14 @@
 
 ### Early Tool / Opiate Era (1992)
 
-- **Drums:** Sonor — initial configuration; standard 5-piece with minimal additions
+- **Drums:** Brand unconfirmed — not documented in any verified source; standard 5-piece with minimal additions
 - **Cymbals:** Paiste (early configuration)
 - **Notable:** Tool formed in 1990; the Opiate EP (1992) captured Carey's playing in an early, less compositionally elaborate form than would follow. His jazz and studio session background was already evident in the dynamic range and groove precision distinguishing him from contemporaries.
 
 ### Undertow / Aenima Era (1993–1996)
 
-- **Drums:** Sonor — 7-piece; 22"×18" kick, 10"×8" and 12"×9" rack toms, 14"×11" rack, 16"×16" and 18"×16" floor toms
-- **Snare:** Sonor steel 14"×5.5"
+- **Drums:** Brand unconfirmed — not documented in any verified source; 7-piece; 22"×18" kick, 10"×8" and 12"×9" rack toms, 14"×11" rack, 16"×16" and 18"×16" floor toms
+- **Snare:** Brand unconfirmed (steel shell, specifics undocumented)
 - **Cymbals:** Paiste — 14" hi-hats, 17" thin crash, 19" medium crash, 20" ride, 18" china, 22" gong
 - **Electronics:** Roland R-8 drum machine brain + kick and tom triggers
 - **Sticks:** Vic Firth 5A Hickory
@@ -31,7 +31,7 @@
 
 ### Aenima Era (1996)
 
-- **Drums:** Sonor (unchanged from Undertow touring configuration)
+- **Drums:** Brand unconfirmed (unchanged from Undertow touring configuration — not documented in any verified source)
 - **Cymbals:** Paiste (expanded — added 22" ride for Aenima's longer, more dynamic arrangements)
 - **Electronics:** Roland R-8 + additional electronic pad (drum pads for sample triggering on "Pushit," "Third Eye")
 - **Notable:** Aenima is widely cited as Carey's most creative album. Tracks like "Eulogy," "H.," and "Third Eye" showcase his integration of jazz phrasing, odd-time groove, and electronic texture in ways that have not been replicated. The 5/4 groove on "The Patient" (recorded during Aenima sessions) is frequently cited in discussions of odd-time feel.
@@ -66,7 +66,7 @@
 
 ## Key Gear Changes
 
-- **1992 → 1994:** Sonor drum kit and Paiste cymbal setup established early in Tool's history; gong and Roland R-8 electronics added
+- **1992 → 1994:** Drum brand unconfirmed for this era; Paiste cymbal setup established early in Tool's history; gong and Roland R-8 electronics added
 - **Electronics integration (1992–present):** Carey has used hybrid acoustic/electronic setups throughout Tool's entire discography — earlier and more extensively than any other drummer in comparable-profile heavy music
 - **2000:** Officially endorsed by Sonor (drums), Remo (heads), and Mandala (electronics)
 - **2019:** Expanded Sonor SQ2 Heavy Beech / Paiste Signature Series configuration for Fear Inoculum
@@ -78,13 +78,13 @@
 ## FAQ
 
 **Q: What drum kit did Danny Carey use on Undertow?**  
-A: Danny Carey used a Sonor kit on Tool's Undertow (1993), in a 7-piece configuration with a Sonor steel snare, Paiste cymbals, and Roland R-8 electronics. A Paiste gong was also part of the setup. The configuration cost approximately $5,645 in 1994 dollars, equivalent to about $12,480 adjusted for 2026 inflation.
+A: Danny Carey's drum brand on Tool's Undertow (1993) is not documented in any verified source, though he played a 7-piece configuration with Paiste cymbals and Roland R-8 electronics. A Paiste gong was also part of the setup. The configuration cost approximately $5,645 in 1994 dollars, equivalent to about $12,480 adjusted for 2026 inflation.
 
 **Q: What kit did Danny Carey use in the 90s?**  
-A: Throughout the 90s (Undertow 1993, Aenima 1996), Danny Carey used a Sonor drum kit in a 7-piece configuration. His cymbal setup featured Paiste, and he integrated Roland R-8 electronic triggers — an unusually early and sophisticated use of hybrid percussion in guitar-driven heavy music. He also kept a Paiste gong as a permanent fixture from the Undertow era onward.
+A: Throughout the 90s (Undertow 1993, Aenima 1996), Danny Carey's drum brand is not documented in any verified source — his pre-2000s kit predates his officially documented Sonor endorsement. His cymbal setup featured Paiste, and he integrated Roland R-8 electronic triggers — an unusually early and sophisticated use of hybrid percussion in guitar-driven heavy music. He also kept a Paiste gong as a permanent fixture from the Undertow era onward.
 
 **Q: What drum setup did Danny Carey use on Aenima?**  
-A: For Aenima (1996), Carey used the same Sonor kit from Undertow touring, with Paiste cymbals expanded to include a larger ride cymbal, and an additional Roland electronic pad for sample triggering on tracks like "Pushit" and "Third Eye." The gong was maintained from the Undertow configuration.
+A: For Aenima (1996), Carey's drum brand remains unconfirmed, continuing the same unidentified Undertow touring configuration, with Paiste cymbals expanded to include a larger ride cymbal, and an additional Roland electronic pad for sample triggering on tracks like "Pushit" and "Third Eye." The gong was maintained from the Undertow configuration.
 
 **Q: What cymbals does Danny Carey use?**  
 A: Danny Carey has used Paiste cymbals as his core setup throughout his Tool career, from the mid-1990s to the present. His typical configuration includes hi-hats, crashes, a ride, and a china cymbal. He has also maintained a large Paiste gong as a permanent fixture since the Undertow era.

@@ -47,10 +47,10 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Chris's Mapex Black Panther Fortress",
+      "title": "Chris's Mapex Saturn Setup",
       "brand": "Mapex",
-      "model": "Mapex Black Panther Velvetone Series",
-      "finish": "Custom Black / Lamb of God Graphics",
+      "model": "Mapex Saturn",
+      "finish": "Satin Black Maple Burl",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum",
@@ -64,18 +64,18 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple/Walnut hybrid shells"
+        "shells": "Maple shells"
       },
-      "description": "Chris Adler's Mapex Black Panther setup was the engine behind Lamb of God's crushing sound. The Velvetone series, with its hybrid maple/walnut shells, provided the perfect combination of attack and warmth that groove metal demands — punchy enough to cut, warm enough to groove.\n\nThe dual 22\" bass drums are central to Adler's approach. While he could easily have used a double pedal (and sometimes did for studio work), the dual kick configuration gave him the visual and sonic presence that matched Lamb of God's intensity. Each drum has its own distinct character, and Adler's patterns often play with subtle differences between them.\n\nThe tom configuration — two rack toms (10\" and 12\") and two floor toms (14\" and 16\") — gives Adler melodic options without overcrowding his setup. He's not a tom-heavy player; his fills serve the groove rather than showcasing chops. When he does use toms, they're placed precisely for maximum impact.\n\nMapex's Black Panther line represents their professional tier, with meticulous attention to bearing edges and shell construction. The Velvetone's maple provides fundamental attack while the walnut adds body and complexity. It's a shell combination designed for music that needs to hit hard without sacrificing tone.\n\nThroughout his career, Adler's kit remained remarkably consistent — proof that he found his voice early and never needed to chase gear upgrades. The Mapex setup served him from club shows to arena headlining without missing a beat.",
+      "description": "Chris Adler's Mapex Saturn setup was the engine behind Lamb of God's crushing sound. The all-maple shells, finished in Satin Black Maple Burl, provided the perfect combination of attack and warmth that groove metal demands — punchy enough to cut, warm enough to groove.\n\nThe dual 22\" bass drums are central to Adler's approach. While he could easily have used a double pedal (and sometimes did for studio work), the dual kick configuration gave him the visual and sonic presence that matched Lamb of God's intensity. Each drum has its own distinct character, and Adler's patterns often play with subtle differences between them.\n\nThe tom configuration — two rack toms (10\" and 12\") and two floor toms (14\" and 16\") — gives Adler melodic options without overcrowding his setup. He's not a tom-heavy player; his fills serve the groove rather than showcasing chops. When he does use toms, they're placed precisely for maximum impact.\n\nMapex's Saturn line represents their professional tier, with meticulous attention to bearing edges and shell construction. The all-maple shells deliver fundamental attack and projection without sacrificing warmth. It's a shell combination designed for music that needs to hit hard without sacrificing tone.\n\nThroughout his career, Adler's kit remained remarkably consistent — proof that he found his voice early and never needed to chase gear upgrades. The Mapex setup served him from club shows to arena headlining without missing a beat.",
       "notes": [
         "Dual bass drums for visual and sonic impact",
-        "Maple/Walnut hybrid shells for attack and warmth",
+        "All-maple shells for attack and warmth",
         "Minimal tom configuration — grooves over fills",
-        "Black Panther series represents Mapex professional tier",
+        "Saturn series represents Mapex professional tier",
         "Consistent setup throughout Lamb of God career",
-        "Custom Lamb of God graphics on touring kits"
+        "Satin Black Maple Burl finish on touring kits"
       ],
-      "estimatedValue": "$4,000-6,000 (Black Panther configuration)"
+      "estimatedValue": "$4,000-6,000 (Mapex Saturn configuration)"
     },
     "snare": {
       "title": "The Warbird: Signature Crack",

@@ -18,20 +18,20 @@ export const articles = {
     "dateModified": "2026-06-19",
     "author": "MetalForge Editorial",
     "title": "Tim Yeung Drum Kit & Gear Setup — Morbid Angel Death Metal",
-    "description": "Tim Yeung's Tama Starclassic Bubinga kit, Sabian cymbals, and Tama Speed Cobra 910 double bass pedal — the extreme death metal rig behind Morbid Angel and Hate Eternal. Complete drum setup breakdown including blast beat technique and double bass speed.",
+    "description": "Tim Yeung's Tama Starclassic Bubinga kit, Sabian cymbals, and Tama Speed Cobra 910 double bass pedal — the extreme death metal rig behind Morbid Angel and Divine Heresy. Complete drum setup breakdown including blast beat technique and double bass speed.",
     "seoKeywords": [
       "tim yeung drum setup",
       "tim yeung drum kit",
       "morbid angel drummer kit",
       "tim yeung blast beat",
       "tim yeung double bass speed",
-      "hate eternal drummer gear",
+      "divine heresy drummer gear",
       "tim yeung tama drums",
       "tim yeung sabian cymbals"
     ],
     "ogImage": "/images/drummers/tim-yeung.webp",
     "quickFacts": {
-      "kit": "Tama Starclassic Bubinga",
+      "kit": "Tama Starclassic Bubinga (since 2005 — Morbid Angel/Divine Heresy only; his Hate Eternal tenure, 1997-2000, predates this kit)",
       "cymbals": "Sabian",
       "doublePedals": "Tama Speed Cobra 910 Double Pedal",
       "sticks": "Vic Firth American Classic 5A",
@@ -47,7 +47,7 @@ export const articles = {
         "Sabian cymbals throughout his career — fast, aggressive, purpose-built for extreme metal",
         "Tama Speed Cobra 910 double pedal — direct-drive action for sustained 200–280 BPM double kick",
         "Known for extreme blast beat speed and relaxed double-bass technique at high tempos",
-        "Also recorded with Hate Eternal and Divine Heresy — crossover with Erik Rutan's extreme metal universe"
+        "Also recorded with Hate Eternal (1997-2000, pre-Tama) and Divine Heresy — crossover with Erik Rutan's extreme metal universe"
       ]
     },
     "drumKit": {
@@ -300,7 +300,7 @@ export const articles = {
         "Tim Yeung's blast beats on the title track run at approximately 200 BPM",
         "\"Inferno of Violence\" isolates his double bass technique at roughly 195 BPM",
         "\"Anarchists of the Underground\" demonstrates a groove-within-brutality approach at around 185 BPM",
-        "Same Tama Starclassic Bubinga / Sabian / Tama Speed Cobra 910 setup Yeung uses across his Morbid Angel and Hate Eternal work"
+        "Same Tama Starclassic Bubinga / Sabian / Tama Speed Cobra 910 setup Yeung uses across his Morbid Angel work (adopted 2005, after his 1997-2000 Hate Eternal tenure)"
       ]
     },
     "drumKit": {
@@ -322,9 +322,9 @@ export const articles = {
         ],
         "shells": "Bubinga — Tama Starclassic Bubinga construction"
       },
-      "description": "Tim Yeung's Tama Starclassic Bubinga kit on Bleed the Fifth is the same dense bubinga-shell configuration that anchors his Morbid Angel and Hate Eternal work — high-mass shells built for the sub-bass physical impact that extreme double kick demands. At the title track's roughly 200 BPM blast tempo, the double 22\" x 18\" bass drums generate the low-end mass that makes each stroke register as a physical event rather than a blur, while the compact four-tom spread (10\", 12\" rack toms; 16\", 18\" floor toms) supports the transitional fills that punctuate Dino Cazares's riff-driven arrangements without adding unnecessary complexity to a kit built for speed.\n\nRecorded at Undercity Studios under Logan Mader, the kit's tone favors clarity and articulation across extended blast passages — a production choice that lets \"Inferno of Violence\"'s extended double bass runs stay audible as individual strokes rather than collapsing into an undifferentiated low-frequency wash.",
+      "description": "Tim Yeung's Tama Starclassic Bubinga kit on Bleed the Fifth is the same dense bubinga-shell configuration that anchors his Morbid Angel work — high-mass shells built for the sub-bass physical impact that extreme double kick demands. At the title track's roughly 200 BPM blast tempo, the double 22\" x 18\" bass drums generate the low-end mass that makes each stroke register as a physical event rather than a blur, while the compact four-tom spread (10\", 12\" rack toms; 16\", 18\" floor toms) supports the transitional fills that punctuate Dino Cazares's riff-driven arrangements without adding unnecessary complexity to a kit built for speed.\n\nRecorded at Undercity Studios under Logan Mader, the kit's tone favors clarity and articulation across extended blast passages — a production choice that lets \"Inferno of Violence\"'s extended double bass runs stay audible as individual strokes rather than collapsing into an undifferentiated low-frequency wash.",
       "notes": [
-        "Same Tama Starclassic Bubinga configuration Yeung plays across his Morbid Angel and Hate Eternal catalogue",
+        "Same Tama Starclassic Bubinga configuration Yeung plays across his Morbid Angel catalogue",
         "Double 22\" x 18\" bass drums generate sub-bass mass for extreme double kick tempos",
         "Compact four-tom spread matched to Divine Heresy's riff-driven arrangement style",
         "Recorded, mixed, and mastered at Undercity Studios, North Hollywood, February–May 2007"

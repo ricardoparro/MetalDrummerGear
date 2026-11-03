@@ -22,7 +22,7 @@
 ### Slipknot Self-Titled Era (1999)
 
 - **Drums:** Pearl Reference Series — custom matte black finish; 24"×18" kick, 10"×8" and 12"×9" racks, 14"×14" and 16"×16" floors
-- **Snare:** Pearl Reference 14"×5" maple/birch 20-ply hybrid
+- **Snare:** Pearl Reference 13"×6.5" maple/birch 20-ply hybrid
 - **Cymbals:** Paiste Signature — 14" Heavy hi-hats, 18" Power Crash, 20" Full Crash, 22" Power Ride, 20" Novo China
 - **Pedal:** Pearl Eliminator double pedal + DR-503C Icon Rack
 - **Sticks:** Ahead Joey Jordison Signature (aluminum alloy, 16.5" length)
@@ -33,7 +33,7 @@
 ### Iowa Era (2001)
 
 - **Drums:** Pearl Reference Series — same shell configuration as debut; hardware rebuilt for the rotating riser
-- **Snare:** Pearl Reference 14"×5" maple/birch 20-ply hybrid (same model, re-tuned)
+- **Snare:** Pearl Reference 13"×6.5" maple/birch 20-ply hybrid (same model, re-tuned)
 - **Cymbals:** Paiste Signature — 14" Heavy hi-hats, 18" and 19" Power Crash, 20" Full Crash, 22" Power Ride, 20" Novo China
 - **Pedal:** Pearl Eliminator double pedal (chain drive, updated cam mechanism)
 - **Sticks:** Ahead Joey Jordison Signature (aluminum alloy, 16.5" length)
@@ -47,7 +47,7 @@
 ### Vol. 3: The Subliminal Verses Era (2004)
 
 - **Drums:** Pearl Reference (same shell pack, updated hardware finish — natural maple for studio sessions)
-- **Snare:** Pearl Reference 14"×5" + second snare added for fills
+- **Snare:** Pearl Reference 13"×6.5" + second snare added for fills
 - **Cymbals:** Expanded Paiste Signature stack with additional crashes (added 17" and 20" crashes to the configuration)
 - **Pedal:** Pearl Eliminator Demon Drive (upgraded double pedal)
 - **Added:** Extended rack configuration with more tom positions; second snare for rapid snare-to-snare fill passages
@@ -56,22 +56,22 @@
 ### All Hope Is Gone Era (2008)
 
 - **Drums:** Pearl Reference Pure (updated Reference with pure maple shells, thinner for more resonance)
-- **Snare:** Pearl Reference Pure 14"×5.5"
+- **Snare:** Pearl Reference Pure 13"×6.5"
 - **Cymbals:** Paiste Signature (expanded configuration — additional hi-hat stack for performance effects)
 - **Pedal:** Pearl Eliminator Demon Drive double pedal
 - **Added:** Roland SPD electronic pads integrated alongside acoustic kit for hybrid triggering
 - **Electronics:** Expanded ddrum trigger system
-- **Sticks:** Ahead Joey Jordison Signature
+- **Sticks:** Promark TX515W Joey Jordison Signature (switched from Ahead aluminum sticks in 2008)
 
 ### .5: The Gray Chapter / Post-Slipknot Era (2014–2021)
 
 - **Context:** After leaving Slipknot in December 2013, Joey battled transverse myelitis — a rare spinal condition that temporarily paralysed his legs — before returning to drumming
 - **Drums:** Pearl Reference Pure (stripped-back configuration; removed rotating riser)
 - **Added:** Roland SPD electronic pads for hybrid triggering in solo and side-project work (Vimic, Sinsaenum)
-- **Snare:** Pearl Joey Jordison Signature Steel snare (14"×5") — re-issued posthumously
+- **Snare:** Pearl Joey Jordison Signature Steel snare (13"×6.5") — re-issued posthumously
 - **Cymbals:** Paiste Signature (reduced configuration for smaller venues)
 - **Pedal:** Pearl Eliminator Demon Drive
-- **Sticks:** Ahead Joey Jordison Signature
+- **Sticks:** Promark TX515W Joey Jordison Signature
 - **Notable:** Joey's return to drumming after his illness was considered remarkable by medical professionals. His final recordings with Sinsaenum (2018) demonstrated no loss of technical ability.
 
 ---
@@ -83,6 +83,7 @@
 - **2004:** Added second snare drum for Vol. 3 snare-to-snare fill passages
 - **2001 riser engineering:** Pearl Reference hardware modified for the rotating drum riser platform
 - **2008:** Integrated Roland SPD electronic pads for hybrid triggering
+- **2008:** Switched sticks from Ahead Joey Jordison Signature (aluminum alloy) to Promark TX515W Joey Jordison Signature
 - **2013:** Left Slipknot; subsequent setups stripped the riser and reduced kit complexity
 - **2014:** Battled transverse myelitis — temporary leg paralysis that required complete re-learning of pedal technique
 - **2021:** Passed away July 26, 2021; Pearl re-issued the Joey Jordison Signature snare posthumously
@@ -104,10 +105,10 @@ A: Joey primarily used Pearl Eliminator double pedals throughout his career. He 
 A: Joey's Pearl Reference kit was custom-engineered for the rotating drum riser with reinforced hardware mounts and custom rack positioning. The riser rotated 360° during live performances, requiring the entire kit — cymbals, pedals, and electronics — to function inverted. Pearl's endorsement team worked with Slipknot's production crew to modify standard hardware for this purpose.
 
 **Q: What snare did Joey Jordison use?**  
-A: Joey's primary snare was a Pearl Reference 14"×5" maple/birch 20-ply hybrid throughout the Slipknot albums. He later had a signature steel snare (14"×5") manufactured by Pearl, which was re-issued posthumously after his passing in 2021.
+A: Joey's primary snare was a Pearl Reference 13"×6.5" maple/birch 20-ply hybrid throughout the Slipknot albums. He later had a signature steel snare (13"×6.5") manufactured by Pearl, which was re-issued posthumously after his passing in 2021.
 
 **Q: What sticks did Joey Jordison use?**  
-A: Joey used Ahead Joey Jordison Signature sticks — aluminum core with a nylon sleeve, 16.5" in length. The aluminum core provided exceptional durability at the extreme velocities required for Slipknot's double-bass patterns and blast beats.
+A: Joey used Ahead Joey Jordison Signature sticks — aluminum core with a nylon sleeve, 16.5" in length — from his 1999 Pearl endorsement until 2008, when he switched to Promark TX515W Joey Jordison Signature sticks for the remainder of his career. The earlier aluminum core provided exceptional durability at the extreme velocities required for Slipknot's double-bass patterns and blast beats.
 
 ---
 

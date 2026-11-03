@@ -61,7 +61,7 @@ The 22" 2002 Heavy Ride sustained its clear bell character under Benante's power
 
 For All Kings is the record that completed Charlie Benante's modern discography and confirmed that his creative and technical peak was not behind him but ongoing. The Grammy nomination for "Evil Twin," the #9 US and #7 UK chart debuts, and the critical consensus that the album ranked among Anthrax's finest work all pointed to the same conclusion: 33 years into his professional career, Charlie Benante was playing and composing at the highest level of his life.
 
-The drum sound on For All Kings — captured by Jay Ruston at Sphere Studios with five years of refined experience working with Benante's setup — is the definitive modern documentation of his playing: the Tama Starclassic Maple's warm, balanced tone; the signature snare's authoritative crack; the Speed Cobra double bass in its most settled and mature expression; and the Paiste 2002/Signature/RUDE cymbal configuration that served every moment of the album's widest compositional range.
+The drum sound on For All Kings — captured by Jay Ruston at Sphere Studios with five years of refined experience working with Benante's setup — is the definitive modern documentation of his playing: the Tama Starclassic Maple's warm, balanced tone; the signature snare's authoritative crack; the Speed Cobra double bass in its first confident studio outing following Benante's 2013 switch; and the Paiste 2002/Signature/RUDE cymbal configuration that served every moment of the album's widest compositional range.
 
 For the album that preceded For All Kings and initiated the modern Grammy-era arc, see the [Worship Music drum setup article](/articles/worship-music-drum-setup). For the John Bush transition era, visit the [Sound of White Noise drum setup](/articles/sound-of-white-noise-drum-setup). For the classic thrash foundation, see [Among the Living drum setup](/articles/charlie-benante-among-the-living-drum-setup). For Charlie's complete career and current gear, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax).
 
@@ -70,7 +70,7 @@ For the album that preceded For All Kings and initiated the modern Grammy-era ar
 - Grammy nominated: Best Metal Performance for 'Evil Twin' (59th Grammy Awards, 2017) — second consecutive Grammy nod after Worship Music
 - Debuted #9 US Billboard 200 and #7 UK Albums Chart — strongest UK chart position in decades
 - Jay Ruston returns for second consecutive Anthrax album — most refined Sphere Studios drum sound to date
-- Five years of Tama Speed Cobra experience fully evident in the double bass performance
+- Benante's first Anthrax studio album recorded on Tama Speed Cobra pedals, after switching from his chain-drive setup in 2013
 - Widest compositional range of any modern Anthrax album — thrash, groove, atmospheric all present
 - Closes the arc: Sound of White Noise (1993) → Worship Music (2011) → For All Kings (2016)
 - Same Starclassic Maple configuration as Worship Music — five years of touring familiarity behind every performance
@@ -97,11 +97,11 @@ A: 'Evil Twin' from For All Kings (2016) features Charlie Benante on Tama Starcl
 
 **Q: How does For All Kings compare to Worship Music drum-wise?**
 
-A: For All Kings (2016) and Worship Music (2011) share the same fundamental Charlie Benante configuration — Tama Starclassic Maple, Speed Cobra pedals, Tama signature snare, Paiste cymbals — but differ in execution and production. By For All Kings, Benante had six years of Speed Cobra experience versus approximately one year at Worship Music, producing a more relaxed and precise double bass performance. Jay Ruston's production for For All Kings added more low-end weight to the kick drums and more dimensional depth to the toms compared to Worship Music's brighter presentation. The album's wider compositional range also pushed Benante into more atmospheric and dynamic territory than Worship Music's more unified thrash focus. See the [Worship Music drum setup article](/articles/worship-music-drum-setup) for the direct comparison.
+A: For All Kings (2016) and Worship Music (2011) share the same fundamental Charlie Benante configuration — Tama Starclassic Maple, Tama signature snare, Paiste cymbals — but differ in pedals, execution, and production. Worship Music was recorded on Benante's original chain-drive pedal setup; For All Kings was his first Anthrax studio album on Tama Speed Cobra pedals, following his 2013 switch. Jay Ruston's production for For All Kings added more low-end weight to the kick drums and more dimensional depth to the toms compared to Worship Music's brighter presentation. The album's wider compositional range also pushed Benante into more atmospheric and dynamic territory than Worship Music's more unified thrash focus. See the [Worship Music drum setup article](/articles/worship-music-drum-setup) for the direct comparison.
 
 **Q: What Anthrax albums has Charlie Benante recorded with Tama Speed Cobra pedals?**
 
-A: Charlie Benante switched to Tama Speed Cobra pedals around 2010, replacing the chain-drive pedal setup he had used for years. Both modern Anthrax studio albums — Worship Music (2011) and For All Kings (2016) — were recorded with Speed Cobra pedals. Worship Music was the first Anthrax album with Speed Cobras (approximately one year of familiarity at the time of recording); For All Kings was the second (six years of experience). All subsequent Anthrax touring and session work, including his role in Pantera's reunion tour from 2022, used the Speed Cobra configuration. For the full modern kit overview, see [What's In Charlie Benante's Kit](/articles/whats-in-charlie-benantes-kit).
+A: Charlie Benante switched to Tama Speed Cobra pedals in 2013, replacing the chain-drive pedal setup he had used since 1984. Worship Music (2011) predates the switch and was recorded on the original chain-drive setup. For All Kings (2016) is the first Anthrax studio album recorded with Speed Cobra pedals. All subsequent Anthrax touring and session work, including his role in Pantera's reunion tour from 2022, used the Speed Cobra configuration. For the full modern kit overview, see [What's In Charlie Benante's Kit](/articles/whats-in-charlie-benantes-kit).
 
 ## Related Articles
 
@@ -121,4 +121,4 @@ A: Charlie Benante switched to Tama Speed Cobra pedals around 2010, replacing th
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

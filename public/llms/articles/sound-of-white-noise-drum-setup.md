@@ -89,7 +89,7 @@ A: Charlie Benante used the same Tama Artstar Custom birch kit on Sound of White
 
 **Q: Did Charlie Benante switch drum brands for Sound of White Noise?**
 
-A: No. Charlie Benante stayed on his Tama kit and Paiste cymbals for Sound of White Noise, the same brands he had endorsed since the mid-1980s. The album's groove-metal pivot and Dave Jerden's mid-range-heavy production aesthetic were achieved through tuning, damping, and room-heavy miking, not a change in equipment. Benante didn't move away from Tama drums, Paiste cymbals, and Vic Firth sticks until decades later, when he added Roland electronics and switched to Tama's Speed Cobra pedals in 2010.
+A: No. Charlie Benante stayed on his Tama kit and Paiste cymbals for Sound of White Noise, the same brands he had endorsed since the mid-1980s. The album's groove-metal pivot and Dave Jerden's mid-range-heavy production aesthetic were achieved through tuning, damping, and room-heavy miking, not a change in equipment. Benante didn't move away from Tama drums, Paiste cymbals, and Vic Firth sticks until decades later, when he added Roland electronics and switched to Tama's Speed Cobra pedals in 2013.
 
 **Q: What cymbals did Charlie Benante use on Sound of White Noise?**
 
@@ -118,4 +118,4 @@ A: Sound of White Noise represents a fundamental change in Charlie Benante's dru
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

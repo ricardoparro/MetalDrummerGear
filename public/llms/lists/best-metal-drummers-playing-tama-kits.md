@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Tama Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits)
+> **Last updated:** 2026-11-03 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits)
 
 ---
 
@@ -50,9 +50,9 @@ Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer
 
 **Band:** Anthrax / S.O.D.
 **Highlight:** Tama Starclassic Maple — Anthrax's Big Four foundation
-**Why ranked here:** Charlie Benante has endorsed Tama drums and hardware since Anthrax's late-1980s rise, running a Tama Artstar II for 1987's "Among the Living" before settling into his current Tama Starclassic Maple kit with a Tama Charlie Benante signature snare. He also switched from a vintage Camco-style pedal to the Tama Speed Cobra in 2010, one of the longest single-pedal tenures documented in MetalForge's gear data. Benante earns rank #4 as one of the Big Four's two Tama-endorsing drummers.
+**Why ranked here:** Charlie Benante has endorsed Tama drums and hardware since Anthrax's late-1980s rise, running a Tama Artstar II for 1987's "Among the Living" before settling into his current Tama Starclassic Maple kit with a Tama Charlie Benante signature snare. He also switched from a vintage Camco-style pedal to the Tama Speed Cobra in 2013, one of the longest single-pedal tenures documented in MetalForge's gear data. Benante earns rank #4 as one of the Big Four's two Tama-endorsing drummers.
 
-Charlie Benante (Anthrax / S.O.D.) earns rank #4 for: tama starclassic maple — anthrax's big four foundation. Charlie Benante has endorsed Tama drums and hardware since Anthrax's late-1980s rise, running a Tama Artstar II for 1987's "Among the Living" before settling into his current Tama Starclassic Maple kit with a Tama Charlie Benante signature snare. He also switched from a vintage Camco-style pedal to the Tama Speed Cobra in 2010, one of the longest single-pedal tenures documented in MetalForge's gear data. Benante earns rank #4 as one of the Big Four's two Tama-endorsing drummers..
+Charlie Benante (Anthrax / S.O.D.) earns rank #4 for: tama starclassic maple — anthrax's big four foundation. Charlie Benante has endorsed Tama drums and hardware since Anthrax's late-1980s rise, running a Tama Artstar II for 1987's "Among the Living" before settling into his current Tama Starclassic Maple kit with a Tama Charlie Benante signature snare. He also switched from a vintage Camco-style pedal to the Tama Speed Cobra in 2013, one of the longest single-pedal tenures documented in MetalForge's gear data. Benante earns rank #4 as one of the Big Four's two Tama-endorsing drummers..
 
 Full drummer profile: [Charlie Benante on MetalForge](https://metalforge.io/drummer/charlie-benante)
 
@@ -137,4 +137,4 @@ A: Hannes Grossmann is the clearest example: he built a Tama Starclassic Maple k
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

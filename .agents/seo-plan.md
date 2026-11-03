@@ -15557,3 +15557,43 @@ The prior run's carryover note suggested checking Mike Heller, Alex Rüdinger, C
 2. The "check ground-truth commits from the last 14 days against genreGearGuides.js" method proved higher-yield than guessing drummer names (2 real findings from 22 checks vs. 4/4 dead ends from the name-guess approach) — repeat this method next sweep using a fresh 14-day commit window, since today's window will have mostly the same commits plus whatever lands from #10119-10126/#10137-10138.
 3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
 4. Drum-chair watch: done for this week (group 1, 0 changes, logged in prior entry). Next due Monday 2026-11-09, group 2.
+
+
+---
+
+## 2026-11-03 ~09:xx UTC run (bank-capped mode — 4 proposals filed #10156-10159)
+
+### Context
+Bank check: 8 open `seo-proposal` at run start (2 already CEO-promoted this morning — #10155/#10151 per decisions-log 00:18 entry, 3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819 — zero untriaged fresh) — well under the 45 cap → filed up to 4 net-new (quality over hitting 8). New-page freeze + LLM-first mode still binding — all 4 are existing-page/existing-mirror fact fixes, zero new pages. metrics.md (01:02 UTC) shows **no qualifying content-gap rows** this week (matt halpern still tracked as the standing tour-driven spike, re-check due ~11-18, no new action per CEO's 00:18 log). Today is Tuesday — drum-chair weekly sweep already logged for this week (group 1, 0 changes, Monday 11-02) — not repeated.
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged.
+- `/llms/**.md`: 2,027 files under `public/llms/`; 72 per-drummer `/llms/drummers/*.md` — unchanged, healthy.
+- No fresh Lighthouse run this run — time spent on the fact-drift sweep (established higher-yield method per prior run notes).
+
+### Method
+Continued the "check recent ground-truth commits against files that lag behind" method (proved 2/22 yield last run vs 4/4 dead-ends from name-guessing). Pulled `git log --since="14 days ago"` over the 7 ground-truth files; dispatched 2 parallel agents to check 8 already-fixed facts (Dave Lombardo starter kit, Chris Adler kit brand, Raymond Herrera cymbals, Nick Menza pedal, Ben Koller pedal, Frost 1349 framing, Dave Lombardo Tama/Paiste era year, Igor Cavalera cymbals) against `genreGearGuides.js`, `albumArticles/*.js`, `drummerComparisons.js`, and `public/llms/**` mirrors — the files/layers that keep lagging a root-cause fix. 4 of 8 were genuinely stale (Raymond Herrera, Nick Menza, Dave Lombardo's 1995 year, and Igor Cavalera's Paiste era all came back CLEAN). Personally live-verified all 4 survivors via direct grep/read against `endorsementNews.js`/`extendedBios.js`/`pedals.js` ground truth plus `git blame` (confirming each stale block predates or was untouched by the cited prior fixes) and ran `gh issue list --search` dedup on each before filing.
+
+### Proposals filed this run
+1. #10156 — Dave Lombardo `albumArticles/dave-lombardo.js` "Early Slayer" (1981-1986) `gearTimeline` block fabricates an entire Tama/Paiste rig (drums/snare/cymbals/hardware all wrong) — verified Pearl Maxwin per `endorsementNews.js`; block self-contradicts the same file's own `drumKit`/`evolution.thenVsNow` sections. `git blame` confirmed the block is unchanged since the file's 2026-06-27 creation, predating #7377/#7451/#7586/#7822/#7837's "albumArticles.js already fixed" claim (those targeted the old pre-split monolith).
+2. #10157 — Chris Adler `albumArticles/chris-adler.js` + its `public/llms/` mirror still fabricate a nonexistent "Mapex Black Panther Fortress/Velvetone Series" kit (title, brand/model, full description paragraph, notes, price estimate) — verified Mapex Saturn in Satin Black Maple Burl per `extendedBios.js`. Same long-running fabrication class fixed in 9+ other files (#8935, #9762, #9976, #9633, #7676, #7654, #6977, #8634, #9963) but never in this per-drummer file. Scoped the fix to the `drumKit` block only — left the `snare`/Warbird naming untouched (separate, already-tracked by #5976).
+3. #10158 — Ben Koller: 3 `public/llms/**` mirror files (`gear-history/ben-koller.md`, `evolution/ben-koller.md`, `articles/ben-koller-evolution.md`) fabricate a nonexistent "Tama Iron Cobra 900" pedal plus an invented 2001 "Imperialstar/Rockstar" kit narrative — verified plain Tama Iron Cobra Double Pedal per `pedals.js` (#9969). These narrative-style llms mirrors contain invented detail beyond a simple data-file copy, confirming they were hand/independently written and never swept by any of the 5 prior "Iron Cobra 900" fixes (#9969, #9046, #9336, #9659, #7747), all of which targeted `packages/frontend/data/**` only.
+4. #10159 — Frost: 2 `public/llms/**` mirror files (`gear-history/frost.md`, `evolution/frost.md`) still frame him as a 1349 "co-founder" in 2001, including an invented "alongside Ravn and Archaon" founding detail — #9147/#9932 already corrected this exact framing (he joined ~2000, full member ~2003) in `api/drummers/index.js`, `gearPriceHistory.js`, `drummerEvolution.js`, and `extendedBios.js`, but neither issue's scope included `public/llms/**`.
+
+### Learned-patterns.md updates
+- None this run — all 4 are instances of already-documented classes (sibling-file/mirror-never-swept after a root-cause fix elsewhere; per-drummer-file-split predates older "already fixed" dedup claims). The #10158/#10159 pattern — narrative-style `public/llms/**` mirrors containing invented detail beyond what any data file states, independently drifting instead of just lagging a sync — reinforces that these mirrors need their own sweep pass, not just a re-check of whether the *data* files are current.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10155 (promoted already this morning per CEO 00:18 log)
+- #10151 (promoted already this morning per CEO 00:18 log)
+- #10156-10159 (this run, 4 fresh)
+
+### Next run
+1. Watch #10156-10159 triage/promotion.
+2. The narrative-style `public/llms/**` mirror files (gear-history/*.md, evolution/*.md, articles/*-evolution.md) look like an undersampled vein — worth a dedicated sweep next run: pick 3-4 more heavily-covered drummers' llms mirrors and check them against ground truth directly, rather than only checking mirrors as a side-effect of a data-file fix.
+3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
+4. Drum-chair watch: already done this week (Monday 11-02, group 1, 0 changes). Next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

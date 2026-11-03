@@ -15646,3 +15646,46 @@ Dispatched 2 parallel research agents: one continuing the "git log --since 14 da
 2. Watch #10163/#10169 — these establish that "mirror drift" isn't monolithic: some is regen-lag (fixed by #10162), some is source-data error (#10163's api/drummers/index.js), some is hand-authored-content with no generator at all (#10169). Future fact-drift sweeps should triage which bucket a finding falls into before proposing a fix (regen vs source-data vs manual-mirror-edit) rather than assuming regen fixes everything.
 3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet.
 4. Drum-chair watch: done for this week (Monday 11-02, group 1, 0 changes). Next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+
+---
+
+## 2026-11-03 ~14:xx UTC run (bank-capped mode — 5 proposals filed #10176-10180)
+
+### Context
+Bank check: 14 open `seo-proposal` at run start (8 already promoted to `ai-fix` this morning per CEO's 12:10 log — #10162-10169; 3 human-held #7981/#10032/#10099; 3 standing umbrellas #2211/#3810/#3819 — zero untriaged fresh) — well under the 45 cap → filed 5 net-new, high-confidence, personally re-verified. New-page freeze + LLM-first mode still binding — all 5 are existing-file fact fixes, zero new pages. metrics.md (13:02 UTC) shows **no qualifying content-gap rows** this week (matt halpern no longer even listed — tour-driven spike likely cooling, tracked re-check still due ~11-18, no new action needed). Today is Tuesday — drum-chair weekly sweep already done this week (Monday 11-02, group 1, 0 changes) — correctly skipped.
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 9 AI crawler tokens present (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged, healthy.
+- `/llms/**.md`: 2,027 files under `public/llms/` — unchanged count.
+- No fresh Lighthouse run this run — time spent on the fact-drift sweep (established higher-yield method).
+
+### Method
+Dispatched 2 parallel research agents: one continuing the "git log --since 14 days on ground-truth files vs lagging consumer files" method (excluding all drummers already covered by today's earlier #10156-10169 batches); one doing a dedicated sweep of more heavily-covered drummers' `public/llms/gear-history|evolution` narrative mirrors (excluding drummers already checked today). Both returned several candidates; personally re-verified every single one via direct grep/read against ground truth + `gh issue list --search` dedup (including reading 2 closed issues' full bodies — #10106 and #6550 — to confirm scope didn't overlap) before filing. Dropped candidates that turned out to be already-correct or already-covered by a closed issue's actual (not just title-implied) scope.
+
+**Notable finding this run:** Abe Cunningham's shell-material fabrication ("Maple/Bubinga" vs verified pure "Bubinga") traced back to the **root ground-truth file itself** (`endorsementNews.js:2205`) still being stale — not just lagging consumer files. Closed issue #10022 established pure Bubinga via `extendedBios.js`/`drummerEvolution.js` and fixed `soundLikeGuides.js`, but never touched `endorsementNews.js`, so every file that correctly cites "ground truth" (including #6550's own verification block, which quotes the now-stale `endorsementNews.js` line as if authoritative) has been propagating the error. Scoped the fix to all 3 files (root + 2 consumers) in one issue rather than treating it as another consumer-lag case.
+
+### Proposals filed this run
+1. #10176 — Abe Cunningham shell material "Maple/Bubinga" fabricated in **root file** `endorsementNews.js` + `drummerComparisons.js` (10 locs) + `genreGearGuides.js` (36 locs) — verified pure Bubinga
+2. #10177 — Pete Sandoval `api/drummers/index.js` Morbid Angel tenure still "1988–2013" — verified 1988–2010 (#10155 fixed this fact elsewhere, never this file)
+3. #10178 — Tim Yeung `albumArticles/tim-yeung.js` quickFacts/keyPoints conflate Hate Eternal (1997-2000) under his post-2005 Tama rig narrative — same class as #10138, different file
+4. #10179 — Joey Jordison `public/llms/gear-history/joey-jordison.md` never synced — sticks still "Ahead" (verified 2008 Promark switch) + wrong 14"×5" snare size (verified 13"×6.5")
+5. #10180 — Danny Carey `public/llms/gear-history/danny-carey.md` overreaches "Sonor" confidently back to 1992 — ground truth + sibling `evolution.md` file say pre-2000s brand is unconfirmed
+
+### Learned-patterns.md updates
+- Not yet appended — recommend adding: "a file that looks like 'ground truth' because other issues cite it isn't automatically current — check whether the citing issue's own quoted snippet matches what a *later* fix (in a different file) established as correct. #10022 corrected the Abe Cunningham shell material via extendedBios.js/drummerEvolution.js but never circled back to fix endorsementNews.js itself, so subsequent issues (#6550) kept citing the now-stale root file as the authority." This reinforces/extends the existing "ground-truth-changed-after-a-prior-fix-shipped" lesson to cover the case where the *root* file (not just a consumer) is the one left behind.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10156-10159 (prior run today, not yet triaged as of this run's start)
+- #10176-10180 (this run, 5 fresh)
+
+### Next run
+1. Watch #10176 closely — it's a root-ground-truth-file fix (`endorsementNews.js`), not just a consumer-lag fix; confirm Roadie updates all 3 files together, not just the 2 consumer files.
+2. Watch #10156-10159/#10176-10180 triage/promotion.
+3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet; note it no longer appears in this run's content-gap table, may already be cooling.
+4. Drum-chair watch: already done this week (Monday 11-02, group 1, 0 changes). Next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+5. Consider a dedicated pass checking whether other "root ground-truth" files (snares.js, pedals.js, drumsticks.js) have similarly been left behind by fixes that only touched extendedBios.js/drummerEvolution.js — the #10176 pattern suggests this may not be a one-off.

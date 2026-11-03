@@ -16,7 +16,7 @@
 - **Drums:** Pearl Export Series — 22"×16" kick (×2 for true double bass), 12"×10" rack, 14"×14" floor
 - **Snare:** Pearl steel snare 14"×5.5" (8-lug)
 - **Cymbals:** Sabian B8 Series — 14" hi-hats, 16" Thin Crash, 18" Medium Crash, 20" Ride, 16" China
-- **Pedal:** DW 5000 Turbo single pedal (×2 — one per bass drum)
+- **Pedal:** ddrum hardware (×2 — one per bass drum; specific pedal model not publicly documented)
 - **Sticks:** Pro-Mark 747 Oak, wood tip
 - **Heads:** Remo Ambassador (clear toms, coated snare batter, Powerstroke P3 kick)
 - **Original setup cost (1989):** ~$1,591
@@ -28,7 +28,7 @@
 - **Drums:** Pearl Export Professional — modest upgrade from the Export to the Professional shell pack
 - **Snare:** Pearl steel snare 14"×5.5" (unchanged)
 - **Cymbals:** Sabian B8 Pro Series (upgraded from B8) — 14" hi-hats, 16" crash, 18" crash, 20" ride, 16" China
-- **Pedal:** DW 5000 Turbo (unchanged)
+- **Pedal:** ddrum hardware (unchanged; specific pedal model not publicly documented)
 - **Notable:** Blessed Are the Sick's more mid-paced passages alongside Sandoval's faster sections demonstrated his dynamic range — the B8 Pro upgrade improved cymbal response on the slower, groove-oriented portions of the album.
 
 ### Covenant Era (1993)
@@ -36,7 +36,7 @@
 - **Drums:** Tama Starclassic Maple — first Tama endorsement; 6-piece; 22"×18" kick ×2, 10"×8" and 12"×9" racks, 14"×14" and 16"×16" floors
 - **Snare:** Tama steel snare 14"×6" (deeper shell for more body)
 - **Cymbals:** Sabian AAX Stage Series (upgraded from B8 Pro to professional AAX tier)
-- **Pedal:** DW 5002 chain drive (×2 — one per kick drum)
+- **Pedal:** ddrum hardware (×2 — one per kick drum; specific pedal model not publicly documented)
 - **Sticks:** Vic Firth 5B Hickory, wood tip
 - **Heads:** Remo Emperor (clear toms), Powerstroke P3 (kick), Controlled Sound (snare)
 - **Original setup cost (1993):** ~$3,200
@@ -48,23 +48,23 @@
 - **Drums:** Tama Starclassic Maple (updated finish and hardware)
 - **Snare:** Tama steel snare 14"×6"
 - **Cymbals:** Sabian AAX (unchanged configuration; added second China for live setup)
-- **Pedal:** DW 5002 (×2)
+- **Pedal:** ddrum hardware (×2; specific pedal model not publicly documented)
 - **Notable:** Morbid Angel's commercial peak touring years. Sandoval's rig was stable through this period, with hardware modifications for stage durability. The added China cymbal for live performances reflects the larger, more theatrical stage setup afforded by major-label touring budgets.
 
 ### Later Career and Retirement (2000s)
 
 - **Drums:** Tama Starclassic Maple (custom finish)
 - **Cymbals:** Sabian AAX and HHX Series
-- **Pedal:** DW 9000 (upgraded spring tension for sustained touring)
-- **Notable:** Pete Sandoval was forced to retire from drumming in 2013 following a back surgery that impaired his ability to play double bass at full speed. His gear across the later career years remained Tama/Sabian, with the DW 9000 replacing the 5002 for improved ergonomics.
+- **Pedal:** ddrum hardware (specific pedal model not publicly documented)
+- **Notable:** Pete Sandoval was forced to retire from drumming in 2013 following a back surgery that impaired his ability to play double bass at full speed. His gear across the later career years remained Tama/Sabian, with ddrum covering his hardware/pedal endorsement throughout.
 
 ---
 
 ## Key Gear Changes
 
-- **1989:** Pearl Export + Sabian B8 + DW 5000 — true double-kick configuration from day one
+- **1989:** Pearl Export + Sabian B8 + ddrum hardware — true double-kick configuration from day one
 - **1991:** Pearl Export Professional upgrade; Sabian B8 Pro cymbal upgrade
-- **1993:** Full Tama Starclassic Maple endorsement; Sabian AAX; DW 5002 pedal
+- **1993:** Full Tama Starclassic Maple endorsement; Sabian AAX; ddrum hardware continued (specific pedal model not publicly documented)
 - **True double-kick philosophy:** Sandoval always used two separate bass drums (not a double pedal on one drum) — a configuration shared with Dave Lombardo and considered the highest standard for extreme-speed double bass in death metal
 - **2013:** Retirement due to back surgery — ended one of death metal's most influential drumming careers
 
@@ -73,10 +73,10 @@
 ## FAQ
 
 **Q: What drum kit did Pete Sandoval use on Altars of Madness?**  
-A: On Altars of Madness (1989), Pete Sandoval used a Pearl Export Series kit with two separate 22"×16" bass drums, a Pearl steel snare (14"×5.5"), Sabian B8 cymbals, and two DW 5000 Turbo single pedals (one per kick drum). The setup cost approximately $1,591 at the time — equivalent to around $4,200 adjusted for 2026 inflation.
+A: On Altars of Madness (1989), Pete Sandoval used a Pearl Export Series kit with two separate 22"×16" bass drums, a Pearl steel snare (14"×5.5"), Sabian B8 cymbals, and two ddrum-hardware single pedals (one per kick drum; the specific pedal model isn't publicly documented). The setup cost approximately $1,591 at the time — equivalent to around $4,200 adjusted for 2026 inflation.
 
 **Q: Did Pete Sandoval use a double pedal or two bass drums?**  
-A: Pete Sandoval used two separate bass drums throughout his career (true double-kick), not a double pedal on a single drum. Each bass drum had its own DW pedal. This configuration was standard practice for serious extreme-speed double bass drummers in death metal, providing independent resonance per drum and reinforcing the physical and visual intensity of the performance.
+A: Pete Sandoval used two separate bass drums throughout his career (true double-kick), not a double pedal on a single drum. Each bass drum had its own pedal under his ddrum hardware endorsement — the specific pedal model isn't publicly documented. This configuration was standard practice for serious extreme-speed double bass drummers in death metal, providing independent resonance per drum and reinforcing the physical and visual intensity of the performance.
 
 **Q: What cymbals did Pete Sandoval use?**  
 A: Pete Sandoval began with Sabian B8 entry-level cymbals on Altars of Madness (1989), upgraded to Sabian B8 Pro around the Blessed Are the Sick era (1991), and moved to Sabian AAX professional cymbals from the Covenant era (1993) onward. Later in his career he incorporated Sabian HHX Series as well.

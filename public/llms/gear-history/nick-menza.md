@@ -16,7 +16,7 @@
 - **Drums:** Tama Artstar II — 5-piece, Midnight Blue finish; 22"x16" kick, 12"x10" and 13"x11" racks, 16"x16" floor
 - **Snare:** Tama Steel 14"x5.5"
 - **Cymbals:** Zildjian A Series — 14" hi-hats, 16" crash, 18" crash, 20" ride
-- **Pedal:** DW 5000 double pedal
+- **Pedal:** Tama Titan Hardware double pedal
 - **Sticks:** Vic Firth 5B Hickory
 - **Heads:** Remo Ambassador (toms), Powerstroke P3 (kick)
 - **Original setup cost (1990):** ~$1,898
@@ -60,7 +60,7 @@
 ## FAQ
 
 **Q: What drum kit did Nick Menza use on Rust in Peace?**
-A: Nick Menza played a Tama Artstar II on Rust in Peace (1990) — a pro-tier birch-shell kit in Midnight Blue finish, not a budget setup. He paired it with Zildjian A Series cymbals and a DW 5000 double pedal. The complete setup cost approximately $1,898 at the time, equivalent to about $4,757 adjusted for 2026 inflation. He played the same kit through the album's 1990–1992 touring cycle before switching to Pearl for Countdown to Extinction (1992).
+A: Nick Menza played a Tama Artstar II on Rust in Peace (1990) — a pro-tier birch-shell kit in Midnight Blue finish, not a budget setup. He paired it with Zildjian A Series cymbals and a Tama Titan Hardware double pedal. The complete setup cost approximately $1,898 at the time, equivalent to about $4,757 adjusted for 2026 inflation. He played the same kit through the album's 1990–1992 touring cycle before switching to Pearl for Countdown to Extinction (1992).
 
 **Q: What drums did Nick Menza use on Countdown to Extinction?**
 A: For Countdown to Extinction (1992), Menza switched from Tama to Pearl Masters Professional, then upgraded to Pearl Masterworks for Youthanasia (1994) — the most premium kit of his Megadeth career. He also switched from Zildjian to Paiste 2002 / Signature Series cymbals and moved to a brass Pearl Free-Floating snare for a warmer tone suited to the album's more polished production.

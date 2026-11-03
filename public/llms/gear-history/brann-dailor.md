@@ -16,7 +16,7 @@
 - **Drums:** Mapex V Series — poplar shells, 22" kick, 10"/12"/16" toms
 - **Snare:** Mapex Black Panther 14"x5" steel
 - **Cymbals:** Zildjian A Series — 14" hi-hats, 16"/18" crashes, 20" ride
-- **Pedal:** DW 5000 double pedal
+- **Pedal:** Double pedal (brand not verified for this era)
 - **Sticks:** Vic Firth 5B hickory
 - **Estimated cost (1999–2003):** ~$2,800
 - **Notable:** Dailor co-founded Mastodon in Atlanta in 2000 alongside Bill Kelliher, Brent Hinds, and Troy Sanders. Remission (2002) announced his jazz-influenced, melodic drumming approach applied to sludge metal.
@@ -38,11 +38,11 @@
 - **Drums:** Gretsch Brann Dailor Signature — maple, custom graphic wrap, 22" kick, 8"/10"/12"/14"/16" toms
 - **Snare:** Gretsch Brann Dailor Signature 14"x6.5" (current production model)
 - **Cymbals:** Zildjian K / K Constantinople — 14" K hi-hats, K Dark crashes, 22" K Constantinople ride, 20" China
-- **Pedal:** DW 9000XF double pedal (extended footboard)
+- **Pedal:** Tama Speed Cobra double pedal
 - **Sticks:** Vic Firth Brann Dailor Signature (decade-long partnership)
 - **Heads:** Remo Coated Ambassador / Fiberskyn
 - **Estimated cost (current):** ~$24,000
-- **Notable:** Hushed and Grim (2021) is Mastodon's first album following the death of longtime manager Nick John, and it carries Dailor's most refined signature setup yet — the same Gretsch/Zildjian K/DW/Vic Firth core he has spent over a decade with, alongside his rare dual role as drummer and co-lead vocalist.
+- **Notable:** Hushed and Grim (2021) is Mastodon's first album following the death of longtime manager Nick John, and it carries Dailor's most refined signature setup yet — the same Gretsch/Zildjian K/Vic Firth core he has spent over a decade with, now paired with a Tama Speed Cobra double pedal, alongside his rare dual role as drummer and co-lead vocalist.
 
 ---
 
@@ -71,7 +71,7 @@ A: Dailor's cymbal setup evolved from Zildjian A Custom (his standard configurat
 A: Dailor treats his toms as a melodic instrument, tuning them in musical intervals so his constant, flowing fills function as countermelodies rather than punctuation — a jazz-influenced approach rare in metal. He also sings extensive lead and co-lead vocals while executing these technically demanding parts, a combination few drummer-vocalists in any genre can sustain live.
 
 **Q: Has Brann Dailor always played the same drum kit?**
-A: No — he started on a budget Mapex kit for Mastodon's 2002 debut Remission, switched to Gretsch USA Custom for Blood Mountain (2006), and has played his own Gretsch Brann Dailor Signature Kit since 2014, refining the same Gretsch/Zildjian K/DW/Vic Firth core across the past decade.
+A: No — he started on a budget Mapex kit for Mastodon's 2002 debut Remission, switched to Gretsch USA Custom for Blood Mountain (2006), and has played his own Gretsch Brann Dailor Signature Kit since 2014, pairing it with a Tama Speed Cobra double pedal in his current setup.
 
 ---
 

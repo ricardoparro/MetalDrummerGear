@@ -414,8 +414,8 @@ const drummers = [
     name: 'Dave Lombardo',
     band: 'Slayer',
     bands: [
-      { name: 'Slayer', period: '1981–1992, 2001–2013', current: false },
-      { name: 'Suicidal Tendencies', period: '2016–present', current: true },
+      { name: 'Slayer', period: '1981–1986, 1987–1992, 2001–2013', current: false },
+      { name: 'Suicidal Tendencies', period: '2016–2021', current: false },
       { name: 'Dead Cross', period: '2017–present', current: true },
       { name: 'Mr. Bungle', period: '2019–present', current: true },
       { name: 'Fantômas', period: '1998–2008', current: false }
@@ -1027,8 +1027,7 @@ const drummers = [
     band: 'Tool',
     bands: [
       { name: 'Tool', period: '1990–present', current: true },
-      { name: 'Volto!', period: '1999–present', current: true },
-      { name: 'Legend of the Seagullmen', period: '2018–present', current: true }
+      { name: 'Volto!', period: '2000–present', current: true }
     ],
     genre: 'Progressive Metal',
     country: 'USA',

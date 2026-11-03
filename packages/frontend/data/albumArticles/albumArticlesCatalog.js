@@ -2118,8 +2118,7 @@ export const ALBUM_ARTICLES_META = {
     "band": "Tool",
     "bands": [
       "Tool",
-      "Volto!",
-      "Legend of the Seagullmen"
+      "Volto!"
     ],
     "country": "USA"
   },

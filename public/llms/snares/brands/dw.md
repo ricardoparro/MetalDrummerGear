@@ -41,8 +41,8 @@ A: Performance Series, Collector's Series. Full descriptions are in the Notable 
 
 ## Study Rankings
 
-- [Ludwig ranks #7 in drum kits usage in our brand-usage study (4.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [DW ranks #7 for overall brand reach in our endorsement-landscape study (19.4% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [DW ranks #4 in drum kits usage in our brand-usage study (8.3% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [DW ranks #7 for overall brand reach in our endorsement-landscape study (23.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## Other Snare Brands We Cover
 
@@ -63,4 +63,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides DW, see:
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -121,7 +121,7 @@ A: Hardwired sits in a clear lineage with Death Magnetic but represents an evolu
 ## Related Articles
 
 - [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
-- [The Black Album Drum Setup: Lars Ulrich's 1991 Tama Artist Maple Kit](https://metalforge.io/articles/black-album-drum-setup)
+- [The Black Album Drum Setup: Lars Ulrich's 1991 Tama Granstar Custom Kit](https://metalforge.io/articles/black-album-drum-setup)
 - [Lars Ulrich's Drum Setup on Metallica's Death Magnetic (2008)](https://metalforge.io/articles/death-magnetic-drum-setup)
 
 ## Related Drummers
@@ -134,4 +134,4 @@ A: Hardwired sits in a clear lineage with Death Magnetic but represents an evolu
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -114,7 +114,7 @@ Every time a drummer finds the pocket in a heavy riff, every time a China cymbal
 
 **Q: What drum kit does Chris Adler use?**
 
-A: Chris Adler plays a Mapex Saturn kit with all-maple shells in a Satin Black Maple Burl finish. His setup includes dual 22x18 inch bass drums, rack toms at 10x8 and 12x9 inches, and 14 and 16 inch floor toms. The all-maple construction gives the Saturn a warm yet focused tone, well-matched to the tight, groove-driven aggression that defined his work with Lamb of God.
+A: Chris Adler plays a Mapex Black Panther Velvetone Series kit with maple and walnut hybrid shells. His setup includes dual 22x18 inch bass drums, rack toms at 10x8 and 12x9 inches, and 14 and 16 inch floor toms. The maple and walnut hybrid construction gives the Black Panther Velvetone a warm yet focused tone, well-matched to the tight, groove-driven aggression that defined his work with Lamb of God.
 
 **Q: What cymbals does Chris Adler use?**
 
@@ -122,10 +122,10 @@ A: Chris Adler uses Meinl Byzance series cymbals throughout his setup. His confi
 
 **Q: How much does Chris Adler's drum kit cost?**
 
-A: A Mapex Saturn kit in Adler's dual bass drum configuration costs approximately $4,000 to $6,000. His Mapex Chris Adler Signature Black Panther Warbird snare, a 12 inch by 5.5 inch model, adds around $400 to $500. A full Meinl Byzance cymbal setup matching his will add another $1,500 to $2,500. Total estimated cost to replicate his Lamb of God setup is roughly $5,900 to $9,000.
+A: A Mapex Black Panther Velvetone Series kit in Adler's dual bass drum configuration costs approximately $4,000 to $6,000. His Mapex Chris Adler Signature Black Panther Warbird snare, a 12 inch by 5.5 inch model, adds around $400 to $500. A full Meinl Byzance cymbal setup matching his will add another $1,500 to $2,500. Total estimated cost to replicate his Lamb of God setup is roughly $5,900 to $9,000.
 
 **Source:** https://metalforge.io/articles/whats-in-chris-adlers-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

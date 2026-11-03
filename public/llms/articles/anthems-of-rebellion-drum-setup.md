@@ -12,7 +12,7 @@
 
 ## Overview
 
-Released October 27, 2003 on Century Media Records, Arch Enemy's fifth studio album Anthems of Rebellion marks a defining moment in the band's history: Angela Gossow's first full album with Arch Enemy — the record where her presence shaped the songwriting and identity of the band from the ground up, rather than being grafted onto material already in progress. Where Wages of Sin (2002) was the breakthrough that introduced Gossow to the world, Anthems of Rebellion is the album where the Angela Gossow–era Arch Enemy established its fully developed creative identity. The results confirmed that the chemistry between Gossow's extreme vocal approach and the band's melodic death metal architecture was not a one-record phenomenon — it was the defining formula of Arch Enemy's most commercially successful and critically recognised era.
+Released October 27, 2003 on Century Media Records, Arch Enemy's fifth studio album Anthems of Rebellion marks a defining moment in the band's history: Angela Gossow's first full album with Arch Enemy — the record where her presence shaped the songwriting and identity of the band from the ground up, rather than being grafted onto material already in progress. Where Wages of Sin (2001) was the breakthrough that introduced Gossow to the world, Anthems of Rebellion is the album where the Angela Gossow–era Arch Enemy established its fully developed creative identity. The results confirmed that the chemistry between Gossow's extreme vocal approach and the band's melodic death metal architecture was not a one-record phenomenon — it was the defining formula of Arch Enemy's most commercially successful and critically recognised era.
 
 Behind the kit, Daniel Erlandsson brought the same compositional precision that had characterised his playing on Wages of Sin, but now operating within arrangements that had been written from the outset with Gossow's vocal style in mind. The interplay between Erlandsson's double-kick patterns and the melodic guitar work of Michael Amott is sharper and more purposeful on Anthems than on its predecessor: the drums answer the vocal phrasing, frame the harmonic motion of the guitar leads, and drive the album's most anthemic moments — including the defining Gossow-era statement "We Will Rise" — with the locked-in precision that became Arch Enemy's trademark.
 
@@ -70,7 +70,7 @@ The gear behind that performance — Pearl Masters MMX mixed-shell kit, Pearl Fr
 - Dynamic contrast between verse restraint and full-intensity chorus is the source of the anthology quality
 
 **Explore related content at MetalForge:**
-- [Wages of Sin drum setup (2002)](/articles/wages-of-sin-drum-setup) — the breakthrough Gossow-era opening album
+- [Wages of Sin drum setup (2001)](/articles/wages-of-sin-drum-setup) — the breakthrough Gossow-era opening album
 - [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard-charting follow-up
 - [Rise of the Tyrant drum setup (2007)](/articles/rise-of-the-tyrant-drum-setup) — peak commercial Gossow era
 - [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context
@@ -99,15 +99,15 @@ A: Daniel Erlandsson recorded Arch Enemy's Anthems of Rebellion (2003) on a Pear
 
 **Q: Why is Anthems of Rebellion considered Angela Gossow's first full Arch Enemy album?**
 
-A: Anthems of Rebellion (2003) is considered Angela Gossow's first full album with Arch Enemy because it was the first record where she was part of the band's creative process from the beginning — the songwriting, arrangements, and recording all developed with Gossow as a fully integrated member of the lineup. Wages of Sin (2002) was her debut as Arch Enemy's vocalist, but the band had already begun development of that material before she joined; the Wages sessions adapted existing material to her presence. Anthems of Rebellion was built around the Angela Gossow–era Arch Enemy identity from the outset, making it the first complete creative statement of the era that would define the band for the next decade. For the broader Arch Enemy and Erlandsson context: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson).
+A: Anthems of Rebellion (2003) is considered Angela Gossow's first full album with Arch Enemy because it was the first record where she was part of the band's creative process from the beginning — the songwriting, arrangements, and recording all developed with Gossow as a fully integrated member of the lineup. Wages of Sin (2001) was her debut as Arch Enemy's vocalist, but the band had already begun development of that material before she joined; the Wages sessions adapted existing material to her presence. Anthems of Rebellion was built around the Angela Gossow–era Arch Enemy identity from the outset, making it the first complete creative statement of the era that would define the band for the next decade. For the broader Arch Enemy and Erlandsson context: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson).
 
 **Q: What cymbals did Daniel Erlandsson use on Anthems of Rebellion?**
 
-A: Daniel Erlandsson played Sabian AA/HH cymbals on Anthems of Rebellion (2003), the same setup he had used on Wages of Sin (2002) and would continue to use through Rise of the Tyrant (2007) — he didn't move to Sabian's darker, hand-hammered AAX/HHX line until 2014's War Eternal. His configuration included 14" AA hi-hats for verse groove articulation, 16" and 18" AA crash cymbals for section-entry accents, a 20" HH ride for groove-oriented passage texture, an 18" HH China for the trashy Gothenburg-style riff-transition accents, and a 10" AA splash for fast syncopated accents. The bright, cutting AA/HH character suited Anthems of Rebellion's high-velocity blast and double-kick content, projecting cleanly above Amott's layered guitar harmonics.
+A: Daniel Erlandsson played Sabian AA/HH cymbals on Anthems of Rebellion (2003), the same setup he had used on Wages of Sin (2001) and would continue to use through Rise of the Tyrant (2007) — he didn't move to Sabian's darker, hand-hammered AAX/HHX line until 2014's War Eternal. His configuration included 14" AA hi-hats for verse groove articulation, 16" and 18" AA crash cymbals for section-entry accents, a 20" HH ride for groove-oriented passage texture, an 18" HH China for the trashy Gothenburg-style riff-transition accents, and a 10" AA splash for fast syncopated accents. The bright, cutting AA/HH character suited Anthems of Rebellion's high-velocity blast and double-kick content, projecting cleanly above Amott's layered guitar harmonics.
 
 **Q: How does Anthems of Rebellion fit in the Arch Enemy discography and Erlandsson's career?**
 
-A: Anthems of Rebellion (2003) is the second album in Arch Enemy's defining Angela Gossow era, following the breakthrough Wages of Sin (2002) and preceding Doomsday Machine (2005). Within Erlandsson's career arc, it represents his most compositionally sophisticated melodic death metal statement to that point — fourteen years of Gothenburg scene experience (beginning with Eucharist in 1989) expressed through arrangements where double-kick patterns articulate guitar riff rhythmic content, blast beats function as structural events rather than constant texture, and the drum kit voice has evolved to the warmer Pearl Masters MMX tonal character. The album confirmed that the Angela Gossow–era Arch Enemy was not a one-record phenomenon, establishing the creative platform that Doomsday Machine would push to its commercial peak two years later. For the next chapter: [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup). For the full discography context: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson).
+A: Anthems of Rebellion (2003) is the second album in Arch Enemy's defining Angela Gossow era, following the breakthrough Wages of Sin (2001) and preceding Doomsday Machine (2005). Within Erlandsson's career arc, it represents his most compositionally sophisticated melodic death metal statement to that point — fourteen years of Gothenburg scene experience (beginning with Eucharist in 1989) expressed through arrangements where double-kick patterns articulate guitar riff rhythmic content, blast beats function as structural events rather than constant texture, and the drum kit voice has evolved to the warmer Pearl Masters MMX tonal character. The album confirmed that the Angela Gossow–era Arch Enemy was not a one-record phenomenon, establishing the creative platform that Doomsday Machine would push to its commercial peak two years later. For the next chapter: [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup). For the full discography context: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson).
 
 **Q: What is the Pearl Masters MMX and how does it differ from the Pearl Reference Pure?**
 
@@ -116,7 +116,7 @@ A: The Pearl Masters MMX was Pearl's flagship mixed-shell configuration of the e
 ## Related Articles
 
 - [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
-- [Daniel Erlandsson's Drum Setup on Arch Enemy's Wages of Sin (2002)](https://metalforge.io/articles/wages-of-sin-drum-setup)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Wages of Sin (2001)](https://metalforge.io/articles/wages-of-sin-drum-setup)
 - [Arch Enemy Doomsday Machine Drum Setup: Daniel Erlandsson's 2005 Melodic Death Gear](https://metalforge.io/articles/doomsday-machine-drum-setup)
 - [Daniel Erlandsson's Drum Setup on Arch Enemy's Rise of the Tyrant (2007)](https://metalforge.io/articles/rise-of-the-tyrant-drum-setup)
 - [Daniel Erlandsson's Drum Setup — Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
@@ -129,4 +129,4 @@ A: The Pearl Masters MMX was Pearl's flagship mixed-shell configuration of the e
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

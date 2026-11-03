@@ -12,7 +12,7 @@
 
 ## Overview
 
-Released September 21, 2007 on Century Media Records, Arch Enemy's seventh studio album Rise of the Tyrant represents the commercial peak of the Angela Gossow era — the record that brought the band's audience to its largest point and cemented their position as one of extreme metal's most commercially successful acts. Following the Billboard 200–charting Doomsday Machine (2005), Rise of the Tyrant pushed further into the mainstream metal consciousness: the lead single "Revolution Begins" became one of Arch Enemy's most widely heard tracks and landed the band on Guitar Hero: Smash Hits, bringing their music to an audience well beyond the dedicated melodic death metal fanbase. The album's combination of melodic accessibility and extreme metal aggression — the formula Michael Amott and the Angela Gossow–era lineup had been developing since 2002 — here achieved its most commercially effective realisation.
+Released September 21, 2007 on Century Media Records, Arch Enemy's seventh studio album Rise of the Tyrant represents the commercial peak of the Angela Gossow era — the record that brought the band's audience to its largest point and cemented their position as one of extreme metal's most commercially successful acts. Following the Billboard 200–charting Doomsday Machine (2005), Rise of the Tyrant pushed further into the mainstream metal consciousness: the lead single "Revolution Begins" became one of Arch Enemy's most widely heard tracks and landed the band on Guitar Hero: Smash Hits, bringing their music to an audience well beyond the dedicated melodic death metal fanbase. The album's combination of melodic accessibility and extreme metal aggression — the formula Michael Amott and the Angela Gossow–era lineup had been developing since 2001 — here achieved its most commercially effective realisation.
 
 Behind the kit, Daniel Erlandsson had now spent nearly fifteen years refining his approach to Gothenburg melodic death metal drumming, and Rise of the Tyrant is one of the clearest documents of his mature playing at peak professional form. Working again with producer Andy Sneap — whose production philosophy had shaped the band's sound since Wages of Sin and been the consistent sonic signature across Doomsday Machine — Erlandsson delivered performances that combined technical precision with compositional intelligence, exactly the balance that the album's polished extreme metal identity required.
 
@@ -103,7 +103,7 @@ A: "Revolution Begins" from Rise of the Tyrant (2007) appeared on Guitar Hero: S
 
 **Q: What cymbals did Daniel Erlandsson use on Rise of the Tyrant?**
 
-A: Daniel Erlandsson played the same Sabian AA/HH setup on Rise of the Tyrant (2007) that had characterised his Anthems of Rebellion (2003) and Wages of Sin (2002) work — no cymbal change accompanied the move to the Pearl Masters Premium kit. The configuration included 14" AA hi-hats for groove-oriented verse playing, a 16" AA crash for musical left-side accent work, an 18" AA crash for larger structural accents, a 20" HH ride for groove-section texture, an 18" HH China for aggressive trashy Gothenburg-style riff accents, and a 10" AA splash. Erlandsson didn't move to Sabian's darker, hand-hammered AAX/HHX line until 2014's War Eternal — seven years after Rise of the Tyrant.
+A: Daniel Erlandsson played the same Sabian AA/HH setup on Rise of the Tyrant (2007) that had characterised his Anthems of Rebellion (2003) and Wages of Sin (2001) work — no cymbal change accompanied the move to the Pearl Masters Premium kit. The configuration included 14" AA hi-hats for groove-oriented verse playing, a 16" AA crash for musical left-side accent work, an 18" AA crash for larger structural accents, a 20" HH ride for groove-section texture, an 18" HH China for aggressive trashy Gothenburg-style riff accents, and a 10" AA splash. Erlandsson didn't move to Sabian's darker, hand-hammered AAX/HHX line until 2014's War Eternal — seven years after Rise of the Tyrant.
 
 **Q: How does Rise of the Tyrant compare to Doomsday Machine and Khaos Legions in Erlandsson's discography?**
 
@@ -111,7 +111,7 @@ A: Rise of the Tyrant (2007) sits between Doomsday Machine (2005) and Khaos Legi
 
 **Q: Who produced Rise of the Tyrant and how did Andy Sneap's production shape the drum sound?**
 
-A: Rise of the Tyrant (2007) was produced by Andy Sneap at his Backstage Studio in Derbyshire, England — continuing the production partnership between Sneap and Arch Enemy that had begun with Wages of Sin (2002) and continued through Doomsday Machine (2005). Sneap's approach on Rise of the Tyrant is his most refined Arch Enemy production: close-mic discipline capturing the Pearl Masters Premium all-maple shells with maximum component definition, sample augmentation of kick and snare for the commercial weight that mainstream metal audiences required, and mixing choices that give each drum element clear sonic territory within the album's dense guitar arrangement. The result is the tightest, most polished drum sound Arch Enemy had produced to that point — a production that contributed directly to the album's commercial success and the band's growing mainstream profile.
+A: Rise of the Tyrant (2007) was produced by Andy Sneap at his Backstage Studio in Derbyshire, England — continuing the production partnership between Sneap and Arch Enemy that had begun with Wages of Sin (2001) and continued through Doomsday Machine (2005). Sneap's approach on Rise of the Tyrant is his most refined Arch Enemy production: close-mic discipline capturing the Pearl Masters Premium all-maple shells with maximum component definition, sample augmentation of kick and snare for the commercial weight that mainstream metal audiences required, and mixing choices that give each drum element clear sonic territory within the album's dense guitar arrangement. The result is the tightest, most polished drum sound Arch Enemy had produced to that point — a production that contributed directly to the album's commercial success and the band's growing mainstream profile.
 
 ## Related Articles
 
@@ -129,4 +129,4 @@ A: Rise of the Tyrant (2007) was produced by Andy Sneap at his Backstage Studio 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

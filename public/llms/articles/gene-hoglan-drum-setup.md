@@ -9,9 +9,9 @@
 
 ## Overview
 
-Gene Hoglan (born May 31, 1967, in Roseville, California) is one of the most technically revered drummers in the history of extreme metal. Nicknamed "The Atomic Clock" for the inhuman metronomic precision that defines every performance, Hoglan has spent more than four decades proving that death and thrash metal drumming can be simultaneously devastating and mathematically perfect.
+Gene Hoglan (born August 31, 1967, in Dallas, Texas) is one of the most technically revered drummers in the history of extreme metal. Nicknamed "The Atomic Clock" for the inhuman metronomic precision that defines every performance, Hoglan has spent more than four decades proving that death and thrash metal drumming can be simultaneously devastating and mathematically perfect.
 
-His career reads like a who's who of metal's most demanding bands. He came to prominence with Dark Angel in the mid-1980s — appearing on Darkness Descends (1986) and Leave Scars (1989), records that helped establish thrash metal's technical ceiling. But it was his work with Death on Human (1991) and Individual Thought Patterns (1993) that elevated Hoglan to near-mythological status among metal drummers. Those albums documented a player at the absolute frontier of what death metal drumming could achieve: blast beats, polyrhythmic figures, and melodic tom passages delivered with the unflinching accuracy that earned his nickname.
+His career reads like a who's who of metal's most demanding bands. He came to prominence with Dark Angel in the mid-1980s — appearing on Darkness Descends (1986) and Leave Scars (1989), records that helped establish thrash metal's technical ceiling. But it was his work with Death on Individual Thought Patterns (1993) that elevated Hoglan to near-mythological status among metal drummers. That album documented a player at the absolute frontier of what death metal drumming could achieve: blast beats, polyrhythmic figures, and melodic tom passages delivered with the unflinching accuracy that earned his nickname.
 
 The career that followed only added to the legend: Testament, Strapping Young Lad (SYL), Dethklok, Fear Factory, and dozens of other projects. Each stop documented a versatile player adapting his atomic precision to wildly different musical demands — from the thrashy groove of Testament to the industrial-djent fusion of SYL to the animated absurdity of Dethklok's Adult Swim context.
 
@@ -30,7 +30,7 @@ This article breaks down every major component of Gene Hoglan's drum setup acros
 
 Gene Hoglan's primary drum kit through the later phases of his career has been the Pearl Reference series — Pearl's flagship production shell line, built to the tolerances and tonal specifications that professional touring demands. The Reference series uses a maple/African mahogany hybrid shell construction that delivers Hoglan's required combination: the focused attack of maple for immediate stick response, balanced against the mahogany's natural warmth and low-end body.
 
-The double bass drum configuration is central to Hoglan's setup. Two 22" x 18" kick drums provide the thunderous low-end foundation for the relentless double-kick patterns that define tracks like "Lack of Comprehension" (Death, Human) and "A Succubus in Rapture" (Individual Thought Patterns). The 22" diameter generates substantial sub-frequency presence, while the 18" shell depth adds the body that makes each stroke feel authoritative rather than thin — essential when the kick is the primary rhythmic engine at death metal tempos.
+The double bass drum configuration is central to Hoglan's setup. Two 22" x 18" kick drums provide the thunderous low-end foundation for the relentless double-kick patterns that define tracks like "The Philosopher" and "A Succubus in Rapture" (both Individual Thought Patterns). The 22" diameter generates substantial sub-frequency presence, while the 18" shell depth adds the body that makes each stroke feel authoritative rather than thin — essential when the kick is the primary rhythmic engine at death metal tempos.
 
 His tom configuration spans from 10" to 18" across five drums, giving Hoglan an expansive melodic palette for the flowing, interval-based fills that set his death metal playing apart from pure brutality merchants. On the Death albums in particular, tom fills function as melodic statements — phrases that complement Chuck Schuldiner's guitar lines rather than simply filling rhythmic space. The spread from 10" rack tom through 18" floor tom allows these phrases to cover nearly two octaves of pitch range.
 
@@ -42,7 +42,7 @@ Gene Hoglan's snare selection has consistently prioritized one quality above all
 
 Pearl's Free-Floating snare design achieves this through mechanical decoupling: the shell is isolated from the hardware that holds the heads and snare wires, allowing the drum to resonate as freely as its acoustic character allows. The result is an open, explosive crack with more body and sustain than conventionally lugged snares.
 
-For the Death recordings — particularly Human, produced by Scott Burns at Morrisound Recording — the snare needed to survive aggressive tape compression and dense mix decisions without losing its identity. Hoglan's Pearl snare of the era delivered: the Morrisound house sound became synonymous with exactly this kind of aggressive, forward snare presence, and Hoglan's technique (powerful single strokes, precise ghosting between blast beats) was perfectly matched to the production context.
+For the Death recordings — particularly Individual Thought Patterns, produced by Scott Burns at Morrisound Recording — the snare needed to survive aggressive tape compression and dense mix decisions without losing its identity. Hoglan's Pearl snare of the era delivered: the Morrisound house sound became synonymous with exactly this kind of aggressive, forward snare presence, and Hoglan's technique (powerful single strokes, precise ghosting between blast beats) was perfectly matched to the production context.
 
 Tuning sits in the medium-to-bright range — optimized for crack and cut rather than the fat, low-tuned snare sounds of groove metal. In extreme metal contexts where the snare must articulate both blast beat patterns and syncopated figures within the same song, a well-focused mid-to-high tuning preserves the distinction between each stroke even at maximum velocity.
 
@@ -60,7 +60,7 @@ The AAX China brings controlled aggression. Unlike raw, unfinished chinas, the A
 
 ## The Atomic Clock's Enduring Legacy
 
-Gene Hoglan has spent four decades proving that extreme metal drumming and musical intelligence are not mutually exclusive. From Darkness Descends to Human to Individual Thought Patterns to the Dethklok recordings, the Atomic Clock has kept ticking — precise, powerful, and always in service of the music.
+Gene Hoglan has spent four decades proving that extreme metal drumming and musical intelligence are not mutually exclusive. From Darkness Descends to Individual Thought Patterns to the Dethklok recordings, the Atomic Clock has kept ticking — precise, powerful, and always in service of the music.
 
 His gear choices reflect that philosophy at every level:
 
@@ -72,7 +72,7 @@ His gear choices reflect that philosophy at every level:
 
 For drummers studying Hoglan's approach, the gear is only the starting point. The deeper lesson is his rhythmic intelligence — how polyrhythmic kick patterns, ghost notes within blast beats, and melodic tom fills transform extreme metal drumming from a display of speed into a compositional act.
 
-Study Human for polyrhythmic sophistication. Study Individual Thought Patterns for dynamic range within extremity. Study Strapping Young Lad's City for what the Atomic Clock sounds like when pushed into industrial territory. These recordings contain the complete curriculum of death metal drumming at its highest level.
+Study Individual Thought Patterns for polyrhythmic sophistication. Study Symbolic for dynamic range within extremity. Study Strapping Young Lad's City for what the Atomic Clock sounds like when pushed into industrial territory. These recordings contain the complete curriculum of death metal drumming at its highest level.
 
 For deeper exploration:
 - **Full drummer profile**: [Gene Hoglan at MetalForge](/drummer/3)
@@ -86,7 +86,7 @@ The Atomic Clock is still running. Every click is exactly on time.
 ## Key Facts
 
 - Nicknamed "The Atomic Clock" for metronomic precision at extreme tempos
-- Key albums: Dark Angel Darkness Descends (1986), Death Human (1991), Death Individual Thought Patterns (1993)
+- Key albums: Dark Angel Darkness Descends (1986), Death Individual Thought Patterns (1993)
 - Pearl Drums endorsee — Pearl Reference and Reference Pure configurations
 - Sabian cymbal series (AA/HH/HHX/AAX across career eras) — Sabian endorsee since 1991
 - Pearl Demon Drive double bass pedal — the engine behind his legendary foot technique
@@ -111,7 +111,7 @@ A: Gene Hoglan plays Sabian AAX cymbals. His setup includes 14" AAX Hi-Hats, a 1
 
 **Q: Why is Gene Hoglan called The Atomic Clock?**
 
-A: Gene Hoglan earned the nickname 'The Atomic Clock' from fellow musicians who observed his extraordinary internal metronomic consistency. Where most drummers drift slightly over time — adjusting naturally to the feel of a live room or the energy of bandmates — Hoglan maintains his internal pulse with a precision that recording engineers and producers describe as machine-like. The nickname reflects his ability to sustain exact tempo across a full performance without the micro-fluctuations that characterize most human drummers. Crucially, this precision coexists with musical expression — the Death albums on which the nickname solidified (Human, Individual Thought Patterns) are musically sophisticated recordings, not robotic exercises.
+A: Gene Hoglan earned the nickname 'The Atomic Clock' from fellow musicians who observed his extraordinary internal metronomic consistency. Where most drummers drift slightly over time — adjusting naturally to the feel of a live room or the energy of bandmates — Hoglan maintains his internal pulse with a precision that recording engineers and producers describe as machine-like. The nickname reflects his ability to sustain exact tempo across a full performance without the micro-fluctuations that characterize most human drummers. Crucially, this precision coexists with musical expression — the Death albums on which the nickname solidified (Individual Thought Patterns, Symbolic) are musically sophisticated recordings, not robotic exercises.
 
 **Q: What double bass pedal does Gene Hoglan use?**
 
@@ -119,7 +119,7 @@ A: Gene Hoglan uses the Pearl Demon Drive double pedal. The Demon Drive is Pearl
 
 **Q: What bands has Gene Hoglan played with?**
 
-A: Gene Hoglan has played with Dark Angel (Darkness Descends, Leave Scars, Time Does Not Heal), Death (Human, Individual Thought Patterns), Testament (Low), Strapping Young Lad (City, Alien, The New Black), Dethklok (Dethalbum II, III), and Fear Factory, among many others. His work with Death in the early 1990s is considered the high point of death metal drumming and the recordings most responsible for the 'Atomic Clock' reputation.
+A: Gene Hoglan has played with Dark Angel (Darkness Descends, Leave Scars, Time Does Not Heal), Death (Individual Thought Patterns, Symbolic), Testament (Demonic, Dark Roots of Earth, Brotherhood of the Snake, Titans of Creation), Strapping Young Lad (City, Alien, The New Black), Dethklok (Dethalbum II, III), and Fear Factory, among many others. His work with Death in the early-to-mid 1990s is considered the high point of death metal drumming and the recordings most responsible for the 'Atomic Clock' reputation.
 
 ## Related Articles
 
@@ -137,4 +137,4 @@ A: Gene Hoglan has played with Dark Angel (Darkness Descends, Leave Scars, Time 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

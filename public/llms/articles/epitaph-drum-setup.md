@@ -107,7 +107,7 @@ A: Hannes Grossmann recorded Necrophagist's Epitaph in 2003-2004 using a Tama St
 
 **Q: Who was the drummer on Necrophagist's Epitaph in 2004?**
 
-A: Hannes Grossmann was the drummer on Necrophagist's Epitaph (2004), and the album was his debut on a Necrophagist studio recording. Necrophagist's previous album, Onset of Putrefaction (1999), had been recorded almost entirely by founder Muhammed Suiçmez using programmed drumming. Epitaph was the first Necrophagist record with a proper full-band lineup, and Grossmann's arrival as the drummer transformed the band's sonic possibilities. His performance on tracks like "Stabwound," "Ignominious & Pale," and "Seven" became reference material for modern technical death metal drumming. Grossmann went on to become one of the most respected drummers in extreme metal, later co-founding Obscura (2007) and Alkaloid (2015).
+A: Hannes Grossmann was the drummer on Necrophagist's Epitaph (2004), and the album was his debut on a Necrophagist studio recording. Necrophagist's previous album, Onset of Putrefaction (1999), had been recorded almost entirely by founder Muhammed Suiçmez using programmed drumming. Epitaph was the first Necrophagist record with a proper full-band lineup, and Grossmann's arrival as the drummer transformed the band's sonic possibilities. His performance on tracks like "Stabwound," "Ignominious & Pale," and "Seven" became reference material for modern technical death metal drumming. Grossmann went on to become one of the most respected drummers in extreme metal, later co-founding Obscura (2007) and Alkaloid (2014).
 
 **Q: What cymbals did Hannes Grossmann use on Epitaph?**
 
@@ -139,4 +139,4 @@ A: Stabwound is widely considered one of the most important tech death drum trac
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

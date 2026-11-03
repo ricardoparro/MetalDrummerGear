@@ -15,7 +15,7 @@
 - **[Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)** (Death / Testament / Dethklok)
 - **[George Kollias](https://metalforge.io/drummer/george-kollias)** (Nile)
 - **[Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)** (Slipknot)
-- **[Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)** (Suicidal Tendencies)
+- **[Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)** (ex-Slipknot / Suicidal Tendencies)
 - **[Art Cruz](https://metalforge.io/drummer/art-cruz)** (Lamb of God)
 - **[Navene Koperweis](https://metalforge.io/drummer/navene-koperweis)** (Entheos / ex-Animals as Leaders)
 - **[Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)** (Godsmack / Ugly Kid Joe / Wrathchild America)
@@ -37,7 +37,7 @@
 - **[Martin Axenrot](https://metalforge.io/drummer/martin-axenrot)** (Opeth)
 - **[Adrian Erlandsson](https://metalforge.io/drummer/adrian-erlandsson)** (At the Gates)
 - **[Jimmy DeGrasso](https://metalforge.io/drummer/jimmy-degrasso)** (Megadeth)
-- **[Alex Rüdinger](https://metalforge.io/drummer/alex-rudinger)** (The Faceless)
+- **[Alex Rüdinger](https://metalforge.io/drummer/alex-rudinger)** (Trivium)
 
 See all 27 drummers on the [Evans drumheads gear page](https://metalforge.io/gear/evans/all-drumheads/drummers-using).
 
@@ -61,4 +61,4 @@ A: MetalForge tracks all Evans drumheads used by professional metal drummers. Vi
 
 ---
 
-*Source: [metalforge.io/gear/evans/all-drumheads/drummers-using](https://metalforge.io/gear/evans/all-drumheads/drummers-using) · Last updated: 2026-10-30*
+*Source: [metalforge.io/gear/evans/all-drumheads/drummers-using](https://metalforge.io/gear/evans/all-drumheads/drummers-using) · Last updated: 2026-11-03*

@@ -52,8 +52,8 @@ A: AAX, HHX, HH. Full descriptions are in the Notable Series section above.
 
 ## Study Rankings
 
-- [Sabian ranks #2 in cymbals usage in our brand-usage study (30.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Sabian ranks #5 for overall brand reach in our endorsement-landscape study (30.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Sabian ranks #1 in cymbals usage in our brand-usage study (30.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Sabian ranks #3 for overall brand reach in our endorsement-landscape study (30.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## Other Cymbal Brands We Cover
 
@@ -72,4 +72,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Sabian, se
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

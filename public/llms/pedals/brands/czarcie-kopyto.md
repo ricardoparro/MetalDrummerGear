@@ -23,8 +23,8 @@ Source: [Czarcie Kopyto — official site](https://www.czarciekopyto.com/en/).
 
 ## Study Rankings
 
-- [Czarcie Kopyto ranks #7 in pedals usage in our brand-usage study (2.8% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Czarcie Kopyto ranks #18 for overall brand reach in our endorsement-landscape study (2.8% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Czarcie Kopyto ranks #6 in pedals usage in our brand-usage study (2.8% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Czarcie Kopyto ranks #17 for overall brand reach in our endorsement-landscape study (2.8% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## More Resources
 
@@ -35,4 +35,4 @@ Source: [Czarcie Kopyto — official site](https://www.czarciekopyto.com/en/).
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Jay Weinberg — Signature Drum Licks & Patterns
 
-**Band:** Suicidal Tendencies | **Genre:** Hardcore / Thrash Crossover | **Lick Count:** 3
+**Band:** ex-Slipknot / Suicidal Tendencies | **Genre:** Hardcore / Thrash Crossover | **Lick Count:** 3
 
 ---
 
@@ -111,4 +111,4 @@ Jay Weinberg's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

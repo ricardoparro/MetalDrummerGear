@@ -51,8 +51,8 @@ A: American Classic® Metal, American Classic® Extreme (X5A / X5B). Full descri
 
 ## Study Rankings
 
-- [Vic Firth ranks #1 in sticks usage in our brand-usage study (61.1% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Vic Firth ranks #1 for overall brand reach in our endorsement-landscape study (61.1% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Vic Firth ranks #1 in sticks usage in our brand-usage study (50% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Vic Firth ranks #1 for overall brand reach in our endorsement-landscape study (50% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## Other Drumstick Brands We Cover
 
@@ -77,4 +77,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Vic Fi
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

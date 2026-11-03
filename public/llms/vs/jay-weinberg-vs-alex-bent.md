@@ -1,6 +1,6 @@
 # Jay Weinberg vs Alex Bent — Drum Kit Comparison
 
-> Side-by-side gear comparison between Jay Weinberg (Suicidal Tendencies) and Alex Bent (ex-Trivium / Arkaik / Dragonlord).
+> Side-by-side gear comparison between Jay Weinberg (ex-Slipknot / Suicidal Tendencies) and Alex Bent (ex-Trivium / Arkaik / Dragonlord).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/jay-weinberg-vs-alex-bent
 
@@ -67,4 +67,4 @@ A: No — Jay Weinberg left Slipknot in November 2023 and later joined Suicidal 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

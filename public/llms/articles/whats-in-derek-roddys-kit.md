@@ -9,11 +9,11 @@
 
 ## Overview
 
-Derek Roddy isn't just a drummer — he's a scientist of extreme metal percussion. Born February 22, 1972, in Mullins, South Carolina, Roddy emerged from one of the most unlikely places to pioneer death metal drumming techniques that would influence an entire generation.
+Derek Roddy isn't just a drummer — he's a scientist of extreme metal percussion. Born August 28, 1972, in Myrtle Beach, South Carolina, Roddy emerged from one of the most unlikely places to pioneer death metal drumming techniques that would influence an entire generation.
 
 While other drummers approached blast beats with brute force and unsustainable tension, Roddy analyzed the mechanics. He studied efficient motion, muscle relaxation, and energy conservation. The result? Sustained blast beats that other drummers couldn't match — not because of physical superiority, but because of superior technique.
 
-His work with Hate Eternal (2001-2008) produced some of the most punishing death metal ever recorded. Albums like "King of All Kings" (2002) and "I, Monarch" (2005) showcased blast beats of unprecedented duration and precision. His brief stint with Nile in 2000 further cemented his status as one of the genre's elite.
+His work with Hate Eternal (2000-2006) produced some of the most punishing death metal ever recorded. Albums like "King of All Kings" (2002) and "I, Monarch" (2005) showcased blast beats of unprecedented duration and precision. His brief stint with Nile in 2000 further cemented his status as one of the genre's elite.
 
 But Derek Roddy's greatest contribution may be his educational work. "The Evolution of Blast Beats" (2007) became the definitive resource for extreme metal drumming technique. His scientific approach — breaking down complex movements into learnable components — democratized what had seemed impossible. Suddenly, blast beats weren't just for the genetically gifted; they were achievable through proper technique.
 
@@ -130,4 +130,4 @@ A: Derek Roddy's Tama Starclassic Bubinga shell pack is estimated at $3,000 to $
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

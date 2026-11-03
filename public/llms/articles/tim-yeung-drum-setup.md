@@ -9,7 +9,7 @@
 
 ## Overview
 
-Tim Yeung is one of death metal's most technically accomplished drummers, known for extreme blast beat tempos and precision double bass technique across Morbid Angel, Hate Eternal, and Divine Heresy. He joined Morbid Angel in the lead-up to Illud Divinum Insanus (2011) and has remained the band's drummer through Kingdoms Disdained (2017) and beyond, maintaining the legacy of a band that co-invented technical death metal alongside Chuck Schuldiner and Obituary in the late 1980s.
+Tim Yeung is one of death metal's most technically accomplished drummers, known for extreme blast beat tempos and precision double bass technique across Morbid Angel, Hate Eternal, and Divine Heresy. He joined Morbid Angel in the lead-up to Illud Divinum Insanus (2011) and held the drum chair through 2015, maintaining the legacy of a band that co-invented technical death metal alongside Chuck Schuldiner and Obituary in the late 1980s.
 
 Yeung's profile rests on two pillars: raw speed and mechanical consistency. His blast beats operate in a range that challenges even the most accomplished death metal drummers — 200–280 BPM, sustained across full-length sets without perceptible degradation in precision. His double bass technique is particularly studied among drummers: fluid, relaxed, and seemingly effortless at tempos that would exhaust players using tension-based approaches.
 
@@ -61,7 +61,7 @@ His current gear reflects this philosophy at every level:
 
 For drummers studying Yeung's approach, the gear is the framework — the technique is the foundation. The lesson is efficiency: at extreme tempos, relaxation beats tension, rebound beats power, and consistency beats speed records. Every blast beat he plays demonstrates that principle in real time.
 
-Study Divine Heresy's Bleed the Fifth for technical death metal blast beat intensity. Study Morbid Angel's Kingdoms Disdained for how extreme technique serves groove-oriented death metal. Study both together to understand how a complete extreme metal drummer adapts speed and precision across different compositional contexts.
+Study Divine Heresy's Bleed the Fifth for technical death metal blast beat intensity. Study Morbid Angel's Illud Divinum Insanus for how extreme technique serves groove-oriented death metal. Study both together to understand how a complete extreme metal drummer adapts speed and precision across different compositional contexts.
 
 For deeper exploration:
 - **Full drummer profile**: [Tim Yeung at MetalForge](/drummer/tim-yeung)
@@ -120,4 +120,4 @@ A: Tim Yeung's core gear setup — Tama Starclassic Bubinga drums, Sabian cymbal
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

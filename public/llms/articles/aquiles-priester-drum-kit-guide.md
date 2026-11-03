@@ -9,9 +9,9 @@
 
 ## Overview
 
-Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is the engine behind Angra — a band that has carried the Brazilian power metal flag across every major metal festival on the planet for more than two decades. Since joining Angra in 2000, Priester has set the standard for technical double-bass drumming in power metal: blazing kick patterns delivered with mechanical evenness, enormous dynamic range, and the musical intelligence to make extreme technique feel like it belongs to the song rather than on top of it.
+Aquiles Priester (born June 25, 1971, in Outjo, Namibia) is a Brazilian power metal drumming icon, best known for anchoring Angra through its most celebrated era before going on to join American heavy metal legends W.A.S.P. From 2001 to 2008, Priester set the standard for technical double-bass drumming in power metal with Angra: blazing kick patterns delivered with mechanical evenness, enormous dynamic range, and the musical intelligence to make extreme technique feel like it belongs to the song rather than on top of it.
 
-His career spans Angra's most critically celebrated era — the albums Rebirth (2001), Temple of Shadows (2004), Aurora Consurgens (2006), and Aqua (2010) — alongside long-running duties with W.A.S.P. and his own band Hangar. Priester returned to Angra in 2023 for their current album cycle, once again anchoring the band's ferocious live show with the precision and endurance that made him famous.
+His Angra tenure spans the band's most critically celebrated era — the albums Rebirth (2001), Temple of Shadows (2004), and Aurora Consurgens (2006) — after which he departed to focus on his own band, Hangar, before joining W.A.S.P. in 2017, where he remains the drummer today, once again anchoring a legendary band's ferocious live show with the precision and endurance that made him famous.
 
 The question most drummers want answered is straightforward: what drum kit does Aquiles Priester use? This guide covers every piece of his current touring and recording setup — from his Mapex Saturn Evolution signature shells to the Paiste cymbal array and the DW 9000 double pedal that fuels his legendary kick speed — and explains how each gear choice supports the demanding Brazilian metal approach that defines his playing.
 
@@ -48,17 +48,17 @@ For the double-bass-heavy sections that make up most of Angra's catalog, a power
 
 Paiste is a Swiss cymbal manufacturer with a long craft history, and Priester's custom red-coated set is a signature visual and sonic identity for his live show — qualities particularly well-suited to European and South American power metal contexts where large festival stages demand both volume and musical character.
 
-Priester's Paiste setup is configured for the specific demands of Angra's live show. The hi-hats deliver the tight, articulate response needed for the single-stroke and double-stroke hi-hat patterns he plays over blazing double-bass sections — there can be no wash or mud when the kick drums are running at 180+ BPM, or the groove collapses into noise.
+Priester's Paiste setup is configured for the specific demands of W.A.S.P.'s live show. The hi-hats deliver the tight, articulate response needed for the single-stroke and double-stroke hi-hat patterns he plays over blazing double-bass sections — there can be no wash or mud when the kick drums are running at 180+ BPM, or the groove collapses into noise.
 
 The crash selection gives Priester a dynamic range of crash response, from quick, sharp accents to the big musical statements at chorus peaks and section endings. This graduated approach is standard among technical metal drummers who need precision expression rather than just volume.
 
-The 18" Psychoctopus Giga Bell Ride — Priester's namesake model — is critical for mid-tempo and groove sections in Angra's set, offering clear bell definition and a wash that builds slowly rather than exploding immediately, letting Priester play fast patterns on the bow while the bell cuts through on accents.
+The 18" Psychoctopus Giga Bell Ride — Priester's namesake model — is critical for mid-tempo and groove sections in W.A.S.P.'s set, offering clear bell definition and a wash that builds slowly rather than exploding immediately, letting Priester play fast patterns on the bow while the bell cuts through on accents.
 
-The China cymbal provides the aggressive, trashy accents that punctuate Angra's heaviest moments. Power metal is not all speed — the breakdowns and heavy riff sections need a cymbal that bites, and Priester's custom Paiste China delivers that edge with a musical character that doesn't overstay its welcome.
+The China cymbal provides the aggressive, trashy accents that punctuate W.A.S.P.'s heaviest moments. Power metal is not all speed — the breakdowns and heavy riff sections need a cymbal that bites, and Priester's custom Paiste China delivers that edge with a musical character that doesn't overstay its welcome.
 
-## The Complete Angra Gear Guide
+## The Complete Gear Guide
 
-Aquiles Priester's drum kit represents a system built for one of the most demanding jobs in metal: carrying Angra's technically complex, emotionally intense power metal through marathon live sets at the world's biggest metal festivals.
+Aquiles Priester's drum kit represents a system built for one of the most demanding jobs in metal: carrying W.A.S.P.'s heavy metal attack through marathon live sets at the world's biggest metal festivals.
 
 Every gear choice reflects that demand:
 
@@ -83,7 +83,7 @@ Aquiles Priester has spent over 25 years proving that Brazilian metal drumming b
 ## Key Facts
 
 - Born June 25, 1971, in Outjo, Namibia
-- Joined Angra in 2000; returned for the 2023 album cycle
+- Angra drummer 2001-2008; W.A.S.P. drummer since 2017
 - Known for sustained double-bass patterns at 180–220+ BPM
 - Current drums: Mapex Saturn Evolution All Maple (signature kit)
 - Current cymbals: Paiste (custom red-coated set)
@@ -100,7 +100,7 @@ Aquiles Priester has spent over 25 years proving that Brazilian metal drumming b
 
 **Q: What drum kit does Aquiles Priester use?**
 
-A: Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit, the first Brazilian-drummer signature kit released by a global drum brand — for Angra touring and recording. His configuration includes 22" bass drums in a double-bass setup, rack toms from 10" to 13", and floor toms at 16" and 18". Earlier in his career he played Mapex Saturn Series drums (the kit used on Rebirth and Temple of Shadows) and later Pearl Reference Series kits during his W.A.S.P. years.
+A: Aquiles Priester currently plays the Mapex Saturn Evolution All Maple — his own signature kit, the first Brazilian-drummer signature kit released by a global drum brand — for W.A.S.P. touring and recording. His configuration includes 22" bass drums in a double-bass setup, rack toms from 10" to 13", and floor toms at 16" and 18". Earlier in his career he played Mapex Saturn Series drums (the kit used on Rebirth and Temple of Shadows during his 2001-2008 Angra tenure) and later Pearl Reference Series kits during his earlier W.A.S.P. years.
 
 **Q: What cymbals does Aquiles Priester play?**
 
@@ -116,7 +116,7 @@ A: Aquiles Priester plays sustained double-bass patterns at 180–220+ BPM with 
 
 **Q: What is Aquiles Priester's approach to drum tuning for Brazilian metal?**
 
-A: Priester tunes his kit for outdoor festival projection — the dominant live context on the South American touring circuit. Toms are tuned for clear pitch differentiation and volume; kick drums use moderate muffling to emphasize attack without over-damping the fundamental tone. For studio work he adjusts tuning and head selection to match the room and the arrangement, working closely with engineers to capture the warmth and attack balance that characterizes Angra's recorded sound.
+A: Priester tunes his kit for outdoor festival projection — the dominant live context on the South American touring circuit. Toms are tuned for clear pitch differentiation and volume; kick drums use moderate muffling to emphasize attack without over-damping the fundamental tone. For studio work he adjusts tuning and head selection to match the room and the arrangement, working closely with engineers to capture the warmth and attack balance that characterizes his recorded sound.
 
 ## Related Articles
 
@@ -133,4 +133,4 @@ A: Priester tunes his kit for outdoor festival projection — the dominant live 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -130,7 +130,7 @@ A: Lars Ulrich used the Tama Artist Maple for the Black Album (1991) and the ext
 - [What's In Lars Ulrich's Kit in 2026: The Most Famous Metal Drummer's Complete Setup](https://metalforge.io/articles/whats-in-lars-ulrichs-kit)
 - [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
 - [...And Justice for All Drum Setup: Lars Ulrich's Technical Peak](https://metalforge.io/articles/and-justice-for-all-drum-setup)
-- [The Black Album Drum Setup: Lars Ulrich's 1991 Tama Artist Maple Kit](https://metalforge.io/articles/black-album-drum-setup)
+- [The Black Album Drum Setup: Lars Ulrich's 1991 Tama Granstar Custom Kit](https://metalforge.io/articles/black-album-drum-setup)
 - [Metallica 'Reload' Drum Setup: Lars Ulrich's 1997 Tama Star Classic Maple Kit](https://metalforge.io/articles/reload-drum-setup)
 
 ## Related Drummers
@@ -143,4 +143,4 @@ A: Lars Ulrich used the Tama Artist Maple for the Black Album (1991) and the ext
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -110,7 +110,7 @@ A: Yes. The St. Anger snare sound was an entirely intentional production decisio
 - [What's In Lars Ulrich's Kit in 2026: The Most Famous Metal Drummer's Complete Setup](https://metalforge.io/articles/whats-in-lars-ulrichs-kit)
 - [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
 - [Metallica 'Reload' Drum Setup: Lars Ulrich's 1997 Tama Star Classic Maple Kit](https://metalforge.io/articles/reload-drum-setup)
-- [The Black Album Drum Setup: Lars Ulrich's 1991 Tama Artist Maple Kit](https://metalforge.io/articles/black-album-drum-setup)
+- [The Black Album Drum Setup: Lars Ulrich's 1991 Tama Granstar Custom Kit](https://metalforge.io/articles/black-album-drum-setup)
 - [Lars Ulrich's Drum Setup on Metallica's Death Magnetic (2008)](https://metalforge.io/articles/death-magnetic-drum-setup)
 
 ## Related Drummers
@@ -123,4 +123,4 @@ A: Yes. The St. Anger snare sound was an entirely intentional production decisio
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

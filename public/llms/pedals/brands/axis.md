@@ -27,8 +27,8 @@ Source: [Axis Percussion — About Axis](https://axispdc.com/pages/about-axis).
 
 ## Study Rankings
 
-- [Axis ranks #5 in pedals usage in our brand-usage study (4.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Axis ranks #15 for overall brand reach in our endorsement-landscape study (4.2% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Axis ranks #4 in pedals usage in our brand-usage study (5.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Axis ranks #12 for overall brand reach in our endorsement-landscape study (5.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## More Resources
 
@@ -40,4 +40,4 @@ Source: [Axis Percussion — About Axis](https://axispdc.com/pages/about-axis).
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

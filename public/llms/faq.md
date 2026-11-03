@@ -1,5 +1,5 @@
 # MetalForge — Master FAQ
-> Last Updated: 2026-11-01 · Source: https://metalforge.io
+> Last Updated: 2026-11-03 · Source: https://metalforge.io
 
 Answer-first FAQ for the gear and techniques of the world's legendary metal drummers. Every answer links to a deeper source page on MetalForge.
 
@@ -33,7 +33,7 @@ Ray Luzier plays Pearl Reference Series. The Korn drummer rounds out the kit wit
 John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. The Limp Bizkit drummer rounds out the kit with a OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply snare and Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom) cymbals. [see /llms/drummers/john-otto.md]
 
 ### What drums does Jay Weinberg use?
-Jay Weinberg plays SJC Custom Drums (OBEY x ST Collaboration Kit). The Suicidal Tendencies drummer rounds out the kit with a SJC Jay Weinberg "The Crucible" 14x6.5" 48-ply Brass snare and Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell) cymbals. [see /llms/drummers/jay-weinberg.md]
+Jay Weinberg plays SJC Custom Drums (OBEY x ST Collaboration Kit). The ex-Slipknot / Suicidal Tendencies drummer rounds out the kit with a SJC Jay Weinberg "The Crucible" 14x6.5" 48-ply Brass snare and Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell) cymbals. [see /llms/drummers/jay-weinberg.md]
 
 ### What drums does Vinnie Paul use?
 Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified). The Pantera / Damageplan / Hellyeah drummer rounds out the kit with a ddrum Vinnie Paul Signature 14x8" (8-ply maple, 10 lugs, die-cast hoops) snare and Sabian (brand per secondary sources; specific models unverified) cymbals. [see /llms/drummers/vinnie-paul.md]
@@ -213,7 +213,7 @@ Jimmy DeGrasso plays Pearl. The Megadeth drummer rounds out the kit with a Pearl
 Nick Barker plays Sonor. [see /llms/drummers/nick-barker.md]
 
 ### What drums does Alex Rüdinger use?
-Alex Rüdinger plays Tama Starclassic Performer B/B. The The Faceless drummer rounds out the kit with a Tama STARPHONIC Brass 14x6" (or SLP Black Brass alternate) snare and Meinl Cymbals (Byzance and MB20 series; specific models not independently documented — omitted rather than guessed) cymbals. [see /llms/drummers/alex-rudinger.md]
+Alex Rüdinger plays Tama Starclassic Performer B/B. The Trivium drummer rounds out the kit with a Tama STARPHONIC Brass 14x6" (or SLP Black Brass alternate) snare and Meinl Cymbals (Byzance and MB20 series; specific models not independently documented — omitted rather than guessed) cymbals. [see /llms/drummers/alex-rudinger.md]
 
 ### What drums does John Longstreth use?
 John Longstreth plays Pearl (endorsement confirmed via his own Scorpion Percussion artist bio; specific kit model/shell sizes not independently documented — omitted rather than guessed). The Origin drummer rounds out the kit with Meinl Classics Custom Dark Series (8" Dark Splash, 14" Dark Hihat, 18" Dark China) + Meinl Generation X 12"/14" Trash Hat cymbals. [see /llms/drummers/john-longstreth.md]

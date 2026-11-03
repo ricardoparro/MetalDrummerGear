@@ -61,7 +61,7 @@ The 20" AAX Medium Ride's bright bell and clear bow provided textural contrast o
 
 ## Titans of Creation: The Arc Closes at Its Peak
 
-*Titans of Creation* stands as Gene Hoglan's most refined studio recording with Testament — and the natural endpoint of a career arc that began with *Low* in 1994, resumed with *Brotherhood of the Snake* in 2016, and reached its fullest expression here. The Pearl Reference Pure setup, Pearl Eliminator pedals, and Sabian AAX cymbals represent Hoglan at the peak of his modern gear era: every component a deliberate, refined choice made by a drummer who has spent four decades perfecting his craft.
+*Titans of Creation* stands as Gene Hoglan's most refined studio recording with Testament — and the natural endpoint of a career arc that began with *Demonic* in 1997, resumed with *Brotherhood of the Snake* in 2016, and reached its fullest expression here. The Pearl Reference Pure setup, Pearl Eliminator pedals, and Sabian AAX cymbals represent Hoglan at the peak of his modern gear era: every component a deliberate, refined choice made by a drummer who has spent four decades perfecting his craft.
 
 **The Reference Pure Difference:**
 The upgrade from Pearl Reference Series (2016) to Reference Pure (2020) is audible to trained ears: the drum sound on *Titans of Creation* is warmer, more resonant, and more three-dimensional. Pure maple shells ring longer and more openly than maple/birch hybrids — a characteristic that suits an album recorded without the commercial urgency that typically compresses production timelines.
@@ -126,4 +126,4 @@ A: Gene Hoglan used Pearl Eliminator single pedals on Titans of Creation (2020) 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

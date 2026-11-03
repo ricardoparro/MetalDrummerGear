@@ -22,11 +22,10 @@ This article breaks down the complete setup of one of metal's most respected dru
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Pure (Various (Black, Natural, Custom) finish)
-- **Snare:** Pearl Pearl Reference 14" x 6.5" Brass Snare, 14" x 6.5"
+- **Snare:** Pearl Not independently verified, Not independently verified
 - **Cymbals:** Sabian — Sabian AAX Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl Demon Drive Hi-Hat Stand; Pearl Roadster D-3500 Throne; Promark 5B
-- **Heads:** Evans Genera HD Dry (batter), Evans Hazy 300 (resonant)
-- **Snare tuning:** Medium-high tension, tight snare wires
+- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl Demon Drive Hi-Hat Stand; Pearl Roadster D-3500 Throne; ProMark Classic Forward 2B
+- **Heads:** [object Object]
 
 ### The Reference Pure Arsenal
 
@@ -40,17 +39,9 @@ The rack toms (10" and 12") and floor toms (14" and 16") give Gene a practical, 
 
 The maple shells deliver the warmth needed to balance the brightness of his Sabian cymbals, creating a cohesive sound that works across his diverse musical projects — from Testament's thrash to Dethklok's animated death metal.
 
-### The Brass Cannon
+### A Pearl Snare — Model Not Independently Verified
 
-Gene's snare choice is deceptively simple: a brass shell that cuts through anything. The Pearl Reference brass snare (14" x 6.5") delivers the piercing crack and projection needed to be heard over Testament's three-guitar assault or Dethklok's wall of distortion.
-
-Brass shells are brighter and more cutting than steel, with focused overtones that project without getting lost in dense mixes. The 3mm seamless construction provides durability and consistency — essential for a drummer who plays hundreds of shows per year.
-
-The 6.5" depth gives Gene enough body to prevent the snare from sounding thin or "ringy" at high tunings. He tunes medium-high for maximum attack, keeping the snare wires tight for crisp, responsive articulation.
-
-This snare has been with Gene through Testament albums, Dethklok recordings, and countless tours. It's not flashy or signature-model special — it's a working drummer's tool that does its job night after night.
-
-The brightness of the brass complements his Sabian AAX cymbals, creating a cohesive metallic shimmer that's become part of his signature sound.
+Gene plays a Pearl snare as part of his Pearl Reference Pure kit, but the specific model has not been independently verified. Claims naming a specific brass model and size circulating online do not trace to a verifiable source, so MetalForge is leaving those details out rather than guessing.
 
 ### Sabian AAX Precision
 
@@ -98,7 +89,7 @@ The metal world has no shortage of fast drummers. But there's only one Gene Hogl
 - Same kit works across Testament, session work, and touring
 - 22" x 18" bass drums: deeper than standard for low-end punch
 - Estimated kit value: $4,500-7,000 (Reference Pure configuration)
-- Estimated snare value: $500-700 (Reference series brass)
+- Estimated snare value: $400-700 (typical range for a professional Pearl snare)
 
 ## Frequently Asked Questions
 
@@ -112,7 +103,7 @@ A: Gene Hoglan uses Sabian AAX series cymbals throughout his current setup. Key 
 
 **Q: How much does Gene Hoglan's drum kit cost?**
 
-A: A Pearl Reference Pure kit comparable to Gene Hoglan's setup runs approximately $4,500 to $7,000 new, depending on configuration and finish. His Pearl Reference brass snare adds another $500 to $700. Completing the rig with a full Sabian AAX cymbal setup similar to his will add roughly $1,500 to $2,500. Total estimated cost to replicate his current setup is around $6,500 to $10,000.
+A: A Pearl Reference Pure kit comparable to Gene Hoglan's setup runs approximately $4,500 to $7,000 new, depending on configuration and finish. A comparable Pearl snare adds another $400 to $700 (his specific snare model has not been independently verified). Completing the rig with a full Sabian AAX cymbal setup similar to his will add roughly $1,500 to $2,500. Total estimated cost to replicate his current setup is around $6,500 to $10,000.
 
 ## Related Articles
 
@@ -131,4 +122,4 @@ A: A Pearl Reference Pure kit comparable to Gene Hoglan's setup runs approximate
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

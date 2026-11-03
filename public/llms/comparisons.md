@@ -3,7 +3,7 @@
 > Side-by-side gear, technique, and influence comparisons between legendary metal drummers.
 > Optimised for AI crawlers answering "X vs Y drummer" and "who has heavier gear" queries.
 >
-> Last updated: 2026-11-01 · 227 curated comparisons
+> Last updated: 2026-11-03 · 227 curated comparisons
 
 ---
 ## Abe Cunningham vs Dirk Verbeuren
@@ -4650,7 +4650,7 @@ Gojira's Mario Duplantier vs Nile's George Kollias. Eco-metal atmospheric power 
 
 **Technique:** Mario uses tribal power, explosive accents, and stamina-driven endurance across Gojira's massive, atmospheric compositions. George employs heel-toe technique for sustained blast beats at 240+ BPM, combining mechanical precision with technical death metal complexity.
 
-**Gear:** Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Reference drums with Pearl Demon XR pedals specifically engineered for extreme-tempo double bass.
+**Gear:** Mario endorses Tama Starclassic Bubinga drums with Zildjian K Sweet and A Custom cymbals and Tama signature sticks. George plays Pearl Masterworks drums with Pearl Demon XR pedals specifically engineered for extreme-tempo double bass.
 
 **Influence:** Mario pioneered the environmental metal drumming style and influences modern prog-death drummers worldwide, with 20%+ organic search CTR on Gojira-related queries. George raised the ceiling for technical death metal speed and precision, inspiring a generation of extreme drummers.
 

@@ -1,6 +1,6 @@
 # Joey Jordison vs Jay Weinberg — Drum Kit Comparison
 
-> Side-by-side gear comparison between Joey Jordison (Slipknot) and Jay Weinberg (Suicidal Tendencies).
+> Side-by-side gear comparison between Joey Jordison (Slipknot) and Jay Weinberg (ex-Slipknot / Suicidal Tendencies).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/joey-jordison-vs-jay-weinberg
 
@@ -67,4 +67,4 @@ A: Joey Jordison played Pearl Reference Series drums with a signature 13"×6.5" 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

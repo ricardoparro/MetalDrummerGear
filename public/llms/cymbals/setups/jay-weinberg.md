@@ -1,6 +1,6 @@
 # What Cymbals Does Jay Weinberg Use? Full Setup
 
-**Band:** Suicidal Tendencies | **Brand(s):** Zildjian
+**Band:** ex-Slipknot / Suicidal Tendencies | **Brand(s):** Zildjian
 
 ---
 
@@ -42,4 +42,4 @@ A: Jay Weinberg plays Zildjian cymbals: 14" A New Beat Hi-Hats, 18" A Custom Cra
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

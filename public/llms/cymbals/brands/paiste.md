@@ -48,8 +48,8 @@ A: RUDE, 2002, Signature. Full descriptions are in the Notable Series section ab
 
 ## Study Rankings
 
-- [Paiste ranks #3 in cymbals usage in our brand-usage study (20.8% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Paiste ranks #6 for overall brand reach in our endorsement-landscape study (20.8% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Paiste ranks #3 in cymbals usage in our brand-usage study (19.4% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Paiste ranks #8 for overall brand reach in our endorsement-landscape study (19.4% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## Other Cymbal Brands We Cover
 
@@ -68,4 +68,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Paiste, se
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -12,7 +12,7 @@
 
 ## Overview
 
-When Testament released "Brotherhood of the Snake" on October 28, 2016, it marked more than a new album — it was the return of Gene Hoglan to the band after a gap of 22 years. Hoglan had last played with Testament on the era that produced "Low" (1994) and "The Gathering" (1999), two albums widely considered among the heaviest in the band's catalog. Now, reunited with Chuck Billy, Eric Peterson, and Alex Skolnick, he delivered what many critics called the defining Testament album of the modern era.
+When Testament released "Brotherhood of the Snake" on October 28, 2016, it marked the second studio album of Gene Hoglan's second Testament stint — a comeback that had begun five years earlier when he rejoined the band in 2011, 14 years after his first stint ended with "Demonic" (1997). Now, reunited with Chuck Billy, Eric Peterson, and Alex Skolnick, he delivered what many critics called the defining Testament album of the modern era.
 
 "Brotherhood of the Snake" was recorded at Sharkbite Studios in Oakland, California, with producer Juan Urteaga — the same producer Testament had used for "Dark Roots of Earth" (2012) and "Titans of Creation" (2020). The album debuted at #14 on the Billboard 200, their highest chart position in decades, and produced "The Pale King" — a track nominated for Best Metal Performance at the 2017 Grammy Awards.
 
@@ -82,7 +82,7 @@ Gene Hoglan returned to Testament after 22 years and delivered a Grammy-nominate
 
 ## Key Facts
 
-- Gene Hoglan returned to Testament after a 22-year absence
+- Gene Hoglan rejoined Testament in 2011, 14 years after his first stint ended with Demonic (1997)
 - Recorded at Sharkbite Studios, Oakland with producer Juan Urteaga
 - "The Pale King" nominated for Best Metal Performance at the 2017 Grammy Awards
 - Album debuted at #14 on the Billboard 200 — highest chart position in decades
@@ -103,7 +103,7 @@ A: Gene Hoglan recorded Brotherhood of the Snake (2016) using a Tama Starclassic
 
 **Q: Why did Gene Hoglan return to Testament?**
 
-A: Gene Hoglan returned to Testament for Brotherhood of the Snake (2016) after a 22-year absence — his last albums with the band had been Low (1994) and The Gathering (1999). The reunion came after Testament's previous drummer Paul Bostaph departed. Hoglan had maintained a relationship with Testament throughout his absence, occasionally filling in on tour dates, and the Brotherhood of the Snake sessions gave the band the opportunity to record with one of thrash metal's most celebrated drummers in his mature, peak modern era. The result debuted at #14 on the Billboard 200 and earned a Grammy nomination.
+A: Gene Hoglan rejoined Testament in 2011, 14 years after his first stint had ended with Demonic (1997), after Testament's previous drummer Paul Bostaph departed. He first recorded Dark Roots of Earth (2012) with the band, then Brotherhood of the Snake (2016), giving the band the opportunity to record with one of thrash metal's most celebrated drummers in his mature, peak modern era. Brotherhood of the Snake debuted at #14 on the Billboard 200 and earned a Grammy nomination.
 
 **Q: Was Brotherhood of the Snake Grammy-nominated?**
 
@@ -111,7 +111,7 @@ A: Yes — 'The Pale King,' a track from Brotherhood of the Snake, was nominated
 
 **Q: How does Brotherhood of the Snake compare to Gene Hoglan's earlier Testament work?**
 
-A: Brotherhood of the Snake (2016) represents a more refined and sonically polished Hoglan than the albums he made with Testament in the 1990s. Low (1994) and The Gathering (1999) captured him in a more aggressive, raw approach that reflected the gear and production standards of that era. On Brotherhood of the Snake, his Tama Starclassic setup, Sabian AAX cymbals, and Tama Iron Cobra pedals combine with Juan Urteaga's modern production to produce a drum sound that is simultaneously heavier and more detailed — the same ferocity with 22 additional years of refinement, still two years before his 2018 switch to Pearl.
+A: Brotherhood of the Snake (2016) represents a more refined and sonically polished Hoglan than the album he made with Testament in the 1990s. Demonic (1997) captured him in a more aggressive, raw approach that reflected the gear and production standards of that era. On Brotherhood of the Snake, his Tama Starclassic setup, Sabian AAX cymbals, and Tama Iron Cobra pedals combine with Juan Urteaga's modern production to produce a drum sound that is simultaneously heavier and more detailed — the same ferocity with nearly two decades of refinement, still two years before his 2018 switch to Pearl.
 
 ## Related Articles
 
@@ -131,4 +131,4 @@ A: Brotherhood of the Snake (2016) represents a more refined and sonically polis
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

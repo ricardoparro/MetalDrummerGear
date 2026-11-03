@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/mikkey-dee"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-03"
 ---
 
 # Mikkey Dee — Drum Kit & Gear Setup
@@ -221,10 +221,6 @@ Mikkey Dee plays a DW 5000 Series double pedal.
 
 Full breakdown: [Mikkey Dee's pedal setup](https://metalforge.io/pedals/setups/mikkey-dee).
 
-## Study Rankings
-
-- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
-
 ## Gear Evolution
 
 Full album-by-album gear evolution: [Mikkey Dee's gear evolution timeline](https://metalforge.io/llms/evolution/mikkey-dee.md).
@@ -251,4 +247,4 @@ Dated brand-endorsement timeline: [Mikkey Dee's endorsement history](https://met
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

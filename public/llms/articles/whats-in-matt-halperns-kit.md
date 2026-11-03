@@ -11,7 +11,7 @@
 
 Matt Halpern doesn't just play drums for Periphery — he helped define an entire genre's rhythmic vocabulary. Since joining the Washington D.C.-based progressive metal pioneers in 2009, Halpern has become one of the most influential drummers in modern heavy music, his powerful grooves and intricate polyrhythms setting the template for what djent drumming could be.
 
-Born August 30, 1984, Halpern's journey to progressive metal stardom wasn't conventional. A graduate of Berklee College of Music, he brought a fusion of jazz education, rock sensibility, and technical precision to a genre that was just beginning to define itself. When he joined Periphery — the band founded by producer/guitarist Misha Mansoor that would become synonymous with djent — he found the perfect vehicle for his musical vision.
+Born June 21, 1983, Halpern's journey to progressive metal stardom wasn't conventional. A graduate of Berklee College of Music, he brought a fusion of jazz education, rock sensibility, and technical precision to a genre that was just beginning to define itself. When he joined Periphery — the band founded by producer/guitarist Misha Mansoor that would become synonymous with djent — he found the perfect vehicle for his musical vision.
 
 What sets Halpern apart isn't raw speed or complexity for its own sake. It's groove. While many djent drummers focus on mathematical precision, Halpern brings pocket and feel that makes Periphery's most technical passages sound musical rather than mechanical. Listen to "Icarus Lives!" or "Marigold" — the patterns are intricate, but they breathe and swing.
 
@@ -139,4 +139,4 @@ A: The Pearl Reference Series shell pack retails for approximately $4,500 to $6,
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

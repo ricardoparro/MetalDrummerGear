@@ -1,6 +1,6 @@
 # Abe Cunningham vs Jay Weinberg — Drum Kit Comparison
 
-> Side-by-side gear comparison between Abe Cunningham (Deftones) and Jay Weinberg (Suicidal Tendencies).
+> Side-by-side gear comparison between Abe Cunningham (Deftones) and Jay Weinberg (ex-Slipknot / Suicidal Tendencies).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/abe-cunningham-vs-jay-weinberg
 
@@ -67,4 +67,4 @@ A: Abe Cunningham co-founded Deftones in 1988, left briefly in 1990, and has bee
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

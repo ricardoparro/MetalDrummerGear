@@ -23,7 +23,7 @@ The Zildjian A Custom series delivers bright, cutting tones with a quick respons
 - [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich) (Metallica)
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) (Death / Testament / Dethklok)
 - [George Kollias](https://metalforge.io/drummer/george-kollias) (Nile)
-- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) (Suicidal Tendencies)
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) (ex-Slipknot / Suicidal Tendencies)
 
 ## FAQ
 
@@ -41,4 +41,4 @@ A: Lars Ulrich, Gene Hoglan, George Kollias, Jay Weinberg use the Zildjian A Cus
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

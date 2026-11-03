@@ -41,8 +41,8 @@ A: Signature series. Full descriptions are in the Notable Lines section above.
 
 ## Study Rankings
 
-- [Tama ranks #2 in drum kits usage in our brand-usage study (29.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [Tama ranks #2 for overall brand reach in our endorsement-landscape study (33.3% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [Tama ranks #1 in drum kits usage in our brand-usage study (29.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Tama ranks #2 for overall brand reach in our endorsement-landscape study (36.1% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## Other Drumstick Brands We Cover
 
@@ -67,4 +67,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Tama, 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

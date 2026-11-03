@@ -11,7 +11,7 @@
 
 Martin Lopez is one of the most musically sophisticated drummers in heavy music. Best known for his decade-long tenure with Opeth (1997–2006) — during which he recorded landmark albums including Blackwater Park, Deliverance, and Ghost Reveries — Lopez co-founded Soen in 2010 and has remained the band's rhythmic heartbeat ever since.
 
-Born February 8, 1978, in Stockholm (raised in Mölndal, Sweden), Lopez absorbed jazz, fusion, and world music alongside his metal influences from an early age. This cross-genre literacy is audible in everything he plays: his drumming breathes where most metal drumming punches, swings where other drummers lock rigidly, and leaves deliberate space that amplifies tension rather than filling it.
+Born May 20, 1978, in Stockholm (raised in Mölndal, Sweden), Lopez absorbed jazz, fusion, and world music alongside his metal influences from an early age. This cross-genre literacy is audible in everything he plays: his drumming breathes where most metal drumming punches, swings where other drummers lock rigidly, and leaves deliberate space that amplifies tension rather than filling it.
 
 Martin Lopez is renowned for his work with Opeth (Blackwater Park, Deliverance, Ghost Reveries) and Soen. He uses a Noble & Cooley Walnut shell pack with Zildjian K Dark Series cymbals — a setup that prioritizes tonal warmth, dynamic responsiveness, and the versatility to move between jazz-inflected groove, intricate odd-meter patterns, and explosive death metal power within the same song.
 
@@ -121,4 +121,4 @@ A: "Opponent" (Lykaia, 2017) showcases his odd-meter mastery in 7/8 with jazz-in
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

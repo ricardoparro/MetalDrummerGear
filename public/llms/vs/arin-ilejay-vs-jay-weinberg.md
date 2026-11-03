@@ -1,6 +1,6 @@
 # Arin Ilejay vs Jay Weinberg — Drum Kit Comparison
 
-> Side-by-side gear comparison between Arin Ilejay (ex-Avenged Sevenfold) and Jay Weinberg (Suicidal Tendencies).
+> Side-by-side gear comparison between Arin Ilejay (ex-Avenged Sevenfold) and Jay Weinberg (ex-Slipknot / Suicidal Tendencies).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/arin-ilejay-vs-jay-weinberg
 
@@ -67,4 +67,4 @@ A: Arin Ilejay held Avenged Sevenfold's drum chair for about four years (2011-20
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

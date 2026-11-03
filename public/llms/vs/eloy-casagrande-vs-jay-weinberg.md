@@ -1,6 +1,6 @@
 # Eloy Casagrande vs Jay Weinberg — Drum Kit Comparison
 
-> Side-by-side gear comparison between Eloy Casagrande (Slipknot) and Jay Weinberg (Suicidal Tendencies).
+> Side-by-side gear comparison between Eloy Casagrande (Slipknot) and Jay Weinberg (ex-Slipknot / Suicidal Tendencies).
 
 **Category:** Extreme / Death / Black Metal · **URL:** https://metalforge.io/vs/eloy-casagrande-vs-jay-weinberg
 
@@ -67,4 +67,4 @@ A: Both are exceptional. Eloy's groove-driven thrash power suits Slipknot's cata
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/john-longstreth"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-03"
 ---
 
 # John Longstreth — Drum Kit & Gear Setup
@@ -182,10 +182,6 @@ MetalForge has 1 signature lick tutorial(s) for John Longstreth:
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
-## Study Rankings
-
-- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
-
 ## Gear Evolution
 
 Full album-by-album gear evolution: [John Longstreth's gear evolution timeline](https://metalforge.io/llms/evolution/john-longstreth.md).
@@ -212,4 +208,4 @@ Dated brand-endorsement timeline: [John Longstreth's endorsement history](https:
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*

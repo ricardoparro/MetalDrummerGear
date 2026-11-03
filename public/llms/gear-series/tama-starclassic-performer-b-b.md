@@ -13,7 +13,7 @@
 ## Metal Drummers Who Use the Tama Starclassic Performer B/B
 
 - **[Brann Dailor](https://metalforge.io/drummer/brann-dailor)** (Mastodon) — standard configuration
-- **[Alex Rüdinger](https://metalforge.io/drummer/alex-rudinger)** (The Faceless) — standard configuration
+- **[Alex Rüdinger](https://metalforge.io/drummer/alex-rudinger)** (Trivium) — standard configuration
 
 See all 2 drummers on the [Tama Starclassic Performer B/B gear page](https://metalforge.io/gear/tama/starclassic-performer-b-b/drummers-using).
 
@@ -24,7 +24,7 @@ See all 2 drummers on the [Tama Starclassic Performer B/B gear page](https://met
 
 ## Why Metal Drummers Choose the Tama Starclassic Performer B/B
 
-The Tama Starclassic Performer B/B is one of the most respected drum kit series in professional metal drumming. Players including Brann Dailor (Mastodon), Alex Rüdinger (The Faceless) choose this kit for its reliable maple construction and consistent tone across all dynamics. The Starclassic Performer B/B stands up to the physical demands of metal touring — heavy hitting, extreme tempos, and constant travel.
+The Tama Starclassic Performer B/B is one of the most respected drum kit series in professional metal drumming. Players including Brann Dailor (Mastodon), Alex Rüdinger (Trivium) choose this kit for its reliable maple construction and consistent tone across all dynamics. The Starclassic Performer B/B stands up to the physical demands of metal touring — heavy hitting, extreme tempos, and constant travel.
 
 ## Frequently Asked Questions
 
@@ -42,4 +42,4 @@ A: MetalForge tracks all Tama series used by professional metal drummers. Visit 
 
 ---
 
-*Source: [metalforge.io/gear/tama/starclassic-performer-b-b/drummers-using](https://metalforge.io/gear/tama/starclassic-performer-b-b/drummers-using) · Last updated: 2026-10-30*
+*Source: [metalforge.io/gear/tama/starclassic-performer-b-b/drummers-using](https://metalforge.io/gear/tama/starclassic-performer-b-b/drummers-using) · Last updated: 2026-11-03*

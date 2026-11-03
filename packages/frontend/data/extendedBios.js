@@ -1835,7 +1835,7 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
       { slug: 'arkaea', period: '2008-2011', role: 'Drummer' }
     ],
     metaTitle: 'Raymond Herrera Drum Kit & Gear Setup — Fear Factory Drummer | MetalForge',
-    metaDescription: 'Complete biography of Raymond Herrera, founding Fear Factory drummer who pioneered industrial metal drumming. Explore his machine-like precision, triggering techniques, and influence.',
+    metaDescription: 'See what drum kit Raymond Herrera (Fear Factory) played — Tama Starclassic kit with a triggered Tama 14x6.5 Brass snare, Zildjian Z Custom cymbals, and a DW 5000 Series double pedal. Complete gear guide.',
     ogImage: '/images/drummers/raymond-herrera.webp',
     sections: {
       overview: {
@@ -2090,7 +2090,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
       { slug: 'soulwax', period: '2010-present', role: 'Drummer (touring)' }
     ],
     metaTitle: 'Igor Cavalera Drum Kit & Gear Setup — Sepultura Drummer | MetalForge',
-    metaDescription: 'Complete biography of Igor Cavalera, legendary Sepultura co-founder who pioneered tribal metal drumming. Explore his revolutionary style, Brazilian percussion fusion, and lasting influence.',
+    metaDescription: 'See what drum kit Igor Cavalera (Sepultura) plays — Yamaha Absolute Hybrid Maple kit, Zildjian A Custom cymbals, a Tama Iron Cobra double pedal, and Vic Firth American Classic 5B sticks. Complete gear guide.',
     ogImage: '/images/drummers/igor-cavalera.webp',
     lastUpdated: '2026-07-13',
     sections: {
@@ -2645,7 +2645,7 @@ Mangini departed Dream Theater in 2023 when founding drummer Mike Portnoy rejoin
       { slug: 'animals-as-leaders', period: '2012-present', role: 'Drummer' }
     ],
     metaTitle: 'Matt Garstka Drum Kit & Gear Setup — Animals as Leaders Drummer | MetalForge',
-    metaDescription: 'Complete biography of Matt Garstka, Animals as Leaders\' virtuosic drummer. Explore his jazz-fusion approach, polyrhythmic mastery, and influence on modern progressive metal drumming.',
+    metaDescription: 'See what drum kit Matt Garstka (Animals as Leaders) plays — DW Collector\'s Series kit with a Purpleheart snare, Meinl Byzance cymbals, and a Tama Speed Cobra 910 double pedal. Complete gear guide.',
     ogImage: '/images/drummers/matt-garstka.webp',
     sections: {
       overview: {
@@ -3049,7 +3049,7 @@ Children of Bodom became one of Finland's most successful metal exports, selling
       { slug: 'blotted-science', period: '2007-2011', role: 'Drummer' }
     ],
     metaTitle: 'Hannes Grossmann Drum Kit & Gear Setup — Obscura & Necrophagist Drummer | MetalForge',
-    metaDescription: 'Complete biography of Hannes Grossmann, technical death metal virtuoso known for Obscura, Necrophagist, and Alkaloid. Explore his precision drumming, classical influences, and producer work.',
+    metaDescription: 'See what drum kit Hannes Grossmann (Obscura) plays — DW Collectors Series kit, 14x5.5 Maple snare, Meinl Byzance cymbals, and a DW 9000 Series double pedal. Complete gear guide.',
     ogImage: '/images/drummers/hannes-grossmann.webp',
     sections: {
       overview: {
@@ -3546,7 +3546,7 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
       { slug: 'six-feet-under', period: '2011-2017', role: 'Drummer' }
     ],
     metaTitle: 'Kevin Talley Drum Kit & Gear Setup — Dying Fetus & Chimaira Drummer | MetalForge',
-    metaDescription: 'Complete biography of Kevin Talley, brutal death metal drummer for Dying Fetus, Chimaira, Suffocation, and more. Explore his extreme speed and defining role in brutal death metal.',
+    metaDescription: 'See what drum kit Kevin Talley (Dying Fetus) plays — Pearl Masters Custom/Reference Series kit, Pearl Masters 14x6.5 Steel snare, Sabian AAX cymbals, and a Pearl Eliminator double pedal. Complete gear guide.',
     ogImage: '/images/drummers/kevin-talley.webp',
     sections: {
       overview: {
@@ -3935,7 +3935,7 @@ Before joining Judas Priest, Travis was a founding member of neo-classical metal
       { slug: 'don-dokken', period: '1990-1991', role: 'Drummer' }
     ],
     metaTitle: 'Mikkey Dee Drum Kit & Gear Setup — Motörhead & Scorpions Drummer | MetalForge',
-    metaDescription: 'Complete biography of Mikkey Dee, legendary drummer for Motörhead and Scorpions. Explore his career with Lemmy, King Diamond, and his powerful drumming style.',
+    metaDescription: 'See what drum kit Mikkey Dee (Scorpions) plays — Sonor SQ2 kit, Sonor Mikkey Dee Signature 14x7.25 Birch snare, Paiste Signature Series cymbals, and a DW 5000 Series double pedal. Complete gear guide.',
     ogImage: '/images/drummers/mikkey-dee.webp',
     lastUpdated: '2026-09-05',
     sections: {
@@ -4320,7 +4320,7 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
       { slug: '1349', period: '2001-present', role: 'Drummer' }
     ],
     metaTitle: 'Frost Drum Kit & Gear Setup — Satyricon & 1349 Drummer | MetalForge',
-    metaDescription: 'Complete biography of Frost (Kjetil-Vidar Haraldstad), legendary black metal drummer for Satyricon and 1349. Explore his career, hyperspeed blast beats, gear, and influence on extreme metal.',
+    metaDescription: 'See what drum kit Frost (Satyricon) plays — Tama Starclassic Bubinga kit, 14x5.5 Bubinga snare, Zildjian A Series cymbals, and a Tama Iron Cobra Power Glide pedal. Complete gear guide.',
     ogImage: '/images/drummers/frost.webp',
     sections: {
       overview: {
@@ -4450,7 +4450,7 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
       { slug: 'the-pineapple-thief', period: '2016-present', role: 'Drummer' }
     ],
     metaTitle: 'Gavin Harrison Drum Kit & Gear Setup — Porcupine Tree & King Crimson Drummer | MetalForge',
-    metaDescription: 'Complete biography of Gavin Harrison, acclaimed drummer for Porcupine Tree, King Crimson, and The Pineapple Thief. Explore his polyrhythmic mastery, awards, gear, and progressive drumming influence.',
+    metaDescription: 'See what drum kit Gavin Harrison (Porcupine Tree) plays — Sonor SQ2 kit, Sonor signature snares, Zildjian K Custom Special Dry cymbals, and a Sonor Perfect Balance pedal. Complete gear guide.',
     ogImage: '/images/drummers/gavin-harrison.webp',
     sections: {
       overview: {
@@ -6002,7 +6002,7 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
       { slug: 'azarath', period: '1998-present', role: 'Drummer' }
     ],
     metaTitle: 'Inferno Drum Kit & Gear Setup — Behemoth Drummer | MetalForge',
-    metaDescription: 'Complete biography of Inferno (Zbigniew Robert Promiński), Behemoth\'s devastating drummer. Explore his extreme metal precision, theatrical performances, and gear.',
+    metaDescription: 'See what drum kit Inferno (Behemoth) plays — Pearl Reference Series kit, Pearl Reference 14x5 Steel snare, Paiste RUDE cymbals, and a Czarcie Kopyto double pedal. Complete gear guide.',
     ogImage: '/images/drummers/inferno.webp',
     sections: {
       overview: {
@@ -6133,7 +6133,7 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
       { slug: 'shining', period: '2005-present', role: 'Session drummer' }
     ],
     metaTitle: 'Hellhammer Drum Kit & Gear Setup — Mayhem Drummer | MetalForge',
-    metaDescription: 'Complete biography of Hellhammer (Jan Axel Blomberg), legendary Mayhem drummer. Explore his pivotal role in black metal history, extreme drumming style, and diverse career.',
+    metaDescription: 'See what drum kit Hellhammer (Mayhem) plays — Sonor SQ2 Heavy Beech kit, 14x5.5 Maple snare, Paiste RUDE cymbals, and an Axis double pedal. Complete gear guide.',
     ogImage: '/images/drummers/hellhammer.webp',
     sections: {
       overview: {
@@ -6514,7 +6514,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
       { slug: 'amon-amarth', period: '1996-1998', role: 'Drummer' }
     ],
     metaTitle: 'Martin Lopez Drum Kit & Gear Setup — Opeth & Soen Drummer | MetalForge',
-    metaDescription: 'Complete biography of Martin Lopez, drummer for Soen and formerly Opeth. Explore his influential work on classic Opeth albums, his Soen career, and unique drumming style.',
+    metaDescription: 'See what drum kit Martin Lopez (Soen) plays — Noble & Cooley Walnut kit, 14x6 Maple snare, Zildjian K Dark Series cymbals, and an Axis Percussion double pedal. Complete gear guide.',
     ogImage: '/images/drummers/martin-lopez.webp',
     sections: {
       overview: {
@@ -7130,7 +7130,7 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
       { slug: 'august-burns-red', period: '2003-present', role: 'Drummer, founding member' }
     ],
     metaTitle: 'Matt Greiner Drum Kit & Gear Setup — August Burns Red Drummer | MetalForge',
-    metaDescription: 'Complete biography of Matt Greiner, founding drummer of August Burns Red. Explore his innovative metalcore style, Grammy-nominated work, signature snare drum, and influence on modern metal drumming.',
+    metaDescription: 'See what drum kit Matt Greiner (August Burns Red) plays — Mapex Black Panther Design Lab kit, Mapex Black Panther 14x5.5 Maple snare, Paiste Formula 602 cymbals, and a DW 9000 Series double pedal. Complete gear guide.',
     ogImage: '/images/drummers/matt-greiner.webp',
     keywords: ['august burns red', 'metalcore', 'christian metal', 'paiste cymbals', 'mapex drums', 'grammy nominated', 'lancaster pa', 'technical metalcore'],
     relatedDrummers: ['chris-turner', 'matt-halpern', 'chris-adler', 'brann-dailor'],
@@ -7786,7 +7786,7 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
       { slug: 'confide', period: '2006-2011', role: 'Drummer' }
     ],
     metaTitle: 'Arin Ilejay Drum Kit & Gear Setup — ex-Avenged Sevenfold Drummer | MetalForge',
-    metaDescription: 'Complete biography of Arin Ilejay, former Avenged Sevenfold drummer. Explore his journey from Confide to A7X, his work on Hail to the King, and his drumming style.',
+    metaDescription: 'See what drum kit Arin Ilejay (Avenged Sevenfold) played — DW Collector\'s Series kit, Zildjian A Custom cymbals, and a DW 9000 Series double pedal. Complete gear guide.',
     ogImage: '/images/drummers/arin-ilejay.webp',
     sections: {
       overview: {
@@ -8432,7 +8432,7 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
       { slug: 'ohm', period: '2004-2016', role: 'Drummer' }
     ],
     metaTitle: 'Nick Menza Drum Kit & Gear Setup — Megadeth Drummer | MetalForge',
-    metaDescription: 'Complete biography of Nick Menza, Megadeth\'s drummer on Rust in Peace and Countdown to Extinction. Explore his double-bass precision, Tama/Pearl gear evolution, and legacy in Big Four thrash metal.',
+    metaDescription: 'See what drum kit Nick Menza (Megadeth) played — Pearl Reference Custom kit, Sabian AA/Signature cymbals, a Tama Iron Cobra double pedal, and his Vater Nick Menza Signature sticks. Complete gear guide.',
     ogImage: '/images/drummers/nick-menza.webp',
     keywords: ['thrash metal', 'megadeth', 'big four', 'rust in peace', 'tama swingstar', 'pearl drums', 'nick menza drum kit'],
     relatedDrummers: ['dirk-verbeuren', 'charlie-benante', 'gene-hoglan'],

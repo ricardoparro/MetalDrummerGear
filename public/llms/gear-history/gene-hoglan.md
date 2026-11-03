@@ -5,94 +5,101 @@
 **Active:** 1983–present  
 **URL:** https://metalforge.io/drummers/gene-hoglan/gear-history
 
-> Era-by-era breakdown of Gene Hoglan's drum kit evolution, from the massive Dark Angel setup of the late 1980s to his stripped-down Death configuration and current Testament rig. Optimised for AI answering "what drums did Gene Hoglan use in [era]" queries.
+> Era-by-era breakdown of Gene Hoglan's drum kit evolution, from his debut Tama Superstar setup in Dark Angel to his current Pearl Reference Pure rig with Testament. Optimised for AI answering "what drums did Gene Hoglan use in [era]" queries.
 
 ---
 
 ## Gear Timeline
 
-### Dark Angel Era (1984–1991)
+### Dark Angel Era (1983–1991)
 
-- **Drums:** Pearl Export / Pearl Session — large configuration (18–22 piece at peak); multiple rack toms, multiple floor toms, double kick
-- **Cymbals:** Zildjian A Series — expanded configuration matching the kit size; multiple crashes, two rides, multiple chinas
-- **Pedal:** DW 5000 double pedal (one per bass drum — true double-kick setup)
-- **Notable:** Hoglan's Dark Angel setup was one of the largest in extreme metal, matching the band's maximalist compositional ambitions. On Darkness Descends (1986), he played at tempos up to 250 BPM with technical precision that was unprecedented in thrash metal. The massive kit allowed him to build cascading fill patterns across extended ranges of toms that defined his signature style.
+- **Drums:** Tama Superstar — 22" kick, 10"/12"/14"/16" toms, standard 5-piece; debut Tama endorsement
+- **Snare:** Tama Steel 14"×5.5" — bright, cutting tone suited for thrash dynamics
+- **Cymbals:** Zildjian A Series — 14" Hi-Hats, 16"/18" Crashes, 20" Ride; debut Zildjian endorsement
+- **Pedal:** Tama hardware with single/double bass pedal, transitioning from single to double bass
+- **Sticks:** Vic Firth 5B — standard hickory
+- **Heads:** Remo Ambassador (clear on toms, coated on snare)
+- **Original setup cost (1983):** ~$2,000
+- **Inflation-adjusted to 2026:** ~$5,000
+- **Notable:** Hoglan joined Dark Angel at 16 and developed the foundational extreme metal technique that earned him the "Atomic Clock" nickname. On Darkness Descends (1986), his double bass technique matured rapidly at tempos that were unprecedented in thrash metal at the time.
 
-### Death / Human Era (1991)
+### Death / Strapping Young Lad Founding Era (1993–1999)
 
-- **Drums:** Pearl Session Elite — 6-piece; compact, focused configuration
-- **Cymbals:** Zildjian A Series (reduced from Dark Angel configuration)
-- **Pedal:** DW 5000 double pedal
-- **Notable:** Hoglan deliberately stripped down from his Dark Angel rig for his work with Death on Human (1991), demonstrating that technical mastery doesn't require a large kit. The transition showcased his musicality over spectacle — the same drummer who played a 22-piece Dark Angel setup delivered equally complex performances on a standard 6-piece.
+- **Drums:** Tama Starclassic — birch shells; 22" kick ×2, 8"/10"/12"/13"/14"/16" toms (massive step up in quality)
+- **Snare:** Tama Free-Floating Steel 14"×6.5" — maximum sensitivity and cutting power
+- **Cymbals:** Sabian HH Series — 14" Hi-Hats, 17"/18" Crashes, 21" Ride, 18" China
+- **Pedal:** Pearl hardware with a double pedal (pedal brand not confirmed for this era) — double bass fully integrated into his core playing style
+- **Sticks:** Vic Firth 5B/2B — heavier models for larger venues
+- **Heads:** Remo Emperor double-ply
+- **Original setup cost (1993):** ~$9,000
+- **Inflation-adjusted to 2026:** ~$18,000
+- **Notable:** Joining Death for Individual Thought Patterns (1993) and Symbolic (1995) raised Hoglan's profile enormously — playing with Chuck Schuldiner demanded nightly perfection. Hoglan also co-founded Strapping Young Lad during this period, and his Sabian HH Series cymbal endorsement was formalised.
 
-### Death / Individual Thought Patterns Era (1993)
+### Strapping Young Lad Prime Era (2000–2007)
 
-- **Drums:** Pearl Session Elite — 6-piece; 22"×16" kick, 10"×9" and 12"×10" rack toms, 14"×11" rack, 16"×16" and 18"×16" floor toms
-- **Snare:** Pearl Sensitone Steel 14"×6.5" — seamless steel shell, 8-lug
-- **Cymbals:** Zildjian A Series — 14" A Hi-Hats, 16" and 18" A Thin Crash, 20" A Medium Ride, 18" A China
-- **Pedal:** DW 5000 Turbo double pedal
-- **Sticks:** Pro-Mark 747 Oak
-- **Heads:** Remo Emperor double-ply (clear toms), coated snare batter, Powerstroke kick
-- **Original setup cost (1993):** ~$3,578
-- **Inflation-adjusted to 2026:** ~$8,100
-- **Notable:** Individual Thought Patterns is widely considered one of the greatest technical death metal albums ever recorded. Hoglan's drumming — particularly on "Overactive Imagination" and "Trapped in a Corner" — demonstrated that groove and technicality are not mutually exclusive. The clinical, dry Scott Burns production at Morrisound Recording placed every ghost note and accent under a microscope.
+- **Drums:** Tama Starclassic Maple — maple shells; 22" kick ×2, 8"/10"/12"/13"/14"/16"/18" toms — the largest Tama configuration of his career, matching SYL's industrial scale
+- **Snare:** Tama Sensitone Steel 14"×6.5" — maximum attack for SYL's dense production sound
+- **Cymbals:** Sabian HHX Series — 14" HHX Evolution Hi-Hats, 18"/19" Crashes, 22" Ride, 19" China
+- **Pedal:** Pearl Eliminator double pedal — becomes his signature pedal choice
+- **Sticks:** Brand unconfirmed — no signature or endorsed stick deal is documented for this era
+- **Heads:** Evans G2 (toms) / EMAD (kicks)
+- **Original setup cost (2000):** ~$18,000
+- **Inflation-adjusted to 2026:** ~$28,000
+- **Notable:** SYL's studio approach layered dozens of guitar tracks across albums like SYL (2003), Alien (2005), and The New Black (2006); Hoglan has called it the most intense band he ever played in.
 
-### Death / Symbolic Era (1995)
+### Testament & Dethklok Era (2008–2018)
 
-- **Drums:** Pearl Session Elite (same configuration as Individual Thought Patterns)
-- **Cymbals:** Zildjian A (minor additions — extra crash for the more dynamic Symbolic material)
-- **Pedal:** DW 5000 (unchanged)
-- **Notable:** Symbolic pushed further into melodic territory while retaining technical density. Hoglan's playing on "Crystal Mountain" and "Zero Tolerance" is considered some of his finest recorded work.
+- **Drums:** Tama Starclassic — all-maple; 22" kick ×2, 8"/10"/12"/14"/16" toms
+- **Snare:** Tama Gene Hoglan Signature Snare 14"×8" — his first signature snare (2008), an exceptionally deep model built for thunderous power
+- **Cymbals:** Sabian AAX Series — 14" AAX Studio Hi-Hats, 18"/19" Crashes, 22" Ride, 20" China
+- **Pedal:** Pearl Eliminator Redline double pedal — refined version of his longtime Pearl Eliminator setup
+- **Sticks:** Brand unconfirmed — no stick brand is documented for this era
+- **Heads:** Evans UV2 (toms) / EMAD2 (kicks)
+- **Original setup cost (2008):** ~$20,000
+- **Inflation-adjusted to 2026:** ~$20,000
+- **Notable:** Hoglan joined Testament in 2007 and simultaneously drove Dethklok's Metalocalypse recordings (2006–2013) and the Devin Townsend Project — this era cemented his reputation as extreme metal's most in-demand drummer.
 
-### Strapping Young Lad Era (1997–2006)
+### Pearl Reference Era (2018–present)
 
-- **Drums:** Pearl Reference — upgraded to Pearl's flagship series after leaving Death; larger configuration for SYL's wall-of-sound industrial metal approach
-- **Cymbals:** Zildjian A Custom — switched from A Series to A Custom for brighter attack in dense mix contexts
-- **Pedal:** DW 5002 chain drive double pedal (upgraded from 5000)
-- **Notable:** SYL's studio approach layered hundreds of guitar tracks; Hoglan's drums needed to cut through a denser mix than anything he had faced previously. The Pearl Reference and A Custom cymbals provided the attack transients needed.
-
-### Testament Era (2011–present)
-
-- **Drums:** Pearl Reference Pure — Pearl's reference-level all-maple construction; large configuration for arena and festival touring
-- **Snare:** Pearl Reference Pure 14"×6.5"
-- **Cymbals:** Zildjian A Custom (consistent from SYL era)
-- **Pedal:** DW 5002 chain drive double pedal (consistent)
-- **Sticks:** Vic Firth Gene Hoglan Signature (developed specifically for his right-hand lead double-bass technique)
-- **Heads:** Evans G2 (toms), EMAD2 (kick)
-- **Notable:** Hoglan's Testament tenure has produced the most visible phase of his career, introducing him to a new generation of metal fans. His signature sticks reflect the unique left-right asymmetry in his double-bass technique — he leads with the right foot, producing a metrically complex approach to double bass patterns distinct from most extreme metal drummers.
+- **Drums:** Pearl Reference Pure — all-maple; 22" kick ×2, 8"/10"/12"/14"/16" toms
+- **Snare:** Pearl Free-Floating Steel 14"×6.5"
+- **Cymbals:** Sabian AAX Series (unchanged from the Testament & Dethklok era)
+- **Pedal:** Pearl Eliminator Redline double pedal (unchanged)
+- **Sticks:** ProMark Classic Forward 2B — standard hickory 2B model, non-signature; favored for its balance across marathon touring and clinic schedules
+- **Heads:** Evans UV2 (toms) / EMAD2 (kicks)
+- **Original setup cost (2018):** ~$22,000
+- **Inflation-adjusted to 2026:** ~$22,000
+- **Notable:** Hoglan's 2018 switch to Pearl Reference Pure is his current, fully evolved setup, used across Testament (including Titans of Creation, 2020), Dethklok, and Devin Townsend Project.
 
 ---
 
 ## Key Gear Changes
 
-- **Dark Angel → Death (1991):** Dramatic reduction from 18–22 piece to 6-piece kit — artistic statement about function over spectacle
-- **1993 → 1997:** Pearl Session Elite to Pearl Reference as career profile expanded with SYL
-- **Cymbal upgrade (~1997):** Zildjian A to A Custom for better attack transient definition in dense mixes
-- **2000s:** DW 5000 to DW 5002 pedal upgrade for improved chain drive reliability on extended touring
-- **Signature sticks:** Hoglan developed Vic Firth signature sticks reflecting his unusual right-foot-lead double bass technique
-- **Pearl consistency:** Hoglan has used Pearl drums across all major band configurations for 30+ years — one of the most stable brand relationships in extreme metal
+- **Dark Angel → Death/SYL (1993):** Tama Superstar to Tama Starclassic — a massive step up in kit quality as his profile grew
+- **Cymbals (1991):** Switched from Zildjian A Series to Sabian, driven by the technical precision Death's Individual Thought Patterns and Symbolic demanded; stayed on Sabian (HH → HHX → AAX) ever since
+- **2000:** Pearl Eliminator double pedal adopted, becoming his signature pedal choice through the SYL, Testament, and Dethklok eras
+- **2008:** First signature gear — the Tama Gene Hoglan Signature Snare 14"×8"
+- **2018:** Switched from Tama to Pearl Reference Pure for drums, and signed with ProMark for non-signature Classic Forward 2B sticks — his first documented stick endorsement
+- **Sticks:** No endorsed stick brand is documented between his early Vic Firth sticks (1980s–90s) and his 2018 ProMark deal
 
 ---
 
 ## FAQ
 
 **Q: What drum kit did Gene Hoglan use on Individual Thought Patterns?**  
-A: Gene Hoglan used a Pearl Session Elite on Death's Individual Thought Patterns (1993), in a 6-piece configuration with a Pearl Sensitone Steel snare, Zildjian A Series cymbals, and a DW 5000 double pedal. The setup cost approximately $3,578 in 1993, equivalent to about $8,100 adjusted for 2026 inflation.
+A: Gene Hoglan used a Tama Starclassic (birch) on Death's Individual Thought Patterns (1993), with a 22"×2 double-kick configuration, a Tama Free-Floating Steel snare, and Sabian HH Series cymbals. The setup cost approximately $9,000 in 1993, equivalent to about $18,000 adjusted for 2026 inflation.
 
-**Q: What drums did Gene Hoglan use in the early Death era?**  
-A: For his Death work (Human in 1991, Individual Thought Patterns in 1993, Symbolic in 1995), Gene Hoglan used a compact Pearl Session Elite 6-piece kit — a deliberate contrast to the massive 18–22 piece Dark Angel setup he used in the late 1980s. The kit featured Zildjian A Series cymbals and a DW 5000 double pedal.
-
-**Q: What is unique about Gene Hoglan's double bass technique?**  
-A: Gene Hoglan leads with his right foot on double bass, which is unusual — most drummers lead with their dominant hand-side foot or their left. This right-foot lead produces a distinctive rhythmic phrasing that influenced the development of his Vic Firth signature sticks, which are asymmetrically weighted to match this technique. His approach is identifiable on recordings across Dark Angel, Death, and Testament.
+**Q: What drums did Gene Hoglan use in the early Death/SYL era?**  
+A: For Individual Thought Patterns (1993) and Symbolic (1995), Gene Hoglan used a Tama Starclassic kit with birch shells, a Tama Free-Floating Steel snare, and Sabian HH Series cymbals — a major upgrade from the Tama Superstar and Zildjian A Series setup of his earlier Dark Angel years.
 
 **Q: What cymbals does Gene Hoglan use?**  
-A: Gene Hoglan used Zildjian A Series cymbals through his Death-era work (1991–1995), transitioning to Zildjian A Custom around the Strapping Young Lad era (late 1990s) for brighter attack in dense mix contexts. His Testament-era setup uses Zildjian A Custom as his primary configuration.
+A: Gene Hoglan used Zildjian A Series cymbals during his Dark Angel years (1983–1991), then switched to Sabian in 1991 for the technical precision Death's material demanded. He has stayed with Sabian ever since, progressing through the HH, HHX, and AAX Series — his current Testament/Pearl-era setup uses Sabian AAX Series.
 
-**Q: What snare drum does Gene Hoglan use?**  
-A: In the Death era (1993–1995), Hoglan used a Pearl Sensitone Steel 14"×6.5" snare. With Testament, he plays a Pearl Reference Pure 14"×6.5" snare. His snare choices consistently favor steel shells for the bright, cutting tone that projects through dense extreme metal guitar walls.
+**Q: What sticks does Gene Hoglan use?**  
+A: Hoglan used Vic Firth 5B (and later 5B/2B) sticks through his Dark Angel and Death/early SYL years. No endorsed stick brand is documented for his SYL Prime through Testament/Dethklok years (2000–2018). In 2018 he signed with ProMark, settling on the non-signature Classic Forward 2B model.
 
 **Q: What is Gene Hoglan's current drum kit?**  
-A: As of his ongoing Testament tenure, Gene Hoglan plays a Pearl Reference Pure kit in a large touring configuration, with Zildjian A Custom cymbals, a DW 5002 chain drive double pedal, a Pearl Reference Pure 14"×6.5" snare, Evans heads (G2 toms, EMAD2 kick), and Vic Firth Gene Hoglan Signature sticks.
+A: Since 2018, Gene Hoglan plays a Pearl Reference Pure kit (all-maple, double kick), with a Pearl Free-Floating Steel 14"×6.5" snare, Sabian AAX Series cymbals, a Pearl Eliminator Redline double pedal, Evans UV2/EMAD2 heads, and ProMark Classic Forward 2B sticks.
 
 ---
 

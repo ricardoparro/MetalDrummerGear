@@ -5,119 +5,121 @@
 **Active:** 1985–present  
 **URL:** https://metalforge.io/drummers/mike-portnoy/gear-history
 
-> Era-by-era breakdown of Mike Portnoy's drum kit evolution, from his early Tama Artstar II setup on Images and Words to his current configuration with Dream Theater. Optimised for AI answering "what drums did Mike Portnoy use in [era]" queries.
+> Era-by-era breakdown of Mike Portnoy's drum kit evolution, from his early Tama Artstar II setup on Images and Words to his current Dream Theater configuration. Optimised for AI answering "what drums did Mike Portnoy use in [era]" queries.
 
 ---
 
 ## Gear Timeline
 
-### Early Dream Theater / When Dream and Day Unite Era (1989–1991)
+### Images & Words Era (1988–1993)
 
-- **Drums:** Tama Swingstar — budget entry-level kit used during early DT club performances and the When Dream and Day Unite sessions
-- **Cymbals:** Mixed Sabian cymbals (entry configuration)
-- **Pedal:** DW 5000 single / early double pedal
-- **Notable:** Portnoy was developing the technical vocabulary that would define his later work; the Swingstar kit belied the musical ambition of the material.
+- **Drums:** Tama Artstar II — birch shells; 22" kick, 10"/12"/13"/14"/16" toms; Neil Peart-inspired large kit
+- **Snare:** Tama Artstar II 14"×6.5" — birch shell with die-cast hoops
+- **Cymbals:** Sabian AA — 14" New Beat Hi-Hats, 17"/18" Crashes, 20" Ride, 18" China; signed with Sabian in 1985, before Images & Words
+- **Pedal:** Tama Iron Cobra Single Pedal — double bass was added progressively as the music demanded it
+- **Sticks:** Vic Firth 5B — standard hickory, off-the-shelf early in his career
+- **Heads:** Remo Ambassador (clear on toms, coated on snare)
+- **Original setup cost (1988):** ~$6,000
+- **Inflation-adjusted to 2026:** ~$13,000
+- **Notable:** The multi-tom layout, inspired by Neil Peart, was essential for Portnoy's developing fill vocabulary on When Dream and Day Unite (1989) and Images and Words (1992) — the album widely regarded as establishing progressive metal as a distinct genre.
 
-### Images and Words Era (1992)
+### Awake Era (1994–1996)
 
-- **Drums:** Tama Artstar II — 8-piece; 22"×18" kick, 8"×8", 10"×10", 12"×10" rack toms, 14"×14", 16"×16", 18"×16" floor toms
-- **Snare:** Tama Artstar II Steel 14"×6.5" — 10-lug steel shell
-- **Cymbals:** Sabian — 14" Hi-Hats, 16" and 18" Crash, 20" Medium Ride, 18" China
-- **Pedal:** DW 5002 chain drive double pedal
-- **Sticks:** Pro-Mark 747 Oak
-- **Heads:** Remo Ambassador (clear toms), Powerstroke P3 (kick)
-- **Original setup cost (1992):** ~$5,100
-- **Inflation-adjusted to 2026:** ~$11,900
-- **Notable:** The multi-tom layout was essential for Portnoy's metric modulation and complex fill vocabulary on tracks like "Pull Me Under," "Take the Time," and "Metropolis Pt. 1." Images and Words is widely regarded as the album that established progressive metal as a distinct genre.
+- **Drums:** Tama Artstar II (expanded) — birch shells; 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms — two kick drums and more toms for wider tonal range
+- **Snare:** Tama Bell Brass 14"×6.5" — seamless bell brass shell, switched for more crack and projection
+- **Cymbals:** Sabian AAX — 14" Hi-Hats, 16"/17"/18"/19" Crashes, 22" Ride, 18"/20" Chinas
+- **Pedal:** Tama Iron Cobra HP900 Double Pedal — full double-bass rig now standard
+- **Sticks:** Pro-Mark Mike Portnoy Signature — hickory, custom taper; his first signature drumstick deal
+- **Heads:** Remo Emperor double-ply
+- **Original setup cost (1994):** ~$12,000
+- **Inflation-adjusted to 2026:** ~$25,000
+- **Notable:** Awake was Dream Theater's heaviest, darkest record to that point; Portnoy's kit grew in size and complexity to match, and this expanded Tama Artstar II/Sabian AAX setup carried unchanged through the Falling into Infinity era (1997–1998).
 
-### Awake Era (1994)
+### Metropolis Pt. 2 / Scenes from a Memory Era (1999–2001)
 
-- **Drums:** Tama Artstar II — same shell pack with updated hardware and a darker finish
-- **Snare:** Tama Artstar II Steel 14"×6.5" (unchanged)
-- **Cymbals:** Sabian (unchanged core, added second China for Awake's denser arrangements)
-- **Pedal:** DW 5002 (unchanged)
-- **Notable:** Awake represented DT's heaviest album to that point; Portnoy's playing became more aggressive while retaining the polyrhythmic complexity of Images and Words.
+- **Drums:** Tama Starclassic Maple — maple shells; 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms; upgraded within Tama for a warmer, more resonant sound
+- **Snare:** Tama Starclassic Maple 14"×6.5"
+- **Cymbals:** Sabian AAX — expanded array covering 16"–20" crashes, 22" ride, 18"/20" Chinas, and splash cymbals for the concept album's full dynamic range
+- **Pedal:** Tama Iron Cobra HP900 Double Pedal (Speed Cobra setup)
+- **Sticks:** Pro-Mark Mike Portnoy Signature — refined hickory model
+- **Heads:** Remo Emperor (toms) / Ambassador (snare)
+- **Electronics:** Roland Octapad — first major electronic integration for triggering samples live
+- **Original setup cost (1999):** ~$18,000
+- **Inflation-adjusted to 2026:** ~$32,000
+- **Notable:** Scenes from a Memory is widely considered Dream Theater's most acclaimed album; Portnoy's drumming on "The Dance of Eternity" showcased the most complex metric modulation of his career to that point.
 
-### Falling into Infinity / A Change of Seasons Era (1995–1997)
+### Train of Thought / Octavarium Era (2002–2006)
 
-- **Drums:** Tama Starclassic Maple — first switch to Starclassic series; lighter, more responsive shells than Artstar II
-- **Cymbals:** Sabian (expanded — added 20" and 22" crashes for larger live setups)
-- **Pedal:** DW 5002 chain drive (unchanged)
-- **Electronics:** Alesis D4 drum module for trigger layering on select passages
-- **Notable:** Portnoy began integrating electronic elements into his acoustic setup during this period, a practice he continued through all subsequent DT albums.
+- **Drums:** Tama Starclassic Maple (expanded) — 22"/24" kicks, 8"–20" toms, now including a 20" floor tom — the largest kit of his career
+- **Snare:** Tama Mike Portnoy Signature Snare 14"×6.5" Maple — his first Tama signature snare
+- **Cymbals:** Sabian Mike Portnoy Signature — 14" hi-hats, signature crashes and ride, Chinas, tailored to his exact requirements
+- **Pedal:** Tama Iron Cobra HP900 Double Pedal with Power Glide cam
+- **Sticks:** Pro-Mark Mike Portnoy Signature — hickory with nylon tip option
+- **Heads:** Evans G2 (toms) / EMAD (kicks) — switched to Evans for better durability on heavier material
+- **Electronics:** Roland SPD-S / Octapad — expanded electronic integration
+- **Original setup cost (2002):** ~$25,000
+- **Inflation-adjusted to 2026:** ~$40,000
+- **Notable:** Train of Thought was Dream Theater's heaviest album to that point; Portnoy adopted heavier hardware and his first signature snare and cymbal lines to match the increased physical demands.
 
-### Metropolis Pt. 2 / Scenes from a Memory Era (1999)
+### Systematic Chaos Era (2007–2010)
 
-- **Drums:** Tama Starclassic Maple — expanded configuration (12+ piece for touring)
-- **Snare:** Tama Starclassic Steel 14"×6.5"
-- **Cymbals:** Sabian — 14" hi-hats, 17" and 19" crash, 20" medium ride, 22" ride, 18" and 20" china
-- **Pedal:** DW 5002 (consistent through DT tenure)
-- **Electronics:** Roland V-Drum module for electronic percussion pads
-- **Sticks:** Ahead Mike Portnoy Signature (aluminum core, switched from Pro-Mark)
-- **Notable:** Scenes from a Memory is DT's most acclaimed album; Portnoy's drumming on "The Dance of Eternity" showcased the most complex metric modulation of his career.
+- **Drums:** Tama Starclassic Maple — custom finish; 22"/24" kicks, full tom array 8"–20"; the ultimate Portnoy/Dream Theater-era configuration
+- **Snare:** Tama Mike Portnoy Signature 14"×6.5" (refined maple model)
+- **Cymbals:** Sabian Mike Portnoy Signature Suite — full signature setup (hi-hats, crashes, rides, Chinas)
+- **Pedal:** Tama Iron Cobra HP900 double pedal with Speed Cobra beaters — two decades of Iron Cobra loyalty
+- **Sticks:** Pro-Mark Mike Portnoy Signature (hickory/nylon)
+- **Heads:** Evans G2 (toms) / EMAD2 (kicks)
+- **Electronics:** Roland SPD-S and TD module — full hybrid acoustic/electronic rig with triggers for arena-level consistency
+- **Original setup cost (2007):** ~$30,000
+- **Inflation-adjusted to 2026:** ~$44,000
+- **Notable:** This was Portnoy's peak Dream Theater-era kit configuration, featured on Systematic Chaos (2007) and Black Clouds & Silver Linings (2009), before his departure from the band in September 2010.
 
-### Six Degrees of Inner Turbulence / Train of Thought Era (2002–2003)
+### Winery Dogs / Post-DT Era and Dream Theater Return (2011–present)
 
-- **Drums:** Tama Starclassic Maple Bubinga — bubinga/maple hybrid shells for increased low-end density on heavier material
-- **Cymbals:** Sabian (unchanged core configuration)
-- **Notable:** Train of Thought was DT's heaviest album; Portnoy adopted heavier hardware to match the increased physical demands.
-
-### Systematic Chaos / Black Clouds Era (2007–2009)
-
-- **Drums:** Tama Starclassic Maple Bubinga — large configuration (14+ piece)
-- **Snare:** Multiple snares (Tama Signature, Rogers Dyna-Sonic for snare-off passages)
-- **Cymbals:** Sabian + Wuhan China + AAX Splash additions
-- **Electronics:** Roland SPD-S and Roland V-Pads (electronic kit alongside acoustic for studio triggers)
-- **Pedal:** DW 5002 (consistent throughout DT tenure)
-
-### Post–Dream Theater (2010–2022)
-
-- **Projects:** Avenged Sevenfold (fill-in 2010), Winery Dogs (2013–), Sons of Apollo (2017–), many others
-- **Drums:** Tama Starclassic Maple — slimmed-down touring configuration for smaller-format projects
-- **Cymbals:** Sabian (maintained throughout all projects)
-- **Notable:** Portnoy's prolific post-DT output across dozens of bands kept his gear largely consistent while the drumming contexts varied dramatically.
-
-### Return to Dream Theater / Current Setup (2023–present)
-
-- **Drums:** Tama Starclassic Maple Bubinga — full large-format configuration restored for DT reunion touring
-- **Snare:** Tama Mike Portnoy Signature snare
-- **Cymbals:** Sabian — 14" hi-hats, 17" and 19" crashes, 20" medium ride, 18" and 20" china, 22" ride
-- **Pedal:** DW 5002 chain drive double pedal
-- **Electronics:** Roland SPD-SX for electronic sample triggering
-- **Sticks:** Ahead Mike Portnoy Signature (aluminum core)
+- **Context:** Portnoy played with Adrenaline Mob, The Winery Dogs (2013–), and Sons of Apollo (2017–) before rejoining Dream Theater in 2023, recording A View from the Top of the World-era and 2025's Parasomnia
+- **Drums:** Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) — longtime Tama endorser since 1985; this dual-shell kit remains his rig across Winery Dogs, Sons of Apollo, and Dream Theater
+- **Snare:** Tama Mike Portnoy Signature Melody Master 14"×5.5" — consistent across all post-DT projects
+- **Cymbals:** Sabian HHX MAX / AAX MAXX Series — 22" HHX MAX Ride, X-Plosion crashes, O-Zone crash, HHX/Paragon Chinas, AAX MAXX splashes, AA MAX chimes
+- **Pedal:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
+- **Sticks:** Promark Mike Portnoy Signature TXMP420XW-AG — hickory signature stick, unchanged across post-DT projects
+- **Heads:** Remo Emperor Coated / Ambassador
+- **Electronics:** Roland SPD-SX Sampling Pad — simplified electronics for smaller-venue touring
+- **Original setup cost (2011):** ~$28,000
+- **Inflation-adjusted to 2026:** ~$28,000
+- **Notable:** Portnoy streamlined to the "Dream Monster" dual Starclassic kit for power-trio contexts, maintaining his Tama/Sabian/Promark endorsements across every project through his 2023 Dream Theater reunion.
 
 ---
 
 ## Key Gear Changes
 
-- **1989 → 1992:** Tama Swingstar to Tama Artstar II — first professional kit with full endorsement
-- **1995:** Artstar II to Tama Starclassic Maple — lighter, more resonant shells
-- **1999:** Addition of Roland electronics for hybrid acoustic/electronic setup
-- **2002:** Starclassic Maple to Starclassic Maple Bubinga for heavier material
-- **Electronics integration:** Portnoy was among the first progressive metal drummers to systematically integrate electronic pads alongside acoustic drums in a live/studio hybrid configuration
-- **Cymbal consistency:** Sabian has been Portnoy's primary cymbal choice across his entire career — one of the most stable endorsements in progressive metal
+- **1994:** Tama Artstar II (expanded) — added a second kick drum and more toms; Pro-Mark signature stick deal begins
+- **1999:** Upgraded within Tama from Artstar II to Starclassic Maple — warmer, more resonant shells
+- **2002:** First Tama Mike Portnoy Signature snare and Sabian Mike Portnoy Signature cymbal line launched
+- **2011:** Streamlined to the "Dream Monster" dual Tama Starclassic Maple/Bubinga kit and the Tama Mike Portnoy Signature Melody Master snare for post-DT projects
+- **Pedal consistency:** Tama Iron Cobra (single, then HP900 double, then Power Glide Twin) has been Portnoy's pedal of choice throughout his entire career — no other brand is documented
+- **Cymbal consistency:** Sabian has been Portnoy's primary cymbal choice since 1985 — one of the most stable endorsements in progressive metal
 
 ---
 
 ## FAQ
 
 **Q: What drum kit did Mike Portnoy use on Images and Words?**  
-A: Mike Portnoy used a Tama Artstar II on Images and Words (1992), with an 8-piece configuration featuring maple shells. His cymbals were Sabian, and he used a DW 5002 double pedal. The setup cost approximately $5,100 in 1992, equivalent to about $11,900 adjusted for 2026 inflation.
+A: Mike Portnoy used a Tama Artstar II on Images and Words (1992), with birch shells (22" kick, 10"/12"/13"/14"/16" toms) and a matching Tama Artstar II snare. His cymbals were Sabian AA, and he used a Tama Iron Cobra Single Pedal. The setup cost approximately $6,000 in 1988, equivalent to about $13,000 adjusted for 2026 inflation.
 
 **Q: What kit did Mike Portnoy use in the 90s?**  
-A: In the early 1990s (Images and Words, Awake), Portnoy used a Tama Artstar II with Sabian cymbals and a DW 5002 pedal. By the mid-to-late 90s (Falling into Infinity, Scenes from a Memory) he had transitioned to the Tama Starclassic Maple, which became his primary kit through his Dream Theater tenure.
+A: In the early-to-mid 1990s (Images and Words, Awake), Portnoy used a Tama Artstar II with Sabian AA/AAX cymbals and a Tama Iron Cobra pedal. By 1999 (Metropolis Pt. 2: Scenes from a Memory), he had upgraded within Tama to the Starclassic Maple, which became his primary kit through the rest of his Dream Theater tenure.
 
-**Q: How much would a 1992 Dream Theater drum kit cost today?**  
-A: Mike Portnoy's 1992 Tama Artstar II setup cost approximately $5,100 at the time. Adjusted for US CPI inflation to 2026, that is equivalent to roughly $11,900 — not counting any collector premium on vintage Tama Artstar pieces, which have appreciated significantly on the used market.
+**Q: How much would a 1988 Dream Theater drum kit cost today?**  
+A: Mike Portnoy's Images & Words-era Tama Artstar II setup cost approximately $6,000 at the time. Adjusted for US CPI inflation to 2026, that is equivalent to roughly $13,000.
 
 **Q: What cymbals does Mike Portnoy use?**  
-A: Mike Portnoy has used Sabian cymbals throughout his career, from the Images and Words era (1992) to his current Dream Theater reunion setup. His core configuration typically includes 14" Hi-Hats, 17" and 19" crashes, a 20" medium ride, and a China cymbal.
+A: Mike Portnoy has used Sabian cymbals throughout his career — signing with Sabian in 1985, before Dream Theater's commercial breakthrough. His setup progressed from Sabian AA/AAX in the 1990s to his own Sabian Mike Portnoy Signature line (2002) and Signature Suite (2007), and currently uses the Sabian HHX MAX / AAX MAXX Series.
 
 **Q: What sticks does Mike Portnoy use?**  
-A: Portnoy used Pro-Mark 747 Oak sticks in the early Dream Theater years, transitioning to Ahead Mike Portnoy Signature sticks (aluminum core) around the late 1990s. The Ahead sticks' aluminum construction provides exceptional durability for his high-energy, technically demanding performances.
+A: Portnoy used Vic Firth 5B sticks in the earliest Dream Theater years, then signed his first signature stick deal with Pro-Mark in 1994 (Mike Portnoy Signature, hickory). His current stick is the Promark Mike Portnoy Signature TXMP420XW-AG, a hickory signature model he has used consistently across his post-Dream Theater projects and his 2023 Dream Theater return.
 
 **Q: What is Mike Portnoy's current drum kit?**  
-A: As of the 2023 Dream Theater reunion, Mike Portnoy plays a Tama Starclassic Maple Bubinga in a large configuration, with Sabian cymbals, a DW 5002 chain drive double pedal, a Tama Mike Portnoy Signature snare, Roland SPD-SX electronic pads, and Ahead Mike Portnoy Signature sticks.
+A: As of his 2023 Dream Theater reunion, Mike Portnoy plays a dual Tama Starclassic Maple/Bubinga "Dream Monster" kit, with Sabian HHX MAX/AAX MAXX cymbals, a Tama Iron Cobra Power Glide Twin Pedal, a Tama Mike Portnoy Signature Melody Master 14"×5.5" snare, a Roland SPD-SX sampling pad, and Promark Mike Portnoy Signature TXMP420XW-AG sticks.
 
 ---
 

@@ -744,7 +744,7 @@ export const articles = {
           "Demonstrates the dynamic range Heritage demands between soft and heavy",
           "The same DW kick drums as Watershed, deployed with far more restraint"
         ],
-        "gearNotes": "The twin bass drums enable the sustained patterns in Häxprocess's heavier sections. Even here, the kick drums are deployed with more restraint than on any Watershed track — serving the arrangement rather than driving it."
+        "gearNotes": "The custom DW kit's kick response enables the sustained double-bass patterns in Häxprocess's heavier sections. Even here, the kick drum is deployed with more restraint than on any Watershed track — serving the arrangement rather than driving it."
       },
       {
         "track": "Folklore",
@@ -1037,9 +1037,9 @@ export const articles = {
           "Pale Communion's heaviest track — closest approach to the Watershed metal vocabulary",
           "Twin-kick double bass makes a more prominent appearance than anywhere on Heritage",
           "Dynamic contrast between soft verses and heavier sections demonstrates Axenrot's range",
-          "The twin bass drums enable the sustained kick patterns in the heavier sections"
+          "The custom DW kit enables the sustained double-bass kick patterns in the heavier sections"
         ],
-        "gearNotes": "The twin bass drums deliver fast, precise response for the heavier sections of Cusp of Eternity. The DW kick drums' warmer fundamental keeps the low end from becoming too aggressive — preserving the prog-rock character even at the album's heaviest point."
+        "gearNotes": "The custom DW kit delivers fast, precise kick response for the heavier sections of Cusp of Eternity. The DW kick drum's warmer fundamental keeps the low end from becoming too aggressive — preserving the prog-rock character even at the album's heaviest point."
       },
       {
         "track": "River",
@@ -1334,7 +1334,7 @@ export const articles = {
           "Soft prog-rock verse sections contrast with heavier choruses — widest dynamic range on the album",
           "Demonstrates Axenrot's complete prog-era vocabulary: soft jazz to assertive metal"
         ],
-        "gearNotes": "The twin bass drums enable the more prominent double-bass patterns in the heavier sections. The SABIAN HHX Chinese makes its most assertive appearance here — the trash accent voice returning for the first time since Watershed. The custom DW kit's dynamic range spans from the soft verse touch to the heavier chorus attack without a kit change."
+        "gearNotes": "The custom DW kit enables the more prominent double-bass patterns in the heavier sections. The SABIAN HHX Chinese makes its most assertive appearance here — the trash accent voice returning for the first time since Watershed. The kit's dynamic range spans from the soft verse touch to the heavier chorus attack without a kit change."
       },
       {
         "track": "Will O the Wisp",
@@ -1358,7 +1358,7 @@ export const articles = {
           "The SABIAN HHX Chinese marks aggressive arrivals — the most metal cymbal use of the prog era",
           "Demonstrates that the extreme metal foundation was never lost, only held in reserve"
         ],
-        "gearNotes": "The twin bass drums work hardest on The Ward — the most sustained double-bass track of the entire prog era. The SABIAN HHX Chinese and the DW kit's assertive kick attack together signal that Sorceress is occupying different territory from Heritage and Pale Communion, even on the exact same gear."
+        "gearNotes": "The custom DW kit works hardest on The Ward — the most sustained double-bass track of the entire prog era. The SABIAN HHX Chinese and the DW kit's assertive kick attack together signal that Sorceress is occupying different territory from Heritage and Pale Communion, even on the exact same gear."
       }
     ],
     "faq": [
@@ -1641,7 +1641,7 @@ export const articles = {
           "Demonstrates the Watershed-era vocabulary resurfacing eleven years later",
           "Swedish title (\"Svekets Prins,\" roughly \"Prince of Betrayal\") carries different phrasing cadence than the English lyric"
         ],
-        "gearNotes": "The twin bass drums drive the track's sustained double-bass sections, the clearest connection to Axenrot's extreme metal background since Sorceress's \"The Ward.\""
+        "gearNotes": "The custom DW kit drives the track's sustained double-bass sections, the clearest connection to Axenrot's extreme metal background since Sorceress's \"The Ward.\""
       },
       {
         "track": "Heart in Hand (Hjärtat Vet Vad Handen Gör)",

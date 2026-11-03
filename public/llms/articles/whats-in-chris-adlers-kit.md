@@ -23,22 +23,22 @@ After 25 years with Lamb of God, Adler departed in 2019. But his influence remai
 
 ## Gear Breakdown
 
-- **Drums:** Mapex Mapex Black Panther Velvetone Series (Custom Black / Lamb of God Graphics finish)
+- **Drums:** Mapex Mapex Saturn (Satin Black Maple Burl finish)
 - **Snare:** Mapex Mapex Chris Adler Signature Black Panther Warbird, 14" x 5.5"
 - **Cymbals:** Meinl — Meinl Byzance
 - **Hardware / Pedals:** Trick Pro V Double Pedal; Roc-N-Soc Nitro Throne; Promark Chris Adler Signature TX5AXW; Mapex IQ Series Rack
 - **Heads:** Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high for maximum response and crack
 
-### Chris's Mapex Black Panther Fortress
+### Chris's Mapex Saturn Setup
 
-Chris Adler's Mapex Black Panther setup was the engine behind Lamb of God's crushing sound. The Velvetone series, with its hybrid maple/walnut shells, provided the perfect combination of attack and warmth that groove metal demands — punchy enough to cut, warm enough to groove.
+Chris Adler's Mapex Saturn setup was the engine behind Lamb of God's crushing sound. The all-maple shells, finished in Satin Black Maple Burl, provided the perfect combination of attack and warmth that groove metal demands — punchy enough to cut, warm enough to groove.
 
 The dual 22" bass drums are central to Adler's approach. While he could easily have used a double pedal (and sometimes did for studio work), the dual kick configuration gave him the visual and sonic presence that matched Lamb of God's intensity. Each drum has its own distinct character, and Adler's patterns often play with subtle differences between them.
 
 The tom configuration — two rack toms (10" and 12") and two floor toms (14" and 16") — gives Adler melodic options without overcrowding his setup. He's not a tom-heavy player; his fills serve the groove rather than showcasing chops. When he does use toms, they're placed precisely for maximum impact.
 
-Mapex's Black Panther line represents their professional tier, with meticulous attention to bearing edges and shell construction. The Velvetone's maple provides fundamental attack while the walnut adds body and complexity. It's a shell combination designed for music that needs to hit hard without sacrificing tone.
+Mapex's Saturn line represents their professional tier, with meticulous attention to bearing edges and shell construction. The all-maple shells deliver fundamental attack and projection without sacrificing warmth. It's a shell combination designed for music that needs to hit hard without sacrificing tone.
 
 Throughout his career, Adler's kit remained remarkably consistent — proof that he found his voice early and never needed to chase gear upgrades. The Mapex setup served him from club shows to arena headlining without missing a beat.
 
@@ -102,19 +102,19 @@ Every time a drummer finds the pocket in a heavy riff, every time a China cymbal
 - Five Grammy nominations with Lamb of God
 - Brother Willie Adler is Lamb of God guitarist
 - Dual bass drums for visual and sonic impact
-- Maple/Walnut hybrid shells for attack and warmth
+- All-maple shells for attack and warmth
 - Minimal tom configuration — grooves over fills
-- Black Panther series represents Mapex professional tier
+- Saturn series represents Mapex professional tier
 - Consistent setup throughout Lamb of God career
-- Custom Lamb of God graphics on touring kits
-- Estimated kit value: $4,000-6,000 (Black Panther configuration)
+- Satin Black Maple Burl finish on touring kits
+- Estimated kit value: $4,000-6,000 (Mapex Saturn configuration)
 - Estimated snare value: $400-500 (Signature Warbird snare)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit does Chris Adler use?**
 
-A: Chris Adler plays a Mapex Black Panther Velvetone Series kit with maple and walnut hybrid shells. His setup includes dual 22x18 inch bass drums, rack toms at 10x8 and 12x9 inches, and 14 and 16 inch floor toms. The maple and walnut hybrid construction gives the Black Panther Velvetone a warm yet focused tone, well-matched to the tight, groove-driven aggression that defined his work with Lamb of God.
+A: Chris Adler plays a Mapex Saturn kit with all-maple shells in a Satin Black Maple Burl finish. His setup includes dual 22x18 inch bass drums, rack toms at 10x8 and 12x9 inches, and 14 and 16 inch floor toms. The all-maple construction gives the Saturn a warm yet focused tone, well-matched to the tight, groove-driven aggression that defined his work with Lamb of God.
 
 **Q: What cymbals does Chris Adler use?**
 
@@ -122,7 +122,7 @@ A: Chris Adler uses Meinl Byzance series cymbals throughout his setup. His confi
 
 **Q: How much does Chris Adler's drum kit cost?**
 
-A: A Mapex Black Panther Velvetone Series kit in Adler's dual bass drum configuration costs approximately $4,000 to $6,000. His Mapex Chris Adler Signature Black Panther Warbird snare, a 12 inch by 5.5 inch model, adds around $400 to $500. A full Meinl Byzance cymbal setup matching his will add another $1,500 to $2,500. Total estimated cost to replicate his Lamb of God setup is roughly $5,900 to $9,000.
+A: A Mapex Saturn kit in Adler's dual bass drum configuration costs approximately $4,000 to $6,000. His Mapex Chris Adler Signature Black Panther Warbird snare, a 12 inch by 5.5 inch model, adds around $400 to $500. A full Meinl Byzance cymbal setup matching his will add another $1,500 to $2,500. Total estimated cost to replicate his Lamb of God setup is roughly $5,900 to $9,000.
 
 **Source:** https://metalforge.io/articles/whats-in-chris-adlers-kit
 

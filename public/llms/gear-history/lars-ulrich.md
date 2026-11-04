@@ -36,11 +36,12 @@
 
 ### Black Album Era (1991)
 
-- **Drums:** Tama Artstar II — custom hardware, larger rack tom configuration
-- **Cymbals:** Zildjian A Custom series — 14" A Custom hi-hats, 17" crash, 19" crash, 20" medium ride
+- **Drums:** Tama Granstar Custom — maple/basswood shells, warmer and rounder than the Artstar, Bob Rock's influence
+- **Snare:** Tama Bell Brass 14"x6.5" — seamless bell brass shell; THE Black Album snare, that iconic crack
+- **Cymbals:** Zildjian Z Custom — 14" Z Dyno Beat Hi-Hats, 18"/19" Z Customs, 22" Ride
 - **Pedal:** Tama Iron Cobra 900 double pedal (adopted in 1990)
 - **Heads:** Remo Emperor (toms), Powerstroke 3 (kick), Controlled Sound (snare)
-- **Producer notes:** Bob Rock and Lars worked extensively on head tuning; the snare was recorded with two microphones to capture both crack and warmth. No signature snare model is documented for this era — Lars's first signature snare, the LU1465, wouldn't arrive until 2000.
+- **Producer notes:** Bob Rock and Lars worked extensively on head tuning; the snare was recorded with two microphones to capture both crack and warmth. The Tama Bell Brass 14"x6.5" is not a signature model — Lars's first signature snare, the LU1465, wouldn't arrive until 2000.
 - **Notable:** Most commercially successful Metallica album; kit specs here are the most-searched era. Lars had no signature stick deal at this point — the Ahead Lars Ulrich Signature stick launched in 1996.
 
 ### St. Anger Era (2003)
@@ -78,7 +79,7 @@
 - **1984:** Switched from Camco to Tama (Artstar II) as Metallica's touring budget expanded
 - **1986:** Signed with Remo drumheads, continuing on the Tama Starclassic Maple line
 - **1990:** Adopted Tama Iron Cobra 900 hardware/pedal, used continuously ever since
-- **1991:** Black Album studio sessions with Tama Artstar II and A Custom cymbals
+- **1991:** Black Album studio sessions with Tama Granstar Custom and Zildjian Z Custom cymbals
 - **1996:** Signed with Ahead for the Lars Ulrich Signature stick — his first-ever signature stick deal
 - **2000:** Introduced the Tama LU1465 Lars Ulrich Signature snare
 - **2003 snare controversy:** Removed snare wires for St. Anger, creating the most divisive snare sound in metal
@@ -89,7 +90,7 @@
 ## FAQ
 
 **Q: What drum kit did Lars Ulrich use on the Black Album?**  
-A: Lars used a Tama Artstar II on the Black Album (1991), with Zildjian A Custom cymbals and a Tama Iron Cobra 900 double pedal. Producer Bob Rock worked closely with Lars on head tuning and microphone placement to achieve the album's signature drum tone.
+A: Lars used a Tama Granstar Custom kit on the Black Album (1991), with a Tama Bell Brass 14"x6.5" snare, Zildjian Z Custom cymbals, and a Tama Iron Cobra 900 double pedal. Producer Bob Rock worked closely with Lars on head tuning and microphone placement to achieve the album's signature drum tone.
 
 **Q: What drums did Lars Ulrich use on Kill 'Em All?**  
 A: For the Kill 'Em All sessions (1983), Lars used a Camco drum kit — later confirmed as a Tama Swingstar for some recordings — with Zildjian A Series cymbals. The setup cost approximately $2,068 at the time, equivalent to about $6,800 adjusted for 2026 inflation.

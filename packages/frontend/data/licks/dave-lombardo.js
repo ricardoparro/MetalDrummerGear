@@ -17,8 +17,8 @@ export const licks = {
     "style": "thrash-metal",
     "difficulty": "expert",
     "difficultyRating": 5,
-    "bpm": 190,
-    "bpmDisplay": "~190 BPM",
+    "bpm": 90,
+    "bpmDisplay": "~90 BPM, faster in the closing solo section",
     "timeSignature": "4/4",
     "description": "Postmortem from Slayer's 1986 landmark Reign in Blood is the great underacknowledged double-bass performance in the album's legacy. While Angel of Death and Raining Blood receive the majority of analytical attention, it is the thundering double-bass pump that drives Postmortem — bridging directly into Raining Blood — that most clearly demonstrates what Dave Lombardo invented for thrash metal drumming: a relentless, even, riff-locked kick approach that transforms the bass drum from an occasional accent into a constant rhythmic engine. The Postmortem double-bass figure is a continuous sixteenth-note pump running at the track's full tempo beneath a driving snare pattern, and it was this kind of sustained, riff-locked double-bass work across the entire Reign in Blood album that established the template every subsequent thrash and extreme metal drummer has learned from. Lombardo's approach is neither the fluid blast-bass of death metal nor the mechanical grid of later djent drumming: it has a slightly forceful, forward-leaning quality that pushes the riff rather than merely underlining it, giving the music its famous feeling of barely-contained velocity. The evenness between left and right kick is remarkable, particularly given that Lombardo was playing at these speeds in 1986 without the benefit of the modern double-bass pedagogical tradition he was in the process of creating. The entire Reign in Blood recording shows what can happen when double bass is treated as a melodic and rhythmic instrument rather than just a speed demonstration: every kick figure connects to the guitar riff's accents, making the drums and guitars feel like a single aggressive unit. For drummers, this lick is the essential primer on foundational thrash double-bass. Begin by building the basic sixteenth-note pump pattern slowly on a practice pad, ensuring both feet strike with equal weight. Gradually increase the tempo while maintaining complete evenness, adding the snare backbeat only once the feet are solid. Listen closely to the original recording to hear how Lombardo adjusts the dynamics of the kick across the song's sections — the push and release creates tension and release that is musical, not mechanical. This lick connects to Lombardo's live performances and to his documented influence on virtually every extreme metal drummer who came after.",
     "techniques": [
@@ -103,7 +103,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Paiste Cymbals",
+        "name": "Cymbals (brand not independently verified for this era)",
         "type": "cymbals",
         "link": null
       },

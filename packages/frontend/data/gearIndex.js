@@ -583,12 +583,6 @@ export const GEAR_INDEX = {
         "configString": "Tama Starclassic Maple"
       },
       {
-        "id": 34,
-        "name": "Ben Koller",
-        "slug": "ben-koller",
-        "configString": "Tama Starclassic Maple"
-      },
-      {
         "id": 35,
         "name": "Flo Mounier",
         "slug": "flo-mounier",
@@ -612,6 +606,12 @@ export const GEAR_INDEX = {
         "id": 70,
         "name": "Alex Rüdinger",
         "slug": "alex-rudinger",
+        "configString": "Tama Starclassic Performer B/B"
+      },
+      {
+        "id": 34,
+        "name": "Ben Koller",
+        "slug": "ben-koller",
         "configString": "Tama Starclassic Performer B/B"
       }
     ]

@@ -1195,25 +1195,25 @@ Hellhammer's 1994 setup behind Mayhem's De Mysteriis Dom Sathanas — the benchm
 
 ### De Mysteriis Dom Sathanas Era (1988–1994)
 
-- **Kit:** Pearl Kit (developing endorsement) — 5-piece; 22"x16" kick, 10"x9"/12"x10" racks, 16"x16" floor
-- **Snare:** Pearl steel snare 14"x5.5", tuned bright
-- **Cymbals:** Zildjian A Series — 14" hi-hats, 16"/18" crash, 20" ride
+- **Kit:** Sonor Kit (developing endorsement) — 5-piece; 22"x16" kick, 10"x9"/12"x10" racks, 16"x16" floor
+- **Snare:** Sonor steel snare 14"x5.5", tuned bright
+- **Cymbals:** Paiste (developing setup) — 14" hi-hats, 16"/18" crash, 20" ride
 - **Original setup cost (1994):** ~$2,068
 - **Inflation-adjusted to 2026:** ~$4,571
 
 ### Ordo Ad Chao Era (2007)
 
-- **Kit:** Pearl Reference Series (continued)
-- **Snare:** Pearl Reference Snare 14"x6.5" (continued)
-- **Cymbals:** Zildjian A Custom (continued)
+- **Kit:** Sonor SQ2 Heavy Beech (continued)
+- **Snare:** Sonor SQ2 Heavy Beech Snare 14"x6.5" (continued)
+- **Cymbals:** Paiste RUDE Series (continued)
 - **Notable:** Mayhem's Ordo Ad Chao (2007), recorded without a bassist, is among Hellhammer's most demanding studio performances — the drums and guitars alone carry the structural weight of the record.
 
 ### Daemon Era (2014–present)
 
-- **Kit:** Pearl Reference (confirmed current configuration) — flagship maple shells, dual 22" kick configuration
-- **Snare:** Pearl Reference Snare 14"x6.5" (continued)
-- **Cymbals:** Zildjian A Custom hi-hats, A Custom crashes (17", 19"), Z Custom Dark Ride, A Custom China
-- **Notable:** Esoteric Warfare (2014) and Daemon (2019) balance Mayhem's black metal identity with unexpected melodic range. Hellhammer added a Zildjian Z Custom Dark Ride for darker tonal complexity and remains famous for playing barefoot, citing direct tactile feedback through the pedal as essential to his tempo accuracy above 200 BPM.
+- **Kit:** Sonor SQ2 Heavy Beech (confirmed current configuration) — flagship beech shells, dual 22" kick configuration
+- **Snare:** Sonor SQ2 Heavy Beech Snare 14"x6.5" (continued)
+- **Cymbals:** Paiste RUDE hi-hats (14"), RUDE crashes (18", 19"), RUDE ride (20"), RUDE china (18")
+- **Notable:** Esoteric Warfare (2014) and Daemon (2019) balance Mayhem's black metal identity with unexpected melodic range. Hellhammer's full Paiste RUDE cymbal setup remains confirmed as his current configuration, and he remains famous for playing barefoot, citing direct tactile feedback through the pedal as essential to his tempo accuracy above 200 BPM.
 
 **Price Evolution:**
 - 1994: $2,068 (Original Purchase) — De Mysteriis Dom Sathanas recorded at Grieghallen Studio

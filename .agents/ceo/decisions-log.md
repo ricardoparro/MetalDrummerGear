@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-04 00:19 UTC*
 
 ---
+## 2026-11-04 06:12 (cheap pulse, pre-deep-run — 8/8 proposals verified+promoted #10203-10210)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:12 UTC (431u/494s/696v 7d; GSC 14,087 impr/241 clicks/1.71% CTR/pos 8.5, no content-gap rows ≥50impr/<2%CTR this week). At run start: eligible `ai-fix` backlog **0**, 0 open PRs (all 8 from the 00:19 run — #10193-10196/#10198-10201 — already merged), 8 fresh untriaged `seo-proposal` (#10203-10210, filed 01:14-01:16 UTC), continuing the hand-authored gear/endorsement fact-drift sweep (Mikkey Dee, Bill Ward, Art Cruz, Morgan Ågren, Jocke Wallgren, Hellhammer, Nicko McBrain, Alex Bent).
+
+### Actions taken
+- **Live-verified all 8 via 8 parallel subagents** (grep/read cited lines vs `endorsementNews.js`/`drummerEvolution.js`/`extendedBios.js`/`cymbalSetups.js`/`gearPriceHistory.js`/llms mirrors, dupe-checked against named prior closed issues): #10203 (Mikkey Dee endorsementNews.js 1992 timeline fabricates Tama vs file's own Sonor SQ2 currentEndorsements + drummerEvolution.js framing) VERIFIED-CLEAN. #10204 (Bill Ward cymbalSetups.js hi-hat/crash/ride sizes vs extendedBios.js FAQ) VERIFIED-WITH-NOTE — found a 3rd unscoped corroborating line (extendedBios.js:2344, "20\" Zildjian Ride") reinforcing the ride-size conflict. #10205 (Art Cruz splash 9\"/"FX Trash Splash" vs drummerEvolution.js's 10\" splash) VERIFIED-CLEAN, exact match. #10206 (Morgan Ågren Zappa "toured" fabrication survives in gearPriceHistory.js + 2 llms gear-history mirrors, missed by #9610) VERIFIED-WITH-NOTE — the per-drummer mirror has more occurrences than the 4 cited lines (also FAQ/Key-Gear-Changes), wider sweep flagged. #10207 (Jocke Wallgren "Rage and Evergrey" fabrication survives in drummerEvolution.js, #9675 only fixed endorsementNews.js) VERIFIED-WITH-NOTE — confirmed exact 4 locations; found extendedBios.js itself shares the repo's "Valkyria" spelling (not externally-verified "Valkyrja") — a wider pre-existing naming gap, not unique to this file, noted but not re-scoped into this fix. #10208 (Hellhammer gear-history/hellhammer.md fabricates Pearl/Zildjian, sibling evolution.md already fixed by #9155) VERIFIED-WITH-NOTE — found the combined public/llms/gear-history.md also repeats the same fabrication in its Hellhammer section, folded into the same PR scope. #10209 (Nicko McBrain gear-history mirror's "40+ years continuous Pearl" vs endorsementNews.js's documented 3 brand switches) VERIFIED-WITH-NOTE — flagged the file's "current setup" FAQ should also pick up the Dec-2024 touring-retirement caveat already established in the fixed sibling file. #10210 (Alex Bent gear-history mirror fabricates Pearl Reference/Meinl Byzance vs extendedBios.js's Tama/Zildjian) VERIFIED-CLEAN, Axis pedal/Vic Firth sticks confirmed correct and left out of scope. All 8 promoted to `ai-fix` with verification/scope-correction comments.
+- **GSC content-gap**: zero rows this week. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 (filed 11-03, workflow governance) still no founder comment — no re-spam. #5141/#5100/#4892/#875/#529/#526/#525 + held proposals #10099/#10032/#7981 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots dated 2026-11-02 (gsc-watch 08:15, llm-citations 07:38, indexation 09:30) — not due until ~11-09, correctly skipped.
+- **Atomic-split sweep**: queried all open non-hold `ai-fix` issues — the 8 just-promoted are the only ones open, all fresh (<1 day). Nothing eligible.
+- **Starvation check**: post-triage backlog 0→8 (<15), bank 8→0 (≤2 excl. held+umbrellas) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all week; SEO Agent cadence steady, not escalated.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10203-10210 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 live-verified and promoted (5 with scope-correction notes: #10204, #10206, #10207, #10208, #10209). ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows this week. ✅ L1/L2/L3: correctly not due. ✅ Atomic split: nothing eligible. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10203-10210 pick up via Roadie; #10204/#10206/#10208/#10209 carry scope corrections in their promotion comments — confirm Roadie follows the expanded scope, not just the issue body's original line list.
+2. First run after 07:00 UTC is the daily deep run — L1/L2/L3 weekly refresh due ~2026-11-09 (check for a new `Generated:` date), full metrics review, starvation re-check.
+3. #10174 human-founder ask unanswered — do not re-spam. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-11-04 00:19 (cheap pulse — 8/8 proposals verified+promoted #10193-10201)
 
 ### Context (≤3 lines)

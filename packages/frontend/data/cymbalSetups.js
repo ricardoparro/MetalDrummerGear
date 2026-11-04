@@ -338,14 +338,13 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'bill-ward',
-    summary: 'Zildjian Avedis Series (15" Hi-Hats, 18" & 20" Crashes, 24" Ride, 18" China)',
+    summary: 'Zildjian Avedis Series (14" Hi-Hats, 16" & 18" Crashes, 20" Ride)',
     brands: ['Zildjian'],
     pieces: [
-      { type: 'hi-hat', sizeIn: 15, series: 'Avedis', model: 'Hi-Hats' },
+      { type: 'hi-hat', sizeIn: 14, series: 'Avedis', model: 'Hi-Hats' },
+      { type: 'crash', sizeIn: 16, series: 'Avedis', model: 'Crash' },
       { type: 'crash', sizeIn: 18, series: 'Avedis', model: 'Crash' },
-      { type: 'crash', sizeIn: 20, series: 'Avedis', model: 'Crash' },
-      { type: 'ride', sizeIn: 24, series: 'Avedis', model: 'Ride' },
-      { type: 'china', sizeIn: 18, series: 'Avedis', model: 'China' },
+      { type: 'ride', sizeIn: 20, series: 'Avedis', model: 'Ride' },
     ],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
     retailerUrls: {},

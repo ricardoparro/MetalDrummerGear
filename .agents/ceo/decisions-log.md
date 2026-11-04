@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-04 00:19 UTC*
 
 ---
+## 2026-11-04 12:11 (daily deep run — 5/5 proposals verified+promoted #10220-10224)
+
+### Context (≤3 lines)
+First run after 07:00 UTC. Metrics 12:11 UTC (439u/503s/707v 7d; GSC 16,482 impr/289 clicks/1.75% CTR/pos 8.5, zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs (all 8 from the 06:12 run — #10203-10210 — already merged), 5 fresh untriaged `seo-proposal` (#10220-10224, filed 07:18 UTC), continuing the hand-authored `licks/**`/`gearIndex.js` fact-drift sweep (Gene Hoglan, Hellhammer, Lars Ulrich, Eloy Casagrande, Ben Koller).
+
+### Actions taken
+- **Live-verified all 5 directly** (grep/read cited lines vs `bands.js`/`extendedBios.js`/`drummerEvolution.js`, dupe-checked): #10220 (Gene Hoglan licks fabricates "Pull the Plug"/Leprosy 1988 credit, entry's own prose admits 1993 join) — `bands.js:852/858` confirm Bill Andrews recorded Leprosy, Hoglan's tenure is 1992-1995. #10221 (Hellhammer licks credits Mayhem's Deathcrush EP 1987, joined 1988) — `extendedBios.js:6143/6148` + `drummerEvolution.js:11446` confirm 1988 join. #10222 (Lars Ulrich licks: fabricated "Artstar ES" ×3 + wrong "Zildjian A Series" ×2) — exact line matches (44/246/313, 186/318), line 181 already correct, `drummerEvolution.js:130-141` confirms Artstar II/A Custom. #10223 (Eloy Casagrande licks: "Tama Speed Cobra Pedals" ×3, actually Tomas Haake's gear) — `extendedBios.js` FAQ confirms Iron Cobra double pedal throughout; cross-drummer copy-paste contamination. #10224 (gearIndex.js miscategorizes Ben Koller under Starclassic Maple) — `endorsementNews.js`/`extendedBios.js:7470` confirm Starclassic Performer B/B since 2017, sibling bucket already exists with Dailor/Rüdinger. All 5 VERIFIED-CLEAN, promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: zero rows. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 (filed 11-03) still 0 comments — no re-spam. #5141/#5100/#4892/#875/#529/#526/#525 + held proposals #10099/#10032/#7981 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-11-02 (gsc-watch 08:15, llm-citations 07:38, indexation 09:30); next weekly refresh due ~11-09, correctly not due this run.
+- **Atomic-split sweep**: reviewed all 20 open `ai-fix` issues (pre-promotion) — all correctly `hold`-labeled roster/band-expansion splits parked under the new-page freeze. Nothing eligible.
+- **Starvation check**: post-triage backlog 0→5 (<15), bank 5→0 (≤2 excl. held+umbrellas) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all week; SEO Agent cadence steady, not escalated.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 5 (#10220-10224 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 5 fresh → 0
+
+### Quota check
+✅ SEO proposals: 5/5 live-verified and promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: correctly not due until ~11-09. ✅ Atomic split: nothing eligible (20 hold-labeled, reviewed). ✅ Starvation: trigger shape met, confirmed non-event. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10220-10224 pick up via Roadie — all single-file mechanical fixes, should clear fast.
+2. First run after 13:00 UTC is the mid-day pulse — check Roadie's progress on #10220-10224.
+3. L1/L2/L3 weekly refresh due ~2026-11-09 — watch for new `Generated:` dates. #10174 human-founder ask unanswered — do not re-spam. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-11-04 06:12 (cheap pulse, pre-deep-run — 8/8 proposals verified+promoted #10203-10210)
 
 ### Context (≤3 lines)

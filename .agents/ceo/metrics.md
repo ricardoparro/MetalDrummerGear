@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-04 08:14 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-04 12:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 437 |
-| Sessions | 501 |
-| Page views | 703 |
-| Engagement rate | 64.47% |
-| Avg session (s) | 125 |
+| Active users | 439 |
+| Sessions | 503 |
+| Page views | 707 |
+| Engagement rate | 64.41% |
+| Avg session (s) | 123 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 30 | 19 |
 | /drummers | 28 | 8 |
-| /articles/slipknot-self-titled-drum-setup | 16 | 14 |
+| /articles/slipknot-self-titled-drum-setup | 17 | 15 |
 | /quiz | 16 | 3 |
 | /lists/best-death-metal-drummers | 13 | 13 |
 | /drummer/frost | 12 | 5 |
@@ -31,14 +31,14 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 409 | 345 |
-| Direct | 93 | 92 |
-| Unassigned | 9 | 9 |
+| Organic Search | 410 | 346 |
+| Direct | 94 | 93 |
+| Unassigned | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 189 | 173 |
+| United States | 192 | 175 |
 | United Kingdom | 37 | 22 |
 | Singapore | 29 | 29 |
 | Germany | 28 | 25 |
@@ -52,38 +52,38 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 14,087 |
-| Clicks | 241 |
-| CTR | 1.71% |
+| Impressions | 16,482 |
+| Clicks | 289 |
+| CTR | 1.75% |
 | Avg position | 8.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| death metal drum kit | 13 | 2 | 15.38% | 3.8 |
-| joey jordison cymbals | 4 | 2 | 50.00% | 3.3 |
+| death metal drum kit | 16 | 3 | 18.75% | 3.8 |
+| eloy casagrande slipknot drum kit | 18 | 3 | 16.67% | 5.2 |
+| joey jordison cymbals | 5 | 2 | 40.00% | 4.8 |
 | best drumsticks for metal | 3 | 1 | 33.33% | 7.7 |
 | best metalcore drummers | 4 | 1 | 25.00% | 9.0 |
-| bill ward drum setup | 5 | 1 | 20.00% | 6.0 |
-| black sabbath drum kit | 1 | 1 | 100.00% | 3.0 |
+| best nu metal drummers of all time | 6 | 1 | 16.67% | 3.5 |
+| bill ward drum setup | 6 | 1 | 16.67% | 6.0 |
+| black sabbath drum kit | 2 | 1 | 50.00% | 4.0 |
 | brann dailor drum kit | 11 | 1 | 9.09% | 7.5 |
 | death metal drummers | 5 | 1 | 20.00% | 4.4 |
-| details | 1 | 1 | 100.00% | 8.0 |
-| eloy casagrande drum kit | 42 | 1 | 2.38% | 7.7 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,807 | 84 | 2.21% | 7.8 |
-| deu | 440 | 16 | 3.64% | 7.0 |
-| gbr | 686 | 12 | 1.75% | 8.7 |
-| pol | 204 | 12 | 5.88% | 5.9 |
-| bra | 1,662 | 9 | 0.54% | 10.3 |
-| fra | 378 | 9 | 2.38% | 7.8 |
-| can | 507 | 7 | 1.38% | 8.6 |
-| aus | 436 | 6 | 1.38% | 7.2 |
-| ind | 211 | 6 | 2.84% | 8.3 |
-| nor | 167 | 6 | 3.59% | 8.4 |
+| usa | 4,577 | 97 | 2.12% | 7.9 |
+| deu | 546 | 22 | 4.03% | 6.9 |
+| pol | 232 | 16 | 6.90% | 6.0 |
+| gbr | 823 | 15 | 1.82% | 8.9 |
+| can | 638 | 12 | 1.88% | 8.3 |
+| bra | 1,899 | 11 | 0.58% | 10.4 |
+| fra | 447 | 11 | 2.46% | 8.0 |
+| aus | 518 | 7 | 1.35% | 7.2 |
+| nor | 193 | 7 | 3.63% | 8.1 |
+| ind | 240 | 6 | 2.50% | 8.3 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

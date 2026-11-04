@@ -7747,7 +7747,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Lamb of God',
     totalYearsActive: '1999-2019',
     profileImage: '/images/drummers/chris-adler.webp',
-    summary: 'Chris Adler built Lamb of God\'s groove-driven New Wave of American Heavy Metal sound on a continuous Mapex endorsement — from the Pro M workhorse kit through the signature Black Panther Design Lab — before a series of injuries ended his run with the band in 2019.',
+    summary: 'Chris Adler built Lamb of God\'s groove-driven New Wave of American Heavy Metal sound on a continuous Mapex endorsement — from the Pro M workhorse kit through the Saturn in Satin Black Maple Burl for his final signature-level era — before a series of injuries ended his run with the band in 2019.',
 
     eras: [
       {
@@ -8038,22 +8038,22 @@ export const DRUMMER_EVOLUTION = {
         years: '2012-2019',
         startYear: 2012,
         endYear: 2019,
-        description: 'The signature era and eventual retirement. For Resolution (2012), Chris upgraded to the Mapex Black Panther Design Lab — his longtime Mapex partnership now at signature level. A serious arm injury in 2016 and subsequent health complications ultimately led to his departure from Lamb of God in 2019.',
+        description: 'The signature era and eventual retirement. For Resolution (2012), Chris moved to a Mapex Saturn in Satin Black Maple Burl finish — his longtime Mapex partnership now at signature level. A serious arm injury in 2016 and subsequent health complications ultimately led to his departure from Lamb of God in 2019.',
         albums: ['Resolution (2012)', 'VII: Sturm und Drang (2015)'],
         tours: ['Resolution Tour 2012', 'Mayhem Festival 2015'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Mapex Black Panther Design Lab',
-            details: 'Maple/walnut shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'The Black Panther Design Lab used maple/walnut hybrid shells for a darker, more complex tone than the Saturn. Chris\'s Mapex partnership reached signature level for his final active era with LoG.',
+            item: 'Mapex Saturn in Satin Black Maple Burl',
+            details: 'All-maple shells in Satin Black Maple Burl finish: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Chris moved to a Satin Black Maple Burl finish of his Mapex Saturn, the same all-maple shell construction from the Sacrament and Wrath eras. Chris\'s Mapex partnership reached signature level for his final active era with LoG.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
             item: 'Mapex Chris Adler Signature 14"x5.5" Walnut/Maple',
             details: 'Walnut/maple shell, black chrome hardware',
-            notes: 'Matching Black Panther signature snare with a warm, slightly dark crack suited to Resolution\'s groove-centric writing.',
+            notes: 'Matching Mapex Chris Adler signature snare with a warm, slightly dark crack suited to Resolution\'s groove-centric writing.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
@@ -8065,7 +8065,7 @@ export const DRUMMER_EVOLUTION = {
           hardware: {
             item: 'Mapex Falcon Double Pedal',
             details: 'Mapex Falcon double pedal, Mapex T865 throne',
-            notes: 'Switched to the Mapex Falcon double pedal to match his Black Panther kit for the final LoG era.',
+            notes: 'Switched to the Mapex Falcon double pedal to match his Saturn kit for the final LoG era.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
@@ -8076,7 +8076,7 @@ export const DRUMMER_EVOLUTION = {
           },
           heads: {
             item: 'Evans',
-            details: 'Evans drumheads across the Black Panther kit',
+            details: 'Evans drumheads across the Saturn kit',
             notes: 'Evans heads rounded out the Mapex/Meinl/Promark signature setup for Resolution.',
             change: CHANGE_TYPES.SWITCH,
           },
@@ -8089,7 +8089,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Signature-level Mapex partnership — Black Panther Design Lab maple/walnut hybrid kit',
+          'Signature-level Mapex partnership — Saturn in Satin Black Maple Burl finish',
           'Resolution (2012) — first #1 Billboard 200 debut for Lamb of God',
           'VII: Sturm und Drang (2015) continues commercial run',
           'Arm injury (2016) begins chain of health issues leading to retirement',
@@ -8097,7 +8097,7 @@ export const DRUMMER_EVOLUTION = {
         ],
 
         quote: {
-          text: "The Black Panther Design Lab has a darkness to it that fits perfectly where we are as a band. It's warm, complex, and heavy.",
+          text: "The Saturn in that Satin Black Maple Burl finish has a darkness to it that fits perfectly where we are as a band. It's warm, complex, and heavy.",
           source: 'Mapex Drums Feature, 2012',
         },
 
@@ -8106,7 +8106,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Chris Adler Gear Evolution Timeline | Lamb of God Drum Kit History',
-    metaDescription: 'Explore Chris Adler\'s complete drum gear evolution: Mapex Pro M → Mapex Saturn → Mapex Black Panther Design Lab. Lamb of God\'s NWOAHM drum sound documented era by era.',
+    metaDescription: 'Explore Chris Adler\'s complete drum gear evolution: Mapex Pro M → Mapex Saturn → Mapex Saturn in Satin Black Maple Burl finish. Lamb of God\'s NWOAHM drum sound documented era by era.',
   },
 
   // ==========================================

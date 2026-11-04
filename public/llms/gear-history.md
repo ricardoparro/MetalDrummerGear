@@ -2167,14 +2167,14 @@ Mikkey Dee's 1993 setup behind Motörhead's Bastards — his studio debut with t
 
 **Active:** 1981–present | **Iconic era:** Epicloud (2012)
 
-Morgan Ågren's 2012 setup behind the Devin Townsend Project's Epicloud captures the gear behind one of progressive drumming's most credentialed figures — personally selected by Frank Zappa to tour at just 20 years old in 1988, an endorsement Zappa rarely extended lightly.
+Morgan Ågren's 2012 setup behind the Devin Townsend Project's Epicloud captures the gear behind one of progressive drumming's most credentialed figures — personally selected by Frank Zappa to sit in with his band for one Stockholm concert at just 20 years old in 1988, an endorsement Zappa rarely extended lightly.
 
-### Zappa Tour / Early Mats/Morgan Era (1988–1998)
+### Zappa Guest Appearance / Early Mats/Morgan Era (1988–1998)
 
 - **Kit:** Early professional kit (pre-2012 brand not publicly documented)
 - **Snare:** Standard maple snare
 - **Cymbals:** Paiste — developing relationship established 1988
-- **Notable:** Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 in Umeå, Sweden, and was personally selected by Frank Zappa to tour with his band in 1988 at just 20 years old — one of the most credible validation stamps available in technically demanding music. His Paiste cymbal relationship, Vic Firth stick endorsement, and Remo head setup all date to this same period.
+- **Notable:** Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 in Umeå, Sweden, and was personally selected by Frank Zappa to sit in with his band for one Stockholm concert in 1988 at just 20 years old — one of the most credible validation stamps available in technically demanding music. His Paiste cymbal relationship, Vic Firth stick endorsement, and Remo head setup all date to this same period.
 
 ### International Recognition Era (1998–2006)
 
@@ -2192,7 +2192,7 @@ Morgan Ågren's 2012 setup behind the Devin Townsend Project's Epicloud captures
 - **Notable:** Devin Townsend specifically sought Ågren for the Devin Townsend Project's Epicloud (2012), recognizing his ability to navigate odd-time signatures and metric modulations without losing feel. He settled into the Sonor SQ2 Beech custom shell configuration and Sonor Giant Step double pedal around this time, carrying his existing Paiste Signature/2002 Series cymbals, Vic Firth sticks, and Remo heads forward into "Z²" (2014) and "Transcendence" (2016), while remaining active with the Mats/Morgan Band.
 
 **Price Evolution:**
-- 1988: $1,500 (Zappa Tour Era) — Selected by Frank Zappa to tour at age 20, playing a modest professional kit
+- 1988: $1,500 (Zappa Guest Appearance) — Selected by Frank Zappa to sit in with his band for one Stockholm concert at age 20, playing a modest professional kit
 - 2012: $11,448 (Original Purchase) — Epicloud recorded — signed to Sonor SQ2 Beech kit and Sonor Giant Step double pedal alongside the existing Paiste Signature / 2002 Series cymbal setup
 - 2026: $16,334 (Current adjusted) — Inflation-adjusted value of the 2012 Epicloud-era Sonor / Paiste Signature setup
 

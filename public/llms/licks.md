@@ -1,6 +1,6 @@
 # MetalForge — Signature Licks Database
 > Drummer signature fills, beats, and patterns with technique breakdowns and tutorial videos.
-Last updated: 2026-11-03 · Source: https://metalforge.io
+Last updated: 2026-11-04 · Source: https://metalforge.io
 
 Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time signature, difficulty, and techniques, followed by an answer-first "how to play it" walkthrough, the tutorial video, and the canonical page URL to cite.
 
@@ -2761,7 +2761,7 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 - Single Bass Drum Pedal (pedals)
 **Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-darkness-descends-lick
 
-### Pull the Plug Death Metal Groove — "Pull the Plug", Leprosy (1988)
+### Trapped in a Corner Death Metal Groove — "Trapped in a Corner", Individual Thought Patterns (1993)
 - **BPM:** ~168 BPM | **Time:** 4/4 | **Technique:** groove fill | **Difficulty:** Advanced (4/5) | **Style:** death-metal
 - **Techniques:** groove-drumming, fill-techniques, riff-lock
 
@@ -2775,14 +2775,14 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 **Practice tips:**
 - Lock the kick to the guitar riff first — the riff-lock relationship is the defining quality of this groove style
 - Practice fills as isolated two-to-four bar modules with a metronome before inserting them into the full arrangement
-- Study both the Leprosy original and Hoglan's Death-era recordings to understand how this vocabulary was developed and refined
+- Study Hoglan's full Individual Thought Patterns and Symbolic performances to understand how this vocabulary was developed and refined
 - Focus on the arrivals and departures of fills — cleanness at these transition points separates the professional from the learner
 
 **Gear Used:**
-- Pearl Drum Kit (drums)
-- Sabian Cymbals (cymbals)
-- Double Bass Pedals (pedals)
-**Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-pull-the-plug-lick
+- Tama Starclassic (drums)
+- Sabian HH Series (cymbals)
+- DW 5000 Double Pedal (pedals)
+**Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-trapped-in-a-corner-lick
 
 ### Zero the Hero Clock Polyrhythm — "Dark Roots of Earth", Dark Roots of Earth (2012)
 - **BPM:** ~145 BPM | **Time:** 4/4 | **Technique:** polyrhythm | **Difficulty:** Expert (5/5) | **Style:** thrash-metal

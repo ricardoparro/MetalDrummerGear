@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-04"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -204,7 +204,7 @@ MetalForge has 8 signature lick tutorial(s) for Gene Hoglan:
 - [Symbolic Groove-to-Blast Switch](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-death-symbolic-groove-blast-combo)
 - [Zero Tolerance Groove](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-zero-tolerance-groove)
 - [Darkness Descends Hyper-Blast](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-darkness-descends-lick)
-- [Pull the Plug Death Metal Groove](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-pull-the-plug-lick)
+- [Trapped in a Corner Death Metal Groove](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-trapped-in-a-corner-lick)
 - [Zero the Hero Clock Polyrhythm](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-zero-the-hero-lick)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
@@ -262,4 +262,4 @@ Dated brand-endorsement timeline: [Gene Hoglan's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-04 · Source: [MetalForge.io](https://metalforge.io)*

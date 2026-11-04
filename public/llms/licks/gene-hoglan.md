@@ -182,11 +182,11 @@ The hyper-blast sections of Dark Angel's Darkness Descends (1986) represent a si
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Wrist Technique](https://metalforge.io/techniques/wrist-technique), [Single Bass](https://metalforge.io/techniques/single-bass)
 
-## Pull the Plug Death Metal Groove
+## Trapped in a Corner Death Metal Groove
 
-**Song:** Pull the Plug | **Album:** Leprosy (1988) | **BPM:** ~168 BPM | **Time:** 4/4 | **Technique:** groove fill | **Difficulty:** advanced
+**Song:** Trapped in a Corner | **Album:** Individual Thought Patterns (1993) | **BPM:** ~168 BPM | **Time:** 4/4 | **Technique:** groove fill | **Difficulty:** advanced
 
-Pull the Plug from Death's Leprosy album (1988) is one of the foundational death metal drum performances in the genre's history, featuring a combination of driving groove and precisely timed fill work that established the template for early death metal rhythmic vocabulary. The track operates at a mid-to-high tempo that sits between the methodical plod of doom-influenced death metal and the full blast of the genre's most extreme material, creating a rhythmic space where groove and aggression coexist in a tension that gives the song its relentless forward momentum. Gene Hoglan, who joined Death in 1993 beginning with Individual Thought Patterns, brought this early Leprosy-era material into his deep repertoire through his work with Chuck Schuldiner and his extensive engagement with the Death catalog across live performances, teaching situations, and tribute contexts. The Leprosy-era Death groove vocabulary that Pull the Plug exemplifies — driven, purposeful double-bass patterns beneath a snare that cracks on every backbeat with authority, fills that arrive at structurally significant moments and resolve cleanly without disrupting momentum — became central to Hoglan's understanding of early death metal and directly informed the way he approached his own Death recordings from ITP onward. The groove on Pull the Plug has a specific weight that comes from how the kick drum locks to the guitar riff's rhythmic contour rather than simply providing a generic underlying pulse. This riff-lock technique — where the kick accents amplify specific guitar hits rather than playing against or over them — is a defining characteristic of the Leprosy-era sound and one of the elements that Hoglan refined and developed further in his own Death tenure. The fill work on the track is equally instructive: fills appear at the end of phrases and at structural transitions, they are compact, they resolve on the correct beat without any lag or rush, and their rhythmic content connects logically to the groove material on either side of them. This is fundamentally good compositional drumming — fills as punctuation within a larger rhythmic statement rather than as displays disconnected from the song's architecture. For drummers studying the Pull the Plug groove and fill combination, the most important practice approach is to learn the groove thoroughly in isolation first, building the riff-lock kick pattern against the guitar at accurate tempo before any fill work is attempted. The fills should be learned as individual phrases with specific start and end points, practiced until they arrive and depart cleanly at tempo, and only then inserted into their structural positions within the full arrangement. Death's Leprosy-era material remains some of the most instructive drum pedagogy in the extreme metal tradition.
+Trapped in a Corner, from Death's Individual Thought Patterns (1993), is one of Gene Hoglan's foundational performances on his first studio album with the band, featuring a combination of driving groove and precisely timed fill work that showcases the riff-lock vocabulary he became known for. The track operates at a mid-to-high tempo that sits between the methodical plod of doom-influenced death metal and the full blast of the genre's most extreme material, creating a rhythmic space where groove and aggression coexist in a tension that gives the song its relentless forward momentum. Hoglan, who joined Death in December 1992 and made his studio debut on Individual Thought Patterns, brought the double-bass precision and metronomic control that earned him the nickname 'The Atomic Clock' to this early session, setting the template for the technical death metal drumming he would refine further on Symbolic (1995). The groove on Trapped in a Corner has a specific weight that comes from how the kick drum locks to the guitar riff's rhythmic contour rather than simply providing a generic underlying pulse. This riff-lock technique — where the kick accents amplify specific guitar hits rather than playing against or over them — is a defining characteristic of Hoglan's Death-era sound and one of the elements that made his two albums with the band so influential. The fill work on the track is equally instructive: fills appear at the end of phrases and at structural transitions, they are compact, they resolve on the correct beat without any lag or rush, and their rhythmic content connects logically to the groove material on either side of them. This is fundamentally good compositional drumming — fills as punctuation within a larger rhythmic statement rather than as displays disconnected from the song's architecture. For drummers studying the Trapped in a Corner groove and fill combination, the most important practice approach is to learn the groove thoroughly in isolation first, building the riff-lock kick pattern against the guitar at accurate tempo before any fill work is attempted. The fills should be learned as individual phrases with specific start and end points, practiced until they arrive and depart cleanly at tempo, and only then inserted into their structural positions within the full arrangement. Hoglan's Individual Thought Patterns performance remains some of the most instructive drum pedagogy in the technical death metal tradition.
 
 ### How to Play
 
@@ -200,14 +200,14 @@ Pull the Plug from Death's Leprosy album (1988) is one of the foundational death
 
 - Lock the kick to the guitar riff first — the riff-lock relationship is the defining quality of this groove style
 - Practice fills as isolated two-to-four bar modules with a metronome before inserting them into the full arrangement
-- Study both the Leprosy original and Hoglan's Death-era recordings to understand how this vocabulary was developed and refined
+- Study Hoglan's full Individual Thought Patterns and Symbolic performances to understand how this vocabulary was developed and refined
 - Focus on the arrivals and departures of fills — cleanness at these transition points separates the professional from the learner
 
 ### Gear Used
 
-- Pearl Drum Kit (drums)
-- Sabian Cymbals (cymbals)
-- Double Bass Pedals (pedals)
+- Tama Starclassic (drums)
+- Sabian HH Series (cymbals)
+- DW 5000 Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Riff Lock](https://metalforge.io/techniques/riff-lock)
 
@@ -253,4 +253,4 @@ Gene Hoglan's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-04 · Source: [MetalForge.io](https://metalforge.io)*

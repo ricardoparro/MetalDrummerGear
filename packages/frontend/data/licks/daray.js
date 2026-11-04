@@ -164,8 +164,8 @@ export const licks = {
       "description": "Dimmu Borgir's official music video for Council of Wolves and Snakes from Eonian, showcasing Daray's groove architecture and orchestral interlocking technique in symphonic black metal"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Pure", "type": "drums", "link": null },
-      { "name": "Pearl Reference 14\"x6.5\" Snare", "type": "snare", "link": null },
+      { "name": "Tama Starclassic Performer B/B", "type": "drums", "link": null },
+      { "name": "Tama S.L.P. Black Brass 14\"x6.5\" Snare", "type": "snare", "link": null },
       { "name": "Paiste RUDE / 2002 Series", "type": "cymbals", "link": null },
       { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth 5B", "type": "sticks", "link": null }

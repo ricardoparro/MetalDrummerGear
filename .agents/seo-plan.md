@@ -15689,3 +15689,44 @@ Dispatched 2 parallel research agents: one continuing the "git log --since 14 da
 3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet; note it no longer appears in this run's content-gap table, may already be cooling.
 4. Drum-chair watch: already done this week (Monday 11-02, group 1, 0 changes). Next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
 5. Consider a dedicated pass checking whether other "root ground-truth" files (snares.js, pedals.js, drumsticks.js) have similarly been left behind by fixes that only touched extendedBios.js/drummerEvolution.js — the #10176 pattern suggests this may not be a one-off.
+
+---
+
+## 2026-11-04 ~01:16 UTC run (bank-capped mode — 8 proposals filed #10203-10210)
+
+### Context
+Bank check: 14 open `seo-proposal` at run start (8 already promoted to `ai-fix` this morning per CEO's 00:19 log — #10193-10196/#10198-10201, excl. #10197 already merged; 3 human-held #7981/#10032/#10099; 3 standing umbrellas #2211/#3810/#3819 — zero untriaged fresh) — well under the 45 cap → filed 8 net-new (full allowance). New-page freeze + LLM-first mode still binding — all 8 are existing-file/existing-mirror fact fixes, zero new pages. metrics.md (01:02 UTC) shows **no qualifying content-gap rows** this week. Today is Wednesday — drum-chair weekly sweep already done this week (Monday 11-02, group 1, 0 changes) — correctly skipped.
+
+### Audit summary
+- robots.txt (`api/robots.js`): all AI crawler tokens present — unchanged, healthy (not re-verified line-by-line this run, no changes expected).
+- `/llms/**.md`: 32 top-level files + per-entity subdirectories under `public/llms/` — unchanged, healthy.
+- No fresh Lighthouse run this run — time spent on the fact-drift sweep (established higher-yield method).
+
+### Method
+Dispatched 3 parallel research agents on 3 distinct angles to avoid re-mining heavily-picked-over drummers: (1) root-ground-truth-file internal contradictions (snares.js/pedals.js/cymbalSetups.js/bands.js vs extendedBios.js/drummerEvolution.js — the fresh #10176-pattern lead flagged last run) across 27 under-swept roster names; (2) `git log --since 14 days` on ground-truth files diffed against lagging consumer files, excluding ~40 heavily-covered drummer names; (3) `public/llms/gear-history|evolution` mirror sweep for 27 under-swept roster names. Personally re-verified every candidate via direct grep/read against cited ground truth before filing, plus `gh issue list --search` dedup on each (several near-misses required reading closed-issue bodies to confirm scope didn't overlap — e.g. #9610/#9675's exact file lists, #8823's interaction with the Jocke Wallgren finding).
+
+### Proposals filed this run
+1. #10203 — Mikkey Dee `endorsementNews.js` 1992 timeline entry fabricates a Tama kit — contradicts the same file's own `currentEndorsements` and `drummerEvolution.js`'s "continued Sonor into the Motörhead era" framing
+2. #10204 — Bill Ward `cymbalSetups.js` hi-hat/crash/ride sizes (15"/18"&20"/24") contradict `extendedBios.js`'s twice-stated 14"/16"-18"/20" for the same Avedis Zildjian era — sizes-only, brand already correct post-#6975
+3. #10205 — Art Cruz `cymbalSetups.js` splash cymbal fabricated as 9" "FX Trash Splash" vs `drummerEvolution.js`'s two independent 10" splash mentions (gear block + FAQ)
+4. #10206 — Morgan Ågren "toured with Zappa" fabrication survives in `gearPriceHistory.js` + both `public/llms/gear-history**.md` mirrors — #9610 fixed 5 other files but missed this family entirely
+5. #10207 — Jocke Wallgren `drummerEvolution.js` still fabricates "Rage and Evergrey" bands (5 locations) — #9675 only fixed `endorsementNews.js`; traced the current text's origin to #8823 (pre-dates #9675's band-name correction)
+6. #10208 — Hellhammer `public/llms/gear-history/hellhammer.md` fabricates full-career Pearl/Zildjian — sibling to closed #9155 (`evolution.md`), verified Sonor/Paiste RUDE/Axis, never swept
+7. #10209 — Nicko McBrain `public/llms/gear-history/nicko-mcbrain.md` invents a "40+ years continuous Pearl endorsement" framing spanning the whole file — verified Pearl only 1982-1985, then Yamaha(1985-2010)/Sonor(2010-2019)/BDC(2019-present); largest single fabrication this run (4 era blocks + the file's own framing device)
+8. #10210 — Alex Bent `public/llms/gear-history/alex-bent.md` fabricates Pearl Reference/Meinl Byzance for his entire Trivium tenure — verified Tama Starclassic Maple/Zildjian K Custom Hybrid per `extendedBios.js`, never swept despite 7+ prior Bent fixes elsewhere
+
+### Learned-patterns.md updates
+- Not yet appended — recommend adding: "root-ground-truth-file internal contradictions aren't limited to the endorsementNews.js-vs-extendedBios.js pair #10176 found — the same shape (file A authoritative for era X, file B authoritative for era Y, nobody reconciled them) also recurs within single-purpose 'spec' files like cymbalSetups.js vs the prose files (extendedBios.js/drummerEvolution.js), and even within a single ground-truth file's own era blocks over time (Mikkey Dee's 1992 entry vs the file's own currentEndorsements)." This angle (3 solid findings: #10203, #10204, #10205) proved as high-yield as the consumer-lag and llms-mirror methods this run — worth keeping as a 3rd standing method, not a one-off.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10203-10210 (this run, 8 fresh)
+
+### Next run
+1. Watch #10203-10210 triage/promotion; #10207 (Jocke Wallgren) carries a naming-reconciliation note (Valkyria vs Valkyrja spelling) for the implementer to resolve alongside the core fix; #10209 (Nicko McBrain) is the largest-scope fix (whole-file rewrite, 4 era blocks + framing device).
+2. Fresh leads for next sweep, not yet filed (lower confidence or needs more checking): Hannes Grossmann `drummerEvolution.js` self-contradiction (Alkaloid era claims unchanged gear from an Obscura era that was actually different), Jason Bittner `evolution.md` 1999-vs-2001 Shadows Fall join year self-contradiction with its own sibling `gear-history.md`, Shannon Larkin `gear-history.md` Tama+invented "Souls at Zero" band (evolution.md already fixed by #9204, sibling never swept), Waltteri Väyrynen `gear-history.md` inventing a specific Pearl model/sizes where ground truth explicitly flags them as undocumented, Morgan Ågren pre-2012 "Sonor" claim surviving in `evolution/morgan-agren.md` after #9748 corrected `drummerEvolution.js` (needs a regen-vs-hand-authored check first, since this mirror might not be covered by any generator).
+3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet, and no longer appearing in this week's content-gap table.
+4. Drum-chair watch: already done this week (Monday 11-02, group 1, 0 changes). Next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

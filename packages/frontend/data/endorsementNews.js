@@ -1349,8 +1349,8 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
-        to: 'Tama',
-        notes: 'Joined Motörhead playing a Tama Artstar II/Swingstar kit with Paiste cymbals, first heard on "March ör Die" and "Bastards"',
+        to: 'Sonor',
+        notes: 'Joined Motörhead playing a Sonor SQ2 kit carried over from his King Diamond years, with Paiste cymbals, first heard on "March ör Die" and "Bastards"',
       },
       {
         year: 2012,

@@ -9950,7 +9950,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Rebel Extravaganza (1999) pushes Satyricon into industrial black metal territory',
-          'Co-founded 1349 (2001) alongside Ravn and Archaon as a pure extremity outlet',
+          'Became a full member of 1349, joined ~2000 as a vehicle for unfiltered extremity',
           'Continued on his Pearl/Paiste setup from the debut era through the industrial-era records',
           'Liberation (2003) and Hellfire (2005) showcase benchmark blast beat speed',
           'Electronic kick trigger augmentation added to the live setup',

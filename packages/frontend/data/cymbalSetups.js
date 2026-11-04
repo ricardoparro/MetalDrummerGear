@@ -240,7 +240,7 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'art-cruz',
-    summary: 'Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell)',
+    summary: 'Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 10" Splash, FX Blast Bell)',
     brands: ['Zildjian'],
     pieces: [
       { type: 'hi-hat', sizeIn: 14, series: 'A Custom Mastersound', model: 'Hi-Hats' },
@@ -251,7 +251,7 @@ export const CYMBAL_SETUPS = [
       { type: 'ride', sizeIn: 21, series: 'A', model: 'Mega Bell Ride' },
       { type: 'china', sizeIn: 19, series: 'A', model: 'Ultra Hammered China' },
       { type: 'china', sizeIn: 17, series: 'K', model: 'China w/ EFX Holes' },
-      { type: 'splash', sizeIn: 9, series: null, model: 'FX Trash Splash' },
+      { type: 'splash', sizeIn: 10, series: null, model: 'Splash' },
     ],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
     retailerUrls: {},

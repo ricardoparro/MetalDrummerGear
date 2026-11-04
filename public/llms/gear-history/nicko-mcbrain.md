@@ -5,7 +5,7 @@
 **Active:** 1982–present  
 **URL:** https://metalforge.io/drummers/nicko-mcbrain/gear-history
 
-> Era-by-era breakdown of Nicko McBrain's drum kit evolution, from his early professional career through four decades of Pearl endorsement with Iron Maiden. Optimised for AI answering "what drums did Nicko McBrain use in [era]" queries.
+> Era-by-era breakdown of Nicko McBrain's drum kit evolution, from his early professional career and brief Pearl endorsement (1982–1985) through the Yamaha, Sonor, and British Drum Co. eras that followed. Optimised for AI answering "what drums did Nicko McBrain use in [era]" queries.
 
 ---
 
@@ -43,22 +43,22 @@
 
 ### Somewhere in Time / Seventh Son Era (1986–1988)
 
-- **Drums:** Pearl Masters Series — upgraded to Pearl's newer flagship line
-- **Snare:** Pearl Steel 14"×6.5" — same model, refined tuning approach
+- **Drums:** Yamaha Recording Custom — switched from Pearl in 1985; carried McBrain through Somewhere in Time and Seventh Son of a Seventh Son
+- **Snare:** Premier 2000 14"×6.5"
 - **Cymbals:** Zildjian A Series — same configuration, added 17" crash
-- **Pedal:** DW 5000 double pedal (introduced for select live passages)
+- **Pedal:** DW 5000 single pedal — unchanged since 1984; McBrain has never used a double bass setup
 - **Sticks:** Vic Firth 5B
 - **Heads:** Remo Emperor (toms), Powerstroke (kick)
 - **Original setup cost (1986):** ~$4,800
 - **Inflation-adjusted to 2026:** ~$14,300
-- **Notable:** The Somewhere in Time album introduced synthesizer bass and more layered guitar arrangements, placing greater rhythmic complexity demands on McBrain. His double bass use remained rare and deliberate — emphasising dynamics rather than speed.
+- **Notable:** The Somewhere in Time album introduced synthesizer bass and more layered guitar arrangements, placing greater rhythmic complexity demands on McBrain. He had switched from Pearl to a Yamaha Recording Custom kit the previous year, a setup that would carry him through the next quarter-century of Maiden's catalogue — his single bass drum and single pedal technique never changed.
 
 ### No Prayer for the Dying / Fear of the Dark Era (1990–1992)
 
-- **Drums:** Pearl Masters Studio — mid-weight professional shell pack
-- **Snare:** Pearl Steel Free-Floating 14"×6.5"
+- **Drums:** Yamaha Recording Custom — same kit adopted in 1985
+- **Snare:** Premier 2000 14"×6.5" (continued)
 - **Cymbals:** Zildjian A Series — expanded, included additional splash cymbals
-- **Pedal:** DW 5000 double pedal
+- **Pedal:** DW 5000 single pedal
 - **Sticks:** Vic Firth 5B
 - **Heads:** Remo Emperor (toms), Powerstroke P3 (kick)
 - **Original setup cost (1990):** ~$5,200
@@ -67,27 +67,51 @@
 
 ### Brave New World / Dance of Death Era (2000–2003)
 
-- **Drums:** Pearl Masters Premium — Pearl's updated flagship maple shell series
-- **Snare:** Pearl Free-Floating Brass 14"×6.5"
+- **Drums:** Yamaha Recording Custom — same kit adopted in 1985, now 15 years into the Yamaha era
+- **Snare:** Premier Signia 14"×6.5" maple
 - **Cymbals:** Zildjian A Custom Series — transitioned from standard A to A Custom for brighter projection
-- **Pedal:** Pearl Eliminator double pedal
-- **Sticks:** Vic Firth 5B (later: Vic Firth Nicko McBrain Signature model)
+- **Pedal:** DW 5000 single pedal — same single-pedal approach maintained despite heavier reunion-era material
+- **Sticks:** Vic Firth 5B (transitioning to the Vic Firth Nicko McBrain Signature SNM model)
 - **Heads:** Remo Emperor (toms), Powerstroke P3 (kick), Controlled Sound (snare)
 - **Original setup cost (2003):** ~$7,800
 - **Inflation-adjusted to 2026:** ~$13,900
-- **Notable:** Maiden's reunion with Bruce Dickinson and the Brave New World comeback album marked a creative resurgence. McBrain transitioned to the Pearl Eliminator pedal for the heavier double bass demands of the Maiden reunion setlists.
+- **Notable:** Maiden's reunion with Bruce Dickinson and the Brave New World comeback album marked a creative resurgence. McBrain met the heavier reunion-era material on the same Yamaha kit and single-pedal setup he'd used since 1985 — he never adopted a double bass or double pedal.
 
 ### A Matter of Life and Death / Final Frontier Era (2006–2010)
 
-- **Drums:** Pearl Reference Series — Pearl's flagship multi-ply, multi-species shell pack
-- **Snare:** Pearl Free-Floating Steel 14"×6.5"
+- **Drums:** Yamaha Recording Custom — final years of the 25-year Yamaha era, through The Final Frontier (2010)
+- **Snare:** Premier Nicko McBrain Signature 14"×6.5"
 - **Cymbals:** Zildjian A Custom — 14" hi-hats, 17" and 19" crashes, 20" ride, 18" China
-- **Pedal:** Pearl Eliminator double pedal
-- **Sticks:** Vic Firth Nicko McBrain Signature
+- **Pedal:** DW 5000 single pedal — unchanged since 1984
+- **Sticks:** Vic Firth Nicko McBrain Signature SNM
 - **Heads:** Remo Emperor Pro (toms), Powerstroke P3 (kick)
 - **Original setup cost (2006):** ~$9,500
 - **Inflation-adjusted to 2026:** ~$15,300
-- **Notable:** Maiden's most critically acclaimed late-career period. The Pearl Reference gave McBrain the tonal clarity and headroom to articulate the complex, multi-part compositions of A Matter of Life and Death and The Final Frontier in arena environments worldwide.
+- **Notable:** Maiden's most critically acclaimed late-career period. McBrain closed out his 25-year run on the Yamaha Recording Custom with A Matter of Life and Death and The Final Frontier, before switching drum brands again in 2010.
+
+### Sonor SQ2 Era (2010–2019)
+
+- **Drums:** Sonor SQ1, later SQ2 — McBrain's second brand switch, ending 25 years on Yamaha Recording Custom
+- **Snare:** Sonor Nicko McBrain Signature 14"×6.5" — new signature model built with Sonor
+- **Cymbals:** Zildjian A Custom (continued)
+- **Pedal:** Sonor single pedal — same single bass drum, single pedal philosophy maintained
+- **Sticks:** Vic Firth Nicko McBrain Signature SNM
+- **Heads:** Remo Powerstroke 3 Clear (kick), Ambassador Coated (toms, snare)
+- **Original setup cost (2010):** ~$9,800
+- **Inflation-adjusted to 2026:** ~$14,500
+- **Notable:** McBrain moved to Sonor's SQ1 and then SQ2 custom program in 2010. The Sonor Nicko McBrain Signature snare introduced in this era outlasted the drum brand itself, carrying over into his later British Drum Co. kit.
+
+### British Drum Co. Era (2019–Present)
+
+- **Drums:** British Drum Co. — McBrain's current drum brand since 2019
+- **Snare:** Sonor Nicko McBrain Signature 14"×6.5" — retained from the Sonor era within the new British Drum Co. kit
+- **Cymbals:** Zildjian A Custom (continued)
+- **Pedal:** Single pedal — the single bass drum, single pedal approach he has used since 1984; he never adopted a double kick
+- **Sticks:** Vic Firth Nicko McBrain Signature SNM
+- **Heads:** Remo Powerstroke 3 Clear / Ambassador Coated
+- **Original setup cost (2019):** ~$11,000
+- **Inflation-adjusted to 2026:** ~$12,500
+- **Notable:** McBrain became a British Drum Co. artist in 2019 while keeping his Sonor signature snare. Kevin Shirley's Guillaume Tell sessions for Senjutsu (2021) — Iron Maiden's first UK #1 album since A Matter of Life and Death, recorded when McBrain was 67 — captured this kit. McBrain retired from touring in December 2024 following a 2023 stroke; he remains an official/studio member of Iron Maiden, with Simon Dawson serving as touring drummer since 2025.
 
 ---
 
@@ -95,33 +119,35 @@
 
 - **1982:** Joined Iron Maiden; established Pearl endorsement with DLX series
 - **1984:** Powerslave era — most recognisable Pearl DLX configuration, Live After Death documentation
-- **1986:** Upgraded to Pearl Masters series; added DW double pedal for select passages
-- **2000:** Moved to Pearl Masters Premium; transitioning toward Pearl Eliminator pedal
-- **2003:** Signature stick relationship with Vic Firth confirmed; Pearl Eliminator pedal in regular use
-- **2006:** Pearl Reference Series — highest-tier setup of career; Zildjian A Custom fully adopted
-- **40+ years:** Nicko McBrain holds the longest continuous Pearl endorsement of any drummer on the MetalForge roster
+- **1985:** Switched from Pearl to a Yamaha Recording Custom kit, used through 2010
+- **2000:** Signature stick relationship with Vic Firth developing; Premier Signia snare adopted
+- **2003:** Continued on the same Yamaha Recording Custom kit through the Maiden reunion era
+- **2006:** Premier Nicko McBrain Signature snare and Zildjian A Custom fully adopted
+- **2010:** Switched to Sonor SQ1/SQ2, ending 25 years on Yamaha Recording Custom
+- **2019:** Became a British Drum Co. artist, his current drum brand, while retaining his Sonor signature snare
+- **Throughout:** Single bass drum, single pedal — McBrain never adopted a double bass or double pedal setup, across all four drum brands
 
 ---
 
 ## FAQ
 
 **Q: What drum kit does Nicko McBrain use?**  
-A: Nicko McBrain has played Pearl drums for over four decades. His current setup features Pearl Reference shells, Zildjian A Custom cymbals, Pearl Eliminator double pedals, and Vic Firth Nicko McBrain Signature sticks.
+A: Nicko McBrain played a British Drum Co. kit from 2019 until retiring from touring in December 2024 following a 2023 stroke; he remains an official/studio member of Iron Maiden, with Simon Dawson touring in his place since 2025. That kit paired Zildjian A Custom cymbals, his retained Sonor Nicko McBrain Signature snare, and Vic Firth Nicko McBrain Signature sticks. He was endorsed by Pearl only briefly (1982–1985), then spent 25 years on Yamaha Recording Custom (1985–2010), then Sonor (2010–2019), before the British Drum Co. move.
 
 **Q: What drums did Nicko McBrain use on Powerslave?**  
 A: For the Powerslave sessions and world tour (1984), Nicko used a Pearl DLX 7-piece shell pack with Zildjian A Series cymbals and a DW 5000 single pedal. The complete setup cost approximately $3,891 in 1984 dollars — equivalent to about $12,300 adjusted for 2026 inflation.
 
-**Q: How long has Nicko McBrain been endorsed by Pearl?**  
-A: Nicko McBrain has maintained his Pearl endorsement for over forty years, making it one of the longest continuous artist relationships in Pearl's history and the longest documented Pearl endorsement among active metal drummers.
+**Q: How long was Nicko McBrain endorsed by Pearl?**  
+A: Nicko McBrain's Pearl endorsement ran from 1982 to 1985 — covering Piece of Mind and Powerslave — before he switched to a Yamaha Recording Custom kit in 1985, which he played for 25 years through The Final Frontier (2010). He later moved to Sonor (2010–2019) and then British Drum Co. (2019–present).
 
 **Q: What cymbals does Nicko McBrain use?**  
 A: Nicko has used Zildjian cymbals throughout his career with Iron Maiden, beginning with the Zildjian A Series in the early 1980s and transitioning to the Zildjian A Custom series around the Brave New World era (2000).
 
 **Q: What pedal does Nicko McBrain use?**  
-A: Nicko McBrain used DW 5000 pedals throughout the 1980s and 1990s before transitioning to the Pearl Eliminator double pedal around the time of Maiden's reunion with Bruce Dickinson (2000). He has used Pearl Eliminator pedals in all subsequent eras.
+A: Nicko McBrain has used a single bass drum pedal since adopting the DW 5000 in 1984, switching to a Sonor single pedal around his 2010 Sonor signing. He has never used a double pedal or double bass setup.
 
 **Q: Does Nicko McBrain use a double bass drum setup?**  
-A: No — Nicko McBrain uses a single bass drum with a double pedal. This is one of his defining technical characteristics; his powerful, right-hand-led playing style rarely requires true double-kick configuration.
+A: No — Nicko McBrain uses a single bass drum with a single pedal. This is one of his defining technical characteristics, unchanged across all four of his drum brands (Pearl, Yamaha, Sonor, British Drum Co.).
 
 ---
 

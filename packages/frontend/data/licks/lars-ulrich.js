@@ -41,7 +41,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Artstar ES Kit",
+        "name": "Tama Artstar II Kit",
         "type": "drums",
         "link": null
       },
@@ -183,7 +183,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Zildjian A Series Cymbals",
+        "name": "Zildjian A Custom Cymbals",
         "type": "cymbals",
         "link": null
       }
@@ -243,7 +243,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Artstar ES Kit",
+        "name": "Tama Artstar II Kit",
         "type": "drums",
         "link": null
       },
@@ -310,12 +310,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Artstar ES Kit",
+        "name": "Tama Artstar II Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Zildjian A Series Hi-Hats",
+        "name": "Zildjian A Custom Hi-Hats",
         "type": "cymbals",
         "link": null
       }

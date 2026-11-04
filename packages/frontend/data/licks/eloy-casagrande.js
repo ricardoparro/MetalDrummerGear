@@ -51,7 +51,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Tama Iron Cobra Pedals",
         "type": "pedals",
         "link": null
       }
@@ -123,7 +123,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Tama Iron Cobra Pedals",
         "type": "pedals",
         "link": null
       }
@@ -195,7 +195,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Tama Iron Cobra Pedals",
         "type": "pedals",
         "link": null
       }

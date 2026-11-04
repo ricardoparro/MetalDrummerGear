@@ -113,7 +113,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Kit",
+        "name": "Tama Artstar II",
         "type": "drums",
         "link": null
       },
@@ -250,7 +250,7 @@ export const licks = {
       "Lead into the main groove from the fill without losing momentum or dropping the tempo"
     ],
     "gearUsed": [
-      { "name": "Tama Starclassic Kit", "type": "drums", "link": null },
+      { "name": "Tama Artstar II", "type": "drums", "link": null },
       { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
       { "name": "Tama Iron Cobra Pedals", "type": "pedals", "link": null }
     ],

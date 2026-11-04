@@ -409,24 +409,24 @@ export const licks = {
       ]
     }
   },
-  "gene-hoglan-pull-the-plug-lick": {
-    "slug": "gene-hoglan-pull-the-plug-lick",
-    "name": "Pull the Plug Death Metal Groove",
-    "shortName": "Pull the Plug",
+  "gene-hoglan-trapped-in-a-corner-lick": {
+    "slug": "gene-hoglan-trapped-in-a-corner-lick",
+    "name": "Trapped in a Corner Death Metal Groove",
+    "shortName": "Trapped in a Corner",
     "drummerId": 3,
     "drummerName": "Gene Hoglan",
     "drummerSlug": "gene-hoglan",
     "band": "Death",
-    "song": "Pull the Plug",
-    "album": "Leprosy (1988)",
+    "song": "Trapped in a Corner",
+    "album": "Individual Thought Patterns (1993)",
     "category": "groove-fill",
     "style": "death-metal",
     "difficulty": "advanced",
     "difficultyRating": 4,
-    "bpm": 168,
-    "bpmDisplay": "~168 BPM",
+    "bpm": 160,
+    "bpmDisplay": "~160 BPM",
     "timeSignature": "4/4",
-    "description": "Pull the Plug from Death's Leprosy album (1988) is one of the foundational death metal drum performances in the genre's history, featuring a combination of driving groove and precisely timed fill work that established the template for early death metal rhythmic vocabulary. The track operates at a mid-to-high tempo that sits between the methodical plod of doom-influenced death metal and the full blast of the genre's most extreme material, creating a rhythmic space where groove and aggression coexist in a tension that gives the song its relentless forward momentum. Gene Hoglan, who joined Death in 1993 beginning with Individual Thought Patterns, brought this early Leprosy-era material into his deep repertoire through his work with Chuck Schuldiner and his extensive engagement with the Death catalog across live performances, teaching situations, and tribute contexts. The Leprosy-era Death groove vocabulary that Pull the Plug exemplifies — driven, purposeful double-bass patterns beneath a snare that cracks on every backbeat with authority, fills that arrive at structurally significant moments and resolve cleanly without disrupting momentum — became central to Hoglan's understanding of early death metal and directly informed the way he approached his own Death recordings from ITP onward. The groove on Pull the Plug has a specific weight that comes from how the kick drum locks to the guitar riff's rhythmic contour rather than simply providing a generic underlying pulse. This riff-lock technique — where the kick accents amplify specific guitar hits rather than playing against or over them — is a defining characteristic of the Leprosy-era sound and one of the elements that Hoglan refined and developed further in his own Death tenure. The fill work on the track is equally instructive: fills appear at the end of phrases and at structural transitions, they are compact, they resolve on the correct beat without any lag or rush, and their rhythmic content connects logically to the groove material on either side of them. This is fundamentally good compositional drumming — fills as punctuation within a larger rhythmic statement rather than as displays disconnected from the song's architecture. For drummers studying the Pull the Plug groove and fill combination, the most important practice approach is to learn the groove thoroughly in isolation first, building the riff-lock kick pattern against the guitar at accurate tempo before any fill work is attempted. The fills should be learned as individual phrases with specific start and end points, practiced until they arrive and depart cleanly at tempo, and only then inserted into their structural positions within the full arrangement. Death's Leprosy-era material remains some of the most instructive drum pedagogy in the extreme metal tradition.",
+    "description": "Trapped in a Corner, the second track on Death's Individual Thought Patterns (1993), is one of the clearest early showcases of what Gene Hoglan brought to Chuck Schuldiner's songwriting the moment he joined the band in December 1992. The track operates at a mid-to-high tempo that sits between the methodical weight of groove-oriented death metal and the full velocity of the genre's most extreme material, creating a rhythmic space where groove and aggression coexist in a tension that gives the song its relentless forward momentum. Hoglan's drumming on this record marked a stylistic shift for Death, trading the earlier lineup's more straightforward approach for a combination of driving groove and precisely timed fill work that would come to define the Individual Thought Patterns-era sound. The groove on Trapped in a Corner has a specific weight that comes from how the kick drum locks to the guitar riff's rhythmic contour rather than simply providing a generic underlying pulse. This riff-lock technique — where the kick accents amplify specific guitar hits rather than playing against or over them — is a defining characteristic of Hoglan's early Death work and one of the elements he carried forward and refined on Symbolic two years later. The fill work on the track is equally instructive: fills appear at the end of phrases and at structural transitions, they are compact, they resolve on the correct beat without any lag or rush, and their rhythmic content connects logically to the groove material on either side of them. This is fundamentally good compositional drumming — fills as punctuation within a larger rhythmic statement rather than as displays disconnected from the song's architecture. For drummers studying the Trapped in a Corner groove and fill combination, the most important practice approach is to learn the groove thoroughly in isolation first, building the riff-lock kick pattern against the guitar at accurate tempo before any fill work is attempted. The fills should be learned as individual phrases with specific start and end points, practiced until they arrive and depart cleanly at tempo, and only then inserted into their structural positions within the full arrangement. Individual Thought Patterns remains some of the most instructive drum pedagogy in the extreme metal tradition, and Trapped in a Corner is an accessible entry point into Hoglan's groove vocabulary before tackling the album's more demanding centerpiece, The Philosopher.",
     "techniques": [
       "groove-drumming",
       "fill-techniques",
@@ -442,25 +442,25 @@ export const licks = {
     "video": null,
     "tutorial": null,
     "gearUsed": [
-      { "name": "Pearl Drum Kit", "type": "drums", "link": null },
+      { "name": "Tama Drum Kit", "type": "drums", "link": null },
       { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
       { "name": "Double Bass Pedals", "type": "pedals", "link": null }
     ],
     "learningTips": [
       "Lock the kick to the guitar riff first — the riff-lock relationship is the defining quality of this groove style",
       "Practice fills as isolated two-to-four bar modules with a metronome before inserting them into the full arrangement",
-      "Study both the Leprosy original and Hoglan's Death-era recordings to understand how this vocabulary was developed and refined",
+      "Study the Individual Thought Patterns recording closely to hear how this vocabulary sets up the album's later tracks",
       "Focus on the arrivals and departures of fills — cleanness at these transition points separates the professional from the learner"
     ],
     "seo": {
-      "title": "Gene Hoglan Pull the Plug Death Metal Groove - Drum Tutorial | MetalForge",
-      "description": "Learn the death metal groove and fill combination from Death's Pull the Plug (Leprosy, 1988). Riff-lock technique, fill construction, and early death metal drumming breakdown.",
+      "title": "Gene Hoglan Trapped in a Corner Death Metal Groove - Drum Tutorial | MetalForge",
+      "description": "Learn the death metal groove and fill combination from Death's Trapped in a Corner (Individual Thought Patterns, 1993). Riff-lock technique, fill construction, and early Hoglan-era Death drumming breakdown.",
       "keywords": [
         "gene hoglan",
-        "pull the plug drums",
+        "trapped in a corner drums",
         "death metal groove",
-        "leprosy death album",
-        "early death metal drumming",
+        "individual thought patterns album",
+        "death metal drumming",
         "death metal fill technique"
       ]
     }

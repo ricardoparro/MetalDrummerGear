@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-03 19:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-04 00:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,88 +8,85 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 454 |
-| Sessions | 521 |
-| Page views | 774 |
-| Engagement rate | 65.07% |
-| Avg session (s) | 134 |
+| Active users | 402 |
+| Sessions | 461 |
+| Page views | 655 |
+| Engagement rate | 64.86% |
+| Avg session (s) | 128 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummers | 33 | 10 |
-| / | 31 | 18 |
-| /articles/slipknot-self-titled-drum-setup | 17 | 14 |
-| /drummer/mario-duplantier | 17 | 10 |
+| / | 29 | 18 |
+| /drummers | 28 | 8 |
 | /quiz | 16 | 3 |
-| /drummer/frost | 14 | 6 |
+| /articles/slipknot-self-titled-drum-setup | 15 | 13 |
 | /lists/best-death-metal-drummers | 13 | 13 |
+| /drummer/frost | 12 | 5 |
+| /drummer/matt-greiner | 12 | 10 |
 | /drummer/eloy-casagrande | 10 | 8 |
-| /drummer/matt-greiner | 10 | 8 |
-| /drummers/vinnie-paul/evolution | 10 | 1 |
+| /drummer/mario-duplantier | 10 | 8 |
+| /drummer/jay-weinberg | 9 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 423 | 356 |
-| Direct | 98 | 97 |
-| Unassigned | 3 | 3 |
-| Referral | 1 | 1 |
+| Organic Search | 377 | 318 |
+| Direct | 84 | 83 |
+| Unassigned | 6 | 6 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 190 | 176 |
-| United Kingdom | 38 | 22 |
-| Germany | 28 | 24 |
+| United States | 170 | 157 |
+| United Kingdom | 35 | 20 |
+| Germany | 28 | 25 |
 | Singapore | 28 | 28 |
-| Canada | 20 | 18 |
-| Australia | 19 | 14 |
-| Brazil | 15 | 15 |
+| Canada | 19 | 17 |
+| Australia | 16 | 12 |
 | France | 13 | 11 |
-| Poland | 12 | 11 |
+| Brazil | 11 | 11 |
 | Norway | 10 | 8 |
+| Poland | 10 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 17,279 |
-| Clicks | 281 |
-| CTR | 1.63% |
-| Avg position | 8.6 |
+| Impressions | 14,087 |
+| Clicks | 241 |
+| CTR | 1.71% |
+| Avg position | 8.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | death metal drum kit | 13 | 2 | 15.38% | 3.8 |
-| gavin harrison cymbal setup | 11 | 2 | 18.18% | 4.5 |
 | joey jordison cymbals | 4 | 2 | 50.00% | 3.3 |
-| mario duplantier drum kit | 33 | 2 | 6.06% | 8.2 |
-| matt greiner cymbal setup | 5 | 2 | 40.00% | 9.0 |
 | best drumsticks for metal | 3 | 1 | 33.33% | 7.7 |
-| best metalcore drummers | 7 | 1 | 14.29% | 6.6 |
-| best nu metal drummers | 11 | 1 | 9.09% | 6.7 |
-| bill ward drum setup | 8 | 1 | 12.50% | 5.3 |
+| best metalcore drummers | 4 | 1 | 25.00% | 9.0 |
+| bill ward drum setup | 5 | 1 | 20.00% | 6.0 |
 | black sabbath drum kit | 1 | 1 | 100.00% | 3.0 |
+| brann dailor drum kit | 11 | 1 | 9.09% | 7.5 |
+| death metal drummers | 5 | 1 | 20.00% | 4.4 |
+| details | 1 | 1 | 100.00% | 8.0 |
+| eloy casagrande drum kit | 42 | 1 | 2.38% | 7.7 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,520 | 98 | 2.17% | 8.0 |
-| deu | 529 | 19 | 3.59% | 6.9 |
-| gbr | 842 | 15 | 1.78% | 8.9 |
-| pol | 250 | 14 | 5.60% | 6.3 |
-| can | 641 | 10 | 1.56% | 8.6 |
-| bra | 2,034 | 9 | 0.44% | 10.3 |
-| fra | 452 | 9 | 1.99% | 7.8 |
-| aus | 538 | 8 | 1.49% | 7.2 |
-| ind | 259 | 6 | 2.32% | 8.6 |
-| nor | 184 | 6 | 3.26% | 8.3 |
+| usa | 3,807 | 84 | 2.21% | 7.8 |
+| deu | 440 | 16 | 3.64% | 7.0 |
+| gbr | 686 | 12 | 1.75% | 8.7 |
+| pol | 204 | 12 | 5.88% | 5.9 |
+| bra | 1,662 | 9 | 0.54% | 10.3 |
+| fra | 378 | 9 | 2.38% | 7.8 |
+| can | 507 | 7 | 1.38% | 8.6 |
+| aus | 436 | 6 | 1.38% | 7.2 |
+| ind | 211 | 6 | 2.84% | 8.3 |
+| nor | 167 | 6 | 3.59% | 8.4 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-| Query | Impr | CTR | Pos | Action |
-| --- | --- | --- | --- | --- |
-| matt halpern | 4,632 | 0.02% | 10.9 | open issue to answer better |
+_no significant gaps detected — all queries with traction have decent CTR_
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

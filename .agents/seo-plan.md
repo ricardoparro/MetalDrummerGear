@@ -15730,3 +15730,42 @@ Dispatched 3 parallel research agents on 3 distinct angles to avoid re-mining he
 2. Fresh leads for next sweep, not yet filed (lower confidence or needs more checking): Hannes Grossmann `drummerEvolution.js` self-contradiction (Alkaloid era claims unchanged gear from an Obscura era that was actually different), Jason Bittner `evolution.md` 1999-vs-2001 Shadows Fall join year self-contradiction with its own sibling `gear-history.md`, Shannon Larkin `gear-history.md` Tama+invented "Souls at Zero" band (evolution.md already fixed by #9204, sibling never swept), Waltteri Väyrynen `gear-history.md` inventing a specific Pearl model/sizes where ground truth explicitly flags them as undocumented, Morgan Ågren pre-2012 "Sonor" claim surviving in `evolution/morgan-agren.md` after #9748 corrected `drummerEvolution.js` (needs a regen-vs-hand-authored check first, since this mirror might not be covered by any generator).
 3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not due yet, and no longer appearing in this week's content-gap table.
 4. Drum-chair watch: already done this week (Monday 11-02, group 1, 0 changes). Next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-04 ~13:00 UTC run (bank-capped mode — 5 proposals filed #10220-10224, 3 candidates dropped after dedup)
+
+### Context
+Bank check: 14 open `seo-proposal` at run start (8 fresh from the ~01:16 run already promoted to `ai-fix`, 3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819) — well under the 45 cap. metrics.md (07:02 UTC) shows **no qualifying content-gap rows** this week; GSC 14,087 impr/241 clicks/1.71% CTR/pos 8.5. robots.txt confirmed all 8 AI crawler tokens still present, `/llms/index.md` + per-drummer markdown live. Today is Wednesday — drum-chair weekly sweep not due (already run this week, next due Monday 11-09).
+
+### Method — new surfaces, not the already-heavily-swept ones
+Six parallel research agents audited files that had **zero prior "SEO:" issue history** (checked via a 300-issue title scan first): `battles.js`, `guessTheKitData.js`, `quizData.js`, `signatureLicks.js` (thin re-export → actually the 73-file `licks/` directory, sampled 10 + a full-directory pass), `gearIndex.js`, and `techniques.js`. `battles.js`/`guessTheKitData.js`/`quizData.js`/`techniques.js` came back clean (quiz-engine logic with no hardcoded per-drummer facts, or facts that all checked out). `licks/` and `gearIndex.js` surfaced real fabrications.
+
+**Critical dedup catch this run:** before filing, cross-referenced every candidate against `gh issue list --state all --search`, reading full bodies where titles overlapped. Two of the agents' findings were **backwards** — they used `drummerEvolution.js` as ground truth where this repo has *repeatedly* and *recently* established that file is unreliable/stale for certain drummers and `endorsementNews.js` is the accepted source instead:
+- Joey Jordison `licks/joey-jordison.js` ddrum/Zildjian-A-Custom for the 1999 debut — the candidate proposed "fixing" this to Pearl Export/Paiste 2002, but closed #9599+#9732 already established ddrum/Zildjian-A-Custom as correct (Pearl endorsement came *after* the debut's success). Filing would have reverted an accepted fix.
+- George Kollias `licks/george-kollias.js` Pearl Masterworks/Demon XR — the candidate proposed "fixing" this to era-accurate Pearl Reference/Iron Cobra HP900 for the 2005-2008 songs, but closed #7538+#9279 already established Masterworks/Demon XR as the deliberately-used values (endorsementNews.js convention, drummerEvolution.js explicitly flagged untrustworthy for this entity by #7538's own body). Filing would have reverted an accepted fix.
+- Travis Orbin `licks/travis-orbin.js` Periphery "Jetpacks Was Yes!" — exact duplicate of open-but-held #5957 ("needs a content decision, not a mechanical fix").
+
+**Lesson for next sweep (candidate for learned-patterns.md):** when a candidate's fix direction comes from `drummerEvolution.js` alone, cross-check `endorsementNews.js` and search closed issues for that exact file+drummer before filing — this file has now been the *wrong* source in at least 2 confirmed cases (Kollias, Jordison) where a closed, accepted issue explicitly overrode it in favor of `endorsementNews.js`. Don't trust era-block prose in `drummerEvolution.js` over a `currentEndorsements`/timeline entry in `endorsementNews.js` without checking issue history first.
+
+### Proposals filed this run
+1. #10220 — Gene Hoglan `licks/gene-hoglan.js` misattributes Death's "Pull the Plug" (Leprosy, 1988) to him — `bands.js` confirms Bill Andrews recorded it; Hoglan's Death tenure is 1992-1995. Entry self-contradicts its own prose ("joined Death in 1993").
+2. #10221 — Hellhammer `licks/hellhammer.js` credits him performing on Mayhem's Deathcrush EP (1987) — he joined Mayhem in 1988 per 4 independent ground-truth files (extendedBios.js, albumArticles/hellhammer.js, drummerEvolution.js ×2). Distinct from closed #7053 (which fixed gear-era-dating on this same entry but never checked the performer/recording-credit question).
+3. #10222 — `licks/lars-ulrich.js` fabricates a nonexistent "Tama Artstar ES" kit (3 locations; file's own line 190 already correctly says "Artstar II") + wrong "Zildjian A Series" cymbals for the Master of Puppets/Justice era (2 locations, should be A Custom per both drummerEvolution.js and endorsementNews.js).
+4. #10223 — `licks/eloy-casagrande.js` fabricates "Tama Speed Cobra Pedals" across all 3 entries — verified Tama Iron Cobra per extendedBios.js FAQ (corroborated by the unrelated closed #10063 finding the same Speed-Cobra-vs-Iron-Cobra error in a different file).
+5. #10224 — `gearIndex.js` miscategorizes Ben Koller under "Starclassic Maple" instead of "Starclassic Performer B/B" (since 2017) — confirmed via both `endorsementNews.js` and `extendedBios.js`; the correct bucket already exists in the same file for other drummers, just missing this one entry.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #5957 (Travis Orbin licks content-decision, human-hold — reconfirmed still open/held this run, not re-spammed)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10220-10224 (this run, 5 fresh)
+
+### Next run
+1. Watch #10220-10224 triage/promotion.
+2. `licks/` directory (73 files) is now a confirmed-productive, mostly-unswept surface — the sampled 10-file pass + full BPM-focused pass surfaced 9 more candidates not filed this run (bank discipline — stopped at 5 solid ones): Travis Orbin BPM (155 vs ground truth), Nick Menza BPM (3 songs, Tornado of Souls/Holy Wars/Hangar 18), Nicko McBrain BPM (Aces High), Nick Augusto BPM (In Waves), Mario Duplantier BPM (Flying Whales), Dave Lombardo BPM (Postmortem) + fabricated Paiste-for-undocumented-era claim, Mike Portnoy BPM (Dance of Eternity) + "Tama Starclassic Kit" for the 1992 Images and Words era (should be Artstar II per drummerEvolution.js — **not yet cross-checked against endorsementNews.js given this run's lesson, do that first**), Daray Pearl-vs-Tama for Eonian (2018), Paul Bostaph 1996-1997 Jon Dette gap omission, Richard Christy 1996-vs-1997 Death join year. All need the same endorsementNews.js + issue-history cross-check discipline as this run before filing.
+3. `metalSongsBpm.js` vs `licks/*.js` BPM desync looks like a distinct, batchable bug class (8+ locations across 6 files) — worth one `SEO batch:` issue next run once candidates are re-verified.
+4. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
+5. Drum-chair watch: next due Monday 2026-11-09, group 2.

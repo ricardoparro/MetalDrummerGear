@@ -15769,3 +15769,54 @@ Six parallel research agents audited files that had **zero prior "SEO:" issue hi
 3. `metalSongsBpm.js` vs `licks/*.js` BPM desync looks like a distinct, batchable bug class (8+ locations across 6 files) — worth one `SEO batch:` issue next run once candidates are re-verified.
 4. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
 5. Drum-chair watch: next due Monday 2026-11-09, group 2.
+
+---
+
+## 2026-11-04 ~13:xx UTC run (bank-capped mode — 7 proposals filed #10235-10241)
+
+### Context
+Bank check: 11 open `seo-proposal` at run start (5 fresh #10220-10224 already verified+promoted per CEO's 12:11 decisions-log entry, 3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819 — zero untriaged fresh) — well under the 45 cap → filed 7 net-new (1 under the 8 cap; the 8th candidate was dropped mid-verification, see below). New-page freeze + LLM-first mode still binding — all 7 are existing-file fact fixes, zero new pages. metrics.md (13:02 UTC) shows **no qualifying content-gap rows** this week (GSC 16,482 impr/289 clicks/1.75% CTR/pos 8.5). Today is Wednesday — drum-chair weekly sweep already done this week (Monday 11-02, group 1, 0 changes), correctly skipped.
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 9 AI crawler tokens confirmed present (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — healthy.
+- `/llms/**.md`: 2,027 files under `public/llms/` — unchanged count.
+- No fresh Lighthouse run — time spent closing out the prior run's unfiled `licks/` BPM-sweep backlog (established higher-yield method this week).
+
+### Method
+Picked up the exact 10-candidate unfiled lead list left by the prior run (Travis Orbin, Nick Menza, Nicko McBrain, Nick Augusto, Mario Duplantier, Dave Lombardo, Mike Portnoy, Daray, Paul Bostaph, Richard Christy) rather than mining fresh ones. Dispatched 5 parallel verification agents (2 candidates each) against ground truth (`metalSongsBpm.js`, `drummerEvolution.js`, `endorsementNews.js`, `bands.js`, `extendedBios.js`) plus `gh issue list --search` dedup on each, then personally re-grepped every exact file:line citation myself before filing (caught and corrected one agent's imprecise line citation for Nick Augusto, and independently mapped all 6 "Tama Starclassic Kit" mentions in Mike Portnoy's file to their song/era via `drummerEvolution.js`'s era blocks before scoping that fix).
+
+**3 candidates dropped, not filed:**
+- **Travis Orbin** "Jetpacks Was Yes!" BPM (155 vs 175) — same entry already covered by open-held #5957 (content-decision hold: Orbin never recorded this song). Filing a standalone BPM fix would conflict with the existing hold.
+- **Paul Bostaph** 1996-97 Jon Dette gap — already fully documented correctly in `bands.js:341/377`; the licks file doesn't actually contradict it. No real finding; already-closed #9245/#9894 covered the adjacent fact in other files.
+- **Mike Portnoy** "Dance of Eternity" BPM (130 "core" vs 170 canonical) — legitimate editorial-vs-canonical divergence (lick page frames 130 as the tempo-shifting piece's "core" tempo, not a single measured value); dropped rather than risk a wrong-direction edit with no clear evidence either number is "more correct" for a piece with 100+ meter changes.
+
+**1 candidate split/rescoped:** Mike Portnoy's "Tama Starclassic Kit" lead initially looked like a blanket fabrication across 6 locations, but mapping each to its song/era via `drummerEvolution.js`'s era blocks (`portnoy-1992-images-words` vs `portnoy-1999-metropolis`/`portnoy-2007-systematic-chaos`) showed only the 2 "Pull Me Under" (1992) locations are wrong (should be Tama Artstar II); the other 4 (Dance of Eternity, Panic Attack, In the Presence of Enemies) are correct and must not be touched. Filed scoped to just the 2 wrong locations.
+
+### Proposals filed this run
+1. #10235 — `licks/nick-menza.js` BPM drift on 3 Megadeth songs (Tornado of Souls, Holy Wars...The Punishment Due, Hangar 18), 5 locations, vs `metalSongsBpm.js`
+2. #10236 — `licks/nicko-mcbrain.js` "Aces High" BPM (175→180) vs `metalSongsBpm.js`
+3. #10237 — `licks/nick-augusto.js` "In Waves" BPM (175→132) vs `metalSongsBpm.js`
+4. #10238 — `licks/mario-duplantier.js` "Flying Whales" BPM (132→85) vs `metalSongsBpm.js`
+5. #10239 — `licks/dave-lombardo.js` "Postmortem" BPM drift (190→90) + fabricated Paiste cymbal brand on the undocumented 1983 Show No Mercy era
+6. #10240 — `licks/mike-portnoy.js` "Pull Me Under" (1992) wrongly lists "Tama Starclassic Kit" — verified Tama Artstar II, scoped to exactly 2 of the file's 6 similar-looking mentions
+7. #10241 — `licks/daray.js` Eonian-era (2018) entry fabricates Pearl kit — verified Tama Starclassic Performer B/B
+8. #10242 — `licks/richard-christy.js` states Death join year as 1996 — verified 1997 (distinct from held #10099's kit-model question)
+
+### Learned-patterns.md updates
+- Not yet appended — recommend adding: "when a lead names multiple near-identical-looking field occurrences across different song/era entries in the same file (e.g. 6 'Tama Starclassic Kit' mentions), don't assume they're all wrong just because 1-2 are confirmed fabrications — map each occurrence to its own song/era against `drummerEvolution.js`'s dated era blocks before scoping the fix. The Portnoy case (#10240) found only 2 of 6 identical-looking mentions were actually anachronistic; a blanket find-replace would have broken 4 correct ones."
+- Confirms the prior run's "the licks/ directory and metalSongsBpm.js can drift independently" pattern as a now-closed-out vein for this batch of drummers — worth checking other heavily-covered drummers' licks files for the same BPM-field-vs-canonical-dataset drift class in a future sweep (not exhaustively checked here, only the 8 named leads).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #5957 (Travis Orbin licks content-decision, human-hold — reconfirmed still open/held this run, not re-spammed)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10220-10224 (prior run, already promoted per CEO's 12:11 log)
+- #10235-10242 (this run, 8 fresh)
+
+### Next run
+1. Watch #10235-10242 triage/promotion; #10240 (Portnoy) carries a scope note — confirm Roadie touches only lines 116/253, not the other 4 "Tama Starclassic Kit" mentions.
+2. The named 10-candidate backlog from the prior run is now fully closed out (7 filed, 3 dropped with reasons above) — next sweep should mine fresh `licks/*.js` candidates rather than re-check this list.
+3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
+4. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

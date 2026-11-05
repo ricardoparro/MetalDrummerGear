@@ -18,7 +18,7 @@ export const extendedBios = {
     keywords: ['thrash metal', 'metallica', 'big four', 'tama drums', 'danish drummer', 'rock hall of fame', 'heavy metal'],
     relatedDrummers: ['dave-lombardo', 'joey-jordison', 'gene-hoglan'],
     summary: 'Lars Ulrich, Metallica co-founder & drummer since 1981, first Danish musician in Rock Hall of Fame, thrash metal pioneer.',
-    lastUpdated: '2026-02-15',
+    lastUpdated: '2026-11-05',
     imageAlt: 'Lars Ulrich playing drums live with Metallica on stage',
     schemaType: 'Person',
     sections: {
@@ -26,7 +26,9 @@ export const extendedBios = {
         title: 'Overview',
         content: `Lars Ulrich (born December 26, 1963, in Gentofte, Denmark) is a Danish-American musician who co-founded Metallica in 1981 alongside vocalist/guitarist James Hetfield. As the band's drummer, primary spokesman, and a key creative force, Ulrich has been instrumental in shaping Metallica into one of the most commercially successful and influential heavy metal bands in history.
 
-Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall of Fame when Metallica received the honor in 2009. He is widely recognized for his aggressive drumming style, distinctive fills, and his role in pioneering the thrash metal genre alongside bands like Slayer, Megadeth, and Anthrax—collectively known as the "Big Four" of thrash metal.`
+Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall of Fame when Metallica received the honor in 2009. He is widely recognized for his aggressive drumming style, distinctive fills, and his role in pioneering the thrash metal genre alongside bands like Slayer, Megadeth, and Anthrax—collectively known as the "Big Four" of thrash metal.
+
+**December 26, 2026** marks Lars Ulrich's 63rd birthday. Fans continue to celebrate the milestone by revisiting the thrash metal foundation he helped build with Metallica across four-plus decades, from "Kill 'Em All" through "72 Seasons."`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -108,12 +110,14 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
           'Named his children Myles (born 1998) and Layne (born 2001) after musicians Miles Davis and Layne Staley',
           'The "St. Anger" snare sound, achieved by loosening snare wires, remains one of the most debated production choices in metal history',
           'Has stated "I\'m not the best drummer in the world, but I\'m the best drummer for Metallica"',
-          'Became a US citizen in 2007'
+          'Became a US citizen in 2007',
+          'Born December 26, 1963 — December 26, 2026 marks his 63rd birthday'
         ]
       },
       faq: {
         title: 'Frequently Asked Questions',
         items: [
+          { q: 'When was Lars Ulrich born?', a: 'Lars Ulrich was born on December 26, 1963, in Gentofte, Denmark, and turns 63 on December 26, 2026.' },
           { q: 'What drums does Lars Ulrich play?', a: 'Lars Ulrich plays Tama Starclassic drums with his signature LU1465 snare drum.' },
           { q: 'When did Lars Ulrich co-found Metallica?', a: 'Lars Ulrich co-founded Metallica in 1981 in Los Angeles with James Hetfield.' },
           { q: 'Is Lars Ulrich in the Rock and Roll Hall of Fame?', a: 'Yes, Lars was inducted in 2009 with Metallica, becoming the first Danish-born musician in the Hall.' },

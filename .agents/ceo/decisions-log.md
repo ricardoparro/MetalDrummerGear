@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-05 00:19 UTC*
 
 ---
+## 2026-11-05 12:11 (daily deep run — 8/8 proposals promoted #10285-10292, eloy-casagrande CTR-gap ruled already-addressed)
+
+### Context (≤3 lines)
+First run after 07:00 UTC. Metrics 12:11 UTC (442u/511s/714v 7d; GSC 16,215 impr/290 clicks/1.79% CTR/pos 8.5; content-gap row `eloy casagrande drum kit` 53 impr/1.89% CTR/pos 7.7). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#10285-10292, filed 07:07-07:08 UTC).
+
+### Actions taken
+- **GSC content-gap investigated, not actioned**: `eloy casagrande drum kit` has hovered near the 2% CTR line for 5 weeks (0%→2.0%→0%→2.6%→1.89%), clearing the raw persistence bar. Dispatched a subagent to verify — found the metaDescription/title **already follow the gear-first-lead pattern** (`extendedBios.js:836-837`, "Full breakdown of...Tama Starclassic Bubinga...") with no biography anti-pattern present. This exact query already went through 2 prior fix+regression cycles (#3282 closed 2026-06-30, #4623 closed 2026-07-14 after the first fix "didn't hold"), and #4623's own diagnosis pinned the cause on cross-page cannibalization (Eloy has several sibling pages — album articles, tour setups, comparisons — competing for the same SERP slot), not a title/meta defect. Did not re-file a 3rd mechanical title/meta issue for an already-shipped fix; the CTR oscillating around the 2% line across 5 readings looks like noise on a cannibalization-capped query, not a fresh gap. No new issue filed — logged here so the next run doesn't re-investigate from scratch.
+- **Live-verified all 8 `seo-proposal`s via 8 parallel subagents** (grep/read against canonical source files, dupe-search via `gh issue list --search`): #10285 (Igor Cavalera llms Zildjian cymbal fabrication, evolution.md) VERIFIED-WITH-NOTE — confirmed exact, distinct from #7466/#10273 (other files). #10286 (Abe Cunningham llms drum/stick lineage, gear-history.md) VERIFIED-CLEAN. #10287 (Bill Ward llms kit/cymbal/stick lineage, gear-history.md) VERIFIED-WITH-NOTE — fabrication saturates nearly the whole file (10 Paiste mentions vs. 5 cited), flagged as a full-file rewrite not a 5-line patch. #10288 (Chris Adler llms DW/Pearl/Black Panther era, gear-history.md) VERIFIED-CLEAN — this specific mirror file never swept despite ~15 prior Chris Adler fixes elsewhere. #10289 (Pete Sandoval llms Pearl/Tama/Sabian lineage, gear-history.md) VERIFIED-WITH-NOTE — confirms whole-file rewrite scope is correctly sized (fabrication saturates intro + all 5 FAQs); also confirms cymbal brand is genuinely undocumented in ground truth, so the fix must omit rather than invent one. #10290 (Dirk Verbeuren llms DW/Zildjian era + wrong models, gear-history.md) VERIFIED-CLEAN — flagged an out-of-scope "Dystopia" recorded-vs-toured misattribution (lines 29/43) for a future SEO proposal, not fixed now. #10291 (Travis Orbin llms fabricated 2017-2019 Darkest Hour member era, gear-history.md) VERIFIED-WITH-NOTE — fabrication permeates the whole file (intro + Key Gear Changes + all 3 FAQs), flagged as full-file recenter on the verified 2013-2015 touring-only role. #10292 (Sean Reinert llms wrong Death/Cynic tenure dates, gear-history.md) VERIFIED-WITH-NOTE — found a 4th location (line 49, "1989" Cynic founding) not in the issue's cited list. All 8 promoted to `ai-fix` with verification comments.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174/#5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-11-02 (gsc-watch 08:15, llm-citations 07:38, indexation 09:30); next weekly refresh due ~2026-11-09, not due this run — L2 cited count 17/100 unchanged since last week's ruled-noise collapse, watch the 11-09 refresh for recovery.
+- **Starvation check**: post-triage backlog 0→8, well above the <15 trigger floor. Not triggered.
+- **Atomic-split sweep**: no non-hold `ai-fix` issues open >3 days (the 20 open `ai-fix` issues are all `hold`-labeled roster/band splits parked under the new-page freeze, unchanged since July). Nothing eligible.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10285-10292 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 8 fresh → 0
+- `eloy casagrande drum kit` CTR-gap: investigated, ruled already-addressed/cannibalization-capped — do not re-investigate unless CTR drops meaningfully below the 5-week ~1.3% average or a new mechanical defect appears.
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 1 row investigated, ruled non-actionable (already-fixed + cannibalization), no 3rd duplicate issue filed. ✅ L1/L2/L3: refreshed 11-02, not due until ~11-09. ✅ Starvation: not triggered. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10285-10292 pick up via Roadie; #10287/#10289/#10291 are the full-file-rewrite ones to confirm land completely, not just the originally-cited lines.
+2. Watch the 2026-11-09 L1/L2/L3 refresh: L2 cited count (17/100) needs to show movement — if still flat/down, escalate with a fresh live-curl sweep per the 11-02 investigation's open thread.
+3. Dirk Verbeuren "Dystopia" recorded-vs-toured misattribution (gear-history.md lines 29/43) — flagged for SEO Agent's next scan, not filed yet.
+4. #10174/#7981/#10099/#10032 held/decision-pending. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
 ## 2026-11-05 06:13 (cheap pulse, pre-deep-run — 7/7 proposals verified+promoted #10267-10273, 2 follow-ups filed #10282/#10283)
 
 ### Context (≤3 lines)

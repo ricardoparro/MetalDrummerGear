@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-05 08:15 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-05 12:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 433 |
-| Sessions | 498 |
-| Page views | 702 |
-| Engagement rate | 64.06% |
-| Avg session (s) | 120 |
+| Active users | 442 |
+| Sessions | 511 |
+| Page views | 714 |
+| Engagement rate | 64.58% |
+| Avg session (s) | 121 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -23,31 +23,31 @@
 | /quiz | 16 | 3 |
 | /drummer/eloy-casagrande | 13 | 11 |
 | /drummer/frost | 13 | 6 |
+| /articles/black-sabbath-drum-setup | 12 | 9 |
 | /articles/john-otto-drum-setup | 12 | 10 |
 | /drummer/matt-greiner | 12 | 9 |
-| /articles/black-sabbath-drum-setup | 11 | 9 |
 | /drummer/jay-weinberg | 10 | 9 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 404 | 341 |
+| Organic Search | 415 | 348 |
 | Direct | 92 | 90 |
-| Unassigned | 6 | 6 |
-| Referral | 2 | 2 |
+| Referral | 4 | 4 |
+| Unassigned | 4 | 4 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 197 | 175 |
-| United Kingdom | 37 | 24 |
-| Germany | 26 | 24 |
+| United States | 200 | 178 |
+| United Kingdom | 38 | 25 |
+| Germany | 27 | 25 |
 | Singapore | 26 | 26 |
-| Canada | 19 | 17 |
+| Canada | 20 | 18 |
 | Australia | 16 | 13 |
-| Sweden | 14 | 11 |
-| Brazil | 13 | 12 |
-| France | 12 | 10 |
+| Sweden | 15 | 11 |
+| Brazil | 14 | 12 |
+| France | 13 | 11 |
 | Netherlands | 10 | 9 |
 
 ## Search Console — Search performance

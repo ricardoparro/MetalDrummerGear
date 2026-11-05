@@ -5,7 +5,7 @@
 **Active:** 1995–present  
 **URL:** https://metalforge.io/drummers/dirk-verbeuren/gear-history
 
-> Era-by-era breakdown of Dirk Verbeuren's drum kit evolution, from the DW Collector's Maple / Zildjian A Custom setup that recorded his Grammy-winning Megadeth debut "Dystopia," to his current Tama Starclassic Maple / Meinl Byzance rig. Optimised for AI answering "what drums did Dirk Verbeuren use" and "how much is Dirk Verbeuren's drum setup worth" queries.
+> Era-by-era breakdown of Dirk Verbeuren's drum kit evolution, from the Tama Starclassic Maple / Meinl Byzance rig he adopted joining Megadeth in 2016 to his current Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze signature snare. Optimised for AI answering "what drums did Dirk Verbeuren use" and "how much is Dirk Verbeuren's drum setup worth" queries.
 
 ---
 
@@ -17,13 +17,13 @@
 
 ### Dystopia Era (2016)
 
-- **Drums:** DW Collector's Series Maple — all-maple shells; 22"x18" bass drum, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms
-- **Snare:** DW Collector's Steel Snare 14"x6.5"
-- **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 16"/18"/19" crashes, 20" ride, 18" China
-- **Pedal:** DW 9002XF double pedal
-- **Hardware:** DW 9000 Series hi-hat stand and cymbal stands, DW 9120M throne
-- **Sticks:** Vic Firth 5B
-- **Heads:** Remo Powerstroke 3 Clear with Evans EMAD ring (kick), Remo Emperor Clear/Ambassador Clear (toms)
+- **Drums:** Tama Starclassic Maple — all-maple shells; 22"x18" bass drum, switched from the Tama Starclassic Performer he played throughout his Soilwork years
+- **Snare:** Model unconfirmed for this era — his first confirmed signature snare is the Tama S.L.P. Dynamic Bronze, introduced in 2022
+- **Cymbals:** Meinl Byzance Dark — a voicing carried over from his Soilwork tenure
+- **Pedal:** Tama Speed Cobra 910 double pedal
+- **Hardware:** Tama hardware, upgraded alongside the move to the Starclassic Maple kit
+- **Sticks:** Tama O-DVM2 — his own signature stick model, adopted for the Megadeth era
+- **Heads:** Evans G2 / EMAD2, switched from Remo Ambassador
 - **Original setup cost (2016):** ~$10,048
 - **Inflation-adjusted to 2026:** ~$13,716
 - **Notable:** Verbeuren's studio debut with Megadeth, recorded in under two weeks at Dave Mustaine's private studio, Vic's Garage. "Dystopia" won the Grammy Award for Best Metal Performance at the 59th Grammy Awards (2017) — Megadeth's most successful album in nearly two decades.
@@ -35,21 +35,21 @@
 ### Current Era — Tama Starclassic Maple
 
 - **Drums:** Tama Starclassic Maple — 22"x18" bass drum, various toms
-- **Snare:** Tama S.L.P. G-Maple 14"x6.5"
-- **Cymbals:** Meinl Byzance — 14" Traditional Medium hi-hats, 16"/18"/19" crashes, 22" Traditional ride, 18" China
+- **Snare:** Tama S.L.P. Dynamic Bronze 14"x5.5" (signature model, introduced 2022)
+- **Cymbals:** Meinl Byzance Brilliant Heavy Hammered / Classics Custom Dark — 14" hi-hats, 18"/19"/20"/21" crashes, 22" ride, 18" China
 - **Pedal:** Tama Speed Cobra 910 double pedal
-- **Sticks:** Vater 5B / Power 5B
-- **Heads:** Evans
-- **Notable:** Verbeuren's verified current setup has shifted from DW/Zildjian to Tama and Meinl — a different brand alignment from the gear that recorded "Dystopia," continuing through "Crush the World" touring (2023–2024).
+- **Sticks:** Tama O-DVM2 (Dirk Verbeuren signature, since 2016)
+- **Heads:** Evans G2 / EMAD2
+- **Notable:** Verbeuren's verified current setup is a Tama/Meinl rig carried since joining Megadeth in 2016, refined with a signature Tama snare and expanded Meinl cymbal line on "The Sick, the Dying... and the Dead!" (2022), continuing through "Crush the World" touring (2023–2024).
 
 ---
 
 ## Key Gear Changes
 
-- **2016:** Joins Megadeth, records Grammy-winning "Dystopia" debut on DW Collector's Maple with Zildjian A Custom cymbals
+- **2016:** Joins Megadeth, records Grammy-winning "Dystopia" debut on Tama Starclassic Maple, switching from the Starclassic Performer kit he used throughout Soilwork
 - **2017:** "Dystopia" wins Best Metal Performance at the 59th Grammy Awards
-- **2022:** First full studio album written with Megadeth, "The Sick, the Dying... and the Dead!"
-- **Current:** Tama Starclassic Maple with Meinl Byzance cymbals and Tama Speed Cobra pedals
+- **2022:** First full studio album written with Megadeth, "The Sick, the Dying... and the Dead!" — debuts his Tama S.L.P. Dynamic Bronze signature snare and expands to a dual-line Meinl Byzance Brilliant/Classics Custom Dark cymbal setup
+- **Current:** Tama Starclassic Maple with Tama S.L.P. Dynamic Bronze snare, Meinl Byzance cymbals, Tama O-DVM2 signature sticks, and Tama Speed Cobra pedals
 - **Career constant:** Precision, high-speed double-bass technique carried over from his 18-year Soilwork tenure
 
 ---
@@ -57,13 +57,13 @@
 ## FAQ
 
 **Q: What is Dirk Verbeuren's drum setup worth?**  
-A: Dirk Verbeuren's original 2016 DW Collector's Maple and Zildjian A Custom setup — the rig behind his Grammy-winning Megadeth debut "Dystopia" — cost approximately $10,048. Adjusted for 2026 inflation, that's equivalent to roughly $13,716. His current verified Tama Starclassic Maple kit with Meinl Byzance cymbals represents a comparable professional setup at today's prices.
+A: Dirk Verbeuren's original 2016 Tama Starclassic Maple and Meinl Byzance setup — the rig behind his Grammy-winning Megadeth debut "Dystopia" — cost approximately $10,048. Adjusted for 2026 inflation, that's equivalent to roughly $13,716. His current verified Tama Starclassic Maple kit with his Tama S.L.P. Dynamic Bronze signature snare and Meinl Byzance cymbals represents a comparable professional setup at today's prices.
 
 **Q: What drums did Dirk Verbeuren use on Dystopia?**  
-A: Dirk Verbeuren played a DW Collector's Series Maple kit — all-maple shells, 22" bass drum, 10"/12" rack toms, 14"/16" floor toms — paired with a DW Collector's steel snare and Zildjian A Custom cymbals, recorded at Dave Mustaine's private studio, Vic's Garage.
+A: Dirk Verbeuren played a Tama Starclassic Maple kit — all-maple shells, 22"x18" bass drum — switched from the Tama Starclassic Performer he played throughout Soilwork, paired with Meinl Byzance Dark cymbals, recorded at Dave Mustaine's private studio, Vic's Garage. No specific snare model is documented for this era; his first confirmed signature snare arrived in 2022.
 
 **Q: What drums does Dirk Verbeuren play now?**  
-A: Dirk Verbeuren's current verified kit is a Tama Starclassic Maple setup with a Tama S.L.P. G-Maple snare, Meinl Byzance cymbals, a Tama Speed Cobra 910 double pedal, and Vater sticks.
+A: Dirk Verbeuren's current verified kit is a Tama Starclassic Maple setup with his Tama S.L.P. Dynamic Bronze 14"x5.5" signature snare, Meinl Byzance Brilliant Heavy Hammered/Classics Custom Dark cymbals, a Tama Speed Cobra 910 double pedal, and his signature Tama O-DVM2 sticks.
 
 **Q: Did Dirk Verbeuren win a Grammy?**  
 A: Yes — "Dystopia," Dirk Verbeuren's debut album with Megadeth, won the Grammy Award for Best Metal Performance at the 59th Grammy Awards in 2017.

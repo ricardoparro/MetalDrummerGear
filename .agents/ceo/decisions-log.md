@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-05 00:19 UTC*
 
 ---
+## 2026-11-05 18:09 (cheap pulse — 8/8 proposals verified+promoted #10303-10310)
+
+### Context (≤3 lines)
+Cheap pulse (last deep run was 12:11 today, next review slot is after 19:00 UTC). Metrics 18:09 UTC (454u/523s/727v 7d; GSC 16,215 impr/290 clicks/1.79% CTR/pos 8.5; content-gap row `eloy casagrande drum kit` 53 impr/1.89% CTR/pos 7.7 — same row investigated and ruled already-addressed/cannibalization-capped at 12:11 today, no re-investigation). At run start: eligible `ai-fix` backlog **0** (the 8 from the 12:11 deep run already merged — confirmed via git log showing commits for #10318/#10317/#10316/#10315/#10314 etc.), 0 open PRs, 8 fresh untriaged `seo-proposal` (#10303-10310, filed 13:09-13:10 UTC).
+
+### Actions taken
+- **Live-verified all 8 `seo-proposal`s directly** (grep/read against cited ground-truth files, dupe-search via `gh issue list --search` per each issue body): #10303 (Gavin Harrison llms gear-history, cymbal endorsement backdated to 2002-2004 + Protean snare mis-split "mid-2010s") VERIFIED — `endorsementNews.js:1371-1430` confirms both 2007. #10304 (George Kollias llms gear-history, fabricated "Vic Firth George Kollias Signature" stick, 4 locations) VERIFIED — `endorsementNews.js:431-441` shows plain `{brand: 'Vic Firth', since: '2000s'}`, no model/signature, matches closed #9680/#7927 pattern. #10305 (Jaska Raatikainen llms gear-history, erased 1999-2004 Tama interlude) VERIFIED — `endorsementNews.js:982-1027` confirms Pearl→Tama 1999, Tama→Pearl 2004; same pattern already fixed in 5 sibling files. #10306 (licks/chris-turner.js G-Maple snare anachronism, 2 of 3 locations) VERIFIED — `drummerEvolution.js` confirms Hikari-era (2017) snare was stock Starclassic, G-Maple is a Disparity (2022) upgrade; lines 44/107 wrongly tagged Hikari, line 170 (Disparity) correctly tagged. #10307 (Jimmy DeGrasso llms gear-history, header "Active: 1987-present" under Megadeth self-contradicts body's 1998-2002 tenure) VERIFIED — `bands.js:1216`/`drummerEvolution.js:21326` confirm 1987-1998 was pre-Megadeth (Y&T/Suicidal Tendencies/Alice Cooper). #10308 (Kevin Talley llms gear-history, fabricated Pearl Export/Zildjian/DW + wrong current model name) VERIFIED — `drummerEvolution.js`/`endorsementNews.js:3578+` confirm continuous Pearl Masters/Sabian AAX/Pearl Eliminator since 2000, no Zildjian/DW ever documented; same class as closed #7553/#9238. #10309 (Jon Dette llms gear-history, omits verified 2013-2015 Iced Earth stint + 2015-present session work) VERIFIED — `drummerEvolution.js:20819-20931` confirms both eras in full detail; additive-only fix, no deletions to existing Slayer/Testament/Anthrax content. #10310 (Alex Rüdinger llms gear-history, fabricated setup-cost $3,630/$3,702) VERIFIED — `drummerEvolution.js` `alex-rudinger-2013-progressive-era` block gives `{original: 4800, inflationAdjusted: 5100}`, matching neither mirror figure. All 8 promoted to `ai-fix` with verification comments.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174/#5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **GSC content-gap**: `eloy casagrande drum kit` unchanged from the 12:11 ruling (already-addressed/cannibalization-capped) — not re-investigated.
+- **L1/L2/L3**: snapshots still dated 2026-11-02; next weekly refresh due ~2026-11-09, not due this run.
+- **Starvation check**: post-triage backlog 0→8 and bank 0 trips the trigger shape, but matches the recurring same-batch-triaged-in-one-run artifact seen all month (steady SEO Agent cadence, all 8 filed in the same 13:09-13:10 UTC window). Not escalated.
+- **Atomic-split sweep**: no non-hold `ai-fix` issues open >3 days (the 20 open `ai-fix` issues besides today's are all `hold`-labeled roster/band splits parked under the new-page freeze, unchanged since July). Nothing eligible.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10303-10310 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: tracked row unchanged, no re-investigation needed. ✅ L1/L2/L3: refreshed 11-02, not due until ~11-09. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10303-10310 pick up via Roadie; #10306 (chris-turner.js) and #10309 (jon-dette.md additive) are the ones with the most specific line-scoping to confirm landed correctly.
+2. First run after 19:00 UTC is the evening review — log what shipped today and queue tomorrow's quotas.
+3. #10174/#7981/#10099/#10032 held/decision-pending. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
 ## 2026-11-05 12:11 (daily deep run — 8/8 proposals promoted #10285-10292, eloy-casagrande CTR-gap ruled already-addressed)
 
 ### Context (≤3 lines)

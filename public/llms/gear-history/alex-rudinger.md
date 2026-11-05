@@ -27,8 +27,8 @@ last_updated: "2026-08-23"
 - **Snare:** Tama STARPHONIC Brass — 14"x6" brass shell (SLP Black Brass alternate)
 - **Hardware:** Tama Speed Cobra + Roadpro Hardware — bass drum pedals, hi-hat stand, boom stands, throne
 - **Heads:** Evans (UV EQ4 / G2 / HD Dry) — UV EQ4 Coated bass batter, G2 Clear tom batters, HD Dry snare batter with Snare Side 300, G1 Clear/EQ3-NP Black bass reso
-- **Original setup cost (2025):** ~$3,630
-- **Inflation-adjusted to 2026:** ~$3,702
+- **Original setup cost (2025):** ~$4,800
+- **Inflation-adjusted to 2026:** ~$5,100
 - **Notable:** His Tama Starclassic Performer B/B kit, Tama STARPHONIC Brass snare, and full Evans head selection are itemized directly on Tama's and Evans' own artist pages. Rüdinger is also a longtime Meinl Cymbals artist (Byzance and MB20 lines), though Meinl doesn't publish a component-level spec sheet as detailed as Tama's and Evans', so this entry omits a cymbal price rather than guessing models.
 
 ---
@@ -46,7 +46,7 @@ last_updated: "2026-08-23"
 A: Alex Rüdinger plays a Tama Starclassic Performer B/B kit — 20"x16" bass drum with 8"x7"/10"x7" rack toms and 14"x12"/16"x14" floor toms — paired with a Tama STARPHONIC Brass 14"x6" snare and Tama Speed Cobra hardware, per Tama's own artist page.
 
 **Q: How much does Alex Rüdinger's drum setup cost?**
-A: Rüdinger's Trivium-era Tama Starclassic Performer B/B setup cost approximately $3,630 at 2025 retail, equivalent to roughly $3,702 today after inflation.
+A: Rüdinger's Trivium-era Tama Starclassic Performer B/B setup cost approximately $4,800 at retail, equivalent to roughly $5,100 after inflation.
 
 **Q: What heads does Alex Rüdinger use?**
 A: Per Evans' own artist page, Rüdinger's head selection includes a UV EQ4 Coated bass batter, G2 Clear tom batters, an HD Dry snare batter with Snare Side 300, and a G1 Clear/EQ3-NP Black bass reso — a D'Addario/Evans endorsement distinct from his Tama drum endorsement.

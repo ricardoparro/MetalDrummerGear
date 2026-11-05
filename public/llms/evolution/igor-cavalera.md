@@ -46,11 +46,11 @@ Igor Cavalera formed Sepultura with his brother Max in 1984 at age 13. Access to
 **Albums:** Beneath the Remains (1989), Arise (1991)
 **Tours:** Beneath the Remains World Tour, Arise World Tour, Clash of the Titans 1991
 
-Signing with Roadrunner Records transformed Sepultura's world — and Igor's gear. His first major endorsements came with the international breakthrough era, Tama for drums and Zildjian for cymbals — a partnership that defined the sound of the band's most ferocious period. *Beneath the Remains* (1989) and *Arise* (1991) became landmark thrash metal recordings, and Igor's drumming on both is a clinic in controlled aggression.
+Signing with Roadrunner Records transformed Sepultura's world — and Igor's gear. His first major endorsements came with the international breakthrough era, Tama for drums and Paiste for cymbals — a partnership that defined the sound of the band's most ferocious period. *Beneath the Remains* (1989) and *Arise* (1991) became landmark thrash metal recordings, and Igor's drumming on both is a clinic in controlled aggression.
 
 - **Drums:** Tama Superstar (birch shells) — 22" kick, 10"/12"/14"/16" toms *(switch — first major endorsement)*
 - **Snare:** Tama Steel 14"×6" *(switch — cutting tone for thrash dynamics)*
-- **Cymbals:** Zildjian A Series — 14" hi-hats, 17"/18" crashes, 20" ride *(switch — Zildjian endorsement begins)*
+- **Cymbals:** Paiste RUDE / 2002 Series — 14" hi-hats, 17"/18" crashes, 20" ride *(switch — Paiste endorsement begins)*
 - **Hardware:** Tama hardware with DW double pedal *(upgrade — professional double bass setup)*
 - **Sticks:** Vic Firth 5B hickory *(switch — consistent sticks for heavy touring)*
 - **Heads:** Remo Emperor double-ply *(upgrade — durability for aggressive playing)*
@@ -58,7 +58,7 @@ Signing with Roadrunner Records transformed Sepultura's world — and Igor's gea
 
 **Key developments:**
 - Tama endorsement begins — massive quality leap from Brazilian era
-- Zildjian cymbal endorsement starts — a career-spanning Zildjian partnership
+- Paiste cymbal endorsement starts — carried through the Pearl/Roots era before switching to Zildjian in 2006
 - International touring begins — playing stadiums across Europe and the Americas
 - *Beneath the Remains* (1989) — the global breakthrough album
 - *Arise* (1991) — peak thrash metal ferocity, Clash of the Titans tour
@@ -76,7 +76,7 @@ Sepultura's commercial and artistic peak. Igor's switch from Tama to Pearl refle
 
 - **Drums:** Pearl Masters Custom (maple shells) — 22" kick, 8"/10"/12"/13"/14"/16" toms *(switch — Pearl endorsement, maple for warmer tone)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(switch — versatile for thrash and tribal rhythms)*
-- **Cymbals:** Zildjian K Custom — 14" hi-hats, 18"/19" crashes, 22" ride, 20" China *(upgrade — darker K Custom for tribal/world music influences)*
+- **Cymbals:** Paiste RUDE / 2002 Series — 14" hi-hats, 18"/19" crashes, 22" ride, 20" China *(continued — Paiste partnership carried through the Roots era)*
 - **Hardware:** Pearl hardware with DW 5000 Turbo double pedal *(upgrade — fastest double bass in his career)*
 - **Sticks:** Vic Firth 5A/5B *(continued — varied models for different applications)*
 - **Heads:** Remo Pinstripe / POWERSTROKE — Pinstripe on toms, POWERSTROKE on kicks *(switch — controlled, focused tone)*
@@ -84,7 +84,7 @@ Sepultura's commercial and artistic peak. Igor's switch from Tama to Pearl refle
 
 **Key developments:**
 - Pearl Masters endorsement — switch from Tama after three years
-- Zildjian K Custom adopted for the darker, earthier sound of the Roots era
+- Paiste RUDE / 2002 Series cymbals carried through for the darker, earthier sound of the Roots era
 - Remo head switch for controlled, focused studio and live tone
 - *Chaos A.D.* (1993) — platinum-selling breakthrough into mainstream metal
 - *Roots* (1996) — recorded with Xavante indigenous tribe; reshaped Igor's rhythmic vocabulary
@@ -137,7 +137,8 @@ After leaving Sepultura in 2006 following 22 years, Igor reunited with his broth
 - **Tama Starclassic Maple** — 1996–2006 (returned to Tama ahead of the Cavalera Conspiracy era)
 - **ddrum Hybrid Kit** — 2006–2018 (Cavalera Conspiracy formation through 2018)
 - **Yamaha Absolute Hybrid Maple** — 2018–present (current kit)
-- **Zildjian A / K Custom / A Custom** — 1989–present (lifelong Zildjian partnership)
+- **Paiste RUDE / 2002 Series** — 1989–2006 (cymbal partnership through the Sepultura era)
+- **Zildjian A Custom / K Series** — 2006–present (switched to Zildjian for the Cavalera Conspiracy era)
 - **DW 5000 Turbo / Tama Iron Cobra** — progressive upgrade through career (Tama since 2018)
 - **Vic Firth 5A/5B** — 1989–present (consistent sticks throughout international career)
 - **Remo** — 2006–present (modern era heads)
@@ -147,10 +148,10 @@ After leaving Sepultura in 2006 following 22 years, Igor reunited with his broth
 ## FAQ
 
 **Q: What drum kit did Igor Cavalera use on Beneath the Remains?**
-A: On *Beneath the Remains* (1989), Igor Cavalera used a Tama Superstar with birch shells — a 22" kick drum and 10", 12", 14", and 16" toms. His snare was a Tama Steel 14"×6", and he used Zildjian A Series cymbals. This was his first major endorsement setup, representing a massive upgrade from his Brazilian underground gear.
+A: On *Beneath the Remains* (1989), Igor Cavalera used a Tama Superstar with birch shells — a 22" kick drum and 10", 12", 14", and 16" toms. His snare was a Tama Steel 14"×6", and he used Paiste RUDE / 2002 Series cymbals. This was his first major endorsement setup, representing a massive upgrade from his Brazilian underground gear.
 
 **Q: What drum kit did Igor Cavalera use on Roots?**
-A: For *Roots* (1996), Igor played Pearl Masters Custom with maple shells — a 22" kick and a 6-piece tom configuration. His cymbals had evolved to Zildjian K Custom for a darker, earthier tone that matched the album's tribal and world music influences. Part of the album was recorded with the Xavante indigenous tribe of Brazil, incorporating traditional percussion alongside his kit.
+A: For *Roots* (1996), Igor played Pearl Masters Custom with maple shells — a 22" kick and a 6-piece tom configuration. His cymbals remained Paiste RUDE / 2002 Series, cutting through with a darker, earthier tone that matched the album's tribal and world music influences. Part of the album was recorded with the Xavante indigenous tribe of Brazil, incorporating traditional percussion alongside his kit.
 
 **Q: What is Igor Cavalera's current drum setup?**
 A: As of 2026, Igor Cavalera plays a Yamaha Absolute Hybrid Maple kit, having switched from his prior ddrum setup in August 2018. He uses Zildjian cymbals (A Custom and K Series mix), Remo drumheads, and a Tama Iron Cobra double pedal adopted alongside the 2018 Yamaha switch. He plays Vic Firth 5A/5B sticks.
@@ -162,7 +163,7 @@ A: Igor Cavalera departed Sepultura in 2006, a decade after his brother Max left
 A: *Roots* (1996) is notable for sessions conducted with the Xavante indigenous tribe in the Mato Grosso region of Brazil. Igor participated in tribal drumming sessions that were incorporated into the album, fundamentally reshaping his conception of rhythm beyond metal drumming conventions. The album went to #1 in several European countries and remains one of the most critically acclaimed extreme metal recordings ever made.
 
 **Q: What cymbal brand does Igor Cavalera use?**
-A: Igor Cavalera has been endorsed by Zildjian for his entire international career, beginning with the A Series during the Tama era (1989), progressing to K Custom during the *Roots* era (1993–1996), and currently using a mix of Zildjian A Custom and K Series cymbals with Cavalera Conspiracy.
+A: Igor Cavalera played Paiste cymbals (RUDE and 2002 Series) through his entire Sepultura career, from the Tama era (1989) through the Pearl/*Roots* era (1993–1996) and beyond. He switched to Zildjian when he formed Cavalera Conspiracy, starting with *Inflikted* (2008), and currently uses a mix of Zildjian A Custom and K Series cymbals.
 
 ---
 

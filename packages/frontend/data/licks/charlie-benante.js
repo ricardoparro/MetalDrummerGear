@@ -17,8 +17,8 @@ export const licks = {
     "style": "thrash-metal",
     "difficulty": "advanced",
     "difficultyRating": 4,
-    "bpm": 180,
-    "bpmDisplay": "~180 BPM",
+    "bpm": 175,
+    "bpmDisplay": "~175 BPM",
     "timeSignature": "4/4 (heavy syncopation)",
     "description": "\"Caught in a Mosh\" from Anthrax's 1987 album Among the Living is one of Charlie Benante's defining performances and a blueprint for how to drum thrash with groove rather than just speed. Benante is widely credited as one of the architects of the thrash drumming vocabulary, and this track shows exactly why: he locks his kick drum to the band's stop-start, palm-muted riffing so tightly that the drums and guitars read as one jagged machine, then ornaments those syncopated hits with crisp snare accents and tom punctuations that mark every twist in the arrangement. What sets the part apart is its phrasing — rather than burying the song under constant double bass, Benante uses bursts of fast kick to drive the verses and pulls back into a swaggering, half-time-feeling pocket for the chorus, giving the song its trademark push and pull. The fills are pure Benante: fast, articulate tom rolls that erupt out of the riff and land precisely on the downbeat, signalling each section change with authority. For drummers, \"Caught in a Mosh\" is a complete study in playing with a band rather than over it: every kick and accent has a purpose tied to the riff, and learning it forces you to internalise where the guitars land so you can lock to them without staring at a click. It demands fast single and double strokes on the feet, a strong sense of subdivision to nail the off-beat accents, and the dynamic control to make the chorus breathe after the frantic verses. Working through even a single section sharpens your timing, your ear for syncopation, and your ability to make a technical thrash part feel like a groove rather than an exercise — skills that transfer directly to any aggressive metal style. Decades on, it remains a rite-of-passage track and a masterclass in the kind of riff-locked, groove-driven thrash drumming Benante helped invent.",
     "techniques": [
@@ -84,8 +84,8 @@ export const licks = {
     "style": "thrash-metal",
     "difficulty": "advanced",
     "difficultyRating": 4,
-    "bpm": 168,
-    "bpmDisplay": "~168 BPM",
+    "bpm": 158,
+    "bpmDisplay": "~158 BPM",
     "timeSignature": "4/4",
     "description": "\"Madhouse\" from Anthrax's 1985 album Spreading the Disease was the band's breakthrough single and remains one of Charlie Benante's most instructive grooves. Where much early thrash leaned on relentless speed, \"Madhouse\" shows Benante's gift for a driving, mid-paced pocket that swings hard while still hitting with thrash intensity. The main groove is built on a propulsive kick pattern that locks to the song's chugging, gallop-flavoured riff, topped with a confident backbeat and tight hi-hat work that keeps the whole thing dancing rather than merely pummelling. What makes the part such a good study is its restraint: Benante leaves space, lets the riff breathe, and uses crisp fills to mark the transitions instead of cramming every bar with notes. The verses ride a steady, slightly syncopated groove; the pre-chorus tightens up with quicker kick figures; and the choruses open out with bigger cymbal accents that lift the song. His fills are textbook thrash — fast, even tom runs and snare-to-tom phrases that flow naturally out of the groove and snap back onto beat one. For drummers, \"Madhouse\" is an ideal introduction to Benante's style and to thrash drumming in general: it develops the coordination to lock a busy kick pattern under a solid backbeat, the timing to place syncopated accents cleanly, and the musical judgement to play for the song rather than over it. Learning it builds foot control, groove consistency at a demanding-but-manageable tempo, and a vocabulary of fills that work in any uptempo metal context. Because the song has been transcribed and covered extensively, the patterns are well documented, giving developing players a clear roadmap. More than a thrash anthem, it is a lesson in how feel and pocket separate a memorable metal drummer from a merely fast one — and Benante is one of the genre's most feel-driven players.",
     "techniques": [
@@ -151,8 +151,8 @@ export const licks = {
     "style": "thrash-metal",
     "difficulty": "expert",
     "difficultyRating": 5,
-    "bpm": 200,
-    "bpmDisplay": "~200 BPM",
+    "bpm": 145,
+    "bpmDisplay": "~145 BPM",
     "timeSignature": "4/4 (fast thrash into half-time war dance)",
     "description": "\"Indians\" from Anthrax's 1987 album Among the Living is one of Charlie Benante's most celebrated performances and a track every thrash drummer eventually has to confront. The song is a two-part lesson in dynamics and intensity. The main body is fast, aggressive thrash: Benante drives it with rapid kick patterns, a relentless backbeat, and the kind of precise, fluid tom fills that became his signature, all while locking tightly to the band's galloping riffs. Then comes the moment the song is famous for — the breakdown often called the \"War Dance,\" where the band drops into a slower, monstrously heavy half-time feel and Benante anchors a chant-along groove that has detonated mosh pits for decades. The contrast between the frantic main sections and that titanic breakdown is the whole point: it demonstrates how a drummer can use a tempo drop and a wide-open pocket to make a passage hit harder than speed alone ever could. Benante's execution is a study in control — the fast sections demand stamina and clean, even strokes, while the War Dance demands the discipline to lay back, leave space, and make every backbeat land like a hammer. For drummers, \"Indians\" is a benchmark in thrash feel, fill vocabulary, and dynamic arrangement: it develops foot speed and endurance, the coordination to keep a busy groove tight at high tempo, and the musical sense to use a half-time breakdown for maximum impact. Learning it builds the powerful, controlled thrash drumming Benante helped define, along with the judgement to know when to drive and when to pull back. Because the song is so widely transcribed and covered, the fast patterns and the famous breakdown are well documented, giving advancing players a clear roadmap. It remains one of Benante's defining performances and a genuine milestone for any drummer serious about thrash.",
     "techniques": [

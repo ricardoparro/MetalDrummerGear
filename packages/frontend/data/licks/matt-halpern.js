@@ -17,8 +17,8 @@ export const licks = {
     "style": "djent",
     "difficulty": "expert",
     "difficultyRating": 5,
-    "bpm": 170,
-    "bpmDisplay": "~170 BPM",
+    "bpm": 120,
+    "bpmDisplay": "~120 BPM",
     "timeSignature": "4/4 (syncopated, polymetric accents)",
     "description": "\"Icarus Lives!\" is the explosive opening statement of Periphery's 2010 self-titled debut, and Matt Halpern's drumming on it became a blueprint for the entire djent movement. From the first bar the track throws polymetric guitar riffing, sudden stops and lurching syncopation at the listener, and Halpern anchors all of it with a groove that is simultaneously machine-tight and genuinely musical. What makes his approach so influential is the way he treats the kick drum as a melodic, riff-locked voice: rather than blasting continuously, he places fast double-bass bursts precisely where Misha Mansoor's seven-string riff lands, so the drums and guitars read as a single rhythmic organism. Between those locked sections he opens up with crisp ghost-note grooves, tight hat work and fills that decorate the phrase without ever blurring the pulse. The song demands extreme limb independence, the discipline to count odd groupings against a steady backbeat, and the control to switch from delicate to devastating in a single bar. For drummers, \"Icarus Lives!\" is the definitive study in modern progressive-metal feel: it teaches you to read a riff rhythmically, to lock your feet to staccato guitar accents, and to keep beat one rock-solid while the band deliberately tries to disorient you. Learning even the main groove builds double-bass accuracy, syncopation reading and the kind of dynamic control that separates djent drumming from generic metal. It also rewards patience — the part sits comfortably under the hands once the polymetric accents are internalised, yet stays deep enough to keep teaching you about pocket and precision for months. Because Halpern has demonstrated the song in clinic and masterclass settings, the orchestration and sticking are well documented, making it an accessible deep-dive for intermediate and advanced players who want to understand how the genre's rhythmic language actually works on the kit. It remains one of the most important reference tracks in 21st-century metal drumming.",
     "techniques": [
@@ -48,11 +48,6 @@ export const licks = {
       {
         "name": "Meinl Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Pearl Demon Drive Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -89,8 +84,8 @@ export const licks = {
     "style": "progressive-metal",
     "difficulty": "advanced",
     "difficultyRating": 4,
-    "bpm": 150,
-    "bpmDisplay": "~150 BPM",
+    "bpm": 140,
+    "bpmDisplay": "~140 BPM",
     "timeSignature": "4/4 (dynamic, song-driven)",
     "description": "\"Marigold\" from Periphery's 2016 album Periphery III: Select Difficulty shows the more melodic, song-serving side of Matt Halpern's playing while keeping the rhythmic sophistication that made him famous. Where much of Periphery's catalogue is built on aggression and polymetric chaos, \"Marigold\" is comparatively open and emotive, and Halpern fills that space with taste rather than density. His groove rides a relaxed but precise pocket, leaning on tasteful ghost notes, controlled cymbal work and dynamic swells that follow the song's rising and falling intensity. The track is a masterclass in restraint: he leaves room for the melody, then re-engages with smooth double-bass figures and inventive fills exactly when the arrangement calls for a lift. What is most instructive is how he shapes the song's emotional arc with dynamics — pulling back to a simple, breathing groove under the verses and opening up the full kit as the choruses swell, never overplaying. The part demands strong time, a refined touch, and the musical judgement to know when to add and when to subtract, which for many technical drummers is harder than raw speed. For students, \"Marigold\" is a great study in playing for the song: it develops dynamic control, ghost-note vocabulary, smooth double-bass phrasing and the arranging instinct to support a vocal rather than compete with it. Learning it teaches you that groove and feel can be just as impressive as flash, and that the spaces you leave are as important as the notes you play. Because Halpern recorded a clean, well-lit playthrough of the track, the orchestration, stickings and dynamic choices are easy to study in detail, making it an accessible and rewarding deep-dive for intermediate players ready to move beyond chops into musicality. It is one of the clearest examples of how a modern progressive drummer can be both technical and deeply tasteful at once.",
     "techniques": [
@@ -161,8 +156,8 @@ export const licks = {
     "style": "djent",
     "difficulty": "expert",
     "difficultyRating": 5,
-    "bpm": 180,
-    "bpmDisplay": "~180 BPM",
+    "bpm": 135,
+    "bpmDisplay": "~135 BPM",
     "timeSignature": "4/4 (shifting groupings, half-time breakdowns)",
     "description": "\"The Bad Thing\" from Periphery's 2015 album Juggernaut: Alpha is one of Matt Halpern's most relentless and technically demanding performances, a track that fuses the band's djent foundations with thrash-like aggression and intricate rhythmic detail. From the outset it is a barrage of fast double-bass, jagged syncopation and abrupt metric shifts, and Halpern executes all of it with the surgical precision and physical power that define his style. The song's signature challenge is sustained kick-drum endurance married to constant riff-locking: the feet have to stay even and fast for long stretches while the hands track the guitars' stop-start phrasing and punctuate it with sharp accents. Unlike a straightforward speed workout, \"The Bad Thing\" keeps changing — sections lurch into new groupings, breakdowns drop into half-time, and fills erupt and resolve in tight, deliberate bursts — so a player has to stay mentally locked to the arrangement, never coasting on autopilot. What makes Halpern's approach so instructive is that even at full intensity the groove never sounds frantic; every note is placed, the dynamics are controlled, and the pocket holds firm beneath the chaos. For drummers, this is a high-level study in double-bass stamina, syncopation reading and the coordination required to track a deliberately disorienting riff while keeping beat one secure. Learning it builds raw foot speed and evenness, the discipline to follow complex arrangements, and the precision to make aggressive playing sound tight rather than sloppy. It is a demanding piece that rewards slow, methodical practice — breaking the metric shifts into small chunks and building tempo gradually is the only sustainable path through it. Because Halpern filmed a clear drum playthrough of the song, the stickings, foot patterns and section transitions are documented in detail, giving advanced players a reliable map for one of modern metal's most punishing grooves. It is a benchmark for anyone chasing serious djent and progressive-metal chops.",
     "techniques": [
@@ -233,8 +228,8 @@ export const licks = {
     "style": "djent",
     "difficulty": "advanced",
     "difficultyRating": 4,
-    "bpm": 158,
-    "bpmDisplay": "~158 BPM",
+    "bpm": 132,
+    "bpmDisplay": "~132 BPM",
     "timeSignature": "4/4 (syncopated 16th-note ghost-note grid)",
     "description": "\"Scarlet\" from Periphery II: This Time It's Personal (2012) presents one of Matt Halpern's most detailed and sophisticated groove performances — a track where djent's characteristic staccato riff-locking is woven together with an intricate ghost-note framework that gives the groove a conversational, almost talking-drum quality beneath the heavy surface. Where Periphery's faster, more aggressive songs showcase Halpern's power and endurance, \"Scarlet\" reveals his rhythmic intelligence: the ghost notes are not decoration but structural elements, filling the 16th-note grid in ways that make the riff feel heavier than it would with kick and snare alone.\n\nThe syncopated hi-hat pattern is the foundation of the groove's character. Rather than a straight 8th or 16th note ride, Halpern opens and closes the hat in response to the guitar's syncopated articulation, so the hi-hat becomes a rhythmic voice in dialogue with the riff rather than a simple timekeeping surface. This technique — reactive hi-hat work in response to a djent riff — is one of the defining drumming innovations of the genre, and \"Scarlet\" is among its purest expressions. The ghost notes layer into this framework at precise points in the 16th-note grid, typically between the main kick and snare hits, creating a density of rhythmic information that rewards repeated listening and close study.\n\nFor drummers, the value of learning this groove is the development of ghost-note integration in a djent context, which demands a very different control profile from jazz or funk ghost notes. The djent riff creates a strong rhythmic pulse that the ghost notes have to complement without muddying, which means the left hand must stay genuinely soft — barely audible on the snare head — while the right hand locks the hi-hat pattern to the guitar. The physical demand is not speed but differentiation: the ability to play at two distinct dynamic levels simultaneously and maintain that difference through a full song arrangement. Developing this capacity opens the entire vocabulary of modern progressive metal drumming, as ghost-note-driven grooves appear throughout the genre's most celebrated recordings.",
     "techniques": [
@@ -251,8 +246,7 @@ export const licks = {
     ],
     "gearUsed": [
       { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Meinl Byzance Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "pedals", "link": null }
+      { "name": "Meinl Byzance Series Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Practise the ghost-note layer alone with a metronome before adding kick and snare",
@@ -305,8 +299,7 @@ export const licks = {
     ],
     "gearUsed": [
       { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Meinl Byzance Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "pedals", "link": null }
+      { "name": "Meinl Byzance Series Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Build pure blast technique at a slower tempo before adding the syncopated kick displacement",

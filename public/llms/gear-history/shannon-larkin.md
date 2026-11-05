@@ -1,7 +1,7 @@
 # Shannon Larkin Drum Kit Gear History — Godsmack
 
 **Drummer:** Shannon Larkin  
-**Bands:** Godsmack (2002–2024) / Ugly Kid Joe / Amen  
+**Bands:** Godsmack (2002–2024) / Wrathchild America / Ugly Kid Joe  
 **Active:** 1985–present  
 **URL:** https://metalforge.io/drummers/shannon-larkin/gear-history
 
@@ -11,14 +11,14 @@
 
 ## Gear Timeline
 
-### Pre-Godsmack Era — Wrathchild America / Souls at Zero / Amen (1985–2001)
+### Pre-Godsmack Era — Wrathchild America / Ugly Kid Joe (1989–2001)
 
-- **Drums:** Tama Rockstar/Swingstar Series — 22" kick, 12"/13"/16" toms
-- **Snare:** Pearl Steel Snare 14"x5.5"
+- **Drums:** Not independently verified for this period
+- **Snare:** Not independently verified for this period
 - **Cymbals:** Not independently verified for this period
-- **Pedal:** Tama hardware with budget double pedal
-- **Sticks:** Vater 5B
-- **Notable:** Larkin's long pre-Godsmack career spanned Maryland's Wrathchild America, alternative metal acts Souls at Zero and Amen, and a stint in Ugly Kid Joe. His Vater relationship began during this period; his Sabian cymbal partnership is documented from 2002 onward, upon joining Godsmack, not before.
+- **Pedal:** Not independently verified for this period
+- **Sticks:** Not independently verified for this period
+- **Notable:** Larkin's pre-Godsmack career spanned Maryland's Wrathchild America (1989–1991) and Ugly Kid Joe (1991–1997), whose "Everything About You" became a worldwide hit. No specific drum-gear endorsement from this period is independently verified — his documented brand partnerships (ddrum, Sabian, Vic Firth, DW, Evans) all begin in 2002 upon joining Godsmack.
 
 ### Faceless Era (2002–2007)
 
@@ -81,7 +81,7 @@ A: Across his 22-year Godsmack tenure (2002–2024), Shannon Larkin played a pro
 A: Shannon Larkin's current verified kit is a ddrum Dios Series setup with a ddrum Dios 14"x6.5" maple snare, Sabian AAX cymbals, a DW 9000 Series double pedal, and Vic Firth American Classic 5B sticks — his setup following his 2024 departure from Godsmack.
 
 **Q: Did Shannon Larkin leave Godsmack?**  
-A: Yes — Shannon Larkin departed Godsmack in 2024 after holding the drummer position since 2002, making him the band's longest-serving drummer at 22 years. Before Godsmack he played with Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen.
+A: Yes — Shannon Larkin departed Godsmack in 2024 after holding the drummer position since 2002, making him the band's longest-serving drummer at 22 years. Before Godsmack he played with Wrathchild America and Ugly Kid Joe.
 
 **Q: What cymbals does Shannon Larkin use?**  
 A: Shannon Larkin has been a Sabian artist since joining Godsmack in 2002, playing the AAX Series throughout his tenure — 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese. No cymbal endorsement from before 2002 is independently verified.

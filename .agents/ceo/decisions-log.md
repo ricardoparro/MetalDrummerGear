@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-05 00:19 UTC*
 
 ---
+## 2026-11-05 06:13 (cheap pulse, pre-deep-run — 7/7 proposals verified+promoted #10267-10273, 2 follow-ups filed #10282/#10283)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:13 UTC (429u/494s/698v 7d; GSC 13,470 impr/238 clicks/1.77% CTR/pos 8.5, zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 7 fresh untriaged `seo-proposal` (#10267-10273, filed 01:07-01:09 UTC).
+
+### Actions taken
+- **Live-verified all 7 via 7 parallel subagents** (grep/read against canonical source, dupe-search): all came back VERIFIED-WITH-NOTE — core claims accurate, each with extra drift/fabrication found beyond the issue's stated scope. #10267 (Brann Dailor licks BPM) — 3rd prose mention already covered by the cited grep. #10268 (Charlie Benante licks BPM) — `albumArticles/charlie-benante.js` has duplicate trackAnalysis entries per song with conflicting BPMs, Madhouse never correct anywhere in that file. #10269 (Adrian Erlandsson licks BPM) — 2 extra same-file prose locations (L50, L133) folded into the promotion comment. #10270 (Frost llms Sonor fabrication) — same fabrication independently present in `evolution/frost.md` + 4 `comparisons/frost-vs-*.md` mirrors, asked Roadie to sweep all 6 in one PR. #10271 (Jocke Wallgren llms Rage/Evergrey fabrication) — same band fabrication independently hand-authored in `gearPriceHistory.js` + `albumArticles/jocke-wallgren.js`. #10272 (Daray llms Vader tenure) — `drummers/daray.md:47` carries the same stale "2006" line, folded into promotion comment. #10273 (Igor Cavalera llms Pearl/Tama omission) — `evolution/igor-cavalera.md` has a *different* fabrication (Tama/Pearl order reversed + fake Zildjian K Custom claim), distinct from #7466/#10198. All 7 promoted to `ai-fix` with verification comments.
+- **Filed 2 follow-up `ai-fix` issues** for the extra-scope fabrications that live in distinct hand-authored files (not simple same-PR sweeps): **#10282** (albumArticles/charlie-benante.js duplicate-entry BPM drift) and **#10283** (gearPriceHistory.js + albumArticles/jocke-wallgren.js Rage/Evergrey fabrication). Did not file separate issues for the frost.md sibling mirrors or daray.md:47 — those were folded directly into the original issue's promotion comment since they're trivial same-fix-shape additions Roadie can pick up in the same diff. Did not file for igor-cavalera's `evolution/` fabrication yet — flagged in the promotion comment for SEO Agent to pick up as its own proposal next scan (distinct fabrication pattern, needs its own verification pass, backlog has room either way).
+- **GSC content-gap**: zero rows. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174/#5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: snapshots refreshed 2026-11-02 morning; next weekly refresh due ~11-09, not due this run.
+- **Atomic-split sweep**: checked oldest 3 open non-held `ai-fix` issues — all filed this run (fresh), nothing open >3 days. Nothing eligible.
+- **Starvation check**: not triggered — backlog 0→9 post-triage (#10267-10273 + #10282/#10283), well above the <15 trigger floor.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 9 (#10267-10273 promoted + #10282/#10283 filed)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 7 fresh → 0
+
+### Quota check
+✅ SEO proposals: 7/7 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-02, not due until ~11-09. ✅ Starvation: not triggered. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10267-10273/#10282/#10283 pick up via Roadie; #10270 carries the widest same-PR scope (6 files) — confirm the sibling mirrors land too, not just the single cited file.
+2. First run after 07:00 UTC today is the daily deep run — full metrics review, GSC-gap analysis, starvation re-check (L1/L2/L3 not due until ~11-09, skip refresh check).
+3. igor-cavalera's `evolution/igor-cavalera.md` Tama/Pearl-order-reversed fabrication (flagged in #10273's promotion comment) has no issue yet — watch for the SEO Agent to pick it up, or file directly next run if it doesn't surface within a few cycles.
+4. #7981/#10099/#10032 held pending founder-level re-verification. #10174/#5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
 ## 2026-11-05 00:19 (cheap pulse — 8/8 proposals verified+promoted #10258-10266)
 
 ### Context (≤3 lines)

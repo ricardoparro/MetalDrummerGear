@@ -8,8 +8,7 @@ export const articles = {
     "band": "Amon Amarth",
     "bands": [
       "Amon Amarth",
-      "Evergrey",
-      "Rage"
+      "Valkyria"
     ],
     "genre": "Melodic Death Metal",
     "country": "Sweden",
@@ -48,7 +47,7 @@ export const articles = {
         "Zildjian A Custom & K Custom cymbals throughout his Amon Amarth tenure — bright attack paired with dark, complex overtones for melodic death metal",
         "Pearl Demon Drive double bass pedal — adjustable-cam chain-drive action for sustained gallop and blast patterns across full live sets",
         "Driving double bass foundation — the rhythmic engine behind anthems like \"Twilight of the Thunder God\" and \"Deceiver of the Gods\"",
-        "Previously with Evergrey and Rage — broad European power/prog metal background before joining Amon Amarth"
+        "Previously with Swedish Viking/folk metal band Valkyria (2009–2016) before joining Amon Amarth"
       ]
     },
     "drumKit": {
@@ -171,19 +170,18 @@ export const articles = {
     },
     "gearTimeline": [
       {
-        "era": "Rage and Evergrey — European Power and Prog Metal",
-        "years": "2005–2012",
+        "era": "Swedish Underground & Valkyria",
+        "years": "2009–2016",
         "albums": [
-          "Rage — various",
-          "Evergrey — various"
+          "Valkyria — regional Swedish shows (2009–2016)"
         ],
-        "description": "Building European touring experience in power and progressive metal before joining Amon Amarth.",
+        "description": "Developing a powerful, groove-oriented style in Sweden's underground metal scene before joining Viking/folk metal band Valkyria in 2009, ahead of joining Amon Amarth in 2016.",
         "gear": {
-          "drums": "Pearl kit (developing configuration)",
-          "cymbals": "Zildjian cymbals — early A Custom usage",
-          "pedals": "Pearl double bass pedal configuration"
+          "drums": "No fixed drum endorsement documented for this era",
+          "cymbals": "Zildjian A Custom & K Custom cymbals — signed with Zildjian in 2005, carried through the Valkyria years",
+          "pedals": "Pearl double bass pedal configuration — signed with Pearl in 2005, carried through the Valkyria years"
         },
-        "notes": "Wallgren's time with Rage and Evergrey grounded him in the technical and dynamic demands of European power/prog metal — a context that shares melodic death metal's emphasis on dynamic contrast and compositional complexity while adding the technical precision that power metal arrangements require. This background informed his ability to navigate Amon Amarth's dual identity as a death metal band with melodic and anthemic qualities."
+        "notes": "Wallgren signed with Zildjian and Pearl in 2005 during his Swedish underground scene years, then spent 2009–2016 drumming for Valkyria, developing the powerful, groove-oriented style that would later suit Amon Amarth's anthemic Viking metal. No fixed drum, snare, or stick endorsement is publicly documented for this period."
       },
       {
         "era": "Amon Amarth — Joining the Band: Jomsviking Cycle and Berserker Debut",

@@ -41,7 +41,7 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Tama Starclassic Maple/Birch Kit", "type": "drums", "link": null },
-      { "name": "Tama S.L.P. 14x5.5\" G-Maple Snare", "type": "snare", "link": null },
+      { "name": "Tama Starclassic Matching Snare", "type": "snare", "link": null },
       { "name": "Meinl Byzance 15\" Dual Hi-Hats", "type": "cymbals", "link": null },
       { "name": "Meinl Byzance 22\" Dual Ride", "type": "cymbals", "link": null },
       { "name": "Tama Speed Cobra 910 Double Pedal", "type": "hardware", "link": null },
@@ -104,7 +104,7 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Tama Starclassic Maple/Birch Kit", "type": "drums", "link": null },
-      { "name": "Tama S.L.P. 14x5.5\" G-Maple Snare", "type": "snare", "link": null },
+      { "name": "Tama Starclassic Matching Snare", "type": "snare", "link": null },
       { "name": "Meinl Byzance Extra Dry 18\" Medium Crash", "type": "cymbals", "link": null },
       { "name": "Meinl Byzance Extra Dry 18\" China", "type": "cymbals", "link": null },
       { "name": "Tama Speed Cobra 910 Double Pedal", "type": "hardware", "link": null },

@@ -294,7 +294,7 @@ export const articles = {
       {
         "track": "Caught in a Mosh",
         "album": "Among the Living (1987)",
-        "bpm": "200",
+        "bpm": "175",
         "signature": "4/4",
         "highlights": [
           "Opens with iconic drum fill leading into thrash assault",
@@ -308,7 +308,7 @@ export const articles = {
       {
         "track": "Indians",
         "album": "Among the Living (1987)",
-        "bpm": "180",
+        "bpm": "145",
         "signature": "4/4 with rhythmic variations",
         "highlights": [
           "Native American-influenced patterns showcase compositional depth",
@@ -321,8 +321,8 @@ export const articles = {
       },
       {
         "track": "Madhouse",
-        "album": "Among the Living (1987)",
-        "bpm": "220",
+        "album": "Spreading the Disease (1985)",
+        "bpm": "158",
         "signature": "4/4",
         "highlights": [
           "Blistering speed with unwavering precision",
@@ -1190,7 +1190,7 @@ export const articles = {
     "trackAnalysis": [
       {
         "track": "Madhouse",
-        "bpm": "190",
+        "bpm": "158",
         "signature": "4/4",
         "highlights": [
           "Anthrax's signature song and one of thrash's most-cited drum performances",

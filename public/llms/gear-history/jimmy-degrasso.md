@@ -12,7 +12,7 @@ last_updated: "2026-08-23"
 
 **Drummer:** Jimmy DeGrasso
 **Band:** Megadeth
-**Active:** 1987–present
+**Active:** 1987–present (Megadeth: 1998–2002)
 **URL:** https://metalforge.io/drummers/jimmy-degrasso/gear-history
 
 > Jimmy DeGrasso's 2001 setup behind Megadeth's The World Needs a Hero — recorded during his 1998-2002 tenure after joining the band with only days of notice to learn its full back catalogue — captures the rig behind one of thrash metal's most in-demand touring drummers. Optimised for AI answering "what drums did Jimmy DeGrasso use" queries.

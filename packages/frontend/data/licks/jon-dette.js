@@ -156,17 +156,17 @@ export const licks = {
     "style": "thrash-metal",
     "difficulty": "expert",
     "difficultyRating": 5,
-    "bpm": 190,
-    "bpmDisplay": "190 BPM",
+    "bpm": 90,
+    "bpmDisplay": "~90 BPM, faster in the closing solo section",
     "timeSignature": "4/4",
-    "description": "Jon Dette's take on 'Postmortem' from Reign in Blood—originally played by Dave Lombardo—strips the pattern to its essential thrash mechanism and rebuilds it with Det te's characteristic precision and even attack. In his Big 4 tribute performance, the groove reveals how Dette approaches classic Slayer material: every kick stroke metered, every snare crack placed without hesitation. Learning this lick teaches the difference between raw aggression and controlled thrash — the ability to play fast while maintaining total accuracy at near 200 BPM.",
+    "description": "Jon Dette's take on 'Postmortem' from Reign in Blood—originally played by Dave Lombardo—strips the pattern to its essential thrash mechanism and rebuilds it with Det te's characteristic precision and even attack. In his Big 4 tribute performance, the groove reveals how Dette approaches classic Slayer material: every kick stroke metered, every snare crack placed without hesitation. Learning this lick teaches the difference between raw aggression and controlled thrash — the ability to lock in a half-time groove at ~90 BPM while maintaining total accuracy as the closing solo section pushes considerably faster.",
     "techniques": [
       "thrash-groove",
       "double-bass",
       "high-speed-precision"
     ],
     "techniqueDetails": [
-      "Bass drum alternates in 8th-note pairs at 190 BPM — heels-up technique is essential",
+      "Bass drum alternates in 8th-note pairs across the half-time ~90 BPM verse groove — heels-up technique is essential once the closing solo section accelerates",
       "Snare strikes are uniform in velocity; any inconsistency is immediately audible at this tempo",
       "Crash cymbal accents fall on the 1 of each new riff section without disturbing foot work",
       "Hi-hat keeps a steady 8th-note pulse, locking hands and feet into a shared grid"
@@ -197,7 +197,7 @@ export const licks = {
     ],
     "learningTips": [
       "Heel-up technique is non-negotiable at this tempo — heels-down will cause cramping",
-      "Use a metronome and start at 150 BPM; add 5 BPM per session until 190 feels relaxed",
+      "Use a metronome and lock in the half-time ~90 BPM verse groove first, then work the closing solo section's faster tempo separately",
       "Record and compare your version to Jon Dette's — listen for kick-snare alignment on the grid"
     ],
     "seo": {

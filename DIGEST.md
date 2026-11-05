@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-04 19:08 UTC · Window: last 12h*
+*Generated 2026-11-05 08:15 UTC · Window: last 12h*
 
 ---
 
@@ -8,26 +8,26 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **28** |
+| Open `ai-fix` issues | **20** |
 | Open `seo-proposal` issues | 14 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 5 |
-| PRs merged in window | **14** |
-| Issues closed in window | 14 |
-| Commits to `main` in window | 19 |
+| Open PRs | 0 |
+| PRs merged in window | **18** |
+| Issues closed in window | 18 |
+| Commits to `main` in window | 22 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **453** |
-| Sessions | 518 |
-| Page views | 725 |
-| Engagement rate | 64.48% |
-| GSC impressions | 16,482 |
-| GSC clicks | 289 |
-| GSC CTR | 1.75% |
+| Active users | **433** |
+| Sessions | 498 |
+| Page views | 702 |
+| Engagement rate | 64.06% |
+| GSC impressions | 16,215 |
+| GSC clicks | 290 |
+| GSC CTR | 1.79% |
 | GSC avg position | 8.5 |
 
 ## 💰 Revenue trajectory (estimate)
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~3,107 |
-| Est. ad revenue / mo | **~€9.32** |
+| Est. pageviews / mo | ~3,009 |
+| Est. ad revenue / mo | **~€9.03** |
 | Progress to €1000/mo | 0.9% |
-| Pageviews/mo needed for €1000 | ~333,333 (107× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (111× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,65 +65,68 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 19d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 23d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 52d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 18d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 22d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 51d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 30 | 28 | 0 |
-| Check Sitemap Drift | 12 | 6 | 1 |
-| Verify Data Modules | 12 | 6 | 1 |
-| Verify YouTube Videos | 12 | 6 | 1 |
-| Check Video SEO | 12 | 0 | 7 |
-| Check llms freshness | 6 | 0 | 1 |
-| Perf Budget Gate | 6 | 0 | 1 |
-| Health Check | 2 | 2 | 0 |
-| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
+| PR Merger | 30 | 30 | 0 |
+| Verify YouTube Videos | 13 | 7 | 6 |
+| Verify Data Modules | 12 | 6 | 6 |
+| Check Sitemap Drift | 12 | 6 | 6 |
+| Check llms freshness | 11 | 0 | 11 |
+| Perf Budget Gate | 7 | 0 | 7 |
+| Check Video SEO | 6 | 0 | 6 |
 | Daily Digest | 1 | 0 | 0 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
-| Roadie Night Fleet | 1 | 0 | 0 |
-| SEO Agent | 1 | 0 | 0 |
+| SEO Agent | 1 | 1 | 0 |
+| Prune Proposals | 1 | 1 | 0 |
+| Event Scanner | 1 | 1 | 0 |
+| Health Check | 1 | 1 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| X Agent | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-05 06:13 (cheap pulse, pre-deep-run — 7/7 proposals verified+promoted #10267-10273, 2 follow-ups filed #10282/#1
+- 2026-11-05 00:19 (cheap pulse — 8/8 proposals verified+promoted #10258-10266)
 - 2026-11-04 18:09 (mid-day pulse — 8/8 proposals verified+promoted #10235-10242)
 - 2026-11-04 12:11 (daily deep run — 5/5 proposals verified+promoted #10220-10224)
 - 2026-11-04 06:12 (cheap pulse, pre-deep-run — 8/8 proposals verified+promoted #10203-10210)
 - 2026-11-04 00:19 (cheap pulse — 8/8 proposals verified+promoted #10193-10201)
-- 2026-11-03 18:09 (mid-day pulse — 5/5 proposals verified+promoted #10176-10180)
-- 2026-11-03 12:10 (daily deep run — 7/7 proposals verified+promoted #10163-10169, #10162 split, #10174/#10175 filed)
 
-## 📦 Shipped to main (14)
+## 📦 Shipped to main (18)
 
-- #10250 fix: #10243 🚨 Loop Watchdog — 1 active alert
-- #10249 fix: #10221 SEO: Hellhammer licks/hellhammer.js credits him performing on Mayhem's Deathcrush EP (1987) — joined Mayhem 1988
-- #10248 fix: #10224 SEO: gearIndex.js miscategorizes Ben Koller under Starclassic Maple — verified Starclassic Performer B/B since 2017
-- #10247 fix: #10223 SEO: licks/eloy-casagrande.js fabricates 'Tama Speed Cobra Pedals' (3 locations) — verified Tama Iron Cobra
-- #10246 fix: #10222 SEO: licks/lars-ulrich.js fabricates nonexistent 'Tama Artstar ES' kit (3 locations) + wrong 'Zildjian A Series' cymbals (2 locations)
-- #10244 fix: #10220 SEO: Gene Hoglan licks/gene-hoglan.js misattributes Death's 'Pull the Plug' (Leprosy, 1988) — he didn't join until 1992
-- #10234 fix: #10210 SEO: Alex Bent public/llms/gear-history/alex-bent.md fabricates Pearl Reference/Meinl Byzance Trivium rig — verified Tama Starclassic Maple/Zildjian K Custom Hybrid
-- #10233 fix: #10209 SEO: Nicko McBrain public/llms/gear-history/nicko-mcbrain.md invents '40+ years continuous Pearl endorsement' — verified Pearl only 1982-1985, then Yamaha/Sonor/BDC
-- #10232 fix: #10208 SEO: Hellhammer public/llms/gear-history/hellhammer.md fabricates entire Pearl/Zildjian career — verified Sonor/Paiste RUDE/Axis — sibling to closed #9155 (evolution.md), never swept
-- #10230 fix: #10207 SEO: Jocke Wallgren drummerEvolution.js still fabricates 'Rage and Evergrey' bands (5 locations) — #9675 only fixed endorsementNews.js
-- #10229 fix: #10206 SEO: Morgan Ågren 'toured with Zappa' fabrication survives in gearPriceHistory.js + 2 llms gear-history mirrors — #9610 only fixed 5 other files
-- #10227 fix: #10205 SEO: Art Cruz cymbalSetups.js splash cymbal size/model mismatches drummerEvolution.js (9" FX Trash Splash vs verified 10" splash)
-- #10226 fix: #10204 SEO: Bill Ward cymbalSetups.js hi-hat/crash/ride sizes contradict extendedBios.js FAQ for same Zildjian Avedis era
-- #10225 fix: #10203 SEO: Mikkey Dee endorsementNews.js 1992 timeline entry fabricates Tama kit — contradicts drummerEvolution.js's Sonor-era framing
+- #10302 fix: #10284 event: refresh /drummer/lars-ulrich — Lars Ulrich 63º aniversário (2026-12-26)
+- #10301 fix: #10283 fix: gearPriceHistory.js + albumArticles/jocke-wallgren.js fabricate 'Rage, Evergrey' bands — verified Valkyria-only
+- #10300 fix: #10282 fix: albumArticles/charlie-benante.js trackAnalysis has duplicate entries with conflicting BPMs for 3 Anthrax songs
+- #10299 fix: #10273 SEO: public/llms/gear-history/igor-cavalera.md omits 1996 Tama switch — fabricates continuous 'Pearl' through 2006+
+- #10298 fix: #10272 SEO: public/llms/gear-history/daray.md — Vader tenure wrong (2006-2016 vs 2004-2008) + Eonian-era Pearl-vs-Tama fabrication
+- #10297 fix: #10271 SEO: public/llms/gear-history/jocke-wallgren.md fabricates Tama/DW rig + 'Rage, Evergrey' bands — verified Pearl/Vic Firth + Valkyria
+- #10296 fix: #10270 SEO: public/llms/gear-history/frost.md fabricates whole-career 'Sonor' brand — verified Pearl→Tama since 2013
+- #10295 fix: #10269 SEO: licks/adrian-erlandsson.js 'Blinded by Fear' BPM drift (195→250) vs metalSongsBpm.js
+- #10294 fix: #10268 SEO: licks/charlie-benante.js BPM drift on 3 Anthrax songs vs metalSongsBpm.js
+- #10293 fix: #10267 SEO: licks/brann-dailor.js BPM drift on 2 Mastodon songs (3 locations) vs metalSongsBpm.js
+- #10281 fix: #10265 SEO: licks/vinnie-paul.js — 3 Pantera songs' BPM drift from metalSongsBpm.js (up to 76 BPM overstatement)
+- #10280 fix: #10266 SEO: licks/jon-dette.js 'Postmortem' BPM drift (190→90) — sibling to open #10239 (dave-lombardo.js), same song, same error
+- #10279 fix: #10264 SEO: licks/inferno.js — 3 Behemoth songs' BPM drift from metalSongsBpm.js (up to 85 BPM overstatement)
+- #10278 fix: #10263 SEO: licks/matt-halpern.js — pedal field still anachronistic Pearl Demon Drive on 3 pre-2015 entries (gap left by #7031) + 4 BPM drifts
+- #10277 fix: #10262 SEO: licks/martin-lopez.js — 'Bleak' wrong album + 3 BPM drifts + Soen-era cymbal model error
+- _+3 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 30h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2340h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2436h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2613h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3698h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 44h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2353h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2449h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2626h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3711h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

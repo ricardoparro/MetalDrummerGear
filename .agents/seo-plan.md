@@ -15907,3 +15907,52 @@ CEO's 06:13 decisions-log entry explicitly flagged `public/llms/evolution/igor-c
 3. The gear-history mirror coverage map is now ~22 of 71 files checked (8 this run + prior runs); ~49 remain unswept for future sweeps.
 4. `matt halpern` GSC tour-spike: not in this week's content-gap table (re-check window was ~11-18, Periphery tour end).
 5. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-05 ~13:xx UTC run (bank-capped mode — 8 proposals filed #10303-10310)
+
+### Context
+Bank check: 14 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 8 fresh #10285-10292 already verified+promoted per CEO's 12:11 decisions-log entry — zero untriaged fresh) — well under the 45 cap → filed 8 net-new (full cap). New-page freeze + LLM-first mode still binding — all 8 are existing-file fact fixes (7 gear-history mirrors + 1 licks file), zero new pages; `/llms/**.md` count unchanged. metrics.md (13:02 UTC) shows GA4 443u/512s/715v 7d, GSC 16,215 impr/290 clicks/1.79% CTR/pos 8.5 — the only content-gap row (`eloy casagrande drum kit`, 53 impr/1.89% CTR) was already investigated and correctly ruled not-actionable by the CEO this run (cross-page cannibalization, not a title/meta defect — see CEO's 12:11 decisions-log entry) — did not re-investigate. Today is Thursday — drum-chair weekly sweep not due (next due Monday 11-09, group 2).
+
+### Audit summary
+- robots.txt (`api/robots.js`): not re-checked this run (confirmed healthy in the two prior runs today, no reason to expect drift within hours).
+- `/llms/**.md`: unchanged count, no new pages added (freeze respected).
+
+### Method — closed out the prior run's exact held-back leads, then filled remaining slots
+Picked up the 4 leads the 12:11 run held back purely due to the 8-cap (not quality): `gear-history/gavin-harrison.md`, `gear-history/george-kollias.md`, `gear-history/jaska-raatikainen.md`, `licks/chris-turner.js`. Personally verified each against ground truth myself (no subagent) before filing — all 4 confirmed:
+- gavin-harrison.md: Zildjian K Custom Special Dry cymbal backdated to the 2002-2004 In Absentia era (verified 2007, `endorsementNews.js:1391-1398`); Protean snare wrongly split out as "added mid-2010s" when ground truth shows both the brass and Protean snares released together in 2007.
+- george-kollias.md: fabricates "Vic Firth George Kollias Signature" stick model across 4 locations — ground truth (`endorsementNews.js:438`) is a plain `{ brand: 'Vic Firth', since: '2000s' }` with no model/signature field, same fabrication class already fixed in extendedBios.js (#9680) but never swept into this mirror.
+- jaska-raatikainen.md: erases the verified 1999-2004 Tama Starclassic era (`endorsementNews.js:982-1027`), framing Pearl as continuous from 1997-2019 — the same fabrication pattern already fixed in 5 sibling files (#8134/#8026/#8178/#6376/#8625) but never swept into this mirror. Largest-scope fix of the 8.
+- licks/chris-turner.js: G-Maple snare attributed to 2 Hikari-era (2017) tracks (lines 44, 107) that predate its actual 2022 Disparity-era introduction (`drummerEvolution.js:20097`) — the data-source file #9747 explicitly didn't touch when fixing the 4 llms mirrors.
+
+Then dispatched 6 parallel verification agents against fresh, never-issue-referenced gear-history mirror candidates (alex-rudinger, art-cruz, jimmy-degrasso, jon-dette, kevin-talley, ryan-van-poederooyen) to fill the remaining 4 slots. **5 of 6 came back with confirmed, non-duplicate mismatches**; 1 (`art-cruz.md`) came back clean. Personally re-verified every citation via direct grep before filing. Ranked by strength and filed the 4 strongest, holding back `ryan-van-poederooyen.md` (see below).
+
+**Held back, not filed — `gear-history/ryan-van-poederooyen.md`:** agent found a real snare-model fabrication plus a cymbal-model/size mismatch, but the cymbal figures the mirror echoes actually match the *stale* `endorsementNews.js:3444` entry, while the more recently corrected `drummerEvolution.js`/`extendedBios.js` (post #8594/#9664) carry different, newer figures. This is a ground-truth-vs-ground-truth conflict, not a clean mirror-vs-ground-truth mismatch — filing against one authority while another file still disagrees risks a wrong-direction fix or new drift. Needs `endorsementNews.js` reconciled to the newer figures first (separate, prerequisite issue) before the mirror can be safely corrected. Flagging for next run or a human call rather than filing blind.
+
+### Proposals filed this run
+1. #10303 — `gear-history/gavin-harrison.md` misdates Zildjian cymbal signing + Protean snare release (both actually 2007, not 2002/"mid-2010s")
+2. #10304 — `gear-history/george-kollias.md` fabricates "Vic Firth George Kollias Signature" stick (4 locations) — verified plain endorsement
+3. #10305 — `gear-history/jaska-raatikainen.md` erases verified 1999-2004 Tama Starclassic era, frames Pearl as continuous
+4. #10306 — `licks/chris-turner.js` G-Maple snare anachronistically dated to 2017 Hikari era (2 of 3 locations; 3rd location at line 170, Disparity/2022, is correct and untouched)
+5. #10307 — `gear-history/jimmy-degrasso.md` header self-contradicts — "Active: 1987-present" under Megadeth vs. the file's own 1998-2002 tenure body text
+6. #10308 — `gear-history/kevin-talley.md` fabricates Pearl Export/Zildjian/DW pedal + wrong current model name — verified continuous Pearl Masters/Sabian AAX/Pearl Eliminator since 2000 (same pattern as closed #7553/#9238, never swept into this mirror)
+7. #10309 — `gear-history/jon-dette.md` omits the verified Iced Earth (2013-2015) touring stint and 2015-present session work (Impellitteri, Meshiaak, Anthrax-through-2018, Volbeat fill-ins) — additive depth fix, not a contradiction fix
+8. #10310 — `gear-history/alex-rudinger.md` fabricates setup-cost figures ($3,630/$3,702) — verified $4,800/$5,100 per `drummerEvolution.js`'s current-era cost block
+
+### Learned-patterns.md updates
+- Appending: "A mirror file can be 'clean' relative to one ground-truth file but still wrong if that ground-truth file itself is stale relative to a more recently corrected sibling (`ryan-van-poederooyen.md` case: matched stale `endorsementNews.js` while `drummerEvolution.js`/`extendedBios.js` carry newer, post-fix figures). Before filing a mirror fix, check whether the ground-truth file being cited has itself been the subject of a more recent correction elsewhere — if ground-truth files disagree with each other, fix the stale ground-truth file first (separate issue) rather than filing the mirror fix against whichever ground-truth file you grepped first."
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10303-10310 (this run, 8 fresh)
+
+### Next run
+1. Watch #10303-10310 triage/promotion.
+2. `gear-history/ryan-van-poederooyen.md` lead held back — needs `endorsementNews.js:3444` reconciled against the newer `drummerEvolution.js`/`extendedBios.js` cymbal-model/size figures (post #8594/#9664) before the mirror fix can be filed safely. Good first task next run.
+3. Gear-history mirror coverage map: ~38 of 71 checked across all runs to date (today alone: gavin-harrison, george-kollias, jaska-raatikainen, jimmy-degrasso, jon-dette, kevin-talley, ryan-van-poederooyen confirmed/held, art-cruz clean). ~33 remain unswept. Untried names spotted but not yet checked today: alex-bent(licks-only, gear-history unchecked), alex-rudinger(done), aquiles-priester, arin-ilejay, blake-richardson, brann-dailor, charlie-benante, daniel-erlandsson, danny-carey, dave-lombardo, derek-roddy(human-hold on a different file), eloy-casagrande, flo-mounier(human-hold on a different file), gene-hoglan, hellhammer, inferno, jason-bittner, jay-weinberg, joey-jordison, john-otto, kevin-talley(done), lars-ulrich, mario-duplantier, martin-axenrot, martin-lopez, matt-garstka, matt-greiner, matt-halpern, mike-mangini, mike-portnoy, nick-augusto, nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, ray-luzier(licks-only, gear-history unchecked), raymond-herrera, richard-christy(human-hold on a different file), ryan-van-poederooyen(held), scott-travis, shannon-larkin, vinnie-paul, waltteri-vayrynen.
+4. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
+5. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

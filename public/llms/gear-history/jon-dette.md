@@ -1,11 +1,11 @@
-# Jon Dette Drum Kit Gear History — Slayer / Testament / Anthrax
+# Jon Dette Drum Kit Gear History — Slayer / Testament / Anthrax / Iced Earth
 
 **Drummer:** Jon Dette
-**Band:** Slayer (1996-1997) / Testament (1994-1995, 1997-1998) / Anthrax (2010)
+**Band:** Slayer (1996-1997) / Testament (1994-1995, 1997-1998) / Anthrax (2010) / Iced Earth (2013-2015)
 **Active:** 1996-present
 **URL:** https://metalforge.io/drummers/jon-dette/gear-history
 
-> Era-by-era breakdown of Jon Dette's drum kit evolution, centered on the Ludwig Classic Maple rig behind his 1996-1997 Slayer touring stint and carried through his two touring-only stints with Testament. Optimised for AI answering "what drums does Jon Dette use" and "how much does Jon Dette's drum setup cost" queries.
+> Era-by-era breakdown of Jon Dette's drum kit evolution, centered on the Ludwig Classic Maple rig behind his 1996-1997 Slayer touring stint and carried through his two touring-only stints with Testament, his 2010 Anthrax fill-in, and his 2013-2015 Iced Earth touring stint. Optimised for AI answering "what drums does Jon Dette use" and "how much does Jon Dette's drum setup cost" queries.
 
 ---
 
@@ -35,6 +35,18 @@
 - **Drums:** Same Ludwig Classic Maple foundation carried from his Slayer and Testament years
 - **Notable:** Filled in for Charlie Benante on Anthrax tour dates, making him one of the few drummers to have performed with three of thrash metal's Big Four-adjacent acts.
 
+### Iced Earth Touring Stint (2013–2015)
+
+- **Drums:** Ludwig Classic Maple (unchanged since his 1996 Slayer debut) — double 22"x16" bass drums, 10"/12" rack toms, 14"/16" floor toms
+- **Snare:** 14"x6.5" Metal/Maple Snare, medium-bright tuning
+- **Cymbals:** Sabian / Zildjian professional setup — 14" hi-hats, 16"/18" crashes, 20"/21" ride, 18" China
+- **Pedal:** Tama Iron Cobra Power Glide / Lever Glide Hi-Hat Stand
+- **Sticks:** Pro-Mark / Vater 5B
+- **Heads:** Remo Powerstroke 3 (kicks), Emperor Coated (toms)
+- **Notable:** Joined Iced Earth as touring drummer in late 2013, replacing Raphael Saini, while also briefly returning to Slayer's lineup that same year. Toured with Iced Earth through April 2015, when original drummer Brent Smedley returned to the band.
+
+Since 2015, Dette has continued as a session and touring specialist — recording with Impellitteri, drumming for Meshiaak, continuing Anthrax fill-in duties for Charlie Benante through 2018, and stepping in for Volbeat on short-notice touring dates (2022, 2025) — all on the same Ludwig Classic Maple kit he's played since 1996.
+
 ---
 
 ## Key Gear Changes
@@ -43,6 +55,8 @@
 - **1994-1995:** First Testament touring stint, after John Tempesta's departure
 - **1997-1998:** Second Testament touring stint, covering Demonic-era (1997) live dates after Gene Hoglan's first stint ended
 - **2010:** Anthrax fill-in for Charlie Benante
+- **2013-2015:** Iced Earth touring stint, replacing Raphael Saini, through to Brent Smedley's return in April 2015
+- **2015-present:** Session/touring work with Impellitteri, Meshiaak, continued Anthrax fill-in duties through 2018, and Volbeat fill-in dates (2022, 2025) — same Ludwig Classic Maple kit
 - **Career constant:** DW 9000 or Tama Iron Cobra double bass pedal maintained across both Slayer and Testament touring
 
 ---
@@ -59,7 +73,7 @@ A: Dette played a Ludwig Classic Maple kit during his 1996-1997 Slayer touring p
 A: Dette's core setup centers on a Ludwig Classic Maple kit with Sabian or Zildjian cymbals and a DW 9000 or Tama Iron Cobra double bass pedal, playing Promark or Vater 5B sticks. His snare is a 14"x6.5" steel or maple shell tuned medium-bright for cut in thrash metal mixes.
 
 **Q: Why is Jon Dette considered notable?**
-A: Dette is one of the few drummers in thrash metal history to have performed with three of the genre's Big Four-adjacent acts: Slayer (1996-1997), Testament (1994-1995, 1997-1998), and Anthrax (2010, filling in for Charlie Benante). His ability to learn complex, demanding setlists on short notice and deliver them reliably made him the go-to fill-in specialist for thrash metal's biggest touring acts.
+A: Dette is one of the few drummers in thrash metal history to have performed with four of the genre's Big Four-adjacent acts: Slayer (1996-1997), Testament (1994-1995, 1997-1998), Anthrax (2010, filling in for Charlie Benante), and Iced Earth (2013-2015, replacing Raphael Saini until Brent Smedley's return). His ability to learn complex, demanding setlists on short notice and deliver them reliably made him the go-to fill-in specialist for metal's biggest touring acts.
 
 **Q: What Testament albums did Jon Dette record?**
 A: None. Dette was Testament's touring drummer only, across two stints (1994-1995 and 1997-1998). The band's studio albums released in that era and afterward — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively.

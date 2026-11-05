@@ -23,7 +23,7 @@ last_updated: "2026-08-23"
 
 ### The Last Will and Testament Era (2024)
 
-- **Drums:** Pearl Masters Maple Complete — professional maple shell pack (representative model); 22" bass drum, 10"/12" rack toms, 16" floor tom
+- **Drums:** Pearl (brand confirmed; specific kit model and shell sizes not independently documented — Pearl's artist page blocks automated access)
 - **Cymbals:** Sabian HH Power Bell Ride 22" (confirmed centerpiece) — 22" Hand Hammered Power Bell Ride
 - **Sticks:** Wincent W-5BXL — hickory, extra-long, acorn tip
 - **Original setup cost (2024):** ~$3,913
@@ -43,7 +43,7 @@ last_updated: "2026-08-23"
 ## FAQ
 
 **Q: What drum kit did Waltteri Väyrynen use on The Last Will and Testament?**
-A: Waltteri Väyrynen used a Pearl Masters Maple-tier kit (22" bass drum, 10"/12" rack toms, 16" floor tom) with a Sabian 22" HH Power Bell Ride and Wincent W-5BXL sticks on Opeth's 2024 album The Last Will and Testament.
+A: Waltteri Väyrynen plays a Pearl kit (specific model and shell sizes not independently documented) with a Sabian 22" HH Power Bell Ride and Wincent W-5BXL sticks on Opeth's 2024 album The Last Will and Testament.
 
 **Q: How much does Waltteri Väyrynen's drum setup cost?**
 A: Väyrynen's Opeth-era rig cost approximately $3,913 at 2024 retail, equivalent to roughly $4,076 today after inflation.

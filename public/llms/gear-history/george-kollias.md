@@ -27,7 +27,7 @@
 - **Snare:** Pearl Free-Floating Steel 14"x6.5"
 - **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China
 - **Pedal:** Tama Iron Cobra HP900 double pedal
-- **Sticks:** Vic Firth 5B (pre-signature)
+- **Sticks:** Vic Firth 5B
 - **Heads:** Remo Emperor (toms), Powerstroke 3 (kick)
 - **Original setup cost (2005):** ~$9,000
 - **Inflation-adjusted to 2026:** ~$15,100
@@ -39,10 +39,10 @@
 - **Snare:** Pearl Free-Floating Steel 14"x6.5" (continued)
 - **Cymbals:** Zildjian A Custom Series — expanded to 14"/17"/18"/19"/21" configuration
 - **Pedal:** Pearl Demon XR double pedal (switched from the Tama Iron Cobra)
-- **Sticks:** Vic Firth George Kollias Signature (launched)
+- **Sticks:** Vic Firth (plain endorsement, no signature model)
 - **Electronics:** ddrum kick triggers (added)
 - **Estimated cost (2009):** ~$14,000
-- **Notable:** Kollias's technical and artistic peak with Nile — Those Whom the Gods Detest (2009) and At the Gate of Sethu (2012) cemented his reputation as death metal's most precise drummer. His first Vic Firth signature stick model and solo album Invictus both arrived in 2009.
+- **Notable:** Kollias's technical and artistic peak with Nile — Those Whom the Gods Detest (2009) and At the Gate of Sethu (2012) cemented his reputation as death metal's most precise drummer. His solo album Invictus arrived in 2009.
 
 ### Vile Nilotic Rites / Current Era (2015–present)
 
@@ -50,7 +50,7 @@
 - **Snare:** Pearl Free-Floating Steel 14"x6.5" (unchanged)
 - **Cymbals:** Zildjian A Custom Series — full current configuration
 - **Pedal:** Pearl Demon XR double pedal (co-designed with Pearl, officially signature since 2015)
-- **Sticks:** Vic Firth George Kollias Signature (updated taper)
+- **Sticks:** Vic Firth (plain endorsement, unchanged)
 - **Electronics:** ddrum Acoustic Pro Triggers (kick and snare)
 - **Estimated cost (current):** ~$18,000
 - **Notable:** What Should Not Be Unearthed (2015) and Vile Nilotic Rites (2019) represent Kollias's most mature work with Nile, alongside his second solo album Labyrinth of Chaos (2018). He has also become one of extreme metal's most prominent drum educators, teaching worldwide clinics and instructional courses.
@@ -61,7 +61,7 @@
 
 - **2004:** Joins Nile, replacing Tony Laureano — Pearl endorsement begins
 - **2005:** Pearl Reference Series debut on Annihilation of the Wicked
-- **2009:** Upgrade to all-maple Pearl Reference Pure; first Vic Firth George Kollias signature sticks
+- **2009:** Upgrade to all-maple Pearl Reference Pure
 - **~2010s:** ddrum kick/snare triggers added for live consistency at extreme tempos; switch from Tama Iron Cobra to Pearl Demon XR double pedal
 - **2015:** Pearl Demon XR becomes an official co-designed signature pedal; kit upgraded to Pearl Masterworks Stadium Exotic for the Vile Nilotic Rites era
 

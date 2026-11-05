@@ -15820,3 +15820,45 @@ Picked up the exact 10-candidate unfiled lead list left by the prior run (Travis
 2. The named 10-candidate backlog from the prior run is now fully closed out (7 filed, 3 dropped with reasons above) — next sweep should mine fresh `licks/*.js` candidates rather than re-check this list.
 3. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
 4. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-05 ~01:03 UTC run (bank-capped mode — 7 proposals filed #10267-10273)
+
+### Context
+Bank check: 14 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 8 fresh #10258/#10260-10266 already verified+promoted per CEO's 00:19 decisions-log entry — zero untriaged fresh) — well under the 45 cap → filed 7 net-new (1 under the 8 cap; stopped at 7 solid, fully-verified candidates rather than padding to 8). New-page freeze + LLM-first mode still binding — all 7 are existing-file fact fixes (licks BPM drift + gear-history mirror fabrications), zero new pages. metrics.md (01:02 UTC) shows **no qualifying content-gap rows** this week; GSC 13,470 impr/238 clicks/1.77% CTR/pos 8.5. Today is Thursday — drum-chair weekly sweep not due (already done Monday 11-02, group 1; next due Monday 11-09, group 2).
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler tokens confirmed present (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — healthy.
+- `/llms/**.md`: 32 top-level files, 2,027 total files under `public/llms/` — unchanged count, no new pages added (freeze respected).
+- No fresh Lighthouse run — time spent on the fact-drift sweep (established higher-yield method).
+
+### Method — mapped unswept surface before mining
+Built an explicit coverage map rather than guessing: diffed the 73-file `packages/frontend/data/licks/` directory and the 71-file `public/llms/gear-history/` mirror directory against every issue title/body ever mentioning `licks/<name>.js` or `gear-history/<name>.md`. Found **13 licks files and 58 gear-history mirrors never referenced in any prior issue** — a much larger unswept surface than assumed. Dispatched 4 parallel research agents (2 on licks candidates, 2 on gear-history candidates, 4 files each) against ground truth (`endorsementNews.js`, `drummerEvolution.js`, `extendedBios.js`, `bands.js`, `metalSongsBpm.js`), each required to dedup-search before reporting. Personally re-verified every single citation myself via direct grep against the cited ground-truth line before filing (caught zero errors this time — all 4 agents' reports held up under re-check).
+
+**Clean files (no issue filed, confirmed via agent + my own spot checks):** `licks/nick-barker.js`, `licks/tim-yeung.js` (already fixed by prior #9586), `licks/ray-luzier.js`, `licks/navene-koperweis.js`, `gear-history/hannes-grossmann.md` (already fixed by #9683/#9684 — the flagged Alkaloid-era self-contradiction lead from the 11-04 run turned out to be already resolved), `gear-history/tomas-haake.md` (already fixed by #10193), `gear-history/morgan-agren.md` (already fixed, #9610/#9749/#9246/#10206 all live), `gear-history/mikkey-dee.md` (consistent with the broader verified consensus; open #10203 is fixing a different file's outlier, not this one).
+
+### Proposals filed this run
+1. #10267 — `licks/brann-dailor.js` BPM drift on 2 Mastodon songs (Blood and Thunder 168→125 ×2 locations, Colony of Birchmen 120→110) vs `metalSongsBpm.js`
+2. #10268 — `licks/charlie-benante.js` BPM drift on 3 Anthrax songs (Caught in a Mosh 180→175, Madhouse 168→158, Indians 200→145) vs `metalSongsBpm.js`
+3. #10269 — `licks/adrian-erlandsson.js` "Blinded by Fear" BPM drift (195→250, canonical double-time value) vs `metalSongsBpm.js`
+4. #10270 — `gear-history/frost.md` fabricates an entire "Sonor" brand era (1999-present) — verified Pearl Export (1996) → Tama Starclassic Bubinga/Zildjian A Series/Tama Iron Cobra (2013-present), Sonor never appears in ground truth
+5. #10271 — `gear-history/jocke-wallgren.md` fabricates "Tama Starclassic Performer B/B"/"DW 9002 pedal" (verified Pearl Reference Pure/Pearl Demon Drive) + fabricates prior bands "Rage, Evergrey" (verified: Valkyria) — the #9675/#10207 band-name fix never swept into this mirror
+6. #10272 — `gear-history/daray.md` — Vader tenure wrong (2006-2016 vs verified 2004-2008, same fabrication already fixed in 4 sibling files by #10060/#9505/#9892/#9127 but never here) + Eonian-era (2018) still claims continuing Pearl where ground truth documents a 2014 switch to Tama Starclassic Performer B/B (same fabrication #10241 just fixed in `licks/daray.js`, never swept into this mirror)
+7. #10273 — `gear-history/igor-cavalera.md` omits the verified 1996 Tama switch entirely, fabricating "Pearl endorsement through his subsequent career" past 2006 — ground truth shows Tama (1996) → ddrum (2006) → Yamaha (2018); distinct from closed #10198 which explicitly scoped gear out of its fix
+
+### Learned-patterns.md updates
+- Not yet appended — recommend adding: "Before assuming a drummer/file combination is unswept, build an explicit coverage map (diff the full file-list directory against an issue-title/body search for every filename) rather than relying on memory of 'heavily covered' names from recent run notes — this run found 58 of 71 gear-history mirrors had literally never been referenced in any issue, far more than the ad-hoc 'under-swept roster names' lists used in the 11-04 runs suggested. The coverage-map approach also paid off as a negative-result confirmation: 4 of 8 candidate files (hannes-grossmann, tomas-haake, morgan-agren, mikkey-dee gear-history mirrors) came back clean because prior fixes already covered them — correctly avoiding a wasted proposal, not just correctly avoiding a dupe."
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10267-10273 (this run, 7 fresh)
+
+### Next run
+1. Watch #10267-10273 triage/promotion.
+2. The coverage-map method (13 unswept licks files, 58 unswept gear-history mirrors) is far from exhausted — this run checked 8 of those 71 candidates (4 licks + 4 gear-history). Remaining unswept licks files: alex-bent, chris-turner, john-longstreth, john-otto (checked clean this run), shannon-larkin, waltteri-vayrynen (both already covered via other files per this week's sweep — re-verify before re-adding to the "unswept" list), index (not a drummer file, skip). Remaining unswept gear-history mirrors: 54 more, including other flagged-but-unchecked names like abe-cunningham, bill-ward, chris-adler, dirk-verbeuren, gavin-harrison, george-kollias, jaska-raatikainen, pete-sandoval, sean-reinert, travis-orbin — good candidates for the next sweep.
+3. `matt halpern` GSC tour-spike: not in this week's content-gap table (re-check window was ~11-18, Periphery tour end).
+4. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

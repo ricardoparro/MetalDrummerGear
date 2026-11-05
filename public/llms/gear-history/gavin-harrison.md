@@ -15,7 +15,7 @@
 
 - **Drums:** Sonor SQ2 Series — custom-order thin maple shells; 22"x17" bass drum, 10"x8"/12"x9" rack toms, 14"x13"/16"x15" floor toms
 - **Snare:** Early Sonor signature snare development
-- **Cymbals:** Zildjian K Custom Special Dry (established endorsement)
+- **Cymbals:** No fixed brand endorsement yet (Zildjian K Custom Special Dry signed 2007)
 - **Pedals:** Sonor Perfect Balance Pedal
 - **Notable:** Harrison joins Porcupine Tree in 2002 and immediately establishes the Sonor and Zildjian relationships that would define his sound for the next two decades. In Absentia introduced his jazz-inflected, polyrhythmic approach to a much wider rock audience.
 
@@ -34,7 +34,7 @@
 ### King Crimson / Pineapple Thief Era (2008–present)
 
 - **Drums:** Sonor SQ2 Series (same core configuration)
-- **Snare:** Sonor Gavin Harrison Signature — both 14"x5.25" brass and 12"x5" Protean (added mid-2010s)
+- **Snare:** Sonor Gavin Harrison Signature — both 14"x5.25" brass and 12"x5" Protean (both released 2007)
 - **Cymbals:** Zildjian K Custom Special Dry (continuous)
 - **Pedals:** Sonor Perfect Balance Pedal
 - **Notable:** Harrison joins King Crimson's revolutionary three-drummer lineup in 2008 and continues touring The Pineapple Thief, adding the tighter 12" Protean snare for studio work on Dissolution (2018). Porcupine Tree's 2022 reunion album Closure/Continuation uses essentially the same rig that defined Fear of a Blank Planet fifteen years earlier.

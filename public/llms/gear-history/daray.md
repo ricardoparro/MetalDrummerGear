@@ -1,7 +1,7 @@
 # Daray Drum Kit Gear History — Vader / Dimmu Borgir
 
 **Drummer:** Daray (Dariusz Brzozowski)
-**Band:** Vader (2006–2016), Dimmu Borgir (2008–present), Vesania (2003–present)
+**Band:** Vader (2004–2008), Dimmu Borgir (2008–present), Vesania (2003–present)
 **Active:** 2003–present
 **URL:** https://metalforge.io/drummers/daray/gear-history
 
@@ -20,11 +20,11 @@
 - **Estimated cost (2003):** ~$1,200
 - **Notable:** Daray joined Polish black metal band Vesania, developing the extreme-speed technique that would define his later career.
 
-### Vader Era Begins (2006)
+### Vader Era Begins (2004)
 
 - **Drums:** Developing Pearl setup
-- **Estimated cost (2006):** ~$2,500
-- **Notable:** Joined Vader, Poland's most internationally recognized death metal band, beginning a decade-long tenure (2006–2016).
+- **Estimated cost (2004):** ~$2,500
+- **Notable:** Joined Vader, Poland's most internationally recognized death metal band, as a stand-in drummer from February 2004, becoming permanent in March 2005, a tenure that ran through 2008.
 
 ### Welcome to the Morbid Reich Era (2011)
 
@@ -40,19 +40,21 @@
 
 ### Eonian Era / Dimmu Borgir (2018–present)
 
-- **Drums:** Pearl Reference Pure (same core configuration)
+- **Drums:** Tama Starclassic Performer B/B, Piano Black finish
+- **Snare:** Tama S.L.P. Black Brass 14"x6.5" (LBR1465)
 - **Cymbals:** Paiste RUDE / 2002 series
 - **Estimated cost (current):** ~$9,739
-- **Notable:** After leaving Vader in 2016, Daray carried the same Pearl / Paiste rig into his full-time Dimmu Borgir role, powering Eonian (2018) and years of festival headline slots requiring absolute consistency from club stages to pyrotechnic productions.
+- **Notable:** After leaving Vader in 2008, Daray switched from Pearl to a Tama Starclassic Performer B/B kit by 2014, anchored to his appearance at the TAMA 40th Anniversary Drum Festival on July 5, 2014. That Tama rig, paired with his existing Paiste cymbals, powered his full-time Dimmu Borgir role into Eonian (2018) and years of festival headline slots requiring absolute consistency from club stages to pyrotechnic productions.
 
 ---
 
 ## Key Gear Changes
 
 - **2003:** Joins Vesania on entry-level gear
-- **2006:** Joins Vader, beginning a decade-long tenure alongside developing Pearl endorsement
+- **2004:** Joins Vader (stand-in from Feb 2004, permanent March 2005), tenure runs through 2008, alongside developing Pearl endorsement
 - **2011:** Welcome to the Morbid Reich recorded — definitive Pearl Reference Pure / Paiste RUDE setup established
-- **2018:** Same Pearl / Paiste core carried into full-time Dimmu Borgir role after leaving Vader
+- **2014:** Switches from Pearl to Tama Starclassic Performer B/B (Piano Black) with S.L.P. Black Brass snare
+- **2018:** Tama Starclassic / Paiste setup carried into full-time Dimmu Borgir role, powering Eonian
 - **Career constant:** Pearl Demon Drive double pedal and Promark 5B sticks maintained across both extreme death metal and symphonic black metal contexts
 
 ---
@@ -72,7 +74,7 @@ A: Daray uses a Paiste setup spanning the Sound Edge, RUDE, and 2002 lines — 1
 A: Daray is one of extreme metal's rare drummers validated at both ends of the spectrum — pure death metal speed and brutality in Vader and Vesania, and symphonic orchestral precision replacing Hellhammer in Dimmu Borgir since 2008. His technique combines extreme blast-beat velocity with the dynamic control needed to lock timing against live orchestra performances.
 
 **Q: Has Daray's gear changed since Welcome to the Morbid Reich?**
-A: No — Daray's Pearl Reference Pure / Paiste RUDE configuration established during his Vader tenure carried directly into his full-time Dimmu Borgir role after 2016 and remains his core setup today.
+A: Yes — Daray's Pearl Reference Pure / Paiste RUDE configuration from his Vader tenure gave way to a Tama Starclassic Performer B/B kit (Piano Black, with an S.L.P. Black Brass snare) by 2014, which he carried into his full-time Dimmu Borgir role and remains his core setup today, alongside his existing Paiste cymbals.
 
 ---
 

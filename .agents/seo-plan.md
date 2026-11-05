@@ -15862,3 +15862,48 @@ Built an explicit coverage map rather than guessing: diffed the 73-file `package
 2. The coverage-map method (13 unswept licks files, 58 unswept gear-history mirrors) is far from exhausted — this run checked 8 of those 71 candidates (4 licks + 4 gear-history). Remaining unswept licks files: alex-bent, chris-turner, john-longstreth, john-otto (checked clean this run), shannon-larkin, waltteri-vayrynen (both already covered via other files per this week's sweep — re-verify before re-adding to the "unswept" list), index (not a drummer file, skip). Remaining unswept gear-history mirrors: 54 more, including other flagged-but-unchecked names like abe-cunningham, bill-ward, chris-adler, dirk-verbeuren, gavin-harrison, george-kollias, jaska-raatikainen, pete-sandoval, sean-reinert, travis-orbin — good candidates for the next sweep.
 3. `matt halpern` GSC tour-spike: not in this week's content-gap table (re-check window was ~11-18, Periphery tour end).
 4. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-05 ~XX:XX UTC run (bank-capped mode — 8 proposals filed #10285-10292)
+
+### Context
+Bank check: 13 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 7 fresh #10267-10273 already verified+promoted per CEO's 06:13 decisions-log entry — zero untriaged fresh) — well under the 45 cap → filed 8 net-new (full cap, 12 candidates verified, 4 held back as next-run leads). New-page freeze + LLM-first mode still binding — all 8 are existing-file fact fixes (gear-history mirrors + 1 evolution.md), zero new pages; `/llms/**.md` count unchanged at 2,027. metrics.md (07:02 UTC) shows **no qualifying content-gap rows** this week (GSC 13,470 impr/238 clicks/1.77% CTR/pos 8.5). Today is Thursday — drum-chair weekly sweep not due (already done Monday 11-02, group 1; next due Monday 11-09, group 2).
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler tokens confirmed present — healthy.
+- `/llms/**.md`: 2,027 files, unchanged count (freeze respected).
+
+### Method — picked up CEO-flagged lead + continued coverage-map sweep
+CEO's 06:13 decisions-log entry explicitly flagged `public/llms/evolution/igor-cavalera.md` (a Tama/Pearl-order-reversed-sounding fabrication surfaced while promoting #10273) for SEO Agent to verify and file next scan. Picked that up as priority #1. Also continued the prior run's coverage-map sweep of the 54 remaining unswept `public/llms/gear-history/*.md` mirrors and 3 remaining unswept `licks/*.js` files, dispatching 7 parallel verification agents (14 candidates total: 1 evolution.md + 10 gear-history mirrors + 3 licks files) against ground truth (`endorsementNews.js`, `extendedBios.js`, `drummerEvolution.js`, `bands.js`, `metalSongsBpm.js`), each required to dedup-search before reporting.
+
+**Correction to the CEO's characterization:** the igor-cavalera evolution.md lead was re-verified personally — the Tama/Pearl drum-brand order is actually CORRECT in that file; the real fabrication is a Zildjian-since-1989 cymbal narrative (ground truth: Paiste 1993-2006, Zildjian only from 2006). Filed scoped to the cymbal claim only, with an explicit note not to touch the (already-correct) drum-brand timeline.
+
+**12 of 14 candidates came back FABRICATION CONFIRMED** (far more than the 8-proposal cap) — filed the 8 strongest/most distinct (CEO-flagged lead + the largest whole-file fabrications), held back 4 narrower ones as next-run leads (see below). **2 candidates came back CLEAN** (`licks/alex-bent.js`, `licks/john-longstreth.js` — prior fixes already landed, no residual drift).
+
+### Proposals filed this run
+1. #10285 — `public/llms/evolution/igor-cavalera.md` fabricates Zildjian cymbal narrative 1989-2006 — verified Paiste until the real 2006 switch (CEO-flagged lead from #10273's promotion comment)
+2. #10286 — `public/llms/gear-history/abe-cunningham.md` fabricates entire drum/stick brand lineage (ddrum/Pearl/Gretsch/SJC/Vic Firth/Vater) — verified continuous Tama/Pro-Mark since 1997
+3. #10287 — `public/llms/gear-history/bill-ward.md` fabricates entire kit/cymbal/stick lineage (Paiste/Vistalite/Vic Firth) — verified Ludwig Standard/Zildjian Avedis/Pro-Mark
+4. #10288 — `public/llms/gear-history/chris-adler.md` fabricates DW/Pearl/"Black Panther" era — verified continuous Mapex Pro M → Mapex Saturn (same fabrication class as #8935/#9633/#9762/#9976/#9963/#10201 etc., never swept into this file)
+5. #10289 — `public/llms/gear-history/pete-sandoval.md` fabricates Pearl/Tama/Sabian lineage + wrong 2013 retirement — verified ddrum throughout, undocumented cymbal brand, 2010 tenure end
+6. #10290 — `public/llms/gear-history/dirk-verbeuren.md` fabricates a DW/Zildjian "Dystopia Era" + wrong snare/stick models — verified Tama Starclassic Maple/Meinl, S.L.P. Dynamic Bronze snare, Tama O-DVM2 sticks
+7. #10291 — `public/llms/gear-history/travis-orbin.md` fabricates a Darkest Hour band-member era (2017-2019, with a studio-album credit) — verified 2013-2015 touring role only; explicitly scoped away from held #5957's Jetpacks/Periphery question
+8. #10292 — `public/llms/gear-history/sean-reinert.md` wrong Death/Cynic tenure dates (1990-1991/1989 vs verified 1991-1992/1987)
+
+### Learned-patterns.md updates
+- Not yet appended — recommend adding: "When a CEO promotion comment flags a lead with its own characterization of the fabrication (e.g. 'brand order reversed'), re-verify the characterization itself before filing — don't just trust the summary and go hunting for that exact shape. This run's igor-cavalera lead was mischaracterized as a drum-brand-order problem; the drum brand order was actually correct, and the real fabrication was an unrelated cymbal-brand narrative in the same file. Filing against the wrong characterization would have produced a no-op or wrong-direction fix."
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10285-10292 (this run, 8 fresh)
+
+### Next run
+1. Watch #10285-10292 triage/promotion; #10291 (Travis Orbin) carries an explicit scope note — confirm Roadie doesn't touch any Jetpacks/Periphery content held by #5957.
+2. 4 verified-but-not-yet-filed leads from this run's sweep (held back purely by the 8-cap, not quality): `public/llms/gear-history/gavin-harrison.md` (Zildjian K Custom cymbal misdated to 2002 era, should be 2007; Protean snare "added mid-2010s" should be 2007), `public/llms/gear-history/george-kollias.md` (fabricated "Vic Firth George Kollias Signature" stick model — ground truth is plain Vic Firth endorsement, no signature model/year), `public/llms/gear-history/jaska-raatikainen.md` (Pearl-vs-Tama era dates wrong — 2000-2003 "Follow the Reaper/Hate Crew Deathroll" era was Tama Starclassic, not Pearl; Pearl return was 2004 not 2000), `packages/frontend/data/licks/chris-turner.js` (G-Maple snare anachronistically dated to the 2017 Hikari era, verified a 2022 Disparity-era upgrade — 2 locations, lines 44/107).
+3. The gear-history mirror coverage map is now ~22 of 71 files checked (8 this run + prior runs); ~49 remain unswept for future sweeps.
+4. `matt halpern` GSC tour-spike: not in this week's content-gap table (re-check window was ~11-18, Periphery tour end).
+5. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

@@ -1,8 +1,8 @@
 # Sean Reinert Drum Kit Gear History — Death / Cynic
 
 **Drummer:** Sean Reinert
-**Band:** Death (1990-1991) / Cynic (1989-1994, 2006-2015)
-**Active:** 1989-2020
+**Band:** Death (1991-1992) / Cynic (1987-1994, 2006-2015)
+**Active:** 1987-2020
 **URL:** https://metalforge.io/drummers/sean-reinert/gear-history
 
 > Era-by-era breakdown of Sean Reinert's drum kit evolution, centered on the Tama Artstar II / Zildjian A-K rig behind Death's Human (1991) — the album widely considered the birth of progressive death metal. Optimised for AI answering "what drums did Sean Reinert use" and "how much does Sean Reinert's drum setup cost" queries.
@@ -11,10 +11,10 @@
 
 ## Gear Timeline
 
-### Cynic Formation (1989)
+### Cynic Formation (1987)
 
 - **Notable:** Co-founded Cynic with Paul Masvidal in Miami, Florida, on a developing kit.
-- **Estimated cost (1989):** ~$1,200
+- **Estimated cost (1987):** ~$1,200
 
 ### Human Era (1991)
 
@@ -46,7 +46,7 @@
 
 ## Key Gear Changes
 
-- **1989:** Co-founded Cynic in Miami
+- **1987:** Co-founded Cynic in Miami
 - **1991:** Tama Artstar II / Zildjian A-K rig established on Death's Human — the birth of progressive death metal
 - **1993:** Same core carried into Cynic's Focus
 - **1999:** Contributed to Gordian Knot's Emergent during Cynic's hiatus

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-05 19:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-06 00:20 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,88 +8,86 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 456 |
-| Sessions | 526 |
-| Page views | 730 |
-| Engagement rate | 64.26% |
-| Avg session (s) | 119 |
+| Active users | 417 |
+| Sessions | 482 |
+| Page views | 653 |
+| Engagement rate | 63.69% |
+| Avg session (s) | 122 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 28 | 18 |
-| /drummers | 28 | 8 |
-| /quiz | 18 | 4 |
-| /articles/slipknot-self-titled-drum-setup | 17 | 15 |
-| /drummer/eloy-casagrande | 14 | 12 |
-| /drummer/frost | 13 | 6 |
+| / | 27 | 17 |
+| /drummers | 23 | 5 |
+| /articles/slipknot-self-titled-drum-setup | 15 | 13 |
+| /quiz | 15 | 3 |
+| /drummer/eloy-casagrande | 13 | 11 |
 | /articles/black-sabbath-drum-setup | 12 | 9 |
-| /articles/john-otto-drum-setup | 12 | 10 |
 | /drummer/matt-greiner | 12 | 9 |
-| /drummer/jay-weinberg | 10 | 9 |
+| /articles/john-otto-drum-setup | 11 | 9 |
+| /drummer/frost | 10 | 5 |
+| /drummer/jay-weinberg | 9 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 425 | 357 |
-| Direct | 96 | 94 |
-| Referral | 5 | 5 |
-| Unassigned | 4 | 4 |
+| Organic Search | 386 | 323 |
+| Direct | 90 | 88 |
+| Referral | 6 | 6 |
+| Unassigned | 5 | 5 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 203 | 181 |
-| United Kingdom | 39 | 26 |
-| Singapore | 28 | 28 |
-| Germany | 27 | 25 |
-| Canada | 20 | 18 |
+| United States | 185 | 163 |
+| United Kingdom | 33 | 24 |
+| Singapore | 24 | 24 |
+| Germany | 22 | 20 |
+| Canada | 19 | 17 |
 | Sweden | 17 | 13 |
-| Australia | 16 | 13 |
+| Australia | 14 | 11 |
 | Brazil | 14 | 12 |
-| France | 13 | 11 |
+| France | 12 | 10 |
 | Netherlands | 11 | 10 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 16,215 |
-| Clicks | 290 |
-| CTR | 1.79% |
-| Avg position | 8.5 |
+| Impressions | 13,180 |
+| Clicks | 245 |
+| CTR | 1.86% |
+| Avg position | 8.4 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| eloy casagrande slipknot drum kit | 16 | 4 | 25.00% | 5.6 |
+| eloy casagrande slipknot drum kit | 9 | 3 | 33.33% | 5.0 |
 | john otto cymbal setup | 13 | 2 | 15.38% | 5.0 |
 | best drumsticks for metal | 3 | 1 | 33.33% | 7.7 |
-| best metalcore drummers | 5 | 1 | 20.00% | 7.4 |
+| best metalcore drummers | 4 | 1 | 25.00% | 4.0 |
 | best nu metal drummers of all time | 7 | 1 | 14.29% | 3.1 |
 | black sabbath drum kit | 2 | 1 | 50.00% | 4.0 |
-| brann dailor drum kit | 15 | 1 | 6.67% | 8.3 |
-| death metal drum kit | 13 | 1 | 7.69% | 4.0 |
+| brann dailor drum kit | 14 | 1 | 7.14% | 8.1 |
+| death metal drum kit | 12 | 1 | 8.33% | 4.2 |
 | deathcore drum kit | 2 | 1 | 50.00% | 3.5 |
 | details | 1 | 1 | 100.00% | 8.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,616 | 98 | 2.12% | 7.9 |
-| deu | 544 | 21 | 3.86% | 6.9 |
-| pol | 228 | 18 | 7.89% | 5.7 |
-| can | 654 | 14 | 2.14% | 7.9 |
-| gbr | 815 | 13 | 1.60% | 9.0 |
-| bra | 1,874 | 11 | 0.59% | 10.7 |
-| fra | 459 | 9 | 1.96% | 8.1 |
-| tha | 162 | 8 | 4.94% | 7.4 |
-| aus | 545 | 7 | 1.28% | 7.2 |
-| nor | 207 | 7 | 3.38% | 8.0 |
+| usa | 3,843 | 77 | 2.00% | 7.9 |
+| deu | 447 | 18 | 4.03% | 6.7 |
+| pol | 194 | 17 | 8.76% | 5.6 |
+| can | 531 | 13 | 2.45% | 7.6 |
+| gbr | 662 | 12 | 1.81% | 8.8 |
+| bra | 1,523 | 11 | 0.72% | 10.6 |
+| fra | 369 | 8 | 2.17% | 8.4 |
+| tha | 140 | 8 | 5.71% | 7.2 |
+| swe | 191 | 7 | 3.66% | 6.8 |
+| aus | 466 | 6 | 1.29% | 7.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-| Query | Impr | CTR | Pos | Action |
-| --- | --- | --- | --- | --- |
-| eloy casagrande drum kit | 53 | 1.89% | 7.7 | open issue to answer better |
+_no significant gaps detected — all queries with traction have decent CTR_
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

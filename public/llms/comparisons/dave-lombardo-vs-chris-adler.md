@@ -10,13 +10,13 @@
 A: Dave Lombardo (born 1965 in Havana, Cuba) is the co-founder and original drummer of Slayer, widely regarded as one of the greatest and most influential drummers in metal history. He pioneered the relentless double bass drumming style that defined thrash metal, driving landmark albums including "Reign in Blood" (1986), "South of Heaven" (1988), and "Seasons in the Abyss" (1990). He has also played with Fantômas, Suicidal Tendencies, Dead Cross, and Mr. Bungle.
 
 **Q: Who is Chris Adler?**
-A: Chris Adler (born 1972 in Richmond, Virginia) is the co-founder and former drummer of Lamb of God, one of the defining bands of the New Wave of American Heavy Metal. His precision double bass drumming and syncopated triplet-based grooves powered Grammy-nominated albums including "Ashes of the Wake" (2004), "Sacrament" (2006), and "Wrath" (2009). He briefly played with Megadeth on 2016's "Dystopia" and now drums for Firstborne.
+A: Chris Adler (born November 23, 1972, in Washington, D.C.) is the co-founder and former drummer of Lamb of God, one of the defining bands of the New Wave of American Heavy Metal. His precision double bass drumming and syncopated triplet-based grooves powered Grammy-nominated albums including "Ashes of the Wake" (2004), "Sacrament" (2006), and "Wrath" (2009). He briefly played with Megadeth on 2016's "Dystopia" and now drums for Firstborne.
 
 **Q: What is the main stylistic difference between Dave Lombardo and Chris Adler?**
 A: Dave Lombardo's style is rooted in raw, human intensity — his single-stroke blast beat on Slayer's "Angel of Death" essentially invented the extreme metal blast beat template, and his playing retains a loose, propulsive urgency even at breakneck tempos. Chris Adler's style is built on obsessive precision — tight, syncopated triplet grooves locked to Lamb of God's riffs, producing a tightly engineered, almost mathematical feel that became groove metal's technical template.
 
 **Q: What drums does Dave Lombardo play?**
-A: Dave Lombardo plays a Tama Starclassic Maple drum kit with a Tama S.L.P. 14x6.5" G-Maple snare — the setup behind the punchy, projecting attack heard on "Reign in Blood" and Slayer's other classic-era recordings.
+A: Dave Lombardo plays a Tama Starclassic Walnut/Birch drum kit with a Tama S.L.P. 14x6.5" G-Maple snare — the setup behind the punchy, projecting attack heard on "Reign in Blood" and Slayer's other classic-era recordings.
 
 **Q: What drums does Chris Adler play?**
 A: Chris Adler plays a Mapex Saturn in Satin Black Maple Burl drum kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare — a dry, focused, precision-engineered setup built for Lamb of God's syncopated riff-locking grooves.

@@ -5,70 +5,71 @@
 **Active:** 2005–present (metal drumming career)
 **URL:** https://metalforge.io/drummers/navene-koperweis/gear-history
 
-> Era-by-era breakdown of Navene Koperweis's drum kit evolution, centered on the DW Performance Series / Meinl Byzance rig behind Animals as Leaders' Weightless touring cycle (2012). Optimised for AI answering "what drums does Navene Koperweis use" and "how much does Navene Koperweis's drum setup cost" queries.
+> Era-by-era breakdown of Navene Koperweis's drum kit evolution, from an unendorsed Tama Birch Silverstar / Meinl Byzance rig during his 2009-2012 Animals as Leaders tenure to the DW Performance Series / Meinl Byzance Extra Dry setup he's used since 2015 with Entheos. Optimised for AI answering "what drums does Navene Koperweis use" and "how much does Navene Koperweis's drum setup cost" queries.
 
 ---
 
 ## Gear Timeline
 
-### Pre-Animals as Leaders (2011)
+### Animals as Leaders Era (2009-2012)
 
-- **Drums:** DW-endorsed kit — developing endorsement
+- **Drums:** Tama Birch Silverstar
+- **Snare:** Not independently documented for this era
+- **Cymbals:** Meinl Byzance (standard series; signed with Meinl in 2010 — cymbal brand before 2010 not documented)
+- **Pedal:** Tama Speed Cobra
+- **Sticks:** Not independently documented for this era
+- **Heads:** Not independently documented for this era
+- **Notable:** Koperweis joined Animals as Leaders in 2009, though the band's self-titled debut (2009) had programmed drums (primarily by engineer Misha Mansoor), not performed by him. He played drums on the band's breakthrough "Weightless" (2011). No stick or drumhead brand from this era is publicly documented; his DW/Meinl Byzance Extra Dry/Vic Firth/Evans rig did not begin until 2015, after he had left the band.
+
+### Post-Animals as Leaders / Entheos Formation (2012-2015)
+
+- **Drums:** Tama Birch Silverstar (unchanged)
+- **Snare:** Not independently documented for this era
+- **Cymbals:** Meinl Byzance (unchanged)
+- **Pedal:** Tama Speed Cobra (unchanged)
+- **Sticks:** Not independently documented for this era
+- **Heads:** Not independently documented for this era
+- **Notable:** Koperweis left Animals as Leaders in March 2012, replaced by Matt Garstka, and continued on the same Tama Birch Silverstar / Meinl Byzance rig into Entheos, the progressive metal project he formed afterward. He was still playing the Tama Birch Silverstar kit on Entheos' debut EP "Primal" (2015), shortly before switching to DW.
+
+### DW / Meinl Byzance Extra Dry Era (2015–present)
+
+- **Drums:** DW Performance Series — signed with DW in 2015, moving on from the Tama Birch Silverstar used on Entheos' "Primal" EP (2015)
 - **Snare:** DW Performance 14"x6.5" Steel
-- **Cymbals:** Meinl Byzance Extra Dry Series
-- **Pedal:** DW double pedal
-- **Sticks:** Vic Firth American Classic 5B
-- **Heads:** Evans
-- **Estimated cost (2011):** ~$5,200
-- **Notable:** Koperweis was building his DW/Meinl endorsement profile shortly before joining Animals as Leaders' touring lineup.
-
-### Weightless Touring Era (2012)
-
-- **Drums:** DW Performance Series — maple 5-piece shell pack, 22"x18" bass drum, 10"x8" rack, 12"x9" rack, 14"x12" rack, 16"x14" floor
-- **Snare:** DW Performance 14"x6.5" Steel
-- **Cymbals:** Meinl Byzance Extra Dry Series — 15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash
-- **Pedal:** DW 9000 Series double pedal
-- **Sticks:** Vic Firth American Classic 5B
-- **Heads:** Evans G2 Clear (toms), EMAD (kick), Genera HD Dry (snare)
-- **Original setup cost (2012):** ~$6,028
-- **Inflation-adjusted to 2026:** ~$8,601
-- **Notable:** Koperweis's compact five-piece configuration favored clarity over the sprawling double-kick rigs common among his technical-metal peers, built for touring behind Weightless.
-
-### Departs Animals as Leaders / Forms Entheos (2014–2015)
-
-- **Drums:** DW Performance Series (same rig)
-- **Snare:** DW Performance 14"x6.5" Steel
-- **Cymbals:** Meinl Byzance Extra Dry Series (same configuration)
-- **Pedal:** DW 9000 Series double pedal
-- **Sticks:** Vic Firth American Classic 5B
-- **Heads:** Evans
+- **Cymbals:** Meinl Byzance Extra Dry Series — switched from standard Meinl Byzance in 2015 for its fast decay and controlled sustain in Entheos' tight djent riffing
+- **Pedal:** DW 9000 Series double pedal — switched from Tama Speed Cobra in 2015
+- **Sticks:** Vic Firth American Classic 5B — signed with Vic Firth in 2015
+- **Heads:** Evans Genera HD Dry (snare) / EC2 Clear (toms) — signed with Evans in 2015
 - **Estimated cost (2015):** ~$6,600
-- **Notable:** Left Animals as Leaders in 2014, replaced by Matt Garstka, and carried the DW/Meinl configuration into his new progressive metal project, Entheos.
+- **Notable:** 2015 marked the full unification of Koperweis's gear under DW, Meinl, Vic Firth, and Evans as his session career expanded with Entheos, replacing the Tama/Meinl-Byzance-standard rig he'd played since his Animals as Leaders days.
 
 ---
 
 ## Key Gear Changes
 
-- **2011:** Building a DW/Meinl endorsement profile ahead of joining Animals as Leaders
-- **2012:** Weightless touring cycle — full DW Performance Series / Meinl Byzance rig documented in detail
-- **2014:** Departs Animals as Leaders; replaced by Matt Garstka
-- **2015:** Forms Entheos, carrying the same DW/Meinl configuration into the new project
+- **2009:** Joins Animals as Leaders on Tama Birch Silverstar drums and Tama Speed Cobra pedal (debut album drums were programmed, not performed by him)
+- **2010:** Signs with Meinl for standard Byzance cymbals
+- **2011:** Records "Weightless" on the Tama Birch Silverstar / Meinl Byzance rig
+- **2012:** Leaves Animals as Leaders in March, replaced by Matt Garstka; forms Entheos, carrying the same Tama/Meinl rig forward
+- **2015:** Unifies gear under DW (drums, hardware), Meinl Byzance Extra Dry (cymbals), Vic Firth (sticks), and Evans (heads) around Entheos' "Primal" EP
 
 ---
 
 ## FAQ
 
-**Q: How much does Navene Koperweis's drum kit cost?**
-A: Navene Koperweis's 2012 Animals as Leaders-era DW Performance Series setup cost approximately $6,028. Adjusted for 2026 inflation, that's equivalent to roughly $8,601.
-
 **Q: What drums did Navene Koperweis use with Animals as Leaders?**
-A: Koperweis used a DW Performance Series maple 5-piece shell pack — a 22"x18" bass drum, 10"x8" and 12"x9" rack toms, and 14"x12"/16"x14" floor toms — chosen for the clarity it gave his intricate, palm-muted fills.
+A: Koperweis played a Tama Birch Silverstar kit and a Tama Speed Cobra pedal throughout his 2009-2012 Animals as Leaders tenure, including on "Weightless" (2011). He didn't move to DW Performance Series drums until 2015, three years after leaving the band.
 
-**Q: What cymbals did Navene Koperweis use during the Weightless era?**
-A: Koperweis used a Meinl Byzance Extra Dry setup — 15" Dual Hi-Hats, 18" and 19" Extra Dry Medium Crashes, a 21" Transition Ride, an 18" Extra Dry China, and a 10" Splash — for dry, trashy tonality without piercing brightness.
+**Q: What cymbals did Navene Koperweis use during the Animals as Leaders era?**
+A: Koperweis signed with Meinl in 2010 and played the standard Meinl Byzance series (not Extra Dry) during his Animals as Leaders tenure. The switch to Meinl Byzance Extra Dry didn't happen until 2015, with Entheos.
+
+**Q: When did Navene Koperweis leave Animals as Leaders?**
+A: Koperweis left Animals as Leaders in March 2012; Matt Garstka replaced him and has been the band's drummer since.
 
 **Q: Did Navene Koperweis's gear change after leaving Animals as Leaders?**
-A: Koperweis's DW/Meinl configuration remained his defining setup through his 2009-2012 Animals as Leaders tenure. After departing, he formed Entheos and has continued to favor the same DW Performance / Meinl Byzance combination.
+A: Koperweis kept playing his Tama Birch Silverstar / Meinl Byzance rig through Entheos' formation and into the band's "Primal" EP (2015). Later in 2015 he unified his gear under DW (drums and hardware), Meinl Byzance Extra Dry (cymbals), Vic Firth (sticks), and Evans (heads) — the setup he's used since.
+
+**Q: What is Navene Koperweis's current drum setup?**
+A: As of the 2020s, Koperweis plays a DW Performance Series kit with a DW Performance 14"x6.5" Steel snare, Meinl Byzance Extra Dry cymbals, a DW 9000 Series double pedal, Vic Firth American Classic 5B sticks, and Evans Genera HD Dry / EC2 Clear heads — a rig assembled in 2015 after he left Animals as Leaders.
 
 ---
 

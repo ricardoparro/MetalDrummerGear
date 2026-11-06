@@ -16048,3 +16048,48 @@ Pivoted to a vein with much less prior coverage: `public/llms/comparisons/` (26 
 4. Ryan Van Poederooyen cymbal-spec conflict (`endorsementNews.js:3444` vs `extendedBios.js:6865`) still unresolved — needs external source check or founder call, not safe to file blind.
 5. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
 6. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-06 ~14:xx UTC run (bank-capped mode — 8 proposals filed #10368-10375)
+
+### Context
+Bank check at run start: 13 open `seo-proposal` (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 7 from the 07:0x deep run — #10352-10358 — already triaged/promoted to `ai-fix` per CEO's 12:11 decisions-log entry, confirmed via commit `ba64494c`) — effectively **0 untriaged fresh** — well under the 45 cap → filed 8 net-new (full cap). New-page freeze + LLM-first mode still binding — all 8 are existing-file fact fixes in `public/llms/comparisons/`, zero new pages. metrics.md (13:02 UTC) shows GA4 435u/504s/716v 7d, GSC 13,180 impr/245 clicks/1.86% CTR/pos 8.4 — **zero qualifying content-gap rows** this week. Today is Friday — drum-chair weekly sweep not due (next due Monday 11-09, group 2).
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler tokens present (spot-checked against prior runs' audits, unchanged).
+- `/llms/comparisons/`: 26 files total.
+
+### Method — continued the `comparisons/` mirror sweep from the prior run's named candidate list
+Took the exact 7 named candidates from the 07:0x run's "Next run" note (ray-luzier-vs-scott-travis, gene-hoglan-vs-tomas-haake, jaska-raatikainen-vs-matt-greiner, jaska-raatikainen-vs-nicko-mcbrain, mario-duplantier-vs-tomas-haake, dave-lombardo-vs-chris-adler, tomas-haake-vs-blake-richardson), swapped out the 2 with thinner expected yield for 2 more candidates (bill-ward-vs-mario-duplantier, bill-ward-vs-matt-greiner) to round out to 8, and confirmed via `gh issue list --search "<pair> in:title"` that none of the 8 had a dedicated fact-drift fix (only generic page-creation batch issues from months ago, e.g. #2890/#2771/#3632/#2871/#2976/#3186/#2897 — these created the pages, they never verified mirror content against current ground truth). Dispatched 8 parallel verification agents against `endorsementNews.js`/`extendedBios.js`/`drummerEvolution.js`/`cymbalSetups.js`/`bands.js`. **All 8 came back with confirmed fabrications** (100% hit rate this run, vs. the 07:0x run's 6/7) — personally spot-checked the two highest-stakes claims (Bill Ward's 1968-1980/1983-1984/1997-1998/2011-2012 tenure in `drummerEvolution.js:10141`, and the complete absence of "Kilmer" anywhere in `packages/frontend/data/`) directly against source before filing, per the learned-patterns lesson about not trusting agent "CLEAN"/verdict summaries blind.
+
+**Most severe finding this run:** `bill-ward-vs-matt-greiner.md` doesn't just have a wrong model number — it fabricates an entire fictional drum company ("Greiner & Kilmer," founded 2012 with an invented co-founder "Kaleb Kilmer") that has zero grep hits anywhere in ground truth. This is a new fabrication severity class worth flagging for future sweeps: not just wrong attribute values, but invented entities (companies/people) presented as biographical fact.
+
+### Proposals filed this run
+1. #10368 — `comparisons/bill-ward-vs-mario-duplantier.md` fabricates Bill Ward's kit/pedal/sticks/cymbals + wrong tenure years (Mario Duplantier's side verified-clean)
+2. #10369 — `comparisons/bill-ward-vs-matt-greiner.md` fabricates a fictional "Greiner & Kilmer" drum company + wrong gear for both drummers (most severe: invented company/person, not just a wrong model)
+3. #10370 — `comparisons/mario-duplantier-vs-tomas-haake.md` fabricates Mario Duplantier tom sizes (only error in an otherwise-clean file)
+4. #10371 — `comparisons/gene-hoglan-vs-tomas-haake.md` states unverified Hoglan snare model as fact (same hedge-pattern as #10367) + wrong stick model
+5. #10372 — `comparisons/dave-lombardo-vs-chris-adler.md` fabricates Lombardo's kit wood (Maple→verified Walnut/Birch) + wrong Chris Adler birthplace (Richmond VA→verified Washington DC)
+6. #10373 — `comparisons/frost-vs-jaska-raatikainen.md` fabricates Frost's entire gear setup as Sonor (verified: Tama Starclassic Bubinga)
+7. #10374 — `comparisons/ray-luzier-vs-scott-travis.md` states unverified Ray Luzier snare model as fact (same hedge-pattern as #10367/#10371)
+8. #10375 — `comparisons/tomas-haake-vs-blake-richardson.md` fabricates Blake Richardson's cymbals (outdated Meinl Byzance→verified current Sabian) + wrong pedal brand
+
+### Learned-patterns.md updates
+- Flagging for append once a 2nd instance confirms the pattern: "fabrication severity varies — most mirror-file errors are wrong attribute values (brand/model/year), but #10369 (bill-ward-vs-matt-greiner.md) invented an entire fictional drum company with a named co-founder. Treat any invented-entity fabrication (a company, person, award, or event that returns zero grep hits anywhere in `packages/frontend/data/`) as higher-severity than a wrong-value fabrication — it's harder for a future drive-by read to catch since it reads as plausible biographical color rather than an obviously-wrong spec."
+- The unverified-snare hedge pattern (`extendedBios.js` "the specific snare model has not been independently verified") now has 3 instances in one week: Ryan Van Poederooyen (#10367, shipped), Gene Hoglan (#10371, this run), Ray Luzier (#10374, this run). Worth a dedicated grep sweep across all `public/llms/**` for the literal string "Pearl Reference 14" paired with "x6.5\" Brass" / "Brass snare" as a next-run candidate — this exact phrase appears to be a recurring fabricated-specificity pattern distinct to Pearl-endorsed drummers whose actual snare model was never disclosed.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10368-10375 (this run, 8 fresh)
+
+### Next run
+1. Watch #10368-10375 triage/promotion; flag #10369 (bill-ward-vs-matt-greiner) for extra scrutiny given the invented-company severity, and #10371/#10374 for the hedge-pattern consistency with already-shipped #10367.
+2. New candidate: grep all `public/llms/**` for the literal "Pearl Reference 14\"x6.5\" Brass" / "Brass snare" fabricated-specificity phrase (3 confirmed instances this week alone) — likely several more undiscovered.
+3. `comparisons/` mirror coverage: 15 of 26 pairs now checked (13 confirmed fabrication + 2 clean: jaska-raatikainen-vs-mario-duplantier, [none newly clean this run]). 11 remain unswept: art-cruz-vs-jay-weinberg, bill-ward-vs-charlie-benante, frost-vs-daray, frost-vs-hellhammer, frost-vs-inferno, jaska-raatikainen-vs-matt-greiner, jaska-raatikainen-vs-nicko-mcbrain, joey-jordison-vs-jay-weinberg, matt-greiner-vs-matt-halpern, sean-reinert-vs-hannes-grossmann, shannon-larkin-vs-jay-weinberg.
+4. Ryan Van Poederooyen cymbal-spec conflict (`endorsementNews.js:3444` vs `extendedBios.js:6865`) still unresolved — needs external source check or founder call, not safe to file blind.
+5. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
+6. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

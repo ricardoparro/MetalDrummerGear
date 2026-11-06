@@ -94,12 +94,12 @@ Demanufacture (1995) and Obsolete (1998) are the records that defined industrial
 
 ---
 
-## Archetype / Transgression / Departure Era (2002–2009)
+## Archetype / Transgression / Departure Era (2002–2006)
 
 **Albums:** Archetype (2004), Transgression (2005), Arkaea: Years in the Darkness (2009)
-**Tours:** Archetype reunion tour 2004–2005, Demanufacture Anniversary Tour 2005, final Fear Factory dates 2008–2009
+**Tours:** Archetype reunion tour 2004–2005, Demanufacture Anniversary Tour 2005, final Fear Factory dates 2005–2006
 
-After Fear Factory's 2002 split and 2003 reunion, Herrera continued refining the hybrid trigger system through Archetype (2004) and Transgression (2005), while also drumming for Brujeria and co-founding Arkaea with Christian Olde Wolbers in 2008. His departure from Fear Factory in 2009 closed out a nearly two-decade run as the architect of industrial metal's signature drum sound.
+After Fear Factory's 2002 split and 2003 reunion, Herrera continued refining the hybrid trigger system through Archetype (2004) and Transgression (2005). His departure from Fear Factory in 2006 closed out a nearly two-decade run as the architect of industrial metal's signature drum sound; he went on to co-found Arkaea with Christian Olde Wolbers in 2008.
 
 - **Drums:** Tama Starclassic — mechanically precise setup for the "stop-go" double bass technique (continued platform with trigger module integration for the band's post-reunion material)
 - **Snare:** Tama 14"×6.5" Brass, triggered — sharp, industrial crack cutting through the mechanized riffing (continued triggered Tama brass snare setup that had defined Fear Factory's sound since Demanufacture)
@@ -107,15 +107,15 @@ After Fear Factory's 2002 split and 2003 reunion, Herrera continued refining the
 - **Hardware:** DW 5000 Series Double Pedal (continued) — same proven DW 5000 platform that drove his signature double-kick patterns for over a decade
 - **Sticks:** Pro-Mark 5A Oak Nylon Tip (switch — long-running Pro-Mark endorsement maintained across his entire Fear Factory tenure)
 - **Heads:** Attack Drumheads (switch — trigger-optimized head configuration, already suited to clean trigger response)
-- **Electronics:** ddrum / Roland Trigger System (refined) *(upgrade — continued refinement across Archetype and Transgression, plus side work with Brujeria and founding Arkaea)*
+- **Electronics:** ddrum / Roland Trigger System (refined) *(upgrade — continued refinement across Archetype and Transgression)*
 - **Estimated kit cost (original):** ~$11,000
 
 **Key developments:**
 - Fear Factory split (2002) and reunion (2003)
 - Archetype (2004) — acclaimed return-to-form record
 - Transgression (2005) — final studio album of this era
-- Co-founded Arkaea with Christian Olde Wolbers (2008) following another Fear Factory split
-- Departed Fear Factory officially in 2009, closing out his founding-member tenure
+- Departed Fear Factory officially in 2006, closing out his founding-member tenure
+- Co-founded Arkaea with Christian Olde Wolbers (2008) after leaving Fear Factory
 
 > "I gave that band almost twenty years. Every record, we tried to push the machine sound further without losing what made it human in the first place." — *Blabbermouth Interview, 2009*
 
@@ -128,23 +128,23 @@ After Fear Factory's 2002 split and 2003 reunion, Herrera continued refining the
 | Brujeria / Pre-Fear Factory | 1989–1990 | $1,800 | ~$4,500 |
 | Soul of a New Machine Era | 1990–1994 | $4,500 | ~$9,500 |
 | Demanufacture / Obsolete Era | 1995–2001 | $9,500 | ~$18,000 |
-| Archetype / Transgression / Departure | 2002–2009 | $11,000 | ~$16,500 |
+| Archetype / Transgression / Departure | 2002–2006 | $11,000 | ~$16,500 |
 
 ---
 
 ## Gear Brand Partnerships Timeline
 
 - **Pearl Export (drums)** — 1990–1994 (early-career shells before the Tama switch)
-- **Tama Starclassic (drums)** — 1995–2009 (dual-kick triggered platform; the consistent backbone of the hybrid kit from Demanufacture through Transgression)
+- **Tama Starclassic (drums)** — 1995–2006 (dual-kick triggered platform; the consistent backbone of the hybrid kit from Demanufacture through Transgression)
 - **Zildjian A / A Custom (cymbals)** — 1989–~1995 (early career, pre-trigger era)
-- **Zildjian Z Custom (cymbals)** — ~1995–2009 (bright, durable; defined Demanufacture through Transgression)
+- **Zildjian Z Custom (cymbals)** — ~1995–2006 (bright, durable; defined Demanufacture through Transgression)
 - **Pearl Eliminator (hardware)** — 1992–1994 (cam-driven double pedal debut)
-- **DW 5000 Series (hardware)** — 1995–2009 (double pedal driving the machine-gun double-kick patterns throughout his Fear Factory tenure)
-- **ddrum / Roland Triggers (electronics)** — ~1995–2009 (full-kit triggering; the core of the industrial metal hybrid sound)
+- **DW 5000 Series (hardware)** — 1995–2006 (double pedal driving the machine-gun double-kick patterns throughout his Fear Factory tenure)
+- **ddrum / Roland Triggers (electronics)** — ~1995–2006 (full-kit triggering; the core of the industrial metal hybrid sound)
 - **Vater Power 5B (sticks)** — 1989–2001 (consistent heavy hickory choice from Brujeria through the Demanufacture/Obsolete era)
-- **Pro-Mark 5A Oak Nylon Tip (sticks)** — 2002–2009 (switched for the Archetype/Transgression era, maintained through departure)
+- **Pro-Mark 5A Oak Nylon Tip (sticks)** — 2002–2006 (switched for the Archetype/Transgression era, maintained through departure)
 - **Remo (heads)** — 1989–2001 (Ambassador → Pinstripe, optimized for trigger sensor response)
-- **Attack Drumheads (heads)** — 2002–2009 (switched for trigger-optimized response through the Archetype/Transgression era and departure)
+- **Attack Drumheads (heads)** — 2002–2006 (switched for trigger-optimized response through the Archetype/Transgression era and departure)
 
 ---
 
@@ -160,10 +160,10 @@ A: Herrera played Zildjian Z Custom cymbals — bright, machine-hammered B20 bro
 A: Herrera built a full ddrum and Roland trigger system across his kick, snare, and toms to create the "machine-like" precision that defined Fear Factory's industrial metal sound. Producers Ross Robinson (Demanufacture) and Rhys Fulber (Obsolete) used the triggered signals to layer processed, electronic samples over his acoustic playing — fusing human performance with mechanical consistency.
 
 **Q: When did Raymond Herrera leave Fear Factory?**
-A: Raymond Herrera officially departed Fear Factory in 2009, after co-founding the band in 1990 and recording every studio album from Soul of a New Machine (1992) through Transgression (2005). He had also co-founded the side project Arkaea with former Fear Factory guitarist Christian Olde Wolbers in 2008.
+A: Raymond Herrera officially departed Fear Factory in 2006, after co-founding the band in 1990 and recording every studio album from Soul of a New Machine (1992) through Transgression (2005). He later co-founded the side project Arkaea with former Fear Factory guitarist Christian Olde Wolbers in 2008.
 
 **Q: What other bands did Raymond Herrera play in?**
-A: Before and during his time in Fear Factory, Herrera was a founding member of Brujeria (joined 1989). After leaving Fear Factory in 2009, he had already co-founded Arkaea (2008) with Christian Olde Wolbers, releasing the album Years in the Darkness (2009).
+A: Before and during his time in Fear Factory, Herrera was a founding member of Brujeria (joined 1989). After leaving Fear Factory in 2006, he co-founded Arkaea (2008) with Christian Olde Wolbers, releasing the album Years in the Darkness (2009).
 
 **Q: What drummer created Fear Factory's industrial sound?**
 A: Raymond Herrera, Fear Factory's founding drummer, created the band's signature industrial sound by pioneering the fusion of acoustic drumming with electronic drum triggers. His machine-gun double-bass patterns, built on a Tama Starclassic kit with full ddrum/Roland triggering, became the template that countless industrial and groove metal drummers emulated.

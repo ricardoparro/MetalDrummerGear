@@ -15956,3 +15956,49 @@ Then dispatched 6 parallel verification agents against fresh, never-issue-refere
 3. Gear-history mirror coverage map: ~38 of 71 checked across all runs to date (today alone: gavin-harrison, george-kollias, jaska-raatikainen, jimmy-degrasso, jon-dette, kevin-talley, ryan-van-poederooyen confirmed/held, art-cruz clean). ~33 remain unswept. Untried names spotted but not yet checked today: alex-bent(licks-only, gear-history unchecked), alex-rudinger(done), aquiles-priester, arin-ilejay, blake-richardson, brann-dailor, charlie-benante, daniel-erlandsson, danny-carey, dave-lombardo, derek-roddy(human-hold on a different file), eloy-casagrande, flo-mounier(human-hold on a different file), gene-hoglan, hellhammer, inferno, jason-bittner, jay-weinberg, joey-jordison, john-otto, kevin-talley(done), lars-ulrich, mario-duplantier, martin-axenrot, martin-lopez, matt-garstka, matt-greiner, matt-halpern, mike-mangini, mike-portnoy, nick-augusto, nick-menza, nicko-mcbrain, paul-bostaph, paul-mazurkiewicz, ray-luzier(licks-only, gear-history unchecked), raymond-herrera, richard-christy(human-hold on a different file), ryan-van-poederooyen(held), scott-travis, shannon-larkin, vinnie-paul, waltteri-vayrynen.
 4. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
 5. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-06 ~01:10 UTC run (bank-capped mode — 8 proposals filed #10335-10342)
+
+### Context
+Bank check: 14 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 8 fresh #10327-10334 already verified+promoted per CEO's 00:20 decisions-log entry — zero untriaged fresh) — well under the 45 cap → filed 8 net-new (full cap). New-page freeze + LLM-first mode still binding — all 8 are existing-file fact fixes (6 gear-history mirrors + 1 drummerEvolution.js snare hedge), zero new pages; `/llms/**.md` count unchanged at 2,027 files, 71 gear-history mirrors. metrics.md (01:02 UTC) shows **no qualifying content-gap rows** this week; GSC 13,180 impr/245 clicks/1.86% CTR/pos 8.4 (same snapshot as the 00:20 decisions-log pulse). Today is Friday — drum-chair weekly sweep not due (next due Monday 11-09, group 2).
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler tokens confirmed present (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — healthy.
+- `/llms/**.md`: 2,027 files total, 71 gear-history mirrors, unchanged count — freeze respected.
+
+### Method — closed out the held ryan-van-poederooyen lead, then continued the gear-history coverage-map sweep with a precision dedup fix
+Prior run's note flagged `ryan-van-poederooyen.md` as needing `endorsementNews.js` reconciliation before it could be filed safely. Dispatched an agent to investigate first — it found the prior framing was partly wrong: `drummerEvolution.js` carries no specific cymbal sizes at all (so there's no 3-way conflict), but it DOES carry the exact same fabricated snare model ("Pearl Reference 14"x6.5" Brass") that issues #8594/#9664 already hedged to "not independently verified" in `extendedBios.js`/`drummerComparisons.js` — a third, missed location. The cymbal-spec discrepancy between `endorsementNews.js` and `extendedBios.js` is real but is a genuine ground-truth-vs-ground-truth conflict with no verified winner — correctly scoped OUT of the fix and left as a founder-judgment item (not filed).
+
+For the remaining 6 gear-history mirror candidates, re-did the dedup search properly this time: the prior run's "~33 remain unswept" list was partly stale — searching `gear-history/<name>.md` (not just `<name>`) showed most of those names already had dedicated fix issues (jason-bittner, waltteri-vayrynen, nicko-mcbrain, danny-carey, scott-travis, hellhammer, etc. all already fixed). Narrowed to 6 genuinely-unswept candidates (john-otto, aquiles-priester, nick-augusto, matt-greiner, matt-halpern, inferno) + arin-ilejay + brann-dailor, dispatched 9 parallel verification agents total. 7 of 9 came back FABRICATION CONFIRMED, 1 (arin-ilejay) came back genuinely CLEAN (#10096 already fixed it).
+
+**Important catch — personally re-verified every citation and found the brann-dailor agent's verdict was wrong.** The agent reported `gear-history/brann-dailor.md` as "CLEAN" (brands correct, just a 1999-vs-2000 year drift). Reading the actual file directly showed this was false: the mirror fabricates an entire Mapex→Gretsch→Zildjian→Vic-Firth-signature gear lineage, the exact same pattern issue #9156 already fixed in the SIBLING `evolution.md` mirror (verified correct: Tama/Meinl/Vater/Evans) — #9156 never touched this file. The agent likely pattern-matched on the drummer's genre/reputation rather than diffing the actual mirror text against the actual ground-truth text. Filed as #10340, the largest-scope fix of the 8.
+
+### Proposals filed this run
+1. #10335 — `gear-history/john-otto.md` fabricates a Sonor/Paiste 1999-2000 era (5 locations) — verified continuous OCDP/Zildjian since 1999; mirror sync gap from already-closed #5818
+2. #10336 — `gear-history/aquiles-priester.md` wholesale-fabricates Pearl/Sabian-AAX/Evans + wrong Angra/W.A.S.P. tenure dates — verified Mapex/Sabian HHX/Axis/Vic-Firth-Signature/Remo, Angra 2001-2008, W.A.S.P. 2017-present
+3. #10337 — `gear-history/nick-augusto.md` wrong Trivium join year (2009→2010) + fabricated Pearl pedal/Vic Firth sticks — verified DW 9000/Pro-Mark Nylon Tip 5B
+4. #10338 — `gear-history/matt-greiner.md` omits verified 2016 Mapex/Paiste/DW switch, fabricates nonexistent 2023 "Pearl Masterworks Custom" era
+5. #10339 — `gear-history/matt-halpern.md` wholesale-fabricates DW/Mapex Saturn rig — verified continuous Pearl Reference Series since 2015
+6. #10340 — `gear-history/brann-dailor.md` wholesale-fabricates Mapex/Gretsch/Zildjian/Vic-Firth rig — verified continuous Tama/Meinl/Vater since 2000 (sibling evolution.md already fixed by #9156, this mirror never swept; caught a false-CLEAN verification-agent report, see learned-patterns)
+7. #10341 — `gear-history/inferno.md` wholesale-fabricates Sonor/Pearl-Custom/Meinl rig + wrong 1994 join year — verified Pearl Reference Series/Paiste RUDE/Czarcie Kopyto since 1997
+8. #10342 — `drummerEvolution.js:19682` + evolution.md mirror carry a fabricated Van Poederooyen snare model already hedged in 2 sibling files by #8594/#9664 — scoped explicitly away from the unresolved cymbal-spec conflict
+
+### Learned-patterns.md updates
+- Appending: "A subagent's 'CLEAN' verdict is not self-verifying — one verification agent this run (brann-dailor.md) reported a file as clean with only a minor year-drift when the actual file content, read directly, showed a pervasive whole-file brand fabrication matching an already-fixed sibling-file pattern (#9156). The agent's summary was plausible (genre-appropriate brand names, confident tone) but did not match the text. Always personally read the actual mirror file content for at least a sample of 'CLEAN' verdicts before trusting them, not just the FABRICATION CONFIRMED ones — a false negative here would have let a major fabrication sit unflagged indefinitely, which is worse than a wasted proposal slot from a false positive."
+- Appending: "When dedup-searching for unswept mirror candidates, search the exact path (`gear-history/<name>.md`) not just the drummer's name/slug — a bare-name search returns false hits from unrelated batch-creation issues and inflates the apparent 'unswept' count. This run's prior 'next run' list of ~33 unswept names was mostly already-fixed once searched precisely; only 6 of ~30 candidates were genuinely unswept."
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10335-10342 (this run, 8 fresh)
+
+### Next run
+1. Watch #10335-10342 triage/promotion; flag #10340 (Brann Dailor) for extra scrutiny given the verification-agent miss this run — worth a second human-adjacent spot check before Roadie implements, even though I personally re-verified it against ground truth.
+2. Ryan Van Poederooyen cymbal-spec conflict (`endorsementNews.js:3444` vs `extendedBios.js:6865`) remains unresolved — genuine ground-truth-vs-ground-truth disagreement, needs an external source check (Sabian/Pearl artist page) or founder call, not safe to file blind. Flagging again for a future run or human decision.
+3. Gear-history mirror coverage map: ~44 of 71 checked across all runs to date (today: john-otto, aquiles-priester, nick-augusto, matt-greiner, matt-halpern, inferno, brann-dailor confirmed, arin-ilejay clean). ~27 remain unswept, but re-verify each via the exact-path search method (see learned-patterns) before assuming unswept — the stale name-only search inflated this count before.
+4. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
+5. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

@@ -22,7 +22,7 @@ A: Scott Travis has been Judas Priest's drummer since 1989. He has recorded ever
 A: Ray Luzier fuses technical precision with groove-heavy playing suited to Korn's syncopated, hip-hop-influenced rhythms, drawing on jazz and funk influences like Vinnie Colaiuta and Dennis Chambers. Scott Travis is defined by relentless, machine-like double bass technique — his "Painkiller" performance set a new standard for speed married to groove and dynamics, drawing on drum corps rudiments and influences like Neil Peart and Dave Lombardo.
 
 **Q: What drums does Ray Luzier play?**
-A: Ray Luzier plays a Pearl Reference Series kit with a Pearl Reference 14"x6.5" Brass snare, powered by a DW 9002 double pedal and Pearl D-2000 Roadster Throne.
+A: Ray Luzier plays a Pearl Reference Series kit; the specific snare model has not been independently verified, powered by a DW 9002 double pedal and Pearl D-2000 Roadster Throne.
 
 **Q: What drums does Scott Travis play?**
 A: Scott Travis plays a ddrum Dominion Series kit with a ddrum Scott Travis Signature 14"x6.5" snare, driven by a DW 9000 Series double pedal mounted in a Gibraltar Rack System.

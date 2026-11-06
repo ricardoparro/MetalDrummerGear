@@ -19,7 +19,7 @@ A: Mario combines tribal rhythms with technical death metal, bringing organic po
 A: Mario Duplantier's technique relies on raw power and stamina, layering explosive fills over Gojira's crushing, tribal-influenced grooves. Tomas Haake's technique is built on near-metronomic precision, executing Meshuggah's odd-metered polyrhythms with a mechanical consistency that has become the technical benchmark for djent drumming.
 
 **Q: What drums does Mario Duplantier play?**
-A: Mario Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums — forgoing a double pedal for a more organic feel — 12"x9" and 13"x10" toms, and a 16"x16" floor tom. His snare is a Tama S.L.P. 14"x6.5" G-Maple, and he uses a Tama Iron Cobra 900 Power Glide double pedal along with his own Tama Mario Duplantier Signature sticks.
+A: Mario Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums — forgoing a double pedal for a more organic feel — and 10", 12", 13", 16", and 18" toms. His snare is a Tama S.L.P. 14"x6.5" G-Maple, and he uses a Tama Iron Cobra 900 Power Glide double pedal along with his own Tama Mario Duplantier Signature sticks.
 
 **Q: What drums does Tomas Haake play?**
 A: Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a massive 24"x18" bass drum, 10", 12", 13", 16", and 18" toms, and dual Sonor Tomas Haake Signature snares (14"x6.5"). Notably, Haake uses two independent Tama Speed Cobra single pedals rather than a double pedal, prioritizing foot independence over a linked double-kick mechanism.

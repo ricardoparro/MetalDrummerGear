@@ -48,7 +48,7 @@ Devin Townsend recruited Van Poederooyen in 2002 on the recommendation of longti
 A: After the Devin Townsend Band dissolved in 2007, Van Poederooyen spent two years on side projects — including his own Terror Syndrome and progressive rock outfit Ten Ways from Sunday — before rejoining Townsend in 2009 for the newly formed Devin Townsend Project. Over the next decade he recorded five studio albums, establishing the Pearl Reference Series / Sabian HHX & AAX rig that defined the project's sound before DTP entered an indefinite hiatus in 2018.
 
 - **Drums:** Pearl Reference Series — multi-ply shell pack for powerful low end and quick rebound
-- **Snare:** Pearl Reference 14"x6.5" Brass
+- **Snare:** Pearl snare; the specific model has not been independently verified
 - **Cymbals:** Sabian HHX & AAX Series — 14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-3000 Throne
 - **Sticks:** Vic Firth American Classic 5B
@@ -72,7 +72,7 @@ A: After the Devin Townsend Band dissolved in 2007, Van Poederooyen spent two ye
 A: Since Devin Townsend Project's 2018 hiatus announcement, Van Poederooyen has continued as a session drummer and drum instructor in the Montreal area, carrying his Pearl Reference Series / Sabian HHX & AAX rig — verified current as of February 2026 via Pearl and Sabian's own artist pages — into ongoing session and teaching work while remaining available for future Devin Townsend collaborations.
 
 - **Drums:** Pearl Reference Series *(unchanged)*
-- **Snare:** Pearl Reference 14"x6.5" Brass *(unchanged)*
+- **Snare:** Pearl snare; the specific model has not been independently verified *(unchanged)*
 - **Cymbals:** Sabian HHX & AAX Series *(unchanged)*
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-3000 Throne *(unchanged)*
 - **Sticks:** Vic Firth American Classic 5B *(unchanged)*
@@ -109,7 +109,7 @@ A: Since Devin Townsend Project's 2018 hiatus announcement, Van Poederooyen has 
 ## FAQ
 
 **Q: What drum kit does Ryan Van Poederooyen play?**
-A: Ryan Van Poederooyen plays a Pearl Reference Series kit with a Pearl Reference 14"x6.5" Brass snare, Sabian HHX & AAX cymbals, and a Pearl Demon Drive double pedal — a rig established during the Devin Townsend Project years and verified current as of February 2026.
+A: Ryan Van Poederooyen plays a Pearl Reference Series kit with a Pearl snare (the specific model has not been independently verified), Sabian HHX & AAX cymbals, and a Pearl Demon Drive double pedal — a rig established during the Devin Townsend Project years and verified current as of February 2026.
 
 **Q: How did Ryan Van Poederooyen join Devin Townsend's band?**
 A: Devin Townsend recruited Van Poederooyen in 2002 on the recommendation of longtime drummer Gene Hoglan, who had seen him perform with his own experimental group God Awakens Petrified.

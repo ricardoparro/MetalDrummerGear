@@ -19562,8 +19562,8 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'Pearl Reference 14"x6.5" Brass',
-            details: 'Brass shell, bright and cutting',
+            item: 'Pearl snare (specific model not independently verified)',
+            details: 'Specific model not independently verified',
             notes: 'Delivered the crack needed to navigate Townsend\'s genre-defying arrangements.',
             change: CHANGE_TYPES.NEW,
           },
@@ -19628,7 +19628,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           snare: {
-            item: 'Pearl Reference 14"x6.5" Brass',
+            item: 'Pearl snare (specific model not independently verified)',
             details: 'Unchanged',
             notes: 'No change from the Devin Townsend Project era.',
             change: null,
@@ -19679,7 +19679,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Ryan Van Poederooyen play?',
-        a: 'Ryan Van Poederooyen plays a Pearl Reference Series kit with a Pearl Reference 14"x6.5" Brass snare, Sabian HHX & AAX cymbals, and a Pearl Demon Drive double pedal — a rig established during the Devin Townsend Project years and verified current as of February 2026.',
+        a: 'Ryan Van Poederooyen plays a Pearl Reference Series kit with a Pearl snare (the specific model has not been independently verified), Sabian HHX & AAX cymbals, and a Pearl Demon Drive double pedal — a rig established during the Devin Townsend Project years and verified current as of February 2026.',
       },
       {
         q: 'How did Ryan Van Poederooyen join Devin Townsend\'s band?',

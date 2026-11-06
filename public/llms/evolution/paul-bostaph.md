@@ -10,7 +10,7 @@ last_updated: "2026-07-02"
 
 # Paul Bostaph Drum Kit Evolution — Complete Timeline
 
-Paul Bostaph is Slayer's longest-serving drummer by total years, filling Dave Lombardo's chair across two separate tenures (1992–2001, 2013–2019) and recording four studio albums. Between and around those Slayer stints he built a parallel Bay Area thrash career with Forbidden, Testament, and Exodus. This timeline documents his complete gear evolution from an early Tama/Paiste Slayer rig through a mid-career DW-to-Tama switch on Diabolus in Musica and God Hates Us All, a Pacific Drums interim during his Exodus/Testament years, and a Pearl/Sabian return-era rig on Repentless — into his current ddrum-based setup.
+Paul Bostaph is Slayer's longest-serving drummer by total years, filling Dave Lombardo's chair across two separate tenures (1992–2001, 2013–2019) and recording four studio albums. Between and around those Slayer stints he built a parallel Bay Area thrash career with Forbidden, Testament, and Exodus. This timeline documents his complete gear evolution from an early Tama/Paiste Slayer rig through a mid-career DW-to-Tama switch on Diabolus in Musica and God Hates Us All, a Pacific Drums interim during his Exodus/Testament years, and a Pearl/Sabian/Vater return-era rig on Repentless that has carried through to his current setup.
 
 See also: [Paul Bostaph drum setup guide](/llms/guides/how-to-sound-like-paul-bostaph.md)
 
@@ -93,24 +93,23 @@ With Dave Lombardo back in Slayer's chair, Bostaph spent the 2000s across the Ba
 ## Slayer Return, Repentless & Present (2013–Present)
 
 **Albums:** Slayer – Repentless (2015)
-**Tours:** Slayer Final World Tour 2018–2019, Testament Touring 2024–Present
+**Tours:** Slayer Final World Tour 2018–2019
 
-Bostaph rejoined Slayer in 2013 after Dave Lombardo's second and final departure, recording Repentless (2015) — Slayer's twelfth and final studio album — on a Pearl Masters Maple Complete kit with Sabian AAX cymbals. He played every date of Slayer's Final World Tour, including the band's last-ever show at the Forum in Los Angeles in 2019, before moving into session and touring work on a modern ddrum-based setup and rejoining Testament in 2024.
+Bostaph rejoined Slayer in 2013 after Dave Lombardo's second and final departure, recording Repentless (2015) — Slayer's twelfth and final studio album — on a Pearl Masters Maple Complete kit with Sabian AAX cymbals. He played every date of Slayer's Final World Tour, including the band's last-ever show at the Forum in Los Angeles in 2019, continuing with the same Pearl/Sabian/Vater rig into his subsequent session and touring work.
 
 - **Drums:** Pearl Masters Maple Complete (MCX) — all-maple, SST tom suspension, double 22"x18" kicks *(switch — a step away from the Tama and DW shells of earlier chapters)*
 - **Snare:** Pearl Masters Steel 14"x6.5" *(switch)*
-- **Cymbals:** Sabian AAX Series (Repentless) → Zildjian A Custom (current) *(switch — first new cymbal brand since God Hates Us All, then a later move to Zildjian)*
-- **Hardware:** ddrum Mercury Double Pedal — current touring pedal *(switch)*
-- **Sticks:** Vic Firth American Classic 5B *(switch after decades on Pro-Mark)*
-- **Heads:** Evans drumheads — current setup *(switch from a career-long Remo setup)*
+- **Cymbals:** Sabian AAX Series — since 2015, carried through his current setup *(switch — first new cymbal brand since God Hates Us All)*
+- **Hardware:** Pearl Eliminator Double Pedal — since 2015 *(switch)*
+- **Sticks:** Vater Power 5B *(switch after decades on Pro-Mark)*
+- **Heads:** Remo Emperor / Ambassador (unchanged)
 - **Estimated kit cost (original):** ~$4,500
 
 **Key developments:**
 - Rejoined Slayer in 2013 after Dave Lombardo's second departure
 - Repentless (2015) debuted at #4 on the Billboard 200 — Slayer's highest US chart position ever
 - Played Slayer's final-ever show at the Forum, Los Angeles, on November 30, 2019
-- Current setup built around a ddrum Paladin Series kit, Zildjian A Custom cymbals, and Vic Firth American Classic 5B sticks
-- Rejoined Testament in 2024
+- Current setup (since 2015) continues the Pearl Masters Maple Complete kit, Sabian AAX cymbals, and Vater Power 5B sticks from Repentless
 
 > "Playing that last show at the Forum, I understood what those songs had meant to three decades of people who'd never see them played live again." — *Rolling Stone Interview, 2019*
 
@@ -132,10 +131,9 @@ Bostaph rejoined Slayer in 2013 after Dave Lombardo's second and final departure
 - **Tama Starclassic Maple** — 1992–1996 and 2001 (bookends of his first Slayer tenure, split by the 1998 DW detour)
 - **DW Collector's Series** — 1998 (Diabolus in Musica), 2005–2012 (DW Edge snare and 5000 pedal carried through Exodus/Testament)
 - **Pacific Drums LX Maple** — 2008 (Testament's Formation of Damnation)
-- **Pearl Masters Maple Complete** — 2013–2019 (Slayer's return-era Repentless and Final World Tour)
-- **ddrum Paladin Series** — 2019–present (current touring and session rig)
+- **Pearl Masters Maple Complete** — 2015–present (Repentless-era kit, carried through his current session and touring setup)
 - **Paiste 2002 / Signature / RUDE** — 1992–1996, 2001, and 2005–2012 (Slayer's signature cymbal sound, interrupted only by the 1998 Zildjian detour)
-- **Sabian AAX → Zildjian A Custom** — 2013–present (Repentless-era Sabian, later a move to Zildjian for his current setup)
+- **Sabian AAX** — 2015–present (Repentless-era cymbal brand, continuing through his current setup)
 - **Tama Iron Cobra double pedal** — 1994–2001 (his entire first Slayer tenure)
 
 ---
@@ -152,10 +150,10 @@ A: Yes — Paul Bostaph is Slayer's longest-serving drummer by total years, fill
 A: On Repentless (2015), Slayer's twelfth and final studio album, Paul Bostaph played a Pearl Masters Maple Complete kit with a Pearl Masters steel snare and Sabian AAX cymbals, recorded with producer Terry Date at Henson Recording Studios in Los Angeles.
 
 **Q: What bands has Paul Bostaph played in besides Slayer?**
-A: Beyond Slayer, Paul Bostaph has played with Forbidden (1987–1989), Testament (1999–2001 and 2024–present), and Exodus (2005–2007), recording Testament's The Formation of Damnation (2008) on a Pacific Drums LX Maple kit.
+A: Beyond Slayer, Paul Bostaph has played with Forbidden (1987–1989), Testament (1992–1993, 2004 touring, 2007–2011), and Exodus (2005–2007), recording Testament's The Formation of Damnation (2008) on a Pacific Drums LX Maple kit.
 
 **Q: What is Paul Bostaph's current drum setup?**
-A: Paul Bostaph's current setup is built around a ddrum Paladin Series kit with a ddrum Paladin 14"x6.5" maple snare, Zildjian A Custom cymbals, a ddrum Mercury double pedal, and Vic Firth American Classic 5B sticks.
+A: Paul Bostaph's current setup (since 2015) is built around a Pearl Masters Maple Complete (MCX) kit with a Pearl Masters Steel snare, Sabian AAX cymbals, a Pearl Eliminator double pedal, and Vater Power 5B sticks.
 
 ---
 

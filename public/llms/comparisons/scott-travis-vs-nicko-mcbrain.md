@@ -28,7 +28,7 @@ A: No. Nicko McBrain has never used a double bass pedal throughout his entire Ir
 A: Scott Travis plays a ddrum Dominion Series kit with a ddrum Scott Travis Signature 14"x6.5" snare.
 
 **Q: What drums does Nicko McBrain play?**
-A: Nicko McBrain plays a Sonor SQ2 Series kit with a Sonor Nicko McBrain Signature 14"x6.5" snare.
+A: Nicko McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature 14"x6.5" snare.
 
 **Q: What cymbals do Scott Travis and Nicko McBrain use?**
 A: Scott Travis uses Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China). Nicko McBrain uses Paiste 2002 & Signature Series cymbals (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China).

@@ -10,7 +10,7 @@
 A: Mario Duplantier (born 1981 in Bayonne, France) co-founded progressive death metal band Gojira with his brother Joe Duplantier in 1996, building a tribal style that combines crushing double bass with complex rhythmic structures across albums like "From Mars to Sirius" (2005) and "Magma" (2016).
 
 **Q: Who is Hellhammer?**
-A: Hellhammer (Jan Axel Blomberg, born 1969) is a Norwegian drummer best known for joining black metal pioneers Mayhem in 1988, delivering the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured. Beyond Mayhem, he has also played with Arcturus since 1991, and previously with Dimmu Borgir (2005–2010) and Shining.
+A: Hellhammer (Jan Axel Blomberg, born 1969) is a Norwegian drummer best known for joining black metal pioneers Mayhem in 1988, delivering the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994) — the recording against which every subsequent black metal drum performance is measured. Beyond Mayhem, he has also played with Arcturus since 1991, and previously with Dimmu Borgir (1999–2013) and Shining.
 
 **Q: What is the main stylistic difference between Mario Duplantier and Hellhammer?**
 A: Duplantier forgoes a double pedal in favor of dual bass drums for a more organic feel, layering tribal, almost ritualistic polyrhythms beneath Gojira's environmentally-themed death metal. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds.

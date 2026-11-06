@@ -71,15 +71,14 @@
 - **Inflation-adjusted to 2026:** ~$12,900
 - **Notable:** ABR expanded their setlists with Christmas and ambient-themed albums alongside their standard metalcore catalog, placing broader tonal demands on Greiner's setup. The addition of Byzance Extra Dry cymbals introduced darker, drier textures to his cymbal palette.
 
-### Death Below Era (2023)
+### 2016 Switch Era — Mapex/Paiste/DW (2016–present)
 
-- **Drums:** Pearl Masterworks Custom — Pearl's custom shop series, hand-matched shells
-- **Snare:** Pearl Free-Floating Brass 14"×6.5"
-- **Cymbals:** Meinl Byzance — mixed Dark and Traditional series
-- **Pedal:** Pearl Demon Drive double pedal
-- **Sticks:** Vic Firth Matt Greiner Signature (if available) or standard 5B
-- **Heads:** Evans EC2S (toms), EMAD2 (kick)
-- **Notable:** ABR's career-peak commercial phase. Greiner's setup has evolved toward Pearl's custom shop offerings for live touring, with consistent Meinl Byzance endorsement across the full professional range.
+- **Drums:** Mapex Black Panther Design Lab
+- **Cymbals:** Paiste Formula 602
+- **Pedal:** DW 9000 Series Double Pedal
+- **Sticks:** Vic Firth Matt Greiner Signature (signature model since 2017)
+- **Heads:** Evans G2 (toms), EMAD2 (kick)
+- **Notable:** Greiner's biggest gear change: in 2016 he left Pearl and Meinl entirely for Mapex's Black Panther Design Lab kit, Paiste's Formula 602 cymbals, and DW's 9000 Series Double Pedal, also signing with Evans for G2/EMAD2 heads. This setup carried through ABR's *Death Below* (2023) and remains his current configuration.
 
 ---
 
@@ -91,23 +90,24 @@
 - **2011:** Pearl Reference flagship — Leveler era represents the documented peak of Greiner's professional configuration
 - **2011:** Pearl Demon Drive replaces Eliminator — cam-driven mechanism preferred for complex double bass work
 - **2015:** Byzance Extra Dry cymbals added for tonal variety across ABR's expanding catalog
-- **2023:** Pearl Masterworks Custom — moved to Pearl's custom shop for hand-matched touring shells
+- **2016:** Switched from Pearl/Meinl to Mapex Black Panther Design Lab drums, Paiste Formula 602 cymbals, DW 9000 Series Double Pedal, and Evans G2/EMAD2 heads
+- **2017:** Vic Firth released the Matt Greiner Signature drumstick model
 
 ---
 
 ## FAQ
 
 **Q: What drum kit does Matt Greiner use?**  
-A: Matt Greiner plays Pearl drums with Meinl Byzance cymbals. His current touring setup features Pearl Masterworks Custom shells, Pearl Demon Drive double pedals, and a mixed Meinl Byzance cymbal configuration. His Leveler-era Pearl Reference setup (2011) is his most documented professional configuration.
+A: Since 2016, Matt Greiner plays a Mapex Black Panther Design Lab kit with Paiste Formula 602 cymbals and a DW 9000 Series Double Pedal, having switched away from his earlier Pearl/Meinl setup. His Leveler-era Pearl Reference setup (2011) was his most documented pre-switch professional configuration.
 
 **Q: What drums did Matt Greiner use on Leveler?**  
 A: For the Leveler sessions (2011), Matt used a Pearl Reference 5-piece shell pack with Meinl Byzance Traditional cymbals and a Pearl Demon Drive double pedal. The complete setup cost approximately $8,632 in 2011 dollars, equivalent to around $12,600 adjusted for 2026 inflation.
 
 **Q: What cymbals does Matt Greiner use?**  
-A: Matt Greiner has used Meinl Byzance cymbals since at least the Constellations era (2009). His standard configuration includes Byzance Traditional hi-hats, crashes, and ride, with Byzance Extra Dry or Dark additions for textural variety.
+A: Matt Greiner has played Paiste Formula 602 cymbals since 2016, when he switched from his earlier Meinl Byzance endorsement (used since the Constellations era, 2009) as part of his broader move away from Pearl/Meinl.
 
 **Q: What pedal does Matt Greiner use?**  
-A: Matt Greiner uses the Pearl Demon Drive double pedal. He transitioned to the cam-driven Demon Drive from the Pearl Eliminator around the time of the Leveler sessions (2011), citing the more direct, responsive feel of the cam-drive mechanism for ABR's technically demanding double bass work.
+A: Matt Greiner uses the DW 9000 Series Double Pedal, adopted in 2016 alongside his switch to the Mapex Black Panther Design Lab kit. Before that, he used the cam-driven Pearl Demon Drive, adopted around the Leveler sessions (2011) in place of the Pearl Eliminator.
 
 **Q: How much did Matt Greiner's Leveler setup cost in today's money?**  
 A: Matt Greiner's 2011 Leveler-era Pearl Reference setup cost approximately $8,632 at the time. Adjusted for CPI inflation to 2026, that is equivalent to approximately $12,600.

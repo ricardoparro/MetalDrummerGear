@@ -46,11 +46,11 @@ The founding era. Cannibal Corpse formed in Buffalo, New York in 1988 and built 
 **Albums:** The Bleeding (1994), Vile (1996), Gallery of Suicide (1998), Bloodthirst (1999)
 **Tours:** The Bleeding US Tour; European festival circuit
 
-Cannibal Corpse's profile grew with each release. The Bleeding marked both the end of the Chris Barnes era and the beginning of a major step up in equipment quality. Paul's first professional Pearl endorsement arrived, and the switch to Sabian cymbals established a partnership that has lasted decades.
+Cannibal Corpse's profile grew with each release. The Bleeding marked both the end of the Chris Barnes era and the beginning of a major step up in equipment quality. Paul's first professional Pearl endorsement arrived, and the switch to Meinl cymbals established a partnership that has lasted decades.
 
 - **Drums:** Pearl Masters Professional — maple shells: 22" kick, 10"/12"/13"/16" toms *(upgrade — first real endorsement, maple warmth replaces poplar)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(switch — Free-Floating system for sharper, more explosive crack)*
-- **Cymbals:** Sabian AAX — 14" hi-hats, 17"/18" crashes, 21" ride, 18" China *(switch — brighter, more cutting AAX character for death metal mix)*
+- **Cymbals:** Meinl Classics Custom — 14" hi-hats, 17"/18" crashes, 21" ride, 18" China *(switch — brighter, more cutting Classics Custom character for death metal mix)*
 - **Hardware:** Pearl Eliminator Double Pedal *(upgrade — better speed and consistency)*
 - **Sticks:** Vic Firth 5B hickory (continued)
 - **Heads:** Remo Emperor double-ply on toms *(upgrade — durability for aggressive touring)*
@@ -59,7 +59,7 @@ Cannibal Corpse's profile grew with each release. The Bleeding marked both the e
 **Key developments:**
 - Pearl Masters Professional endorsement begins — major gear quality leap
 - Pearl Free-Floating snare system adopted — signature snare tone established
-- Sabian AAX cymbal endorsement replaces Paiste — 25+ year partnership begins
+- Meinl Classics Custom cymbal endorsement replaces Paiste — 30+ year partnership begins
 - George "Corpsegrinder" Fisher joins as vocalist (1995) — international profile increases
 - *Gallery of Suicide* (1998) — most technically demanding recording to that point
 
@@ -76,7 +76,7 @@ The most critically celebrated era of Paul's career. *Kill* is widely regarded a
 
 - **Drums:** Pearl Reference Series — maple/birch hybrid: 22" kick, 10"/12"/14"/16" toms *(upgrade — hybrid construction delivers attack from birch + warmth from maple)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(continued — definitive CC snare sound)*
-- **Cymbals:** Sabian AAX — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18"/20" Chinas *(upgrade — expanded with larger China for heavier accent work)*
+- **Cymbals:** Meinl Classics Custom — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18"/20" Chinas *(upgrade — expanded with larger China for heavier accent work)*
 - **Hardware:** Pearl Demon Drive Double Pedal *(upgrade — direct drive for maximum blast beat speed and consistency)*
 - **Sticks:** Vic Firth 5B hickory (continued — extremely high consumption on tour)
 - **Heads:** Evans G2 on toms, EMAD on kick *(switch — Evans for durability; EMAD for focused kick attack)*
@@ -103,7 +103,7 @@ Paul's most refined era. After 35+ years, Cannibal Corpse continues releasing al
 
 - **Drums:** Pearl Reference Series (current) — maple/birch hybrid: 22"×18" kick, 10"/12"/14"/16" toms *(continued — stable, proven for 15+ years)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(continued — unchanged snare philosophy across entire modern era)*
-- **Cymbals:** Sabian AAX — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 20" China *(continued — 25+ year Sabian AAX partnership)*
+- **Cymbals:** Meinl Classics Custom / Byzance — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 20" China *(continued — 30+ year Meinl partnership)*
 - **Hardware:** Pearl Demon Drive Double Pedal *(continued — longest pedal partnership of career)*
 - **Sticks:** Vic Firth Paul Mazurkiewicz Signature *(signature — first signature stick model)*
 - **Heads:** Evans G2/EMAD2 on toms and kicks, UV1 on snare batter *(upgrade — EMAD2 for tighter kick, UV1 for better ghost note definition)*
@@ -138,7 +138,7 @@ Paul's most refined era. After 35+ years, Cannibal Corpse continues releasing al
 - **Pearl Masters Professional** — 1993–1999 (first endorsement upgrade)
 - **Pearl Reference Series** — 2000–present (current flagship kit — 25+ year Pearl relationship)
 - **Paiste 2002** — 1988–1992 (founding cymbal choice)
-- **Sabian AAX** — 1993–present (30+ year cymbal partnership)
+- **Meinl Classics Custom / Byzance** — 1993–present (30+ year cymbal partnership)
 - **Pearl Eliminator** — 1993–early 2000s (first professional pedal)
 - **Pearl Demon Drive** — early 2000s–present (direct drive — longest pedal partnership)
 - **Vic Firth Paul Mazurkiewicz Signature** — 2010s–present
@@ -148,7 +148,7 @@ Paul's most refined era. After 35+ years, Cannibal Corpse continues releasing al
 ## FAQ
 
 **Q: What drum kit did Paul Mazurkiewicz use on Kill?**
-A: Paul recorded *Kill* (2006) with a Pearl Reference Series kit featuring maple/birch hybrid shells — 22" kick drum with 10", 12", 14", and 16" toms. The snare was a Pearl Free-Floating Steel 14"×6.5". Cymbals were Sabian AAX, and he used the Pearl Demon Drive direct drive double pedal.
+A: Paul recorded *Kill* (2006) with a Pearl Reference Series kit featuring maple/birch hybrid shells — 22" kick drum with 10", 12", 14", and 16" toms. The snare was a Pearl Free-Floating Steel 14"×6.5". Cymbals were Meinl Classics Custom, and he used the Pearl Demon Drive direct drive double pedal.
 
 **Q: What drum kit did Paul Mazurkiewicz use on Eaten Back to Life?**
 A: For *Eaten Back to Life* (1990) and Cannibal Corpse's earliest recordings, Paul played a Pearl Export — an affordable poplar shell budget kit with a 22" kick and 12", 13", 16" toms — with Paiste 2002 cymbals and the Pearl Eliminator double pedal.
@@ -157,7 +157,7 @@ A: For *Eaten Back to Life* (1990) and Cannibal Corpse's earliest recordings, Pa
 A: Paul is the only drummer Cannibal Corpse has ever had, making him the longest-tenured drummer in death metal history. He has performed on all 14 of the band's studio albums across 35+ years. His blast beat technique and consistent death metal drumming approach have influenced an entire generation of extreme metal drummers.
 
 **Q: What cymbals does Paul Mazurkiewicz use?**
-A: Paul has used Sabian AAX cymbals since approximately 1993 — a 30+ year partnership that makes it one of the longest drummer-cymbal brand relationships in extreme metal. His setup includes 14" AAX hi-hats, 17", 18", and 19" crashes, a 21" ride, and a 20" China.
+A: Paul has used Meinl cymbals (Classics Custom, later joined by Byzance) since the 1990s — a 30+ year partnership that makes it one of the longest drummer-cymbal brand relationships in extreme metal. His setup includes 14" Classics Custom hi-hats, 17", 18", and 19" Classics Custom crashes, a 21" Byzance ride, and a 20" Byzance China.
 
 **Q: What pedals does Paul Mazurkiewicz use?**
 A: Paul's primary pedal is the Pearl Demon Drive double pedal — a direct drive design chosen for maximum response and consistency in blast beat work. He used the Pearl Eliminator earlier in his career (1993 through early 2000s) before switching to the Demon Drive.

@@ -22,16 +22,16 @@ A: Martin Lopez left Opeth in 2006 due to health issues that forced him to step 
 A: Martin Lopez's playing emphasized feel and musicality over pure technicality — jazz-influenced ghost notes, complex hi-hat patterns, and melodic tom work that let Opeth's acoustic passages breathe before the death metal sections detonated. Martin Axenrot brought a heavier, more aggressive attack to the drum chair, informed by his parallel work in death metal supergroup Bloodbath and black/thrash band Witchery, while still honoring the progressive vocabulary Lopez established.
 
 **Q: What drums does Martin Lopez play?**
-A: Martin Lopez plays Noble & Cooley Walnut drums with a Noble & Cooley Solid Shell 14"×6" Maple snare.
+A: During his Opeth tenure, Martin Lopez played a Sonor Designer Series kit (beech/maple shells: 22" kick, 10"/12"/14"/16" toms) with a Sonor Designer 14"×6" Maple snare.
 
 **Q: What drums does Martin Axenrot play?**
-A: Martin Axenrot plays a Sonor SQ2 Series kit built around twin 22"×18" bass drums — a departure from Lopez's single-kick rig — with a Sonor SQ2 14"×5.75" Maple snare.
+A: Martin Axenrot plays a custom hand-made DW kit with maple/gum shells, built around twin 22"×18" bass drums — a departure from Lopez's single-kick rig — with a DW custom snare (specific model unverified).
 
 **Q: What cymbals do Martin Axenrot and Martin Lopez use?**
-A: Martin Lopez uses Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China). Martin Axenrot uses Meinl Byzance cymbals (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China).
+A: During his Opeth tenure, Martin Lopez used Sabian HH/AAX cymbals (14" HH hi-hats, 16"/18" AAX crashes, 20" HH ride). Martin Axenrot uses Sabian HHX/AAX cymbals (HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, HHX China, AAX Splash).
 
 **Q: What bass drum pedals and sticks do they use?**
-A: Martin Lopez uses an Axis Percussion double pedal with Vic Firth American Classic 5A sticks. Martin Axenrot uses a Tama Iron Cobra double pedal with Vic Firth American Classic 5B sticks.
+A: Martin Lopez used an Axis Percussion double pedal with Vic Firth American Classic 5A sticks. Martin Axenrot's hardware and pedal setup has not been independently verified; he plays Pro-Mark sticks.
 
 **Q: What albums did Martin Lopez record with Opeth?**
 A: Martin Lopez recorded "My Arms, Your Hearse" (1998), "Still Life" (1999), "Blackwater Park" (2001), "Deliverance" (2002), "Damnation" (2003), and "Ghost Reveries" (2005) with Opeth.

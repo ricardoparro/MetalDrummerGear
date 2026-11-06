@@ -19,7 +19,7 @@ A: Both are widely regarded as influential extreme metal drummers from different
 A: Frost drives Satyricon's increasingly sophisticated compositions with surgical, metronomically consistent blast beats built for endurance and control. Raatikainen locks fluid, precise double bass patterns and blast beats into Children of Bodom's neoclassical melodic death metal, supporting rapid guitar and keyboard melodies rather than pure blast-beat intensity.
 
 **Q: What drums does Frost play?**
-A: Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14"x6" Maple snare, driven by a Sonor Perfect Balance single pedal, Vic Firth American Classic Extreme 5B sticks, and Remo heads.
+A: Frost plays a Tama Starclassic Bubinga Series kit with a Tama Starclassic Bubinga 14"x5.5" snare, driven by a Tama Iron Cobra Power Glide pedal, Vic Firth American Classic Extreme 5B sticks, and Remo heads.
 
 **Q: What drums does Jaska Raatikainen play?**
 A: Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14"x5.5" Maple snare, driven by a Pearl Eliminator double pedal, Vic Firth American Classic 5A sticks, and Remo heads.

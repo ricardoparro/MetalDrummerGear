@@ -16,7 +16,7 @@ A: Mike Mangini (born April 18, 1963) is an American drummer and former Berklee 
 A: Both are extraordinarily technical in different ways. Mike Mangini brings a scientific, mathematical approach to technique and holds Guinness World Records for raw drumming speed. Gavin Harrison's technical mastery lies in polyrhythmic complexity and compositional depth — navigating odd time signatures with a musical grace that sounds effortless rather than mechanical.
 
 **Q: What Guinness World Records does Mike Mangini hold?**
-A: Mike Mangini holds multiple Guinness World Records for drumming speed, including 1,203 single strokes in 60 seconds. He set his first world record in 1986 and was a Berklee College of Music professor before joining Dream Theater in 2010.
+A: Mike Mangini holds multiple Guinness World Records for drumming speed, including 1,203 single strokes in 60 seconds. He set his first world record in 2005 and was a Berklee College of Music professor before joining Dream Theater in 2010.
 
 **Q: What bands has Gavin Harrison played with?**
 A: Gavin Harrison is best known for Porcupine Tree (2002–2010, reunited 2021–present), King Crimson (2008–present), and The Pineapple Thief (2016–present). He has also published instructional materials including the book "Rhythmic Perspectives."
@@ -31,10 +31,10 @@ A: Mike Mangini plays a Pearl Reference Series kit with Pearl Reference 14"x5" a
 A: Gavin Harrison uses Zildjian K Custom Special Dry Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). Mike Mangini uses Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17"/18"/19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride).
 
 **Q: What bass drum pedals and sticks do they use?**
-A: Gavin Harrison uses a Sonor Perfect Balance pedal with Vic Firth Gavin Harrison Signature sticks. Mike Mangini uses a Pearl Demon Drive double pedal with Vic Firth Mike Mangini Signature sticks.
+A: Gavin Harrison uses a Sonor Perfect Balance pedal with Vic Firth Gavin Harrison Signature sticks. Mike Mangini uses a Pearl Eliminator Redline double pedal with Vic Firth Mike Mangini Signature sticks.
 
 **Q: What albums did Mike Mangini record with Dream Theater?**
-A: Mike Mangini recorded six studio albums with Dream Theater between 2010 and 2023, beginning with "A Dramatic Turn of Events" (2011), after winning the band's publicized worldwide drummer search to replace Mike Portnoy.
+A: Mike Mangini recorded five studio albums with Dream Theater between 2010 and 2023 — A Dramatic Turn of Events (2011), Dream Theater (2013), The Astonishing (2016), Distance Over Time (2019), and A View from the Top of the World (2021) — after winning the band's publicized worldwide drummer search to replace Mike Portnoy.
 
 **Q: What is the verdict — Gavin Harrison vs Mike Mangini?**
 A: Gavin Harrison and Mike Mangini are two of the finest technical drummers alive, arriving at mastery from different directions. Harrison's complexity emerges from deep musical intuition and decades of progressive rock songcraft. Mangini's complexity emerges from rigorous mathematical analysis and world-record-holding technical discipline. Both are irreplaceable in their respective bands and represent the pinnacle of progressive drumming.

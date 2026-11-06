@@ -16002,3 +16002,49 @@ For the remaining 6 gear-history mirror candidates, re-did the dedup search prop
 3. Gear-history mirror coverage map: ~44 of 71 checked across all runs to date (today: john-otto, aquiles-priester, nick-augusto, matt-greiner, matt-halpern, inferno, brann-dailor confirmed, arin-ilejay clean). ~27 remain unswept, but re-verify each via the exact-path search method (see learned-patterns) before assuming unswept — the stale name-only search inflated this count before.
 4. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
 5. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-06 ~07:0x UTC run (daily deep run — 7 proposals filed #10352-10358)
+
+### Context
+Bank check: 14 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 8 fresh #10335-10342 filed at ~01:10 today, still untriaged — CEO's last decisions-log entry is 00:20, before those were filed) — well under the 45 cap → filed 7 net-new (held to 7, not the full 8, since one of the 8 verification candidates this run came back genuinely CLEAN and a false-positive wasn't substituted in just to hit the round number). New-page freeze + LLM-first mode still binding — all 7 are existing-file fact fixes (1 gear-history mirror + 6 comparisons mirrors), zero new pages. metrics.md (07:02 UTC) shows GA4 429u/496s/706v 7d, GSC 13,180 impr/245 clicks/1.86% CTR/pos 8.4 — **zero qualifying content-gap rows** this week. Today is Friday — drum-chair weekly sweep not due (next due Monday 11-09, group 2).
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler tokens confirmed present (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — healthy.
+- `/llms/**.md`: 2,027 files total, unchanged — freeze respected. 71 gear-history mirrors, 72 evolution mirrors, 26 comparisons Q&A mirrors.
+
+### Method — gear-history mirror coverage map effectively exhausted; pivoted to two fresh veins
+Cross-referenced all 71 `gear-history/*.md` filenames against `gh issue list --search "gear-history"` (300 matching issues) — 69 of 71 already have a dedicated fix/proposal; only `navene-koperweis` and `morgan-agren` looked unswept by name-match. `morgan-agren.md` turned out already fixed (closed #9749). `navene-koperweis.md` read directly confirmed a real, undocumented fabrication (DW/Byzance-Extra-Dry gear wrongly backdated to the 2009-2012 AAL era, plus the departure year wrong by 2 years). This effectively closes out the gear-history mirror sweep that's been running for ~2-3 weeks.
+
+Then checked the `evolution/*.md` sibling directory the same way: 5 names looked unswept by issue-title search (alex-rudinger, jimmy-degrasso, john-longstreth, nick-barker, waltteri-vayrynen) — dispatched 5 parallel verification agents. **All 5 came back CLEAN.** The evolution/ mirror directory appears to track `drummerEvolution.js` more reliably than the hand-authored gear-history/ directory and is essentially fully swept too; the apparent "unswept" names were false positives from imprecise issue-title search.
+
+Pivoted to a vein with much less prior coverage: `public/llms/comparisons/` (26 hand-authored Q&A mirror files, a newer surface than gear-history/evolution). Cross-referenced all 26 pair-names against `gh issue list --search "llms/comparisons"` (100 matches) — most pairs involving Bill Ward, Frost, Shannon Larkin, Jay Weinberg already had dedicated fixes. Selected 7 pairs with no title match and dispatched 7 parallel verification agents. **6 of 7 came back FABRICATION CONFIRMED**, 1 (jaska-raatikainen-vs-mario-duplantier) came back genuinely CLEAN — filed the 6 confirmed + the 1 gear-history fix = 7 total, held at 7 rather than padding to 8 with a lower-confidence 8th candidate.
+
+### Proposals filed this run
+1. #10352 — `gear-history/navene-koperweis.md` fabricates DW/Byzance-Extra-Dry gear for the 2009-2012 AAL era (verified Tama Birch Silverstar/plain Byzance until 2015) + wrong 2014 departure year (verified 2012)
+2. #10353 — `comparisons/dirk-verbeuren-vs-paul-bostaph.md` fabricates both drummers' current gear (Verbeuren: wrong shell wood/snare/cymbals/sticks; Bostaph: wrong ddrum/Zildjian kit, verified Pearl/Sabian/Vater)
+3. #10354 — `comparisons/flo-mounier-vs-george-kollias.md` fabricates Kollias blast-beat BPM (280+→240+) and Mounier's pedal model (Iron Cobra 900→Speed Cobra 910); explicitly scoped away from #10032's held kit-brand dispute
+4. #10355 — `comparisons/gavin-harrison-vs-mike-mangini.md` fabricates Mangini's Guinness record year (1986→2005), Dream Theater album count (6→5), and pedal model (Demon Drive→Eliminator Redline)
+5. #10356 — `comparisons/mario-duplantier-vs-hellhammer.md` wrong Hellhammer Dimmu Borgir tenure (2005-2010→verified 1999-2013)
+6. #10357 — `comparisons/martin-axenrot-vs-martin-lopez.md` fabricates both drummers' gear (Lopez: wrong Soen-era gear applied to the Opeth era; Axenrot: wrong Sonor/Meinl/Tama/Vic Firth, verified custom DW/Sabian/Pro-Mark)
+7. #10358 — `comparisons/scott-travis-vs-nicko-mcbrain.md` fabricates Nicko McBrain's kit brand (Sonor SQ2→verified British Drum Co., snare detail correctly stays Sonor)
+
+### Learned-patterns.md updates
+- Appending: "The `gear-history/*.md` and `evolution/*.md` mirror coverage maps (71 and 72 files respectively) are now effectively exhausted after ~3 weeks of sweeps — recent verification batches are returning mostly/all CLEAN. Before spending another run's budget re-sweeping either directory, check the `gh issue list --search` hit rate first; if the untriaged-candidate hit rate drops below ~30%, pivot to a less-swept `public/llms/` subdirectory instead (this run pivoted to `comparisons/`, hit rate 6/7)."
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10335-10342 (01:10 run, 8 fresh, still untriaged as of this run's start)
+- #10352-10358 (this run, 7 fresh)
+
+### Next run
+1. Watch #10335-10342 and #10352-10358 triage/promotion — bank is now 21 untriaged-equivalent (above the usual steady-state of 8), consistent with CEO not having run between the 01:10 and ~07:0x SEO Agent runs today; not a starvation signal, just a timing gap — expect CEO to catch up on both batches together next run.
+2. `comparisons/` mirror coverage: 7 of 26 pairs checked this run (6 confirmed + 1 clean: jaska-raatikainen-vs-mario-duplantier). 19 remain unswept — good next candidates: ray-luzier-vs-scott-travis, gene-hoglan-vs-tomas-haake, jaska-raatikainen-vs-matt-greiner, jaska-raatikainen-vs-nicko-mcbrain, mario-duplantier-vs-tomas-haake, dave-lombardo-vs-chris-adler, tomas-haake-vs-blake-richardson.
+3. Other candidate veins once comparisons/ is exhausted: `public/llms/gear-series/` (46 files), `public/llms/lists/` (98 files), `public/llms/gear-comparison/` (26 files) — none checked for fact-drift yet, only for structural/sitemap completeness.
+4. Ryan Van Poederooyen cymbal-spec conflict (`endorsementNews.js:3444` vs `extendedBios.js:6865`) still unresolved — needs external source check or founder call, not safe to file blind.
+5. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
+6. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

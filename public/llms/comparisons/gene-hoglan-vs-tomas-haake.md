@@ -25,7 +25,7 @@ A: Tomas Haake plays a Sonor SQ2 Heavy Beech kit configured for maximum low-freq
 A: Gene Hoglan uses Sabian AAX Series cymbals (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China) chosen for bright, cutting attack at blast beat tempos. Tomas Haake uses a combination of Sabian HHX and AAX Series cymbals (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19"/20"/21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China) — the HHX line delivering warmer, more complex overtones suited to polyrhythmic texture.
 
 **Q: What snare drums do they use?**
-A: Gene Hoglan plays a Pearl Reference 14×6.5" Brass snare, producing sharp metallic crack that cuts through extreme metal. Tomas Haake uses his Sonor Tomas Haake Signature 14×6.5" snare (and occasionally a Sonor Artist Series Bronze snare), delivering the dry, focused crack that defines Meshuggah's compressed production sound.
+A: Gene Hoglan plays a Pearl snare; the specific model has not been independently verified, producing a sharp metallic crack that cuts through extreme metal. Tomas Haake uses his Sonor Tomas Haake Signature 14×6.5" snare (and occasionally a Sonor Artist Series Bronze snare), delivering the dry, focused crack that defines Meshuggah's compressed production sound.
 
 **Q: What bass drum pedals do Gene Hoglan and Tomas Haake use?**
 A: Gene Hoglan uses a Pearl Demon Drive double pedal — a conventional double bass setup optimised for speed. Tomas Haake uses two individual Tama Speed Cobra single pedals, playing each foot independently. This unconventional choice gives each foot different mechanical feedback and requires extraordinary control to achieve the double bass speeds Meshuggah demands.
@@ -34,7 +34,7 @@ A: Gene Hoglan uses a Pearl Demon Drive double pedal — a conventional double b
 A: Tomas Haake prefers the independent mechanical response of two separate single pedals over a shared beam, giving him distinct feel and foot independence that suits Meshuggah's complex polyrhythmic patterns. It is a defining technical signature of his style.
 
 **Q: What drumsticks do they use?**
-A: Gene Hoglan plays Promark 5B sticks. Tomas Haake plays Wincent Tomas Haake Signature sticks.
+A: Gene Hoglan plays ProMark Classic Forward 2B sticks. Tomas Haake plays Wincent Tomas Haake Signature sticks.
 
 **Q: Who is more influential — Gene Hoglan or Tomas Haake?**
 A: Both have had enormous and distinct influence. Gene Hoglan's work with Dark Angel, Death, and Testament defined the technical benchmarks of death and thrash metal for the 1980s and 1990s, and his gravity blast technique spread throughout the extreme metal community. Tomas Haake's drumming with Meshuggah created the djent sub-genre and spawned a generation of progressive metal bands. Gene's influence runs deeper into extreme metal history; Tomas's influence is broader in contemporary progressive metal.

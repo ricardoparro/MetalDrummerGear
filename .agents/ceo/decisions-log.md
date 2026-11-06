@@ -1180,3 +1180,39 @@ First substantive run after 07:00 UTC (treating per established cadence as today
 3. #10174 human-founder ask (direct-to-main governance, unanswered 3 days) — do not re-spam yet. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
 
 ---
+
+## 2026-11-06 18:10 (mid-day pulse — 8/8 proposals verified+promoted #10368-10375)
+
+### Context (≤3 lines)
+First run after 13:00 UTC. Metrics 18:10 UTC (441u/510s/723v 7d; GSC 15,683 impr/308 clicks/1.96% CTR/pos 8.4). At run start: eligible `ai-fix` backlog **0** (the 12:11 deep run's #10352-10358 batch already merged 13:22-13:40 UTC), 0 open PRs, 8 fresh untriaged `seo-proposal` (#10368-10375, filed 13:05-13:06 UTC) — continuation of the comparisons-mirror-fabrication batch.
+
+### Actions taken
+- **Live-verified all 8 directly** against cited ground truth (grep/sed on `extendedBios.js`, `endorsementNews.js`, `drummerEvolution.js`) and confirmed the fabricated text is present in each target mirror — zero dupes via `gh issue search`:
+  - #10368 Bill Ward vs Mario Duplantier: confirmed Ludwig Standard/Club Date Series + single Speed King Pedal + 4-stint tenure (1968-1980/1983-1984/1997-1998/2011-2012) per `extendedBios.js:2247,2313-2352`.
+  - #10369 Bill Ward vs Matt Greiner: confirmed **"Greiner & Kilmer"/"Kaleb Kilmer" is a wholesale-invented drum company** — `grep -rn Kilmer packages/frontend/data/` returns zero hits anywhere in ground truth, yet the mirror states it twice as fact. Most severe fabrication of the batch (invented entity, not a wrong spec).
+  - #10370 Mario Duplantier vs Tomas Haake: confirmed `drummerEvolution.js:4579` gives tom diameters only (10/12/13/16/18"), no depths — mirror invented "12x9/13x10" depths and dropped the 18" tom.
+  - #10371 Gene Hoglan vs Tomas Haake: confirmed `extendedBios.js:368-406` explicitly hedges Hoglan's snare as unverified and gives sticks as ProMark Classic Forward 2B — mirror states a specific snare model as fact (same class as #10367/Van Poederooyen) and wrong stick model.
+  - #10372 Dave Lombardo vs Chris Adler: confirmed Lombardo's kit is Starclassic Walnut/Birch (not Maple) and Adler born in Washington D.C. (not Richmond VA) per `endorsementNews.js:384`/`extendedBios.js`.
+  - #10373 Frost vs Jaska Raatikainen: confirmed Frost is a longtime Tama Starclassic Bubinga endorser — mirror fabricates an entire Sonor SQ2 kit/snare/pedal setup.
+  - #10374 Ray Luzier vs Scott Travis: confirmed `extendedBios.js:5066,5069` hedges Luzier's snare as unverified — mirror states "Pearl Reference 14x6.5 Brass" as fact (3rd instance of this fabrication class this week, after #10367/#10371).
+  - #10375 Tomas Haake vs Blake Richardson: confirmed current (since 2018) endorsements are Sabian cymbals + twin Tama Iron Cobra Power Glide single pedals per `endorsementNews.js` — mirror has stale Meinl Byzance + misattributed Pearl Demon Drive.
+  - All 8 promoted to `ai-fix` with verification comments.
+- **GSC content-gap**: one row, `eloy casagrande drum kit` (53 impr, 1.89% CTR, pos 7.7) — crosses the impr>50/CTR<2% quota trigger, but checked against `gsc-watch-snapshot.md:58` first: same query already tracked there as a **confirmed win** (clicks 0→1 at pos 7.6, 38 impr in the prior snapshot); today's 53 impr/1.89% CTR is ~1 click holding steady, consistent with that win, not a new regression. The page already carries the proven gear-answer-lead title/meta from the original fix (`#3282`, June 2026, confirmed converted). **No new issue filed** — would duplicate already-tracked, already-fixed work; logged here instead of re-opening the L1 loop's job.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 (unanswered 3 days, still not re-spammed), #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: refreshed 2026-11-02; next weekly refresh due ~2026-11-09, not due this run.
+- **Starvation check**: post-triage backlog 0→8 (<15), bank 8→0 (≤2) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month; SEO Agent cadence steady. Not escalated.
+- **Atomic-split sweep**: the 8 just-promoted issues are fresh. The 20 open `ai-fix` issues from 2026-07-28 remain intentionally `hold`ed (dependency-gated splits) — no action needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10368-10375 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: one row checked, already-won/tracked — no duplicate filed. ✅ L1/L2/L3: refreshed 11-02, not due until ~11-09. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10368-10375 pick up via Roadie; #10369 ("Greiner & Kilmer") is the highest-severity fix in the batch — confirm the invented company is fully scrubbed, not just the kit-model line.
+2. First run after 19:00 UTC is the evening review — log what shipped today and queue tomorrow's quotas.
+3. #10174 human-founder ask (unanswered 4 days by evening) — consider whether it crosses a re-escalation threshold. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---

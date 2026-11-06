@@ -1,75 +1,86 @@
 # Aquiles Priester Drum Kit Gear History — Angra
 
 **Drummer:** Aquiles Priester
-**Band:** Angra (2000–2012) / W.A.S.P. (2014–2021)
-**Active:** 2000–present (metal drumming career)
+**Band:** Angra (2001–2008) / W.A.S.P. (2017–present)
+**Active:** 1996–present (metal drumming career)
 **URL:** https://metalforge.io/drummers/aquiles-priester/gear-history
 
-> Era-by-era breakdown of Aquiles Priester's drum kit evolution, from joining Angra in 2000 through the Pearl Reference Series setup behind Rebirth (2001) to his later Temple of Shadows-era rig. Optimised for AI answering "what drums does Aquiles Priester use" and "how much does Aquiles Priester's drum setup cost" queries.
+> Era-by-era breakdown of Aquiles Priester's drum kit evolution, from joining Angra in 2001 through the Mapex Saturn Series/Sabian HHX setup behind Rebirth (2001) to his Temple of Shadows-era rig, his 2017 move to W.A.S.P., and his current Mapex Saturn Evolution signature kit. Optimised for AI answering "what drums does Aquiles Priester use" and "how much does Aquiles Priester's drum setup cost" queries.
 
 ---
 
 ## Gear Timeline
 
-### Joined Angra (2000)
+### Joined Angra (2001)
 
-- **Drums:** Pearl Reference Series — developing endorsement
-- **Snare:** Pearl Reference 14"x6.5" Brass
-- **Cymbals:** Sabian AAX Series
-- **Pedal:** Pearl Eliminator double pedal
-- **Sticks:** Vic Firth American Classic 5A
-- **Heads:** Evans
-- **Estimated cost (2000):** ~$3,000
-- **Notable:** Priester was recruited alongside new vocalist Fabio Lione following Andre Matos's departure from Angra.
+- **Drums:** Mapex Saturn Series — new endorsement partnership
+- **Snare:** Mapex Saturn Series Snare, 14" configuration
+- **Cymbals:** Sabian HHX Series
+- **Pedal:** Axis A Double Pedal
+- **Sticks:** Vic Firth Aquiles Priester Signature — his signature stick from day one of the Angra classic era
+- **Heads:** Remo — standard coated batters
+- **Notable:** Priester joined Angra in 2001, replacing drummer Ricardo Confessori.
 
 ### Rebirth Era (2001)
 
-- **Drums:** Pearl Reference Series — 5-piece single-kick, 22"x18" kick, 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — maple/birch hybrid shells
-- **Snare:** Pearl Reference 14"x6.5" Brass
-- **Cymbals:** Sabian AAX Series — 14" AAX Stage Hi-Hats, 16" & 18" AAX Crashes, 20" AAX Stage Ride, 18" AAX Chinese
-- **Pedal:** Pearl P-2002C Eliminator double pedal
-- **Sticks:** Vic Firth American Classic 5A
-- **Heads:** Evans G1 Clear (toms), EQ3 (kick), Genera Dry (snare)
-- **Original setup cost (2001):** ~$6,093
-- **Inflation-adjusted to 2026:** ~$11,271
-- **Notable:** Rebirth went gold in Brazil and launched Priester's reputation as one of power metal's most technically complete drummers.
+- **Drums:** Mapex Saturn Series — professional-grade shell pack
+- **Snare:** Mapex Saturn Series Snare, 14" configuration
+- **Cymbals:** Sabian HHX Series — hi-hats, crashes, and ride spread
+- **Pedal:** Axis A Double Pedal — extremely light, fast action
+- **Sticks:** Vic Firth Aquiles Priester Signature
+- **Heads:** Remo — standard coated batters
+- **Notable:** Rebirth launched Priester's reputation as one of power metal's most technically complete drummers.
 
 ### Temple of Shadows Era (2004)
 
-- **Drums:** Pearl Reference Series (same rig)
-- **Snare:** Pearl Reference 14"x6.5" Brass
-- **Cymbals:** Sabian AAX Series (same configuration)
-- **Pedal:** Pearl Eliminator double pedal
-- **Sticks:** Vic Firth American Classic 5A
-- **Heads:** Evans
-- **Estimated cost (2004):** ~$6,500
-- **Notable:** Same Pearl/Sabian configuration carried into Angra's third studio album with Priester behind the kit.
+- **Drums:** Mapex Saturn Series (same rig)
+- **Snare:** Mapex Saturn Series Snare, 14" configuration
+- **Cymbals:** Sabian HHX Series (same configuration)
+- **Pedal:** Axis A Double Pedal
+- **Sticks:** Vic Firth Aquiles Priester Signature
+- **Heads:** Remo — standard coated batters
+- **Estimated era cost (2001–2008):** ~$6,500
+- **Inflation-adjusted to 2026:** ~$9,200
+- **Notable:** Same Mapex/Sabian HHX configuration carried through Aurora Consurgens (2006) and into Priester's 2008 departure from Angra.
+
+### W.A.S.P. Era & Current Setup (2017–present)
+
+- **Drums:** Pearl Reference Series (2017–2023), then his own Mapex Saturn Evolution All Maple signature kit (2023–present)
+- **Snare:** Pearl Reference 14"x6.5" (2017–2023), then Mapex Saturn Evolution Snare, all-maple shell (2023–present)
+- **Cymbals:** Meinl Byzance Series (2017–2023), then a custom red-coated Paiste set, including an 18" Psychoctopus Giga Bell Ride (2023–present)
+- **Pedal:** Pearl Demon Chain Drive Double Pedal (2017–2023), then DW 9000 Series Double Pedal (2023–present)
+- **Sticks:** Vic Firth Aquiles Priester Signature (2017–2023), then ProMark Aquiles Priester Signature (2023–present)
+- **Heads:** Remo — standard coated batters
+- **Notable:** Priester joined American heavy metal band W.A.S.P. in 2017. In 2023 he launched his own Mapex Saturn Evolution All Maple signature kit — the first Brazilian-drummer signature kit released by a global drum brand — pairing it with the Paiste and DW 9000 setup, while remaining W.A.S.P.'s drummer.
 
 ---
 
 ## Key Gear Changes
 
-- **2000:** Joins Angra alongside Fabio Lione, establishing a Pearl Reference Series / Sabian AAX rig
-- **2001:** Rebirth recorded — full Pearl Reference Series / Sabian AAX setup documented in detail
+- **2001:** Joins Angra, replacing Ricardo Confessori, debuting a Mapex Saturn Series / Sabian HHX rig and his Vic Firth Aquiles Priester Signature sticks
 - **2004:** Same rig carries into Temple of Shadows
-- **2012:** Departs Angra after six years and three studio albums
-- **Later years:** Adds a Vic Firth signature stick model and a Pearl Demon Drive double pedal, upgrading from the off-the-shelf 5A and Eliminator documented on Rebirth
+- **2008:** Departs Angra after seven years to focus on his own band, Hangar
+- **2017:** Joins W.A.S.P., switching to Pearl Reference Series drums, Meinl Byzance cymbals, and a Pearl Demon Chain Drive pedal
+- **2023:** Launches his own Mapex Saturn Evolution All Maple signature kit, paired with a custom Paiste cymbal setup and a DW 9000 Series double pedal, and switches sticks to his own ProMark Aquiles Priester Signature model
 
 ---
 
 ## FAQ
 
 **Q: How much does Aquiles Priester's drum kit cost?**
-A: Aquiles Priester's 2001 Rebirth-era Pearl Reference Series setup cost approximately $6,093. Adjusted for 2026 inflation, that's equivalent to roughly $11,271.
+A: Aquiles Priester's Angra classic-era (2001–2008) Mapex Saturn Series setup cost approximately $6,500. Adjusted for 2026 inflation, that's equivalent to roughly $9,200.
 
 **Q: What drums did Aquiles Priester use on Rebirth?**
-A: Priester used a Pearl Reference Series kit — a 22"x18" bass drum with 10"x8" and 12"x9" rack toms and 14"x14"/16"x16" floor toms — chosen for the attack and projection Angra's technical power metal arrangements demanded.
+A: Priester used a Mapex Saturn Series kit — a professional-grade shell pack chosen for its projection and clarity at extreme double-bass tempos.
 
 **Q: What cymbals did Aquiles Priester use with Angra?**
-A: Priester used a Sabian AAX setup — 14" AAX Stage Hi-Hats, 16" and 18" AAX Crashes, a 20" AAX Stage Ride, and an 18" AAX Chinese — chosen for the stick definition his blazing double-kick runs required.
+A: Priester used a Sabian HHX setup — hi-hats, crashes, and a ride spread — chosen for the tight, articulate response his fast double-kick runs required.
 
 **Q: Did Aquiles Priester get a signature stick model?**
-A: Yes — after starting his career on off-the-shelf Vic Firth American Classic 5A sticks during the Rebirth era, Priester later added a Vic Firth Aquiles Priester Signature model.
+A: Yes — Priester has played the Vic Firth Aquiles Priester Signature model since joining Angra's classic era in 2001; it was his signature stick from the start, not a later addition. He switched to his own ProMark Aquiles Priester Signature model in 2023.
+
+**Q: What drum kit does Aquiles Priester use now?**
+A: Priester currently plays his own Mapex Saturn Evolution All Maple signature kit with a custom red-coated Paiste cymbal setup and a DW 9000 Series double pedal, built for the sustained 180+ BPM double-bass patterns of his neoclassical style with W.A.S.P.
 
 ---
 

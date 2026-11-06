@@ -5,12 +5,12 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummer/blake-richardson"
 evolution_url: "https://metalforge.io/drummers/blake-richardson/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-06-27"
+last_updated: "2026-11-05"
 ---
 
 # Blake Richardson Drum Kit Evolution — Complete Timeline
 
-Blake Richardson joined Between the Buried and Me in 2005, replacing Jason Roe, becoming the drummer for one of progressive metal's most critically acclaimed and technically ambitious bands. Formed in Winston-Salem, North Carolina, in 2000, BTBAM has explored the intersection of metal, jazz, hardcore, prog rock, and classical music across an extraordinary catalog. Richardson's drumming is distinguished by its seamless genre vocabulary, dynamic intelligence, and rhythmic invention. This timeline documents his complete gear evolution from entry-level Tama kits to the premium Star Walnut configuration that defines his current sound.
+Blake Richardson joined Between the Buried and Me in 2005, replacing Jason Roe, becoming the drummer for one of progressive metal's most critically acclaimed and technically ambitious bands. Formed in Winston-Salem, North Carolina, in 2000, BTBAM has explored the intersection of metal, jazz, hardcore, prog rock, and classical music across an extraordinary catalog. Richardson's drumming is distinguished by its seamless genre vocabulary, dynamic intelligence, and rhythmic invention. This timeline documents his complete gear evolution from the foundational DW Collector's Series kit he built for Alaska (2005) to the Tama Starclassic Bubinga configuration he's played since 2018.
 
 See also: [Blake Richardson drummer profile](/llms/drummers/blake-richardson.md)
 
@@ -21,22 +21,19 @@ See also: [Blake Richardson drummer profile](/llms/drummers/blake-richardson.md)
 **Albums:** Alaska (2005)
 **Tours:** Alaska Tour
 
-Blake Richardson joined Between the Buried and Me in 2005, replacing Jason Roe, in time to record Alaska. His early setup was assembled on a limited budget — a Tama Rockstar kit and Sabian cymbals that could survive the demands of constant self-booked touring. Richardson's playing on Alaska (2005) began to attract serious critical attention. The equipment was functional; the musicianship was already exceptional.
+Blake Richardson joined Between the Buried and Me in 2005, replacing Jason Roe, in time to record Alaska. He built his foundational gear setup around that album — a DW Collector's Series kit paired with Meinl Byzance Extra Dry cymbals — and that DW/Meinl pairing anchored his sound for the next decade-plus. Richardson's playing on Alaska (2005) began to attract serious critical attention immediately.
 
-- **Drums:** Tama Rockstar Series — poplar shells: 22" kick, 12"/13"/16" toms (entry-level Tama; reliable and affordable for heavy touring schedule)
-- **Snare:** Tama Steel 14"×5.5" (crisp, cutting steel snare for dense arrangements)
-- **Cymbals:** Sabian B8 / AAX Series — 14" hi-hats, 16"/18" crashes, 20" ride (Sabian across early years, progressing from B8 to AAX)
-- **Hardware:** Tama Iron Cobra Double Pedal (double bass from the earliest recordings)
-- **Sticks:** Vic Firth 5A hickory (off-the-shelf, pre-endorsement)
-- **Heads:** Remo Ambassador clear on toms, coated on snare
-- **Estimated kit cost (original):** ~$3,000
+- **Drums:** DW Collector's Series — all-maple shells: 22"x18" kick, 10"/12"/13" rack toms, 16" floor tom *(signed with DW in 2006 around the Alaska recording)*
+- **Snare:** DW Collector's Series Maple 14"×6.5" (warm, articulate crack suited to BTBAM's dynamic range)
+- **Cymbals:** Meinl Byzance Extra Dry Series — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China *(signed with Meinl in 2006; dark, hand-hammered Turkish B20 tone)*
+- **Hardware:** DW 9002 chain-drive double bass pedal *(kick foundation through the Colors and Parallax eras)*
+- **Sticks:** Vic Firth American Classic 3A *(signed with Vic Firth in 2006; unchanged for the rest of his career)*
+- **Estimated kit cost (original):** ~$8,000
 
 **Key developments:**
 - Richardson joins BTBAM in 2005, replacing Jason Roe
 - Alaska (2005) — first album with Richardson on drums; widely praised for its dynamic range and genre fluency
-- Built national underground following through relentless DIY touring
-
-> "We were playing every night. The gear just had to hold together. The music was always more important than what kit I was on." — *Revolver Interview, 2006*
+- Signs with DW, Meinl, and Vic Firth in 2006, establishing the foundational setup that carried through Coma Ecliptic (2015)
 
 ---
 
@@ -46,25 +43,21 @@ Blake Richardson joined Between the Buried and Me in 2005, replacing Jason Roe, 
 **Tours:** Colors World Tour 2007–2009
 
 **Q: What drums did Blake Richardson use on Colors?**
-A: For Colors (2007), Blake Richardson played a Tama Starclassic Walnut/Birch — a significant upgrade from the Rockstar kit used on earlier albums. The walnut/birch hybrid shell gave him a warmer, more complex tone suited to Colors's extraordinarily varied arrangements, which move between extreme metal, jazz, progressive rock, and acoustic passages within a single 65-minute suite. His Sabian AAX cymbal setup was also expanded and refined for this record.
+A: For Colors (2007), Blake Richardson played the same DW Collector's Series kit and Meinl Byzance Extra Dry cymbals he had built around Alaska (2005) — no gear change. The all-maple shells gave him the warm, complex tone suited to Colors's extraordinarily varied arrangements, which move between extreme metal, jazz, progressive rock, and acoustic passages within a single 65-minute suite.
 
 Colors is widely considered BTBAM's masterpiece and one of progressive metal's greatest albums. Richardson's drumming across the album's single continuous track is extraordinary in its dynamic control and genre vocabulary.
 
-- **Drums:** Tama Starclassic Walnut/Birch — walnut/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms *(upgrade — warmer, more resonant tone for Colors's varied arrangements from jazz to full metal brutality)*
-- **Snare:** Tama Starclassic Maple 14"×6.5" *(switch — maple snare for broader dynamic range across Colors's extremes)*
-- **Cymbals:** Sabian AAX Series — 14" AAX hi-hats, 16"/18" AAX Stage crashes, 21" AAX ride *(upgrade to full AAX — bright, cutting cymbals that articulated across the album's wide dynamic range)*
-- **Hardware:** Tama Iron Cobra HP900 Double Pedal (continued)
-- **Sticks:** Vic Firth 5B *(upgrade — heavier hickory for projection in larger venues on the Colors World Tour)*
-- **Heads:** Remo Emperor double-ply on toms *(upgrade — durability for the demanding Colors World Tour)*
-- **Estimated kit cost (original):** ~$7,000
+- **Drums:** DW Collector's Series (continued) — all-maple shells: 22"x18" kick, 10"/12"/13" toms, 16" floor tom
+- **Snare:** DW Collector's Series Maple 14"×6.5" (continued)
+- **Cymbals:** Meinl Byzance Extra Dry Series (continued) — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China
+- **Hardware:** DW 9002 chain-drive double bass pedal (continued)
+- **Sticks:** Vic Firth American Classic 3A (continued)
+- **Estimated kit cost (original):** ~$8,000 — no change, same kit
 
 **Key developments:**
-- Upgraded to Tama Starclassic Walnut/Birch
+- No gear change — the DW/Meinl setup from Alaska carried into Colors
 - Colors (2007) — career-defining album, widely considered a prog-metal masterpiece
 - Colors World Tour builds BTBAM's international fanbase
-- Expanded cymbal setup for Colors's extraordinary dynamic demands
-
-> "Colors pushed me to think about dynamics in a way no album had before. I had to be a jazz drummer, a death metal drummer, and everything in between — sometimes in the same bar." — *Modern Drummer Interview, 2008*
 
 ---
 
@@ -73,101 +66,113 @@ Colors is widely considered BTBAM's masterpiece and one of progressive metal's g
 **Albums:** The Great Misdirect (2009), The Parallax: Hypersleep Dialogues (2011), The Parallax II: Future Sequence (2012)
 **Tours:** The Great Misdirect Tour, The Parallax Tour, Progressive Nation at Sea
 
-**Q: What gear did Blake Richardson upgrade to for Alaska → Colors → The Great Misdirect?**
-A: The progression tracked a consistent upgrade path: the early Tama Rockstar and Sabian B8 setup used through the Alaska era gave way to the Tama Starclassic Walnut/Birch and Sabian AAX for Colors. By The Great Misdirect, he had made the most significant cymbal transition of his career — switching from Sabian to Meinl Byzance. The darker, more complex Turkish B20 alloy of the Byzance series suited the increasingly sophisticated Parallax arrangements and was the foundation of his current cymbal identity.
+**Q: Did Blake Richardson change gear between Colors and The Great Misdirect?**
+A: No. Richardson stayed on the same DW Collector's Series kit and Meinl Byzance Extra Dry cymbals he had used since Alaska (2005) through The Great Misdirect (2009) and the Parallax albums (2011–2012). The dark, complex Turkish B20 tone of the Byzance Extra Dry series suited the increasingly sophisticated Parallax arrangements without any cymbal brand change.
 
-- **Drums:** Tama Starclassic Walnut/Birch (expanded) — 22" kick, 8"/10"/12"/14"/16" toms *(upgrade — added 8" tom for higher tonal range in increasingly complex Parallax arrangements)*
-- **Snare:** Tama Starclassic Maple 14"×6.5" (continued — consistent snare across multiple album cycles)
-- **Cymbals:** Meinl Byzance Series — 14" Byzance hi-hats, 16"/18"/19" crashes, 21" ride, 18" China *(switch from Sabian — darker Turkish B20 alloy; complex, nuanced tone suited to Parallax's prog arrangements)*
-- **Hardware:** Tama Iron Cobra HP900 Double Pedal (continued)
-- **Sticks:** Vic Firth 5B (continued)
-- **Heads:** Remo Emperor on toms, Powerstroke 3 on kick *(switch — Powerstroke 3 for more focused kick punch)*
-- **Estimated kit cost (original):** ~$9,000
+- **Drums:** DW Collector's Series (continued) — 22"x18" kick, 10"/12"/13" toms, 16" floor tom
+- **Snare:** DW Collector's Series Maple 14"×6.5" (continued — consistent snare across multiple album cycles)
+- **Cymbals:** Meinl Byzance Extra Dry Series (continued) — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China
+- **Hardware:** DW 9002 chain-drive double bass pedal (continued)
+- **Sticks:** Vic Firth American Classic 3A (continued)
+- **Estimated kit cost (original):** ~$8,000 — no change, same kit
 
 **Key developments:**
-- Switched from Sabian to Meinl Byzance cymbals — defining tonal upgrade
-- Added 8" tom for expanded textural range
+- No brand switch in this era — same DW/Meinl setup carried from Alaska
 - The Great Misdirect (2009) — ambitious concept album raises critical profile further
-- Parallax II: Future Sequence (2012) — band's most technically demanding release
-
-> "The Byzance cymbals opened up something in my playing. They respond differently — you have to listen more. And that listening made me a better drummer." — *Drum! Magazine, 2012*
+- Parallax II: Future Sequence (2012) — band's most technically demanding release to date
 
 ---
 
-## Coma Ecliptic / Automata / Colors II Era (2015–Present)
+## Coma Ecliptic Era (2015–2017)
 
-**Albums:** Coma Ecliptic (2015), Automata I (2018), Automata II (2018), Colors II (2021)
-**Tours:** Coma Ecliptic Tour, Automata Tour 2018, Colors II Tour 2021–2022
+**Albums:** Coma Ecliptic (2015)
+**Tours:** Coma Ecliptic Tour
 
-The modern BTBAM era — Richardson's most mature and compositionally sophisticated work. The Tama Star Walnut is the centerpiece: Tama's premium all-walnut flagship, delivering the warmest and most resonant tone in the catalog. Combined with Meinl Byzance Jazz and Dark cymbals and a Vic Firth signature stick, this configuration represents the most refined version of his setup across a 25-year career.
+Coma Ecliptic was the last BTBAM studio album recorded on the DW/Meinl foundation Richardson built for Alaska a decade earlier. His gear for this album was unchanged from the Parallax era.
 
-- **Drums:** Tama Star Walnut — all-walnut shells: 22" kick, 8"/10"/12"/14"/16" toms *(upgrade — premium all-walnut flagship; warmest, most musically complex tone in the Tama range)*
-- **Snare:** Tama Star Walnut 14"×6.5" *(upgrade — matching walnut snare for warmest, most cohesive kit voice)*
-- **Cymbals:** Meinl Byzance Jazz / Dark — 14" Byzance Jazz hi-hats, 16"/18" Byzance Dark crashes, 22" Byzance Jazz ride *(upgrade — Jazz and Dark variants for a darker, more complex voice reflecting mature musical sensibility)*
-- **Hardware:** Tama Speed Cobra HP910 Double Pedal *(switch — lighter, faster cam-driven pedal; more responsive footwork for Colors II's nuanced passages)*
-- **Sticks:** Vic Firth Blake Richardson Signature — custom hickory model *(signature — developed through Vic Firth endorsement)*
-- **Heads:** Remo Emperor on toms, EMAD on kick *(switch — EMAD for tighter, more focused kick fundamental in dense prog arrangements)*
-- **Electronics:** Roland SPD-SX Sampling Pad *(new — samples and atmospheric triggers for Colors II's layered studio production in live context)*
-- **Estimated kit cost (original):** ~$22,000
+- **Drums:** DW Collector's Series (continued) — 22"x18" kick, 10"/12"/13" toms, 16" floor tom
+- **Snare:** DW Collector's Series Maple 14"×6.5" (continued)
+- **Cymbals:** Meinl Byzance Extra Dry Series (continued)
+- **Hardware:** DW 9002 chain-drive double bass pedal (continued)
+- **Sticks:** Vic Firth American Classic 3A (continued)
+- **Estimated kit cost (original):** ~$8,000 — no change, same kit
 
 **Key developments:**
-- Upgraded to Tama Star Walnut — premium all-walnut flagship kit
-- Meinl Byzance Jazz/Dark cymbals adopted for mature tonal palette
-- Vic Firth Blake Richardson signature sticks launched
-- Tama Speed Cobra pedal switch
-- Coma Ecliptic (2015) — ambitious rock-opera concept album
-- Automata I & II (2018) — science-fiction concept album in two parts
-- Colors II (2021) — sequel to the band's masterpiece; showcases peak compositional maturity
+- Coma Ecliptic (2015) — ambitious rock-opera concept album; final record on the DW/Meinl setup
+- No gear change — the Alaska-era DW/Meinl foundation carries through this album
 
-> "The Star Walnut is the most musical kit I've ever played. Everything that comes out of it has this natural warmth. For Colors II, that was exactly what the music needed." — *Tama Drums Artist Profile, 2022*
+---
+
+## Automata / Colors II Era (2018–Present)
+
+**Albums:** Automata I (2018), Automata II (2018), Colors II (2021)
+**Tours:** Automata Tour 2018, Colors II Tour 2021–2022
+
+Richardson switched his drums and cymbals endorsements in 2018 — the only brand change of his career. Moving to BTBAM's Sumerian Records era for the Automata concept arc, he adopted a Tama Starclassic Bubinga kit in a custom finish and switched his cymbals from Meinl to Sabian.
+
+- **Drums:** Tama Starclassic Bubinga — custom finish: double 22"x18" kick, 10"/12"/13" toms, 16" floor tom *(switch from DW — favoring its resonance for BTBAM's Sumerian Records-era production)*
+- **Snare:** Tama STARPHONIC 14"×6" Brass *(switch from DW Collector's Series Maple)*
+- **Cymbals:** Sabian HHX Evolution / AAX / HH *(switch from Meinl — HHX Evolution hi-hats and crash, AAX Holy Chinas, HH Raw Bell Dry Ride, for the Automata era)*
+- **Hardware:** Twin Tama Iron Cobra Power Glide single pedals *(switch from the DW 9002 — independent single pedals rather than a linked double, for independent control across BTBAM's shifting time signatures)*
+- **Sticks:** Vic Firth American Classic 3A *(unchanged since 2006)*
+- **Heads:** Evans G2 Coated / Hazy 300 *(switch from Remo)*
+- **Estimated kit cost (original):** ~$9,000
+
+**Key developments:**
+- 2018: Switched from DW to Tama Starclassic Bubinga — his only drums brand change
+- 2018: Switched from Meinl to Sabian HHX Evolution/AAX/HH cymbals
+- 2018: Switched from the DW 9002 double pedal to twin Tama Iron Cobra Power Glide single pedals
+- 2018: Switched from Remo to Evans heads
+- Automata I & II (2018) — science-fiction concept album in two parts, first on the new Tama/Sabian setup
+- Colors II (2021) — sequel to the band's masterpiece; same Tama/Sabian configuration
 
 ---
 
 ## Career Cost Overview
 
-| Era | Years | Kit Cost (Original) | Inflation-Adjusted |
-|---|---|---|---|
-| Early / Alaska Era | 2005–2006 | $3,000 | ~$5,200 |
-| Colors Era | 2007–2009 | $7,000 | ~$10,500 |
-| Great Misdirect / Parallax Era | 2009–2014 | $9,000 | ~$13,000 |
-| Modern / Star Walnut Era | 2015–present | $22,000 | ~$22,000 |
+| Era | Years | Kit Cost (Original) |
+|---|---|---|
+| Alaska through Coma Ecliptic (DW/Meinl) | 2005–2017 | ~$8,000 |
+| Automata / Colors II (Tama/Sabian) | 2018–present | ~$9,000 |
 
 ---
 
 ## Gear Brand Partnerships Timeline
 
-- **Tama (drums)** — 2005–present (Rockstar → Starclassic Walnut/Birch → Star Walnut)
-- **Sabian (cymbals)** — 2005–~2009 (B8 → AAX across early career)
-- **Meinl Byzance (cymbals)** — ~2009–present (progressive transition to darker, more complex Turkish tone)
-- **Tama Iron Cobra (hardware)** — 2005–~2015 (foundational double bass pedal)
-- **Tama Speed Cobra (hardware)** — ~2015–present (lighter, faster double pedal)
-- **Vic Firth (sticks)** — throughout career (5A → 5B → Blake Richardson Signature)
-- **Remo (heads)** — throughout career (Ambassador → Emperor / Powerstroke 3 / EMAD)
+- **DW (drums)** — 2006–2018 (Collector's Series, foundational Alaska-through-Coma Ecliptic kit)
+- **Tama (drums)** — 2018–present (Starclassic Bubinga)
+- **Meinl Byzance (cymbals)** — 2006–2018 (Extra Dry Series, foundational Alaska-through-Coma Ecliptic cymbals)
+- **Sabian (cymbals)** — 2018–present (HHX Evolution / AAX / HH)
+- **DW (hardware)** — 2006–2018 (DW 9002 chain-drive double bass pedal)
+- **Tama (hardware)** — 2018–present (twin Iron Cobra Power Glide single pedals)
+- **Vic Firth (sticks)** — 2006–present (American Classic 3A, unchanged)
+- **Remo (heads)** — 2006–2018
+- **Evans (heads)** — 2018–present (G2 Coated / Hazy 300)
 
 ---
 
 ## FAQ
 
 **Q: What drum kit does Blake Richardson use?**
-A: Blake Richardson plays a Tama Star Walnut — an all-walnut shell kit configured with a 22" kick drum and 8", 10", 12", 14", and 16" toms. This is Tama's premium flagship series. He has been a Tama artist throughout his career, progressing from the Rockstar through the Starclassic Walnut/Birch to the Star Walnut.
+A: Blake Richardson plays a Tama Starclassic Bubinga kit in a custom finish — double 22" kick drums with 10", 12", and 13" toms and a 16" floor tom. He switched to Tama in 2018 for Automata I & II after playing a DW Collector's Series kit from Alaska (2005) through Coma Ecliptic (2015).
 
 **Q: What cymbals does Blake Richardson use?**
-A: Richardson plays Meinl Byzance cymbals, currently using Byzance Jazz hi-hats, Byzance Dark crashes, and a Byzance Jazz ride. He switched from Sabian AAX to Meinl Byzance around the time of The Great Misdirect (2009), drawn to the darker, more complex tone of the Turkish B20 alloy.
+A: Richardson plays Sabian cymbals — HHX Evolution hi-hats and crash, AAX Holy Chinas, and an HH Raw Bell Dry Ride. He switched from Meinl Byzance Extra Dry to Sabian in 2018, around the time of Automata I & II, after more than a decade on the Byzance Extra Dry series.
 
 **Q: What drums did Blake Richardson use on Colors?**
-A: On Colors (2007), Richardson played a Tama Starclassic Walnut/Birch kit — a walnut/birch hybrid shell that gave him the warm, resonant tone that suited the album's extraordinarily varied arrangements. His cymbal setup was Sabian AAX during this period; the switch to Meinl Byzance came later.
+A: On Colors (2007), Richardson played the DW Collector's Series kit — all-maple shells — he had built around Alaska (2005). His cymbal setup was Meinl Byzance Extra Dry during this period; the switch to Tama and Sabian didn't happen until 2018.
 
 **Q: What gear did Blake Richardson upgrade to after Colors?**
-A: After Colors, the most significant change was the cymbal transition from Sabian AAX to Meinl Byzance during The Great Misdirect era (2009–2012). The Starclassic Walnut/Birch kit remained through this period, supplemented with an 8" tom for additional tonal range. The major kit upgrade came later with the move to Tama Star Walnut for the Coma Ecliptic era (2015 onward).
+A: After Colors, Richardson's setup stayed unchanged for over a decade — the same DW Collector's Series kit and Meinl Byzance Extra Dry cymbals carried through The Great Misdirect, the Parallax albums, and Coma Ecliptic. The major gear switch — to Tama Starclassic Bubinga drums and Sabian cymbals — came in 2018 for Automata I & II.
 
 **Q: What makes Blake Richardson's drumming distinctive in progressive metal?**
-A: Richardson is known for exceptional dynamic control and genre fluency — his ability to move between extreme metal, jazz, prog rock, and acoustic textures within a single performance. His cymbal choices (Sabian AAX, later Meinl Byzance Jazz and Dark) reflect a listening-based approach to tone rather than a standard metal palette. See also: [progressive metal drumming techniques](/techniques/progressive-metal).
+A: Richardson is known for exceptional dynamic control and genre fluency — his ability to move between extreme metal, jazz, prog rock, and acoustic textures within a single performance. His cymbal choices (Meinl Byzance Extra Dry through 2017, Sabian HHX Evolution/AAX/HH since 2018) reflect a listening-based approach to tone rather than a standard metal palette. See also: [progressive metal drumming techniques](/techniques/progressive-metal).
 
 **Q: Is Blake Richardson a founding member of BTBAM?**
 A: No — Between the Buried and Me formed in Winston-Salem, NC in 2000 with founding drummer Will Goodyear (2000-2002). Goodyear was followed by Michael Howard Reig, Mark Castillo, and Jason Roe before Richardson joined in 2005, replacing Roe, and has appeared on every BTBAM studio album from Alaska (2005) through Colors II (2021).
 
 **Q: What double bass pedal does Blake Richardson use?**
-A: Richardson switched from the Tama Iron Cobra HP900 (used through the Colors and Great Misdirect eras) to the Tama Speed Cobra HP910 around the Coma Ecliptic era (2015). The Speed Cobra's lighter, faster cam-driven action provided more responsive footwork for the nuanced polyrhythmic passages in the modern BTBAM material.
+A: Richardson switched from the DW 9002 chain-drive double bass pedal (used from Alaska through Coma Ecliptic) to twin Tama Iron Cobra Power Glide single pedals in 2018. Rather than a linked double pedal, he runs one independent single pedal per bass drum, giving him independent footwork control across BTBAM's constantly shifting time signatures.
 
 ---
 
@@ -176,6 +181,6 @@ A: Richardson switched from the Tama Iron Cobra HP900 (used through the Colors a
 - [Blake Richardson Drummer Profile](/llms/drummers/blake-richardson.md)
 - [Between the Buried and Me Band Profile](/llms/bands.md)
 - [Tama Drums Brand Guide](/llms/brands/tama.md)
-- [Meinl Byzance Cymbal Guide](/llms/brands/meinl.md)
+- [Sabian Cymbal Guide](/llms/brands/sabian.md)
 - [Progressive Metal Drumming Techniques](/techniques/progressive-metal)
 - [Metal Drumming Facts & Stats](/llms/facts.md)

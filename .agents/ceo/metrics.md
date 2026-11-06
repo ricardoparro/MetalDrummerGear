@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-06 01:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-06 06:14 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,44 +8,44 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 419 |
-| Sessions | 485 |
-| Page views | 656 |
+| Active users | 429 |
+| Sessions | 496 |
+| Page views | 706 |
 | Engagement rate | 63.51% |
-| Avg session (s) | 122 |
+| Avg session (s) | 120 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 27 | 17 |
-| /drummers | 23 | 5 |
+| /drummers | 39 | 7 |
+| / | 32 | 18 |
 | /articles/slipknot-self-titled-drum-setup | 15 | 13 |
 | /quiz | 15 | 3 |
 | /drummer/eloy-casagrande | 13 | 11 |
 | /articles/black-sabbath-drum-setup | 12 | 9 |
+| /bpm | 12 | 2 |
 | /drummer/matt-greiner | 12 | 9 |
 | /articles/john-otto-drum-setup | 11 | 9 |
 | /drummer/frost | 10 | 5 |
-| /drummer/jay-weinberg | 9 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 388 | 324 |
+| Organic Search | 398 | 333 |
 | Direct | 90 | 88 |
-| Referral | 7 | 7 |
-| Unassigned | 5 | 5 |
+| Referral | 8 | 8 |
+| Unassigned | 7 | 7 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 186 | 163 |
-| United Kingdom | 33 | 24 |
+| United States | 192 | 168 |
+| United Kingdom | 35 | 26 |
 | Singapore | 24 | 24 |
-| Germany | 22 | 20 |
+| Germany | 23 | 21 |
 | Canada | 20 | 18 |
 | Sweden | 17 | 13 |
-| Australia | 14 | 11 |
+| Australia | 15 | 12 |
 | Brazil | 14 | 12 |
 | France | 12 | 10 |
 | Netherlands | 11 | 10 |

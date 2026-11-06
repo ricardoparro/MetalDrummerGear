@@ -22,16 +22,16 @@ A: Paul Bostaph is Slayer's longest-serving drummer outside of founding member D
 A: Dirk Verbeuren combines blast-capable speed from his melodic death metal years with tight, groove-forward double bass work suited to Megadeth's thrash canon. Paul Bostaph brings relentless power and metronomic consistency — his double bass at thrash tempos is machine-like, honoring Dave Lombardo's template while adding his own controlled precision.
 
 **Q: What drums does Dirk Verbeuren play?**
-A: Dirk Verbeuren plays Tama Starclassic Walnut/Birch drums with a Tama S.L.P. Big Black Steel 14"×6.5" snare.
+A: Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14"×5.5" snare.
 
 **Q: What drums does Paul Bostaph play?**
-A: Paul Bostaph plays a ddrum Paladin Series kit with a ddrum Paladin 14"×6.5" Maple snare.
+A: Paul Bostaph plays a Pearl Masters Maple Complete (MCX) kit with a Pearl Masters Steel 14"×6.5" snare.
 
 **Q: What cymbals do Dirk Verbeuren and Paul Bostaph use?**
-A: Dirk Verbeuren uses Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17"/18"/19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China). Paul Bostaph uses Zildjian A Custom Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China).
+A: Dirk Verbeuren uses Meinl Byzance Brilliant & Classics Custom Dark cymbals (14" Byzance Brilliant hi-hats, 18"/19"/20"/21" Classics Custom Dark crashes, 22" Byzance Brilliant ride, 18" Byzance Brilliant china). Paul Bostaph uses Sabian AAX Series cymbals (14" AAX Stage hi-hats, 17"/19" AAX X-Plosion crashes, 21" AAX Stage ride, 18" AAXtreme china).
 
 **Q: What bass drum pedals and sticks do they use?**
-A: Dirk Verbeuren uses a Tama Speed Cobra 910 double pedal with Promark Shira Kashi Oak 5B sticks. Paul Bostaph uses a ddrum Mercury double pedal with Vic Firth American Classic 5B sticks.
+A: Dirk Verbeuren uses a Tama Speed Cobra 910 double pedal with Tama O-DVM2 signature sticks. Paul Bostaph uses a Pearl Eliminator double pedal with Vater Power 5B sticks.
 
 **Q: What bands did Dirk Verbeuren play in before Megadeth?**
 A: Dirk Verbeuren was the drummer for Soilwork for 18 years (1998–2016) and the French metal band Scarve (1995–2008) before joining Megadeth in 2016.

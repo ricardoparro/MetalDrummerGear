@@ -10,7 +10,7 @@ last_updated: "2026-07-04"
 
 # Hannes Grossmann Drum Kit Evolution — Complete Timeline
 
-Hannes Grossmann brought classical percussion training and jazz-informed dynamics into technical death metal, first with Necrophagist's genre-defining "Epitaph" (2004), then as co-founder of Obscura, where "Cosmogenesis" (2009) and "Omnivium" (2011) established his open-handed, polyrhythmically sophisticated style. After co-founding the progressive death metal supergroup Alkaloid in 2014, he rejoined Obscura in 2020 while continuing Alkaloid, carrying the DW Collectors Series / Meinl Byzance rig documented across his current work.
+Hannes Grossmann brought classical percussion training and jazz-informed dynamics into technical death metal, first with Necrophagist's genre-defining "Epitaph" (2004), then as co-founder of Obscura, where "Cosmogenesis" (2009) and "Omnivium" (2011) established his open-handed, polyrhythmically sophisticated style on the Tama Starclassic Maple / Meinl Byzance kit he'd built during the Necrophagist era. He switched to a DW Collectors Series kit in 2014 while co-founding the progressive death metal supergroup Alkaloid, then rejoined Obscura in 2020 while continuing Alkaloid, carrying the DW Collectors Series / Meinl Byzance rig documented across his current work.
 
 See also: [Hannes Grossmann drummer profile](/llms/drummers/hannes-grossmann.md) · [Hannes Grossmann gear history](/llms/gear-history/hannes-grossmann.md)
 
@@ -45,12 +45,12 @@ Grossmann joined Necrophagist in 2004, replacing Steve Rowe, and recorded drum t
 **Tours:** Summer Slaughter (multiple years), European Tech Death Tours (2007–2014)
 
 **Q: How did Hannes Grossmann develop his open-handed technique?**
-A: Grossmann co-founded Obscura with Steffen Kummerer in 2007, the same year he joined Ron Jarzombek's instrumental project Blotted Science. Obscura's "Cosmogenesis" (2009) and "Omnivium" (2011) became critically acclaimed genre benchmarks, showcasing the open-handed technique — left hand leading on hi-hat or ride — that let him access voicings impossible with a traditional crossed-hands approach. This era established his core DW Collectors Series / Meinl Byzance setup, built for the articulate, note-for-note clarity his polyrhythmic compositions demanded.
+A: Grossmann co-founded Obscura with Steffen Kummerer in 2007, the same year he joined Ron Jarzombek's instrumental project Blotted Science. Obscura's "Cosmogenesis" (2009) and "Omnivium" (2011) became critically acclaimed genre benchmarks, showcasing the open-handed technique — left hand leading on hi-hat or ride — that let him access voicings impossible with a traditional crossed-hands approach. This era continued the Tama Starclassic Maple / Meinl Byzance setup he'd built during the Necrophagist years, giving him the articulate, note-for-note clarity his polyrhythmic compositions demanded.
 
-- **Drums:** DW Collectors Series — North American maple shells; 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms
-- **Snare:** DW Collectors 14"x5.5" Maple
+- **Drums:** Tama Starclassic Maple — North American maple shells; 22"x18" bass drum, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms
+- **Snare:** Tama S.L.P. G-Maple 14"x6"
 - **Cymbals:** Meinl Byzance Series — 14" Byzance Traditional Hi-Hats, 18"/19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride, 10" Byzance Splash
-- **Hardware:** DW 9000 Series Double Pedal
+- **Hardware:** Tama Iron Cobra double pedal
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans EQ3 Clear (kick), Remo Emperor Coated (snare), Evans G2/G1 Clear (toms)
 - **Estimated kit cost (original):** ~$9,800 (inflation-adjusted to 2026: ~$14,200)
@@ -59,7 +59,7 @@ A: Grossmann co-founded Obscura with Steffen Kummerer in 2007, the same year he 
 - Co-founded Obscura with Steffen Kummerer (2007)
 - Joined Ron Jarzombek's Blotted Science project (2007)
 - Cosmogenesis (2009) and Omnivium (2011) established his open-handed technique as a genre benchmark
-- Established the DW Collectors Series / Meinl Byzance rig that has defined his career since
+- Continued the Tama Starclassic Maple / Meinl Byzance rig from the Necrophagist years through Cosmogenesis and Omnivium, carried until the 2014 switch to DW Collectors Series
 
 ---
 
@@ -69,12 +69,12 @@ A: Grossmann co-founded Obscura with Steffen Kummerer in 2007, the same year he 
 **Tours:** Alkaloid European touring dates
 
 **Q: Why did Hannes Grossmann leave Obscura for Alkaloid?**
-A: Grossmann left Obscura in 2014 to focus on the progressive death metal supergroup Alkaloid, which he co-founded as a creative outlet distinct from Obscura's sound, and on his growing production career from his own studio in Germany. Alkaloid's "The Malkuth Grimoire" (2015) and "Liquid Anatomy" (2018) let him push classical voice-leading logic and contrapuntal fill construction further than Obscura's format allowed, while his DW Collectors / Meinl Byzance rig carried over unchanged.
+A: Grossmann left Obscura in 2014 to focus on the progressive death metal supergroup Alkaloid, which he co-founded as a creative outlet distinct from Obscura's sound, and on his growing production career from his own studio in Germany. Alkaloid's "The Malkuth Grimoire" (2015) and "Liquid Anatomy" (2018) let him push classical voice-leading logic and contrapuntal fill construction further than Obscura's format allowed. Co-founding Alkaloid also brought a gear switch: he moved from the Tama Starclassic Maple kit he'd played since the Necrophagist era to a DW Collectors Series kit, while his Meinl Byzance cymbals carried over unchanged.
 
-- **Drums:** DW Collectors Series *(unchanged from the Obscura years)*
-- **Snare:** DW Collectors 14"x5.5" Maple *(unchanged)*
+- **Drums:** DW Collectors Series *(switched from Tama Starclassic Maple in 2014)*
+- **Snare:** DW Collectors 14"x5.5" Maple *(new for 2014, replacing the Tama S.L.P. G-Maple)*
 - **Cymbals:** Meinl Byzance Series *(unchanged)*
-- **Hardware:** DW 9000 Series Double Pedal *(unchanged)*
+- **Hardware:** DW 9000 Series Double Pedal *(switched from Tama Iron Cobra in 2014)*
 - **Sticks:** Vic Firth American Classic 5B *(unchanged)*
 - **Heads:** Evans/Remo mixed package
 - **Estimated kit cost (original):** ~$10,200 (inflation-adjusted to 2026: ~$13,400)
@@ -83,7 +83,7 @@ A: Grossmann left Obscura in 2014 to focus on the progressive death metal superg
 - Left Obscura in 2014 to focus on Alkaloid and production work
 - Co-founded Alkaloid as a creative outlet distinct from Obscura's sound
 - Released The Malkuth Grimoire (2015) and Liquid Anatomy (2018)
-- DW Collectors / Meinl Byzance rig carried over unchanged from the Obscura years
+- Switched from Tama Starclassic Maple / Iron Cobra to a DW Collectors Series kit and DW 9000 Series pedal in 2014; Meinl Byzance cymbals carried over unchanged
 
 ---
 
@@ -93,7 +93,7 @@ A: Grossmann left Obscura in 2014 to focus on the progressive death metal superg
 **Tours:** Obscura World Tours (2020–present)
 
 **Q: Did Hannes Grossmann's gear change when he rejoined Obscura?**
-A: Grossmann rejoined Obscura in 2020 after a six-year hiatus, recording "A Dying Wish" (2021) for Nuclear Blast, while continuing Alkaloid in parallel with "Numen" (2023) — described as his most ambitious and compositionally mature work, fully integrating jazz influence with extreme metal. He now balances both bands alongside his production career, with the DW Collectors / Meinl Byzance rig unchanged since the Obscura founding era.
+A: Grossmann rejoined Obscura in 2020 after a six-year hiatus, recording "A Dying Wish" (2021) for Nuclear Blast, while continuing Alkaloid in parallel with "Numen" (2023) — described as his most ambitious and compositionally mature work, fully integrating jazz influence with extreme metal. He now balances both bands alongside his production career, with the DW Collectors / Meinl Byzance rig unchanged since the 2014 switch to DW.
 
 - **Drums:** DW Collectors Series *(unchanged)*
 - **Snare:** DW Collectors 14"x5.5" Maple *(unchanged)*
@@ -107,7 +107,7 @@ A: Grossmann rejoined Obscura in 2020 after a six-year hiatus, recording "A Dyin
 - Rejoined Obscura in 2020 after a six-year hiatus
 - Recorded A Dying Wish (2021) for Nuclear Blast
 - Alkaloid's Numen (2023) called his most compositionally mature work
-- Now balances Obscura and Alkaloid on an unchanged DW Collectors / Meinl Byzance rig
+- Now balances Obscura and Alkaloid on the DW Collectors / Meinl Byzance rig unchanged since the 2014 switch from Tama
 
 ---
 
@@ -124,17 +124,19 @@ A: Grossmann rejoined Obscura in 2020 after a six-year hiatus, recording "A Dyin
 
 ## Gear Brand Partnerships Timeline
 
-- **DW Collectors Series (drums)** — 2007–present (since co-founding Obscura)
+- **Tama Starclassic Maple (drums)** — 2001–2014 (Necrophagist era through Obscura founding, Cosmogenesis, Omnivium)
+- **DW Collectors Series (drums)** — 2014–present (since co-founding Alkaloid)
 - **Meinl Byzance Series (cymbals)** — 2007–present
 - **Vic Firth American Classic 5B (sticks)** — 2007–present
-- **DW 9000 Series Double Pedal (hardware)** — 2007–present
+- **Tama Iron Cobra (hardware)** — 2001–2014
+- **DW 9000 Series Double Pedal (hardware)** — 2014–present (since co-founding Alkaloid)
 
 ---
 
 ## FAQ
 
 **Q: What drum kit does Hannes Grossmann use?**
-A: Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14"x5.5" Maple snare, Meinl Byzance cymbals, and a DW 9000 Series double pedal — a rig established during his time co-founding Obscura in 2007 and unchanged through his current Obscura and Alkaloid work.
+A: Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14"x5.5" Maple snare, Meinl Byzance cymbals, and a DW 9000 Series double pedal — a rig he switched to in 2014 while co-founding Alkaloid, replacing the Tama Starclassic Maple kit he'd played since the Necrophagist era, and unchanged through his current Obscura and Alkaloid work.
 
 **Q: What is Hannes Grossmann's open-handed drumming technique?**
 A: Grossmann plays open-handed for many patterns — left hand on the hi-hat or ride, right hand on the snare — eliminating hand-crossing. This gives him access to ride and hi-hat voicings that would require awkward crossing with traditional technique, and it's most audible on Obscura's Cosmogenesis (2009) and Omnivium (2011).

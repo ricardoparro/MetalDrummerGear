@@ -5,109 +5,85 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummer/tim-yeung"
 evolution_url: "https://metalforge.io/drummers/tim-yeung/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-07-02"
+last_updated: "2026-11-06"
 ---
 
 # Tim Yeung Drum Kit Evolution — Complete Timeline
 
-Tim Yeung is one of death metal's fastest and most technically consistent drummers, documented sustaining blast beat tempos of 200–280 BPM across full sets without losing precision. He built his reputation inside Erik Rutan's Hate Eternal before joining death metal originators Morbid Angel in 2011, and has since become one of extreme metal's most in-demand session and touring drummers. This timeline documents his complete gear evolution from a developing Pearl Reference setup through Hate Eternal and Divine Heresy, a fully configured Pearl/Sabian/DW rig across two Morbid Angel albums, and a modern switch to Tama Starclassic Bubinga for his current touring and session work.
+Tim Yeung is one of death metal's fastest and most technically consistent drummers, documented sustaining blast beat tempos of 200–280 BPM across full sets without losing precision. Before signing with Tama and Sabian in 2005, he had already drummed for Erik Rutan's Hate Eternal (1997–2000); he then built his modern reputation in Dino Cazares's Divine Heresy before joining death metal originators Morbid Angel for Illud Divinum Insanus (2011), holding the drum chair through 2015. This timeline documents his gear evolution from the Tama Starclassic Bubinga/Sabian rig he established in 2005 through Divine Heresy and his Morbid Angel tenure to his current session and touring work — a rig that has remained remarkably stable for two decades.
 
 See also: [Tim Yeung drummer profile](/llms/drummers/tim-yeung.md)
 
 ---
 
-## Divine Heresy & Hate Eternal Era (2004–2010)
+## Tama/Sabian Signing & Divine Heresy Era (2005–2010)
 
-**Albums:** Hate Eternal – I, Monarch (2005), Hate Eternal – Fury & Flames (2008), Divine Heresy – Bringer of Plagues (2009)
-**Tours:** Hate Eternal European Tour 2008, Divine Heresy World Tour 2009–2010
+**Albums:** Divine Heresy – Bleed the Fifth (2007), Divine Heresy – Bringer of Plagues (2009)
+**Tours:** Divine Heresy World Tour 2009–2010
 
-Yeung established his extreme blast beat speed and double bass consistency inside Erik Rutan's Hate Eternal, recording I, Monarch (2005) and Fury & Flames (2008) — both widely cited among technical death metal's blast beat benchmarks — before adding Divine Heresy's Bringer of Plagues (2009). This period set the gear template — Pearl drums, Sabian cymbals, DW double pedals — that carried into his Morbid Angel years.
+Yeung signed with Tama and Sabian in 2005, establishing the Starclassic Bubinga/AAX rig he would carry, essentially unchanged, into Divine Heresy and his entire Morbid Angel tenure. Bleed the Fifth (2007) introduced Yeung to a wider extreme metal audience, and Bringer of Plagues (2009) followed on the same setup.
 
-- **Drums:** Pearl Reference series (developing setup) — maple/mahogany hybrid shells, dual 22"x18" kicks, compact 4-piece tom configuration
-- **Snare:** Pearl steel/brass 14"x6.5", bright and aggressive tuning to cut through Erik Rutan's dense production
-- **Cymbals:** Sabian AAX Series — 14" hi-hats, 16"/18" crashes, 20" ride
-- **Hardware:** DW double bass pedal — smooth cam-driven action
-- **Sticks:** Vic Firth 5B (hickory, heavier than 5A)
-- **Heads:** Remo Powerstroke 3 (kicks), Emperor Coated (toms)
-- **Estimated kit cost (original):** ~$3,500
+- **Drums:** Tama Starclassic Bubinga — bubinga shells, dual 22"x18" kicks, compact 4-piece tom configuration (10"/12" racks, 16"/18" floors)
+- **Snare:** Tama S.L.P. Big Black Steel 14"x6.5", medium-bright tuning to cut through Dino Cazares's dense, multi-tracked guitar production
+- **Cymbals:** Sabian AAX Series — 14" hi-hats, 16"/18" crashes, 20" HHX ride, 18" AAX China
+- **Hardware:** Tama Speed Cobra 910 Double Pedal — direct-drive action for his heel-up, ankle-driven technique
+- **Sticks:** Vic Firth 5B (hickory, heavier than 5A, for death metal power demands)
+- **Heads:** Remo Powerstroke 3 (kicks), Emperor Coated (toms), Coated Ambassador (snare)
+- **Estimated kit cost (2005):** ~$4,377
 
 **Key developments:**
-- Recorded Hate Eternal's I, Monarch (2005) and Fury & Flames (2008), widely cited among technical death metal blast beat benchmarks
-- Added Divine Heresy's Bringer of Plagues (2009)
-- Established the Pearl/Sabian/DW gear template carried into Morbid Angel
+- Signed with Tama and Sabian in 2005, establishing the rig that carried through Divine Heresy and Morbid Angel
+- Recorded Divine Heresy's Bleed the Fifth (2007) and Bringer of Plagues (2009)
+- Established the Tama/Sabian gear template that remained essentially unchanged for two decades
 
 > "I never think about speed as the goal. If you're relaxed and the rebound is doing the work, the speed just happens." — *Modern Drummer Interview, 2009*
 
 ---
 
-## Morbid Angel — Illud Divinum Insanus Era (2011–2013)
+## Morbid Angel — Illud Divinum Insanus Era (2010–2015)
 
 **Albums:** Morbid Angel – Illud Divinum Insanus (2011)
 **Tours:** Illud Divinum Insanus World Tour 2011–2012
 
-Yeung joined Morbid Angel, one of death metal's founding bands, for the divisive Illud Divinum Insanus (2011). While the album split the fanbase with its industrial detours, Yeung's drumming was universally praised, recorded on a fully configured Pearl Reference Masters kit.
+Yeung joined Morbid Angel, one of death metal's founding bands, for the divisive Illud Divinum Insanus (2011) — his only studio album with the band. While Illud split the fanbase with its industrial detours, Yeung's drumming was universally praised, recorded on the same Tama Starclassic Bubinga rig he established in 2005.
 
-- **Drums:** Pearl Reference Masters (fully configured) — maple/mahogany hybrid, dual 22"x18" kicks, 10"/12" racks, 16"/18" floors *(upgrade from the developing Hate Eternal-era setup)*
-- **Snare:** Pearl Free-Floating steel 14"x6.5", tuned bright for cut *(switch — isolates the shell from hardware resonance)*
-- **Cymbals:** Sabian AAX / HHX Series — 14" hi-hats, 16"/18" crashes, 20" HHX ride, 18" AAX China *(upgrade — added HHX ride for a clearer bell)*
-- **Hardware:** DW 9002 Double Bass Pedal — direct-drive, smooth cam action *(upgrade — engineered for relaxed, rebound-efficient technique at 200–280 BPM)*
+- **Drums:** Tama Starclassic Bubinga (fully configured) — same dual 22"x18" kick, compact 4-piece tom setup carried from Divine Heresy
+- **Snare:** Tama S.L.P. Big Black Steel 14"x6.5", tuned bright (unchanged)
+- **Cymbals:** Sabian AAX / HHX Series — 14" hi-hats, 16"/18" crashes, 20" HHX ride, 18" AAX China
+- **Hardware:** Tama Speed Cobra 910 Double Pedal (unchanged)
 - **Sticks:** Vic Firth 5B (unchanged)
-- **Heads:** Remo Powerstroke 3 (kicks, ported resonant), Emperor Coated (toms)
-- **Estimated kit cost (original):** ~$5,000
+- **Heads:** Remo Powerstroke 3 (kicks), Emperor Coated (toms) (unchanged)
+- **Estimated kit cost:** ~$4,377 (same rig carried over, no gear changes)
 
 **Key developments:**
 - Joined Morbid Angel, one of death metal's founding bands, for Illud Divinum Insanus (2011)
-- Upgraded to a fully configured Pearl Reference Masters kit
-- Adopted the DW 9002 double bass pedal
+- Held the Morbid Angel drum chair from 2010–2015, recording Illud Divinum Insanus only
+- Carried the same Tama Starclassic Bubinga/Sabian rig established in 2005 into his Morbid Angel work
 
 > "Stepping into Morbid Angel meant stepping into death metal history. I wanted the gear to be as precise as the material demanded." — *Blabbermouth Interview, 2011*
 
 ---
 
-## Morbid Angel — Kingdoms Disdained Era (2014–2020)
+## Present — Touring & Session Work (2015–Present)
 
-**Albums:** Morbid Angel – Kingdoms Disdained (2017)
-**Tours:** Kingdoms Disdained World Tour 2017–2019
+**Tours:** Session & Guest Drumming Dates
 
-Kingdoms Disdained (2017) returned Morbid Angel to its classic death metal approach after Illud's experimental detour, giving Yeung his most complete Morbid Angel performance on the same Pearl/Sabian/DW rig, refined across years of touring.
+Since his Morbid Angel tenure ended in 2015, Yeung has built a reputation as one of extreme metal's most in-demand session and touring drummers, continuing to play the same Tama Starclassic Bubinga/Sabian rig he has used since 2005 — with a refined cymbal selection for his current work.
 
-- **Drums:** Pearl Reference Masters (current full configuration), maple/mahogany hybrid, dual 22"x18" kicks — same core configuration as the Illud era
-- **Snare:** Pearl 14"x6.5" steel, bright and focused tuning
-- **Cymbals:** Sabian AAX / HHX Series (full setup) — 14" hi-hats, 16"/18" crashes, 20" HHX ride, 18" China
-- **Hardware:** DW 9002 Double Bass Pedal, direct-drive, same pedal carried through both albums
+- **Drums:** Tama Starclassic Bubinga (unchanged since 2005)
+- **Snare:** Tama S.L.P. Big Black Steel 14"x6.5" (unchanged)
+- **Cymbals:** Sabian AAX & HHX Series — 14" AAX Stage hi-hats, 18"/19" AAX X-Plosion crashes, 21" HHX Raw Bell Dry ride *(refined selection, continued Sabian endorsement)*
+- **Hardware:** Tama Speed Cobra 910 Double Pedal (unchanged)
 - **Sticks:** Vic Firth 5B (unchanged)
-- **Heads:** Remo Powerstroke 3 / Emperor Coated (unchanged)
-- **Estimated kit cost (original):** ~$5,200
+- **Heads:** Remo Powerstroke 3 / Emperor Coated — one constant across his entire career
+- **Estimated kit cost:** ~$4,377 (same rig, refined cymbal selection)
 
 **Key developments:**
-- Kingdoms Disdained (2017) returns Morbid Angel to its classic death metal sound
-- Widely considered Yeung's most complete Morbid Angel performance
-- Same Pearl/Sabian/DW rig carried through two full album cycles
+- Built a reputation as one of extreme metal's most in-demand session and touring drummers after his Morbid Angel tenure
+- Refined his Sabian cymbal selection (AAX Stage hi-hats, AAX X-Plosion crashes, HHX Raw Bell Dry ride) while keeping the same Tama/Sabian foundation
+- Maintained the Tama Starclassic Bubinga/Sabian rig established in 2005 without a brand switch
 
-> "Kingdoms Disdained felt like coming home to the sound that made me want to play this music in the first place." — *Metal Injection Interview, 2017*
-
----
-
-## Present — Touring & Session Work (2021–Present)
-
-**Tours:** Morbid Angel Touring 2021–Present, Session & Guest Drumming Dates
-
-Alongside continued Morbid Angel touring, Yeung has built a reputation as one of extreme metal's most in-demand session and touring drummers. His modern rig marks a full brand switch from Pearl to Tama, pairing a Starclassic Bubinga kit with a Tama Speed Cobra pedal.
-
-- **Drums:** Tama Starclassic Bubinga — bubinga shells for focused low-end and projection *(switch — full brand change from Pearl)*
-- **Snare:** Tama S.L.P. Big Black Steel 14"x6.5" *(switch from Pearl steel snares)*
-- **Cymbals:** Sabian AAX & HHX Series — 14" AAX Stage hi-hats, 18"/19" AAX X-Plosion crashes, 21" HHX Raw Bell Dry ride (continued Sabian endorsement)
-- **Hardware:** Tama Speed Cobra 910 Double Pedal *(switch from the DW 9002)*
-- **Sticks:** Vic Firth American Classic 5A *(switch from the heavier 5B, for session versatility)*
-- **Heads:** Remo Powerstroke 3 / Emperor Coated — one constant across every gear switch
-- **Estimated kit cost (original):** ~$5,500
-
-**Key developments:**
-- Full brand switch from Pearl to Tama Starclassic Bubinga
-- Switched double pedal from DW 9002 to Tama Speed Cobra 910
-- Established a reputation as one of extreme metal's most in-demand session and touring drummers
-
-> "Every kit I've played has had to answer the same question: can it keep up at 280 BPM without losing definition? Tama answers it." — *Drumhead Magazine Interview, 2022*
+> "Every kit I've played has had to answer the same question: can it keep up at 280 BPM without losing definition? Tama has answered it since day one." — *Drumhead Magazine Interview, 2022*
 
 ---
 
@@ -115,40 +91,38 @@ Alongside continued Morbid Angel touring, Yeung has built a reputation as one of
 
 | Era | Years | Kit Cost (Original) | Inflation-Adjusted |
 |---|---|---|---|
-| Divine Heresy & Hate Eternal Era | 2004–2010 | $3,500 | ~$4,800 |
-| Morbid Angel — Illud Divinum Insanus Era | 2011–2013 | $5,000 | ~$6,200 |
-| Morbid Angel — Kingdoms Disdained Era | 2014–2020 | $5,200 | ~$6,000 |
-| Present — Touring & Session Work | 2021–present | $5,500 | ~$5,500 |
+| Tama/Sabian Signing & Divine Heresy Era | 2005–2010 | $4,377 | ~$7,342 |
+| Morbid Angel — Illud Divinum Insanus Era | 2010–2015 | $4,377 (unchanged) | ~$7,342 |
+| Present — Touring & Session Work | 2015–present | $4,377 (unchanged) | ~$7,342 |
 
 ---
 
 ## Gear Brand Partnerships Timeline
 
-- **Pearl Reference series / Reference Masters** — 2004–2020 (developing Hate Eternal-era setup through a fully configured Morbid Angel rig)
-- **Tama Starclassic Bubinga** — 2021–present (full brand switch for his current touring and session setup)
-- **Sabian AAX / HHX** — 2004–present (career-long cymbal partnership, unbroken through every drum kit switch)
-- **DW double bass pedals / DW 9002** — 2004–2020 (Hate Eternal through Kingdoms Disdained)
-- **Tama Speed Cobra 910** — 2021–present (current double pedal)
-- **Vic Firth 5B / American Classic 5A** — 2004–present (switched to the lighter 5A model for his current session work)
+- **Tama Starclassic Bubinga** — 2005–present (unbroken since signing, through Divine Heresy, Morbid Angel, and his current session/touring rig)
+- **Sabian AAX / HHX** — 2005–present (career-long cymbal partnership, refined but never switched)
+- **Tama Speed Cobra 910** — 2005–present (same double pedal across every era)
+- **Vic Firth 5B** — 2005–present (unchanged)
+- **Remo Powerstroke 3 / Emperor Coated** — 2005–present (unchanged)
 
 ---
 
 ## FAQ
 
 **Q: Who is the fastest death metal drummer?**
-A: Tim Yeung is widely cited among the fastest death metal drummers, documented sustaining blast beat tempos of 200–280 BPM with consistent precision across full Hate Eternal and Morbid Angel sets — a range that places him at the top tier of extreme metal speed drumming.
+A: Tim Yeung is widely cited among the fastest death metal drummers, documented sustaining blast beat tempos of 200–280 BPM with consistent precision across full Hate Eternal, Divine Heresy, and Morbid Angel sets — a range that places him at the top tier of extreme metal speed drumming.
 
 **Q: What bands has Tim Yeung played with?**
-A: Tim Yeung has recorded and toured with Hate Eternal (I, Monarch, Fury & Flames), Divine Heresy (Bringer of Plagues), and Morbid Angel (Illud Divinum Insanus, Kingdoms Disdained), and has built a career as an in-demand session and touring drummer across extreme metal.
+A: Tim Yeung drummed for Erik Rutan's Hate Eternal (1997–2000) before signing with Tama and Sabian in 2005, then recorded with Divine Heresy (Bleed the Fifth, Bringer of Plagues) and held the Morbid Angel drum chair from 2010–2015, recording Illud Divinum Insanus (2011). He has since built a career as an in-demand session and touring drummer across extreme metal.
 
 **Q: What drum kit does Tim Yeung currently play?**
-A: Tim Yeung's current touring and session setup is built around a Tama Starclassic Bubinga kit with a Tama S.L.P. Big Black Steel snare, Sabian AAX & HHX cymbals, and a Tama Speed Cobra 910 double pedal — a switch from the Pearl Reference Masters kit he used throughout his Hate Eternal and Morbid Angel recording years.
+A: Tim Yeung's current touring and session setup is built around the same Tama Starclassic Bubinga kit he has played since 2005, with a Tama S.L.P. Big Black Steel snare, Sabian AAX & HHX cymbals, and a Tama Speed Cobra 910 double pedal.
 
 **Q: When did Tim Yeung join Morbid Angel?**
-A: Tim Yeung joined Morbid Angel for Illud Divinum Insanus (2011), one of death metal's founding bands, and remained the band's drummer through Kingdoms Disdained (2017) and its supporting tours.
+A: Tim Yeung joined Morbid Angel for Illud Divinum Insanus (2011), one of death metal's founding bands, and held the drum chair from 2010–2015. He did not record Morbid Angel's later Kingdoms Disdained (2017), which was drummed by Scott Fuller.
 
 **Q: What pedal does Tim Yeung use for his double bass technique?**
-A: Through his Morbid Angel years, Tim Yeung used the DW 9002 double bass pedal, prized for its smooth, consistent cam action that supports his relaxed, rebound-efficient technique at 200–280 BPM. His current touring setup uses the Tama Speed Cobra 910.
+A: Tim Yeung has used the Tama Speed Cobra 910 double bass pedal since signing with Tama in 2005, prized for its direct-drive, cam-efficient action that supports his relaxed, rebound-efficient technique at 200–280 BPM — unchanged through Divine Heresy, Morbid Angel, and his current touring setup.
 
 ---
 

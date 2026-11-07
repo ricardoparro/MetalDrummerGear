@@ -14,7 +14,7 @@
 
 - **[Brann Dailor](https://metalforge.io/drummer/brann-dailor)** (Mastodon) — 14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China
 - **[Chris Adler](https://metalforge.io/drummer/chris-adler)** (Lamb of God) — 14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China
-- **[Matt Halpern](https://metalforge.io/drummer/matt-halpern)** (Periphery) — 15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China
+- **[Matt Halpern](https://metalforge.io/drummer/matt-halpern)** (Periphery) — 14" Traditional Medium Hi-Hats, 18" & 20" Traditional Extra Thin Hammered Crashes, 21" Byzance Dark Double Down Crash-Ride, plus Artist Concept "Double Down Stack"
 - **[Navene Koperweis](https://metalforge.io/drummer/navene-koperweis)** (Entheos / ex-Animals as Leaders) — 15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash
 - **[Chris Turner](https://metalforge.io/drummer/chris-turner)** (Oceans Ate Alaska) — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China
 - **[Matt Garstka](https://metalforge.io/drummer/matt-garstka)** (Animals as Leaders) — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride
@@ -48,4 +48,4 @@ A: MetalForge tracks all Meinl series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/meinl/byzance/drummers-using](https://metalforge.io/gear/meinl/byzance/drummers-using) · Last updated: 2026-10-30*
+*Source: [metalforge.io/gear/meinl/byzance/drummers-using](https://metalforge.io/gear/meinl/byzance/drummers-using) · Last updated: 2026-11-07*

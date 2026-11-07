@@ -305,7 +305,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/gene-hoglan.webp',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
-    kitOverview: 'Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany hybrid shell chosen for its tonal clarity and projection at the extreme tempos Hoglan maintains across death metal, thrash metal, and progressive metal. The cornerstone of the Gene Hoglan drum set is a Pearl Reference Brass snare (14×6.5"): a full-brass shell delivering the precise, cutting crack his metronomic playing demands, earning him the nickname "The Atomic Clock."\n\nSabian AAX cymbals complete the Gene Hoglan drum kit: 15" AAX Hi-Hats for crisp, articulate hi-hat patterns; 18" and 20" AAX Crashes for quick-response accent work across Death\'s Symbolic, Testament\'s Formation of Damnation, and Dethklok sessions; a 22" AAX Ride; and a 20" AAX China. Pearl Demon Drive double pedals — engineered for single-chain precision — power the blazing double-bass passages that are a Hoglan trademark.\n\nThe Gene Hoglan drum set has remained consistent in its Pearl/Sabian configuration across more than 20 bands over four decades. He uses Promark Classic Forward 2B drumsticks and Evans drumheads tuned for focused tone — a setup equally effective for Dark Angel\'s thrash, Death\'s technical death metal, and Dethklok\'s satirical brutality.',
+    kitOverview: 'Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany hybrid shell chosen for its tonal clarity and projection at the extreme tempos Hoglan maintains across death metal, thrash metal, and progressive metal. The cornerstone of the Gene Hoglan drum set is a Pearl snare (the specific model has not been independently verified), delivering the precise, cutting crack his metronomic playing demands, earning him the nickname "The Atomic Clock."\n\nSabian AAX cymbals complete the Gene Hoglan drum kit: 15" AAX Hi-Hats for crisp, articulate hi-hat patterns; 18" and 20" AAX Crashes for quick-response accent work across Death\'s Symbolic, Testament\'s Formation of Damnation, and Dethklok sessions; a 22" AAX Ride; and a 20" AAX China. Pearl Demon Drive double pedals — engineered for single-chain precision — power the blazing double-bass passages that are a Hoglan trademark.\n\nThe Gene Hoglan drum set has remained consistent in its Pearl/Sabian configuration across more than 20 bands over four decades. He uses Promark Classic Forward 2B drumsticks and Evans drumheads tuned for focused tone — a setup equally effective for Dark Angel\'s thrash, Death\'s technical death metal, and Dethklok\'s satirical brutality.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Gene_Hoglan',
       'https://www.instagram.com/gene_hoglan/',
@@ -314,12 +314,13 @@ const drummers = [
     ],
     gear: {
       drums: 'Pearl Reference Pure',
-      snare: 'Pearl Reference 14x6.5" Brass',
+      snare: 'Pearl (specific model not independently verified)',
       cymbals: 'Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
       hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
       sticks: 'Promark Classic Forward 2B',
       heads: 'Evans',
-      verified: true,
+      verified: false,
+      notes: 'Pearl and Sabian endorsements confirmed; the specific snare model is not independently verified — sources are generic artist-roster pages that do not name a snare model.',
       sources: ['https://pearldrum.com/en/artist/gene-hoglan', 'https://www.drumeo.com/beat/gene-hoglans-drum-kit/']
     },
     photos: [
@@ -386,7 +387,7 @@ const drummers = [
         albums: ['The Formation of Damnation', 'Dark Roots of Earth', 'Titans of Creation', 'Dethalbum I, II, III'],
         gear: {
           drums: 'Pearl Reference Pure',
-          snare: 'Pearl Reference 14x6.5" Brass',
+          snare: 'Pearl (specific model not independently verified)',
           cymbals: 'Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
           hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
           sticks: 'Promark Classic Forward 2B'
@@ -753,7 +754,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/ray-luzier.webp',
     bio: 'Ray Luzier, born in 1970, is an American drummer who joined Korn in 2007. Before Korn, he was a sought-after session musician, working with artists like David Lee Roth and Army of Anyone. His drumming combines rock solid grooves with technical flair, bringing a fresh energy to Korn\'s signature sound while respecting their nu-metal roots.',
-    kitOverview: 'Ray Luzier\'s drum kit is a Pearl Reference Series build — the professional shell line he consolidated as Korn\'s permanent drummer in the Paradigm Shift era and has maintained since joining the band in 2007. The Ray Luzier drum set pairs the Pearl Reference shells with a Pearl Reference 14×6.5" Brass snare, delivering the cutting, full-bodied backbeat crack that drives Korn\'s dense, syncopated nu-metal grooves on recordings from [Korn III: Remember Who You Are](/articles/korn-iii-drum-setup) through [The Paradigm Shift](/articles/the-paradigm-shift-drum-setup).\n\nSabian AAX Series cymbals complete the Ray Luzier drum kit: 14" Stage Hi-Hats for tight, articulate groove patterns; 18" and 19" X-Plosion Crashes for fast, explosive accents; a 21" Stage Ride for rhythmic clarity; and an 18" AAXtreme China for aggressive punctuation on Korn\'s heaviest passages. A DW 9002 double bass pedal and Pearl D-2000 Roadster Throne anchor the hardware. Vic Firth Ray Luzier Signature sticks complete a drum set built around the Luzier/Fieldy rhythm section lock — the groove foundation of nu-metal\'s most enduring second act. For the full gear breakdown, see the [Ray Luzier complete kit guide](/articles/whats-in-ray-luziers-kit).',
+    kitOverview: 'Ray Luzier\'s drum kit is a Pearl Reference Series build — the professional shell line he consolidated as Korn\'s permanent drummer in the Paradigm Shift era and has maintained since joining the band in 2007. The Ray Luzier drum set pairs the Pearl Reference shells with a Pearl snare (the specific model has not been independently verified), delivering the cutting, full-bodied backbeat crack that drives Korn\'s dense, syncopated nu-metal grooves on recordings from [Korn III: Remember Who You Are](/articles/korn-iii-drum-setup) through [The Paradigm Shift](/articles/the-paradigm-shift-drum-setup).\n\nSabian AAX Series cymbals complete the Ray Luzier drum kit: 14" Stage Hi-Hats for tight, articulate groove patterns; 18" and 19" X-Plosion Crashes for fast, explosive accents; a 21" Stage Ride for rhythmic clarity; and an 18" AAXtreme China for aggressive punctuation on Korn\'s heaviest passages. A DW 9002 double bass pedal and Pearl D-2000 Roadster Throne anchor the hardware. Vic Firth Ray Luzier Signature sticks complete a drum set built around the Luzier/Fieldy rhythm section lock — the groove foundation of nu-metal\'s most enduring second act. For the full gear breakdown, see the [Ray Luzier complete kit guide](/articles/whats-in-ray-luziers-kit).',
     sameAs: [
       'https://en.wikipedia.org/wiki/Ray_Luzier',
       'https://www.discogs.com/artist/356148-Ray-Luzier',
@@ -761,12 +762,12 @@ const drummers = [
     ],
     gear: {
       drums: 'Pearl Reference Series',
-      snare: 'Pearl Reference 14x6.5" Brass',
+      snare: 'Pearl (specific model not independently verified)',
       cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)',
       hardware: 'DW 9002 Double Pedal, Pearl D-2000 Roadster Throne',
       sticks: 'Vic Firth Ray Luzier Signature',
-      verified: true,
-      verifiedAt: '2026-08-08',
+      verified: false,
+      notes: 'Pearl and Sabian endorsements confirmed; the specific snare model is not independently verified — sources are generic artist-roster pages that do not name a snare model.',
       sources: [
         'https://pearldrum.com/en/artist/ray-luzier',
         'https://sabian.com/artist/ray-luzier/'
@@ -1958,7 +1959,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/nick-augusto.webp',
     bio: 'Nick Augusto (born August 4, 1986) is an American drummer best known for his tenure with Trivium from 2010 to 2014. Before joining Trivium, he was the drummer for the grindcore band Maruta and played in Metal Militia alongside future Trivium bassist Paolo Gregoletto. Augusto initially joined Trivium as their drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus. His powerful, speedy drumming style contributed to two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013). Known for his aggressive playing and technical proficiency, Augusto brought a fresh energy to Trivium\'s live performances. After parting ways with Trivium, he formed the band Corrosion and has continued touring with bands like Light the Torch.',
-    kitOverview: 'Nick Augusto\'s drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2010–2014 tenure as Trivium\'s drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is his Pearl Reference 14x6.5" Brass snare, delivering the sharp, cutting crack needed to punch through Trivium\'s dense thrash-metalcore guitar work, paired with a DW 9000 Series Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.\n\nSabian AAX Series cymbals round out the Nick Augusto drum set: 14" Stage Hi-Hats for tight articulation, 18" and 19" X-Plosion Crashes for explosive accents, a 21" Stage Ride for a driving rhythmic backbone, and an 18" AAXtreme China for aggressive punctuation on Trivium\'s heaviest passages. Pro-Mark Nylon Tip 5B sticks and Evans drumheads complete the rig. This configuration reflects Augusto\'s gear from his Trivium era (2010-2014).',
+    kitOverview: 'Nick Augusto\'s drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2010–2014 tenure as Trivium\'s drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is a Pearl snare (the specific model has not been independently verified), delivering the sharp, cutting crack needed to punch through Trivium\'s dense thrash-metalcore guitar work, paired with a DW 9000 Series Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.\n\nSabian AAX Series cymbals round out the Nick Augusto drum set: 14" Stage Hi-Hats for tight articulation, 18" and 19" X-Plosion Crashes for explosive accents, a 21" Stage Ride for a driving rhythmic backbone, and an 18" AAXtreme China for aggressive punctuation on Trivium\'s heaviest passages. Pro-Mark Nylon Tip 5B sticks and Evans drumheads complete the rig. This configuration reflects Augusto\'s gear from his Trivium era (2010-2014).',
     sameAs: [
       'https://en.wikipedia.org/wiki/Nick_Augusto',
       'https://www.instagram.com/nickaugusto/',
@@ -1966,13 +1967,13 @@ const drummers = [
     ],
     gear: {
       drums: 'Pearl Reference Pure',
-      snare: 'Pearl Reference 14x6.5" Brass',
+      snare: 'Pearl (specific model not independently verified)',
       cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)',
       hardware: 'DW 9000 Series Double Pedal, Pearl D-2000 Throne',
       sticks: 'Pro-Mark Nylon Tip 5B',
       heads: 'Evans',
       verified: false,
-      notes: 'Gear from Trivium era (2010-2014)'
+      notes: 'Gear from Trivium era (2010-2014). The specific snare model is not independently verified.'
     },
     photos: [
       '/images/drummers/nick-augusto.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/1/10/Trivium_2012.JPG
@@ -2376,20 +2377,20 @@ const drummers = [
     country: 'Canada',
     image: '/images/drummers/ryan-van-poederooyen.webp',
     bio: 'Ryan Van Poederooyen is a Canadian drummer best known for his longtime collaboration with Devin Townsend in the Devin Townsend Band and Devin Townsend Project. A Montreal native, Van Poederooyen\'s powerful yet dynamic drumming style has been central to Townsend\'s music since the early 2000s. His ability to navigate Townsend\'s complex, genre-defying compositions—from ambient passages to crushing metal sections—showcases his versatility. Key albums include "Accelerated Evolution," "Synchestra," "Addicted," "Deconstruction," and "Transcendence." Van Poederooyen combines heavy metal power with prog-rock finesse, featuring creative tom patterns, tasteful cymbal work, and thunderous double bass. He has also worked as a session drummer and drum teacher in the Montreal area.',
-    kitOverview: 'Ryan Van Poederooyen\'s rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend\'s primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults. The cornerstone of the Ryan Van Poederooyen drum kit is a Pearl Reference 14x6.5" Brass snare, delivering the cutting attack needed to punch through Townsend\'s dense, layered guitar walls on records like Accelerated Evolution, Synchestra, and Transcendence.\n\nSabian\'s HHX and AAX lines shape the kit\'s cymbal voice: 14" HHX Evolution Hi-Hats for tight, articulate timekeeping through Townsend\'s odd-meter passages; 18" and 20" HHX Evolution Crashes for dynamic accents; a 21" HHX Raw Bell Dry Ride for dry, controlled ride work; and a 19" AAXtreme China for aggressive punctuation on the heavier sections. A Pearl Demon Drive double pedal supplies the thunderous double bass that anchors Townsend\'s crushing riffs, while a Pearl D-3000 throne provides the stability needed across marathon live sets. Vic Firth American Classic 5B sticks and Evans heads round out a versatile rig capable of moving between ambient restraint and full metal power within a single song.',
+    kitOverview: 'Ryan Van Poederooyen\'s rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend\'s primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults. The cornerstone of the Ryan Van Poederooyen drum kit is a Pearl snare (the specific model has not been independently verified), delivering the cutting attack needed to punch through Townsend\'s dense, layered guitar walls on records like Accelerated Evolution, Synchestra, and Transcendence.\n\nSabian\'s HHX and AAX lines shape the kit\'s cymbal voice: 14" HHX Evolution Hi-Hats for tight, articulate timekeeping through Townsend\'s odd-meter passages; 18" and 20" HHX Evolution Crashes for dynamic accents; a 21" HHX Raw Bell Dry Ride for dry, controlled ride work; and a 19" AAXtreme China for aggressive punctuation on the heavier sections. A Pearl Demon Drive double pedal supplies the thunderous double bass that anchors Townsend\'s crushing riffs, while a Pearl D-3000 throne provides the stability needed across marathon live sets. Vic Firth American Classic 5B sticks and Evans heads round out a versatile rig capable of moving between ambient restraint and full metal power within a single song.',
     sameAs: [
       'https://www.instagram.com/ryanvanp/',
       'https://www.discogs.com/artist/407628-Ryan-Van-Poederooyen'
     ],
     gear: {
       drums: 'Pearl Reference Series',
-      snare: 'Pearl Reference 14x6.5" Brass',
+      snare: 'Pearl (specific model not independently verified)',
       cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China)',
       hardware: 'Pearl Demon Drive Double Pedal, Pearl D-3000 Throne',
       sticks: 'Vic Firth American Classic 5B',
       heads: 'Evans',
-      verified: true,
-      verifiedAt: '2026-02-03',
+      verified: false,
+      notes: 'Pearl and Sabian endorsements confirmed; the specific snare model is not independently verified — sources are generic artist-roster pages that do not name a snare model.',
       sources: ['https://pearldrum.com/en/artists', 'https://sabian.com/artists']
     },
     photos: [
@@ -3184,18 +3185,19 @@ const drummers = [
     country: 'Sweden',
     image: '/images/drummers/jocke-wallgren.webp',
     bio: 'Jocke Wallgren (born June 10, 1985) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing Fredrik Andersson. His drumming brings a fresh energy to Amon Amarth\'s Viking-themed sound, combining powerful double bass patterns with groove-oriented playing.',
-    kitOverview: 'Jocke Wallgren plays a Pearl Reference Pure drum kit — the versatile, hybrid-shell configuration that has powered Amon Amarth\'s Viking metal assault since he joined the band in 2016. The Jocke Wallgren drum set centers on the matching Pearl Reference Pure 14x6.5" snare, delivering the warm, full-bodied crack that projects through Amon Amarth\'s dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages worldwide.\n\nZildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit\'s sonic character: 14" A Custom Hi-Hats for tight, driving patterns; 18" and 19" A Custom Crashes for explosive accents that punctuate Amon Amarth\'s galloping riffs; and a 21" K Custom Ride for dark, controlled rhythmic definition. A Pearl Demon Drive double pedal anchors his double bass work, giving Wallgren the speed and stability needed for the band\'s driving, groove-oriented tempos. Vic Firth American Classic 5B sticks and Evans drumheads complete the rig — a setup built for consistency across Amon Amarth\'s relentless touring schedule since he joined the band in 2016, through his studio debut on Berserker (2019).',
+    kitOverview: 'Jocke Wallgren plays a Pearl Reference Pure drum kit — the versatile, hybrid-shell configuration that has powered Amon Amarth\'s Viking metal assault since he joined the band in 2016. The Jocke Wallgren drum set centers on a Pearl snare (the specific model has not been independently verified), delivering the warm, full-bodied crack that projects through Amon Amarth\'s dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages worldwide.\n\nZildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit\'s sonic character: 14" A Custom Hi-Hats for tight, driving patterns; 18" and 19" A Custom Crashes for explosive accents that punctuate Amon Amarth\'s galloping riffs; and a 21" K Custom Ride for dark, controlled rhythmic definition. A Pearl Demon Drive double pedal anchors his double bass work, giving Wallgren the speed and stability needed for the band\'s driving, groove-oriented tempos. Vic Firth American Classic 5B sticks and Evans drumheads complete the rig — a setup built for consistency across Amon Amarth\'s relentless touring schedule since he joined the band in 2016, through his studio debut on Berserker (2019).',
     sameAs: [
       'https://www.discogs.com/artist/2723584-Jocke-Wallgren'
     ],
     gear: {
       drums: 'Pearl Reference Pure',
-      snare: 'Pearl Reference Pure 14x6.5"',
+      snare: 'Pearl (specific model not independently verified)',
       cymbals: 'Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride)',
       hardware: 'Pearl Demon Drive Double Pedal',
       sticks: 'Vic Firth American Classic 5B',
       heads: 'Evans',
-      verified: true,
+      verified: false,
+      notes: 'Pearl endorsement confirmed via the generic pearldrum.com artist-roster page; the specific snare model is not independently verified.',
       sources: ['https://pearldrum.com/en/artists']
     },
     photos: [

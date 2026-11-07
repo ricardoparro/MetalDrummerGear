@@ -90,7 +90,7 @@ export const GEAR_INDEX = {
         "id": 18,
         "name": "Matt Halpern",
         "slug": "matt-halpern",
-        "configString": "Meinl Byzance Series (15\" Dark Hi-Hats, 18\" & 20\" Extra Dry Medium Crashes, 22\" Transition Ride, 18\" Extra Dry China)"
+        "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 18\" & 20\" Traditional Extra Thin Hammered Crashes, 21\" Byzance Dark Double Down Crash-Ride, plus Artist Concept \"Double Down Stack\")"
       },
       {
         "id": 24,
@@ -179,12 +179,6 @@ export const GEAR_INDEX = {
         "name": "Matt Halpern",
         "slug": "matt-halpern",
         "configString": "Pearl Demon Drive Double Pedal, Pearl D-2000 Throne"
-      },
-      {
-        "id": 31,
-        "name": "Nick Augusto",
-        "slug": "nick-augusto",
-        "configString": "Pearl Demon Drive Double Pedal, Pearl D-2000 Throne"
       }
     ],
     "Eliminator Double Bass Pedal": [
@@ -221,20 +215,6 @@ export const GEAR_INDEX = {
         "configString": "Pearl Eliminator Double Pedal"
       }
     ],
-    "Masters 14x5.5\" Maple": [
-      {
-        "id": 55,
-        "name": "Jaska Raatikainen",
-        "slug": "jaska-raatikainen",
-        "configString": "Pearl Masters 14x5.5\" Maple"
-      },
-      {
-        "id": 60,
-        "name": "Kevin Talley",
-        "slug": "kevin-talley",
-        "configString": "Pearl Masters 14x5.5\" Maple"
-      }
-    ],
     "Reference": [
       {
         "id": 2,
@@ -255,6 +235,12 @@ export const GEAR_INDEX = {
         "configString": "Pearl Reference Series"
       },
       {
+        "id": 19,
+        "name": "Inferno",
+        "slug": "inferno",
+        "configString": "Pearl Reference Series"
+      },
+      {
         "id": 36,
         "name": "Ryan Van Poederooyen",
         "slug": "ryan-van-poederooyen",
@@ -265,44 +251,6 @@ export const GEAR_INDEX = {
         "name": "Paul Mazurkiewicz",
         "slug": "paul-mazurkiewicz",
         "configString": "Pearl Reference"
-      }
-    ],
-    "Reference 14x6.5\" Brass": [
-      {
-        "id": 3,
-        "name": "Gene Hoglan",
-        "slug": "gene-hoglan",
-        "configString": "Pearl Reference 14x6.5\" Brass"
-      },
-      {
-        "id": 8,
-        "name": "Ray Luzier",
-        "slug": "ray-luzier",
-        "configString": "Pearl Reference 14x6.5\" Brass"
-      },
-      {
-        "id": 18,
-        "name": "Matt Halpern",
-        "slug": "matt-halpern",
-        "configString": "Pearl Reference 14x6.5\" Brass"
-      },
-      {
-        "id": 31,
-        "name": "Nick Augusto",
-        "slug": "nick-augusto",
-        "configString": "Pearl Reference 14x6.5\" Brass"
-      },
-      {
-        "id": 36,
-        "name": "Ryan Van Poederooyen",
-        "slug": "ryan-van-poederooyen",
-        "configString": "Pearl Reference 14x6.5\" Brass"
-      },
-      {
-        "id": 58,
-        "name": "Jocke Wallgren",
-        "slug": "jocke-wallgren",
-        "configString": "Pearl Reference 14x6.5\" Brass"
       }
     ],
     "Reference Pure": [
@@ -373,12 +321,6 @@ export const GEAR_INDEX = {
         "name": "Nick Augusto",
         "slug": "nick-augusto",
         "configString": "Sabian AAX Series (14\" Stage Hi-Hats, 18\" & 19\" X-Plosion Crashes, 21\" Stage Ride, 18\" AAXtreme China)"
-      },
-      {
-        "id": 49,
-        "name": "Richard Christy",
-        "slug": "richard-christy",
-        "configString": "Sabian AA/AAX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 18\" AAX Chinese)"
       },
       {
         "id": 60,
@@ -471,6 +413,20 @@ export const GEAR_INDEX = {
     ]
   },
   "Tama": {
+    "Iron Cobra Double Pedal": [
+      {
+        "id": 34,
+        "name": "Ben Koller",
+        "slug": "ben-koller",
+        "configString": "Tama Iron Cobra Double Pedal"
+      },
+      {
+        "id": 65,
+        "name": "Nick Menza",
+        "slug": "nick-menza",
+        "configString": "Tama Iron Cobra Double Pedal"
+      }
+    ],
     "S.L.P. 14x6.5\" G-Maple": [
       {
         "id": 15,
@@ -603,15 +559,15 @@ export const GEAR_INDEX = {
         "configString": "Tama Starclassic Performer B/B"
       },
       {
-        "id": 70,
-        "name": "Alex Rüdinger",
-        "slug": "alex-rudinger",
-        "configString": "Tama Starclassic Performer B/B"
-      },
-      {
         "id": 34,
         "name": "Ben Koller",
         "slug": "ben-koller",
+        "configString": "Tama Starclassic Performer B/B"
+      },
+      {
+        "id": 70,
+        "name": "Alex Rüdinger",
+        "slug": "alex-rudinger",
         "configString": "Tama Starclassic Performer B/B"
       }
     ]
@@ -819,6 +775,20 @@ export const GEAR_INDEX = {
         "name": "Sean Reinert",
         "slug": "sean-reinert",
         "configString": "Zildjian K Custom Series"
+      }
+    ],
+    "K Custom & A Custom": [
+      {
+        "id": 34,
+        "name": "Ben Koller",
+        "slug": "ben-koller",
+        "configString": "Zildjian K Custom & A Custom Series (14\" K Custom Thin Hi-Hats, 18\" & 19\" K Custom Medium Thin Crashes, 21\" K Custom Ride, 18\" K China)"
+      },
+      {
+        "id": 48,
+        "name": "Abe Cunningham",
+        "slug": "abe-cunningham",
+        "configString": "Zildjian K Custom & A Custom Series (14\" K Custom Hi-Hats, 18\" & 20\" K Custom Crashes, 22\" K Custom Ride, 19\" A Custom China)"
       }
     ]
   }

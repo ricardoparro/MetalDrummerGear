@@ -25,7 +25,7 @@ A: Raatikainen's technique balances death metal velocity with melodic awareness 
 A: Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14"x5.5" Maple snare, Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), a Pearl Eliminator double pedal, and Vic Firth American Classic 5A sticks.
 
 **Q: What drums and gear does Nicko McBrain play?**
-A: Nicko McBrain plays a Sonor SQ2 Series kit with his Sonor Nicko McBrain Signature 14"x6.5" snare, Paiste 2002 & Signature Series cymbals (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China), Sonor 600 Series hardware with a single bass drum pedal, Vic Firth Nicko McBrain Signature sticks, and Remo Emperor drumheads.
+A: Nicko McBrain plays a British Drum Co. kit with his Sonor Nicko McBrain Signature 14"x6.5" snare, Paiste 2002 & Signature Series cymbals (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China), a single bass drum pedal, Vic Firth Nicko McBrain Signature sticks, and Remo Emperor drumheads.
 
 **Q: What is each drummer's broader influence on metal?**
 A: Raatikainen helped build Finland's melodic death metal scene into a global commercial force — Children of Bodom sold over two million albums worldwide, and his drumming on records like "Hatebreeder" and "Follow the Reaper" influenced a generation of melodic death and metalcore drummers. McBrain is one of heavy metal's most enduring and recognizable drummers; his galloping single-pedal style on "The Trooper," "Aces High," and "Powerslave" became a rhythmic template studied by metal drummers worldwide, and his four-decade tenure with Iron Maiden makes him one of the genre's most influential figures.

@@ -16,13 +16,6 @@ The Pearl Reference Pure is Pearl's top-tier single-species maple shell series, 
 
 See the full profile → [metalforge.io/drummers/nick-augusto](https://metalforge.io/drummers/nick-augusto)
 
-### Igor Cavalera — Sepultura / Cavalera Conspiracy
-**Band & Era:** Sepultura / Cavalera Conspiracy, 2006–2016  
-**Configuration:** Pearl Reference Pure — 22"×18" Bass Drum, 10"×8", 12"×9", 14"×12", 16"×14" Toms  
-**Notes:** Igor Cavalera co-founded Sepultura with his brother Max in 1984 and is one of the most influential drummers in the history of extreme metal. His drumming on landmark albums including "Arise" (1991), "Chaos A.D." (1993), and "Roots" (1996) helped define groove metal and incorporate Brazilian tribal percussion into the vocabulary of heavy music. After leaving Sepultura in 2006 and reuniting with Max in Cavalera Conspiracy, Cavalera explored a range of drum configurations across his expanded post-Sepultura career, including a period with Pearl Reference Pure shells. His hard-hitting, rhythmically sophisticated style — built on tribal groove patterns, powerful rimshots, and an instinctive feel for groove over speed — suits the Pearl Reference Pure's controlled dynamics and natural resonance. His cymbal setup during this period featured Paiste RUDE and 2002 series: 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China, producing a raw, cutting sound that complemented the Pearl shells' warmth. Cavalera's influence on Latin American metal and his tribal drumming innovations make him one of the most distinctive voices in the instrument's history.
-
-See the full profile → [metalforge.io/drummers/igor-cavalera](https://metalforge.io/drummers/igor-cavalera)
-
 ---
 
 ## About the Pearl Reference Pure
@@ -43,7 +36,7 @@ The Reference Pure is Pearl's purest acoustic statement and competes directly wi
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use the Pearl Reference Pure?**  
-A: Nick Augusto of Trivium played the Pearl Reference Pure during his 2010–2014 tenure with the band, using it to record "In Waves" and "Vengeance Falls." Igor Cavalera (Sepultura, Cavalera Conspiracy) also used the Reference Pure across his post-2006 career projects, bringing the kit's natural warmth into a tribal-groove and extreme metal context.
+A: Nick Augusto of Trivium played the Pearl Reference Pure during his 2010–2014 tenure with the band, using it to record "In Waves" and "Vengeance Falls."
 
 **Q: How does the Pearl Reference Pure compare to the Pearl Reference (non-Pure)?**  
 A: The standard Pearl Reference uses a multi-ply shell that blends maple and birch — maple for warmth and attack, birch for brightness and quick decay. The Reference Pure is 100% maple, which gives it a fuller sustain, a warmer fundamental, and a wider tuning range. For metal applications, the Reference Pure's sustain is managed primarily through head selection and damping; the tradeoff for that extra sustain is that the drum requires more deliberate tuning to prevent resonance from washing out clarity in dense mixes.

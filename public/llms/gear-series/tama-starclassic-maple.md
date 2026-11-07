@@ -1,12 +1,12 @@
 # Tama Starclassic Maple — Drums / Kits | MetalForge
 
-> The Tama Starclassic Maple is a pro-grade drums / kits choice used by 5 metal drummers in the MetalForge database.
+> The Tama Starclassic Maple is a pro-grade drums / kits choice used by 4 metal drummers in the MetalForge database.
 
 **Brand:** Tama  
 **Series:** Starclassic Maple  
 **Category:** Drums / Kits  
 **Estimated Price:** $2,500–$8,000  
-**Drummers Using It:** 5  
+**Drummers Using It:** 4  
 
 ---
 
@@ -14,11 +14,10 @@
 
 - **[Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)** (Metallica) — standard configuration
 - **[Alex Bent](https://metalforge.io/drummer/alex-bent)** (ex-Trivium / Arkaik / Dragonlord) — standard configuration
-- **[Ben Koller](https://metalforge.io/drummer/ben-koller)** (Converge / Mutoid Man / Killer Be Killed) — standard configuration
 - **[Flo Mounier](https://metalforge.io/drummer/flo-mounier)** (Cryptopsy) — standard configuration
 - **[Dirk Verbeuren](https://metalforge.io/drummer/dirk-verbeuren)** (Megadeth) — standard configuration
 
-See all 5 drummers on the [Tama Starclassic Maple gear page](https://metalforge.io/gear/tama/starclassic-maple/drummers-using).
+See all 4 drummers on the [Tama Starclassic Maple gear page](https://metalforge.io/gear/tama/starclassic-maple/drummers-using).
 
 ## Gear Specifications
 
@@ -28,15 +27,15 @@ See all 5 drummers on the [Tama Starclassic Maple gear page](https://metalforge.
 
 ## Why Metal Drummers Choose the Tama Starclassic Maple
 
-The Tama Starclassic Maple is one of the most respected drum kit series in professional metal drumming. Players including Lars Ulrich (Metallica), Alex Bent (ex-Trivium / Arkaik / Dragonlord), Ben Koller (Converge / Mutoid Man / Killer Be Killed) choose this kit for its reliable maple construction and consistent tone across all dynamics. The Starclassic Maple stands up to the physical demands of metal touring — heavy hitting, extreme tempos, and constant travel.
+The Tama Starclassic Maple is one of the most respected drum kit series in professional metal drumming. Players including Lars Ulrich (Metallica), Alex Bent (ex-Trivium / Arkaik / Dragonlord), Flo Mounier (Cryptopsy) choose this kit for its reliable maple construction and consistent tone across all dynamics. The Starclassic Maple stands up to the physical demands of metal touring — heavy hitting, extreme tempos, and constant travel.
 
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use the Tama Starclassic Maple?**
-A: 5 metal drummers in the MetalForge database play the Tama Starclassic Maple: Lars Ulrich, Alex Bent, Ben Koller, Flo Mounier, and Dirk Verbeuren. Each profile includes their exact setup and full kit configuration.
+A: 4 metal drummers in the MetalForge database play the Tama Starclassic Maple: Lars Ulrich, Alex Bent, Flo Mounier, and Dirk Verbeuren. Each profile includes their exact setup and full kit configuration.
 
 **Q: Is the Tama Starclassic Maple good for metal drumming?**
-A: Yes — the Tama Starclassic Maple is a proven metal choice, endorsed by 5 professional drummers across death, thrash, progressive, and groove metal. Lars Ulrich of Metallica is among the signature players relying on this drums / kits for high-intensity performance.
+A: Yes — the Tama Starclassic Maple is a proven metal choice, endorsed by 4 professional drummers across death, thrash, progressive, and groove metal. Lars Ulrich of Metallica is among the signature players relying on this drums / kits for high-intensity performance.
 
 **Q: How much does the Tama Starclassic Maple cost?**
 A: The Tama Starclassic Maple is estimated at $2,500–$8,000 street price. Actual pricing varies by retailer, finish, and configuration. Check Thomann (EU) or Sweetwater (US) for current deals.
@@ -46,4 +45,4 @@ A: MetalForge tracks all Tama series used by professional metal drummers. Visit 
 
 ---
 
-*Source: [metalforge.io/gear/tama/starclassic-maple/drummers-using](https://metalforge.io/gear/tama/starclassic-maple/drummers-using) · Last updated: 2026-10-30*
+*Source: [metalforge.io/gear/tama/starclassic-maple/drummers-using](https://metalforge.io/gear/tama/starclassic-maple/drummers-using) · Last updated: 2026-11-07*

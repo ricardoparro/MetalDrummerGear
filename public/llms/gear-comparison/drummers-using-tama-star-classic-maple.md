@@ -16,13 +16,6 @@ The Tama Star Classic Maple (STAR Classic Maple, or "STAR CL") is Tama's flagshi
 
 See the full profile → [metalforge.io/drummers/lars-ulrich](https://metalforge.io/drummers/lars-ulrich)
 
-### Jay Weinberg — Slipknot
-**Band & Era:** Slipknot, 2014–2023  
-**Configuration:** Tama STAR Classic Maple — 22"×18" Bass Drum, 10"×8", 12"×9", 14"×12" Toms  
-**Notes:** Jay Weinberg joined Slipknot in 2014 as the replacement for Joey Jordison and rapidly established himself as one of the most technically gifted drummers in modern metal. During his Slipknot tenure, Weinberg played the Tama STAR Classic Maple finished in a striking custom-masked design matching the band's visual aesthetic. His cymbal setup featured Zildjian A New Beat Hi-Hats, 18" and 19" A Custom Crashes, and a 21" K Custom Ride. Weinberg's aggressive playing style — blending blast beats, intricate ghost notes, and thunderous double bass patterns in arenas worldwide — stressed the STAR Classic Maple's durability alongside its tonal performance. His Tama Iron Cobra 900 double pedals were a fixture of each performance. After his departure from Slipknot in 2023, Weinberg moved to Suicidal Tendencies and has continued working with Tama equipment.
-
-See the full profile → [metalforge.io/drummers/jay-weinberg](https://metalforge.io/drummers/jay-weinberg)
-
 ### Mario Duplantier — Gojira
 **Band & Era:** Gojira, 2018–present  
 **Configuration:** Tama STAR Classic Maple — 22"×18" Bass Drums ×2, 12"×9", 13"×10" Toms  
@@ -50,7 +43,7 @@ The STAR Classic Maple is a natural stage choice for players who have outgrown m
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use the Tama Star Classic Maple?**  
-A: Lars Ulrich of Metallica is the most prominent Tama STAR Classic Maple endorser in metal, having played the series for over two decades. Jay Weinberg (Slipknot, 2014–2023) and Mario Duplantier (Gojira, 2018–present) are also long-standing STAR Classic Maple players, each deploying the kit in major-festival and arena touring contexts.
+A: Lars Ulrich of Metallica is the most prominent Tama STAR Classic Maple endorser in metal, having played the series for over two decades. Mario Duplantier (Gojira, 2018–present) is also a long-standing STAR Classic Maple player, deploying the kit in major-festival and arena touring contexts.
 
 **Q: Why does Mario Duplantier use only two toms with his Tama Star Classic Maple?**  
 A: Duplantier's minimalist kit philosophy prioritises muscle memory and arrangement over range. By restricting himself to two rack toms and two bass drums, every fill he plays is immediately recognisable and reinforces Gojira's compositional tension. The STAR Classic Maple's wide dynamic range means the two toms cover an acoustic range from tight, mid-forward attack to deep, resonant sustain — making additional drums musically redundant for his style.

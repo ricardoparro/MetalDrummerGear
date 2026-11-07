@@ -20,10 +20,10 @@ See full profile: [Flo Mounier Drummer](/drummers/flo-mounier)
 
 ### Paul Mazurkiewicz — Cannibal Corpse
 **Years used:** 2005–present
-**Configuration:** Pearl Masters Maple (20"×14" Bass ×2, 10"×8", 12"×9", 14"×12", 16"×14" Toms)
+**Configuration:** Pearl Reference (20"×14" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)
 **Endorsee:** Yes
 
-Paul Mazurkiewicz is the founding drummer of death metal institution Cannibal Corpse and one of the most consistent double bass performers in the genre's history. Since 1988, Mazurkiewicz has been the rhythmic backbone of one of the most prolific death metal discographies in existence, with over fifteen studio albums to his name. His Pearl Masters Maple setup handles his double bass workload with authority — 20"×14" kick drums deliver the explosive punch that Cannibal Corpse's hyper-aggressive compositions demand. His methodical, powerful approach to drumming highlights the Masters Maple's durability and tonal character under the sustained intensity of extended recording and touring cycles.
+Paul Mazurkiewicz is the founding drummer of death metal institution Cannibal Corpse and one of the most consistent double bass performers in the genre's history. Since 1988, Mazurkiewicz has been the rhythmic backbone of one of the most prolific death metal discographies in existence, with over fifteen studio albums to his name. His Pearl Reference setup handles his double bass workload with authority — a 20"×14" kick drum delivers the explosive punch that Cannibal Corpse's hyper-aggressive compositions demand. His methodical, powerful approach to drumming highlights the Reference's durability and tonal character under the sustained intensity of extended recording and touring cycles.
 
 See full profile: [Paul Mazurkiewicz Drummer](/drummers/paul-mazurkiewicz)
 

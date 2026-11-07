@@ -3,7 +3,7 @@
 > MetalForge's guide to the professional metal drummers who play Remo drumheads.
 > Last updated: 2026-07-05
 
-Remo is one of the two dominant drumhead makers in professional metal, alongside Evans. Founded in 1957, Remo pioneered the synthetic (Mylar) drumhead and remains a staple across heavy, progressive, and extreme metal kits. 18 metal drummers in the MetalForge database run Remo heads — most simply specify "Remo" across their kit, while a handful name a specific model (Emperor, Powerstroke 3, Ambassador) for a particular drum.
+Remo is one of the two dominant drumhead makers in professional metal, alongside Evans. Founded in 1957, Remo pioneered the synthetic (Mylar) drumhead and remains a staple across heavy, progressive, and extreme metal kits. 16 metal drummers in the MetalForge database run Remo heads — most simply specify "Remo" across their kit, while a handful name a specific model (Emperor, Powerstroke 3, Ambassador) for a particular drum.
 
 ---
 
@@ -20,15 +20,13 @@ Remo is one of the two dominant drumhead makers in professional metal, alongside
 - **[Martin Lopez](https://metalforge.io/drummers/martin-lopez)** — Soen / ex-Opeth — Remo (standard configuration)
 - **[Nicko McBrain](https://metalforge.io/drummers/nicko-mcbrain)** — Iron Maiden — Remo Emperor
 - **[Scott Travis](https://metalforge.io/drummers/scott-travis)** — Judas Priest — Remo (standard configuration)
-- **[Mikkey Dee](https://metalforge.io/drummers/mikkey-dee)** — Scorpions / Motörhead — Remo (standard configuration)
 - **[Frost](https://metalforge.io/drummers/frost)** — Satyricon / 1349 — Remo (standard configuration)
 - **[Gavin Harrison](https://metalforge.io/drummers/gavin-harrison)** — Porcupine Tree / King Crimson — Remo Ambassador
 - **[Abe Cunningham](https://metalforge.io/drummers/abe-cunningham)** — Deftones — Remo (standard configuration)
 - **[Jaska Raatikainen](https://metalforge.io/drummers/jaska-raatikainen)** — Children of Bodom — Remo (standard configuration)
 - **[Kevin Talley](https://metalforge.io/drummers/kevin-talley)** — Dying Fetus / Misery Index / Six Feet Under — Remo (standard configuration)
-- **[Martin Axenrot](https://metalforge.io/drummers/martin-axenrot)** — Opeth — Remo (standard configuration)
 
-See all 18 drummers on the [Remo drummers-using page](https://metalforge.io/gear/remo/all-drumheads/drummers-using).
+See all 16 drummers on the [Remo drummers-using page](https://metalforge.io/gear/remo/all-drumheads/drummers-using).
 
 ---
 
@@ -56,13 +54,13 @@ Remo heads are prized for their durability and consistent response across genres
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use Remo drumheads?**
-A: 18 metal drummers in the MetalForge database play Remo, including Lars Ulrich, Tomas Haake, Bill Ward, Nicko McBrain, Mikkey Dee, and Mario Duplantier. Most run the standard Remo configuration across their kit; a few — John Otto (Emperor Coated), Nicko McBrain (Emperor), Gavin Harrison (Ambassador), and Mario Duplantier (Emperor + Powerstroke 3) — specify particular models.
+A: 16 metal drummers in the MetalForge database play Remo, including Lars Ulrich, Tomas Haake, Bill Ward, Nicko McBrain, and Mario Duplantier. Most run the standard Remo configuration across their kit; a few — John Otto (Emperor Coated), Nicko McBrain (Emperor), Gavin Harrison (Ambassador), and Mario Duplantier (Emperor + Powerstroke 3) — specify particular models.
 
 **Q: Is Remo good for metal drumming?**
-A: Yes — Remo is one of the two industry-standard drumhead brands in metal (alongside Evans), used across classic heavy metal, progressive metal, and extreme metal by 18 of the drummers MetalForge tracks. Its Emperor and Powerstroke lines are built for the high-impact rimshots and low-end punch that heavy and death metal drumming demands.
+A: Yes — Remo is one of the two industry-standard drumhead brands in metal (alongside Evans), used across classic heavy metal, progressive metal, and extreme metal by 16 of the drummers MetalForge tracks. Its Emperor and Powerstroke lines are built for the high-impact rimshots and low-end punch that heavy and death metal drumming demands.
 
 **Q: Remo vs Evans — which is better for metal drums?**
-A: Both are proven touring-grade choices; MetalForge tracks 18 drummers using Remo and 31 using Evans. Remo's Emperor and Powerstroke 3 lines (used by Mario Duplantier of Gojira and Nicko McBrain of Iron Maiden) are prized for durability and a slightly more open tone, while Evans' Hydraulic and Black Chrome lines are popular for a more controlled, dampened attack. The choice mostly comes down to a drummer's tuning preference rather than one brand being objectively superior for metal. See the [Evans drummers-using page](https://metalforge.io/gear/evans/all-drumheads/drummers-using) for the Evans roster.
+A: Both are proven touring-grade choices; MetalForge tracks 16 drummers using Remo and 31 using Evans. Remo's Emperor and Powerstroke 3 lines (used by Mario Duplantier of Gojira and Nicko McBrain of Iron Maiden) are prized for durability and a slightly more open tone, while Evans' Hydraulic and Black Chrome lines are popular for a more controlled, dampened attack. The choice mostly comes down to a drummer's tuning preference rather than one brand being objectively superior for metal. See the [Evans drummers-using page](https://metalforge.io/gear/evans/all-drumheads/drummers-using) for the Evans roster.
 
 **Q: How much do Remo drumheads cost?**
 A: A full kit set of Remo heads (batter + resonant, 5-6 drums) runs approximately $110–$170 street price. Individual heads range from $15 (single tom batter) to $40+ (bass drum batter/resonant pair). Check Thomann (EU) or Sweetwater (US) for current pricing.

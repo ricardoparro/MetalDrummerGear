@@ -3,7 +3,7 @@
 > MetalForge's guide to the professional metal drummers who play Evans drumheads.
 > Last updated: 2026-07-05
 
-Evans (a D'Addario brand) is one of the two dominant drumhead makers in professional metal, alongside Remo. Unlike shell brands, drumheads are rarely tied to a single named "series" per drummer — most pros simply specify "Evans" across their kit, or name a specific model (Hydraulic, Black Chrome, EC2, EMAD) for a particular drum. 31 metal drummers in the MetalForge database run Evans heads, spanning thrash, death, groove, and progressive metal.
+Evans (a D'Addario brand) is one of the two dominant drumhead makers in professional metal, alongside Remo. Unlike shell brands, drumheads are rarely tied to a single named "series" per drummer — most pros simply specify "Evans" across their kit, or name a specific model (Hydraulic, Black Chrome, EC2, EMAD) for a particular drum. 30 metal drummers in the MetalForge database run Evans heads, spanning thrash, death, groove, and progressive metal.
 
 ---
 
@@ -39,9 +39,8 @@ Evans (a D'Addario brand) is one of the two dominant drumhead makers in professi
 - **[Daray](https://metalforge.io/drummers/daray)** — Dimmu Borgir / Vader — Evans (standard configuration)
 - **[Jocke Wallgren](https://metalforge.io/drummers/jocke-wallgren)** — Amon Amarth — Evans (standard configuration)
 - **[Tim Yeung](https://metalforge.io/drummers/tim-yeung)** — Morbid Angel / Hate Eternal / Vital Remains — Evans (standard configuration)
-- **[Isaac Lamb](https://metalforge.io/drummers/isaac-lamb)** — Kublai Khan TX — Evans Hydraulic
 
-See all 31 drummers on the [Evans drummers-using page](https://metalforge.io/gear/evans/all-drumheads/drummers-using).
+See all 30 drummers on the [Evans drummers-using page](https://metalforge.io/gear/evans/all-drumheads/drummers-using).
 
 ---
 
@@ -63,26 +62,26 @@ Evans heads are a fixture on both budget and flagship kits alike — the brand i
 
 ## Why Metal Drummers Choose Evans
 
-Evans heads are engineered for consistency at extreme volumes and tempos — critical for metal drummers executing blast beats, rapid double bass, and heavy rimshots night after night on tour. Players like Joey Jordison (Slipknot), Gene Hoglan (Death, Testament), and George Kollias (Nile) built their reputations on speed and precision, and Evans' 2-ply and Hydraulic constructions give them predictable rebound and controlled overtones even at 250+ BPM. Others, like Blake Richardson (Between the Buried and Me) and Isaac Lamb (Kublai Khan TX), mix specific Evans models per drum (EMAD on kicks, Hydraulic on snares) to dial in exact studio and live tones. The brand's reputation for batch-to-batch consistency — heads sounding the same show after show — is a major reason it dominates touring metal setups.
+Evans heads are engineered for consistency at extreme volumes and tempos — critical for metal drummers executing blast beats, rapid double bass, and heavy rimshots night after night on tour. Players like Joey Jordison (Slipknot), Gene Hoglan (Death, Testament), and George Kollias (Nile) built their reputations on speed and precision, and Evans' 2-ply and Hydraulic constructions give them predictable rebound and controlled overtones even at 250+ BPM. Others, like Blake Richardson (Between the Buried and Me), mix specific Evans models per drum (EMAD on kicks, EC2 SST on toms) to dial in exact studio and live tones. The brand's reputation for batch-to-batch consistency — heads sounding the same show after show — is a major reason it dominates touring metal setups.
 
 ---
 
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use Evans drumheads?**
-A: 31 metal drummers in the MetalForge database play Evans, including Joey Jordison, Gene Hoglan, George Kollias, Eloy Casagrande, Jay Weinberg, Art Cruz, Arin Ilejay, and Isaac Lamb. Most run the standard Evans configuration across their kit; a few — Jay Weinberg (Black Chrome), Isaac Lamb (Hydraulic), and Blake Richardson (a per-drum Evans mix) — specify particular models.
+A: 30 metal drummers in the MetalForge database play Evans, including Joey Jordison, Gene Hoglan, George Kollias, Eloy Casagrande, Jay Weinberg, Art Cruz, and Arin Ilejay. Most run the standard Evans configuration across their kit; a few — Jay Weinberg (Black Chrome) and Blake Richardson (a per-drum Evans mix) — specify particular models.
 
 **Q: Is Evans good for metal drumming?**
-A: Yes — Evans is one of the two industry-standard drumhead brands in metal (alongside Remo), used across death, thrash, groove, and progressive metal by 31 of the drummers MetalForge tracks. Its 2-ply and Hydraulic constructions handle the high-impact rimshots and rapid-fire double bass patterns common in metal without losing tuning stability.
+A: Yes — Evans is one of the two industry-standard drumhead brands in metal (alongside Remo), used across death, thrash, groove, and progressive metal by 30 of the drummers MetalForge tracks. Its 2-ply and Hydraulic constructions handle the high-impact rimshots and rapid-fire double bass patterns common in metal without losing tuning stability.
 
 **Q: Evans vs Remo — which is better for metal drums?**
-A: Both are proven touring-grade choices; MetalForge tracks 31 drummers using Evans and 18 using Remo. Evans' Hydraulic and Black Chrome lines are popular for their controlled, dampened attack, while Remo's Emperor and Powerstroke lines (used by Mario Duplantier of Gojira and Nicko McBrain of Iron Maiden) are prized for durability and a slightly more open tone. The choice mostly comes down to a drummer's tuning preference rather than one brand being objectively superior for metal. See the [Remo drummers-using page](https://metalforge.io/gear/remo/all-drumheads/drummers-using) for the Remo roster.
+A: Both are proven touring-grade choices; MetalForge tracks 30 drummers using Evans and 18 using Remo. Evans' Hydraulic and Black Chrome lines are popular for their controlled, dampened attack, while Remo's Emperor and Powerstroke lines (used by Mario Duplantier of Gojira and Nicko McBrain of Iron Maiden) are prized for durability and a slightly more open tone. The choice mostly comes down to a drummer's tuning preference rather than one brand being objectively superior for metal. See the [Remo drummers-using page](https://metalforge.io/gear/remo/all-drumheads/drummers-using) for the Remo roster.
 
 **Q: How much do Evans drumheads cost?**
 A: A full kit set of Evans heads (batter + resonant, 5-6 drums) runs approximately $120–$180 street price. Individual heads range from $15 (single tom batter) to $40+ (bass drum batter/resonant pair). Check Thomann (EU) or Sweetwater (US) for current pricing.
 
 **Q: What's the best Evans drumhead for metal?**
-A: For most metal styles, the Evans G2 or G14 (2-ply, coated) on toms and snare paired with an EMAD on the bass drum is the standard touring configuration. Drummers wanting maximum dampening for a tight studio tone — like Isaac Lamb — favor the Hydraulic line instead. See our [Best Drum Heads for Metal guide](https://metalforge.io/guides/best-drum-heads-for-metal) for a full breakdown by sub-genre.
+A: For most metal styles, the Evans G2 or G14 (2-ply, coated) on toms and snare paired with an EMAD on the bass drum is the standard touring configuration. Drummers wanting maximum dampening for a tight studio tone favor the Hydraulic line instead. See our [Best Drum Heads for Metal guide](https://metalforge.io/guides/best-drum-heads-for-metal) for a full breakdown by sub-genre.
 
 ---
 

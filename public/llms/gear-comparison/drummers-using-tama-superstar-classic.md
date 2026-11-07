@@ -9,23 +9,9 @@ The Tama Superstar Classic is a faithful revival of Tama's legendary Superstar s
 
 ## Pro Metal Drummers Who Use the Tama Superstar Classic
 
-### Charlie Benante — Anthrax
-**Years used:** 1981–1990
-**Configuration:** Tama Superstar Classic (22"×16" Bass, 10"×8", 12"×9", 13"×10", 16"×16" Floor Tom)
-**Endorsee:** Yes
+We don't currently have a verified metal drummer endorser playing the Tama Superstar Classic (the 2015 reissue). This page previously attributed the kit to Charlie Benante and Gene Hoglan, but that was a fabrication — it conflated the 2015-reissue "Superstar Classic" with the vintage 1970s/80s "Superstar" series. Benante has played Tama Starclassic Maple continuously since joining Anthrax in 1983, with a Tama Charlie Benante Signature 14×6.5" snare — never Superstar or Superstar Classic. Hoglan's current/primary kit is Pearl Reference Pure; his Dark Angel era (1984–1989) gear was the plain Tama Superstar (not "Classic," which didn't exist until 2015), and his Death era (1991–1995) gear was Tama Artstar II. See their verified profiles: [Charlie Benante](/drummers/charlie-benante), [Gene Hoglan](/drummers/gene-hoglan).
 
-Charlie Benante is one of the most technically innovative drummers in thrash metal history. During Anthrax's classic era, Benante relied on the Tama Superstar for the muscular, driving sound that propelled albums like *Spreading the Disease* (1985), *Among the Living* (1987), and *State of Euphoria* (1988). His one-handed roll technique, heavy use of china cymbals, and ferocious double bass work showcased the Superstar's ability to handle extreme punishment while maintaining tonal clarity. Benante's influence on the Superstar era is profound — his playing helped establish the kit's credentials in the thrash metal world.
-
-See full profile: [Charlie Benante Drummer](/drummers/charlie-benante)
-
-### Gene Hoglan — Dark Angel / Death
-**Years used:** 1983–1993
-**Configuration:** Tama Superstar Classic (22"×16" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Floor Tom)
-**Endorsee:** No (independent)
-
-Gene Hoglan earned the nickname "The Atomic Clock" for his machine-like precision and ability to play at extreme tempos with perfect steadiness. In his early career with Dark Angel and later Death, Hoglan used the Tama Superstar — driving it through some of the most technically demanding death and thrash metal compositions of the late 1980s and early 1990s. Albums like Dark Angel's *Darkness Descends* (1986) and Death's *Individual Thought Patterns* (1993) feature the Superstar's powerful, cutting tone underpinning relentless blast beats and complex rhythmic figures.
-
-See full profile: [Gene Hoglan Drummer](/drummers/gene-hoglan)
+<!-- SEO/founder review: no verified metal drummer plays the Tama Superstar Classic (2015 reissue). Consider removing this page from the sitemap/llms index rather than leaving a zero-content page live. See issue #10417. -->
 
 ---
 
@@ -42,18 +28,17 @@ The Tama Superstar Classic reproduces the original Superstar formula with luan/f
 
 The kit is available through Thomann and Sweetwater. See the [Tama brand page](/gear/tama) for more on available configurations and finishes, including the Tama Starclassic series.
 
+Note: the original 1970s/80s "Tama Superstar" (plain, no "Classic" suffix) is a separate, discontinued series that some metal drummers used decades before the 2015 reissue existed — the two should not be conflated.
+
 ---
 
 ## FAQ
 
 **Q: Which pro metal drummers use the Tama Superstar Classic?**
-A: Charlie Benante (Anthrax) and Gene Hoglan (Dark Angel/Death) are among the most iconic metal drummers associated with the Tama Superstar Classic. Both used the original Superstar series during peak creative periods in the 1980s and early 1990s, helping to define the kit's identity in thrash and death metal.
+A: We don't currently have a verified metal drummer endorser playing the Tama Superstar Classic (2015 reissue). Charlie Benante (Anthrax) and Gene Hoglan (Dark Angel/Death) were previously listed here, but that attribution was incorrect — Benante plays Tama Starclassic Maple, and Hoglan's documented Tama era used the plain 1980s Superstar (not the "Classic" reissue, which didn't exist until 2015) and later Tama Artstar II, with Pearl Reference Pure his current primary kit.
 
 **Q: Is the Tama Superstar Classic good for metal drumming?**
 A: Yes — the Superstar Classic's luan/falkata shells produce a warm, punchy tone with fast attack response, making it well-suited for thrash, groove metal, and classic heavy metal. Its rounded bearing edges give it a slightly warmer sound compared to modern kits, which works particularly well for mid-tempo metal and recording applications.
-
-**Q: What configuration does Charlie Benante use on the Tama Superstar Classic?**
-A: During the classic Anthrax era, Benante's Superstar setup featured a 22"×16" bass drum, 10"×8", 12"×9", and 13"×10" rack toms, and a 16"×16" floor tom. His expansive setup allowed for the wide-ranging fills and complex patterns that defined Anthrax's thrash sound on records like *Among the Living*.
 
 **Q: How does the Tama Superstar Classic differ from the Tama Starclassic?**
 A: The Superstar Classic uses luan/falkata shells for a warmer, more vintage-voiced tone, while the Starclassic Maple uses North American maple for a brighter, more modern sound with greater projection. The Superstar Classic is typically more affordable and suits drummers who want vintage character; the Starclassic suits players who need maximum volume and cutting attack in live metal contexts.

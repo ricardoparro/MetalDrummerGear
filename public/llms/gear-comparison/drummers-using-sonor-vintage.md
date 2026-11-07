@@ -9,23 +9,9 @@ The Sonor Vintage is a faithful recreation of Sonor's legendary 1960s and 1970s 
 
 ## Pro Metal Drummers Who Use the Sonor Vintage
 
-### Gavin Harrison — Porcupine Tree / King Crimson
-**Years used:** 2020–present
-**Configuration:** Sonor Vintage Series (22"×14" Bass, 10"×7", 12"×8", 14"×12", 16"×14" Toms)
-**Endorsee:** Yes
+We don't currently have a verified metal drummer endorser playing the Sonor Vintage. This page previously attributed the kit to Gavin Harrison (Porcupine Tree/King Crimson) and Danny Carey (Tool), but that was a fabrication — Harrison plays Sonor SQ2 and Carey plays Sonor SQ2 Heavy Beech (Carey has an active Sonor artist-page endorsement, contradicting the "independent/non-endorsee" claim previously made here). Neither has ever been documented on the Vintage line. See their verified gear: [Gavin Harrison](/drummers/gavin-harrison), [Danny Carey](/drummers/danny-carey).
 
-Gavin Harrison is widely regarded as one of the finest drumming craftsmen in progressive music. As the rhythmic architect of Porcupine Tree, King Crimson, and The Pineapple Thief, Harrison's playing is defined by ultra-precise ghost notes, polyrhythmic intelligence, and melodic phrasing that elevates the drums to a compositional voice. As a long-standing Sonor endorser, Harrison has explored the full Sonor lineup — including the Vintage series for studio and intimate performance contexts where its open, warm character complements introspective material. His nuanced approach to dynamics makes him one of the ideal candidates for the Sonor Vintage's sensitive, responsive shells. His work on Porcupine Tree's *Closure/Continuation* (2022) demonstrates the kind of detailed, considered drumming the Vintage series is built for.
-
-See full profile: [Gavin Harrison Drummer](/drummers/gavin-harrison)
-
-### Danny Carey — Tool
-**Years used:** 2020–present
-**Configuration:** Sonor Vintage Series (26"×22" Bass, 16"×14", 18"×16" Floor Toms)
-**Endorsee:** No (independent)
-
-Danny Carey is one of the most experimental and musically adventurous drummers in progressive and art metal. Known for his elaborate custom Sonor configurations used across Tool's landmark discography — including *Ænima* (1996), *Lateralus* (2001), and *Fear Inoculum* (2019) — Carey's explorations have consistently pushed the boundaries of drum kit configuration and tonal possibility. His longstanding relationship with Sonor as a brand has led to experimentation across the Sonor lineup, including the Vintage series, whose open, complex overtones and rounded bearing edges suit the meditative, polyrhythmic qualities of Tool's compositions. Carey's expansive Sonor setups are legendary in drumming circles for their unconventional sizes and extreme customization.
-
-See full profile: [Danny Carey Drummer](/drummers/danny-carey)
+<!-- SEO/founder review: no verified metal drummer plays the Sonor Vintage. Consider removing this page from the sitemap/llms index rather than leaving a zero-content page live. See issue #10416. -->
 
 ---
 
@@ -48,13 +34,10 @@ The kit is available through Thomann and Sweetwater. See the [Sonor brand page](
 ## FAQ
 
 **Q: Which pro metal drummers use the Sonor Vintage?**
-A: Gavin Harrison (Porcupine Tree/King Crimson) and Danny Carey (Tool) are among the most prominent progressive metal drummers associated with the Sonor Vintage. Both are known for their discerning approach to drum tone and their extended relationship with the Sonor brand.
+A: We don't currently have a verified metal drummer endorser playing the Sonor Vintage. Gavin Harrison (Porcupine Tree/King Crimson) and Danny Carey (Tool) were previously listed here, but that attribution was incorrect — their verified kits are Sonor SQ2 and Sonor SQ2 Heavy Beech, respectively.
 
 **Q: Is the Sonor Vintage good for metal drumming?**
 A: The Sonor Vintage is best suited for progressive metal, art metal, and studio recording contexts where its warm, open tone character adds depth and complexity to arrangements. For high-volume live metal applications, its rounded bearing edges and beech construction produce a warmer, less cutting tone than maple-based kits — which is either a feature or a limitation depending on the application. Players who appreciate tonal complexity over raw attack will find the Vintage rewarding.
-
-**Q: What configuration does Gavin Harrison use on the Sonor Vintage?**
-A: Gavin Harrison's Sonor Vintage setup centers on smaller, jazz-inflected sizes — a 22"×14" bass drum, 10"×7" and 12"×8" rack toms, a 14"×12" mid tom, and a 16"×14" floor tom. This configuration emphasizes articulation and responsiveness, reflecting Harrison's melodic, ghost-note-rich drumming style.
 
 **Q: How does the Sonor Vintage compare to the Sonor SQ2?**
 A: The Sonor SQ2 offers extensive customization options (shell material, depth, finish) and is designed for maximum performance and volume, making it the Sonor choice for touring metal drummers. The Sonor Vintage prioritizes tonal character over versatility — its beech shells and rounded edges produce a warmer, more complex sound that suits studio recording and intimate performance settings. Players who want the Sonor heritage in a premium, characterful package should consider the Vintage; those who need maximum flexibility should look at the SQ2.

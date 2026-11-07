@@ -5,6 +5,43 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-07 00:17 UTC*
 
 ---
+## 2026-11-07 12:15 — daily deep run: 8/8 fresh proposals verified+promoted #10413-10420
+
+### Context (≤3 lines)
+First run after 07:00 UTC (the 06:13 cheap pulse ran pre-dawn). Metrics 12:09 UTC (429u/496s/730v 7d; GSC 13,008 impr/243 clicks/1.87% CTR/pos 8.4, zero content-gap rows). At run start: eligible `ai-fix` backlog **0** (the 06:13 run's #10398-10404+#10412 batch already closed/merged 07:26-07:40 UTC), 0 open PRs, 8 fresh untriaged `seo-proposal` (#10413-10420, filed 07:04-07:06 UTC) — continuation of the `gear-comparison/drummers-using-*.md` mirror-family fabrication sweep.
+
+### Actions taken
+- **Live-verified all 8 directly** against cited ground truth (grep/sed on `api/drummers/index.js`, `drummerEvolution.js`, `bands.js`, `pedalBrands.js`), zero dupes via `gh issue search` (each targets a distinct mirror file):
+  - #10413 Isaac Lamb: confirmed `heads: 'Not publicly documented'`, `verified:false` — mirror invents "Evans Hydraulic."
+  - #10414 Mikkey Dee + Martin Axenrot: both confirmed `heads: 'Evans'` — mirror misfiles both as Remo users.
+  - #10415 Matt Garstka: confirmed Pearl Masterworks Maple (2012–Sept 2021) → DW Collector's Series (Sept 2021–present), zero Gretsch anywhere — mirror's entire premise fabricated.
+  - #10416 Gavin Harrison + Danny Carey: both confirmed Sonor SQ2 (Series / Heavy Beech) — mirror invents a nonexistent "Sonor Vintage Series" for both (same fabrication class as already-closed #7484, different file).
+  - #10417 Charlie Benante + Gene Hoglan: confirmed current Benante kit is Tama Starclassic (not "Superstar Classic") and 1983 Anthrax join year (not 1981); Hoglan's current kit is Pearl Reference Pure, historic Dark Angel-era gear is plain "Tama Superstar" (not the 2015-reissue "Classic" name). Mirror conflates vintage/reissue naming and misdates Benante.
+  - #10418 Mikkey Dee + Nicko McBrain: Dee confirmed Sonor SQ2/DW 5000 pedal, zero Yamaha attribution (`pedalBrands.js` independently confirms no roster drummer on a Yamaha pedal); McBrain's Yamaha brand/era/album is correct but shell dimensions are undocumented per already-established #7856.
+  - #10419 Igor Cavalera: confirmed Yamaha Absolute Hybrid Maple since 2018 + Zildjian A Custom since 2006 — mirror fabricates a Pearl Reference Pure/Paiste "2006-2016" era that never existed (recurrence of pattern already fixed elsewhere by #6698/#6764/#6699).
+  - #10420 Matt Greiner + Navene Koperweis: Greiner confirmed Mapex Black Panther Design Lab since 2016, zero DW drum attribution (DW 9000 pedal/hardware only, same fabrication class as already-closed #10402); Koperweis's actual kit is "DW Drums Performance Series" (generic line) with a steel snare, not the "Performance Maple" sub-line mirror claims.
+  - All 8 promoted to `ai-fix` with verification comments.
+- **Operator error caught and fixed same-run:** an errant `gh issue edit 10413 --body-file -` with an empty heredoc wiped issue #10413's body to empty before the label/comment calls. Caught immediately via a follow-up `--json body` check, reconstructed the original body text from this run's own earlier tool output, and restored it via `gh issue edit --body-file` — verified byte-length match (2449 chars) before moving on. No data lost; flagging so future runs double-check heredoc content before piping into `gh issue edit --body-file -`.
+- **Founder ideas**: `.agents/ceo/founder-ideas.md` inbox empty, unchanged since 2026-06-19. **GSC content-gap**: zero rows. **Human-founder blockers**: #10174 (2026-11-03, now 4 days unanswered, zero comments) — not re-escalating yet per the "don't re-spam" rule, but flagging it's approaching the kind of multi-day silence that warranted re-escalation language in the 11-06 18:10 entry; #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: `gsc-watch-snapshot.md`/`indexation-snapshot.md` filesystem mtimes show today (checkout artifact) but content `Generated:` timestamps confirm both still dated 2026-11-02; `llm-citations` issue #2211 `updatedAt` also still 2026-11-02. Next weekly refresh due ~2026-11-09 — not due this run.
+- **Starvation check**: post-triage backlog 0→8 (<15), bank 8→0 (≤2) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady). Not escalated.
+- **Atomic-split sweep**: the 8 just-promoted issues are fresh. The 20 open `ai-fix` issues remain intentionally `hold`-labeled (roster/bands dependency-gated splits under the new-page freeze) — no action needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10413-10420 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: content still 11-02, not due until ~11-09. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10413-10420 pick up via Roadie; #10415/#10416/#10417 all flag a "fewer than 2 verified drummers = omit" decision point (Gretsch/Sonor-Vintage/Tama-Superstar-Classic files may drop to 0 real entries) — confirm Roadie either deletes those pages cleanly from sitemap/llms index or finds a genuine replacement drummer, doesn't invent one.
+2. L1/L2/L3 weekly refresh due ~2026-11-09 — run the full close-the-loop pass once it lands.
+3. #10174 human-founder ask (direct-to-main governance) now 4 days unanswered — watch for a 5th-day crossing before deciding whether to re-escalate. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
 ## 2026-11-07 06:13 (cheap pulse — 7/7 proposals verified+promoted #10398-10404, relapse found+filed #10412)
 
 ### Context (≤3 lines)

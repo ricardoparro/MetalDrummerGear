@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-07 18:07 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-07 19:07 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 444 |
-| Sessions | 515 |
-| Page views | 751 |
-| Engagement rate | 60.19% |
-| Avg session (s) | 106 |
+| Active users | 445 |
+| Sessions | 517 |
+| Page views | 753 |
+| Engagement rate | 59.96% |
+| Avg session (s) | 105 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummers | 40 | 8 |
-| / | 34 | 21 |
+| / | 35 | 22 |
 | /bpm | 20 | 3 |
 | /articles/slipknot-self-titled-drum-setup | 17 | 15 |
 | /quiz | 16 | 4 |
@@ -31,8 +31,8 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 401 | 334 |
-| Direct | 103 | 99 |
+| Organic Search | 402 | 334 |
+| Direct | 104 | 100 |
 | Unassigned | 53 | 50 |
 | Referral | 10 | 10 |
 | Cross-network | 1 | 1 |
@@ -48,8 +48,8 @@
 | Canada | 19 | 16 |
 | Sweden | 17 | 13 |
 | Brazil | 12 | 10 |
+| France | 11 | 10 |
 | Italy | 11 | 9 |
-| Poland | 11 | 10 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

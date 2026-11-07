@@ -118,11 +118,9 @@ Compare Paiste RUDE and Sabian HHX cymbals for metal. Swiss precision vs Canadia
 
 Compare Tama SLP and Pearl Sensitone snare drums for metal. Steel vs bronze, crack vs warmth. Find your perfect metal snare sound.
 
-**Tama endorsed by:** Lars Ulrich
-**Pearl endorsed by:** Matt Halpern
 
-**For metal:** SLP for thrash and classic metal. Sensitone for modern and progressive.
-**Verdict:** Tama SLP Steel for classic thrash crack. Pearl Sensitone Bronze for progressive warmth with metal edge.
+**For metal:** SLP for thrash and classic metal. Sensitone for modern and progressive. No MetalForge roster drummer is currently documented on either exact sub-model, so none is listed here.
+**Verdict:** Tama SLP Steel for classic thrash crack. Pearl Sensitone Bronze for progressive warmth with metal edge. Neither sub-model currently has a confirmed MetalForge roster drummer attached.
 
 [Full comparison → /compare/tama-slp-vs-pearl-sensitone](https://metalforge.io/compare/tama-slp-vs-pearl-sensitone) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/tama-slp-vs-pearl-sensitone.md)
 

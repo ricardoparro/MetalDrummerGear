@@ -19,16 +19,16 @@ A: Raatikainen built his technique around clean, locked-in double bass and preci
 A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14"x5.5" Maple snare, driven by a Pearl Eliminator double pedal, Vic Firth American Classic 5A sticks, and Remo heads.
 
 **Q: What drums does Matt Greiner play?**
-A: Matt Greiner plays a Greiner & Kilmer Custom kit — co-designed with fellow drummer Kaleb Kilmer after the pair founded their own drum company in 2012 — with a matching 14"x6.5" Maple snare, driven by a DW 9000 Series double pedal, Vic Firth American Classic 5A sticks, and Evans heads.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with a Mapex Black Panther 14"x5.5" Maple snare, driven by a DW 9000 Series double pedal, Vic Firth Matt Greiner Signature sticks, and Evans heads.
 
 **Q: What cymbals do Jaska Raatikainen and Matt Greiner use?**
-A: Jaska Raatikainen used Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Matt Greiner uses Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes).
+A: Jaska Raatikainen used Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Matt Greiner uses Paiste Formula 602 cymbals (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash).
 
 **Q: What bands are Jaska Raatikainen and Matt Greiner known for?**
 A: Jaska Raatikainen was a founding member of Children of Bodom in 1993 and remained the band's drummer for 26 years. Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer.
 
 **Q: Has Matt Greiner won any awards with August Burns Red?**
-A: Matt Greiner and August Burns Red have not won a Grammy, but the band has received two Grammy nominations for Best Metal Performance (2016 and 2020). Greiner also co-founded the Greiner & Kilmer drum company, which produces his signature kit.
+A: Matt Greiner and August Burns Red have not won a Grammy, but the band has received two Grammy nominations for Best Metal Performance (2016 and 2020).
 
 **Q: How long was Jaska Raatikainen the drummer for Children of Bodom?**
 A: Jaska Raatikainen was a founding member of Children of Bodom in 1993 and remained the band's drummer for 26 years, from the 1997 debut "Something Wild" through the band's farewell in 2019.

@@ -197,7 +197,7 @@ export const gearComparisons = {
           footboard: 'PowerShifter Long Board',
           bearings: 'NiNjA Bearings',
         },
-        usedBy: ['Joey Jordison', 'Matt Halpern'],
+        usedBy: ['Joey Jordison', 'Gene Hoglan'],
         bestFor: 'Death metal, extreme speed, technical playing',
         rating: 4.8,
       },

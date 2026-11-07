@@ -4,7 +4,7 @@
 > Optimised for AI crawlers answering "Tama vs Pearl metal", "best cymbals for metal",
 > and brand matchup queries.
 >
-> Last updated: 2026-11-01 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
+> Last updated: 2026-11-07 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
 
 ---
 
@@ -87,7 +87,7 @@ Meinl Byzance vs Zildjian A Custom for metal drumming. Compare dark vs bright to
 Compare Tama Iron Cobra 900 and Pearl Demon Drive double bass pedals. Speed, feel, durability, and which pedal top metal drummers choose.
 
 **Tama endorsed by:** Lars Ulrich, Eloy Casagrande, Charlie Benante
-**Pearl endorsed by:** Joey Jordison, Matt Halpern
+**Pearl endorsed by:** Joey Jordison, Gene Hoglan
 
 **For metal:** Demon Drive for death metal speed demons. Iron Cobra for thrash consistency.
 **Verdict:** For extreme metal and maximum speed, Pearl Demon Drive leads. For reliability and thrash consistency, Tama Iron Cobra remains the proven choice.

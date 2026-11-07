@@ -1,6 +1,6 @@
 # Bill Ward vs Charlie Benante — Q&A Comparison | MetalForge
 
-> Structured Q&A: Bill Ward (Black Sabbath, 1968–1983, 1997–2006) vs Charlie Benante (Anthrax, 1983–present). Heavy metal's jazz-swing originator compared to thrash metal's Big Four double-bass pioneer.
+> Structured Q&A: Bill Ward (Black Sabbath, 1968–1980, 1983–1984, 1997–1998, 2011–2012) vs Charlie Benante (Anthrax, 1983–present). Heavy metal's jazz-swing originator compared to thrash metal's Big Four double-bass pioneer.
 
 **Category:** Heavy Metal / Thrash Metal · **URL:** https://metalforge.io/vs/bill-ward-vs-charlie-benante
 
@@ -22,7 +22,7 @@ A: Charlie Benante has cited classic rock and early heavy metal drummers, includ
 A: Ward's technique is rooted in open, swinging jazz feel rather than technical precision — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove that no other rock drummer of the era was playing, emphasizing feel over speed. Benante's technique is built for extreme velocity and stamina, pioneering sustained double-bass patterns and rapid single-stroke techniques that pushed thrash metal's tempo ceiling upward, requiring the endurance to sustain blistering speed across entire albums rather than isolated fills.
 
 **Q: What gear did Bill Ward and Charlie Benante use?**
-A: Bill Ward played a Ludwig Super Classic (later Ludwig Classic Maple) kit with a Ludwig Supraphonic 14"x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a single Ludwig Speed King pedal — no double bass, relying entirely on foot technique for Sabbath's early doom-laden grooves. Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature 14"x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China), powered by a Tama Speed Cobra Double Pedal built for his relentless double-kick thrash patterns.
+A: Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14"x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a single Ludwig Speed King pedal — no double bass, relying entirely on foot technique for Sabbath's early doom-laden grooves. Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature 14"x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China), powered by a Tama Speed Cobra Double Pedal built for his relentless double-kick thrash patterns.
 
 **Q: How does Bill Ward compare to modern thrash drummers like Charlie Benante?**
 A: Bill Ward played with an open, jazz-influenced swing feel using only a single bass drum pedal, prioritizing groove and feel over speed on foundational Black Sabbath albums like "Paranoid" (1970) and "Master of Reality" (1971). Charlie Benante and other modern thrash drummers built on that foundation with sustained double-bass technique and much higher tempos, pioneering the blast beat and relentless speed that define thrash metal.
@@ -31,7 +31,7 @@ A: Bill Ward played with an open, jazz-influenced swing feel using only a single
 A: Ward is widely credited as one of the true originators of heavy metal drumming — his jazz-informed, swinging approach to Black Sabbath's riffs created a rhythmic template that every subsequent metal drummer, including Benante, built upon. Benante's pioneering thrash double-bass technique and blast-beat popularization directly influenced a generation of extreme metal drummers, and he has cited Ward and other classic rock/heavy metal forebears as foundational listening that shaped his own attack on the kit.
 
 **Q: What is the verdict — Bill Ward vs Charlie Benante?**
-A: Bill Ward and Charlie Benante represent two foundational, cross-era pillars of metal drumming. Ward invented heavy metal's drumming vocabulary from a jazz-swing foundation, creating the genre's rhythmic DNA with Black Sabbath in 1968-1983. Benante built on that foundation fifteen years later, pioneering the sustained double-bass and blast-beat techniques that defined thrash metal's speed and aggression with Anthrax from 1983 onward. Comparing them is comparing metal's birth to its acceleration — the originator versus the technical pioneer who pushed his tools further.
+A: Bill Ward and Charlie Benante represent two foundational, cross-era pillars of metal drumming. Ward invented heavy metal's drumming vocabulary from a jazz-swing foundation, creating the genre's rhythmic DNA with Black Sabbath from 1968, with later reunions through 2012. Benante built on that foundation fifteen years later, pioneering the sustained double-bass and blast-beat techniques that defined thrash metal's speed and aggression with Anthrax from 1983 onward. Comparing them is comparing metal's birth to its acceleration — the originator versus the technical pioneer who pushed his tools further.
 
 ---
 

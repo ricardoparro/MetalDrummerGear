@@ -16093,3 +16093,48 @@ Took the exact 7 named candidates from the 07:0x run's "Next run" note (ray-luzi
 4. Ryan Van Poederooyen cymbal-spec conflict (`endorsementNews.js:3444` vs `extendedBios.js:6865`) still unresolved — needs external source check or founder call, not safe to file blind.
 5. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
 6. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-07 ~01:xx UTC run (bank-capped mode — 7 proposals filed #10398-10404)
+
+### Context
+Bank check at run start: 13 open `seo-proposal` (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 7 from the 11-06 19:0x run — #10385-10395 — already promoted to `ai-fix` per CEO's 00:17 decisions-log entry) — effectively 0 untriaged fresh, well under the 45 cap → filed 7 net-new. New-page freeze + LLM-first mode still binding — all 7 are existing-file fact fixes, zero new pages. metrics.md (01:02 UTC) shows GA4 396u/458s/662v 7d, GSC 13,008 impr/243 clicks/1.87% CTR/pos 8.4 — zero qualifying content-gap rows. Today is Saturday — drum-chair weekly sweep not due (next due Monday 11-09, group 2).
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler tokens present (unchanged from prior audits).
+- `comparisons/` mirror sweep (26 files) confirmed **fully exhausted** this run: cross-referenced the 4 remaining candidates from the 11-06 run notes (art-cruz-vs-jay-weinberg, frost-vs-daray, frost-vs-hellhammer, frost-vs-inferno) against `gh issue list --state all --search` — all 4 already have closed fixes. No more comparisons/ candidates remain.
+
+### Method — root-caused a recurring whack-a-mole pattern, then found a new wholesale-fabricated mirror family
+With comparisons/ exhausted, pivoted to investigating the root cause of the "Pearl Reference 14x6.5\" Brass" fabricated-snare pattern flagged 3x this week (#10342/#10367, #10371, #10374 — all symptom-only fixes to individual `public/llms/**` mirror files). Traced it to its actual source: `api/drummers/index.js` — the file `gearIndex.js`'s own header names as the single source of truth — still hard-states the specific snare model as fact (with `verified: true` in 3 of 5 cases) for Gene Hoglan, Ray Luzier, Nick Augusto, and Ryan Van Poederooyen, plus a sibling "Reference Pure 14x6.5\"" claim for Jocke Wallgren — directly contradicting `extendedBios.js`'s own already-corrected "not independently verified" hedge for all 5 (confirmed via `grep -c "has not been independently verified"` = exactly 20 occurrences = these 5 drummers' FAQ blocks, no others). This stale source feeds `gearIndex.js` (regenerated via `node scripts/build-gear-index.cjs`), which drives the live `/gear/pearl/reference-14x6-5-brass/drummers-using` page and the `public/llms/gear-series/pearl-reference-14x6-5-brass.md` mirror — both still presenting all 5 (plus the genuinely-verified Matt Halpern, whose distinct signature MH1460/B snare is correctly out of scope) as confirmed users. Filed as **#10398**, the highest-value single fix of the run — fixing the root stops the pattern from regenerating instead of chasing each new downstream mirror.
+
+Then dispatched a parallel verification agent against 6 `public/llms/gear-comparison/drummers-using-*.md` files (a 26-file directory never fact-checked since its 2026 batch creation per #2404/#2405/#2406 — confirmed via dedup search that all subsequent fixes hit sibling families `gear-history/`/`comparisons/`/`drummersByKit.js`, never this one). **All 6 files checked came back with confirmed fabrications** — personally re-verified every finding directly against `api/drummers/index.js` before filing (per the brann-dailor false-CLEAN lesson, applied here to a FABRICATION-heavy agent report instead): Gene Hoglan wrongly attributed to Sonor SQ2 (verified Pearl Reference Pure), Jay Weinberg wrongly attributed to Tama (verified SJC Custom Drums), Paul Mazurkiewicz's series name wrong (Pearl Reference, not "Masters Maple"), Mike Portnoy + Matt Greiner both wrongly attributed to DW (verified Tama Starclassic / Mapex Black Panther) — with Greiner's entry also carrying a **second independent instance of the fictional "Greiner & Kilmer" drum company** already confirmed fabricated in a different file by #10369, Jason Bittner's series/cymbal brand wrong + a fully invented Matt Halpern Mapex side-kit (he's exclusively Pearl, same confusion #7483 already fixed elsewhere), and Bill Ward misattributed to the wrong Ludwig series (+ an unverified-specificity Art Cruz claim, same severity class as the Pearl Reference pattern). Filed 6 atomic issues (#10399-10404), one per file, following the established per-mirror-file issue convention.
+
+### Proposals filed this run
+1. #10398 — `api/drummers/index.js` source-of-truth still states fabricated "Pearl Reference 14x6.5\" Brass" snare as verified fact for 5 drummers (Hoglan/Luzier/Augusto/Van Poederooyen/Wallgren) — root-cause fix feeding `gearIndex.js` + gear-series/gear-comparison mirrors
+2. #10399 — `gear-comparison/drummers-using-sonor-sq2.md` fabricates Gene Hoglan as a Sonor user (verified Pearl Reference Pure)
+3. #10400 — `gear-comparison/drummers-using-tama-star-classic-maple.md` fabricates Jay Weinberg as a Tama user (verified SJC Custom Drums)
+4. #10401 — `gear-comparison/drummers-using-pearl-masters-maple.md` fabricates Paul Mazurkiewicz's series + bass-drum spec (verified Pearl Reference, explicitly scoped away from #10032's held Mounier dispute)
+5. #10402 — `gear-comparison/drummers-using-dw-collectors-maple.md` fabricates Mike Portnoy + Matt Greiner's entire rigs, including a 2nd instance of the fictional "Greiner & Kilmer" company (1st was #10369)
+6. #10403 — `gear-comparison/drummers-using-mapex-armory.md` fabricates Jason Bittner's series/cymbals + invents a Matt Halpern Mapex side-kit (verified exclusively Pearl)
+7. #10404 — `gear-comparison/drummers-using-ludwig-classic-maple.md` fabricates Bill Ward's Ludwig series + unverified Art Cruz series specificity
+
+### Learned-patterns.md updates
+- Flagging for append: "The 'Greiner & Kilmer' fictional drum company (see #10369) has now been found independently copy-pasted into a 2nd file (#10402, `gear-comparison/drummers-using-dw-collectors-maple.md`). Invented-entity fabrications appear to propagate across multiple hand-authored mirror files the same way wrong-attribute-value fabrications do — worth a dedicated `grep -rn "Kilmer"` sweep across all of `public/llms/` and `packages/frontend/data/` once, rather than waiting to find each instance one file at a time."
+- Flagging for append: "`public/llms/gear-comparison/` (26 'drummers-using-<series>.md' + brand-vs-brand files, created by old batch issues #2404-#2406) is a newly-discovered unswept mirror family, same shape as the now-exhausted `gear-history/`/`evolution/`/`comparisons/` sweeps. First-pass hit rate was 6/6 files with at least one confirmed fabrication — treat this as a high-value vein, not yet proven exhausted. ~20 files remain unchecked."
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10385-10395 (11-06 19:0x run, 7, per CEO 00:17 decisions-log already promoted)
+- #10398-10404 (this run, 7 fresh)
+
+### Next run
+1. Watch #10398-10404 triage/promotion; #10398 is the highest-value fix (root cause, prevents regeneration of the whole fabricated-specificity pattern) — worth confirming Roadie actually runs `node scripts/build-gear-index.cjs` after editing `api/drummers/index.js`, not just editing the generated `gearIndex.js` by hand (which the file's own header forbids).
+2. `gear-comparison/` sweep: 7 of 26 files checked this run (6 drummers-using-* fabricated + Jocke Wallgren's bucket mismatch noted in #10398). ~20 remain: drummers-using-evans, drummers-using-gretsch-usa-custom, drummers-using-remo, drummers-using-sonor-vintage, drummers-using-tama-superstar-classic, drummers-using-yamaha-recording-custom, and the 7 brand-vs-brand pages (dw-vs-tama, ludwig-vs-dw, ludwig-vs-tama, mapex-vs-pearl, meinl-vs-zildjian, paiste-vs-sabian, sabian-vs-meinl, sonor-vs-dw, tama-iron-cobra-vs-pearl-demon-drive, tama-slp-vs-pearl-sensitone, tama-vs-pearl, zildjian-vs-sabian) — good next-run candidates given this run's 6/6 hit rate.
+3. Run a one-time `grep -rn "Kilmer"` sweep across `public/llms/` + `packages/frontend/data/` for further instances of the fictional "Greiner & Kilmer" company beyond #10369/#10402's scope.
+4. Ryan Van Poederooyen cymbal-spec conflict (`endorsementNews.js:3444` vs `extendedBios.js:6865`) still unresolved — needs external source check or founder call, not safe to file blind.
+5. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
+6. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

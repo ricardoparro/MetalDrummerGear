@@ -16183,3 +16183,45 @@ Not due this run (today is Saturday 2026-11-07; next sweep due Monday 2026-11-09
 3. Kilmer sweep: closed out, no new instances beyond the 4 already known/covered (#10402, #10412).
 4. GSC content-gap: zero rows this week (13,008 impr / 243 clicks / 1.87% CTR / pos 8.4). No CTR-fix proposals this run.
 5. Ryan Van Poederooyen cymbal-spec conflict (flagged 2 runs ago) still unresolved — needs external source check or founder call, not safe to file blind.
+
+---
+
+## 2026-11-07 (run 5) — gear-comparison/ sweep completed: 12 remaining "vs" files checked, 3/12 confirmed fabrications
+
+Bank check: 14 open `seo-proposal` at run start, but 11 of those are already `ai-fix`-labeled (promoted earlier today, #10413-10420) or founder-held (#7981/#10032/#10099) — effective fresh/untriaged bank was 0. Cleared to file up to 8 net-new.
+
+### Audit summary
+- robots.txt: all 8 AI crawler tokens present (unchanged). `/llms/*.md` count: 2,028 files live.
+- Finished the `public/llms/gear-comparison/` 26-file sweep: checked the remaining 12 brand-vs-brand comparison files (`dw-vs-tama`, `ludwig-vs-dw`, `ludwig-vs-tama`, `mapex-vs-pearl`, `meinl-vs-zildjian`, `paiste-vs-sabian`, `sabian-vs-meinl`, `sonor-vs-dw`, `tama-iron-cobra-vs-pearl-demon-drive`, `tama-slp-vs-pearl-sensitone`, `tama-vs-pearl`, `zildjian-vs-sabian`) against their single source of truth, `packages/frontend/data/gearComparisons.js` (not the `drummersByKit.js`/`gearIndex.js` lineage the prior "drummers-using" family pulled from — this is a separate, hand-authored data module).
+
+### Method
+Read the full `gearComparisons.js` (1,092 lines) directly and cross-checked every `usedBy` entry across all 12 comparisons against `endorsementNews.js`, `snares.js`, `pedals.js`, `drummerEvolution.js`, `extendedBios.js`. Hit rate was much lower than the "drummers-using" family (14/14): **9 of 12 files came back clean** — the well-known drummers in this module (Lars Ulrich/Tama+Zildjian, Mario Duplantier/Tama+Zildjian, Dirk Verbeuren/Tama+Meinl, Dave Lombardo/Paiste, Mike Portnoy/Tama+Sabian, Gene Hoglan/Pearl+Sabian, Vinnie Paul/Sabian, Ray Luzier/Sabian, Richard Christy/Sabian, Chris Adler/Mapex+Meinl, Jason Bittner/Mapex, Paul Bostaph/Pearl+Sabian, Derek Roddy/Meinl, Jay Weinberg/Zildjian, Abe Cunningham/Zildjian, Ben Koller/Zildjian, Art Cruz/Zildjian, Frost/Zildjian, Hannes Grossmann/DW) all checked out exactly against ground truth. The module's own code comments (lines 910-913) show whoever built the Ludwig entries already practiced the "omit if unsure, don't fabricate" rule correctly (empty `usedBy` for Ludwig, explained inline) — this file is overall much more disciplined than the mirror-generator family.
+
+**3 genuine issues found, all filed:**
+1. **#10429** — `tama-slp-vs-pearl-sensitone`: Lars Ulrich fabricated-specificity (his verified snare is the LU1465 Signature, a different Tama line from generic "SLP Steel"); Matt Halpern fabricated-specificity (his snare model is explicitly flagged unverified in `snares.js`'s own audit comment). No exact-model verified replacement exists for either sub-model (checked Derek Roddy's SLP Black Brass — wrong finish, Brass not Steel; checked Daniel Erlandsson/Richard Christy for the Pearl side — neither is an exact or reliable match), so the fix is to empty both `usedBy` arrays per the Ludwig precedent, not guess a replacement.
+2. **#10430** — `tama-iron-cobra-vs-pearl-demon-drive`: Matt Halpern fabricated-specificity on "Pearl Demon Drive" (same unverified-pedal-model class already fixed in #8932/#9490/#7715/#10263, but never swept in this file). Clean verified replacement found: Gene Hoglan (`endorsementNews.js:1859`, `pedals.js:79-84`, exact model match).
+3. **#10431** — `zildjian-vs-sabian`: a `drummersQuotes` block with 3 invented first-person quotes attributed by full name to Lars Ulrich/Tomas Haake/Gene Hoglan, zero citation. Confirmed via repo-wide grep this field is never rendered anywhere (not the `.md` generator, not any frontend component) — currently dead data, not a live-page bug — but it's a landmine sitting in the same object the live `/compare/` page and generator both read, and a direct Rule-2 violation regardless of current rendering status. Recommended deletion, not replacement with paraphrased/unsourced text.
+
+### Proposals filed this run
+1. #10429 — `tama-slp-vs-pearl-sensitone.md` fabricates Lars Ulrich + Matt Halpern as users of unverified-specific snare sub-models
+2. #10430 — `tama-iron-cobra-vs-pearl-demon-drive.md` fabricates Matt Halpern as a Pearl Demon Drive user — verified Gene Hoglan instead
+3. #10431 — `zildjian-vs-sabian` carries unsourced fabricated quotes attributed by name to 3 real drummers
+
+Only 3 filed (well under the 8 cap) — quality-over-volume: the remaining 9 files were genuinely clean, no point padding the bank with non-findings.
+
+### Drum-chair watch
+Not due this run (today is Saturday 2026-11-07; next sweep due Monday 2026-11-09, group 2 per rotation).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10413-10420 (prior run, already `ai-fix`-promoted, awaiting Roadie)
+- #10429-10431 (this run, 3 fresh)
+
+### Next run
+1. Watch #10429-10431 triage/promotion.
+2. **`gear-comparison/` 26-file sweep is now fully complete** (14 "drummers-using" files + 12 "vs" files, all checked). No more files in this family to sweep. Next fabrication-hunting target should be a different mirror family — candidates not yet swept: `public/llms/comparisons/*.md` (drummer-vs-drummer, distinct from `gear-comparison/`'s brand-vs-brand — several already hit this run's and recent runs' decisions-log, e.g. #10375/#10392/#10394, so this family likely still has unswept files too; worth a file-by-file inventory next run), or `public/llms/guides/*.md` (hand-authored, flagged in the 11-07 06:13 CEO entry as outside generator regen-protection).
+3. GSC content-gap: zero rows this week (13,008 impr / 243 clicks / 1.87% CTR / pos 8.4). No CTR-fix proposals this run.
+4. Ryan Van Poederooyen cymbal-spec conflict (flagged several runs ago) still unresolved — needs external source check or founder call, not safe to file blind.

@@ -16138,3 +16138,48 @@ Then dispatched a parallel verification agent against 6 `public/llms/gear-compar
 4. Ryan Van Poederooyen cymbal-spec conflict (`endorsementNews.js:3444` vs `extendedBios.js:6865`) still unresolved — needs external source check or founder call, not safe to file blind.
 5. `matt halpern` GSC tour-spike: re-check after ~2026-11-18 (Periphery tour end) — not in this week's content-gap table.
 6. Drum-chair watch: next due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-07 (SEO Agent run) — gear-comparison/ sweep continued, 8/8 hit rate, bank topped up
+
+Bank check: 13 open `seo-proposal` at run start (well under 45 floor) → cleared to file up to 8 net-new.
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler tokens present (unchanged).
+- Continued the `public/llms/gear-comparison/` mirror sweep (26-file family, started 11-06/11-07 per #10398-10404). Dispatched 8 parallel verification agents against the remaining `drummers-using-*.md` files (the "drummers-using" half of the family; 12 brand-vs-brand comparison files still untouched).
+- **8/8 files checked came back with confirmed fabrications** — hit rate holding steady from the prior run's 6/6. This vein is not yet exhausted.
+
+### Method
+Each file was grepped/read against ground truth (`api/drummers/index.js`, `endorsementNews.js`, `extendedBios.js`, `drummerEvolution.js`, `bands.js`, `cymbalSetups.js`, `pedalBrands.js`) by an independent subagent, with an explicit dedup instruction to search existing issues before recommending a filing. All 8 came back as fresh (un-swept) locations, several citing the same fabrication already fixed in *other* files (e.g. Mikkey Dee's Remo/Yamaha mixup, Igor Cavalera's Pearl Reference Pure mixup, Sonor Vintage Series for Harrison/Carey) — confirming these are stale mirrors that never got the fix applied, not new fabrication classes.
+
+Also ran a one-time `grep -rn "Kilmer"` sweep across `public/llms/` + `packages/frontend/data/` + `api/` per last run's note #3 — found exactly the 4 locations already known and covered (3 by #10412, 1 by #10402 itself). No new "Greiner & Kilmer" instance. Sweep closed out, no action needed.
+
+### Proposals filed this run
+1. #10413 — `drummers-using-evans.md` fabricates Isaac Lamb's drumhead model (undocumented per ground truth)
+2. #10414 — `drummers-using-remo.md` fabricates Mikkey Dee + Martin Axenrot as Remo users (both verified Evans)
+3. #10415 — `drummers-using-gretsch-usa-custom.md` wholesale fabricates Matt Garstka as a Gretsch endorser (verified Pearl→DW)
+4. #10416 — `drummers-using-sonor-vintage.md` fabricates a nonexistent "Sonor Vintage Series" for Gavin Harrison + Danny Carey (both verified Sonor SQ2)
+5. #10417 — `drummers-using-tama-superstar-classic.md` fabricates Charlie Benante + Gene Hoglan as modern Superstar Classic users (wrong series/tenure for both)
+6. #10418 — `drummers-using-yamaha-recording-custom.md` fabricates Mikkey Dee as a Yamaha user (verified Sonor) + invents Nicko McBrain shell sizes
+7. #10419 — `drummers-using-pearl-reference-pure.md` fabricates Igor Cavalera's post-2006 kit + cymbals (verified ddrum→Yamaha, Zildjian not Paiste)
+8. #10420 — `drummers-using-dw-performance-maple.md` fabricates Matt Greiner's whole kit (verified Mapex) + wrong Navene Koperweis tenure/sizes
+
+Three of these (#10415, #10416, #10417) flag a page-level decision: once the sole/both fabricated drummer(s) are removed, the page may drop below the site's "fewer than 2 verified drummers = omit" convention — each issue asks the implementer to flag for deletion rather than silently leaving a near-empty page, consistent with the binding thin-page gate.
+
+### Drum-chair watch
+Not due this run (today is Saturday 2026-11-07; next sweep due Monday 2026-11-09, group 2 per rotation).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10413-10420 (this run, 8 fresh)
+
+### Next run
+1. Watch #10413-10420 triage/promotion. #10415/#10416/#10417 need the CEO or Roadie to make the omit-vs-rebuild call explicitly — don't let these silently ship as near-empty pages.
+2. `gear-comparison/` sweep: 14 of 26 files now checked (6 prior run + 8 this run), all 14 hit confirmed fabrications. 12 remain, all brand-vs-brand comparison files: dw-vs-tama, ludwig-vs-dw, ludwig-vs-tama, mapex-vs-pearl, meinl-vs-zildjian, paiste-vs-sabian, sabian-vs-meinl, sonor-vs-dw, tama-iron-cobra-vs-pearl-demon-drive, tama-slp-vs-pearl-sensitone, tama-vs-pearl, zildjian-vs-sabian — good next-run candidates given the 14/14 hit rate so far.
+3. Kilmer sweep: closed out, no new instances beyond the 4 already known/covered (#10402, #10412).
+4. GSC content-gap: zero rows this week (13,008 impr / 243 clicks / 1.87% CTR / pos 8.4). No CTR-fix proposals this run.
+5. Ryan Van Poederooyen cymbal-spec conflict (flagged 2 runs ago) still unresolved — needs external source check or founder call, not safe to file blind.

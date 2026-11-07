@@ -16,13 +16,6 @@ The Sonor SQ2 (System Qualité 2) is a German-crafted, fully modular premium dru
 
 See the full profile → [metalforge.io/drummers/tomas-haake](https://metalforge.io/drummers/tomas-haake)
 
-### Gene Hoglan — Testament / Dethklok
-**Band & Era:** Testament / Dethklok, 2007–2014  
-**Configuration:** Sonor SQ2 Heavy Maple — 22"×18" Bass Drum, 10"×8", 12"×9", 14"×12", 16"×14" Toms  
-**Notes:** Gene Hoglan — nicknamed "The Atomic Clock" for his metronomic precision — used Sonor SQ2 Heavy Maple shells during his prolific mid-career period with Testament and as the drummer behind the animated band Dethklok. Hoglan's setup philosophy centres on clarity and projection to cut through dense extreme metal arrangements, and the SQ2 Heavy Maple's tight, punchy character suits that goal. His relatively compact configuration keeps tom spacing minimal, consistent with his philosophy that groove and feel are more important than quantity of drums.
-
-See the full profile → [metalforge.io/drummers/gene-hoglan](https://metalforge.io/drummers/gene-hoglan)
-
 ---
 
 ## About the Sonor SQ2
@@ -42,13 +35,13 @@ The SQ2's fully customisable nature means no two SQ2 kits are identical — a se
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use the Sonor SQ2?**  
-A: Tomas Haake of Meshuggah is the most prominent Sonor SQ2 endorser in metal, using the kit since 2002. Gene Hoglan (Testament, Dethklok) also played SQ2 drums during his mid-career period. Both are known for their technical precision and the SQ2's ability to remain clear and controlled under extreme playing conditions.
+A: Tomas Haake of Meshuggah is the most prominent Sonor SQ2 endorser in metal, using the kit since 2002. He is known for his technical precision and the SQ2's ability to remain clear and controlled under extreme playing conditions.
 
 **Q: Why does Tomas Haake use two single pedals instead of a double pedal with his Sonor SQ2?**  
 A: Haake uses two separate Tama Speed Cobra single bass drum pedals — one per foot — to achieve complete independence between his feet. A conventional double pedal physically links both beaters to a single cam mechanism, which can subtly limit how differently each foot can articulate. Two separate pedals let Haake play polyrhythmic kick patterns that would be impossible or impractical on a linked double pedal. This is a defining element of the Meshuggah drum sound.
 
 **Q: What wood does Tomas Haake use for his Sonor SQ2?**  
-A: Haake uses the Heavy Beech option — one of the densest and loudest shell woods available in the SQ2 programme. Beech shells produce a focused, punchy low-mid response with fast decay, which keeps his double bass patterns clear even at the extreme tempos Meshuggah plays. Heavy Maple (Gene Hoglan's choice) is warmer and slightly less dense, better suited to broader tonal applications.
+A: Haake uses the Heavy Beech option — one of the densest and loudest shell woods available in the SQ2 programme. Beech shells produce a focused, punchy low-mid response with fast decay, which keeps his double bass patterns clear even at the extreme tempos Meshuggah plays.
 
 **Q: How long did it take Tomas Haake to learn the "Bleed" kick pattern?**  
 A: Haake has stated in interviews that the 32nd-note kick pattern in "Bleed" (from the 2008 album obZen) took approximately six months of daily practice before he could perform it consistently live. The pattern requires extraordinary foot speed and endurance, and the SQ2's responsive bass drum heads (Remo) help communicate subtle articulation even at maximum velocity.

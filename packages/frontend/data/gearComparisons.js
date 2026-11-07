@@ -510,26 +510,6 @@ For metal drummers, the choice often comes down to: do you want the 400-year leg
         verdict: 'Both excellent. Zildjian A Custom cuts more; Sabian HHX offers more musicality.',
       },
     },
-    drummersQuotes: [
-      { 
-        name: 'Lars Ulrich', 
-        band: 'Metallica', 
-        brand: 'Zildjian', 
-        quote: 'Zildjian has been part of my sound since day one. The A Custom cut is what thrash needs.', 
-      },
-      { 
-        name: 'Tomas Haake', 
-        band: 'Meshuggah', 
-        brand: 'Sabian', 
-        quote: 'The Compression Hi-Hats changed my playing. They respond to everything I throw at them.', 
-      },
-      { 
-        name: 'Gene Hoglan', 
-        band: 'Death/Testament', 
-        brand: 'Sabian', 
-        quote: 'AAX gives me the brightness and definition I need for technical playing at any tempo.', 
-      },
-    ],
     history: {
       title: 'The Family Split That Created Competition',
       content: `Zildjian traces its roots to 1623, when Avedis Zildjian created a secret bronze alloy in Constantinople. The company remained family-owned for centuries, eventually moving to America in 1929.

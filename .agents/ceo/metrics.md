@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-07 13:01 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-07 18:07 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 430 |
-| Sessions | 497 |
-| Page views | 731 |
-| Engagement rate | 60.56% |
-| Avg session (s) | 109 |
+| Active users | 444 |
+| Sessions | 515 |
+| Page views | 751 |
+| Engagement rate | 60.19% |
+| Avg session (s) | 106 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -20,36 +20,36 @@
 | /drummers | 40 | 8 |
 | / | 34 | 21 |
 | /bpm | 20 | 3 |
-| /articles/slipknot-self-titled-drum-setup | 16 | 14 |
+| /articles/slipknot-self-titled-drum-setup | 17 | 15 |
 | /quiz | 16 | 4 |
 | /drummer/eloy-casagrande | 15 | 12 |
 | /articles/john-otto-drum-setup | 14 | 12 |
 | /drummer/matt-greiner | 13 | 11 |
 | /articles/black-sabbath-drum-setup | 11 | 8 |
-| /articles/paranoid-drum-setup | 9 | 8 |
+| /lists/best-death-metal-drummers | 10 | 10 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 387 | 323 |
-| Direct | 100 | 97 |
-| Unassigned | 52 | 49 |
-| Referral | 9 | 9 |
+| Organic Search | 401 | 334 |
+| Direct | 103 | 99 |
+| Unassigned | 53 | 50 |
+| Referral | 10 | 10 |
 | Cross-network | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 194 | 168 |
-| United Kingdom | 35 | 27 |
-| Singapore | 28 | 28 |
-| Germany | 21 | 20 |
+| United States | 196 | 170 |
+| United Kingdom | 36 | 28 |
+| Singapore | 29 | 29 |
+| Germany | 22 | 21 |
 | Australia | 20 | 17 |
 | Canada | 19 | 16 |
-| Sweden | 16 | 12 |
+| Sweden | 17 | 13 |
 | Brazil | 12 | 10 |
-| France | 10 | 9 |
-| Italy | 10 | 8 |
+| Italy | 11 | 9 |
+| Poland | 11 | 10 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

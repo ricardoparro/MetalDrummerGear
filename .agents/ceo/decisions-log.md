@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-07 00:17 UTC*
 
 ---
+## 2026-11-07 06:13 (cheap pulse — 7/7 proposals verified+promoted #10398-10404, relapse found+filed #10412)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse (last pulse 00:17 promoted #10385-10395, all 7 already merged via PRs #10405-10411 — Roadie's overnight fleet cleared the backlog in under 6h). Metrics 06:10 UTC (417u/481s/686v 7d; GSC 13,008 impr/243 clicks/1.87% CTR/pos 8.4; zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 7 fresh untriaged `seo-proposal` (#10398-10404, filed 01:06-01:12 UTC) — first fact-checks of the previously-unswept `gear-comparison/drummers-using-*.md` mirror family (26 files from old batch #2404/#2405/#2406).
+
+### Actions taken
+- **Live-verified all 7 directly via targeted greps against `api/drummers/index.js` ground truth** (no subagent fan-out needed — straightforward single-section diffs): #10398 (root-cause fix: 5 drummers' `gear.snare` fields still state fabricated-specificity "Pearl Reference 14x6.5\" Brass" despite sibling `extendedBios.js` FAQs already hedging) VERIFIED-CLEAN, confirmed Nick Augusto's honest `verified:false` flag still coexists with overclaiming prose text. #10399 (Hoglan fabricated as Sonor SQ2 user) VERIFIED-CLEAN. #10400 (Weinberg fabricated as Tama user, actual SJC Custom Drums) VERIFIED-CLEAN. #10401 (Mazurkiewicz "Pearl Masters Maple" + fabricated twin-bass, actual "Pearl Reference" single-kick) VERIFIED-CLEAN. #10402 (Portnoy + Greiner wholesale-fabricated DW rigs, incl. fictional "Greiner & Kilmer" company) VERIFIED-CLEAN — **found the fictional company also saturates 2 more files** (`best-snare-drums-for-mathcore.md`, `best-drum-kits-for-mathcore.md`), and that this is a **relapse of already-closed #7824**, not a fresh fabrication. #10403 (Bittner series/cymbal/date errors + fabricated Halpern-Mapex pairing) VERIFIED-CLEAN. #10404 (Ward wrong Ludwig series + Cruz fabricated-specificity series/shell-sizes, same pattern as #10398) VERIFIED-CLEAN. All 7 promoted to `ai-fix` with verification comments.
+- **Filed 1 follow-up `ai-fix` (#10412)** for the Greiner & Kilmer relapse in the 2 mathcore guide files. These are hand-authored files `scripts/generate-llms-genre-gear-guides.cjs` explicitly skips (its header documents the 49 pre-existing hand-authored files as untouched) — so this isn't the regen-wipes-fix pattern already tracked for `genreGearGuides.js` doom-metal (#9557); something more manual let #7824's fix lapse. Repo-wide grep after filing turned up a **5th location CEO missed when first filing**: `api/gear-finder/index.js:481-484`, a live API endpoint (not a static mirror) — added via comment before Roadie could pick it up, since this is higher-impact than the static guide pages. Asked the fix to append a learned-patterns.md note: hand-authored `public/llms/guides/*.md` files are outside the generator's protection and need their own periodic re-sweep cadence.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174/#5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — #10174 (2026-11-03) has zero comments, still awaiting founder decision; rest unchanged — no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-11-02; next weekly refresh due ~2026-11-09, not due this run.
+- **Starvation check**: post-triage backlog 0→8, bank 7→0 trips the trigger shape but matches the recurring same-batch-triaged-in-one-run artifact seen all month. Not escalated.
+- **Atomic-split sweep**: all 8 open non-hold `ai-fix` issues filed this run (fresh); the other 20 open `ai-fix` are unchanged `hold`-labeled roster/band splits under the new-page freeze. Nothing eligible.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10398-10404 promoted + #10412 filed)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 7 fresh → 0
+- New confirmed relapse class: hand-authored `public/llms/guides/*.md` and live API files (`api/gear-finder/index.js`) are NOT covered by generator-script regen protection and can silently regrow fixed fabrications — flagged for `learned-patterns.md` via #10412's fix.
+
+### Quota check
+✅ SEO proposals: 7/7 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-02, not due until ~11-09. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10398-10404 + #10412 pick up via Roadie; #10398 is the root-cause fix (also regenerates `gearIndex.js` and may 404 the `pearl-reference-14x6-5-brass` gear-series page if the bucket empties below 2 drummers) — confirm the regen step actually ran, not just the hand-edit.
+2. Confirm #10412 lands across all 5 known Kilmer locations, and that the learned-patterns.md relapse note actually gets appended (first instance of this specific "hand-authored files outside regen protection" failure mode being named).
+3. First run after 07:00 UTC today is the daily deep run — full metrics review, GSC-gap analysis, starvation re-check.
+4. #10174/#7981/#10099/#10032 held/decision-pending. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-11-07 00:17 (cheap pulse — 7/7 proposals verified+promoted #10385-10395)
 
 ### Context (≤3 lines)

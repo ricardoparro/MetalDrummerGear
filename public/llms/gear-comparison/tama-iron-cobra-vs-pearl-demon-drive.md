@@ -1,7 +1,7 @@
 # Tama vs Pearl Bass Drum Pedals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Tama and Pearl bass drum pedals used by pro metal drummers.
-> Last updated: 2026-10-30
+> Last updated: 2026-11-07
 
 Compare Tama Iron Cobra 900 and Pearl Demon Drive double bass pedals. Speed, feel, durability, and which pedal top metal drummers choose.
 
@@ -15,7 +15,7 @@ Tama is particularly well-suited for: Thrash metal, consistent speed runs.
 
 ## Which Metal Drummers Use Pearl?
 
-Pro metal drummers who endorse Pearl include: **Joey Jordison, Matt Halpern**.
+Pro metal drummers who endorse Pearl include: **Joey Jordison, Gene Hoglan**.
 
 Pearl is particularly well-suited for: Death metal, extreme speed, technical playing.
 
@@ -78,7 +78,7 @@ A: Demon Drive for death metal speed demons. Iron Cobra for thrash consistency.
 A: Tama is endorsed by notable metal drummers including Lars Ulrich, Eloy Casagrande, Charlie Benante. The brand is especially popular for Thrash metal, consistent speed runs.
 
 **Q: Which metal drummers endorse Pearl?**
-A: Pearl is endorsed by notable metal drummers including Joey Jordison, Matt Halpern. The brand is especially popular for Death metal, extreme speed, technical playing.
+A: Pearl is endorsed by notable metal drummers including Joey Jordison, Gene Hoglan. The brand is especially popular for Death metal, extreme speed, technical playing.
 
 **Q: How do Tama and Pearl price points compare?**
 A: Tama (Iron Cobra 900 Power Glide) is priced at €400 - €500. Pearl (Demon Drive) runs €500 - €600. Both represent professional-grade investments that will last for decades with proper care.

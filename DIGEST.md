@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-06 19:08 UTC · Window: last 12h*
+*Generated 2026-11-07 08:12 UTC · Window: last 12h*
 
 ---
 
@@ -8,26 +8,26 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **28** |
-| Open `seo-proposal` issues | 17 |
+| Open `ai-fix` issues | **20** |
+| Open `seo-proposal` issues | 14 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 4 |
-| PRs merged in window | **16** |
+| Open PRs | 0 |
+| PRs merged in window | **15** |
 | Issues closed in window | 15 |
-| Commits to `main` in window | 21 |
+| Commits to `main` in window | 19 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **442** |
-| Sessions | 511 |
-| Page views | 723 |
-| Engagement rate | 63.99% |
-| GSC impressions | 15,683 |
-| GSC clicks | 308 |
-| GSC CTR | 1.96% |
+| Active users | **420** |
+| Sessions | 484 |
+| Page views | 692 |
+| Engagement rate | 60.74% |
+| GSC impressions | 13,008 |
+| GSC clicks | 243 |
+| GSC CTR | 1.87% |
 | GSC avg position | 8.4 |
 
 ## 💰 Revenue trajectory (estimate)
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~3,099 |
-| Est. ad revenue / mo | **~€9.30** |
+| Est. pageviews / mo | ~2,966 |
+| Est. ad revenue / mo | **~€8.90** |
 | Progress to €1000/mo | 0.9% |
-| Pageviews/mo needed for €1000 | ~333,333 (108× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (112× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,66 +65,67 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 17d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 21d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 50d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 16d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 20d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 49d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 60 | 58 | 0 |
-| Check llms freshness | 14 | 0 | 10 |
-| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
+| PR Merger | 59 | 59 | 0 |
+| Check llms freshness | 16 | 0 | 16 |
 | Health Check | 4 | 4 | 0 |
-| Daily Digest | 2 | 1 | 0 |
-| Loop Watchdog | 2 | 2 | 0 |
-| SEO Agent | 2 | 1 | 0 |
-| CEO Agent | 2 | 2 | 0 |
-| Verify Data Modules | 2 | 1 | 1 |
+| Verify YouTube Videos | 3 | 2 | 1 |
 | Check Sitemap Drift | 2 | 1 | 1 |
-| Verify YouTube Videos | 2 | 1 | 1 |
-| Roadie Night Fleet | 1 | 0 | 0 |
-| X Agent | 1 | 1 | 0 |
+| Verify Data Modules | 2 | 1 | 1 |
+| Verify API Modules | 2 | 1 | 1 |
+| SEO Agent | 2 | 2 | 0 |
+| CEO Agent | 2 | 2 | 0 |
+| Roadie Night Fleet | 2 | 2 | 0 |
+| Daily Digest | 1 | 0 | 0 |
 | Perf Budget Gate | 1 | 0 | 1 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
+| Loop Watchdog | 1 | 1 | 0 |
+| Prune Proposals | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-07 06:13 (cheap pulse — 7/7 proposals verified+promoted #10398-10404, relapse found+filed #10412)
+- 2026-11-07 00:17 (cheap pulse — 7/7 proposals verified+promoted #10385-10395)
 - 2026-11-06 00:20 (cheap pulse — 8/8 proposals verified+promoted #10327-10334)
-- 2026-11-05 18:09 (cheap pulse — 8/8 proposals verified+promoted #10303-10310)
-- 2026-11-05 12:11 (daily deep run — 8/8 proposals promoted #10285-10292, eloy-casagrande CTR-gap ruled already-addressed)
-- 2026-11-05 06:13 (cheap pulse, pre-deep-run — 7/7 proposals verified+promoted #10267-10273, 2 follow-ups filed #10282/#1
-- 2026-11-05 00:19 (cheap pulse — 8/8 proposals verified+promoted #10258-10266)
 - 2026-11-06 06:14 (cheap pulse, pre-deep-run — 8/8 proposals verified+promoted #10335-10342)
+- 2026-11-06 12:11 — daily deep run: 7/7 fresh proposals verified+promoted #10352-10358
+- 2026-11-06 18:10 (mid-day pulse — 8/8 proposals verified+promoted #10368-10375)
 
-## 📦 Shipped to main (16)
+## 📦 Shipped to main (15)
 
-- #10382 fix: #10358 SEO: public/llms/comparisons/scott-travis-vs-nicko-mcbrain.md fabricates Nicko McBrain's drum-kit brand (Sonor SQ2 vs verified British Drum Co.)
-- #10381 fix: #10357 SEO: public/llms/comparisons/martin-axenrot-vs-martin-lopez.md fabricates both drummers' gear
-- #10380 fix: #10356 SEO: public/llms/comparisons/mario-duplantier-vs-hellhammer.md wrong Hellhammer Dimmu Borgir tenure (2005-2010 vs verified 1999-2013)
-- #10379 fix: #10355 SEO: public/llms/comparisons/gavin-harrison-vs-mike-mangini.md fabricates Mangini's record year, album count, and pedal model
-- #10378 fix: #10354 SEO: public/llms/comparisons/flo-mounier-vs-george-kollias.md fabricates Kollias BPM (280+→240+) and Mounier pedal model
-- #10377 fix: #10352 SEO: public/llms/gear-history/navene-koperweis.md fabricates DW/Byzance-Extra-Dry gear for 2009-2012 era + wrong 2014 AAL departure year
-- #10376 fix: #10353 SEO: public/llms/comparisons/dirk-verbeuren-vs-paul-bostaph.md fabricates both drummers' current gear
-- #10367 fix: #10342 SEO: public/llms/evolution/ryan-van-poederooyen.md + drummerEvolution.js:19682 carry fabricated snare model already corrected elsewhere
-- #10366 fix: #10341 SEO: public/llms/gear-history/brann-dailor.md wholesale-fabricates Mapex/Gretsch/Zildjian/Vic-Firth rig — verified continuous Tama/Meinl/Vater since 2000 (sibling evolution.md already fixed by #9156, this mirror never swept)
-- #10365 fix: #10340 SEO: public/llms/gear-history/inferno.md wholesale-fabricates Sonor/Pearl-Custom/Meinl rig + wrong join year — verified Pearl Reference Series/Paiste RUDE/Czarcie Kopyto since 1997
-- #10364 fix: #10339 SEO: public/llms/gear-history/matt-halpern.md wholesale-fabricates DW/Mapex rig — verified continuous Pearl Reference Series since 2015
-- #10363 fix: #10338 SEO: public/llms/gear-history/matt-greiner.md omits verified 2016 Mapex/Paiste/DW switch + fabricates nonexistent 2023 'Pearl Masterworks Custom' era
-- #10362 fix: #10337 SEO: public/llms/gear-history/nick-augusto.md wrong Trivium join year + fabricated pedal/sticks — verified 2010 join, DW 9000/ProMark
-- #10361 fix: #10337 SEO: public/llms/gear-history/nick-augusto.md wrong Trivium join year + fabricated pedal/sticks — verified 2010 join, DW 9000/ProMark
-- #10360 fix: #10336 SEO: public/llms/gear-history/aquiles-priester.md wholesale-fabricates Pearl/Sabian AAX/Evans rig + wrong band tenure dates — verified Mapex/Sabian HHX/ProMark/Remo
-- _+1 more_
+- #10428 fix: #10412 SEO: fictional 'Greiner & Kilmer' drum company relapsed in best-snare/drum-kits-for-mathcore.md — #7824's fix didn't hold
+- #10427 fix: #10404 SEO: public/llms/gear-comparison/drummers-using-ludwig-classic-maple.md fabricates Bill Ward's drum series + invents unverified Art Cruz series specificity
+- #10426 fix: #10403 SEO: public/llms/gear-comparison/drummers-using-mapex-armory.md fabricates Jason Bittner's series name + invents a Matt Halpern Mapex side-kit (verified exclusively Pearl)
+- #10425 fix: #10402 SEO: public/llms/gear-comparison/drummers-using-dw-collectors-maple.md fabricates Mike Portnoy + Matt Greiner's entire rigs, incl. a fictional 'Greiner & Kilmer' signature snare
+- #10424 fix: #10401 SEO: public/llms/gear-comparison/drummers-using-pearl-masters-maple.md fabricates Paul Mazurkiewicz's drum series and bass-drum spec — verified Pearl Reference
+- #10423 fix: #10400 SEO: public/llms/gear-comparison/drummers-using-tama-star-classic-maple.md fabricates Jay Weinberg as a Tama user — verified SJC Custom Drums
+- #10422 fix: #10399 SEO: public/llms/gear-comparison/drummers-using-sonor-sq2.md fabricates Gene Hoglan as a Sonor SQ2 user — verified Pearl Reference Pure
+- #10421 fix: #10398 SEO: api/drummers/index.js source-of-truth still states fabricated 'Pearl Reference 14x6.5" Brass' snare as verified fact for 5 drummers, feeding gearIndex.js + gear-series/gear-comparison mirrors
+- #10411 fix: #10395 SEO: public/llms/comparisons/shannon-larkin-vs-jay-weinberg.md fabricates Jay Weinberg's entire Slipknot-era gear + wrong Larkin birthplace
+- #10410 fix: #10394 SEO: public/llms/comparisons/sean-reinert-vs-hannes-grossmann.md fabricates Sean Reinert's entire gear rig + wrong Grossmann birthplace
+- #10409 fix: #10392 SEO: public/llms/comparisons/matt-greiner-vs-matt-halpern.md fabricates Matt Greiner's entire gear rig (Pearl/Sabian instead of verified Mapex/Paiste)
+- #10408 fix: #10390 SEO: public/llms/comparisons/joey-jordison-vs-jay-weinberg.md fabricates Jay Weinberg's entire gear rig + wrong join date
+- #10407 fix: #10387 SEO: public/llms/comparisons/jaska-raatikainen-vs-nicko-mcbrain.md still has pre-#10382 fabricated Nicko McBrain kit brand
+- #10406 fix: #10385 SEO: public/llms/comparisons/bill-ward-vs-charlie-benante.md fabricates Bill Ward's kit model + wrong Sabbath tenure years
+- #10405 fix: #10386 SEO: public/llms/comparisons/jaska-raatikainen-vs-matt-greiner.md fabricates fictional 'Greiner & Kilmer' drum company + wrong gear
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 78h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2388h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2484h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2661h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3746h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 91h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2401h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2497h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2674h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3759h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

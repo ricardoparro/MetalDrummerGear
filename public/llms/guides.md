@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-11-01 · Source: https://metalforge.io
+> Last updated: 2026-11-08 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -1355,7 +1355,7 @@ Dee plays matched grip with a physical, arm-led technique that generates signifi
 
 ### Gear Setup
 
-- Drums: Sonor Sonor (Motörhead, 2012-2015 only — he played Tama from 1992-2012) / Sonor SQ2 custom-build (Scorpions era, current) (Custom SQ2 build shells)
+- Drums: Sonor Sonor SQ2 (Motörhead, 1992-2015, carried over from his King Diamond years) / Sonor SQ2 custom-build (Scorpions era, current) (Custom SQ2 build shells)
 - Snare: Sonor Sonor Mikkey Dee Signature
 - Cymbals: Paiste Paiste Signature Series
 - Pedals: DW DW 5000 Series Double Pedal
@@ -1363,7 +1363,7 @@ Dee plays matched grip with a physical, arm-led technique that generates signifi
 ### Frequently Asked Questions
 
 **Q: What drum kit does Mikkey Dee use?**
-A: Mikkey Dee joined Motörhead in 1992 playing Tama drums. His Sonor Drums relationship began in 2012 with his signature snare, and he currently plays Sonor's SQ2 custom-build series with Scorpions, with dual 22" bass drums and an emphasis on floor toms (14" and 16") in his configuration.
+A: Mikkey Dee joined Motörhead in 1992 already playing a Sonor SQ2 kit, carried over from his King Diamond years. His Sonor Drums relationship began in 2012 with his signature snare, and he currently plays Sonor's SQ2 custom-build series with Scorpions, with dual 22" bass drums and an emphasis on floor toms (14" and 16") in his configuration.
 
 **Q: What cymbals does Mikkey Dee use?**
 A: Mikkey Dee has played Paiste Signature Series cymbals since his Motörhead years — a series known for bright, loud, projecting character suited to hard rock volumes. His setup typically includes 14" Sound Edge hi-hats, 19" and 20" Power Crashes, an 18" Heavy China, and a 22" Power Ride. He continues to use Paiste Signature cymbals today with Scorpions.

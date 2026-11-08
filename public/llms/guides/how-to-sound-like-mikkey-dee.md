@@ -13,7 +13,7 @@ Dee's drumming is built on three pillars: enormous physical power delivered with
 
 ## Kit Setup
 
-Mikkey plays **Sonor** — Tama from 1992-2012, then Sonor from 2012 to the present (Motörhead's final years, 2012-2015, and now Scorpions on a Sonor SQ2 custom-build):
+Mikkey plays **Sonor** — continuously since joining Motörhead in 1992 (carried over from his King Diamond years), through Motörhead's final years (2012-2015) and now Scorpions on a Sonor SQ2 custom-build:
 
 - **Kick Drums:** 22" x 18" (x2, independent) with DW 5000 Series Double Pedal
 - **Snare:** 14" x 7.25" Sonor Mikkey Dee Signature, Birch
@@ -69,10 +69,10 @@ Dee plays **matched grip** with a physical, arm-led technique that generates sig
 ## FAQ
 
 **Q: What drum kit does Mikkey Dee use?**  
-A: Mikkey Dee played Tama drums from 1992 to 2012, then switched to Sonor for Motörhead's final years (2012-2015), with dual 22" bass drums and an emphasis on floor toms (14" and 16") in his configuration. Since joining Scorpions in 2016, he has played a Sonor SQ2 custom-build. His Sonor relationship began in 2012 with the release of his signature snare.
+A: Mikkey Dee joined Motörhead in 1992 already playing a Sonor SQ2 kit, carried over from his King Diamond years, with dual 22" bass drums and an emphasis on floor toms (14" and 16") in his configuration. Since joining Scorpions in 2016, he has played a Sonor SQ2 custom-build. His Sonor Drums signature-snare relationship began in 2012.
 
 **Q: What cymbals does Mikkey Dee use?**  
-A: Mikkey Dee has played Paiste Signature cymbals since 2012 — a series known for bright, loud, projecting character suited to a loud rock mix. His setup typically includes Signature 14" Sound Edge hi-hats, 19" and 20" Power Crashes, an 18" Heavy China, and a 22" Power Ride. Earlier in his Motörhead tenure (1992-2012), he played Paiste with his Tama kit.
+A: Mikkey Dee has played Paiste Signature cymbals since his Motörhead years — a series known for bright, loud, projecting character suited to a loud rock mix. His setup typically includes Signature 14" Sound Edge hi-hats, 19" and 20" Power Crashes, an 18" Heavy China, and a 22" Power Ride. He continues to use Paiste Signature cymbals today with Scorpions.
 
 **Q: What is Mikkey Dee's signature drumming technique?**  
 A: Dee's signature is powerful straight-ahead rock timing combined with floor tom-dominant fills and an aggressive right-hand ride attack. His playing prioritizes physical authority and precise rhythmic placement over technical complexity. One powerful floor tom hit delivered with conviction characterizes his fill approach more than multi-surface cascade runs.

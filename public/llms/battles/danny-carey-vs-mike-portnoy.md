@@ -13,7 +13,7 @@ Danny Carey and Mike Portnoy face off in the MetalForge community drum kit battl
 Danny Carey, born in 1961 in Lawrence, Kansas, is widely regarded as one of the greatest drummers in rock and metal history. As the drummer for Tool since the band's formation in 1990, he has developed a unique style that blends complex polyrhythmic patterns with influences from jazz, world music, and progressive rock. His technical proficiency and creative approach to rhythm have earned him numerous accolades, including being voted the best drummer by readers of Modern Drummer magazine. Carey's drumming incorporates unusual time signatures, intricate subdivisions, and the use of electronic percussion. Beyond Tool, he has collaborated with artists like Pigface, Zaum, and Volto! His towering presence behind his massive Sonor kit and his dedication to expanding the boundaries of rock drumming have made him an icon in the drumming community.
 
 **Band:** Tool  
-**Career:** Tool, Volto!, Legend of the Seagullmen  
+**Career:** Tool, Volto!  
 **Genre:** Progressive Metal  
 **Current Kit:** Sonor SQ2 Heavy Beech  
 **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals)  

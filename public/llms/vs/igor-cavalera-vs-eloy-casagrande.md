@@ -67,4 +67,4 @@ A: Igor Cavalera uses Zildjian A Custom Series. Eloy Casagrande uses Paiste (15"
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

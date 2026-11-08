@@ -78,4 +78,4 @@ A: Nile is generally considered more technically complex, built around Egyptian-
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

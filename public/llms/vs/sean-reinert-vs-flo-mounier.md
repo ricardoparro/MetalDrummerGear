@@ -66,4 +66,4 @@ A: Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom c
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

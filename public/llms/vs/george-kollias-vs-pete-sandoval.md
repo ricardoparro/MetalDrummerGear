@@ -67,4 +67,4 @@ A: George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom D
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

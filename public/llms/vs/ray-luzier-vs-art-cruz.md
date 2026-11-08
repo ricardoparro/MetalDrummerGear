@@ -12,7 +12,7 @@ Korn's Ray Luzier vs Lamb of God's Art Cruz: nu-metal contrast meets modern groo
 
 - **Drums:** Pearl Reference Series
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Pedals/Hardware:** DW 9002 Double Pedal, Pearl D-2000 Roadster Throne
 - **Sticks:** Vic Firth Ray Luzier Signature
 
@@ -67,4 +67,4 @@ A: Ray Luzier plays a Pearl Reference Maple kit with a Pearl Reference Brass sna
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

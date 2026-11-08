@@ -53,7 +53,7 @@ A: They excel in different disciplines. Danny Carey's skill set is rooted in com
 A: Danny Carey's signature is Fibonacci-sequence polyrhythms and layered electronic percussion via Mandala pads, most prominent on Tool's "Lateralus" and "Fear Inoculum." George Kollias's signature is heel-toe blast beats sustained past 240 BPM, showcased on Nile albums like "Annihilation of the Wicked."
 
 **Q: What bands have Danny Carey and George Kollias played in?**
-A: Danny Carey has drummed for Tool since 1990 and also plays in Volto! and Legend of the Seagullmen. George Kollias has drummed for Nile since 2004 and previously played in Nightfall from 2002 to 2009.
+A: Danny Carey has drummed for Tool since 1990 and also plays in Volto!. George Kollias has drummed for Nile since 2004 and previously played in Nightfall from 2002 to 2009.
 
 **Q: What gear do Danny Carey and George Kollias use?**
 A: Danny Carey plays a Sonor SQ2 Heavy Beech kit with a 14x8" Bronze signature snare and Paiste Signature Series cymbals, plus Mandala Drum electronic pads. George Kollias plays a Pearl Masterworks Stadium Exotic kit with a 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals, driven by his co-designed Pearl Demon XR double pedal.
@@ -67,4 +67,4 @@ A: Danny Carey plays a Sonor SQ2 Heavy Beech kit with a 14x8" Bronze signature s
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

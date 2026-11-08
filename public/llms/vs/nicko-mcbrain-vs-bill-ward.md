@@ -34,7 +34,7 @@ Ward's technique is rooted in open, swinging jazz feel rather than rock power �
 
 ## Key Differences
 
-Bill Ward played a Ludwig Super Classic (later Ludwig Classic Maple) kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a single Ludwig Speed King pedal and Pro-Mark sticks — no double bass, relying entirely on foot technique for Sabbath's doom-laden grooves. Nicko McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature 14x6.5" snare and Paiste 2002 & Signature Series cymbals (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China), driven by a single bass drum pedal and Vic Firth Nicko McBrain Signature sticks. Ward's technique is rooted in open, swinging jazz feel rather than rock power — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove that no other rock drummer of the era was playing, prioritizing feel over precision. McBrain's technique centers on a single bass drum pedal he has never abandoned — his galloping triplet patterns, rapid hi-hat accents, and famously theatrical live presence achieve a driving intensity most modern metal drummers need double bass to match.
+Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride), driven by a single Ludwig Speed King pedal and Pro-Mark sticks — no double bass, relying entirely on foot technique for Sabbath's doom-laden grooves. Nicko McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature 14x6.5" snare and Paiste 2002 & Signature Series cymbals (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China), driven by a single bass drum pedal and Vic Firth Nicko McBrain Signature sticks. Ward's technique is rooted in open, swinging jazz feel rather than rock power — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove that no other rock drummer of the era was playing, prioritizing feel over precision. McBrain's technique centers on a single bass drum pedal he has never abandoned — his galloping triplet patterns, rapid hi-hat accents, and famously theatrical live presence achieve a driving intensity most modern metal drummers need double bass to match.
 
 ## Influence & Legacy
 
@@ -53,7 +53,7 @@ A: Bill Ward's pioneering work with Black Sabbath created the foundational jazz-
 A: Yes — both drummers built their entire careers around a single bass drum pedal. Nicko McBrain has never used a double pedal throughout more than 40 years with Iron Maiden, and Bill Ward relied entirely on a single Ludwig Speed King pedal and foot technique across his whole Black Sabbath tenure, never adopting a double kick.
 
 **Q: What gear do Nicko McBrain and Bill Ward use?**
-A: Bill Ward played a Ludwig Super Classic/Classic Maple kit with Zildjian Avedis Series cymbals and a single Ludwig Speed King pedal — no double bass. Nicko McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature snare and Paiste 2002 & Signature Series cymbals, also driven by a single bass drum pedal.
+A: Bill Ward played a Ludwig Standard / Club Date Series kit with Zildjian Avedis Series cymbals and a single Ludwig Speed King pedal — no double bass. Nicko McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature snare and Paiste 2002 & Signature Series cymbals, also driven by a single bass drum pedal.
 
 **Q: Who is more influential in classic heavy metal, Bill Ward or Nicko McBrain?**
 A: Both are considered foundational to classic heavy metal drumming, but for different reasons. Bill Ward (Black Sabbath) is credited as one of the true originators of heavy metal drumming itself, inventing its jazz-swing-rooted vocabulary in 1968. Nicko McBrain (Iron Maiden) took metal drumming into its galloping, arena-scale NWOBHM era from 1982 onward. Ward is the originator; McBrain is the genre's longest-running single-pedal showman.
@@ -67,4 +67,4 @@ A: Both are considered foundational to classic heavy metal drumming, but for dif
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

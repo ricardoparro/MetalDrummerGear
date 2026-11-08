@@ -63,4 +63,4 @@ A: Flo Mounier has been the drummer for Canadian technical death metal band Cryp
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

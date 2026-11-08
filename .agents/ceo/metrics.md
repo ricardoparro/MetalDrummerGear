@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-07 19:07 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-08 00:21 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,84 +8,84 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 445 |
-| Sessions | 517 |
-| Page views | 753 |
-| Engagement rate | 59.96% |
-| Avg session (s) | 105 |
+| Active users | 430 |
+| Sessions | 495 |
+| Page views | 725 |
+| Engagement rate | 62.83% |
+| Avg session (s) | 122 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummers | 40 | 8 |
-| / | 35 | 22 |
-| /bpm | 20 | 3 |
-| /articles/slipknot-self-titled-drum-setup | 17 | 15 |
-| /quiz | 16 | 4 |
-| /drummer/eloy-casagrande | 15 | 12 |
-| /articles/john-otto-drum-setup | 14 | 12 |
-| /drummer/matt-greiner | 13 | 11 |
-| /articles/black-sabbath-drum-setup | 11 | 8 |
+| /drummers | 39 | 7 |
+| / | 36 | 23 |
+| /bpm | 19 | 3 |
+| /articles/john-otto-drum-setup | 17 | 14 |
+| /quiz | 15 | 3 |
+| /drummer/eloy-casagrande | 14 | 11 |
+| /articles/paranoid-drum-setup | 11 | 9 |
+| /articles/slipknot-self-titled-drum-setup | 10 | 10 |
+| /drummer/matt-greiner | 10 | 9 |
 | /lists/best-death-metal-drummers | 10 | 10 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 402 | 334 |
-| Direct | 104 | 100 |
-| Unassigned | 53 | 50 |
+| Organic Search | 387 | 326 |
+| Direct | 94 | 90 |
+| Unassigned | 25 | 24 |
 | Referral | 10 | 10 |
-| Cross-network | 1 | 1 |
+| AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 196 | 170 |
-| United Kingdom | 36 | 28 |
-| Singapore | 29 | 29 |
-| Germany | 22 | 21 |
-| Australia | 20 | 17 |
-| Canada | 19 | 16 |
-| Sweden | 17 | 13 |
-| Brazil | 12 | 10 |
-| France | 11 | 10 |
+| United States | 187 | 162 |
+| United Kingdom | 34 | 28 |
+| Singapore | 24 | 24 |
+| Germany | 23 | 22 |
+| Sweden | 18 | 13 |
+| Australia | 17 | 16 |
+| Canada | 17 | 14 |
+| Brazil | 13 | 11 |
 | Italy | 11 | 9 |
+| Poland | 10 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 13,008 |
-| Clicks | 243 |
-| CTR | 1.87% |
-| Avg position | 8.4 |
+| Impressions | 13,140 |
+| Clicks | 245 |
+| CTR | 1.86% |
+| Avg position | 8.3 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| eloy casagrande slipknot drum kit | 8 | 3 | 37.50% | 5.1 |
-| john otto cymbal setup | 14 | 3 | 21.43% | 4.8 |
+| eloy casagrande slipknot drum kit | 6 | 3 | 50.00% | 5.2 |
+| john otto cymbal setup | 16 | 3 | 18.75% | 4.4 |
 | bill ward cymbals | 6 | 2 | 33.33% | 9.0 |
-| best metalcore drummers | 3 | 1 | 33.33% | 2.7 |
 | best nu metal drummers of all time | 7 | 1 | 14.29% | 3.1 |
-| bill ward drum kit 1970 | 4 | 1 | 25.00% | 3.0 |
+| bill ward drum kit 1970 | 5 | 1 | 20.00% | 3.6 |
 | bill ward drum setup | 4 | 1 | 25.00% | 4.3 |
-| black sabbath drum kit | 3 | 1 | 33.33% | 3.0 |
-| death metal drum kit | 10 | 1 | 10.00% | 4.4 |
+| chris adler drum setup | 8 | 1 | 12.50% | 5.6 |
+| death metal drum kit | 9 | 1 | 11.11% | 4.1 |
 | deathcore drum kit | 2 | 1 | 50.00% | 3.5 |
+| gavin harrison cymbal setup | 6 | 1 | 16.67% | 4.5 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,885 | 81 | 2.08% | 8.0 |
-| deu | 436 | 20 | 4.59% | 6.6 |
-| gbr | 653 | 14 | 2.14% | 9.4 |
-| can | 532 | 12 | 2.26% | 7.5 |
-| pol | 186 | 12 | 6.45% | 6.1 |
-| bra | 1,462 | 9 | 0.62% | 10.9 |
-| aus | 476 | 8 | 1.68% | 7.0 |
-| tha | 138 | 8 | 5.80% | 7.2 |
-| fra | 365 | 6 | 1.64% | 8.4 |
-| ita | 231 | 6 | 2.60% | 8.5 |
+| usa | 4,082 | 81 | 1.98% | 8.0 |
+| deu | 410 | 20 | 4.88% | 6.6 |
+| gbr | 685 | 15 | 2.19% | 8.8 |
+| can | 572 | 12 | 2.10% | 7.2 |
+| pol | 189 | 9 | 4.76% | 6.4 |
+| swe | 236 | 8 | 3.39% | 7.3 |
+| tha | 130 | 8 | 6.15% | 6.9 |
+| aus | 459 | 7 | 1.53% | 6.8 |
+| bra | 1,442 | 7 | 0.49% | 11.1 |
+| ita | 235 | 7 | 2.98% | 8.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

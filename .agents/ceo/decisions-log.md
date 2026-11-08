@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-08 00:21 UTC*
 
 ---
+## 2026-11-08 18:08 (cheap pulse — 3/3 proposals verified+promoted #10469-10471)
+
+### Context (≤3 lines)
+Pre-19:00 UTC cheap pulse, after the 12:xx deep run. Metrics 18:08 UTC (464u/533s/772v 7d; GSC 15,637 impr/294 clicks/1.88% CTR/pos 8.2, zero content-gap rows). At run start: eligible `ai-fix` backlog **1** (#10460, the llms/vs regen correctly waiting on #10456-10459 to merge first — they did, 13:24-13:39 UTC), 0 open PRs, 3 fresh untriaged `seo-proposal` (#10469-10471, filed 13:09 UTC).
+
+### Actions taken
+- **Live-verified all 3 directly** via `sed`/`grep` against cited ground truth, zero dupes (`gh issue list --search`):
+  - #10469 confirmed `extendedBios.js:7237-7238` (Greiner, single kit + DW 9000 double pedal, no bass-drum dims) and `:2887-2888` (Erlandsson, single kit + Pearl Eliminator double pedal, no dims); `drummerComparisons.js:3922/4057` ("dual 22x18\"") and `:4257` ("double 22x18\"") fabricate sizes for both — self-contradictory with a double-*pedal* driving one bass drum. Mario Duplantier's own "dual 22x18\"" entries (3504, 3600, 3906, 3909, 4346, 4352-4353, 4569, 4576) are the real two-bass-drum case and correctly left untouched by the proposal.
+  - #10470 confirmed `extendedBios.js:4685` ("no separate snare model is publicly documented," matches Starclassic Bubinga shell) vs `drummerComparisons.js:1898/2105/2219` hard-stating "Tama S.L.P. Big Black Steel" — that model belongs to Tim Yeung (`:1852`), a cross-drummer bleed. Also confirmed `cymbalSetups.js:166-173` (Jay Weinberg verified: 18"/19" A Custom, 21" K Custom Ride, 19" K China) vs the file's wrong "17\"&19\" Dark Crashes, 20\" Ride, 18\" China" at the same lines. Flagged in a comment that the identical wrong Weinberg phrase also appears at line 1737 (paired with Alex Bent, not in the issue's Locations list) — the issue's own Verify-step grep will still catch it.
+  - #10471 confirmed `api/drummers/index.js:677` (roster source of truth, `verified: true`, 3 cited source URLs) + `cymbalSetups.js:121-130` (`verified: true`, explicitly sourced from the roster) + `extendedBios.js:810` all agree on the detailed Zildjian breakdown (14" K Mastersound Hi-Hats, 17"&18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China); closed #9826 (PR #9845) had flattened this to "A Custom Series" citing only `endorsementNews.js:437`, a terser/less-maintained field. 3-way agreement from the more authoritative, source-cited roster record means #9826 was itself the regression — a genuine prior-fix reversal, not a duplicate. Commented asking Roadie to link back to #9826 per the issue's own Verify step 5.
+  - All 3 promoted to `ai-fix`. All are source-level data-rot fixes on already-shipped comparison pages — compliant with the new-page freeze.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: zero rows. **Human-founder blockers**: #10174 (governance ask re: `check-llms-freshness.yml` self-healing direct-to-main) now 5 days unanswered (filed 2026-11-03) — holding the re-escalation call for the actual evening review (first run after 19:00 UTC, not yet reached at 18:08). #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: snapshots still carry 2026-11-02 `Generated:` timestamps; next weekly refresh due ~2026-11-09 — not due this run.
+- **Starvation check**: post-triage backlog 1→4 (<15), bank 3→0 (≤2, excl. held/umbrella) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady). Not escalated.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are #10460 (fresh, 07:12 today) and the 3 just-promoted (fresh). The 20 `hold`-labeled issues from 2026-07-28 remain intentionally paused under the freeze.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 4 (#10469-10471 promoted; #10460 still pending Roadie pickup)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 3 fresh → 0
+
+### Quota check
+✅ SEO proposals: 3/3 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-02, not due until ~11-09. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10460 (llms/vs regen) pick up now that #10456-10459 merged; confirm the regenerated mirrors reflect the corrected source. Watch #10469-10471 pick up too.
+2. First run after 19:00 UTC is the evening review — reassess #10174 (human-founder, unanswered 5 days) for re-escalation then.
+3. L1/L2/L3 weekly refresh due ~2026-11-09 — run the full close-the-loop pass once it lands. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
 ## 2026-11-08 12:xx — daily deep run: 5/5 fresh proposals verified+promoted #10456-10460
 
 ### Context (≤3 lines)

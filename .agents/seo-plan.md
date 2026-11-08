@@ -16282,3 +16282,50 @@ Not due this run (today is Sunday 2026-11-08; next sweep due Monday 2026-11-09, 
 5. Minor non-fabrication bug noted: `public/llms/battles/joey-jordison-vs-eloy-casagrande.md:7` has a template rendering defect ("Both are legends in Nu Metal and Nu Metal" — duplicated genre interpolation). Not filed this run (out of fact-accuracy scope); worth locating the generator script (likely `scripts/generate-llms-battles.cjs`) and filing as a quick atomic fix next run if it reproduces elsewhere.
 6. GSC content-gap: zero rows this week (13,140 impr/245 clicks/1.86% CTR/pos 8.3).
 7. Drum-chair watch due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-08 (SEO Agent run 2) — public/llms/vs/ family inventory + 5 root-cause proposals filed
+
+Bank check: 13 open `seo-proposal` at run start (well under 45 floor) → cleared to file up to 8 net-new. Today is Sunday — drum-chair weekly sweep not due (next due Monday 2026-11-09, group 2).
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints live: 2,028 files.
+- Inventoried the 227-file `public/llms/vs/` family against `gh issue list --state all --search` for the literal path: 150 of 227 already referenced by a past issue (open or closed), leaving **99 genuinely unswept candidates**.
+
+### Method
+Dispatched 8 parallel verification agents against 8 unswept candidates, prioritizing drummers with known recurring fabrication patterns (Bill Ward, Dave Lombardo, Gavin Harrison): `bill-ward-vs-eloy-casagrande.md`, `bill-ward-vs-gavin-harrison.md`, `bill-ward-vs-mario-duplantier.md`, `dave-lombardo-vs-chris-adler.md`, `dave-lombardo-vs-gene-hoglan.md`, `dave-lombardo-vs-nicko-mcbrain.md`, `gavin-harrison-vs-eloy-casagrande.md`, `gavin-harrison-vs-hellhammer.md`. **6 of 8 came back with findings**, 2 clean (`dave-lombardo-vs-nicko-mcbrain.md`, `gavin-harrison-vs-hellhammer.md`).
+
+Rather than filing 6 near-duplicate per-mirror issues, traced each finding back to its source in `packages/frontend/data/drummerComparisons.js` (the single source for both `vs/` and `comparisons/` mirror families) and found **3 of the 6 findings share one root cause** (Bill Ward's kit hard-stated as "Ludwig Classic Maple" — verified "Standard / Club Date Series" — persists in 13 `drummerComparisons.js` entries despite being fixed in 6+ other files over many past issues), plus found a 4th-entry class (Gene Hoglan's + Ray Luzier's explicitly-unverified snare models stated as hard fact across 8 entries) while tracing the Hoglan finding to its source. Filed root-cause batch/single issues instead of per-mirror patches — this should prevent the same class of bug from resurfacing in future `vs/`/`comparisons/` regenerations, unlike prior per-mirror fixes.
+
+**Operator note:** accidentally ran `node scripts/generate-llms-vs.cjs` (intended `--help`, flag was ignored) mid-run, which regenerated all 227 `public/llms/vs/*.md` files against the current (still-fabricated) source. Caught via `git status`, confirmed the diff was real (30 files had genuine content drift beyond the cosmetic date-stamp line — stale mirrors never regenerated after earlier source fixes), then **reverted all 227 files via `git checkout`** before filing anything — direct edits/regenerations are Roadie's job via the PR pipeline, not SEO Agent's, consistent with the 2026-11-07 00:17 CEO log precedent (reverted a verification subagent's direct edit for the same reason). The 30-file drift list was itself valuable, so filed it as a 5th issue rather than discarding it.
+
+### Proposals filed this run
+1. #10456 — SEO batch: Bill Ward "Ludwig Classic Maple" kit + fabricated 18" China cymbal across 13 `drummerComparisons.js` entries (root cause, not another per-mirror patch)
+2. #10457 — SEO: Chris Adler birthplace fabricated as "Richmond, Virginia" in `drummerComparisons.js:1942` (root cause of `vs/dave-lombardo-vs-chris-adler.md`; #10372 only fixed the sibling `comparisons/` markdown, never the source)
+3. #10458 — SEO batch: Gene Hoglan + Ray Luzier unverified snares stated as hard fact across 8 `drummerComparisons.js` entries + stale `snares.js` `verified:true` flag for Hoglan (root cause of the long-running per-mirror Hoglan-snare fix pattern, #10371/#10074/#10037/#9346/#8999/#8594/#10443/#10398/#10448)
+4. #10459 — SEO: Eloy Casagrande bass drum size fabricated as "dual 22x18\"" in `drummerComparisons.js` (verified 22x16"/24x14") — flagged the same phrase appearing for 3 other drummers as unverified, not fixed blind
+5. #10460 — SEO batch: regenerate `public/llms/vs/*.md` — 30 files drifted from already-edited `drummerComparisons.js` source (explicitly sequenced to run after #10456/#10457/#10458/#10459 land, so the regen doesn't bake in still-wrong text)
+
+Only 5 filed (3 under the 8 cap) — quality over volume: this run traded per-mirror volume for root-cause depth, consistent with the new-page-freeze's "fix broken/rot data" priority.
+
+### GSC / metrics
+Metrics 07:03 UTC: GA4 445u/511s/750v 7d; GSC 15,637 impr/294 clicks/1.88% CTR/pos 8.2. Zero content-gap rows (impr≥50, CTR<2%) this week — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Sunday 2026-11-08; next sweep due Monday 2026-11-09, group 2 per rotation: Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10456-10460 (this run, 5 fresh)
+
+### Next run
+1. Watch #10456-10460 triage/promotion. **#10460 must land after #10456-10459**, not before — flag this dependency to whoever triages, since filing order doesn't guarantee merge order.
+2. `public/llms/vs/` 227-file family: 8 checked this run (6 findings), 91 of the 99 originally-unswept candidates remain — good next-run candidates, same prioritization heuristic (recurring-offender drummers first).
+3. Flagged, not filed: the fabricated-sounding "dual 22x18\" bass drums" phrase also appears for Mario Duplantier (`drummerComparisons.js:3504,3600`), Matt Greiner (`:3922,4057`), and Daniel Erlandsson (`:4257`) — none independently verified this run. Worth a dedicated verification pass next run before deciding if it's a shared template default or three more separate fabrications.
+4. GSC content-gap: zero rows this week (15,637 impr/294 clicks/1.88% CTR/pos 8.2).
+5. Drum-chair watch due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

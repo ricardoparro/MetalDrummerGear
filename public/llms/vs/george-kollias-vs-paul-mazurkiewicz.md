@@ -38,7 +38,7 @@ Kollias is routinely cited among the fastest drummers in death metal, sustaining
 
 ## Kit
 
-George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian A Custom Series cymbals, driven by the Pearl Demon XR Pedals he co-designed and his own Vic Firth sticks. Paul Mazurkiewicz plays a Pearl Reference kit with a Pearl Free-Floating steel snare and Meinl Classics Custom / Byzance Series cymbals, powered by a Pearl Eliminator Double Bass Pedal and his own Vic Firth Paul Mazurkiewicz Signature sticks.
+George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), driven by the Pearl Demon XR Pedals he co-designed and his own Vic Firth sticks. Paul Mazurkiewicz plays a Pearl Reference kit with a Pearl Free-Floating steel snare and Meinl Classics Custom / Byzance Series cymbals, powered by a Pearl Eliminator Double Bass Pedal and his own Vic Firth Paul Mazurkiewicz Signature sticks.
 
 ## Key Differences
 

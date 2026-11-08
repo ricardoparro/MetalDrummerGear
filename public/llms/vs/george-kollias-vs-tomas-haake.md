@@ -34,7 +34,7 @@ Kollias uses heel-toe technique for sustained blast beats at extreme tempos and 
 
 ## Key Differences
 
-Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian A Custom Series cymbals and the Pearl Demon XR double pedal. Haake uses Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals. Kollias uses heel-toe technique for sustained blast beats at extreme tempos and co-designed the Pearl Demon XR pedal for maximum speed performance. Haake uniquely employs two single pedals rather than a double pedal, achieving precise polyrhythmic control through self-imposed physical constraints.
+Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China) and the Pearl Demon XR double pedal. Haake uses Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals. Kollias uses heel-toe technique for sustained blast beats at extreme tempos and co-designed the Pearl Demon XR pedal for maximum speed performance. Haake uniquely employs two single pedals rather than a double pedal, achieving precise polyrhythmic control through self-imposed physical constraints.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ George Kollias and Tomas Haake pursue technical mastery from opposite directions
 ## FAQ
 
 **Q: What are the main differences between George Kollias's and Tomas Haake's drum kits?**
-A: George Kollias — Drums: Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). Cymbals: Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). Tomas Haake — Drums: Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms). Cymbals: Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China). Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian A Custom Series cymbals and the Pearl Demon XR double pedal. Haake uses Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals.
+A: George Kollias — Drums: Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). Cymbals: Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). Tomas Haake — Drums: Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms). Cymbals: Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China). Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China) and the Pearl Demon XR double pedal. Haake uses Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals.
 
 **Q: What drums does George Kollias play vs Tomas Haake?**
 A: George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms).

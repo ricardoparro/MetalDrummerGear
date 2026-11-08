@@ -14,7 +14,7 @@ Hellhammer (Jan Axel Blomberg) is the most influential drummer in black metal hi
 Hellhammer plays articulate, fast-responding kits engineered to cut through dense tremolo guitars:
 
 - **Kick Drums:** 22" x 18" (x2) with a fast double pedal (Axis Longboard or similar)
-- **Snare:** 14" x 5.5" Maple (Sonor SQ2 Heavy Beech Snare) — warm-but-cutting, tuned medium-bright
+- **Snare:** 14" x 5.5" Maple (Sonor SQ2 Maple Snare) — warm-but-cutting, tuned medium-bright
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 16", 18" x 16"
 - **Shells:** Heavy Beech
@@ -48,7 +48,7 @@ Hellhammer plays **matched grip** with a relaxed, rebound-driven approach optimi
 | Item | Hellhammer's Spec | Budget Alternative |
 |------|-------------------|--------------------|
 | Drum Kit | Sonor (custom config) | Pearl Export Series (~$700) |
-| Snare | Maple 14" x 5.5" (Sonor SQ2 Heavy Beech) | Pearl Reference or Ludwig Supraphonic |
+| Snare | Maple 14" x 5.5" (Sonor SQ2 Maple) | Pearl Reference or Ludwig Supraphonic |
 | Cymbals | Paiste RUDE Series | Paiste PST 5 / Sabian B8X (~$250) |
 | Pedal | Axis Longboard Double | Pearl P930 Double (~$130) |
 | Sticks | Vic Firth American Classic 5B | Promark 5B or Vater Power 5B |

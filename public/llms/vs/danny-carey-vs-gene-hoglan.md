@@ -34,7 +34,7 @@ Carey's technique favors spacious, deliberate polyrhythmic construction and unus
 
 ## Key Differences
 
-Carey plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals, driven by a Sonor Giant Step Twin Effect double pedal and Mandala Drum electronic pads. Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals, powered by a Pearl Demon Drive double pedal. Carey's technique favors spacious, deliberate polyrhythmic construction and unusual time signatures, incorporating electronic percussion via Mandala pads to expand Tool's sonic palette rather than showcase raw speed. Hoglan is known for inhuman timing consistency and his signature gravity blast technique, combining speed, power, and musicality in a way few extreme metal drummers can sustain across an entire record.
+Carey plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals, driven by a Sonor Giant Step Twin Effect double pedal and Mandala Drum electronic pads. Hoglan plays a Pearl Reference Pure kit with a Pearl snare (the specific model has not been independently verified) and Sabian AAX Series cymbals, powered by a Pearl Demon Drive double pedal. Carey's technique favors spacious, deliberate polyrhythmic construction and unusual time signatures, incorporating electronic percussion via Mandala pads to expand Tool's sonic palette rather than showcase raw speed. Hoglan is known for inhuman timing consistency and his signature gravity blast technique, combining speed, power, and musicality in a way few extreme metal drummers can sustain across an entire record.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Danny Carey and Gene Hoglan are both widely cited as the most technically respec
 A: Danny Carey favors spacious, deliberate polyrhythmic construction and unusual time signatures within Tool's progressive metal. Gene Hoglan favors inhuman timing consistency and his signature gravity blast technique, sustaining speed and precision across extreme metal's most demanding tempos.
 
 **Q: What gear does Danny Carey use vs Gene Hoglan?**
-A: Danny Carey plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals. Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals.
+A: Danny Carey plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals. Gene Hoglan plays a Pearl Reference Pure kit with a Pearl snare (the specific model has not been independently verified) and Sabian AAX Series cymbals.
 
 **Q: Why is Gene Hoglan called "The Atomic Clock"?**
 A: Gene Hoglan earned the nickname "The Atomic Clock" for his precise, machine-like timing consistency, a hallmark of his drumming across Death, Dark Angel, Testament, Strapping Young Lad, and Dethklok.

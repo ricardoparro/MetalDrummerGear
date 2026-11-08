@@ -16329,3 +16329,49 @@ Not due this run (today is Sunday 2026-11-08; next sweep due Monday 2026-11-09, 
 3. Flagged, not filed: the fabricated-sounding "dual 22x18\" bass drums" phrase also appears for Mario Duplantier (`drummerComparisons.js:3504,3600`), Matt Greiner (`:3922,4057`), and Daniel Erlandsson (`:4257`) — none independently verified this run. Worth a dedicated verification pass next run before deciding if it's a shared template default or three more separate fabrications.
 4. GSC content-gap: zero rows this week (15,637 impr/294 clicks/1.88% CTR/pos 8.2).
 5. Drum-chair watch due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+## 2026-11-08 (SEO Agent run 3) — public/llms/vs/ sweep continued + caught a prior fix (#9826) that was itself wrong
+
+Bank check: 11 open `seo-proposal` at run start (3 founder-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 5 fresh #10456-10460 from the prior run, already promoted to `ai-fix` per CEO log) — effectively 0 fresh/untriaged. Cleared to file up to 8 net-new. Today is Sunday — drum-chair weekly sweep not due (next due Monday 2026-11-09, group 2).
+
+### Audit summary
+- robots.js: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints live: 2,028 files (unchanged).
+- Continued the `public/llms/vs/` 227-file sweep from the prior run's checkpoint (8 checked, 91 of 99 originally-unswept remained). Picked 8 new candidates, filtering out drummers already covered by the prior run's root-cause batch (#10456-10459: Bill Ward, Gene Hoglan, Ray Luzier, Dave Lombardo, Chris Adler, Eloy Casagrande) since those will resolve via #10460's regen.
+
+### Method
+Dispatched 9 parallel verification agents: 8 against `public/llms/vs/` files (`abe-cunningham-vs-jay-weinberg`, `brann-dailor-vs-mike-portnoy`, `brann-dailor-vs-tomas-haake`, `danny-carey-vs-george-kollias`, `danny-carey-vs-mario-duplantier`, `flo-mounier-vs-matt-greiner`, `george-kollias-vs-paul-mazurkiewicz`, `hannes-grossmann-vs-tim-yeung`), 1 dedicated to resolving the "dual 22x18\" bass drums" phrase flagged unverified for 3 drummers at the end of the prior run (Mario Duplantier, Matt Greiner, Daniel Erlandsson).
+
+**Results:** 4 clean (brann-dailor-vs-mike-portnoy, brann-dailor-vs-tomas-haake, danny-carey-vs-mario-duplantier, hannes-grossmann-vs-tim-yeung), 1 pure regen-drift already covered by open #10460 (danny-carey-vs-george-kollias — no new issue), and 3 with genuine, previously-unfiled fabrications. The bass-drum follow-up resolved cleanly: Duplantier's claim is correct (no action), Greiner and Erlandsson are both fabricated.
+
+**Important catch:** the george-kollias-vs-paul-mazurkiewicz verification initially looked like a "regression of a prior fix" (closed #9826), but tracing it all the way to `api/drummers/index.js` (the master roster record, verified:true, with 3 real cited source URLs) plus `cymbalSetups.js` (independently parsed from the same roster record) plus `extendedBios.js`'s FAQ — all three agreeing with each other and disagreeing with #9826's fix — showed that **#9826 itself picked the wrong ground truth** (a terse `endorsementNews.js` field) and flattened a correct, well-sourced detailed cymbal breakdown into an incomplete one. Filed as a correction that explicitly does not re-close as a duplicate of #9826, with a note to comment on #9826 once fixed. This is the same "endorsementNews.js can be the stale/generic field vs. the actively-reconfirmed roster record" pattern one of this run's own agents independently surfaced for a Danny Carey discrepancy (ruled in favor of the roster record, no issue needed there since the file already had it right).
+
+### Proposals filed this run
+1. #10469 — SEO batch: Matt Greiner + Daniel Erlandsson "dual/double 22x18\" bass drums" fabricated in drummerComparisons.js (self-contradicts single-kick+double-pedal ground truth; Mario Duplantier's identical-looking claim confirmed correct, left untouched)
+2. #10470 — SEO: Abe Cunningham snare fabricated as "Tama S.L.P. Big Black Steel" (cross-contamination from Tim Yeung) + Jay Weinberg cymbal sizes wrong in drummerComparisons.js
+3. #10471 — SEO batch: drummerComparisons.js's "Zildjian A Custom Series cymbals" simplification for George Kollias contradicts 3 independently-verified sources — likely reverts a bad fix from closed #9826
+
+Only 3 filed (well under the 8 cap) — quality over volume; the other 5 checked files were genuinely clean or already covered by the open #10460 regen.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 460u/528s/767v 7d; GSC 15,637 impr/294 clicks/1.88% CTR/pos 8.2. Zero content-gap rows (impr≥50, CTR<2%) this week — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Sunday 2026-11-08; next sweep due Monday 2026-11-09, group 2 per rotation: Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10456-10460 (prior run, already `ai-fix`-promoted per CEO log, awaiting Roadie)
+- #10469-10471 (this run, 3 fresh)
+
+### Next run
+1. Watch #10469-10471 triage/promotion. **#10471 explicitly asks the triager NOT to treat it as a duplicate of closed #9826** — flag this clearly so CEO triage doesn't auto-close it.
+2. `public/llms/vs/` 227-file family: 16 of 227 now checked across 2 runs (9 findings, 7 clean/already-covered). ~83 unswept candidates remain (99 minus this run's 8) — continue next run with the same recurring-offender-drummer prioritization heuristic.
+3. Given #10471's finding, worth a spot-check next run (or flag for CEO) of whether any OTHER closed issue made the same mistake — i.e. "fixed" `drummerComparisons.js` by trusting a terse `endorsementNews.js` field over the more detailed, source-cited `api/drummers/index.js` roster record. Not investigated this run (out of scope/time), but the pattern is now named and worth watching for.
+4. GSC content-gap: zero rows this week (15,637 impr/294 clicks/1.88% CTR/pos 8.2).
+5. Drum-chair watch due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

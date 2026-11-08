@@ -27,12 +27,12 @@
  *     retailerUrls: {},          // intentionally empty until affiliate links are added
  *   }
  *
- * Only roster drummers with `gear.verified: true` are parsed here (56 of 67),
+ * Only roster drummers with `gear.verified: true` are parsed here (55 of 67),
  * matching the cymbalSetups.js (#4303) audit exactly.
  * Unverified drummers (wait for a research pass before their snares are added;
  * never guessed): ray-luzier, vinnie-paul, charlie-benante, mike-portnoy,
  * danny-carey, brann-dailor, matt-halpern, pete-sandoval, arin-ilejay,
- * nick-augusto, isaac-lamb.
+ * nick-augusto, isaac-lamb, gene-hoglan.
  *
  * 14 roster drummers have a literal "Signature" snare model, but 4 of them
  * (Vinnie Paul, Charlie Benante, Mike Portnoy, Danny Carey) are unverified and
@@ -68,18 +68,6 @@ export const SNARES = [
     depthIn: 6.5,
     shellMaterial: null,
     isSignature: true,
-    source: 'roster gear.snare (verified: true; sources on the drummer record)',
-    retailerUrls: {},
-  },
-  {
-    drummerSlug: 'gene-hoglan',
-    summary: 'Pearl Reference 14x6.5" Brass',
-    brand: 'Pearl',
-    model: 'Reference Brass',
-    sizeIn: 14,
-    depthIn: 6.5,
-    shellMaterial: 'Brass',
-    isSignature: false,
     source: 'roster gear.snare (verified: true; sources on the drummer record)',
     retailerUrls: {},
   },

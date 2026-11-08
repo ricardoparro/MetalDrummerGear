@@ -12,7 +12,7 @@ Amon Amarth's Jocke Wallgren vs Arch Enemy's Daniel Erlandsson — two Swedish m
 
 - **Drums:** Pearl Reference Pure
 - **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride)
-- **Snare:** Pearl Reference Pure 14x6.5"
+- **Snare:** Pearl (specific model not independently verified)
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 
@@ -67,4 +67,4 @@ A: The gallop is Amon Amarth's signature double-bass rhythmic figure — two rap
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

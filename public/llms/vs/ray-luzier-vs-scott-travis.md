@@ -12,7 +12,7 @@ Korn's Ray Luzier vs Judas Priest's Scott Travis. Two technically accomplished r
 
 - **Drums:** Pearl Reference Series
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Pedals/Hardware:** DW 9002 Double Pedal, Pearl D-2000 Roadster Throne
 - **Sticks:** Vic Firth Ray Luzier Signature
 
@@ -34,7 +34,7 @@ Luzier fuses technical precision with groove-heavy playing suited to Korn's sync
 
 ## Key Differences
 
-Ray Luzier plays a Pearl Reference Series kit with a Pearl Reference 14"x6.5" Brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18"/19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a DW 9002 double pedal and his signature Vic Firth Ray Luzier sticks. Scott Travis endorses a ddrum Dominion Series kit with a ddrum Scott Travis Signature 14"x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China), driven by a DW 9000 Series double pedal mounted in a Gibraltar Rack System, with Vic Firth American Classic 5B sticks and Remo heads. Luzier fuses technical precision with groove-heavy playing suited to Korn's syncopated, hip-hop-influenced rhythms, drawing on jazz and funk influences (Vinnie Colaiuta, Dennis Chambers, Steve Gadd) to deliver complex double bass patterns without sacrificing pocket. Travis is defined by relentless, machine-like double bass technique — his performance on "Painkiller"'s title track set a new standard for speed married to groove and dynamics, drawing on drum corps rudiments and influences like Neil Peart and Dave Lombardo to sustain extreme tempos across entire albums.
+Ray Luzier plays a Pearl Reference Series kit with a Pearl snare (the specific model has not been independently verified) and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18"/19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a DW 9002 double pedal and his signature Vic Firth Ray Luzier sticks. Scott Travis endorses a ddrum Dominion Series kit with a ddrum Scott Travis Signature 14"x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China), driven by a DW 9000 Series double pedal mounted in a Gibraltar Rack System, with Vic Firth American Classic 5B sticks and Remo heads. Luzier fuses technical precision with groove-heavy playing suited to Korn's syncopated, hip-hop-influenced rhythms, drawing on jazz and funk influences (Vinnie Colaiuta, Dennis Chambers, Steve Gadd) to deliver complex double bass patterns without sacrificing pocket. Travis is defined by relentless, machine-like double bass technique — his performance on "Painkiller"'s title track set a new standard for speed married to groove and dynamics, drawing on drum corps rudiments and influences like Neil Peart and Dave Lombardo to sustain extreme tempos across entire albums.
 
 ## Influence & Legacy
 
@@ -70,4 +70,4 @@ A: Ray Luzier has been Korn's drummer since 2007 (nearly two decades as of 2026)
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Matt Greiner and August Burns Red have not won a Grammy, but the band receive
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

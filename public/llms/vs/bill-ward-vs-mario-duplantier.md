@@ -67,4 +67,4 @@ A: Mario Duplantier combines crushing double bass patterns with complex polyrhyt
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

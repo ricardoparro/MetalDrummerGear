@@ -12,7 +12,7 @@ Gene "The Atomic Clock" Hoglan vs Slayer's Dave Lombardo — metronomic polyrhyt
 
 - **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Classic Forward 2B
 
@@ -34,7 +34,7 @@ Hoglan's polyrhythmic command lets him move fluidly between odd-time signatures 
 
 ## Key Differences
 
-Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedals engineered for his relentless double-bass runs. Lombardo plays Tama Starclassic Walnut/Birch drums with a Tama S.L.P. 14x6.5" G-Maple snare, Paiste RUDE and 2002 Series cymbals, and a Tama Iron Cobra 900 double pedal. Hoglan's polyrhythmic command lets him move fluidly between odd-time signatures and blast-beat sections without losing the pocket — a skill honed across Death's *Individual Thought Patterns* and Testament's technical thrash. Lombardo's technique is built on feel over metronome: his groove-locked double bass and thunderous snare work drive Slayer's riffs with visceral, almost punk aggression rather than clinical precision.
+Hoglan plays a Pearl Reference Pure kit with a Pearl snare (the specific model has not been independently verified), Sabian AAX cymbals, and Pearl Demon Drive double pedals engineered for his relentless double-bass runs. Lombardo plays Tama Starclassic Walnut/Birch drums with a Tama S.L.P. 14x6.5" G-Maple snare, Paiste RUDE and 2002 Series cymbals, and a Tama Iron Cobra 900 double pedal. Hoglan's polyrhythmic command lets him move fluidly between odd-time signatures and blast-beat sections without losing the pocket — a skill honed across Death's *Individual Thought Patterns* and Testament's technical thrash. Lombardo's technique is built on feel over metronome: his groove-locked double bass and thunderous snare work drive Slayer's riffs with visceral, almost punk aggression rather than clinical precision.
 
 ## Influence & Legacy
 
@@ -64,4 +64,4 @@ A: Both are elite for their eras. Hoglan's blast beats and double bass runs are 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

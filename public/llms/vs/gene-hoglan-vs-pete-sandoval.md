@@ -12,7 +12,7 @@ Gene Hoglan vs Pete Sandoval — "The Atomic Clock" precision versus the gravity
 
 - **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Classic Forward 2B
 
@@ -34,7 +34,7 @@ Hoglan's technique blends raw speed with musicality and stamina — his blast-be
 
 ## Key Differences
 
-Gene Hoglan plays a Pearl Reference Pure kit — a maple/mahogany hybrid shell chosen for tonal clarity at extreme tempos — with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals, driven by a Pearl Demon Drive double pedal and Promark 5B sticks. Pete Sandoval played a ddrum kit (exact model undocumented) with hardware to match; his cymbal brand was never publicly confirmed, though his gravity blast technique relied on the pedal's rebound action regardless of make. Hoglan's technique blends raw speed with musicality and stamina — his blast-beat precursor patterns on "Darkness Descends" were architectural rather than pure noise, and he sustains complex, endurance-heavy sets without a click track. Sandoval's gravity blast, which uses the rebound of the kick pedal's beater to generate extra speed with less physical effort, let him sustain blast beats at velocities that AllMusic's Jason Birchmeier said "challenges one's perception of how fast a drummer can possibly drum" — pure, relentless top-end velocity rather than Hoglan's more varied, groove-inflected attack.
+Gene Hoglan plays a Pearl Reference Pure kit — a maple/mahogany hybrid shell chosen for tonal clarity at extreme tempos — with a Pearl snare (the specific model has not been independently verified) and Sabian AAX Series cymbals, driven by a Pearl Demon Drive double pedal and Promark 5B sticks. Pete Sandoval played a ddrum kit (exact model undocumented) with hardware to match; his cymbal brand was never publicly confirmed, though his gravity blast technique relied on the pedal's rebound action regardless of make. Hoglan's technique blends raw speed with musicality and stamina — his blast-beat precursor patterns on "Darkness Descends" were architectural rather than pure noise, and he sustains complex, endurance-heavy sets without a click track. Sandoval's gravity blast, which uses the rebound of the kick pedal's beater to generate extra speed with less physical effort, let him sustain blast beats at velocities that AllMusic's Jason Birchmeier said "challenges one's perception of how fast a drummer can possibly drum" — pure, relentless top-end velocity rather than Hoglan's more varied, groove-inflected attack.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Gene Hoglan's signature is metronomic, click-track-free precision across mara
 A: Both are hugely influential in different ways. Sandoval's gravity blast became the technical foundation nearly every modern extreme-speed drummer studies. Hoglan's influence is broader across subgenres — his work spans thrash (Dark Angel, Testament), death metal (Death), industrial metal (Strapping Young Lad), and animated death metal (Dethklok), making him a reference point for drummers well outside pure death metal.
 
 **Q: What gear do Gene Hoglan and Pete Sandoval use?**
-A: Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX cymbals. Pete Sandoval played a ddrum kit, but the exact model and his cymbal brand were never publicly documented.
+A: Gene Hoglan plays a Pearl Reference Pure kit with a Pearl snare (the specific model has not been independently verified) and Sabian AAX cymbals. Pete Sandoval played a ddrum kit, but the exact model and his cymbal brand were never publicly documented.
 
 ---
 
@@ -67,4 +67,4 @@ A: Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" B
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

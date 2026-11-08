@@ -67,4 +67,4 @@ A: Chris Turner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

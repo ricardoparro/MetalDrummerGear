@@ -67,4 +67,4 @@ A: Mike Portnoy co-founded Dream Theater in 1985 and served as the band's drumme
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

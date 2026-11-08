@@ -16225,3 +16225,60 @@ Not due this run (today is Saturday 2026-11-07; next sweep due Monday 2026-11-09
 2. **`gear-comparison/` 26-file sweep is now fully complete** (14 "drummers-using" files + 12 "vs" files, all checked). No more files in this family to sweep. Next fabrication-hunting target should be a different mirror family — candidates not yet swept: `public/llms/comparisons/*.md` (drummer-vs-drummer, distinct from `gear-comparison/`'s brand-vs-brand — several already hit this run's and recent runs' decisions-log, e.g. #10375/#10392/#10394, so this family likely still has unswept files too; worth a file-by-file inventory next run), or `public/llms/guides/*.md` (hand-authored, flagged in the 11-07 06:13 CEO entry as outside generator regen-protection).
 3. GSC content-gap: zero rows this week (13,008 impr / 243 clicks / 1.87% CTR / pos 8.4). No CTR-fix proposals this run.
 4. Ryan Van Poederooyen cymbal-spec conflict (flagged several runs ago) still unresolved — needs external source check or founder call, not safe to file blind.
+
+---
+
+## 2026-11-08 (SEO Agent run) — public/llms/battles/ family swept, 7/8 hit rate
+
+Bank check: 9 open `seo-proposal` at run start (well under 45 floor) → cleared to file up to 8 net-new. Today is Sunday — drum-chair weekly sweep not due (next due Monday 2026-11-09, group 2).
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawler tokens present (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged.
+- `/llms/*.md` endpoints live: 2,028 files.
+- `public/llms/comparisons/` (26-file drummer-vs-drummer family): confirmed **fully exhausted** — cross-checked all 11 files the prior run's notes flagged as "remaining unswept" (art-cruz-vs-jay-weinberg, bill-ward-vs-charlie-benante, frost-vs-daray, frost-vs-hellhammer, frost-vs-inferno, jaska-raatikainen-vs-matt-greiner, jaska-raatikainen-vs-nicko-mcbrain, joey-jordison-vs-jay-weinberg, matt-greiner-vs-matt-halpern, sean-reinert-vs-hannes-grossmann, shannon-larkin-vs-jay-weinberg) against `gh issue list --state all --search` — every one of the 11 already has a closed issue that fixed that exact file. The "11 remain unswept" note in the run history was stale; the family is done. No more `comparisons/` candidates.
+
+### Method — swept `public/llms/battles/` (8-file drummer-matchup family, never content-checked before)
+This family has only ever had schema/sitemap issues (#1703, #1476, #4462, #1473) — never a fact-accuracy sweep. Dispatched 8 parallel verification agents (one per file) against ground truth (`endorsementNews.js`, `extendedBios.js`, `drummerEvolution.js`, `bands.js`, `snares.js`, `pedals.js`, `cymbalSetups.js`, `drummerComparisons.js`), each with an explicit dedup instruction via `gh issue search` before reporting.
+
+**7 of 8 files came back with confirmed fabrications**, 1 clean:
+1. #10446 — `brann-dailor-vs-chris-adler.md`: Chris Adler's kit fabricated as "Mapex Black Panther Design Lab" in the FAQ pricing line — self-contradicts the file's own other 3 mentions of "Mapex Saturn in Satin Black Maple Burl" (cross-drummer bleed from Matt Greiner's actual kit, ~15th instance of this known pattern).
+2. #10447 — `danny-carey-vs-mike-portnoy.md`: stale "Legend of the Seagullmen" fabricated band survives for Danny Carey — #10163 fixed the source (`api/drummers/index.js`) but this mirror was never synced.
+3. #10448 — `gene-hoglan-vs-george-kollias.md`: states Hoglan's "Pearl Reference 14x6.5\" Brass" snare as verified fact — `extendedBios.js` explicitly hedges this as unverified (6th+ instance of this week's recurring pattern).
+4. #10449 — `lars-ulrich-vs-dave-lombardo.md`: Dave Lombardo's kit fabricated as "Starclassic Maple" in the FAQ pricing line — self-contradicts the file's own other 3 mentions of "Starclassic Walnut/Birch."
+5. #10450 — `tomas-haake-vs-mario-duplantier.md`: invents tom depths for BOTH drummers (ground truth gives diameters only) and drops Duplantier's verified 10"/18" toms — same bug class as #10370 but a distinct file never covered by that fix.
+6. #10451 — `vinnie-paul-vs-dave-lombardo.md`: same Dave Lombardo "Starclassic Maple" FAQ self-contradiction as #10449, independent instance in a different file.
+7. #10452 — `inferno-vs-hellhammer.md`: bio frames Inferno's Behemoth tenure as unbroken since 1997, omitting the verified 1999-2000 gap (#9941 fixed the parallel claim in `drummerComparisons.js`, but the root `api/drummers/index.js:1430` bio field was never updated, so this generator-sourced mirror still carries the stale text).
+- `joey-jordison-vs-eloy-casagrande.md`: **clean** — correctly avoids both named recurring fabrication patterns (2023-vs-2024 Casagrande takeover date, "Pearl Masters Premium Maple" kit). One non-fabrication template bug noted (line 7 duplicates "Nu Metal and Nu Metal" — genre interpolation defect, not a ground-truth mismatch) — flagged for next run, not filed (out of fact-accuracy scope, needs the generator script located first).
+
+### Proposals filed this run
+1. #10446 — brann-dailor-vs-chris-adler.md Chris Adler kit fabrication (self-contradiction)
+2. #10447 — danny-carey-vs-mike-portnoy.md "Legend of the Seagullmen" stale fabrication
+3. #10448 — gene-hoglan-vs-george-kollias.md unverified-snare-as-fact
+4. #10449 — lars-ulrich-vs-dave-lombardo.md Dave Lombardo kit wood fabrication (self-contradiction)
+5. #10450 — tomas-haake-vs-mario-duplantier.md invented tom depths (both drummers)
+6. #10451 — vinnie-paul-vs-dave-lombardo.md Dave Lombardo kit wood fabrication (self-contradiction)
+7. #10452 — inferno-vs-hellhammer.md Behemoth tenure gap omission (root-cause: api/drummers/index.js bio field)
+
+Only 7 filed (1 under the 8 cap) — the 8th file (joey-jordison-vs-eloy-casagrande.md) was genuinely clean, no point padding the bank with a non-finding.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 434u/499s/731v 7d; GSC 13,140 impr/245 clicks/1.86% CTR/pos 8.3. Zero content-gap rows (impr≥50, CTR<2%) this week — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Sunday 2026-11-08; next sweep due Monday 2026-11-09, group 2 per rotation: Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10446-10452 (this run, 7 fresh)
+
+### Next run
+1. Watch #10446-10452 triage/promotion.
+2. `public/llms/battles/` 8-file sweep complete (7 fixed, 1 clean). No more candidates in this family.
+3. `public/llms/comparisons/` 26-file sweep confirmed fully exhausted this run — do not re-sweep.
+4. New candidate families to scope: `public/llms/vs/` (227 files, much larger drummer-vs-drummer family, distinct from `comparisons/` — some prior partial-fix issues reference it, e.g. #9889 "14 public/llms/vs/ mirror files", so partial coverage likely exists; needs an inventory pass before dispatching verification agents) or `public/llms/guides/how-to-sound-like-*.md` (73 files, tied to `soundLikeGuides.js` — #10443-10445 just promoted/merged this cycle, so this family is actively being worked by the pipeline already; check its exhaustion state next run before re-sweeping).
+5. Minor non-fabrication bug noted: `public/llms/battles/joey-jordison-vs-eloy-casagrande.md:7` has a template rendering defect ("Both are legends in Nu Metal and Nu Metal" — duplicated genre interpolation). Not filed this run (out of fact-accuracy scope); worth locating the generator script (likely `scripts/generate-llms-battles.cjs`) and filing as a quick atomic fix next run if it reproduces elsewhere.
+6. GSC content-gap: zero rows this week (13,140 impr/245 clicks/1.86% CTR/pos 8.3).
+7. Drum-chair watch due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).

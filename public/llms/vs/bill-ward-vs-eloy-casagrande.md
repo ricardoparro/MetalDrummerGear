@@ -34,7 +34,7 @@ Ward's technique is rooted in jazz — a swinging, open-handed feel inherited fr
 
 ## Key Differences
 
-Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a single Ludwig Speed King pedal — no double bass. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 20" 2002 Novo China), powered by a Tama Iron Cobra double pedal and Promark Eloy Casagrande Signature sticks. Ward's technique is rooted in jazz — a swinging, open-handed feel inherited from heroes Gene Krupa and Buddy Rich that prioritized groove and dynamics over speed, giving early Black Sabbath riffs like "Iron Man" and "War Pigs" their loose, hard-swinging heaviness rather than mechanical precision. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's thrash-groove foundation and Slipknot's maximalist nine-member live show without losing precision.
+Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride), driven by a single Ludwig Speed King pedal — no double bass. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 20" 2002 Novo China), powered by a Tama Iron Cobra double pedal and Promark Eloy Casagrande Signature sticks. Ward's technique is rooted in jazz — a swinging, open-handed feel inherited from heroes Gene Krupa and Buddy Rich that prioritized groove and dynamics over speed, giving early Black Sabbath riffs like "Iron Man" and "War Pigs" their loose, hard-swinging heaviness rather than mechanical precision. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's thrash-groove foundation and Slipknot's maximalist nine-member live show without losing precision.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Bill Ward and Eloy Casagrande stand at opposite ends of heavy metal drumming's g
 A: Bill Ward co-founded Black Sabbath in 1968 and helped invent heavy metal drumming's jazz-influenced, swinging groove on foundational records like "Paranoid" (1970). Eloy Casagrande represents metal drumming's modern era — explosive speed and technical precision built across 13 years with Sepultura and, since 2024, Slipknot, earning Modern Drummer's No. 1 metal drummer honor in 2024. Ward founded the genre's vocabulary; Casagrande represents its contemporary technical peak.
 
 **Q: What gear did Bill Ward and Eloy Casagrande use?**
-A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and Paiste cymbals, powered by a Tama Iron Cobra double pedal.
+A: Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and Paiste cymbals, powered by a Tama Iron Cobra double pedal.
 
 **Q: What bands are Bill Ward and Eloy Casagrande known for?**
 A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012. Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot in 2024.
@@ -67,4 +67,4 @@ A: Yes — Eloy Casagrande was named the No. 1 metal drummer in Modern Drummer m
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

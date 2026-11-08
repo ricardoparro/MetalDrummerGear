@@ -20,7 +20,7 @@ Kublai Khan TX's Isaac Lamb vs Devin Townsend Project's Ryan Van Poederooyen —
 
 - **Drums:** Pearl Reference Series
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-3000 Throne
 - **Sticks:** Vic Firth American Classic 5B
 
@@ -67,4 +67,4 @@ A: No gear endorsement of any kind is publicly documented for Isaac Lamb. Ryan V
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

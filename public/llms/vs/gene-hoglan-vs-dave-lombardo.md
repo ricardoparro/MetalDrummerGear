@@ -12,7 +12,7 @@ Gene "The Atomic Clock" Hoglan vs Slayer's Dave Lombardo — metronomic polyrhyt
 
 - **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Classic Forward 2B
 
@@ -64,4 +64,4 @@ A: Both are elite for their eras. Hoglan's blast beats and double bass runs are 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

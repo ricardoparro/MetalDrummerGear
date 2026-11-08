@@ -12,7 +12,7 @@ Trivium's Nick Augusto vs Overkill/Shadows Fall's Jason Bittner. Modern metalcor
 
 - **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Pro-Mark Nylon Tip 5B
 
@@ -67,4 +67,4 @@ A: Jason Bittner joined Overkill in 2017, replacing longtime drummer Ron Lipnick
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

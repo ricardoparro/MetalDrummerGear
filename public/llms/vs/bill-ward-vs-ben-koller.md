@@ -34,7 +34,7 @@ Ward's technique came from jazz — a loose, open-handed feel inherited from Gen
 
 ## Key Differences
 
-Bill Ward played a Ludwig Super Classic (later Ludwig Classic Maple) kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal — no double bass throughout his entire career. Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Ward's technique came from jazz — a loose, open-handed feel inherited from Gene Krupa and Buddy Rich that prioritized dynamics and space over raw velocity, and he never reached for a double pedal in his career, generating Sabbath's early heaviness entirely through single-pedal technique and touch. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy.
+Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal — no double bass throughout his entire career. Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Ward's technique came from jazz — a loose, open-handed feel inherited from Gene Krupa and Buddy Rich that prioritized dynamics and space over raw velocity, and he never reached for a double pedal in his career, generating Sabbath's early heaviness entirely through single-pedal technique and touch. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy.
 
 ## Influence & Legacy
 
@@ -53,7 +53,7 @@ A: Bill Ward co-founded Black Sabbath in 1968 and is credited as one of the true
 A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012. Ben Koller has drummed for Converge since late 1999, and also plays in Mutoid Man alongside Stephen Brodsky and in the supergroup Killer Be Killed.
 
 **Q: What gear do Bill Ward and Ben Koller use?**
-A: Bill Ward played a Ludwig Super Classic/Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal — no double bass. Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal.
+A: Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal — no double bass. Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal.
 
 **Q: Did Bill Ward ever use a double bass pedal?**
 A: No. Bill Ward built Black Sabbath's foundational heaviness entirely with a single Ludwig Speed King pedal, relying on touch, tuning, and jazz-informed technique rather than extra hardware — a contrast to Ben Koller, who drives Converge's mathcore assault with a Tama Iron Cobra Double Pedal.
@@ -67,4 +67,4 @@ A: No. Bill Ward built Black Sabbath's foundational heaviness entirely with a si
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

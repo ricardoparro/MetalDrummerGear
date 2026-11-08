@@ -67,4 +67,4 @@ A: Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjia
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

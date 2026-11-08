@@ -5,6 +5,44 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-08 00:21 UTC*
 
 ---
+## 2026-11-08 06:11 (cheap pulse, pre-deep-run — 7/7 proposals verified+promoted #10446-10452)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:10 UTC (445u/511s/750v 7d; GSC 15,637 impr/294 clicks/1.88% CTR/pos 8.2, zero content-gap rows). At run start: eligible `ai-fix` backlog **0** (prior 00:2x batch #10443-10445 already clear of the eligible count), 0 open PRs, 7 fresh untriaged `seo-proposal` (#10446-10452, filed 01:08-01:11 UTC) — `battles/*.md` mirror-drift batch (gear fabrication/self-contradiction + one bio-gap propagation).
+
+### Actions taken
+- **Live-verified all 7 directly** via `sed`/`grep` against cited ground truth, zero dupes:
+  - #10446 Brann Dailor vs Chris Adler: confirmed `endorsementNews.js:781`/`extendedBios.js:5818` = Mapex Saturn in Satin Black Maple Burl; file's own lines 35/49/66 already correct, line 57 alone fabricates "Mapex Black Panther Design Lab" (cross-bleed from Matt Greiner's gear — same bleed-over class as ~15 prior fixes).
+  - #10447 Danny Carey vs Mike Portnoy: confirmed `api/drummers/index.js:1031` (post-#10163) + `extendedBios.js:1098` list only Tool + Volto!; this `battles/` mirror never got the #10163 fix, still carries the fabricated "Legend of the Seagullmen."
+  - #10448 Gene Hoglan vs George Kollias: confirmed `extendedBios.js:402-406` explicitly hedges Hoglan's snare as unverified (same hedge class as #10443, #10371, #9346); `snares.js`'s stale `verified: true` is the known pre-existing inconsistency, not binding per established precedent.
+  - #10449 Lars Ulrich vs Dave Lombardo: confirmed `extendedBios.js` metaDescription/gearHighlights = Tama Starclassic Walnut/Birch for Lombardo; file's own lines 34/48/65 agree, line 56 alone fabricates "Starclassic Maple" (bled from Lars's kit).
+  - #10450 Tomas Haake vs Mario Duplantier: confirmed `drummerEvolution.js:1763-1764` (Haake) and `:4590-4591` (Duplantier) give diameters only (10/12/13/16/18"), no depths; file invents tom depths for both and drops 2 of Duplantier's 5 toms.
+  - #10451 Vinnie Paul vs Dave Lombardo: same Lombardo wood-species fabrication as #10449 (sibling battles file), confirmed via `endorsementNews.js:382`.
+  - #10452 Inferno vs Hellhammer: confirmed `bands.js:2126,2139` + `drummerComparisons.js` (post-#9941) state the verified 1999-2000 Behemoth gap; `api/drummers/index.js:1430` bio field is the actual unfixed source the battles-markdown generator pulls from — fix belongs there, not just in the regenerated mirror.
+  - All 7 promoted to `ai-fix` with verification comments. All are existing-page data-rot fixes on already-shipped `battles/` pages — compliant with the new-page freeze.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: zero rows. **Human-founder blockers**: #10174/#5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: refreshed 2026-11-02; next weekly refresh due ~2026-11-09, not due this run.
+- **Starvation check**: post-triage backlog 0→7 (<15), bank 7→0 (≤2) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month. Not escalated.
+- **Atomic-split sweep**: the 7 just-promoted issues are fresh. The 20 open `ai-fix` issues from 2026-07-28 remain intentionally `hold`ed (dependency-gated splits) — no action needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 7 (#10446-10452 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 7 fresh → 0
+
+### Quota check
+✅ SEO proposals: 7/7 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-02, not due until ~11-09. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10446-10452 pick up via Roadie; #10452 needs the `api/drummers/index.js:1430` bio field fixed AND the battles markdown regenerated (`scripts/generate-llms-battles.cjs`) — confirm both steps land, not just the mirror text.
+2. First run after 07:00 UTC today is the daily deep run — full metrics review, GSC-gap analysis, L1/L2/L3 not due until ~11-09.
+3. #10174 human-founder ask (direct-to-main governance, unanswered 5 days) — do not re-spam yet. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
+
+---
+
 ## 2026-11-08 00:2x (cheap pulse — 3/3 proposals verified+promoted #10443-10445)
 
 ### Context (≤3 lines)

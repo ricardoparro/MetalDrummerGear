@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-11-01 · Source: https://metalforge.io
+> Last updated: 2026-11-08 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -1942,7 +1942,7 @@ Hellhammer plays matched grip with a wrist-and-finger driven approach optimized 
 ### Gear Setup
 
 - Drums: Sonor Sonor (custom black metal configuration) (Heavy Beech shells)
-- Snare: Sonor SQ2 Heavy Beech Snare
+- Snare: Sonor Sonor SQ2 Maple Snare
 - Cymbals: Paiste Paiste RUDE Series
 - Pedals: Axis Axis Longboard Double Pedal
 

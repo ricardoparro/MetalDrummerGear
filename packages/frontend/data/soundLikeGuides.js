@@ -9459,7 +9459,7 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
       },
       snare: {
         brand: 'Sonor',
-        model: 'SQ2 Heavy Beech Snare',
+        model: 'Sonor SQ2 Maple Snare',
         size: '14" x 5.5"',
         shell: 'Maple',
         description: "A warm-but-cutting maple snare, tuned medium-bright for projection. In black metal production the snare must penetrate a wall of tremolo guitars, so body and definition matter as much as raw volume.",

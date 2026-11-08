@@ -67,4 +67,4 @@ A: Yes — after leaving Dream Theater in 2010 and recording with projects inclu
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

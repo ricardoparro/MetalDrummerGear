@@ -12,7 +12,7 @@ Gene Hoglan vs Pete Sandoval — "The Atomic Clock" precision versus the gravity
 
 - **Drums:** Pearl Reference Pure
 - **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Classic Forward 2B
 
@@ -67,4 +67,4 @@ A: Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" B
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*

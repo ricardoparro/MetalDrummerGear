@@ -10940,10 +10940,10 @@ This guide breaks down the technique, gear, and practice approach behind Wallgre
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl Reference Pure',
-        size: '14" x 6.5"',
-        shell: 'Maple/birch hybrid',
-        description: "The maple/birch hybrid shell gives Wallgren a warm, full-bodied crack with enough low-mid punch to project over Amon Amarth's dense, downtuned guitar wall. The 6.5\" depth adds enough body for a full, anthemic backbeat without sacrificing articulation on faster patterns.",
+        model: 'Model not independently verified',
+        size: '14" x 6.5" (reported)',
+        shell: 'Not independently verified',
+        description: "Wallgren's snare delivers a warm, full-bodied crack with enough low-mid punch to project over Amon Amarth's dense, downtuned guitar wall, matching the rest of his Reference Pure kit. The specific model has not been independently verified.",
         alternative: "Pearl Export or Decade Maple for a similar warm, full-bodied tone"
       },
       cymbals: {
@@ -10989,8 +10989,8 @@ This guide breaks down the technique, gear, and practice approach behind Wallgre
       snare: {
         tension: "Medium-high",
         muffling: "Minimal",
-        description: "The maple/birch hybrid snare is tuned medium-high with minimal muffling so the backbeat registers warm but defined over Amon Amarth's dense guitar wall without needing to be mixed unnaturally loud.",
-        tip: "Tune a few turns above finger-tight and let the shell ring — the fullness comes from the hybrid shell, not from choking the drum."
+        description: "The snare is tuned medium-high with minimal muffling so the backbeat registers warm but defined over Amon Amarth's dense guitar wall without needing to be mixed unnaturally loud.",
+        tip: "Tune a few turns above finger-tight and let the shell ring — the fullness comes from the shell's natural resonance, not from choking the drum."
       },
       toms: {
         tension: "Medium",
@@ -11067,7 +11067,7 @@ This guide breaks down the technique, gear, and practice approach behind Wallgre
       },
       {
         question: "What drums and cymbals does Jocke Wallgren use?",
-        answer: "Wallgren plays a Pearl Reference Pure kit, including the matching maple/birch hybrid Reference Pure snare, for a warm, full-bodied backbeat. His cymbals are Zildjian A Custom & K Custom — bright A Custom crashes and hi-hats paired with a warmer K Custom ride. He uses a Pearl Demon Drive double pedal and heavier Vic Firth 5B sticks for arena-level power."
+        answer: "Wallgren plays a Pearl Reference Pure kit, including a matching Pearl snare (the specific model has not been independently verified) for a warm, full-bodied backbeat. His cymbals are Zildjian A Custom & K Custom — bright A Custom crashes and hi-hats paired with a warmer K Custom ride. He uses a Pearl Demon Drive double pedal and heavier Vic Firth 5B sticks for arena-level power."
       },
       {
         question: "How do I get the Amon Amarth drum sound?",
@@ -13865,10 +13865,10 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl Reference 14" x 6.5" Brass',
-        size: '14" x 6.5"',
-        shell: 'Brass',
-        description: "A tight, punching brass snare tuned for the hard backbeat attack that anchors Trivium's heavier riffs, delivering the sharp crack needed to cut through dense guitar work.",
+        model: 'Model not independently verified',
+        size: '14" x 6.5" (reported)',
+        shell: 'Not independently verified',
+        description: "A tight, punching snare tuned for the hard backbeat attack that anchors Trivium's heavier riffs, matching the rest of his Reference Pure kit. The specific model has not been independently verified, but it delivers the sharp crack needed to cut through dense guitar work.",
         alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for similar crack and cut"
       },
       cymbals: {
@@ -13992,7 +13992,7 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       },
       {
         question: "What gear did Nick Augusto use with Trivium?",
-        answer: "Augusto played a Pearl Reference Pure kit with a Pearl Reference 14\" x 6.5\" Brass snare, Sabian AAX Series cymbals, a DW 9000 Series double pedal, and Pro-Mark Nylon Tip 5B sticks."
+        answer: "Augusto played a Pearl Reference Pure kit with a 14\" x 6.5\" Pearl snare (the specific model has not been independently verified), Sabian AAX Series cymbals, a DW 9000 Series double pedal, and Pro-Mark Nylon Tip 5B sticks."
       },
       {
         question: "Why did Nick Augusto leave Trivium?",
@@ -15565,7 +15565,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
         finish: 'Various custom finishes for Korn touring configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2, double bass configuration)',
-          snare: '14" x 6.5" Pearl Reference Brass Snare',
+          snare: '14" x 6.5" Pearl Snare (model unverified)',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -15574,11 +15574,11 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl Reference 14" x 6.5" Brass',
-        size: '14" x 6.5"',
-        shell: 'Brass',
-        description: "Luzier's brass Reference snare delivers a bright, projecting crack with warm body — enough presence to cut through Korn's dense, heavily processed mix without fighting the guitars for frequency space.",
-        alternative: "Any 14\" brass-shell snare tuned medium to medium-high will approximate the cut."
+        model: 'Model not independently verified',
+        size: '14" x 6.5" (reported)',
+        shell: 'Not independently verified',
+        description: "Luzier's snare delivers a bright, projecting crack with warm body — enough presence to cut through Korn's dense, heavily processed mix without fighting the guitars for frequency space, matching the rest of his Reference Maple kit. The specific model has not been independently verified.",
+        alternative: "Any 14\" metal-shell snare tuned medium to medium-high will approximate the cut."
       },
       cymbals: {
         brand: 'Sabian',
@@ -15624,7 +15624,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
       snare: {
         tension: "Medium to medium-high",
         muffling: "Minimal",
-        description: "The brass Reference shell's natural brightness cuts through Korn's dense mix at moderate tension without needing heavy muffling to control ring.",
+        description: "The snare's natural brightness cuts through Korn's dense mix at moderate tension without needing heavy muffling to control ring.",
         tip: "Keep snare wires medium-tight for a crisp backbeat that still leaves room for ghost notes at lower dynamics."
       },
       toms: {
@@ -15709,7 +15709,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
       },
       {
         question: "What drum kit does Ray Luzier play?",
-        answer: "Ray Luzier plays a Pearl Reference Maple kit with double 22\" x 18\" bass drums, a five-tom spread (10\", 12\", 13\" racks and 16\", 18\" floor toms), and a Pearl Reference 14\" x 6.5\" brass snare. His cymbals are Sabian AAX — 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China."
+        answer: "Ray Luzier plays a Pearl Reference Maple kit with double 22\" x 18\" bass drums, a five-tom spread (10\", 12\", 13\" racks and 16\", 18\" floor toms), and a 14\" x 6.5\" Pearl snare (the specific model has not been independently verified). His cymbals are Sabian AAX — 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China."
       },
       {
         question: "What pedal and sticks does Ray Luzier use?",
@@ -16068,7 +16068,7 @@ This guide breaks down exactly how to capture Van Poederooyen's playing — from
         finish: 'Various touring and studio finishes',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Reference Brass',
+          snare: '14" x 6.5" Pearl Snare (model unverified)',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -16077,11 +16077,11 @@ This guide breaks down exactly how to capture Van Poederooyen's playing — from
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl Reference Brass',
-        size: '14" x 6.5"',
-        shell: 'Brass',
-        description: "Van Poederooyen's brass Reference snare delivers a bright, cutting crack with enough body at 6.5\" depth to stay musical at both quiet dynamics and full-volume backbeats — essential for a drummer who has to move between the two within the same set.",
-        alternative: "Pearl Sensitone Brass or Ludwig Supraphonic for a similar bright, cutting tone"
+        model: 'Model not independently verified',
+        size: '14" x 6.5" (reported)',
+        shell: 'Not independently verified',
+        description: "Van Poederooyen's snare delivers a bright, cutting crack with enough body at 6.5\" depth to stay musical at both quiet dynamics and full-volume backbeats, matching the rest of his Reference series kit. The specific model has not been independently verified.",
+        alternative: "Pearl Sensitone or Ludwig Supraphonic for a similar bright, cutting tone"
       },
       cymbals: {
         brand: 'Sabian',
@@ -16127,7 +16127,7 @@ This guide breaks down exactly how to capture Van Poederooyen's playing — from
       snare: {
         tension: "Medium-bright",
         muffling: "Minimal",
-        description: "A medium-bright tension keeps the brass snare's natural cut available at high volume while still sounding musical during quiet, textural passages.",
+        description: "A medium-bright tension keeps the snare's natural cut available at high volume while still sounding musical during quiet, textural passages.",
         tip: "Tune both heads close in pitch for a focused, controlled crack rather than an overly ringy tone."
       },
       toms: {

@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-11-01 · Source: https://metalforge.io
+> Last updated: 2026-11-08 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -2260,7 +2260,7 @@ Wallgren plays matched grip with a powerful, relaxed stroke built for endurance 
 ### Gear Setup
 
 - Drums: Pearl Pearl Reference Pure (Pure maple/birch hybrid shells)
-- Snare: Pearl Pearl Reference Pure
+- Snare: Pearl Model not independently verified
 - Cymbals: Zildjian Zildjian A Custom & K Custom Series
 - Pedals: Pearl Pearl Demon Drive Double Pedal
 
@@ -2270,7 +2270,7 @@ Wallgren plays matched grip with a powerful, relaxed stroke built for endurance 
 A: Wallgren's defining trait is groove-first support — his double-bass gallop and kick patterns track Amon Amarth's guitar riffs exactly rather than running as independent technical showcases. Combined with a huge, anthemic backbeat and genuine dynamic control between the band's quiet folk-tinged passages and explosive choruses, his playing makes the band's Viking-themed anthems hit with maximum physical weight.
 
 **Q: What drums and cymbals does Jocke Wallgren use?**
-A: Wallgren plays a Pearl Reference Pure kit, including the matching maple/birch hybrid Reference Pure snare, for a warm, full-bodied backbeat. His cymbals are Zildjian A Custom & K Custom — bright A Custom crashes and hi-hats paired with a warmer K Custom ride. He uses a Pearl Demon Drive double pedal and heavier Vic Firth 5B sticks for arena-level power.
+A: Wallgren plays a Pearl Reference Pure kit, including a matching Pearl snare (the specific model has not been independently verified) for a warm, full-bodied backbeat. His cymbals are Zildjian A Custom & K Custom — bright A Custom crashes and hi-hats paired with a warmer K Custom ride. He uses a Pearl Demon Drive double pedal and heavier Vic Firth 5B sticks for arena-level power.
 
 **Q: How do I get the Amon Amarth drum sound?**
 A: Tune the kick for punchy, defined attack rather than boom, keep the snare bright and minimally muffled for cut, and prioritize locking every kick pattern to the guitar riff before adding fills. The Viking gallop only works when it's rhythmically identical to the riff it's supporting — practice transcription before speed.
@@ -2884,7 +2884,7 @@ Augusto plays matched grip with an aggressive, high-energy attack rooted in thra
 ### Gear Setup
 
 - Drums: Pearl Pearl Reference Pure ( shells)
-- Snare: Pearl Pearl Reference 14" x 6.5" Brass
+- Snare: Pearl Model not independently verified
 - Cymbals: Sabian Sabian AAX Series
 - Pedals: DW DW 9000 Series Double Bass Drum Pedal
 
@@ -2894,7 +2894,7 @@ Augusto plays matched grip with an aggressive, high-energy attack rooted in thra
 A: Nick Augusto was Trivium's drummer from 2010 to 2014, recording two studio albums with the band: "In Waves" (2011) and "Vengeance Falls" (2013).
 
 **Q: What gear did Nick Augusto use with Trivium?**
-A: Augusto played a Pearl Reference Pure kit with a Pearl Reference 14" x 6.5" Brass snare, Sabian AAX Series cymbals, a DW 9000 Series double pedal, and Pro-Mark Nylon Tip 5B sticks.
+A: Augusto played a Pearl Reference Pure kit with a 14" x 6.5" Pearl snare (the specific model has not been independently verified), Sabian AAX Series cymbals, a DW 9000 Series double pedal, and Pro-Mark Nylon Tip 5B sticks.
 
 **Q: Why did Nick Augusto leave Trivium?**
 A: Augusto parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro, and Alex Bent later joined the band in 2017.
@@ -3293,7 +3293,7 @@ Luzier's playing is built on a session musician's core discipline: serve the poc
 ### Gear Setup
 
 - Drums: Pearl Pearl Reference Maple (All-Maple shells)
-- Snare: Pearl Pearl Reference 14" x 6.5" Brass
+- Snare: Pearl Model not independently verified
 - Cymbals: Sabian Sabian AAX Series
 - Pedals: DW DW 9000 Series Double Pedal
 
@@ -3303,7 +3303,7 @@ Luzier's playing is built on a session musician's core discipline: serve the poc
 A: Ray Luzier replaced David Silveria as Korn's drummer. A veteran session and touring player — previously with David Lee Roth's band and the supergroup Army of Anyone — Luzier joined Korn in 2007 and made his studio debut on Korn III: Remember Who You Are (2010), which debuted at #7 on the US Billboard 200.
 
 **Q: What drum kit does Ray Luzier play?**
-A: Ray Luzier plays a Pearl Reference Maple kit with double 22" x 18" bass drums, a five-tom spread (10", 12", 13" racks and 16", 18" floor toms), and a Pearl Reference 14" x 6.5" brass snare. His cymbals are Sabian AAX — 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
+A: Ray Luzier plays a Pearl Reference Maple kit with double 22" x 18" bass drums, a five-tom spread (10", 12", 13" racks and 16", 18" floor toms), and a 14" x 6.5" Pearl snare (the specific model has not been independently verified). His cymbals are Sabian AAX — 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
 
 **Q: What pedal and sticks does Ray Luzier use?**
 A: Luzier uses the DW 9000 Series direct-drive double pedal and his own signature Vic Firth Ray Luzier sticks, which feature a nylon tip for consistent cymbal articulation.
@@ -3398,7 +3398,7 @@ Van Poederooyen's technique is built around serving the song across an unusually
 ### Gear Setup
 
 - Drums: Pearl Pearl Reference Series (Maple/Mahogany hybrid shells)
-- Snare: Pearl Pearl Reference Brass
+- Snare: Pearl Model not independently verified
 - Cymbals: Sabian Sabian HHX & AAX Series
 - Pedals: Pearl Pearl Demon Drive Double Pedal
 

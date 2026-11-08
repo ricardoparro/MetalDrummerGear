@@ -34,7 +34,7 @@ Larkin brings deep rock roots and veteran groove instincts to Godsmack, locking 
 
 ## Kit
 
-Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAX Chinese), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Abe Cunningham plays a Tama Starclassic Bubinga kit with a Tama S.L.P. Big Black Steel 14x8" snare and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom Crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and Pro-Mark sticks.
+Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAX Chinese), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Abe Cunningham plays a Tama Starclassic Bubinga kit whose snare matches the shell pack (no separate snare model publicly documented) and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom Crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and Pro-Mark sticks.
 
 ## Key Differences
 
@@ -54,7 +54,7 @@ Shannon Larkin and Abe Cunningham represent two paths through legacy-era alterna
 A: Both are groove-first drummers rather than technical showmen, so the comparison comes down to context. Shannon Larkin brought muscular, hook-driven power to Godsmack's arena hard rock for over two decades. Abe Cunningham brought unconventional, dynamics-first texture to Deftones' atmospheric alternative metal for over 35 years as a founding member. Larkin serves groove; Cunningham serves mood.
 
 **Q: What gear do Shannon Larkin and Abe Cunningham use?**
-A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Abe Cunningham plays a Tama Starclassic Bubinga kit with a Tama S.L.P. Big Black Steel snare and Zildjian cymbals, driven by a Tama Iron Cobra double pedal.
+A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Abe Cunningham plays a Tama Starclassic Bubinga kit whose snare matches the shell pack (no separate snare model publicly documented) and Zildjian cymbals, driven by a Tama Iron Cobra double pedal.
 
 **Q: How long has Abe Cunningham been in Deftones?**
 A: Abe Cunningham has been Deftones' drummer since co-founding the band in Sacramento, California in 1988, when he was still a teenager. He is one of only two original members still in the band, making him one of alternative metal's longest-serving drummers.

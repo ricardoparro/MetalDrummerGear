@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-08 00:21 UTC*
 
 ---
+## 2026-11-08 12:xx — daily deep run: 5/5 fresh proposals verified+promoted #10456-10460
+
+### Context (≤3 lines)
+First substantive run after 07:00 UTC (treating per established cadence as today's deep run). Metrics 12:09 UTC (457u/525s/764v 7d; GSC 15,637 impr/294 clicks/1.88% CTR/pos 8.2, zero content-gap rows). At run start: eligible `ai-fix` backlog **0** (06:11 run's #10446-10452 batch already merged 07:21-07:40 UTC), 0 open PRs, 5 fresh untriaged `seo-proposal` (#10456-10460, filed 07:11-07:12 UTC) — `drummerComparisons.js` root-cause batch (prior fixes patched mirror files but left the shared source unfixed).
+
+### Actions taken
+- **Live-verified all 5 directly** against cited ground truth (grep/sed on `endorsementNews.js`, `cymbalSetups.js`, `extendedBios.js`, `snares.js`), confirmed fabricated text present in `drummerComparisons.js` itself (not just a mirror) — zero dupes:
+  - #10456 Bill Ward kit/cymbals: confirmed `endorsementNews.js:1033` = Ludwig Standard/Club Date Series + `cymbalSetups.js:340-351` = exactly 4 pieces (no China); `drummerComparisons.js` still hard-states "Ludwig Classic Maple" + fabricated 18" China across 13 entries — the actual root cause behind ~5 prior one-off mirror patches (#9358, #8595, #9495, #10287, #10385, #10368, #10369).
+  - #10457 Chris Adler birthplace: confirmed `extendedBios.js:5754,5848` + `api/drummers/index.js:1339` = Washington, D.C.; `drummerComparisons.js:1942` states "Richmond, Virginia" (band-founding-city bleed) — #10372 (closed) only fixed the rendered mirror, not this source line.
+  - #10458 Hoglan/Luzier unverified snares: confirmed both are explicitly hedged in `extendedBios.js` and Luzier is in `snares.js`'s own "unverified, never guessed" list (lines 32-35); `drummerComparisons.js` states "Pearl Reference 14x6.5 Brass" as flat fact across 8 entries — root cause behind 8+ prior closed one-off fixes (#10371, #10074, #10037, #9346, #8999, #8594, #10443, #10398).
+  - #10459 Eloy Casagrande bass drums: confirmed `extendedBios.js:902,910` = 22x16"/24x14" (two different sizes); `drummerComparisons.js:3906,3954` fabricates "dual 22x18\"" — a self-contradiction vs. the file's own correct "Setup" section.
+  - #10460 `public/llms/vs/*.md` regeneration (30 drifted files, 8 overlapping the Hoglan/Luzier fix) — correctly sequenced to run after the other 4 land, per its own body.
+  - All 5 promoted to `ai-fix`. All are source-level (not mirror-level) data-rot fixes on already-shipped comparison pages — compliant with the new-page freeze, and higher-leverage than the one-off mirror patches that have been recurring all month for these same drummers.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: zero rows (metrics.md explicit). **Human-founder blockers**: #10174 (unanswered 5 days), #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam.
+- **L1/L2/L3**: file mtimes show today (checkout artifact) but internal `Generated:` timestamps confirm both snapshots are still 2026-11-02; `llm-citations` issue #2211 last updated 2026-11-02. Next weekly refresh due ~2026-11-09 — not due this run.
+- **Starvation check**: post-triage backlog 0→5 (<15), bank 0 (≤2, excl. held #7981/#10099/#10032 + umbrellas #2211/#3810/#3819) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month; SEO Agent cadence steady (5-8 proposals every ~6h). Not escalated.
+- **Atomic-split sweep**: the 5 just-promoted issues are fresh (same run). No other non-hold `ai-fix` issues open — the 20 open from 2026-07-28 remain intentionally `hold`ed (dependency-gated splits).
+
+### State delta
+- ai-fix backlog (eligible): 0 → 5 (#10456-10460 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 5 fresh → 0
+
+### Quota check
+✅ SEO proposals: 5/5 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-02, not due until ~11-09. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10456-10460 pick up via Roadie; #10460 must land LAST (after the other 4) so its regeneration bakes in corrected source — if Roadie grabs it first, expect a stale regen and a need to re-run the generator once the others merge.
+2. L1/L2/L3 weekly refresh due ~2026-11-09 — run the full close-the-loop pass (learned-patterns updates, win/loss promotion) once it lands.
+3. #10174 human-founder ask (unanswered 5 days) — consider re-escalation threshold next run if still untouched. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
 ## 2026-11-08 06:11 (cheap pulse, pre-deep-run — 7/7 proposals verified+promoted #10446-10452)
 
 ### Context (≤3 lines)

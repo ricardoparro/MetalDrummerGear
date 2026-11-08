@@ -34,7 +34,7 @@ Casagrande's São Paulo upbringing brought samba and bossa nova influences into 
 
 ## Key Differences
 
-Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal and Promark signature sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Casagrande's São Paulo upbringing brought samba and bossa nova influences into his playing — even at blast-beat velocity his double kick, driven by a Tama Iron Cobra double pedal, breathes with a natural swing rather than mechanically alternating. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds, prioritizing atmosphere and aggression over technical display.
+Casagrande plays a Tama Starclassic Bubinga kit with 22"x16" & 24"x14" bass drums, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal and Promark signature sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Casagrande's São Paulo upbringing brought samba and bossa nova influences into his playing — even at blast-beat velocity his double kick, driven by a Tama Iron Cobra double pedal, breathes with a natural swing rather than mechanically alternating. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds, prioritizing atmosphere and aggression over technical display.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Eloy Casagrande and Hellhammer both operate at extreme metal's technical ceiling
 A: Eloy Casagrande (Slipknot, ex-Sepultura) is known for dual-bass-drum power with a Brazilian samba-informed swing, earning Modern Drummer's 2024 #1 metal drummer ranking. Hellhammer (Mayhem, Dimmu Borgir) is known for cold, relentless one-foot blast beats that defined second-wave black metal's speed vocabulary starting with "De Mysteriis Dom Sathanas" (1994).
 
 **Q: What gear do Eloy Casagrande and Hellhammer use?**
-A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
+A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with 22"x16" & 24"x14" bass drums and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
 
 **Q: Does Hellhammer play barefoot?**
 A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds. Eloy Casagrande plays in standard footwear.

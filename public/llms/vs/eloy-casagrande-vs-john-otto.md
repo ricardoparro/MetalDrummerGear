@@ -34,7 +34,7 @@ Casagrande's technique is built for modern extreme dynamics — explosive double
 
 ## Key Differences
 
-Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), driven by a Tama Iron Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom kit with dual OCDP snares (a 14x6.5" 40-ply vented shell and a 10x6" 20-ply piccolo) and Zildjian A & A Custom Series cymbals, powered by Gibraltar Professional Series hardware and Zildjian drumsticks. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's thrash-groove foundation and Slipknot's maximalist nine-member live show without losing precision. Otto's technique centers on pocket and feel rather than speed — tight, syncopated grooves and funk-inspired ghost notes that fuse hip-hop's rhythmic sensibility with hard rock power, giving Limp Bizkit's biggest singles their head-nodding, danceable heaviness.
+Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell), driven by a Tama Iron Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom kit with dual OCDP snares (a 14x6.5" 40-ply vented shell and a 10x6" 20-ply piccolo) and Zildjian A & A Custom Series cymbals, powered by Gibraltar Professional Series hardware and Zildjian drumsticks. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's thrash-groove foundation and Slipknot's maximalist nine-member live show without losing precision. Otto's technique centers on pocket and feel rather than speed — tight, syncopated grooves and funk-inspired ghost notes that fuse hip-hop's rhythmic sensibility with hard rock power, giving Limp Bizkit's biggest singles their head-nodding, danceable heaviness.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Yes — Eloy Casagrande was named the No. 1 metal drummer in Modern Drummer m
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-09 · Source: [MetalForge.io](https://metalforge.io)*

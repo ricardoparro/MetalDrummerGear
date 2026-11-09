@@ -10,13 +10,13 @@ last_updated: "2026-06-26"
 
 # Gene Hoglan Drum Kit Evolution — Complete Timeline
 
-Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision and inhuman consistency, is one of extreme metal's most revered and technically accomplished drummers. From joining Dark Angel at age 16 in 1983 to his current work with Testament and beyond, his career spans six landmark bands and more than 40 years of evolution. This timeline documents every major equipment era across that career.
+Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision and inhuman consistency, is one of extreme metal's most revered and technically accomplished drummers. From joining Dark Angel at age 16 in 1984 to his current work with Testament and beyond, his career spans six landmark bands and more than 40 years of evolution. This timeline documents every major equipment era across that career.
 
 See also: [Gene Hoglan drummer profile](/llms/drummers/gene-hoglan.md)
 
 ---
 
-## Dark Angel Era (1983–1991)
+## Dark Angel Era (1984–1991)
 
 **Albums:** Darkness Descends (1986), Leave Scars (1989), Time Does Not Heal (1991)
 **Tours:** Darkness Descends Tour
@@ -32,7 +32,7 @@ Gene Hoglan joined Dark Angel at 16 with mid-range gear and developed the founda
 - **Estimated kit cost (original):** ~$2,000
 
 **Key developments:**
-- Joined Dark Angel at age 16 — developed foundational extreme metal technique
+- Joined Dark Angel at age 16 in 1984 — developed foundational extreme metal technique
 - *Darkness Descends* (1986) establishes the Hoglan legend in thrash metal
 - Double bass technique matures steadily across the era
 - Playing speed and precision develop to match the title "Atomic Clock"
@@ -123,7 +123,7 @@ After SYL's dissolution, Gene entered the most prolific multi-band phase of his 
 
 | Era | Years | Kit Cost (Original) | Inflation-Adjusted |
 |---|---|---|---|
-| Dark Angel Era | 1983–1991 | $2,000 | ~$5,000 |
+| Dark Angel Era | 1984–1991 | $2,000 | ~$5,000 |
 | Death & SYL Founding Era | 1993–1999 | $9,000 | ~$18,000 |
 | SYL Prime Era | 2000–2007 | $18,000 | ~$28,000 |
 | Testament & Multi-Band Era | 2008–present | $22,000 | ~$22,000 |
@@ -137,7 +137,7 @@ After SYL's dissolution, Gene entered the most prolific multi-band phase of his 
 - **Los Cabos Gene Hoglan Signature** — 2000–present (first and only signature stick endorsement)
 - **Evans G2/EMAD / UV2/EMAD2** — 2000–present (Evans heads for studio and live)
 - **Pearl Eliminator / Eliminator Redline** — 2000–present (signature double pedal)
-- **Vic Firth 5B/2B** — 1983–2000 (pre-signature era sticks)
+- **Vic Firth 5B/2B** — 1984–2000 (pre-signature era sticks)
 
 ---
 

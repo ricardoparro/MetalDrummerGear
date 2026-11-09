@@ -12,7 +12,7 @@ Heel-toe technique is a bass drum pedal method that produces two beater strokes 
 
 **Keywords:** heel-toe technique, heel toe drumming, double bass pedal technique, how to play heel toe, bass drum footwork technique
 
-Heel-toe pedal technique grew out of the same drum-corps and rudimental-percussion lineage that produced hand techniques like the Moeller stroke, adapted to the bass drum pedal as drummers chased faster single- and double-pedal speeds through the 1990s and 2000s. George Kollias (Nile) is the technique's most visible modern practitioner, sustaining blast beats past 240-280 BPM with a heel-toe approach refined well enough that he co-designed the Pearl Demon XR double pedal specifically around its footboard demands, then documented the technique in instructional books and clinics that spread it to a global audience of extreme metal drummers. Derek Roddy (Hate Eternal, ex-Nile) built his career on heel-up ankle technique for sustained blast-beat endurance, layering heel-toe strokes in only for short bursts of extra double bass speed - a deliberate two-technique approach that helped him record entire albums in single takes without punch-ins or editing. Gene Hoglan has likewise built his double bass approach around heel-toe motion and consistent stroke weight, prioritizing pedal feel and response time over any single brand or model.
+Heel-toe pedal technique grew out of the same drum-corps and rudimental-percussion lineage that produced hand techniques like the Moeller stroke, adapted to the bass drum pedal as drummers chased faster single- and double-pedal speeds through the 1990s and 2000s. George Kollias (Nile) is the technique's most visible modern practitioner, sustaining blast beats past 240-280 BPM with a heel-toe approach refined well enough that he co-designed the Pearl Demon XR double pedal specifically around its footboard demands, then documented the technique in instructional books and clinics that spread it to a global audience of extreme metal drummers. Derek Roddy (Hate Eternal, session drummer on Nile's Black Seeds of Vengeance) built his career on heel-up ankle technique for sustained blast-beat endurance, layering heel-toe strokes in only for short bursts of extra double bass speed - a deliberate two-technique approach that helped him record entire albums in single takes without punch-ins or editing. Gene Hoglan has likewise built his double bass approach around heel-toe motion and consistent stroke weight, prioritizing pedal feel and response time over any single brand or model.
 
 ## How to Play Heel-Toe Technique
 
@@ -89,4 +89,4 @@ A: Closely related techniques include Double Bass, Hand Foot Independence. Maste
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-09 · Source: [MetalForge.io](https://metalforge.io)*

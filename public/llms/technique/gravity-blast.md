@@ -12,7 +12,7 @@ The gravity blast (also called one-handed roll or push-pull technique) uses grav
 
 **Keywords:** gravity blast, one-handed roll, push-pull technique, extreme drumming, fast snare technique
 
-The underlying one-handed roll has been traced to earlier jazz and marching-percussion players; Johnny Rabb helped bring it to wider attention in the 1990s under the name "Freehand Technique." The technical death metal band Origin is widely credited with introducing the gravity-blast application of that roll to extreme metal in the early 2000s. Derek Roddy (Hate Eternal, ex-Nile) brought the technique to broader death metal prominence, and it has since been adopted by drummers like Flo Mounier (Cryptopsy) and many modern extreme metal drummers.
+The underlying one-handed roll has been traced to earlier jazz and marching-percussion players; Johnny Rabb helped bring it to wider attention in the 1990s under the name "Freehand Technique." The technical death metal band Origin is widely credited with introducing the gravity-blast application of that roll to extreme metal in the early 2000s. Derek Roddy (Hate Eternal, session drummer on Nile's Black Seeds of Vengeance) brought the technique to broader death metal prominence, and it has since been adopted by drummers like Flo Mounier (Cryptopsy) and many modern extreme metal drummers.
 
 ## How to Play Gravity Blast
 
@@ -91,4 +91,4 @@ A: Closely related techniques include Blast Beat, One Handed Roll. Mastering the
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-09 · Source: [MetalForge.io](https://metalforge.io)*

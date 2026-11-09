@@ -6,6 +6,7 @@
  */
 
 import { ImageResponse } from '@vercel/og';
+import { h } from '../_lib/og-h.js';
 
 export const config = {
   runtime: 'edge',
@@ -57,8 +58,8 @@ export default async function handler(req) {
 
     return new ImageResponse(
       (
-        <div
-          style={{
+        h('div', {
+          style: {
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
@@ -69,102 +70,102 @@ export default async function handler(req) {
             backgroundImage: `radial-gradient(ellipse at 50% 0%, ${COLORS.primary}15 0%, transparent 60%)`,
             padding: '60px',
             fontFamily: 'system-ui, -apple-system, sans-serif',
-          }}
-        >
-          {/* Logo */}
-          <div
-            style={{
+          },}
+
+          /* Logo */
+          , h('div', {
+            style: {
               display: 'flex',
               alignItems: 'center',
               marginBottom: '30px',
-            }}
-          >
-            <span style={{ fontSize: '72px', marginRight: '20px' }}>🥁</span>
-          </div>
+            },}
 
-          {/* Title */}
-          <h1
-            style={{
+            , h('span', { style: { fontSize: '72px', marginRight: '20px' },}, "🥁")
+          )
+
+          /* Title */
+          , h('h1', {
+            style: {
               fontSize: '72px',
               fontWeight: 'bold',
               color: COLORS.text,
               margin: '0 0 8px 0',
               textAlign: 'center',
               lineHeight: 1.1,
-            }}
-          >
-            {content.title}
-          </h1>
+            },}
 
-          {/* Subtitle */}
-          <h2
-            style={{
+            , content.title
+          )
+
+          /* Subtitle */
+          , h('h2', {
+            style: {
               fontSize: '36px',
               fontWeight: '600',
               color: COLORS.accent,
               margin: '0 0 20px 0',
               textAlign: 'center',
-            }}
-          >
-            {content.subtitle}
-          </h2>
+            },}
 
-          {/* Description */}
-          <p
-            style={{
+            , content.subtitle
+          )
+
+          /* Description */
+          , h('p', {
+            style: {
               fontSize: '28px',
               color: COLORS.secondary,
               margin: '0 0 40px 0',
               textAlign: 'center',
-            }}
-          >
-            {content.description}
-          </p>
+            },}
 
-          {/* Stats Row */}
-          <div
-            style={{
+            , content.description
+          )
+
+          /* Stats Row */
+          , h('div', {
+            style: {
               display: 'flex',
               gap: '24px',
-            }}
-          >
-            {content.stats.map((stat, i) => (
-              <div
-                key={i}
-                style={{
+            },}
+
+            , content.stats.map((stat, i) => (
+              h('div', {
+                key: i,
+                style: {
                   display: 'flex',
                   alignItems: 'center',
                   backgroundColor: COLORS.cardBg,
                   padding: '16px 28px',
                   borderRadius: '12px',
                   border: `2px solid ${COLORS.primary}30`,
-                }}
-              >
-                <span
-                  style={{
+                },}
+
+                , h('span', {
+                  style: {
                     fontSize: '22px',
                     fontWeight: '600',
                     color: COLORS.text,
-                  }}
-                >
-                  {stat}
-                </span>
-              </div>
-            ))}
-          </div>
+                  },}
 
-          {/* URL */}
-          <div
-            style={{
+                  , stat
+                )
+              )
+            ))
+          )
+
+          /* URL */
+          , h('div', {
+            style: {
               display: 'flex',
               marginTop: '40px',
               fontSize: '22px',
               color: COLORS.secondary,
-            }}
-          >
-            metalforge.io
-          </div>
-        </div>
+            },}
+, "metalforge.io"
+
+          )
+        )
       ),
       {
         width: 1200,

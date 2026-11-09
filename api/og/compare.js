@@ -2,6 +2,7 @@
 // Issue #721: Generate social share images for /tools/compare
 
 import { ImageResponse } from '@vercel/og';
+import { h } from '../_lib/og-h.js';
 
 export const config = {
   runtime: 'edge',
@@ -15,8 +16,8 @@ export default async function handler(req) {
 
     return new ImageResponse(
       (
-        <div
-          style={{
+        h('div', {
+          style: {
             height: '100%',
             width: '100%',
             display: 'flex',
@@ -25,44 +26,44 @@ export default async function handler(req) {
             justifyContent: 'center',
             backgroundColor: '#0a0a0a',
             backgroundImage: 'linear-gradient(135deg, #1a1a2e 0%, #0a0a0a 50%, #16213e 100%)',
-          }}
-        >
-          {/* Header */}
-          <div
-            style={{
+          },}
+
+          /* Header */
+          , h('div', {
+            style: {
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
               marginBottom: 20,
-            }}
-          >
-            <span style={{ fontSize: 40 }}>⚔️</span>
-            <span
-              style={{
+            },}
+
+            , h('span', { style: { fontSize: 40 },}, "⚔️")
+            , h('span', {
+              style: {
                 fontSize: 32,
                 fontWeight: 'bold',
                 color: '#ffffff',
                 marginLeft: 10,
                 textTransform: 'uppercase',
                 letterSpacing: '2px',
-              }}
-            >
-              Gear Comparison
-            </span>
-          </div>
+              },}
+, "Gear Comparison"
 
-          {/* Main comparison */}
-          <div
-            style={{
+            )
+          )
+
+          /* Main comparison */
+          , h('div', {
+            style: {
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
               gap: 40,
-            }}
-          >
-            {/* Drummer 1 */}
-            <div
-              style={{
+            },}
+
+            /* Drummer 1 */
+            , h('div', {
+              style: {
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
@@ -70,45 +71,45 @@ export default async function handler(req) {
                 backgroundColor: 'rgba(255, 107, 53, 0.1)',
                 borderRadius: 16,
                 border: '2px solid #FF6B35',
-              }}
-            >
-              <span style={{ fontSize: 60, marginBottom: 10 }}>🥁</span>
-              <span
-                style={{
+              },}
+
+              , h('span', { style: { fontSize: 60, marginBottom: 10 },}, "🥁")
+              , h('span', {
+                style: {
                   fontSize: 36,
                   fontWeight: 'bold',
                   color: '#ffffff',
                   textAlign: 'center',
                   maxWidth: 300,
-                }}
-              >
-                {d1}
-              </span>
-            </div>
+                },}
 
-            {/* VS */}
-            <div
-              style={{
+                , d1
+              )
+            )
+
+            /* VS */
+            , h('div', {
+              style: {
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
-              }}
-            >
-              <span
-                style={{
+              },}
+
+              , h('span', {
+                style: {
                   fontSize: 72,
                   fontWeight: 'bold',
                   color: '#FF6B35',
                   textShadow: '0 0 20px rgba(255, 107, 53, 0.5)',
-                }}
-              >
-                VS
-              </span>
-            </div>
+                },}
+, "VS"
 
-            {/* Drummer 2 */}
-            <div
-              style={{
+              )
+            )
+
+            /* Drummer 2 */
+            , h('div', {
+              style: {
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
@@ -116,63 +117,63 @@ export default async function handler(req) {
                 backgroundColor: 'rgba(78, 205, 196, 0.1)',
                 borderRadius: 16,
                 border: '2px solid #4ECDC4',
-              }}
-            >
-              <span style={{ fontSize: 60, marginBottom: 10 }}>🥁</span>
-              <span
-                style={{
+              },}
+
+              , h('span', { style: { fontSize: 60, marginBottom: 10 },}, "🥁")
+              , h('span', {
+                style: {
                   fontSize: 36,
                   fontWeight: 'bold',
                   color: '#ffffff',
                   textAlign: 'center',
                   maxWidth: 300,
-                }}
-              >
-                {d2}
-              </span>
-            </div>
-          </div>
+                },}
 
-          {/* Footer */}
-          <div
-            style={{
+                , d2
+              )
+            )
+          )
+
+          /* Footer */
+          , h('div', {
+            style: {
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
               marginTop: 40,
-            }}
-          >
-            <span
-              style={{
+            },}
+
+            , h('span', {
+              style: {
                 fontSize: 24,
                 color: '#888888',
                 letterSpacing: '1px',
-              }}
-            >
-              Side-by-Side Drummer Setup Battle
-            </span>
-          </div>
+              },}
+, "Side-by-Side Drummer Setup Battle"
 
-          {/* MetalForge branding */}
-          <div
-            style={{
+            )
+          )
+
+          /* MetalForge branding */
+          , h('div', {
+            style: {
               position: 'absolute',
               bottom: 30,
               display: 'flex',
               alignItems: 'center',
-            }}
-          >
-            <span
-              style={{
+            },}
+
+            , h('span', {
+              style: {
                 fontSize: 20,
                 fontWeight: 'bold',
                 color: '#FF6B35',
-              }}
-            >
-              🔥 MetalForge.io
-            </span>
-          </div>
-        </div>
+              },}
+, "🔥 MetalForge.io"
+
+            )
+          )
+        )
       ),
       {
         width: 1200,

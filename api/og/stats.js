@@ -6,6 +6,7 @@
  */
 
 import { ImageResponse } from '@vercel/og';
+import { h } from '../_lib/og-h.js';
 
 export const config = {
   runtime: 'edge',
@@ -24,8 +25,8 @@ export default async function handler(req) {
   try {
     return new ImageResponse(
       (
-        <div
-          style={{
+        h('div', {
+          style: {
             display: 'flex',
             flexDirection: 'column',
             width: '100%',
@@ -33,68 +34,68 @@ export default async function handler(req) {
             backgroundColor: COLORS.background,
             padding: '60px',
             fontFamily: 'system-ui, -apple-system, sans-serif',
-          }}
-        >
-          {/* Header */}
-          <div
-            style={{
+          },}
+
+          /* Header */
+          , h('div', {
+            style: {
               display: 'flex',
               alignItems: 'center',
               marginBottom: '40px',
-            }}
-          >
-            <span style={{ fontSize: '48px', marginRight: '16px' }}>🥁</span>
-            <span
-              style={{
+            },}
+
+            , h('span', { style: { fontSize: '48px', marginRight: '16px' },}, "🥁")
+            , h('span', {
+              style: {
                 fontSize: '32px',
                 fontWeight: 'bold',
                 color: COLORS.text,
-              }}
-            >
-              MetalForge
-            </span>
-          </div>
+              },}
+, "MetalForge"
 
-          {/* Title */}
-          <h1
-            style={{
+            )
+          )
+
+          /* Title */
+          , h('h1', {
+            style: {
               fontSize: '64px',
               fontWeight: 'bold',
               color: COLORS.text,
               margin: '0 0 20px 0',
               lineHeight: 1.1,
-            }}
-          >
-            Gear Statistics
-          </h1>
+            },}
+, "Gear Statistics"
 
-          <p
-            style={{
+          )
+
+          , h('p', {
+            style: {
               fontSize: '28px',
               color: COLORS.secondary,
               margin: '0 0 40px 0',
-            }}
-          >
-            Data-driven insights from 60+ legendary metal drummers
-          </p>
+            },}
+, "Data-driven insights from 60+ legendary metal drummers"
 
-          {/* Stats Grid */}
-          <div
-            style={{
+          )
+
+          /* Stats Grid */
+          , h('div', {
+            style: {
               display: 'flex',
               gap: '24px',
               marginTop: 'auto',
-            }}
-          >
-            {[
+            },}
+
+            , [
               { label: 'Drummers', value: '60+', icon: '🎸' },
               { label: 'Gear Items', value: '500+', icon: '🥁' },
               { label: 'Brands', value: '50+', icon: '🏷️' },
               { label: 'Videos', value: '200+', icon: '🎬' },
             ].map((stat) => (
-              <div
-                key={stat.label}
-                style={{
+              h('div', {
+                key: stat.label,
+                style: {
                   display: 'flex',
                   flexDirection: 'column',
                   alignItems: 'center',
@@ -102,30 +103,30 @@ export default async function handler(req) {
                   padding: '24px 40px',
                   borderRadius: '16px',
                   border: `2px solid ${COLORS.primary}20`,
-                }}
-              >
-                <span style={{ fontSize: '32px', marginBottom: '8px' }}>{stat.icon}</span>
-                <span
-                  style={{
+                },}
+
+                , h('span', { style: { fontSize: '32px', marginBottom: '8px' },}, stat.icon)
+                , h('span', {
+                  style: {
                     fontSize: '36px',
                     fontWeight: 'bold',
                     color: COLORS.accent,
-                  }}
-                >
-                  {stat.value}
-                </span>
-                <span
-                  style={{
+                  },}
+
+                  , stat.value
+                )
+                , h('span', {
+                  style: {
                     fontSize: '18px',
                     color: COLORS.secondary,
-                  }}
-                >
-                  {stat.label}
-                </span>
-              </div>
-            ))}
-          </div>
-        </div>
+                  },}
+
+                  , stat.label
+                )
+              )
+            ))
+          )
+        )
       ),
       {
         width: 1200,

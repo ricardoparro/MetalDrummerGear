@@ -12,6 +12,7 @@
  */
 
 import { ImageResponse } from '@vercel/og';
+import { h } from '../_lib/og-h.js';
 
 export const config = {
   runtime: 'edge',
@@ -71,8 +72,8 @@ export default async function handler(req) {
 
     return new ImageResponse(
       (
-        <div
-          style={{
+        h('div', {
+          style: {
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
@@ -82,43 +83,43 @@ export default async function handler(req) {
             backgroundColor: BRAND_COLORS.background,
             padding: '40px',
             fontFamily: 'system-ui, -apple-system, sans-serif',
-          }}
-        >
-          {/* MetalForge Logo & Branding */}
-          <div
-            style={{
+          },}
+
+          /* MetalForge Logo & Branding */
+          , h('div', {
+            style: {
               display: 'flex',
               alignItems: 'center',
               marginBottom: '20px',
-            }}
-          >
-            <span style={{ fontSize: '32px', marginRight: '12px' }}>🥁</span>
-            <span
-              style={{
+            },}
+
+            , h('span', { style: { fontSize: '32px', marginRight: '12px' },}, "🥁")
+            , h('span', {
+              style: {
                 fontSize: '28px',
                 fontWeight: 'bold',
                 color: BRAND_COLORS.text,
                 letterSpacing: '-1px',
-              }}
-            >
-              MetalForge
-            </span>
-          </div>
+              },}
+, "MetalForge"
 
-          {/* Quiz Title */}
-          <div
-            style={{
+            )
+          )
+
+          /* Quiz Title */
+          , h('div', {
+            style: {
               fontSize: '24px',
               color: BRAND_COLORS.secondaryText,
               marginBottom: '30px',
-            }}
-          >
-            Which Metal Drummer Are You?
-          </div>
+            },}
+, "Which Metal Drummer Are You?"
 
-          {/* Result Card */}
-          <div
-            style={{
+          )
+
+          /* Result Card */
+          , h('div', {
+            style: {
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
@@ -127,11 +128,11 @@ export default async function handler(req) {
               padding: '40px 60px',
               border: `3px solid ${BRAND_COLORS.primary}`,
               boxShadow: `0 0 60px ${BRAND_COLORS.primary}40`,
-            }}
-          >
-            {/* Match Percentage Badge */}
-            <div
-              style={{
+            },}
+
+            /* Match Percentage Badge */
+            , h('div', {
+              style: {
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
@@ -142,14 +143,14 @@ export default async function handler(req) {
                 padding: '8px 24px',
                 borderRadius: '999px',
                 marginBottom: '24px',
-              }}
-            >
-              {matchPercentage}% Match 🎯
-            </div>
+              },}
 
-            {/* Drummer Photo Circle */}
-            <div
-              style={{
+              , matchPercentage, "% Match 🎯"
+            )
+
+            /* Drummer Photo Circle */
+            , h('div', {
+              style: {
                 display: 'flex',
                 width: '180px',
                 height: '180px',
@@ -158,60 +159,60 @@ export default async function handler(req) {
                 border: `4px solid ${BRAND_COLORS.accent}`,
                 marginBottom: '24px',
                 backgroundColor: BRAND_COLORS.cardBg,
-              }}
-            >
-              <img
-                src={drummerImageUrl}
-                alt={drummer.name}
-                width="180"
-                height="180"
-                style={{
+              },}
+
+              , h('img', {
+                src: drummerImageUrl,
+                alt: drummer.name,
+                width: "180",
+                height: "180",
+                style: {
                   objectFit: 'cover',
                   width: '100%',
                   height: '100%',
-                }}
-              />
-            </div>
+                },}
+              )
+            )
 
-            {/* Drummer Name */}
-            <div
-              style={{
+            /* Drummer Name */
+            , h('div', {
+              style: {
                 fontSize: '42px',
                 fontWeight: 'bold',
                 color: BRAND_COLORS.text,
                 textAlign: 'center',
                 marginBottom: '8px',
-              }}
-            >
-              {drummer.name}
-            </div>
+              },}
 
-            {/* Band Name */}
-            <div
-              style={{
+              , drummer.name
+            )
+
+            /* Band Name */
+            , h('div', {
+              style: {
                 fontSize: '26px',
                 color: BRAND_COLORS.accent,
                 textAlign: 'center',
-              }}
-            >
-              {drummer.band}
-            </div>
-          </div>
+              },}
 
-          {/* Call to Action */}
-          <div
-            style={{
+              , drummer.band
+            )
+          )
+
+          /* Call to Action */
+          , h('div', {
+            style: {
               display: 'flex',
               alignItems: 'center',
               marginTop: '30px',
               fontSize: '22px',
               color: BRAND_COLORS.secondaryText,
-            }}
-          >
-            <span style={{ marginRight: '8px' }}>🤘</span>
-            Take the quiz at metalforge.io/quiz
-          </div>
-        </div>
+            },}
+
+            , h('span', { style: { marginRight: '8px' },}, "🤘"), "Take the quiz at metalforge.io/quiz"
+
+          )
+        )
       ),
       {
         width: 1200,

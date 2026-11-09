@@ -4,6 +4,18 @@
 // Issue #4766: added the studies card family (headline-stat OG cards)
 
 import { STUDIES } from '../../packages/frontend/data/studies/index.js';
+import { drummers as canonicalDrummers } from '../drummers/index.js';
+
+const GEAR_CATEGORIES = ['drums', 'snare', 'cymbals', 'hardware', 'sticks'];
+
+// Same slug rule as api/meta and api/card/[slug].js.
+function drummerSlug(name) {
+  return name.toLowerCase()
+    .replace(/[åä]/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
+    .replace(/é|è|ê|ë/g, 'e').replace(/í|ì|î|ï/g, 'i').replace(/ó|ò|ô/g, 'o')
+    .replace(/ú|ù|û/g, 'u').replace(/ñ/g, 'n').replace(/ß/g, 'ss')
+    .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+}
 
 export default function handler(req, res) {
   const baseUrl = process.env.VERCEL_URL 
@@ -25,45 +37,26 @@ export default function handler(req, res) {
     spotlightTwitter: `${baseUrl}/api/card/${slug}?type=spotlight&format=twitter`,
   });
 
-  // Drummer data for gear cards
-  const drummerData = [
-    { slug: 'lars-ulrich', name: 'Lars Ulrich', band: 'Metallica', genre: 'Thrash Metal', country: 'Denmark', totalPieces: 42, totalCost: 27450 },
-    { slug: 'joey-jordison', name: 'Joey Jordison', band: 'Slipknot', genre: 'Nu Metal', country: 'USA', totalPieces: 38, totalCost: 24800 },
-    { slug: 'gene-hoglan', name: 'Gene Hoglan', band: 'Testament', genre: 'Death/Thrash Metal', country: 'USA', totalPieces: 45, totalCost: 28200 },
-    { slug: 'dave-lombardo', name: 'Dave Lombardo', band: 'Slayer', genre: 'Thrash Metal', country: 'USA', totalPieces: 40, totalCost: 26500 },
-    { slug: 'tomas-haake', name: 'Tomas Haake', band: 'Meshuggah', genre: 'Progressive Metal', country: 'Sweden', totalPieces: 35, totalCost: 32500 },
-    { slug: 'danny-carey', name: 'Danny Carey', band: 'Tool', genre: 'Progressive Metal', country: 'USA', totalPieces: 48, totalCost: 45000 },
-    { slug: 'chris-adler', name: 'Chris Adler', band: 'Lamb of God', genre: 'Groove Metal', country: 'USA', totalPieces: 32, totalCost: 18500 },
-    { slug: 'george-kollias', name: 'George Kollias', band: 'Nile', genre: 'Death Metal', country: 'Greece', totalPieces: 36, totalCost: 22800 },
-    { slug: 'mike-portnoy', name: 'Mike Portnoy', band: 'Dream Theater', genre: 'Progressive Metal', country: 'USA', totalPieces: 55, totalCost: 38000 },
-    { slug: 'vinnie-paul', name: 'Vinnie Paul', band: 'Pantera', genre: 'Groove Metal', country: 'USA', totalPieces: 44, totalCost: 28500 },
-    { slug: 'charlie-benante', name: 'Charlie Benante', band: 'Anthrax', genre: 'Thrash Metal', country: 'USA', totalPieces: 38, totalCost: 25800 },
-    { slug: 'igor-cavalera', name: 'Igor Cavalera', band: 'Sepultura', genre: 'Thrash/Groove Metal', country: 'Brazil', totalPieces: 28, totalCost: 18000 },
-    { slug: 'nicko-mcbrain', name: 'Nicko McBrain', band: 'Iron Maiden', genre: 'Heavy Metal', country: 'UK', totalPieces: 42, totalCost: 35000 },
-    { slug: 'abe-cunningham', name: 'Abe Cunningham', band: 'Deftones', genre: 'Alternative Metal', country: 'USA', totalPieces: 30, totalCost: 24000 },
-    { slug: 'brann-dailor', name: 'Brann Dailor', band: 'Mastodon', genre: 'Progressive Metal', country: 'USA', totalPieces: 34, totalCost: 28000 },
-    { slug: 'mario-duplantier', name: 'Mario Duplantier', band: 'Gojira', genre: 'Progressive Death Metal', country: 'France', totalPieces: 32, totalCost: 19500 },
-    { slug: 'eloy-casagrande', name: 'Eloy Casagrande', band: 'Sepultura/Slipknot', genre: 'Thrash/Nu Metal', country: 'Brazil', totalPieces: 38, totalCost: 26500 },
-    { slug: 'inferno', name: 'Inferno', band: 'Behemoth', genre: 'Black/Death Metal', country: 'Poland', totalPieces: 40, totalCost: 28000 },
-    { slug: 'flo-mounier', name: 'Flo Mounier', band: 'Cryptopsy', genre: 'Technical Death Metal', country: 'Canada', totalPieces: 35, totalCost: 22000 },
-    { slug: 'hellhammer', name: 'Hellhammer', band: 'Mayhem', genre: 'Black Metal', country: 'Norway', totalPieces: 36, totalCost: 21500 },
-    { slug: 'pete-sandoval', name: 'Pete Sandoval', band: 'Morbid Angel', genre: 'Death Metal', country: 'USA', totalPieces: 38, totalCost: 24000 },
-  ];
-
-  // Generate full card data with URLs
-  const cards = drummerData.map(d => ({
-    slug: d.slug,
-    name: d.name,
-    band: d.band,
-    genre: d.genre,
-    country: d.country,
-    stats: { 
-      totalPieces: d.totalPieces, 
-      totalCost: d.totalCost 
-    },
-    cardUrls: getCardUrls(d.slug),
-    profileUrl: `${baseUrl}/drummer/${d.slug}`,
-  }));
+  // Derived from the one canonical drummer module (CLAUDE.md rule 1). The
+  // previous hand-kept list covered 21 of 72 drummers and carried invented
+  // piece-count and setup-cost figures; stats are now computed from the data.
+  const cards = canonicalDrummers.map(d => {
+    const slug = drummerSlug(d.name);
+    const categories = GEAR_CATEGORIES.filter(k => typeof d.gear?.[k] === 'string' && d.gear[k].trim()).length;
+    return {
+      slug,
+      name: d.name,
+      band: d.band,
+      genre: d.genre,
+      country: d.country,
+      stats: {
+        categories,
+        sources: Array.isArray(d.gear?.sources) ? d.gear.sources.length : 0,
+      },
+      cardUrls: getCardUrls(slug),
+      profileUrl: `${baseUrl}/drummer/${slug}`,
+    };
+  });
 
   // Study cards — one headline-stat card per /studies/<slug> page (issue #4766).
   const studyCards = STUDIES.map((s) => ({
@@ -98,7 +91,7 @@ export default function handler(req, res) {
     },
     types: {
       full: 'Complete gear list with drummer info - best for social sharing',
-      stats: 'Key statistics (pieces count, total cost) - great for quick sharing',
+      stats: 'Key statistics (documented gear categories, cited sources) - great for quick sharing',
       spotlight: 'Focus on signature gear - ideal for brand highlights',
       study: 'Headline stat from a /studies page - the study\'s single most citable number',
     },

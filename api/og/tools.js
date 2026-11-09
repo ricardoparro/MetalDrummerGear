@@ -6,6 +6,7 @@
  */
 
 import { ImageResponse } from '@vercel/og';
+import { h } from '../_lib/og-h.js';
 
 export const config = {
   runtime: 'edge',
@@ -24,8 +25,8 @@ export default async function handler(req) {
   try {
     return new ImageResponse(
       (
-        <div
-          style={{
+        h('div', {
+          style: {
             display: 'flex',
             flexDirection: 'column',
             width: '100%',
@@ -33,61 +34,61 @@ export default async function handler(req) {
             backgroundColor: COLORS.background,
             padding: '60px',
             fontFamily: 'system-ui, -apple-system, sans-serif',
-          }}
-        >
-          {/* Header */}
-          <div
-            style={{
+          },}
+
+          /* Header */
+          , h('div', {
+            style: {
               display: 'flex',
               alignItems: 'center',
               marginBottom: '40px',
-            }}
-          >
-            <span style={{ fontSize: '48px', marginRight: '16px' }}>🥁</span>
-            <span
-              style={{
+            },}
+
+            , h('span', { style: { fontSize: '48px', marginRight: '16px' },}, "🥁")
+            , h('span', {
+              style: {
                 fontSize: '32px',
                 fontWeight: 'bold',
                 color: COLORS.text,
-              }}
-            >
-              MetalForge
-            </span>
-          </div>
+              },}
+, "MetalForge"
 
-          {/* Title */}
-          <h1
-            style={{
+            )
+          )
+
+          /* Title */
+          , h('h1', {
+            style: {
               fontSize: '64px',
               fontWeight: 'bold',
               color: COLORS.text,
               margin: '0 0 20px 0',
               lineHeight: 1.1,
-            }}
-          >
-            Drummer Tools & Calculators
-          </h1>
+            },}
+, "Drummer Tools & Calculators"
 
-          <p
-            style={{
+          )
+
+          , h('p', {
+            style: {
               fontSize: '28px',
               color: COLORS.secondary,
               margin: '0 0 40px 0',
-            }}
-          >
-            Free tools to level up your drumming 🤘
-          </p>
+            },}
+, "Free tools to level up your drumming 🤘"
 
-          {/* Tools Grid */}
-          <div
-            style={{
+          )
+
+          /* Tools Grid */
+          , h('div', {
+            style: {
               display: 'flex',
               flexWrap: 'wrap',
               gap: '20px',
               marginTop: 'auto',
-            }}
-          >
-            {[
+            },}
+
+            , [
               { name: 'BPM Calculator', icon: '⏱️' },
               { name: 'Kit Builder', icon: '🛠️' },
               { name: 'Gear Compare', icon: '⚖️' },
@@ -95,31 +96,31 @@ export default async function handler(req) {
               { name: 'Sound-Like Guides', icon: '🎯' },
               { name: 'Quiz', icon: '❓' },
             ].map((tool) => (
-              <div
-                key={tool.name}
-                style={{
+              h('div', {
+                key: tool.name,
+                style: {
                   display: 'flex',
                   alignItems: 'center',
                   backgroundColor: COLORS.cardBg,
                   padding: '16px 24px',
                   borderRadius: '12px',
                   border: `2px solid ${COLORS.primary}30`,
-                }}
-              >
-                <span style={{ fontSize: '28px', marginRight: '12px' }}>{tool.icon}</span>
-                <span
-                  style={{
+                },}
+
+                , h('span', { style: { fontSize: '28px', marginRight: '12px' },}, tool.icon)
+                , h('span', {
+                  style: {
                     fontSize: '22px',
                     fontWeight: '600',
                     color: COLORS.text,
-                  }}
-                >
-                  {tool.name}
-                </span>
-              </div>
-            ))}
-          </div>
-        </div>
+                  },}
+
+                  , tool.name
+                )
+              )
+            ))
+          )
+        )
       ),
       {
         width: 1200,

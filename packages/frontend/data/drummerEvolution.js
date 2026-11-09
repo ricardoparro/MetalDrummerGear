@@ -2703,10 +2703,10 @@ export const DRUMMER_EVOLUTION = {
 
     eras: [
       {
-        id: 'hoglan-1983-dark-angel',
+        id: 'hoglan-1984-dark-angel',
         era: 'Dark Angel Era',
-        years: '1983-1991',
-        startYear: 1983,
+        years: '1984-1991',
+        startYear: 1984,
         endYear: 1991,
         description: 'The formative years that forged "The Atomic Clock" — teenage Gene developing superhuman precision and speed at extreme metal\'s cutting edge on mid-range gear.',
         albums: ['Darkness Descends (1986)', 'Leave Scars (1989)', 'Time Does Not Heal (1991)'],

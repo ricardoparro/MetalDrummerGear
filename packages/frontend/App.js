@@ -1169,6 +1169,77 @@ function hasExtendedBio(drummerId) {
 // Deferred: bands (~31KB) + genres (~27KB) + gearComparisons (~17KB) + birthdays (~24KB) = ~99KB
 // ==========================================
 
+// Marks the document noindex while `active` is true (not-found states inside
+// the SPA, which the host can only answer with HTTP 200) and restores the
+// previous robots value afterwards.
+function useNoindexWhile(active) {
+  useEffect(() => {
+    if (!active || Platform.OS !== 'web' || typeof document === 'undefined') return undefined;
+    let meta = document.querySelector('meta[name="robots"]');
+    const created = !meta;
+    const previous = meta ? meta.getAttribute('content') : null;
+    if (!meta) {
+      meta = document.createElement('meta');
+      meta.setAttribute('name', 'robots');
+      document.head.appendChild(meta);
+    }
+    meta.setAttribute('content', 'noindex');
+    return () => {
+      if (created) meta.remove();
+      else if (previous !== null) meta.setAttribute('content', previous);
+    };
+  }, [active]);
+}
+
+// Not-found state for /drummer/<slug> URLs whose slug is not in the roster.
+// The host rewrites every unknown path to index.html and the route chain in
+// renderContent() falls through to the homepage, so a mistyped or dead profile
+// link silently showed the drummer list under the wrong URL (a soft 404).
+//
+// Scope is deliberately limited to the one case that can be decided with
+// certainty: the roster has loaded and no drummer has that slug. A generic
+// "no route matched" check was tried and rejected — several real routes
+// (e.g. /gear/item/<slug>, resolved by an async fetch) pass through this same
+// fallback while they load, so it produced false not-found pages. Unknown
+// URLs outside /drummer/ therefore still show the homepage.
+function unknownDrummerSlugInUrl(drummers, rosterLoaded) {
+  if (Platform.OS !== 'web' || typeof window === 'undefined' || !rosterLoaded) return null;
+  const match = window.location.pathname.match(/^\/drummer\/([a-z0-9-]+)(?:\/|$)/i);
+  if (!match) return null;
+  const slug = match[1].toLowerCase();
+  return findDrummerBySlug(drummers, slug) ? null : slug;
+}
+
+function UnknownRouteBoundary({ drummers, rosterLoaded, theme, children }) {
+  const notFound = unknownDrummerSlugInUrl(drummers, rosterLoaded) !== null;
+  useNoindexWhile(notFound);
+  useEffect(() => {
+    if (notFound && typeof document !== 'undefined') document.title = 'Page Not Found | MetalForge';
+  }, [notFound]);
+  if (!notFound) return children;
+  const links = [
+    ['/', 'MetalForge home'],
+    ['/drummers', 'All metal drummers'],
+    ['/articles', 'Album drum setup breakdowns'],
+    ['/guides', 'Gear guides'],
+  ];
+  return (
+    <View style={[styles.mainContent, { padding: 24, alignItems: 'center' }]} accessibilityRole="main" nativeID="not-found-page">
+      <Text style={{ color: theme.text, fontSize: 28, fontWeight: '700', marginTop: 48, marginBottom: 12, textAlign: 'center' }} accessibilityRole="header" aria-level="1">
+        Drummer not found
+      </Text>
+      <Text style={{ color: theme.secondaryText, fontSize: 16, lineHeight: 24, marginBottom: 24, textAlign: 'center', maxWidth: 520 }}>
+        We do not have a profile at this address. It may have moved, or the link may be mistyped.
+      </Text>
+      {links.map(([href, label]) => (
+        <a key={href} href={href} style={{ color: theme.primary, fontSize: 16, lineHeight: '44px', textDecoration: 'underline' }}>
+          {label}
+        </a>
+      ))}
+    </View>
+  );
+}
+
 // Band data with drummer history (Issue #349, #429)
 // Lazy loaded for TBT optimization (#537)
 let _bandsModule = null;
@@ -1628,6 +1699,38 @@ function isSpotlightsPage() {
 function trackEvent(name, params) {
   if (Platform.OS !== 'web' || typeof window === 'undefined' || !window.gtag) return;
   window.gtag('event', name, params);
+}
+
+// Outbound retailer link. On web this is a real <a href> (middle-click, copy
+// link and open-in-new-tab work, and it is declared rel="sponsored" as Google
+// requires for affiliate links) instead of a <div role="link"> that opened the
+// URL from an onPress handler. `onTrack` fires the gear_click event; the
+// browser does the navigation. `fill` lets the link share a row equally.
+function RetailerLink({ url, label, onTrack, style, fill, children }) {
+  if (Platform.OS === 'web') {
+    return (
+      <a
+        href={url}
+        target="_blank"
+        rel="sponsored nofollow noopener noreferrer"
+        aria-label={label}
+        onClick={onTrack}
+        style={{ textDecoration: 'none', display: 'flex', ...(fill ? { flex: 1, minWidth: 140 } : { flexShrink: 0 }) }}
+      >
+        <View style={style}>{children}</View>
+      </a>
+    );
+  }
+  return (
+    <TouchableOpacity
+      onPress={() => { if (onTrack) onTrack(); Linking.openURL(url); }}
+      style={style}
+      accessibilityRole="link"
+      accessibilityLabel={label}
+    >
+      {children}
+    </TouchableOpacity>
+  );
 }
 
 // Fires a section_impression event once per session when the element scrolls into view.
@@ -6544,18 +6647,13 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
     }
   };
 
-  const handleShopPress = (url, store) => {
+  const trackShopClick = (store) => {
     trackEvent('gear_click', {
       gear_name: primaryProduct,
       gear_type: gearType,
       store: store.toLowerCase(),
       drummer_slug: drummerSlug || '',
     });
-    if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      window.open(url, '_blank', 'noopener,noreferrer');
-    } else {
-      Linking.openURL(url);
-    }
   };
 
   // Use gold accent for cymbal-related gear titles
@@ -6580,22 +6678,22 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
         </TouchableOpacity>
       )}
       <View style={styles.shopLinksContainer}>
-        <TouchableOpacity
-          onPress={() => handleShopPress(affiliateLinks.sweetwater, 'Sweetwater')}
+        <RetailerLink
+          url={affiliateLinks.sweetwater}
+          label={`Shop ${primaryProduct} at Sweetwater (US)`}
+          onTrack={() => trackShopClick('Sweetwater')}
           style={[styles.shopButton, styles.shopButtonUS, { borderColor: theme.border }]}
-          accessibilityRole="link"
-          accessibilityLabel={`Shop ${primaryProduct} at Sweetwater (US)`}
         >
           <Text style={styles.shopButtonText}>Shop on Sweetwater (US)</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={() => handleShopPress(affiliateLinks.thomann, 'Thomann')}
+        </RetailerLink>
+        <RetailerLink
+          url={affiliateLinks.thomann}
+          label={`Shop ${primaryProduct} at Thomann (EU)`}
+          onTrack={() => trackShopClick('Thomann')}
           style={[styles.shopButton, styles.shopButtonEU, { borderColor: theme.border }]}
-          accessibilityRole="link"
-          accessibilityLabel={`Shop ${primaryProduct} at Thomann (EU)`}
         >
           <Text style={styles.shopButtonText}>Shop on Thomann (EU)</Text>
-        </TouchableOpacity>
+        </RetailerLink>
       </View>
     </View>
   );
@@ -6631,30 +6729,22 @@ function KitCostCalculator({ drummer, theme }) {
     }
   };
 
-  const handleBuySetupPress = (store) => {
-    // Create a combined search query for the full kit
+  const buySetupUrl = (store) => {
+    // Combined search query for the full kit
     const primaryDrums = extractPrimaryProduct(drummer.gear.drums);
-    let url;
-    if (store === 'thomann') {
-      url = getThomannLink(primaryDrums, 'full-kit');
-    } else {
-      url = getSweetwaterLink(primaryDrums, 'full-kit');
-    }
+    const url = store === 'thomann'
+      ? getThomannLink(primaryDrums, 'full-kit')
+      : getSweetwaterLink(primaryDrums, 'full-kit');
+    return url.replace(/utm_campaign=[^&]+/, 'utm_campaign=buy-full-setup');
+  };
 
-    url = url.replace(/utm_campaign=[^&]+/, 'utm_campaign=buy-full-setup');
-
+  const trackBuySetup = (store) => {
     trackEvent('gear_click', {
-      gear_name: primaryDrums,
+      gear_name: extractPrimaryProduct(drummer.gear.drums),
       gear_type: 'full-kit',
       store: store,
       drummer_slug: drummer.id || '',
     });
-
-    if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      window.open(url, '_blank', 'noopener,noreferrer');
-    } else {
-      Linking.openURL(url);
-    }
   };
 
   const gearLabels = {
@@ -6715,22 +6805,24 @@ function KitCostCalculator({ drummer, theme }) {
       </Text>
 
       <View style={styles.buySetupContainer}>
-        <TouchableOpacity
-          onPress={() => handleBuySetupPress('sweetwater')}
+        <RetailerLink
+          fill
+          url={buySetupUrl('sweetwater')}
+          label={`Buy ${drummer.name}'s setup at Sweetwater`}
+          onTrack={() => trackBuySetup('sweetwater')}
           style={[styles.buySetupButton, styles.buySetupButtonUS]}
-          accessibilityRole="link"
-          accessibilityLabel={`Buy ${drummer.name}'s setup at Sweetwater`}
         >
           <Text style={styles.buySetupButtonText}>Buy This Setup (US)</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={() => handleBuySetupPress('thomann')}
+        </RetailerLink>
+        <RetailerLink
+          fill
+          url={buySetupUrl('thomann')}
+          label={`Buy ${drummer.name}'s setup at Thomann`}
+          onTrack={() => trackBuySetup('thomann')}
           style={[styles.buySetupButton, styles.buySetupButtonEU]}
-          accessibilityRole="link"
-          accessibilityLabel={`Buy ${drummer.name}'s setup at Thomann`}
         >
           <Text style={styles.buySetupButtonText}>Buy This Setup (EU)</Text>
-        </TouchableOpacity>
+        </RetailerLink>
       </View>
 
       <TouchableOpacity
@@ -14299,7 +14391,18 @@ function DrummerHistorySection({ band, drummers, onSelectDrummer, theme }) {
 function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  const band = getBand(bandSlug);
+  // data/bands is lazy-loaded (TBT, #537). A direct landing on /bands/<slug>
+  // rendered before the chunk arrived, got null from getBand() and showed
+  // "Band Not Found" forever because nothing re-rendered once it loaded —
+  // every one of the 49 sitemap band pages was broken for real visitors.
+  const [bandsReady, setBandsReady] = useState(isBandsLoaded());
+  useEffect(() => {
+    let mounted = true;
+    preloadBands().then(() => { if (mounted) setBandsReady(true); });
+    return () => { mounted = false; };
+  }, []);
+  const band = bandsReady ? getBand(bandSlug) : null;
+  useNoindexWhile(bandsReady && !band);
 
   // Update SEO meta tags for band page
   useEffect(() => {
@@ -14419,6 +14522,15 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
       }
     };
   }, [band, bandSlug]);
+
+  // Band data still loading: neutral placeholder, never the not-found copy.
+  if (!bandsReady) {
+    return (
+      <View style={[styles.detailContainer, { backgroundColor: theme.background, alignItems: 'center', justifyContent: 'center' }]}>
+        <ActivityIndicator size="large" color={theme.primary} />
+      </View>
+    );
+  }
 
   // Band not found
   if (!band) {
@@ -19815,8 +19927,31 @@ function BattleWidget({ theme, drummers, onNavigateToBattle }) {
 
 /**
  * BattlePage - Full battle voting page with results
+ *
+ * data/battles is lazy-loaded; on a direct landing on /battles or
+ * /battles/<slug> generateWeeklyBattle() returned null before the chunk
+ * arrived and the page crashed on `battle.drummer1Id` (blank screen in
+ * production). The wrapper waits for the module, so the inner component only
+ * ever runs with battle data available.
  */
-function BattlePage({ theme, drummers, onBack, battleSlug }) {
+function BattlePage(props) {
+  const [ready, setReady] = useState(isBattlesLoaded());
+  useEffect(() => {
+    let mounted = true;
+    preloadBattles().then(() => { if (mounted) setReady(true); });
+    return () => { mounted = false; };
+  }, []);
+  if (!ready) {
+    return (
+      <View style={[styles.detailContainer, { backgroundColor: props.theme.background, alignItems: 'center', justifyContent: 'center' }]}>
+        <ActivityIndicator size="large" color={props.theme.primary} />
+      </View>
+    );
+  }
+  return <BattlePageInner {...props} />;
+}
+
+function BattlePageInner({ theme, drummers, onBack, battleSlug }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   
@@ -21032,6 +21167,7 @@ function DrummerList({
             drummers={drummers}
             onNavigateToBattle={() => {
               const battle = generateWeeklyBattle();
+              if (!battle) return;
               const d1 = drummers.find(d => d.id === battle.drummer1Id);
               const d2 = drummers.find(d => d.id === battle.drummer2Id);
               if (d1 && d2) {
@@ -21146,6 +21282,17 @@ function isQuizPage() {
   const pathname = window.location.pathname;
   return pathname === '/quiz' || pathname.startsWith('/quiz?') || 
          pathname === '/find-your-match' || pathname.startsWith('/find-your-match?');
+}
+
+// The privacy policy is a static page (public/privacy.html, served at
+// /privacy). The SPA still has a `showPrivacy` state for /privacy-policy, but
+// the component it rendered no longer existed, so that URL threw
+// "PrivacyPolicyPage is not defined". Send the visitor to the real page.
+function PrivacyPolicyPage() {
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') window.location.replace('/privacy.html');
+  }, []);
+  return null;
 }
 
 // Check if we're on the privacy policy page based on URL
@@ -21534,10 +21681,15 @@ function updateGearNewsMeta() {
       {
         "@type": "CollectionPage",
         "name": "Latest Gear Updates",
-        "description": description,
+        // `description` was an undefined identifier here (left behind when the
+        // OG tags moved to updateGearNewsOgMeta), so /gear-news threw a
+        // ReferenceError on mount and rendered a blank page. Reuse the meta
+        // description that helper just wrote. No dateModified: "now" on every
+        // page view is not a real modification date.
+        "description": document.querySelector('meta[name="description"]')?.getAttribute('content')
+          || 'Recent gear changes from metal drummers',
         "url": "https://metalforge.io/gear-news",
         "isPartOf": { "@id": "https://metalforge.io" },
-        "dateModified": new Date().toISOString(),
       },
       {
         "@type": "ItemList",
@@ -23124,12 +23276,14 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
 
   const affiliateLinks = getAffiliateLinks(gear.name, gear.category);
 
-  const handleShopPress = (url) => {
-    if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      window.open(url, '_blank', 'noopener,noreferrer');
-    } else {
-      Linking.openURL(url);
-    }
+  // This page's retailer buttons previously fired no analytics event at all.
+  const trackShopClick = (store) => {
+    trackEvent('gear_click', {
+      gear_name: gear.name,
+      gear_type: gear.category,
+      store,
+      drummer_slug: '',
+    });
   };
 
   const categoryLabels = {
@@ -23208,22 +23362,24 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
           </View>
         </View>
         <View style={styles.buySetupContainer}>
-          <TouchableOpacity
-            onPress={() => handleShopPress(affiliateLinks.sweetwater)}
+          <RetailerLink
+            fill
+            url={affiliateLinks.sweetwater}
+            label={`Buy ${gear.name} at Sweetwater (US)`}
+            onTrack={() => trackShopClick('sweetwater')}
             style={[styles.buySetupButton, styles.buySetupButtonUS]}
-            accessibilityRole="link"
-            accessibilityLabel={`Buy ${gear.name} at Sweetwater (US)`}
           >
             <Text style={styles.buySetupButtonText}>Buy at Sweetwater (US)</Text>
-          </TouchableOpacity>
-          <TouchableOpacity
-            onPress={() => handleShopPress(affiliateLinks.thomann)}
+          </RetailerLink>
+          <RetailerLink
+            fill
+            url={affiliateLinks.thomann}
+            label={`Buy ${gear.name} at Thomann (EU)`}
+            onTrack={() => trackShopClick('thomann')}
             style={[styles.buySetupButton, styles.buySetupButtonEU]}
-            accessibilityRole="link"
-            accessibilityLabel={`Buy ${gear.name} at Thomann (EU)`}
           >
             <Text style={styles.buySetupButtonText}>Buy at Thomann (EU)</Text>
-          </TouchableOpacity>
+          </RetailerLink>
         </View>
       </View>
 
@@ -25375,6 +25531,8 @@ function NewsletterFooter({ theme }) {
       setIsSubscribed(true);
       setEmail('');
       setGdprConsent(false);
+      // Signups were invisible in GA4 (only the automatic form_start existed).
+      trackEvent('newsletter_subscribe', { method: 'footer_panel' });
       
       // Save to localStorage
       try {
@@ -32224,6 +32382,7 @@ setShowList(false);
       }} />;
     }
     return (
+      <UnknownRouteBoundary drummers={drummers} rosterLoaded={drummers.length > 0 && !loadingDrummers} theme={theme}>
       <View style={styles.mainContent} accessibilityRole="main">
         <DrummerList
           theme={theme}
@@ -32268,6 +32427,7 @@ setShowList(false);
           onShowAllDrummers={() => setShowAllDrummers(true)}
         />
       </View>
+      </UnknownRouteBoundary>
     );
   };
 
@@ -33280,6 +33440,7 @@ const styles = StyleSheet.create({
   },
   shopLinksContainer: {
     flexDirection: 'row',
+    flexWrap: 'wrap',              // two retailer links do not fit side by side on narrow phones
     marginTop: spacing[2],         // 8px
     gap: spacing[2],               // 8px
   },

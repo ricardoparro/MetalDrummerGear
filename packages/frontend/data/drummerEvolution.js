@@ -2411,7 +2411,7 @@ export const DRUMMER_EVOLUTION = {
     slug: 'dave-lombardo',
     name: 'Dave Lombardo',
     band: 'Slayer',
-    totalYearsActive: '1981-Present',
+    totalYearsActive: '1981-1986, 1987-1992, 2001-2013',
     profileImage: '/images/drummers/dave-lombardo.webp',
     summary: 'The Godfather of Double Bass evolved from budget gear in South Gate garages to custom setups across multiple legendary bands.',
     

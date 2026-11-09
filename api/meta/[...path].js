@@ -653,6 +653,51 @@ function documentedEndorsementFaqs(drummer) {
   }] : [];
 }
 
+// A drummer's own articles must outrank articles that merely mention them.
+// The old filter took the first three matches in object order, so e.g. Joey
+// Jordison's profile linked three Lars Ulrich articles (which list him under
+// relatedDrummers) and none of his own Slipknot album breakdowns.
+function pickRelatedArticles(drummer, slug, max = 3) {
+  const all = Object.values(ALBUM_ARTICLES);
+  const own = all.filter(a => a.drummerId === drummer.id || a.relatedDrummerSlug === slug);
+  const mentions = all.filter(a => !own.includes(a) && (a.relatedDrummers || []).includes(drummer.id));
+  return [...own, ...mentions].slice(0, max);
+}
+
+// Idempotent HTML-attribute escaping for values interpolated into
+// content="..." / href="..." (titles like "Enter Sandman" by Metallica used to
+// terminate the attribute early). Existing entities are left untouched.
+function escapeAttr(value) {
+  return String(value ?? '')
+    .replace(/&(?!(?:[a-z][a-z0-9]*|#\d+|#x[0-9a-f]+);)/gi, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
+// og:image / twitter:image must be an absolute URL that actually resolves.
+// public/images/ only ships drummers/ — /images/albums/, /images/og/ and
+// /images/guides/ have never existed, so anything pointing there (or any other
+// unknown same-origin static path) falls back to the site default.
+const SOCIAL_IMAGE_REMAP = {
+  '/images/og/quiz-preview.png': '/og-quiz.png',
+  '/images/og/stats-preview.png': '/api/og/stats',
+  '/images/og/tools-preview.png': '/api/og/tools',
+};
+const SOCIAL_IMAGE_OK_PREFIXES = ['/images/drummers/', '/api/og', '/api/card/', '/og-image.png', '/og-quiz.png'];
+
+export function resolveSocialImage(image) {
+  if (!image || typeof image !== 'string') return DEFAULT_IMAGE;
+  let path = null;
+  if (image.startsWith('/')) path = image;
+  else if (image.startsWith(`${BASE_URL}/`)) path = image.slice(BASE_URL.length);
+  if (path === null) return /^https:\/\//.test(image) ? image : DEFAULT_IMAGE;
+  const bare = path.split('?')[0];
+  if (SOCIAL_IMAGE_REMAP[bare]) return `${BASE_URL}${SOCIAL_IMAGE_REMAP[bare]}`;
+  if (SOCIAL_IMAGE_OK_PREFIXES.some(prefix => bare.startsWith(prefix))) return `${BASE_URL}${path}`;
+  return DEFAULT_IMAGE;
+}
+
 export function getMetaForPath(pathname) {
   const path = pathname.toLowerCase();
 
@@ -2071,7 +2116,7 @@ export function getMetaForPath(pathname) {
   // Individual gear comparison pages (tama-vs-pearl, meinl-vs-zildjian, etc.)
   // Issue #1664: FAQPage + Article JSON-LD for AI Overview eligibility
   const gearCompareMatch = path.match(/^\/compare\/([a-z0-9-]+)$/);
-  if (gearCompareMatch) {
+  if (gearCompareMatch && /^[a-z0-9-]+-vs-[a-z0-9-]+$/.test(gearCompareMatch[1])) {
     const slug = gearCompareMatch[1];
     const [brand1, brand2] = slug.split('-vs-').map(b =>
       b.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
@@ -4114,10 +4159,7 @@ export function getMetaForPath(pathname) {
       // X play?") — promotes Joey's hand-override pattern to the default template.
       const bandText = drummer.band ? `${drummer.band} ` : '';
       // Issue #1357: build related article backlinks for SSR body
-      const allArticles = Object.values(ALBUM_ARTICLES);
-      const autoRelatedArticles = allArticles
-        .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === slug)
-        .slice(0, 3);
+      const autoRelatedArticles = pickRelatedArticles(drummer, slug);
       // Issue #8970: DRUMMER_META_OVERRIDES.extraRelatedArticles pins specific
       // article slugs (e.g. anniversary/tribute pieces) that are genuine
       // matches but sort outside the slice(0,3) cutoff above, guaranteeing
@@ -5653,7 +5695,9 @@ export function getMetaForPath(pathname) {
   if (drummerCategoryMatch) {
     const [, drummerSlug, category] = drummerCategoryMatch;
     const drummer = getDrummerBySlug(drummerSlug);
-    if (drummer) {
+    // Only real gear categories: /drummer/<slug>/<anything> used to render a
+    // 200 page titled "<Name> <Anything> — Drum Gear & Setup".
+    if (drummer && isValidCategory(category)) {
       const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1);
       // Issue #4883: reuse the curated per-category FAQ/schema module App.js
       // already imports for real visitors (generateFAQItems/CATEGORY_META in
@@ -6149,10 +6193,7 @@ export function getMetaForPath(pathname) {
       // over guessing one from the display name (wrong/dead links for stage names).
       const wikiSource = extBio?.sections?.sources?.items?.find(i => i.name?.startsWith('Wikipedia:'));
       const bandText = drummer.band ? `${drummer.band} ` : '';
-      const allArticles = Object.values(ALBUM_ARTICLES);
-      const relatedArticles = allArticles
-        .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === slug)
-        .slice(0, 3);
+      const relatedArticles = pickRelatedArticles(drummer, slug);
       // Issue #4611: prefer the full FAQ authored in extendedBios.js (often 8+
       // questions) over the generic 3-question template — this is the block
       // Googlebot/GSC/Perplexity actually crawl for /drummer/:slug.
@@ -8095,13 +8136,26 @@ export function getMetaForPath(pathname) {
     };
   }
 
-  // Default fallback
+  // Default fallback. Every bot-conditioned rewrite targets a known route
+  // family, so reaching this point means the family matched but the slug did
+  // not resolve — i.e. the page does not exist. It used to be served as a 200
+  // with the homepage title and a self-referencing canonical (a soft 404 that
+  // Google reported as duplicate / crawled-not-indexed); the handler now
+  // answers 404 + noindex for it.
   return {
-    title: `${SITE_NAME} — Metal Drummer Gear Database`,
-    description: DEFAULT_DESCRIPTION,
+    notFound: true,
+    noindex: true,
+    title: `Page Not Found | ${SITE_NAME}`,
+    description: `This page does not exist on ${SITE_NAME}. Browse the drummer database, gear guides and album setup breakdowns instead.`,
     image: DEFAULT_IMAGE,
     type: 'website',
     url: `${BASE_URL}${pathname}`,
+    ssrLinks: [
+      { href: '/', label: `${SITE_NAME} home` },
+      { href: '/drummers', label: 'All metal drummers' },
+      { href: '/articles', label: 'Album drum setup breakdowns' },
+      { href: '/guides', label: 'Gear guides' },
+    ],
     // Issue #5722: only non-null when lickPageMatch matched above without
     // returning — proves in production which half of that branch failed.
     debugHeaders: _debugLickPage || undefined,
@@ -8308,6 +8362,10 @@ export function generateMetaHtml(meta, originalUrl) {
   const personSchemaScript = generatePersonSchema(meta);
   const speakableSchemaScript = generateSpeakableSchema(meta);
   const datasetSchemaScript = generateDatasetSchema(meta);
+  const titleAttr = escapeAttr(meta.title);
+  const descriptionAttr = escapeAttr(meta.description);
+  const urlAttr = escapeAttr(meta.url);
+  const imageAttr = escapeAttr(resolveSocialImage(meta.image));
   
   return `<!DOCTYPE html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
@@ -8322,21 +8380,21 @@ export function generateMetaHtml(meta, originalUrl) {
 
   <!-- Primary Meta Tags -->
   <title>${meta.title}</title>
-  <meta name="title" content="${meta.title}">
-  <meta name="description" content="${meta.description}">
+  <meta name="title" content="${titleAttr}">
+  <meta name="description" content="${descriptionAttr}">
   ${meta.noindex ? '<meta name="robots" content="noindex, nofollow">' : ''}
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="${meta.type}">
-  <meta property="og:url" content="${meta.url}">
+  <meta property="og:url" content="${urlAttr}">
   <meta property="og:site_name" content="${SITE_NAME}">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="${meta.title}">
-  <meta property="og:description" content="${meta.description}">
-  <meta property="og:image" content="${meta.image}">
+  <meta property="og:title" content="${titleAttr}">
+  <meta property="og:description" content="${descriptionAttr}">
+  <meta property="og:image" content="${imageAttr}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="${meta.title}">
+  <meta property="og:image:alt" content="${titleAttr}">
   ${meta.type === 'article' ? (() => {
     // Issue #4373: branches that pre-serialize articleSchema as a JSON-LD
     // string (e.g. /articles/:slug isArticle, /lists/:slug) can't expose
@@ -8355,13 +8413,13 @@ export function generateMetaHtml(meta, originalUrl) {
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="${TWITTER_HANDLE}">
   <meta name="twitter:creator" content="${TWITTER_HANDLE}">
-  <meta name="twitter:title" content="${meta.title}">
-  <meta name="twitter:description" content="${meta.description}">
-  <meta name="twitter:image" content="${meta.image}">
-  <meta name="twitter:image:alt" content="${meta.title}">
+  <meta name="twitter:title" content="${titleAttr}">
+  <meta name="twitter:description" content="${descriptionAttr}">
+  <meta name="twitter:image" content="${imageAttr}">
+  <meta name="twitter:image:alt" content="${titleAttr}">
   
   <!-- Canonical URL -->
-  <link rel="canonical" href="${meta.url}">
+  ${meta.notFound ? '' : `<link rel="canonical" href="${urlAttr}">`}
   
   <!-- Favicon -->
   <link rel="icon" href="${BASE_URL}/favicon.ico">
@@ -8374,14 +8432,16 @@ export function generateMetaHtml(meta, originalUrl) {
   ${faqSchemaScript}
   ${personSchemaScript}
   ${speakableSchemaScript}
-  <!-- Redirect browsers to actual SPA -->
-  <noscript>
-    <meta http-equiv="refresh" content="0; url=${originalUrl}">
-  </noscript>
+  <!-- Only a direct hit on the function URL is sent to the public page.
+       The old script redirected every UA that did not look like a bot, but
+       this document is only ever served to UAs the server already chose, so
+       a UA the server routed here and the client regex did not recognise
+       (Google-InspectionTool) reloaded forever: Search Console's live test
+       and the Rich Results Test could not render any page. The <noscript>
+       meta refresh to the same URL is gone for the same reason. -->
   <script>
-    // Redirect if not a crawler
-    if (!/bot|crawl|spider|facebook|twitter|linkedin|whatsapp|slack|discord|telegram|pinterest/i.test(navigator.userAgent)) {
-      window.location.replace("${originalUrl}");
+    if (location.pathname.indexOf('/api/meta') === 0) {
+      window.location.replace(${JSON.stringify(originalUrl)});
     }
   </script>
 </head>
@@ -8464,7 +8524,7 @@ export function generateMetaHtml(meta, originalUrl) {
       <h2>Metal Drummers Who Use This Gear</h2>
       <ul>${meta.ssrDrummerLinks.map(l => `<li><a href="${l.href}">${l.label}</a></li>`).join('')}</ul>
     </section>` : ''}
-    <p><a href="${meta.url}">Visit MetalForge →</a></p>
+    <p><a href="${meta.notFound ? BASE_URL : urlAttr}">Visit MetalForge →</a></p>
   </main>
 </body>
 </html>`;
@@ -8515,8 +8575,13 @@ export default function handler(req, res) {
   // Set response headers
   res.setHeader('Content-Type', 'text/html; charset=utf-8');
   res.setHeader('Vary', 'Accept, User-Agent');
-  res.setHeader('Cache-Control', 'public, s-maxage=3600, stale-while-revalidate=86400');
+  // Unknown slugs answer 404 (see the fallback in getMetaForPath) and are
+  // cached briefly so a page that ships later is picked up quickly.
+  res.setHeader('Cache-Control', meta.notFound
+    ? 'public, s-maxage=300'
+    : 'public, s-maxage=3600, stale-while-revalidate=86400');
+  if (meta.notFound) res.setHeader('X-Robots-Tag', 'noindex');
 
   // Return HTML
-  res.status(200).send(generateMetaHtml(meta, originalUrl));
+  res.status(meta.notFound ? 404 : 200).send(generateMetaHtml(meta, originalUrl));
 }

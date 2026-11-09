@@ -19,8 +19,10 @@ export const config = {
 // export, and Vercel's filesystem check runs *after* middleware but *before*
 // vercel.json rewrites, so the static file always wins for that one route.
 // Same bot UA list as vercel.json's other bot-conditioned rewrites — keep in
-// sync if that list changes.
-const BOT_UA_RE = /.*(Googlebot|Google-InspectionTool|Bingbot|bingbot|GPTBot|OAI-SearchBot|ChatGPT-User|ClaudeBot|Claude-SearchBot|Claude-User|Claude-Web|anthropic-ai|PerplexityBot|Perplexity-User|Applebot-Extended|cohere-ai|Google-Extended).*/i;
+// sync if that list changes (tests/crawler-routing.test.mjs enforces it).
+// Tokens are crawler-specific on purpose: in-app browsers (Pinterest for iOS,
+// LinkedInApp, FBAN/FBAV, Twitter for iPhone) must keep getting the SPA.
+const BOT_UA_RE = /.*(Googlebot|Google-InspectionTool|GoogleOther|Bingbot|bingbot|GPTBot|OAI-SearchBot|ChatGPT-User|ClaudeBot|Claude-SearchBot|Claude-User|Claude-Web|anthropic-ai|PerplexityBot|Perplexity-User|Applebot|cohere-ai|Google-Extended|DuckDuckBot|DuckAssistBot|YandexBot|CCBot|Amazonbot|meta-external|MistralAI-User|facebookexternalhit|Facebot|Twitterbot|Slackbot|WhatsApp|Discordbot|LinkedInBot|TelegramBot|Pinterestbot|redditbot|Cardyb).*/i;
 
 function withVary(response, varyOn) {
   // Caches must key on the same headers we branch on, so a bot/markdown
@@ -54,8 +56,12 @@ export default function middleware(request) {
   if (path === '/') {
     target = '/api/home/markdown';
   } else {
-    const match = path.match(/^\/drummer\/([^/]+)$/);
-    if (match) target = `/api/drummer/${match[1]}/markdown`;
+    // Serve the build-generated per-drummer profile (public/llms/drummers/,
+    // one file for each of the 72 drummers, ~12 KB each). This used to rewrite
+    // to /api/drummer/<slug>/markdown, which only knows 23 drummers, 404s for
+    // the rest, and returns a one-line bio.
+    const match = path.match(/^\/drummer\/([a-z0-9-]+)$/);
+    if (match) target = `/llms/drummers/${match[1]}.md`;
   }
 
   if (!target) {

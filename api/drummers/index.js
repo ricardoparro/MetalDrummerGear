@@ -1466,7 +1466,7 @@ const drummers = [
     bands: [
       { name: 'Mayhem', period: '1988–present', current: true },
       { name: 'Arcturus', period: '1991–present', current: true },
-      { name: 'Dimmu Borgir', period: '2005–2010', current: false }
+      { name: 'Dimmu Borgir', period: '1999–2013', current: false }
     ],
     genre: 'Black Metal',
     country: 'Norway',

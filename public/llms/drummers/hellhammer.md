@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/hellhammer"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-09"
 ---
 
 # Hellhammer — Drum Kit & Gear Setup
@@ -96,7 +96,7 @@ Hellhammer's drumming defined the black metal drum template while incorporating 
 
 - **Mayhem** — 1988–present (current)
 - **Arcturus** — 1991–present (current)
-- **Dimmu Borgir** — 2005–2010
+- **Dimmu Borgir** — 1999–2013
 
 ## Gear
 
@@ -237,4 +237,4 @@ Dated brand-endorsement timeline: [Hellhammer's endorsement history](https://met
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-09 · Source: [MetalForge.io](https://metalforge.io)*

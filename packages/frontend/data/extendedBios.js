@@ -6133,7 +6133,7 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
     bands: [
       { slug: 'mayhem', period: '1988-present', role: 'Drummer' },
       { slug: 'arcturus', period: '1991-1997, 2004-present', role: 'Drummer' },
-      { slug: 'dimmu-borgir', period: '2005-2010', role: 'Session/studio drummer' },
+      { slug: 'dimmu-borgir', period: '1999-2013', role: 'Session/studio drummer' },
       { slug: 'shining', period: '2005-present', role: 'Session drummer' }
     ],
     metaTitle: 'Hellhammer Drum Kit & Gear Setup — Mayhem Drummer | MetalForge',

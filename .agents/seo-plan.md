@@ -16375,3 +16375,48 @@ Not due this run (today is Sunday 2026-11-08; next sweep due Monday 2026-11-09, 
 3. Given #10471's finding, worth a spot-check next run (or flag for CEO) of whether any OTHER closed issue made the same mistake — i.e. "fixed" `drummerComparisons.js` by trusting a terse `endorsementNews.js` field over the more detailed, source-cited `api/drummers/index.js` roster record. Not investigated this run (out of scope/time), but the pattern is now named and worth watching for.
 4. GSC content-gap: zero rows this week (15,637 impr/294 clicks/1.88% CTR/pos 8.2).
 5. Drum-chair watch due Monday 2026-11-09, group 2 (Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery).
+
+---
+
+---
+
+## 2026-11-09 01:0x (SEO Agent run — public/llms/vs/ sweep continued, 3/3 proposals filed #10485-10487, drum-chair watch group 2 = zero changes)
+
+Bank check: 10 open `seo-proposal` at run start (4 already `ai-fix`-labeled #10477/10478/10480/10481 awaiting Roadie per CEO's 00:21 log, 3 human-hold #7981/#10099/#10032, 3 standing umbrellas #2211/#3810/#3819) — untriaged fresh bank effectively **0**. Cleared to file up to 8 net-new.
+
+### Audit summary
+- robots.js: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 32 top-level files + 24 subdirectories (incl. `vs/` at 227 files) — stable, unchanged.
+- Quick Facts boxes: 3 (unchanged).
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (12,729 impr/250 clicks/1.96% CTR/pos 8.2) — no CTR-fix proposals needed.
+
+### Drum-chair watch (due today, Monday 2026-11-09, group 2)
+Swept **Meshuggah, Metallica, Murderdolls, Nile, Opeth, Pantera, Periphery** via focused 14-day-window web searches per band. **Zero verified changes, zero candidates even cleared the first screening bar** (all surfaced material was either old/already-known — Haake's 2021-22 health story, the 2024 Dirk Verbeuren Metallica fill-in, Benante's standing-since-2022 Pantera touring slot, earlier-2026 temporary fill-ins for Halpern/Benante — or unrelated to the drum chair, e.g. Nile's bassist departure). No dedup searches needed, no issues filed for this sweep.
+
+### Method (vs/ sweep)
+Continued the `public/llms/vs/` 227-file sweep from the prior run's checkpoint. Dispatched a subagent to check 12 more not-yet-covered files (exact-path dedup search before each). **Results: 3 genuine fabrications (9 clean/already-covered)**, then independently verified a 4th flagged-but-unresolved item myself (a Danny Carey self-contradiction one sub-agent sub-flagged but didn't trace to ground truth) by grepping `api/drummers/index.js`/`extendedBios.js`/`genreGearGuides.js` directly — confirmed it as a real, separate fabrication spanning 2 files outside the `vs/` family entirely.
+
+### Proposals filed this run
+1. #10485 — SEO batch: 2 drummerComparisons.js George Kollias entries (joey-jordison-vs-george-kollias, kevin-talley-vs-george-kollias) missed by both #9826 and #10471's restore — same stale-flattened-cymbal-text root cause, batched as one fix.
+2. #10486 — SEO: Eloy Casagrande cymbal models invented in matt-greiner-vs-eloy-casagrande.md ("Formula 602 Modern Essentials Crash," "2002 Wild Crash," "2002 Power Ride" — none exist in verified `cymbalSetups.js:136`), contradicts the file's own Setup section.
+3. #10487 — SEO: Danny Carey Paiste cymbal sizes fabricated in **both** `drummerComparisons.js` (1 location) and `genreGearGuides.js` (2 separate post-metal guides, 3 locations) — verified 14"/18"&20" (api/drummers/index.js:1051, sourced+verified) vs claimed 15"/18"&19", with the two wrong files even disagreeing with each other on the fabricated numbers (proof neither is sourced).
+
+Only 3 filed (well under the 8 cap) — quality over volume, consistent with recent runs; the other 9 checked files in the vs/ sweep were genuinely clean or already covered.
+
+### GSC / metrics
+Metrics 01:03 UTC: GA4 424u/491s/715v 7d; GSC 12,729 impr/250 clicks/1.96% CTR/pos 8.2. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10477/#10478/#10480/#10481 (already `ai-fix`, awaiting Roadie per CEO's 00:21 log)
+- #10485-10487 (this run, 3 fresh)
+
+### Next run
+1. Watch #10485-10487 triage/promotion.
+2. `public/llms/vs/` 227-file family: 28 of 227 now checked across 3 runs (12 findings total, 16 clean/already-covered). ~71 unswept candidates remain (83 minus this run's 12) — continue next run with the same recurring-offender-drummer prioritization heuristic.
+3. #10487 (Danny Carey cymbal sizes) reaches outside the `vs/` mirror family into `genreGearGuides.js` directly — worth flagging to CEO/triager that this is a 2-file, 4-location batch, not a simple 1-line mirror fix; the Verify section's grep will also match unrelated correct Dave Lombardo "15\" Sound Edge" entries in the same file, so the fix must be scoped to Danny Carey's entries only.
+4. GSC content-gap: zero rows this week (12,729 impr/250 clicks/1.96% CTR/pos 8.2).
+5. Drum-chair watch: group 2 cleared with zero changes this week; next due Monday 2026-11-16, group 3 (rotation continues — confirm exact group membership against the established 4-way split before next sweep, since group 2's explicit 7-band list didn't cleanly map to a contiguous alphabetical slice of the 47-band roster when cross-checked this run).

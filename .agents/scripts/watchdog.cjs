@@ -120,6 +120,13 @@ const RUNNER_CAPACITY_RE = /was not acquired by Runner/i;
 // one has a normal log, just truncated mid-run, so it's checked via
 // fetchJobLog alongside the quota signature rather than via annotations.
 const RUNNER_SHUTDOWN_RE = /runner has received a shutdown signal/i;
+// #10501: a run can fail with ZERO jobs ever created — no job object, no
+// check-run, no annotation to inspect (CEO Agent + Health Check both hit this
+// within 3min of each other on 2026-11-09, identical workflow YAML as the
+// prior successful run). GitHub's UI labels this "likely failed because of a
+// workflow file issue", but it's indistinguishable from a transient dispatch
+// hiccup upstream of job creation — same self-healing bucket as the
+// never-acquired-runner case, just one level earlier in the pipeline.
 
 // ===========================================================================
 // GitHub REST helper — same style as generate-digest.cjs collectGitHubData().
@@ -262,6 +269,9 @@ function evalWorkflowFailure(wf, run) {
     if (run.quotaInfo && run.quotaInfo.infra) {
       if (run.quotaInfo.infraReason === 'shutdown') {
         return [`${INFRA_PREFIX}${wf.name} (${wf.file}) — GitHub Actions runner VM got recycled mid-job ("received a shutdown signal") — transient GitHub Actions infra hiccup, self-healing, no action needed (${run.created_at})`];
+      }
+      if (run.quotaInfo.infraReason === 'no-jobs') {
+        return [`${INFRA_PREFIX}${wf.name} (${wf.file}) — run failed with zero jobs ever created ("workflow file issue") — transient GitHub Actions dispatch hiccup, self-healing, no action needed (${run.created_at})`];
       }
       return [`${INFRA_PREFIX}${wf.name} (${wf.file}) — GitHub-hosted runner never acquired (queued job timed out waiting) — transient GitHub Actions capacity hiccup, self-healing, no action needed (${run.created_at})`];
     }
@@ -570,7 +580,11 @@ function fetchJobAnnotations(jobId) {
 async function classifyFailure(run) {
   try {
     const data = await ghRequest('GET', `/repos/${REPO}/actions/runs/${run.id}/jobs?per_page=30`);
-    const failed = ((data && data.jobs) || []).filter(j => FAILED_CONCLUSIONS.has(j.conclusion));
+    const jobs = (data && data.jobs) || [];
+    if (jobs.length === 0) {
+      return { quota: false, infra: true, infraReason: 'no-jobs' };
+    }
+    const failed = jobs.filter(j => FAILED_CONCLUSIONS.has(j.conclusion));
     for (const job of failed) {
       let annotations = [];
       try { annotations = (await fetchJobAnnotations(job.id)) || []; } catch { annotations = []; }
@@ -881,6 +895,24 @@ function selfTest() {
   check('telegram: runner-shutdown-only → pause headline', buildTelegramText(shutdownAlerts, now).startsWith('⏳'), true);
   check('issue body: runner-shutdown-only → no "Needs attention" section',
     /Needs attention/.test(buildIssueBody(shutdownAlerts, now)), false);
+
+  // Fixture A6 (#10501): a run that fails with ZERO jobs ever created (no job
+  // object, no check-run, no annotation to inspect at all — GitHub's own UI
+  // calls this "likely failed because of a workflow file issue"). Same
+  // self-healing 🔧 bucket: observed alongside an unrelated workflow (Health
+  // Check) failing the same way 3min later with an unchanged, byte-identical
+  // workflow file — a transient GitHub-side dispatch hiccup, not a repo bug.
+  const noJobsRun = {
+    status: 'completed', conclusion: 'failure', created_at: now.toISOString(),
+    quotaInfo: { quota: false, infra: true, infraReason: 'no-jobs' },
+  };
+  const noJobsAlerts = evalWorkflowFailure(wf, noJobsRun);
+  check('zero-jobs failure → 1 alert', noJobsAlerts.length, 1);
+  check('zero-jobs alert carries the 🔧 prefix', noJobsAlerts[0].startsWith(INFRA_PREFIX), true);
+  check('zero-jobs alert names the zero-jobs signature', /zero jobs/i.test(noJobsAlerts[0]), true);
+  check('telegram: zero-jobs-only → pause headline', buildTelegramText(noJobsAlerts, now).startsWith('⏳'), true);
+  check('issue body: zero-jobs-only → no "Needs attention" section',
+    /Needs attention/.test(buildIssueBody(noJobsAlerts, now)), false);
 
   // Fixture B: a healthy, recent success → 0 alerts (failure + stale both clear).
   const healthyRun = {

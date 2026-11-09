@@ -34,7 +34,7 @@ Casagrande's technique is built for modern extreme dynamics — explosive double
 
 ## Key Differences
 
-Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), powered by a Tama Iron Cobra double pedal. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by a Tama Speed Cobra 910 double pedal and his own Tama signature sticks. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed and technically dense fills delivered with blast beats that stay notably even and articulate rather than smeared, a hallmark of Sepultura's tribal-thrash legacy. Verbeuren applies his Soilwork-trained technical metal vocabulary to Megadeth's thrash framework, seamlessly shifting from groove thrash to blast-beat-driven extreme speed within the same song.
+Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell), powered by a Tama Iron Cobra double pedal. Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by a Tama Speed Cobra 910 double pedal and his own Tama signature sticks. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed and technically dense fills delivered with blast beats that stay notably even and articulate rather than smeared, a hallmark of Sepultura's tribal-thrash legacy. Verbeuren applies his Soilwork-trained technical metal vocabulary to Megadeth's thrash framework, seamlessly shifting from groove thrash to blast-beat-driven extreme speed within the same song.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: Megadeth's "Dystopia" (2016) won the Grammy for Best Metal Performance, but i
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-09 · Source: [MetalForge.io](https://metalforge.io)*

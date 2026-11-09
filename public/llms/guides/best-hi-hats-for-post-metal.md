@@ -11,7 +11,7 @@
 
 Post-metal hi-hat choice hinges on one question no other metal subgenre asks quite as directly: can a single pair sound genuinely atmospheric at a whisper and still cut through a wall of downtuned guitars at full volume? The genre's long-form crescendos — quiet, textural builds erupting into crushing, cathartic peaks — demand a hi-hat with real dynamic range rather than a pair optimized purely for speed or purely for wash.
 
-No roster drummer records under a literal "post-metal" tag, so this guide features the genre's closest working analogues by shared atmosphere and dynamic range. Brann Dailor of Mastodon plays 14" Meinl Byzance Dark Hi-Hats, delivering a dry, focused chick that anchors both Mastodon's crushing riffs and its jazz-influenced restraint. Danny Carey of Tool plays 15" Paiste Signature Sound Edge Hi-Hats, built for an open, washy feel across whisper-quiet, odd-time grooves. Mario Duplantier of Gojira pairs 14" Zildjian K Sweet and A Custom Hi-Hats for flexible textures across atmospheric, environmentally-themed passages, while Abe Cunningham of Deftones plays 14" Zildjian K Custom Hi-Hats chosen specifically to serve the band's stated blend of "heavy and ambient music."
+No roster drummer records under a literal "post-metal" tag, so this guide features the genre's closest working analogues by shared atmosphere and dynamic range. Brann Dailor of Mastodon plays 14" Meinl Byzance Dark Hi-Hats, delivering a dry, focused chick that anchors both Mastodon's crushing riffs and its jazz-influenced restraint. Danny Carey of Tool plays 14" Paiste Signature Sound Edge Hi-Hats, built for an open, washy feel across whisper-quiet, odd-time grooves. Mario Duplantier of Gojira pairs 14" Zildjian K Sweet and A Custom Hi-Hats for flexible textures across atmospheric, environmentally-themed passages, while Abe Cunningham of Deftones plays 14" Zildjian K Custom Hi-Hats chosen specifically to serve the band's stated blend of "heavy and ambient music."
 
 This guide breaks down what makes a great post-metal hi-hat — wide dynamic range, atmospheric voicing, and controlled response at both extremes — and which specific models these four influential drummers rely on, from budget starter pairs to the professional setups behind post-metal's most dynamically ambitious records.
 
@@ -19,7 +19,7 @@ This guide breaks down what makes a great post-metal hi-hat — wide dynamic ran
 
 - No roster drummer records under a literal 'post-metal' tag — this guide features the genre's closest working analogues by shared dynamic range and atmosphere
 - Brann Dailor's 14" Meinl Byzance Dark Hi-Hats anchor Mastodon's shift between restraint and crushing weight
-- Danny Carey's 15" Paiste Signature Sound Edge Hi-Hats are built for cinematic range, from whisper-quiet grooves to full-volume weight
+- Danny Carey's 14" Paiste Signature Sound Edge Hi-Hats are built for cinematic range, from whisper-quiet grooves to full-volume weight
 - Abe Cunningham's 14" Zildjian K Custom Hi-Hats were chosen specifically for Deftones' 'heavy and ambient' sonic identity
 
 ---
@@ -40,7 +40,7 @@ Dailor's Meinl Byzance Dark Hi-Hats favor warm, controlled tone that adds atmosp
 
 ### ✨ Open, Washy Texture for Quiet Passages
 
-Danny Carey's 15" Sound Edge Hi-Hats give an open, washy feel on odd-time grooves — exactly the kind of textural voice that carries a slow-building post-metal passage before the crescendo hits.
+Danny Carey's 14" Sound Edge Hi-Hats give an open, washy feel on odd-time grooves — exactly the kind of textural voice that carries a slow-building post-metal passage before the crescendo hits.
 
 **Recommendation:** A pair with an open, washy option for textural build-up sections
 
@@ -91,30 +91,30 @@ Where faster metal subgenres chase cutting brightness, Dailor's Byzance Dark hi-
 
 ### 2. Paiste Signature Sound Edge Hi-Hats — Paiste
 
-**Model:** Signature Sound Edge Hi-Hats 15"  
+**Model:** Signature Sound Edge Hi-Hats 14"  
 **Price range:** €350-460 per pair  
 **Tier:** premium  
 **Material:** CuSn8 Bronze  
 **Rating:** 4.8/5
 
-Danny Carey's 15" Sound Edge Hi-Hats from the Paiste Signature Series are built for the widest possible dynamic range, giving an open, washy feel on odd-time grooves that can whisper under a sparse, atmospheric verse before opening fully during a climactic build.
+Danny Carey's 14" Sound Edge Hi-Hats from the Paiste Signature Series are built for the widest possible dynamic range, giving an open, washy feel on odd-time grooves that can whisper under a sparse, atmospheric verse before opening fully during a climactic build.
 
 Carey's setup evolved across two landmark eras — Lateralus's Fibonacci-sequence polyrhythms and Fear Inoculum's deeper, more cinematic sound — proof of just how far one hi-hat pair can be pushed toward atmosphere-to-crescendo range.
 
 **Pros:**
 - Danny Carey's proven Tool configuration
 - Sound Edge design built for open, atmospheric texture
-- Larger 15" diameter adds extra wash and shimmer for slow builds
+- Open voicing adds extra wash and shimmer for slow builds
 - Proven across Tool's most dynamically ambitious records
 - Premium Swiss craftsmanship and consistency
 
 **Cons:**
 - Very high price point
-- Larger 15" diameter is less common and pricier to replace
+- Open Sound Edge voicing needs a controlled touch to avoid washing out faster passages
 - CuSn8 bronze has a distinct character that takes adjustment
 
 **Who uses it:**
-- Danny Carey (Tool) — 15" Sound Edge Hi-Hats — cinematic range from whisper-quiet grooves to full-volume weight
+- Danny Carey (Tool) — 14" Sound Edge Hi-Hats — cinematic range from whisper-quiet grooves to full-volume weight
 
 **Verdict:** The premium choice for post-metal-adjacent drummers chasing maximum atmosphere-to-catharsis range.
 
@@ -264,7 +264,7 @@ Post-metal's hi-hat choices split into two complementary camps, defined by how e
 ## FAQ
 
 **What hi-hats are used in post-metal?**
-Brann Dailor of Mastodon plays 14" Meinl Byzance Dark Hi-Hats for a dry, focused chick. Danny Carey of Tool plays 15" Paiste Signature Sound Edge Hi-Hats for an open, washy feel. Mario Duplantier of Gojira pairs 14" Zildjian K Sweet and A Custom Hi-Hats for flexible atmospheric textures. Abe Cunningham of Deftones plays 14" Zildjian K Custom Hi-Hats, chosen for the band's 'heavy and ambient' sonic identity.
+Brann Dailor of Mastodon plays 14" Meinl Byzance Dark Hi-Hats for a dry, focused chick. Danny Carey of Tool plays 14" Paiste Signature Sound Edge Hi-Hats for an open, washy feel. Mario Duplantier of Gojira pairs 14" Zildjian K Sweet and A Custom Hi-Hats for flexible atmospheric textures. Abe Cunningham of Deftones plays 14" Zildjian K Custom Hi-Hats, chosen for the band's 'heavy and ambient' sonic identity.
 
 **Does any roster drummer play post-metal specifically?**
 No roster drummer currently records under a literal 'post-metal' tag. This guide instead draws on the genre's closest working analogues — Brann Dailor, Danny Carey, Mario Duplantier, and Abe Cunningham — whose progressive sludge, cinematic progressive rock, and atmospheric alternative metal lineages share post-metal's foundational commitment to dynamic range between restraint and crushing weight.
@@ -273,7 +273,7 @@ No roster drummer currently records under a literal 'post-metal' tag. This guide
 Post-metal's long-form crescendos move from quiet, textural builds to crushing, cathartic peaks within a single song. A hi-hat voiced only for speed or only for wash can't serve both ends — Abe Cunningham's K Custom Hi-Hats and Danny Carey's Sound Edge Hi-Hats both stay musical at a whisper while holding control at full volume.
 
 **What size hi-hats for post-metal?**
-14" is standard across three of the four featured drummers — Brann Dailor, Mario Duplantier, and Abe Cunningham. Danny Carey's 15" Sound Edge pair is the outlier, chosen for extra wash and shimmer on Tool's whisper-quiet, odd-time passages.
+14" is standard across all four featured drummers, including Danny Carey's Paiste Signature Sound Edge pair. Carey's open Sound Edge voicing is what sets his pair apart within that size, chosen for extra wash and shimmer on Tool's whisper-quiet, odd-time passages.
 
 **Dark or open-voiced hi-hats for post-metal?**
 Both work at the highest level. Dark, focused hi-hats (Meinl Byzance Dark, Dailor's choice; Zildjian K Custom, Cunningham's choice) suit restrained, crushing-to-ambient shifts. Open, washy hi-hats (Paiste Sound Edge, Carey's choice; Zildjian K Sweet/A Custom, Duplantier's choice) suit longer, texturally ambitious build-ups. Choose based on how your material moves between atmosphere and catharsis.

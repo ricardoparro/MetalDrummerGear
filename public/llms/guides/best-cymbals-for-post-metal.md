@@ -97,13 +97,13 @@ A 21" Ghost Ride adds shimmering rhythmic undertones beneath Mastodon's polyrhyt
 
 ### 2. Paiste Signature Series — Paiste
 
-**Model:** Signature Series (15" Sound Edge Hi-Hats, 18"&19" Power Crashes, 22" Dry Heavy Ride, 20"&22" Chinas)  
+**Model:** Signature Series (14" Sound Edge Hi-Hats, 18"&20" Power Crashes, 22" Dry Heavy Ride, 20"&22" Chinas)  
 **Price range:** €260-520 per cymbal  
 **Tier:** premium  
 **Material:** CuSn8 Bronze  
 **Rating:** 4.8/5
 
-Danny Carey's Paiste Signature setup is built for the widest possible dynamic range: 15" Sound Edge Hi-Hats give an open, washy feel on odd-time grooves; 18" and 19" Power Crashes cut through dense guitar walls once the material erupts; and a 22" Dry Heavy Ride offers dark, controlled articulation across everything in between.
+Danny Carey's Paiste Signature setup is built for the widest possible dynamic range: 14" Sound Edge Hi-Hats give an open, washy feel on odd-time grooves; 18" and 20" Power Crashes cut through dense guitar walls once the material erupts; and a 22" Dry Heavy Ride offers dark, controlled articulation across everything in between.
 
 Layered with 20" and 22" Chinas plus Rude crashes for explosive accents, Carey's setup evolved across two landmark eras — Lateralus's Fibonacci-sequence polyrhythms and Fear Inoculum's deeper, more cinematic sound — proof of just how far one cymbal platform can be pushed toward atmosphere-to-crescendo range.
 
@@ -287,7 +287,7 @@ Dark, warm-leaning cymbals generally suit post-metal better because they add atm
 The Meinl HCS Dark Series (€130-240) offers a budget entry into the dark, atmospheric voicing behind Brann Dailor's professional setup. The Zildjian Planet Z Series (€150-270) is a solid alternative from the same brand family as Mario Duplantier's and Abe Cunningham's rigs.
 
 **What cymbals does Danny Carey of Tool use?**
-Danny Carey plays a sprawling Paiste Signature setup: 15" Sound Edge Hi-Hats, 18" and 19" Power Crashes, a 22" Dry Heavy Ride, and 20" and 22" Chinas plus Rude crashes, built for the widest possible range from whisper-quiet grooves to full-volume weight.
+Danny Carey plays a sprawling Paiste Signature setup: 14" Sound Edge Hi-Hats, 18" and 20" Power Crashes, a 22" Dry Heavy Ride, and 20" and 22" Chinas plus Rude crashes, built for the widest possible range from whisper-quiet grooves to full-volume weight.
 
 ---
 

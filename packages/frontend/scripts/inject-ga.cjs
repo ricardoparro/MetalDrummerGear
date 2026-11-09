@@ -51,15 +51,51 @@ const perfHints = `
     <link rel="dns-prefetch" href="https://www.googletagmanager.com">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">`;
 
-const gaScript = `
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
+// GA4 loader with the CI/bot exclusion guard.
+//
+// `expo export` regenerates dist/index.html and drops everything custom in
+// web/index.html — including the multi-layer guard there (production-host
+// check, WebDriver detection, the protected `ci_test` URL flag from
+// AGENTS.md, bot UA patterns, CI referrers). The snippet this script used to
+// inject called gtag('config') unconditionally, so in production the guard
+// did not exist: CI runs, health checks and crawlers were all recorded as
+// visits (mostly as "Direct"). The guard body is now lifted verbatim from
+// web/index.html at build time so there is one source of truth, and the build
+// fails loudly if it can no longer be found.
+function extractGaGuard() {
+  const template = fs.readFileSync(path.join(__dirname, '../web/index.html'), 'utf-8');
+  const match = template.match(/function initGA4\(\) \{\n([\s\S]*?)\n\s*\/\/ === LOAD GA4/);
+  if (!match || !match[1].includes('urlHasCITest')) {
+    console.error('❌ Could not extract the GA4 CI/bot guard (urlHasCITest) from web/index.html');
+    process.exit(1);
+  }
+  return match[1];
+}
+
+function buildGaScript() {
+  return `
+    <!-- Google Analytics (guarded: CI/bot exclusion, see AGENTS.md) -->
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', '${GA_ID}');
+      // No-op until the guard passes, so callers that check window.gtag never
+      // send anything for CI, bots or non-production hosts.
+      window.gtag = function(){};
+      (function initGA4() {
+${extractGaGuard()}
+
+        // === LOAD GA4 (All checks passed) ===
+        window.gtag = function gtag(){dataLayer.push(arguments);};
+        window.gtag('js', new Date());
+        window.gtag('config', '${GA_ID}');
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=${GA_ID}';
+        document.head.appendChild(script);
+      })();
     </script>`;
+}
+
+const gaScript = buildGaScript();
 
 // Google AdSense loader (Issue: AdSense integration). Injected post-export
 // because `expo export` regenerates dist/index.html and drops custom <head>
@@ -232,9 +268,11 @@ const homepageSchema = JSON.stringify([
 const homepageSchemaScript = `
     <script type="application/ld+json" data-schema="main">${homepageSchema}</script>`;
 
+module.exports = { buildGaScript, GA_ID };
+
 const indexPath = path.join(__dirname, '../dist/index.html');
 
-try {
+if (require.main === module) try {
   let html = fs.readFileSync(indexPath, 'utf8');
   let injectedSomething = false;
   

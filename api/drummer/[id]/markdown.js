@@ -89,10 +89,12 @@ The drummer "${id}" was not found in our database.
   const today = new Date().toISOString().split('T')[0];
 
   // Issue #1357: Build related article backlinks (reverse of article→profile links)
+  // Own articles first, then articles that only mention this drummer (the
+  // first-three-in-object-order filter listed Lars Ulrich articles for Joey).
   const allArticles = Object.values(ALBUM_ARTICLES);
-  const relatedArticles = allArticles
-    .filter(a => a.drummerId === localDrummer.id || (a.relatedDrummers || []).includes(localDrummer.id) || a.relatedDrummerSlug === localDrummer.slug)
-    .slice(0, 3);
+  const ownArticles = allArticles.filter(a => a.drummerId === localDrummer.id || a.relatedDrummerSlug === localDrummer.slug);
+  const mentionArticles = allArticles.filter(a => !ownArticles.includes(a) && (a.relatedDrummers || []).includes(localDrummer.id));
+  const relatedArticles = [...ownArticles, ...mentionArticles].slice(0, 3);
 
   const articlesSection = relatedArticles.length > 0
     ? `\n---\n\n## Gear Deep Dives & Articles\n\n${relatedArticles.map(a =>

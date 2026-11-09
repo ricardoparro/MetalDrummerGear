@@ -16420,3 +16420,41 @@ Metrics 01:03 UTC: GA4 424u/491s/715v 7d; GSC 12,729 impr/250 clicks/1.96% CTR/p
 3. #10487 (Danny Carey cymbal sizes) reaches outside the `vs/` mirror family into `genreGearGuides.js` directly — worth flagging to CEO/triager that this is a 2-file, 4-location batch, not a simple 1-line mirror fix; the Verify section's grep will also match unrelated correct Dave Lombardo "15\" Sound Edge" entries in the same file, so the fix must be scoped to Danny Carey's entries only.
 4. GSC content-gap: zero rows this week (12,729 impr/250 clicks/1.96% CTR/pos 8.2).
 5. Drum-chair watch: group 2 cleared with zero changes this week; next due Monday 2026-11-16, group 3 (rotation continues — confirm exact group membership against the established 4-way split before next sweep, since group 2's explicit 7-band list didn't cleanly map to a contiguous alphabetical slice of the 47-band roster when cross-checked this run).
+
+---
+
+## 2026-11-09 (SEO Agent run — public/llms/vs/ sweep continued, 2/2 proposals filed #10492-10493)
+
+Bank check: 9 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 3 fresh #10485-10487 from the 01:0x run, untriaged) — well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- robots.js: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 32 top-level files + 24 subdirectories (`vs/` 227 files, `guides/` 354 files) — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (15,137 impr/307 clicks/2.03% CTR/pos 8.1) — no CTR-fix proposals needed.
+- Drum-chair watch: already completed by the 01:0x run this week (group 2, zero changes) — skipped per the "once per Monday" rule.
+
+### Method (vs/ sweep continued)
+Continued the `public/llms/vs/` 227-file sweep from the prior run's checkpoint (28/227 checked across 3 prior runs). Dispatched 5 parallel agents to check 34 more candidate files (drawn from a sample excluding every drummer name already checked this week), each cross-referencing canonical source files and dedup-searching before reporting. Yield was thin (2 genuine findings across 34 files) — the easy pickings in this family are getting scarcer as the week's sweep progresses. One subagent initially misreported a finding backwards (flagged `hellhammer-vs-john-otto.md`'s "1999-2013" Dimmu Borgir tenure as the error) — personally re-verified against `drummerEvolution.js`'s dedicated era block and 3 closed issues (#10356/#9917/#8062) and found the reverse was true: the vs/ file was already correct, and `api/drummers/index.js`/`extendedBios.js` are the actual stale root-cause files nobody had fixed yet. Filed that as the root-cause issue instead of a mirror-level one.
+
+### Proposals filed this run
+1. #10492 — SEO: Hellhammer's Dimmu Borgir tenure still stale "2005-2010" in `api/drummers/index.js` + `extendedBios.js` — verified 1999-2013 by 3 closed issues (root cause; regenerates `public/llms/drummers/hellhammer.md`).
+2. #10493 — SEO: Martin Lopez fabricated Morbid Angel "Heretic" session credit in `drummerComparisons.js` (3 locations, wholesale-invented — zero Morbid Angel anywhere in his verified band history) — regenerates `public/llms/vs/sean-reinert-vs-martin-lopez.md`.
+
+Only 2 filed (well under the 8 cap) — quality over volume; both are root-cause fixes (not mirror-only patches) caught via independent re-verification, consistent with recent runs' practice of not trusting subagent citations at face value.
+
+### GSC / metrics
+Metrics 07:03 UTC: GA4 436u/506s/737v 7d; GSC 15,137 impr/307 clicks/2.03% CTR/pos 8.1. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10485-10487 (01:0x run, 3 fresh, untriaged at this run's start)
+- #10492-10493 (this run, 2 fresh)
+
+### Next run
+1. Watch #10492-10493 triage/promotion; #10492 is the higher-leverage one (fixes 2 source-of-truth files + regenerates a drummer profile mirror, not just a comparison-pair mirror).
+2. `public/llms/vs/` 227-file family: 62 of 227 now checked across 4 runs (14 findings total, 48 clean/already-covered). Yield is thinning (2/34 this run vs 12/83 two runs ago) — next run should weigh continuing this family vs. pivoting to a fresher vein (e.g. `genreGearGuides.js` second pass, or `soundLikeGuides.js` exhaustion check) if yield keeps dropping below ~1-in-15.
+3. GSC content-gap: zero rows this week (15,137 impr/307 clicks/2.03% CTR/pos 8.1).
+4. Drum-chair watch: group 2 already cleared this week (01:0x run, zero changes); next due Monday 2026-11-16, group 3.

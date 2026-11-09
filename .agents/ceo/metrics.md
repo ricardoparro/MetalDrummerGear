@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-08 19:07 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-09 00:20 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,55 +8,55 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 469 |
-| Sessions | 539 |
-| Page views | 779 |
-| Engagement rate | 64.01% |
-| Avg session (s) | 116 |
+| Active users | 418 |
+| Sessions | 485 |
+| Page views | 707 |
+| Engagement rate | 64.95% |
+| Avg session (s) | 111 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummers | 39 | 7 |
-| / | 37 | 24 |
+| /drummers | 35 | 6 |
+| / | 30 | 17 |
 | /bpm | 19 | 3 |
 | /articles/john-otto-drum-setup | 18 | 15 |
 | /quiz | 15 | 3 |
-| /drummer/eloy-casagrande | 14 | 11 |
+| /drummer/eloy-casagrande | 13 | 9 |
 | /articles/paranoid-drum-setup | 11 | 9 |
 | /drummer/matt-greiner | 11 | 10 |
 | /articles/black-sabbath-drum-setup | 10 | 7 |
-| /articles/slipknot-self-titled-drum-setup | 10 | 10 |
+| /drummer/bill-ward | 10 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 421 | 356 |
-| Direct | 103 | 98 |
+| Organic Search | 400 | 338 |
+| Direct | 70 | 65 |
 | Referral | 11 | 11 |
-| Unassigned | 8 | 8 |
+| Unassigned | 10 | 10 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 203 | 175 |
-| United Kingdom | 35 | 29 |
-| Singapore | 29 | 29 |
-| Germany | 23 | 22 |
-| Canada | 21 | 17 |
-| Sweden | 21 | 15 |
+| United States | 165 | 135 |
+| United Kingdom | 34 | 30 |
+| Singapore | 27 | 27 |
+| Canada | 22 | 18 |
+| Sweden | 22 | 16 |
+| Germany | 18 | 18 |
 | Australia | 17 | 16 |
-| Brazil | 13 | 11 |
-| Italy | 12 | 10 |
-| Poland | 11 | 10 |
+| Netherlands | 12 | 11 |
+| France | 11 | 11 |
+| Brazil | 10 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 15,637 |
-| Clicks | 294 |
-| CTR | 1.88% |
+| Impressions | 12,729 |
+| Clicks | 250 |
+| CTR | 1.96% |
 | Avg position | 8.2 |
 
 ### Top queries
@@ -66,26 +66,26 @@
 | eloy casagrande slipknot drum kit | 7 | 3 | 42.86% | 4.6 |
 | bill ward cymbals | 8 | 2 | 25.00% | 7.8 |
 | joey jordison self titled drum kit | 4 | 2 | 50.00% | 1.5 |
-| best nu metal drummers of all time | 7 | 1 | 14.29% | 3.1 |
+| best nu metal drummers of all time | 5 | 1 | 20.00% | 2.2 |
 | bill ward drum kit 1970 | 5 | 1 | 20.00% | 3.6 |
-| bill ward drum setup | 6 | 1 | 16.67% | 5.0 |
-| chris adler drum setup | 9 | 1 | 11.11% | 5.8 |
-| death metal drum kit | 11 | 1 | 9.09% | 4.0 |
+| bill ward drum setup | 5 | 1 | 20.00% | 4.6 |
+| chris adler drum setup | 8 | 1 | 12.50% | 5.4 |
+| death metal drum kit | 5 | 1 | 20.00% | 3.8 |
 | deathcore drum kit | 2 | 1 | 50.00% | 3.5 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,970 | 98 | 1.97% | 7.9 |
-| deu | 491 | 21 | 4.28% | 6.8 |
-| gbr | 841 | 18 | 2.14% | 8.5 |
-| aus | 551 | 13 | 2.36% | 6.9 |
-| can | 681 | 13 | 1.91% | 7.0 |
-| pol | 218 | 13 | 5.96% | 6.3 |
-| fin | 212 | 9 | 4.25% | 7.2 |
-| swe | 265 | 9 | 3.40% | 7.2 |
-| bra | 1,587 | 8 | 0.50% | 11.1 |
-| ita | 269 | 8 | 2.97% | 8.2 |
+| usa | 4,175 | 85 | 2.04% | 8.0 |
+| gbr | 692 | 16 | 2.31% | 8.5 |
+| deu | 412 | 15 | 3.64% | 6.8 |
+| aus | 447 | 13 | 2.91% | 6.9 |
+| can | 592 | 12 | 2.03% | 6.9 |
+| pol | 171 | 12 | 7.02% | 6.4 |
+| fin | 185 | 9 | 4.86% | 7.0 |
+| swe | 225 | 8 | 3.56% | 7.1 |
+| bra | 1,198 | 6 | 0.50% | 11.1 |
+| fra | 343 | 6 | 1.75% | 8.1 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

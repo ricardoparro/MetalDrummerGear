@@ -34,7 +34,7 @@ Talley's fast, precise single-stroke blasting became a blueprint for brutal deat
 
 ## Key Differences
 
-Kevin plays a Pearl Masters Custom / Reference Series kit with a 14x6.5" Pearl Masters steel snare, Sabian AAX Series cymbals, and a Pearl Eliminator double pedal. George's Pearl Masterworks Stadium Exotic kit features his own 14x6.5" Pearl George Kollias Signature snare, Zildjian cymbals, and a co-designed Pearl Demon XR double pedal engineered for linear, rapid-fire bass drum work. Talley's fast, precise single-stroke blasting became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning multiple influential bands including Chimaira and Suffocation. Kollias employs heel-toe double bass technique to sustain blast beats north of 240 BPM with surgical clarity, a technical benchmark that pushed extreme-metal speed into more compositionally demanding territory while remaining musical within Nile's dense arrangements.
+Kevin plays a Pearl Masters Custom / Reference Series kit with a 14x6.5" Pearl Masters steel snare, Sabian AAX Series cymbals, and a Pearl Eliminator double pedal. George's Pearl Masterworks Stadium Exotic kit features his own 14x6.5" Pearl George Kollias Signature snare, Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), and a co-designed Pearl Demon XR double pedal engineered for linear, rapid-fire bass drum work. Talley's fast, precise single-stroke blasting became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning multiple influential bands including Chimaira and Suffocation. Kollias employs heel-toe double bass technique to sustain blast beats north of 240 BPM with surgical clarity, a technical benchmark that pushed extreme-metal speed into more compositionally demanding territory while remaining musical within Nile's dense arrangements.
 
 ## Influence & Legacy
 
@@ -56,7 +56,7 @@ A: Kevin Talley's signature is relentless, high-velocity single-stroke blast bea
 A: Kevin Talley has played with Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. George Kollias has been Nile's drummer since 2004 and previously played in Nightfall.
 
 **Q: What gear do Kevin Talley and George Kollias use?**
-A: Kevin Talley plays a Pearl Masters Custom / Reference Series kit with a 14x6.5" Pearl Masters steel snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. George Kollias plays a Pearl Masterworks Stadium Exotic kit with his own 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals, driven by a co-designed Pearl Demon XR double pedal.
+A: Kevin Talley plays a Pearl Masters Custom / Reference Series kit with a 14x6.5" Pearl Masters steel snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. George Kollias plays a Pearl Masterworks Stadium Exotic kit with his own 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), driven by a co-designed Pearl Demon XR double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Kevin Talley plays a Pearl Masters Custom / Reference Series kit with a 14x6.
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-09 · Source: [MetalForge.io](https://metalforge.io)*

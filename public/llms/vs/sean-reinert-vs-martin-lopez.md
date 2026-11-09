@@ -4,7 +4,7 @@
 
 **Category:** Extreme / Death / Black Metal · **URL:** https://metalforge.io/vs/sean-reinert-vs-martin-lopez
 
-Sean Reinert (Death / Cynic) vs Martin Lopez (Opeth / Morbid Angel). Two drummers who bridged jazz and extreme metal compared — jazz-death fusion pioneers from opposite ends of the prog-death spectrum.
+Sean Reinert (Death / Cynic) vs Martin Lopez (Opeth). Two drummers who bridged jazz and extreme metal compared — jazz-death fusion pioneers from opposite ends of the prog-death spectrum.
 
 ---
 
@@ -47,16 +47,13 @@ Sean Reinert and Martin Lopez are two of the most jazz-sophisticated drummers in
 ## FAQ
 
 **Q: Who are the most jazz-influenced death metal drummers?**
-A: Sean Reinert (Death, Cynic) and Martin Lopez (Opeth, Morbid Angel) are among the most jazz-influenced drummers in extreme metal. Others include Richard Christy, Tomas Haake, and Brann Dailor. Reinert's work on Cynic's "Focus" (1993) and Lopez's Opeth catalog (1998–2005) remain the clearest examples of jazz vocabulary applied within a death metal framework.
+A: Sean Reinert (Death, Cynic) and Martin Lopez (Opeth) are among the most jazz-influenced drummers in extreme metal. Others include Richard Christy, Tomas Haake, and Brann Dailor. Reinert's work on Cynic's "Focus" (1993) and Lopez's Opeth catalog (1998–2005) remain the clearest examples of jazz vocabulary applied within a death metal framework.
 
 **Q: What albums did Sean Reinert record with Death and Cynic?**
 A: Sean Reinert recorded "Human" (1991) with Death — widely considered one of death metal's most technically advanced albums. He also recorded "Focus" (1993) and "Traced in Air" (2008) with Cynic, his primary band. His work on "Human" helped define technical death metal; "Focus" pioneered jazz-death fusion.
 
 **Q: What Opeth albums did Martin Lopez play on?**
 A: Martin Lopez played on Opeth's "My Arms, Your Hearse" (1998), "Still Life" (1999), "Blackwater Park" (2001), "Deliverance" (2002), "Damnation" (2003), and "Ghost Reveries" (2005). These six albums are widely considered Opeth's definitive era, and Lopez's drumming is central to what makes them exceptional.
-
-**Q: Did Martin Lopez play with Morbid Angel?**
-A: Yes — Martin Lopez appeared on Morbid Angel's "Heretic" (2003) as a session/guest contributor. His primary association, however, is with Opeth, where he spent nearly a decade shaping the band's progressive death metal sound before departing in 2006 due to health issues.
 
 ---
 
@@ -67,4 +64,4 @@ A: Yes — Martin Lopez appeared on Morbid Angel's "Heretic" (2003) as a session
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-09 · Source: [MetalForge.io](https://metalforge.io)*

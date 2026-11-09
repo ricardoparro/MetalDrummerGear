@@ -1244,7 +1244,7 @@ export const drummerComparisons = {
     slug: 'sean-reinert-vs-martin-lopez',
     title: 'Sean Reinert vs Martin Lopez',
     metaTitle: 'Sean Reinert vs Martin Lopez — Jazz-Influenced Death Metal Drumming Compared | MetalForge',
-    metaDescription: 'Sean Reinert (Death / Cynic) vs Martin Lopez (Opeth / Morbid Angel). Two drummers who bridged jazz and extreme metal compared — jazz-death fusion pioneers from opposite ends of the prog-death spectrum.',
+    metaDescription: 'Sean Reinert (Death / Cynic) vs Martin Lopez (Opeth). Two drummers who bridged jazz and extreme metal compared — jazz-death fusion pioneers from opposite ends of the prog-death spectrum.',
     category: 'extreme',
     drummers: ['sean-reinert', 'martin-lopez'],
     comparison: {
@@ -1255,10 +1255,9 @@ export const drummerComparisons = {
     },
     verdict: 'Sean Reinert and Martin Lopez are two of the most jazz-sophisticated drummers in extreme metal\'s history, each shaping a different branch of the prog-death tradition. Reinert\'s early-1990s work on "Human" and "Focus" established the creative possibility space; Lopez\'s late-1990s and early-2000s work with Opeth defined what reaching into that space could sound like on a sustained artistic arc. Both pushed extreme metal toward something more nuanced, more human, and more beautiful than the genre\'s brutal origins might have suggested was possible.',
     faqs: [
-      { q: 'Who are the most jazz-influenced death metal drummers?', a: 'Sean Reinert (Death, Cynic) and Martin Lopez (Opeth, Morbid Angel) are among the most jazz-influenced drummers in extreme metal. Others include Richard Christy, Tomas Haake, and Brann Dailor. Reinert\'s work on Cynic\'s "Focus" (1993) and Lopez\'s Opeth catalog (1998–2005) remain the clearest examples of jazz vocabulary applied within a death metal framework.' },
+      { q: 'Who are the most jazz-influenced death metal drummers?', a: 'Sean Reinert (Death, Cynic) and Martin Lopez (Opeth) are among the most jazz-influenced drummers in extreme metal. Others include Richard Christy, Tomas Haake, and Brann Dailor. Reinert\'s work on Cynic\'s "Focus" (1993) and Lopez\'s Opeth catalog (1998–2005) remain the clearest examples of jazz vocabulary applied within a death metal framework.' },
       { q: 'What albums did Sean Reinert record with Death and Cynic?', a: 'Sean Reinert recorded "Human" (1991) with Death — widely considered one of death metal\'s most technically advanced albums. He also recorded "Focus" (1993) and "Traced in Air" (2008) with Cynic, his primary band. His work on "Human" helped define technical death metal; "Focus" pioneered jazz-death fusion.' },
       { q: 'What Opeth albums did Martin Lopez play on?', a: 'Martin Lopez played on Opeth\'s "My Arms, Your Hearse" (1998), "Still Life" (1999), "Blackwater Park" (2001), "Deliverance" (2002), "Damnation" (2003), and "Ghost Reveries" (2005). These six albums are widely considered Opeth\'s definitive era, and Lopez\'s drumming is central to what makes them exceptional.' },
-      { q: 'Did Martin Lopez play with Morbid Angel?', a: 'Yes — Martin Lopez appeared on Morbid Angel\'s "Heretic" (2003) as a session/guest contributor. His primary association, however, is with Opeth, where he spent nearly a decade shaping the band\'s progressive death metal sound before departing in 2006 due to health issues.' },
     ],
   },
 

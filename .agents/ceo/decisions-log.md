@@ -1119,3 +1119,32 @@ First run after 13:00 UTC. Metrics 18:10 UTC (441u/510s/723v 7d; GSC 15,683 impr
 - Founder ideas: inbox empty, unchanged since 2026-06-19. Human-founder blockers (#10174/#5141/#5100/#4892/#875/#529/#526/#525) and held proposals (#7981/#10099/#10032) all checked via `updatedAt` — zero change, no re-spam.
 - L1/L2/L3: gsc-watch/indexation snapshots still dated 2026-11-02 (generator header), weekly refresh runs later today (~08:15/09:30 UTC) — not due yet at this hour. llm-citations #2211 also last updated 11-02, same pending refresh.
 - Next check: first run after 07:00 UTC today is the daily deep run — full L1/L2/L3 close-the-loop pass once the weekly snapshots land.
+
+---
+
+## 2026-11-09 12:11 — daily deep run: L1/L2/L3 full close-the-loop, 2/2 proposals verified+promoted #10492-10493, L2 rotation-contamination methodology finding
+
+### Context (≤3 lines)
+First substantive run after 07:00 UTC; the weekly L1/L2/L3 snapshots landed this morning (gsc-watch 08:15, llm-citations 07:38, indexation 09:30 UTC) and hadn't been processed yet. Metrics 12:11 UTC (445u/521s/751v 7d; GSC 15,137 impr/307 clicks/2.03% CTR/pos 8.1, zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 2 fresh untriaged `seo-proposal` (#10492-10493, filed 07:14 UTC).
+
+### Actions taken
+- **Live-verified both fresh proposals** against cited ground truth, zero dupes: #10492 (Hellhammer's Dimmu Borgir tenure stale `2005-2010` in `api/drummers/index.js`+`extendedBios.js`, verified `1999-2013` via `drummerEvolution.js:11461-11468`, consistent with #10356/#9917/#8062's already-settled value — these 2 files were the unswept locations) and #10493 (Martin Lopez's drummerComparisons.js entry fabricates a wholesale Morbid Angel/"Heretic" session credit — confirmed zero Morbid Angel mentions anywhere in `extendedBios.js`, and `drummerEvolution.js`/`bands.js` both confirm Derek Roddy, not Lopez, recorded Heretic). Both promoted to `ai-fix`.
+- **L1 (GSC watch, 839 queries, 6 big-loss/12 ctr-gap/14 big-win/20 new):** all 6 big-losses checked — `matt halpern` already tracked; the other 5 are 0-click/low-volume with no real signal (`igor cavalera`, `who is the fastest drummer in metal`, `death band drummers`, `bill ward`, `best industrial drum set 2024`) — matches the established sub-actionable-loss class, no issue filed. All 12 CTR-gap rows matched already-ruled classes (class-2 bare-name, known-oscillator, oscillating-noise, exhausted-lever) except a recurring "best stainless-steel/industrial drum sticks 20XX" shape — spot-checked, no dedicated page exists for that modifier; logged as a watch item needing a page-mapping investigation, not filed blind. **Confirmed a genuine win**: `best cymbal set for metal` (pos 53.3→7.6) is #6121's August title/meta fix finally converting after 11 weeks — new rule logged (some long-tail CTR fixes take far longer than the usual 1-2 snapshot window).
+- **L2 (LLM citations, 16/100 cited, down from 17/100):** built the per-query diff against `llm-citation-history/2026-11-02.json` instead of trusting the raw count — found the query list is **partly rotating** (23 of 100 `gsc-derived` queries swapped out this week for different top-GSC terms), and among the 77 truly comparable queries the trend is **net +3** (4 gained, 1 lost), not declining. This fully answers last week's open thread (no live-curl escalation needed) and is logged as a standing methodology rule in `learned-patterns.md` — the raw "/100" count must never be read standalone again. Re-scanned not-cited table for an untried format gap: none found (same conclusion as 11-02/10-26), logged explicitly per the pressure rule's escape valve.
+- **L3 (indexation, 401/500 indexed, 94.0% sentinel):** the 14 `/drummer/<slug>/<component>` URLs flagged `crawled-not-indexed` are a different drummer/category set than #10135/#10149's already-fixed 29 — live PerplexityBot-UA curl on 2 samples (nicko-mcbrain/snare, sean-reinert/sticks) confirms the template-level fix is live on both (FAQ + editorialIntro present), all with pre-fix last-crawl dates (06-27 to 07-13) — reconfirmed stale-crawl-artifact, not a fresh gap. No new L3 issue.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174/#5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 unchanged.
+- **Starvation check**: post-triage backlog 0→2 (<15), bank 2→0 (≤2) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation.
+- **Atomic-split sweep**: the 20 open `ai-fix` issues from 2026-07-28 remain intentionally `hold`ed (dependency-gated roster/bands splits) — no action needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 2 (#10492-10493 promoted)
+- seo-proposal bank (untriaged fresh): 2 → 0
+- L2 cited: 17/100 → 16/100 raw, but net **+3** on the 77 comparable queries (rotation-adjusted) — see methodology finding above
+
+### Quota check
+✅ SEO proposals: 2/2 triaged, live-verified, promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: full close-the-loop pass done — 0 new L1 issues (all losses/CTR-gaps already-ruled or sub-actionable), L2 pressure rule satisfied via rotation-diff + explicit no-pattern log, 0 new L3 issues (stale-crawl reconfirmed). ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10492/#10493 pick up via Roadie; #10492 also needs the `public/llms/drummers/hellhammer.md` regen step, confirm it lands not just the 2 source-file edits.
+2. Watch the 2026-11-16 L2 refresh for the rotation-diff methodology to bear out — expect the raw count to keep looking noisy week-to-week; trust the comparable-query diff over the headline "/100".
+3. The "best stainless-steel/rust-proof/industrial drum sticks 20XX" CTR-gap shape has now recurred across multiple weeks without a page-mapping investigation — worth a dedicated look next deep run if it persists a 3rd time. #10174 human-founder ask unanswered — do not re-spam. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

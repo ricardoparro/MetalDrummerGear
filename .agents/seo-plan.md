@@ -16458,3 +16458,49 @@ Metrics 07:03 UTC: GA4 436u/506s/737v 7d; GSC 15,137 impr/307 clicks/2.03% CTR/p
 2. `public/llms/vs/` 227-file family: 62 of 227 now checked across 4 runs (14 findings total, 48 clean/already-covered). Yield is thinning (2/34 this run vs 12/83 two runs ago) — next run should weigh continuing this family vs. pivoting to a fresher vein (e.g. `genreGearGuides.js` second pass, or `soundLikeGuides.js` exhaustion check) if yield keeps dropping below ~1-in-15.
 3. GSC content-gap: zero rows this week (15,137 impr/307 clicks/2.03% CTR/pos 8.1).
 4. Drum-chair watch: group 2 already cleared this week (01:0x run, zero changes); next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-09 ~13:0x UTC (SEO Agent run — pivoted from vs/ family to genreGearGuides.js per thinning-yield note, 2/2 proposals filed #10497-10498)
+
+Bank check: 8 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 2 fresh #10492-10493 from the 07:0x run, untriaged) — well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- robots.js: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 15,137 impr/307 clicks/2.03% CTR/pos 8.1, metrics.md refreshed 13:02 UTC — same underlying 7d window as the 07:0x run's read) — no CTR-fix proposals needed.
+- Drum-chair watch: already completed this Monday (01:0x run, group 2, zero changes) — skipped per the "once per Monday" rule.
+
+### Method
+Prior run's note flagged `public/llms/vs/` yield thinning (2/34, below the ~1-in-15 threshold) and recommended pivoting to `genreGearGuides.js` (a confirmed still-active fact-drift vein per `learned-patterns.md`) or a `soundLikeGuides.js` exhaustion check. Picked `genreGearGuides.js`, using the higher-yield method already validated by past runs: diffed the last-14-days ground-truth commit list (`endorsementNews.js`/`extendedBios.js`/`bands.js`/`cymbalSetups.js`/`snares.js`/`pedals.js`/`drummerEvolution.js`/`api/drummers/index.js`, 41 commits) against `genreGearGuides.js` content, rather than guessing drummer names. Spot-checked 8 recent ground-truth fixes for propagation gaps: Ben Koller pedal (already correctly propagated, no action), Frost pedal-era "since 2013" (re-verified against `drummerEvolution.js` — already correct, no action), Daniel Erlandsson Arch Enemy join year and Dave Lombardo Tama/Paiste era start year (zero genreGearGuides.js mentions found, nothing to fix), Mikkey Dee 1992 Tama/Sonor (only incidental comparison mentions, not asserting the fabricated fact — clean), and 2 genuine gaps:
+- **Art Cruz splash cymbal**: closed #10205/#10227 (2026-11-04) fixed only `cymbalSetups.js`'s structured piece array (9" "FX Trash Splash" → verified 10" splash, no model). Traced the claim across the whole repo and found it never propagated to `api/drummers/index.js` (the roster record `cymbalSetups.js`'s own `source:` comment names as the actual ground truth — 2 locations, `kitOverview` prose + `cymbals` field), `extendedBios.js` FAQ (1 location), `api/gear-finder/index.js` (1 location, a hand-inlined mirror not generated from the roster), and `genreGearGuides.js` (~11 locations across 2 of 3 splash-guide families — the 3rd, progressive-metal, was already correct). Also found 2 computed `studies/*.js` snapshots carrying the stale value, flagged to regenerate via `scripts/compute-studies.cjs` rather than hand-edit (per the computed-stats-only rule). This is the same "a narrow fix lands in the one file closest to the proposal's scope, siblings never get checked" shape as the Halpern/Brann-Dailor genreGearGuides.js lessons already logged, but notably the fix didn't even reach the file its own `source:` comment names as ground truth.
+- **Gene Hoglan Dark Angel start year**: this morning's #10478/#10489 (merged 03:17 UTC today) corrected `drummerEvolution.js` 1983→1984; `genreGearGuides.js:13426`'s FAQ answer still says 1983 — single-line fix, expected lag given the fix landed only hours before this run, not a new pattern.
+
+Personally verified every citation via direct `grep`/`sed`/`git show` against ground truth before filing (not on subagent say-so — no subagents dispatched this run, did the grep/verify work directly given the narrow, git-log-driven candidate list). Ran `gh issue list --state all --search` dedup passes on both before filing — no exact duplicates (closed #10205 is the cymbalSetups.js fix being extended, not a dupe of the file-propagation gap).
+
+### Proposals filed this run
+1. #10497 — SEO batch: Art Cruz splash cymbal fabrication ("9\" FX Trash Splash") survives in 4 hand-authored files after #10205 only fixed `cymbalSetups.js` (~15 locations across `api/drummers/index.js`, `extendedBios.js`, `api/gear-finder/index.js`, `genreGearGuides.js`; 2 more `studies/*.js` files will self-correct via `compute-studies.cjs` regen)
+2. #10498 — SEO: Gene Hoglan Dark Angel start year still "1983" in genreGearGuides.js FAQ, missed by today's #10478 fix (single-line)
+
+Only 2 filed (well under the 8 cap) — quality over volume; most of this run's 8 spot-checks came back clean (prior fixes had already propagated or the fabrication never existed in this file for that fact), consistent with recent runs' practice of not padding the bank with marginal finds.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 446u/522s/752v 7d; GSC 15,137 impr/307 clicks/2.03% CTR/pos 8.1. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Already completed this week (01:0x run, group 2 — Meshuggah/Metallica/Murderdolls/Nile/Opeth/Pantera/Periphery — zero verified changes). Not re-run this run per the once-per-Monday rule.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10492-10493 (07:0x run, 2 fresh, untriaged at this run's start)
+- #10497-10498 (this run, 2 fresh)
+
+### Next run
+1. Watch #10497-10498 triage/promotion; flag to whoever triages/implements #10497 that it touches a computed-stats pair (`studies/mostUsedGearBrands.js`/`drumEndorsementLandscape.js`) that must be regenerated via script, not hand-edited.
+2. The "diff last-14-days ground-truth commits against genreGearGuides.js" method continues to out-perform name-guessing (2 genuine gaps found from 8 targeted spot-checks this run) — repeat next run with a fresh 14-day window once this run's own fixes (#10497/#10498) are in the history.
+3. `public/llms/vs/` family remains at 62/227 checked (paused this run, not abandoned) — resume if genreGearGuides.js's git-log-diff method also starts thinning.
+4. GSC content-gap: zero rows this week (15,137 impr/307 clicks/2.03% CTR/pos 8.1).
+5. Drum-chair watch: group 2 cleared this week; next due Monday 2026-11-16, group 3.

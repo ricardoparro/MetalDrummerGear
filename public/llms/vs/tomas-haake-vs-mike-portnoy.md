@@ -34,7 +34,7 @@ Haake is known for metronomic precision and an innovative polymetric approach, l
 
 ## Key Differences
 
-Haake plays a Sonor SQ2 Heavy Beech kit with a Sonor Tomas Haake Signature 14x6.5" snare and Sabian HHX & AAX Series cymbals, driven by dual Tama Speed Cobra single pedals. Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals, powered by a Tama Iron Cobra Power Glide double pedal. Haake is known for metronomic precision and an innovative polymetric approach, layering odd groupings over Meshuggah's down-tuned, machine-like riffs to create the polyrhythmic grooves that became the template for djent. Portnoy combines jazz fusion influences with heavy metal power, favoring intricate double bass patterns, rapid-fire transitions, and creative use of electronics within Dream Theater's sprawling compositions.
+Haake plays a Sonor SQ2 Heavy Beech kit with a Sonor Tomas Haake Signature 14x6.5" snare and Sabian HHX & AAX Series cymbals, driven by dual Tama Speed Cobra single pedals. Portnoy plays a Tama Starclassic Maple + Bubinga ("Dream Monster") kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals, powered by a Tama Iron Cobra Power Glide double pedal. Haake is known for metronomic precision and an innovative polymetric approach, layering odd groupings over Meshuggah's down-tuned, machine-like riffs to create the polyrhythmic grooves that became the template for djent. Portnoy combines jazz fusion influences with heavy metal power, favoring intricate double bass patterns, rapid-fire transitions, and creative use of electronics within Dream Theater's sprawling compositions.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Tomas Haake and Mike Portnoy represent two generations and philosophies of progr
 A: Tomas Haake favors metronomic precision and an innovative polymetric approach that built the rhythmic template for djent with Meshuggah. Mike Portnoy favors virtuosic, theatrical technique with intricate double bass patterns and rapid-fire transitions within Dream Theater's progressive metal compositions.
 
 **Q: What gear does Tomas Haake use vs Mike Portnoy?**
-A: Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a Sonor Tomas Haake Signature 14x6.5" snare and Sabian HHX & AAX Series cymbals, driven by dual Tama Speed Cobra single pedals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals.
+A: Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a Sonor Tomas Haake Signature 14x6.5" snare and Sabian HHX & AAX Series cymbals, driven by dual Tama Speed Cobra single pedals. Mike Portnoy plays a Tama Starclassic Maple + Bubinga ("Dream Monster") kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals.
 
 **Q: What is Tomas Haake known for pioneering?**
 A: Tomas Haake is known for pioneering the polyrhythmic, polymetric drumming style with Meshuggah that became hugely influential in the development of djent and modern progressive metal.

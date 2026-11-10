@@ -34,7 +34,7 @@ Mike excels at rapid-fire transitions, extreme endurance across marathon composi
 
 ## Key Differences
 
-Mike plays Tama Starclassic Maple/Birch drums with Sabian cymbals on his iconic multi-bass signature setup. Gavin uses Sonor SQ2 drums, known for their craftsmanship and tonal depth, paired with a streamlined kit philosophy. Mike excels at rapid-fire transitions, extreme endurance across marathon compositions, and theatrical showmanship on massive multi-bass drum kits. Gavin masterfully weaves intricate polyrhythmic patterns through odd time signatures while maintaining groove and musicality.
+Mike plays Tama Starclassic Maple + Bubinga ("Dream Monster") drums with Sabian cymbals on his iconic multi-bass signature setup. Gavin uses Sonor SQ2 drums, known for their craftsmanship and tonal depth, paired with a streamlined kit philosophy. Mike excels at rapid-fire transitions, extreme endurance across marathon compositions, and theatrical showmanship on massive multi-bass drum kits. Gavin masterfully weaves intricate polyrhythmic patterns through odd time signatures while maintaining groove and musicality.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Mike Portnoy is the definitive progressive metal powerhouse — explosive, theat
 ## FAQ
 
 **Q: What are the main differences between Mike Portnoy's and Gavin Harrison's drum kits?**
-A: Mike Portnoy — Drums: Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Cymbals: Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes). Gavin Harrison — Drums: Sonor SQ2 Series. Cymbals: Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). Mike plays Tama Starclassic Maple/Birch drums with Sabian cymbals on his iconic multi-bass signature setup. Gavin uses Sonor SQ2 drums, known for their craftsmanship and tonal depth, paired with a streamlined kit philosophy.
+A: Mike Portnoy — Drums: Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Cymbals: Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes). Gavin Harrison — Drums: Sonor SQ2 Series. Cymbals: Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). Mike plays Tama Starclassic Maple + Bubinga ("Dream Monster") drums with Sabian cymbals on his iconic multi-bass signature setup. Gavin uses Sonor SQ2 drums, known for their craftsmanship and tonal depth, paired with a streamlined kit philosophy.
 
 **Q: What drums does Mike Portnoy play vs Gavin Harrison?**
 A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Gavin Harrison plays Sonor SQ2 Series.

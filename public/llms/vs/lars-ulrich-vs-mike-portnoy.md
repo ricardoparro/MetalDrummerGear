@@ -34,7 +34,7 @@ Ulrich favors powerful, punchy patterns locked tightly to Metallica's riffs, pri
 
 ## Key Differences
 
-Ulrich plays a Tama Starclassic Maple kit with a Tama LU1465 Signature 14x6.5" snare and Zildjian A Custom Series cymbals, driven by a Tama Iron Cobra 900 Power Glide double pedal. Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals, powered by a Tama Iron Cobra Power Glide double pedal. Ulrich favors powerful, punchy patterns locked tightly to Metallica's riffs, prioritizing the song's groove over displays of speed or complexity. Portnoy combines jazz fusion influences with heavy metal power, weaving intricate double bass patterns, rapid-fire transitions, and creative use of electronics into Dream Theater's sprawling compositions.
+Ulrich plays a Tama Starclassic Maple kit with a Tama LU1465 Signature 14x6.5" snare and Zildjian A Custom Series cymbals, driven by a Tama Iron Cobra 900 Power Glide double pedal. Portnoy plays a Tama Starclassic Maple + Bubinga ("Dream Monster") kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals, powered by a Tama Iron Cobra Power Glide double pedal. Ulrich favors powerful, punchy patterns locked tightly to Metallica's riffs, prioritizing the song's groove over displays of speed or complexity. Portnoy combines jazz fusion influences with heavy metal power, weaving intricate double bass patterns, rapid-fire transitions, and creative use of electronics into Dream Theater's sprawling compositions.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Lars Ulrich and Mike Portnoy represent opposite ends of what "great metal drummi
 A: Lars Ulrich favors groove-oriented, riff-driven thrash with powerful, punchy patterns that serve Metallica's songs. Mike Portnoy favors technical, virtuosic progressive metal, weaving odd time signatures and intricate double bass patterns into Dream Theater's sprawling compositions.
 
 **Q: What gear does Lars Ulrich use vs Mike Portnoy?**
-A: Lars Ulrich plays a Tama Starclassic Maple kit with a Tama LU1465 Signature 14x6.5" snare and Zildjian A Custom Series cymbals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals.
+A: Lars Ulrich plays a Tama Starclassic Maple kit with a Tama LU1465 Signature 14x6.5" snare and Zildjian A Custom Series cymbals. Mike Portnoy plays a Tama Starclassic Maple + Bubinga ("Dream Monster") kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals.
 
 **Q: How many Modern Drummer awards has Mike Portnoy won?**
 A: Mike Portnoy has won over 30 Drummer of the Year awards from Modern Drummer magazine across his career with Dream Theater and numerous other progressive metal projects.

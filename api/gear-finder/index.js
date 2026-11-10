@@ -240,7 +240,7 @@ const drummers = [
   {
     id: 17,
     name: 'Chris Adler',
-    band: 'Lamb of God',
+    band: 'ex-Lamb of God',
     genre: 'Groove Metal',
     image: '/images/drummers/chris-adler.webp',
     gear: {

@@ -41,4 +41,4 @@ A: Ben Koller plays Zildjian cymbals: 14" K Custom Thin Hi-Hats, 18" K Custom Me
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

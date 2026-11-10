@@ -6,7 +6,7 @@
 
 ## Direct Answer
 
-Art Cruz plays Zildjian cymbals: 14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Mega Bell Ride, 19" A Ultra Hammered China, 17" K China w/ EFX Holes, 9" FX Trash Splash.
+Art Cruz plays Zildjian cymbals: 14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Mega Bell Ride, 19" A Ultra Hammered China, 17" K China w/ EFX Holes, 10" Splash.
 
 ## Cymbal Breakdown
 
@@ -20,9 +20,9 @@ Art Cruz plays Zildjian cymbals: 14" A Custom Mastersound Hi-Hats, 18" A Custom 
 | Ride | 21" | A | Mega Bell Ride |
 | China | 19" | A | Ultra Hammered China |
 | China | 17" | K | China w/ EFX Holes |
-| Splash | 9" | — | FX Trash Splash |
+| Splash | 10" | — | — |
 
-Verified roster hardware entry: "Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 10" Splash, FX Blast Bell)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -35,7 +35,7 @@ Verified roster hardware entry: "Zildjian (14" A Custom Mastersound Hi-Hats, 18"
 ## FAQ
 
 **Q: What cymbals does Art Cruz use?**
-A: Art Cruz plays Zildjian cymbals: 14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Mega Bell Ride, 19" A Ultra Hammered China, 17" K China w/ EFX Holes, 9" FX Trash Splash.
+A: Art Cruz plays Zildjian cymbals: 14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Mega Bell Ride, 19" A Ultra Hammered China, 17" K China w/ EFX Holes, 10" Splash.
 
 ## More Resources
 
@@ -46,4 +46,4 @@ A: Art Cruz plays Zildjian cymbals: 14" A Custom Mastersound Hi-Hats, 18" A Cust
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

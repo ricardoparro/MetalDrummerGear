@@ -552,7 +552,7 @@ function buildMarkdown(drummer) {
       cymbal += `| Piece | Size | Series | Model |\n`;
       cymbal += `|---|---|---|---|\n`;
       for (const piece of cymbalSetup.pieces) {
-        cymbal += `| ${piece.type} | ${piece.sizeIn}" | ${piece.series || '—'} | ${piece.model} |\n`;
+        cymbal += `| ${piece.type} | ${piece.sizeIn}" | ${piece.series || '—'} | ${piece.model || '—'} |\n`;
       }
       cymbal += `\n`;
     }

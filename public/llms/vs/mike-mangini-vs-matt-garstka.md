@@ -63,4 +63,4 @@ A: Mike Mangini holds several Guinness World Records for drumming speed; Garstka
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

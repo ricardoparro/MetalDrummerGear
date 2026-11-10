@@ -67,4 +67,4 @@ A: Megadeth's "Dystopia" (2016) won the Grammy for Best Metal Performance, but i
 
 ---
 
-*Last updated: 2026-11-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

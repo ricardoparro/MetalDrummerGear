@@ -67,4 +67,4 @@ A: Gene Hoglan has played drums for Death, Dark Angel, Testament, Strapping Youn
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

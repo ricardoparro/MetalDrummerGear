@@ -775,7 +775,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Gene Hoglan",
               "slug": "gene-hoglan",
               "band": "Death / Testament / Dethklok",
-              "configString": "Pearl Reference 14x6.5\" Brass"
+              "configString": "Pearl (specific model not independently verified)"
             },
             {
               "id": 6,
@@ -789,7 +789,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Ray Luzier",
               "slug": "ray-luzier",
               "band": "Korn",
-              "configString": "Pearl Reference 14x6.5\" Brass"
+              "configString": "Pearl (specific model not independently verified)"
             },
             {
               "id": 18,
@@ -810,14 +810,14 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Nick Augusto",
               "slug": "nick-augusto",
               "band": "ex-Trivium",
-              "configString": "Pearl Reference 14x6.5\" Brass"
+              "configString": "Pearl (specific model not independently verified)"
             },
             {
               "id": 36,
               "name": "Ryan Van Poederooyen",
               "slug": "ryan-van-poederooyen",
               "band": "Devin Townsend Project",
-              "configString": "Pearl Reference 14x6.5\" Brass"
+              "configString": "Pearl (specific model not independently verified)"
             },
             {
               "id": 49,
@@ -852,7 +852,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Jocke Wallgren",
               "slug": "jocke-wallgren",
               "band": "Amon Amarth",
-              "configString": "Pearl Reference Pure 14x6.5\""
+              "configString": "Pearl (specific model not independently verified)"
             },
             {
               "id": 60,
@@ -1390,7 +1390,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Art Cruz",
               "slug": "art-cruz",
               "band": "Lamb of God",
-              "configString": "Zildjian (14\" A Custom Mastersound Hi-Hats, 18\" A Custom EFX, 18\" A Custom Medium Crash, 19\" A Custom Projection Crash, 20\" A Custom Crash, 21\" A Zildjian Mega Bell Ride, 19\" A Ultra Hammered Chinas, 17\" K China w/ EFX Holes, 9\" FX Trash Splashes, FX Blast Bell)"
+              "configString": "Zildjian (14\" A Custom Mastersound Hi-Hats, 18\" A Custom EFX, 18\" A Custom Medium Crash, 19\" A Custom Projection Crash, 20\" A Custom Crash, 21\" A Zildjian Mega Bell Ride, 19\" A Ultra Hammered Chinas, 17\" K China w/ EFX Holes, 10\" Splash, FX Blast Bell)"
             },
             {
               "id": 23,

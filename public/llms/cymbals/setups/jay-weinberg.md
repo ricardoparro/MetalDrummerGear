@@ -42,4 +42,4 @@ A: Jay Weinberg plays Zildjian cymbals: 14" A New Beat Hi-Hats, 18" A Custom Cra
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

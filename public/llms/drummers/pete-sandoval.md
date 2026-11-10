@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/pete-sandoval"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-10"
 ---
 
 # Pete Sandoval — Drum Kit & Gear Setup
@@ -29,7 +29,7 @@ Pete Sandoval's drum kit and gear setup. Pete Sandoval is a professional metal d
 
 ## Kit Overview
 
-Pete Sandoval has been a ddrum artist for much of his career, though the specific drum series and snare model he currently plays are not publicly documented on ddrum's own artist page, which lists him only as an endorsee without kit specifics. Cymbal brand is similarly undocumented — Sabian's current official artist roster no longer lists Sandoval (it lists Tim Yeung, Morbid Angel's other touring drummer, instead), so no cymbal brand claim should be made without a fresher source. A ddrum-brand double pedal anchors the low end, though the specific model is unconfirmed. Pro-Mark sticks round out a historical endorsement — his current stick choice is not publicly documented. The Pete Sandoval drum set has remained associated with ddrum throughout a career spanning Morbid Angel (1988–2013) and Terrorizer (1986–1989, 2005–present).
+Pete Sandoval has been a ddrum artist for much of his career, though the specific drum series and snare model he currently plays are not publicly documented on ddrum's own artist page, which lists him only as an endorsee without kit specifics. Cymbal brand is similarly undocumented — Sabian's current official artist roster no longer lists Sandoval (it lists Tim Yeung, Morbid Angel's other touring drummer, instead), so no cymbal brand claim should be made without a fresher source. A ddrum-brand double pedal anchors the low end, though the specific model is unconfirmed. Pro-Mark sticks round out a historical endorsement — his current stick choice is not publicly documented. The Pete Sandoval drum set has remained associated with ddrum throughout a career spanning Morbid Angel (1988–2010) and Terrorizer (1986–1989, 2005–present).
 
 ## Biography
 
@@ -92,7 +92,7 @@ Pete Sandoval's drumming style is characterized by extreme speed, relentless end
 
 ## Band History
 
-- **Morbid Angel** — 1988–2013
+- **Morbid Angel** — 1988–2010
 - **Terrorizer** — 1986–1989, 2005–present (current)
 
 ## Gear
@@ -201,4 +201,4 @@ Dated brand-endorsement timeline: [Pete Sandoval's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

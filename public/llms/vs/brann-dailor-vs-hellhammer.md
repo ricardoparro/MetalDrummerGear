@@ -67,4 +67,4 @@ A: Hellhammer joined Mayhem in 1988 as a teenager, replacing founding drummer Ma
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

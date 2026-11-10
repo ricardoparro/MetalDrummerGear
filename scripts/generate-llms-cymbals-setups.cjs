@@ -136,7 +136,7 @@ function buildSetupMarkdown({ setup, slug, name, band }) {
     parts.push('| Piece | Size | Series | Model |');
     parts.push('|-------|------|--------|-------|');
     for (const piece of setup.pieces) {
-      parts.push(`| ${TYPE_LABELS[piece.type] || piece.type} | ${piece.sizeIn}" | ${piece.series || '—'} | ${piece.model} |`);
+      parts.push(`| ${TYPE_LABELS[piece.type] || piece.type} | ${piece.sizeIn}" | ${piece.series || '—'} | ${piece.model || '—'} |`);
     }
     parts.push('');
   }

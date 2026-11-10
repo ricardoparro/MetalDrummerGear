@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ray-luzier"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-10"
 ---
 
 # Ray Luzier — Drum Kit & Gear Setup
@@ -24,12 +24,12 @@ Ray Luzier's drum kit and gear setup. Ray Luzier is a professional metal drummer
 | Country | USA |
 | Primary brand | Pearl |
 | Drum kit | Pearl Reference Series |
-| Signature snare | Pearl Reference 14x6.5" Brass |
+| Signature snare | Pearl (specific model not independently verified) |
 | Sticks | Vic Firth Ray Luzier Signature |
 
 ## Kit Overview
 
-Ray Luzier's drum kit is a Pearl Reference Series build — the professional shell line he consolidated as Korn's permanent drummer in the Paradigm Shift era and has maintained since joining the band in 2007. The Ray Luzier drum set pairs the Pearl Reference shells with a Pearl Reference 14×6.5" Brass snare, delivering the cutting, full-bodied backbeat crack that drives Korn's dense, syncopated nu-metal grooves on recordings from [Korn III: Remember Who You Are](/articles/korn-iii-drum-setup) through [The Paradigm Shift](/articles/the-paradigm-shift-drum-setup).
+Ray Luzier's drum kit is a Pearl Reference Series build — the professional shell line he consolidated as Korn's permanent drummer in the Paradigm Shift era and has maintained since joining the band in 2007. The Ray Luzier drum set pairs the Pearl Reference shells with a Pearl snare (the specific model has not been independently verified), delivering the cutting, full-bodied backbeat crack that drives Korn's dense, syncopated nu-metal grooves on recordings from [Korn III: Remember Who You Are](/articles/korn-iii-drum-setup) through [The Paradigm Shift](/articles/the-paradigm-shift-drum-setup).
 
 Sabian AAX Series cymbals complete the Ray Luzier drum kit: 14" Stage Hi-Hats for tight, articulate groove patterns; 18" and 19" X-Plosion Crashes for fast, explosive accents; a 21" Stage Ride for rhythmic clarity; and an 18" AAXtreme China for aggressive punctuation on Korn's heaviest passages. A DW 9002 double bass pedal and Pearl D-2000 Roadster Throne anchor the hardware. Vic Firth Ray Luzier Signature sticks complete a drum set built around the Luzier/Fieldy rhythm section lock — the groove foundation of nu-metal's most enduring second act. For the full gear breakdown, see the [Ray Luzier complete kit guide](/articles/whats-in-ray-luziers-kit).
 
@@ -102,7 +102,7 @@ Ray Luzier's drumming style combines technical precision with groove-heavy playi
 ## Gear
 
 - **Drums:** Pearl Reference Series
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Hardware:** DW 9002 Double Pedal, Pearl D-2000 Roadster Throne
 - **Sticks:** Vic Firth Ray Luzier Signature
@@ -211,4 +211,4 @@ Dated brand-endorsement timeline: [Ray Luzier's endorsement history](https://met
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

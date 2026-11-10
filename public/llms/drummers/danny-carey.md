@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/danny-carey"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-10"
 ---
 
 # Danny Carey — Drum Kit & Gear Setup
@@ -19,7 +19,7 @@ Danny Carey's drum kit and gear setup. Danny Carey is a professional metal drumm
 |---|---|
 | Name | Danny Carey |
 | Band | Tool |
-| All bands | Tool, Volto!, Legend of the Seagullmen |
+| All bands | Tool, Volto! |
 | Genre | Progressive Metal |
 | Country | USA |
 | Primary brand | Sonor |
@@ -93,8 +93,7 @@ Danny Carey's drumming is distinguished by complex polyrhythmic patterns, unusua
 ## Band History
 
 - **Tool** — 1990–present (current)
-- **Volto!** — 1999–present (current)
-- **Legend of the Seagullmen** — 2018–present (current)
+- **Volto!** — 2000–present (current)
 
 ## Gear
 
@@ -242,4 +241,4 @@ Dated brand-endorsement timeline: [Danny Carey's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

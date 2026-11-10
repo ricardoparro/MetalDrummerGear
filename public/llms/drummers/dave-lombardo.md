@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-11-01"
+last_updated: "2026-11-10"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -51,8 +51,8 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 - **1988** — Released "South of Heaven," showcasing dynamic range beyond speed
 - **1992** — First departure from Slayer due to financial disputes
 - **1998** — Joined Mike Patton's Fantômas, exploring avant-garde metal
-- **2001** — Rejoined Slayer for "God Hates Us All" album
-- **2006** — Released "Christ Illusion" with Slayer, winning Grammy for Best Metal Performance
+- **2001** — Rejoined Slayer, succeeding Paul Bostaph
+- **2006** — Released "Christ Illusion" with Slayer, his first studio album back with the band, winning Grammy for Best Metal Performance
 - **2013** — Second departure from Slayer
 - **2017** — Formed Dead Cross with Mike Patton; joined Mr. Bungle reunion
 - **2019** — Recorded "The Raging Wrath of the Easter Bunny Demo" with Mr. Bungle
@@ -95,8 +95,8 @@ Dave Lombardo's drumming style is characterized by incredible speed, precise dou
 
 ## Band History
 
-- **Slayer** — 1981–1992, 2001–2013
-- **Suicidal Tendencies** — 2016–present (current)
+- **Slayer** — 1981–1986, 1987–1992, 2001–2013
+- **Suicidal Tendencies** — 2016–2021
 - **Dead Cross** — 2017–present (current)
 - **Mr. Bungle** — 2019–present (current)
 - **Fantômas** — 1998–2008
@@ -252,4 +252,4 @@ Dated brand-endorsement timeline: [Dave Lombardo's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -701,7 +701,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Art Cruz",
           "slug": "art-cruz",
           "band": "Lamb of God",
-          "configString": "Zildjian (14\" A Custom Mastersound Hi-Hats, 18\" A Custom EFX, 18\" A Custom Medium Crash, 19\" A Custom Projection Crash, 20\" A Custom Crash, 21\" A Zildjian Mega Bell Ride, 19\" A Ultra Hammered Chinas, 17\" K China w/ EFX Holes, 9\" FX Trash Splashes, FX Blast Bell)"
+          "configString": "Zildjian (14\" A Custom Mastersound Hi-Hats, 18\" A Custom EFX, 18\" A Custom Medium Crash, 19\" A Custom Projection Crash, 20\" A Custom Crash, 21\" A Zildjian Mega Bell Ride, 19\" A Ultra Hammered Chinas, 17\" K China w/ EFX Holes, 10\" Splash, FX Blast Bell)"
         },
         {
           "id": 23,
@@ -853,7 +853,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Ray Luzier",
           "slug": "ray-luzier",
           "band": "Korn",
-          "configString": "Pearl Reference 14x6.5\" Brass"
+          "configString": "Pearl (specific model not independently verified)"
         },
         {
           "id": 18,
@@ -874,7 +874,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Nick Augusto",
           "slug": "nick-augusto",
           "band": "ex-Trivium",
-          "configString": "Pearl Reference 14x6.5\" Brass"
+          "configString": "Pearl (specific model not independently verified)"
         },
         {
           "id": 36,
@@ -2180,7 +2180,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     },
     "snares": {
       "signature": {
-        "totalModels": 56,
+        "totalModels": 55,
         "endorsedModelCount": 10,
         "byBrand": [
           {

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/art-cruz"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-10"
 ---
 
 # Art Cruz — Drum Kit & Gear Setup
@@ -31,7 +31,7 @@ Art Cruz's drum kit and gear setup. Art Cruz is a professional metal drummer bes
 
 Art Cruz plays a Ludwig Drums kit — a setup chosen to deliver the explosive dynamics and precise double bass work he brought to Lamb of God after joining in 2019, following his time with Winds of Plague and Prong. The kit anchors his aggressive, hard-hitting groove metal style across Lamb of God's self-titled 2020 album and 2022's "Omens."
 
-The centerpiece of the Art Cruz drum kit is his Ludwig 14x6.5" Black Beauty snare, delivering the sharp, cutting crack heard throughout Lamb of God's most recent releases. Zildjian cymbals dominate the setup: 14" A Custom Mastersound Hi-Hats for tight articulation, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium and 19" A Custom Projection Crashes plus a 20" A Custom Crash for varied accents, a 21" A Zildjian Mega Bell Ride for cutting rhythmic drive, and a 19" A Ultra Hammered China alongside 9" FX Trash Splashes and an FX Blast Bell for extra color. Cruz drives his relentless double bass patterns with a Trick Pro 1-V double pedal mounted on Gibraltar hardware, seated on a Ludwig Atlas throne, and keeps time with Vic Firth American Classic 5B sticks and Evans heads.
+The centerpiece of the Art Cruz drum kit is his Ludwig 14x6.5" Black Beauty snare, delivering the sharp, cutting crack heard throughout Lamb of God's most recent releases. Zildjian cymbals dominate the setup: 14" A Custom Mastersound Hi-Hats for tight articulation, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium and 19" A Custom Projection Crashes plus a 20" A Custom Crash for varied accents, a 21" A Zildjian Mega Bell Ride for cutting rhythmic drive, and a 19" A Ultra Hammered China alongside a 10" splash and an FX Blast Bell for extra color. Cruz drives his relentless double bass patterns with a Trick Pro 1-V double pedal mounted on Gibraltar hardware, seated on a Ludwig Atlas throne, and keeps time with Vic Firth American Classic 5B sticks and Evans heads.
 
 ## Biography
 
@@ -100,7 +100,7 @@ Art Cruz's drumming style combines powerful groove metal precision with the inte
 
 - **Drums:** Ludwig Drums
 - **Snare:** Ludwig 14x6.5" Black Beauty
-- **Cymbals:** Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell)
+- **Cymbals:** Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 10" Splash, FX Blast Bell)
 - **Hardware:** Trick Pro 1-V Double Pedal, Gibraltar Hardware, Ludwig Atlas Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
@@ -132,7 +132,7 @@ A: Art Cruz's drum set pairs Ludwig shells and his Black Beauty snare with a Tri
 
 **Q: What cymbals does Art Cruz play?**
 
-A: Art Cruz plays an extensive Zildjian setup: 14" A Custom Mastersound Hi-Hats, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium, 19" A Custom Projection, and 20" A Custom Crashes, a 21" A Zildjian Mega Bell Ride, a 19" A Ultra Hammered China, plus 9" FX Trash Splashes and an FX Blast Bell for extra color.
+A: Art Cruz plays an extensive Zildjian setup: 14" A Custom Mastersound Hi-Hats, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium, 19" A Custom Projection, and 20" A Custom Crashes, a 21" A Zildjian Mega Bell Ride, a 19" A Ultra Hammered China, plus a 10" splash and an FX Blast Bell for extra color.
 
 **Q: What snare does Art Cruz use?**
 
@@ -189,7 +189,7 @@ Art Cruz's snare: Ludwig 14x6.5" Black Beauty. See the [snares guide](https://me
 
 ## Cymbal Setup
 
-Art Cruz's cymbals: Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell).
+Art Cruz's cymbals: Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 10" Splash, FX Blast Bell).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
@@ -201,7 +201,7 @@ Art Cruz's cymbals: Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX
 | ride | 21" | A | Mega Bell Ride |
 | china | 19" | A | Ultra Hammered China |
 | china | 17" | K | China w/ EFX Holes |
-| splash | 9" | — | FX Trash Splash |
+| splash | 10" | — | null |
 
 Full breakdown: [Art Cruz's cymbal setup](https://metalforge.io/cymbals/setups/art-cruz).
 
@@ -241,4 +241,4 @@ Dated brand-endorsement timeline: [Art Cruz's endorsement history](https://metal
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

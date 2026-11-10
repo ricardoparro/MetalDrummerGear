@@ -11,7 +11,7 @@ Lamb of God's Art Cruz vs former Slipknot drummer Jay Weinberg. Two modern metal
 ## Art Cruz Setup
 
 - **Drums:** Ludwig Drums
-- **Cymbals:** Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell)
+- **Cymbals:** Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 10" Splash, FX Blast Bell)
 - **Snare:** Ludwig 14x6.5" Black Beauty
 - **Pedals/Hardware:** Trick Pro 1-V Double Pedal, Gibraltar Hardware, Ludwig Atlas Throne
 - **Sticks:** Vic Firth American Classic 5B
@@ -70,4 +70,4 @@ A: No — Jay Weinberg departed Slipknot in November 2023 after nine years as th
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

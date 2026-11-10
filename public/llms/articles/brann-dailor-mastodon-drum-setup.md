@@ -21,7 +21,7 @@ This article breaks down the complete Brann Dailor drum setup across Mastodon's 
 
 - **Drums:** Tama Tama Starclassic Maple (Various custom finishes across Mastodon eras finish)
 - **Snare:** Tama Tama Starphonic or Artstar Snare, 14" x 6.5"
-- **Cymbals:** Meinl — Meinl Byzance / Mb20 Series
+- **Cymbals:** Meinl — Meinl Byzance
 - **Hardware / Pedals:** Tama Iron Cobra or Speed Cobra Single Pedal; Vater American Hickory (various models); Remo Emperor Coated; Remo Powerstroke 3; Roc-N-Soc Nitro Throne
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension — tuned for tone and sensitivity, not maximum attack
@@ -138,4 +138,4 @@ A: No — Brann Dailor plays a single bass drum with a single pedal, one of his 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/bill-ward"
 source: "https://metalforge.io"
-last_updated: "2026-11-03"
+last_updated: "2026-11-10"
 ---
 
 # Bill Ward — Drum Kit & Gear Setup
@@ -242,15 +242,14 @@ Bill Ward's snare: Ludwig Supraphonic 14x6.5" LM402. See the [snares guide](http
 
 ## Cymbal Setup
 
-Bill Ward's cymbals: Zildjian Avedis Series (15" Hi-Hats, 18" & 20" Crashes, 24" Ride, 18" China).
+Bill Ward's cymbals: Zildjian Avedis Series (14" Hi-Hats, 16" & 18" Crashes, 20" Ride).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 15" | Avedis | Hi-Hats |
+| hi-hat | 14" | Avedis | Hi-Hats |
+| crash | 16" | Avedis | Crash |
 | crash | 18" | Avedis | Crash |
-| crash | 20" | Avedis | Crash |
-| ride | 24" | Avedis | Ride |
-| china | 18" | Avedis | China |
+| ride | 20" | Avedis | Ride |
 
 Full breakdown: [Bill Ward's cymbal setup](https://metalforge.io/cymbals/setups/bill-ward).
 
@@ -285,4 +284,4 @@ Dated brand-endorsement timeline: [Bill Ward's endorsement history](https://meta
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

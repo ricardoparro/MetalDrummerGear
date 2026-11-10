@@ -60,7 +60,7 @@ Mike Portnoy is one of Progressive Metal's most influential drummers, best known
 
 ### Gear Used
 
-- Tama Starclassic Kit (drums)
+- Tama Artstar II (drums)
 - Sabian Cymbals (cymbals)
 - Tama Iron Cobra Pedals (pedals)
 
@@ -122,7 +122,7 @@ For drummers learning the fill, the key challenge is separating the 3-against-4 
 
 ### Gear Used
 
-- Tama Starclassic Kit (drums)
+- Tama Artstar II (drums)
 - Sabian Cymbals (cymbals)
 - Tama Iron Cobra Pedals (pedals)
 
@@ -207,4 +207,4 @@ Mike Portnoy's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

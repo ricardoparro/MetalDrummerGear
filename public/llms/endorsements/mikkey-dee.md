@@ -36,7 +36,7 @@ Mikkey Dee endorses DW for hardware / pedals. They play the DW 5000 Series Doubl
 ## Endorsement History
 
 - **1987** (Cymbals): Signed with Paiste — Paiste Signature Series cymbals, carried from his early Motörhead years through to Scorpions
-- **1992** (Drums): Signed with Tama — Joined Motörhead playing a Tama Artstar II/Swingstar kit with Paiste cymbals, first heard on "March ör Die" and "Bastards"
+- **1992** (Drums): Signed with Sonor — Joined Motörhead playing a Sonor SQ2 kit carried over from his King Diamond years, with Paiste cymbals, first heard on "March ör Die" and "Bastards"
 - **2012** (Drums): Signature product: Sonor  — Released his Sonor Mikkey Dee Signature 14"x7.25" birch snare, part of the Sonor SQ2 setup he's used since 2012
 - **2016** (Drums): Renewed Sonor deal — Carried his longtime Sonor SQ2 and Paiste Signature setup into Scorpions after joining the band in 2016 following Lemmy Kilmister's death
 
@@ -61,4 +61,4 @@ A: See the Endorsement History section above for a full timeline of Mikkey Dee's
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

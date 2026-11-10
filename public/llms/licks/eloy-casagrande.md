@@ -33,7 +33,7 @@ Eloy Casagrande is one of Nu Metal / Thrash Metal's most influential drummers, b
 
 - Tama Starclassic Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Speed Cobra Pedals (pedals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -62,7 +62,7 @@ Eloy Casagrande is one of Nu Metal / Thrash Metal's most influential drummers, b
 
 - Tama Starclassic Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Speed Cobra Pedals (pedals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -91,7 +91,7 @@ Eloy Casagrande is one of Nu Metal / Thrash Metal's most influential drummers, b
 
 - Tama Starclassic Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Speed Cobra Pedals (pedals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -108,4 +108,4 @@ Eloy Casagrande's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

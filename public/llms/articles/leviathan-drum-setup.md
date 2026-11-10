@@ -26,7 +26,7 @@ This article breaks down every piece of gear Dailor used during the *Leviathan* 
 
 - **Drums:** Tama Tama Starclassic Bubinga (Natural bubinga gloss / dark custom wrap finish)
 - **Snare:** Tama Tama Bell Brass or Steel Snare, 14" x 5.5"
-- **Cymbals:** Meinl — Meinl Mb20 & Mb8 Series
+- **Cymbals:** Meinl — Meinl Byzance
 - **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Tama Iron Cobra Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vater 3A Wood Tip
 - **Heads:** Evans Genera HD (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-high tension — bright attack with controlled ring, projection for dense mix
@@ -59,7 +59,7 @@ Brann Dailor signed with Meinl in 2004 — the same year *Leviathan* was release
 
 The china cymbal is particularly significant on *Leviathan*. Dailor uses it constantly throughout the album — aggressive, trashy accents marking riff transitions across "Blood and Thunder," section boundaries in "Iron Tusk," and the closing intensity of "Hearts Alive." That trashy character became part of the album's recognisable sonic identity: not a brief decorative splash but a structural compositional element.
 
-Meinl's Mb20 and Mb8 series have remained Dailor's cymbal voice in the two decades since, carried forward across [Blood Mountain](/articles/blood-mountain-drum-setup) (2006), [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009), and every Mastodon record that followed. Specific individual hi-hat, crash, ride, and china models used during the *Leviathan* sessions are not independently documented. See also the [Brann Dailor drummer profile](/drummer/brann-dailor) for the full gear history.
+Meinl's Byzance series has remained Dailor's cymbal voice in the two decades since, carried forward across [Blood Mountain](/articles/blood-mountain-drum-setup) (2006), [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009), and every Mastodon record that followed. Specific individual hi-hat, crash, ride, and china models used during the *Leviathan* sessions are not independently documented. See also the [Brann Dailor drummer profile](/drummer/brann-dailor) for the full gear history.
 
 ## Leviathan: The Whale That Made Mastodon — and the Drum Setup That Made the Whale
 
@@ -105,7 +105,7 @@ A: Leviathan (2004) is considered Mastodon's breakthrough because it elevated th
 
 **Q: What cymbals did Brann Dailor use on Leviathan?**
 
-A: On Leviathan (2004), Brann Dailor played Meinl cymbals — specifically the Mb20 and Mb8 series. 2004 was the year Dailor signed with Meinl, drawn to the dark, complex tones of their Turkish-style cymbals. The china cymbal is especially prominent on the album, used for aggressive, trashy accents marking riff transitions throughout tracks like 'Blood and Thunder' and 'Iron Tusk.' Meinl's Mb20 and Mb8 series have remained Dailor's cymbal voice on every Mastodon record since, through Crack the Skye (2009) and beyond.
+A: On Leviathan (2004), Brann Dailor played Meinl cymbals — specifically the Byzance series. 2004 was the year Dailor signed with Meinl, drawn to the dark, complex tones of their Turkish-style cymbals. The china cymbal is especially prominent on the album, used for aggressive, trashy accents marking riff transitions throughout tracks like 'Blood and Thunder' and 'Iron Tusk.' Meinl's Byzance series has remained Dailor's cymbal voice on every Mastodon record since, through Crack the Skye (2009) and beyond.
 
 **Q: What is the song "Blood and Thunder" about?**
 
@@ -132,4 +132,4 @@ A: Leviathan was recorded at Studio Litho in Seattle, Washington — Stone Gossa
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

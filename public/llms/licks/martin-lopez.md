@@ -10,9 +10,9 @@ Martin Lopez is one of Progressive Metal / Progressive Death Metal's most influe
 
 ## Bleak Ghost Note Groove
 
-**Song:** Bleak | **Album:** Blackwater Park (2001) | **BPM:** ~96 BPM | **Time:** 4/4 (dynamic, atmospheric) | **Technique:** main groove | **Difficulty:** advanced
+**Song:** Bleak | **Album:** Still Life (1999) | **BPM:** ~100 BPM | **Time:** 4/4 (dynamic, atmospheric) | **Technique:** main groove | **Difficulty:** advanced
 
-Martin Lopez's drumming on Opeth's "Bleak" from Blackwater Park (2001) is one of the finest examples of jazz-influenced progressive metal drumming in the genre's history. Where most metal drummers would drive the song with power and aggression, Lopez approaches the track with a featherlight touch: his ghost notes are barely audible but omnipresent, filling the spaces between heavier accents with the kind of tasteful decoration you would expect from a jazz drummer rather than a metal player. The entire performance is built on dynamic contrast — verses breathe with delicate hi-hat work and whispering ghost notes, while heavier passages open into driving grooves with powerful snare hits and surging bass drum patterns that push the song forward without ever losing the underlying melodic sensitivity.
+Martin Lopez's drumming on Opeth's "Bleak" from Still Life (1999) is one of the finest examples of jazz-influenced progressive metal drumming in the genre's history. Where most metal drummers would drive the song with power and aggression, Lopez approaches the track with a featherlight touch: his ghost notes are barely audible but omnipresent, filling the spaces between heavier accents with the kind of tasteful decoration you would expect from a jazz drummer rather than a metal player. The entire performance is built on dynamic contrast — verses breathe with delicate hi-hat work and whispering ghost notes, while heavier passages open into driving grooves with powerful snare hits and surging bass drum patterns that push the song forward without ever losing the underlying melodic sensitivity.
 
 What makes Lopez's approach to "Bleak" so educational is the way he controls volume and intensity across the entire song. He is one of the only metal drummers of his generation who could sound genuinely gentle when the music called for it — not merely restrained, but actually gentle, with a brush-like quality on the hi-hat and a ghost-note vocabulary drawn directly from his jazz training. The challenge for students is precisely this: metal drumming typically rewards power and speed, but learning to play "Bleak" means mastering the opposite, cultivating a soft touch that doesn't collapse under the weight of the arrangement. The song demands that you keep the groove alive at extremely low dynamics, trusting the ghost notes and hi-hat to maintain forward momentum while the vocals and guitars carry the melody.
 
@@ -45,7 +45,7 @@ For drummers looking to expand their vocabulary beyond raw power and speed, "Ble
 
 ## The Drapery Falls Dynamic Architecture
 
-**Song:** The Drapery Falls | **Album:** Blackwater Park (2001) | **BPM:** ~90 BPM | **Time:** 4/4 (dynamic shifts, mixed passages) | **Technique:** signature pattern | **Difficulty:** advanced
+**Song:** The Drapery Falls | **Album:** Blackwater Park (2001) | **BPM:** ~75 BPM | **Time:** 4/4 (dynamic shifts, mixed passages) | **Technique:** signature pattern | **Difficulty:** advanced
 
 "The Drapery Falls" from Opeth's Blackwater Park (2001) is often cited as Martin Lopez's most comprehensive showcase on the album — a nine-minute journey that takes the listener from hushed acoustic folk through brooding atmospheric passages and into crushing metal, all without ever losing the sense of a single, sustained musical idea. What Lopez does on this track — and what makes it such an important study — is demonstrate that a metal drummer does not have to choose between the extremes of loud and quiet. He operates in the entire dynamic range simultaneously, adjusting his weight and touch measure by measure as the arrangement demands, from nearly inaudible acoustic playing to full-power metal drumming and back again, all within the same performance.
 
@@ -108,7 +108,7 @@ For drummers, "Antagonist" is a study in modern progressive metal groove playing
 ### Gear Used
 
 - Noble & Cooley Kit (drums)
-- Zildjian K Constantinople Cymbals (cymbals)
+- Zildjian K Dark Series Cymbals (cymbals)
 - Axis Percussion Double Pedal (hardware)
 - Vic Firth Sticks (sticks)
 
@@ -149,7 +149,7 @@ For drummers, the acoustic-to-electric transition in "Demon of the Fall" is a st
 
 ## Blackwater Park Jazz Shuffle Groove
 
-**Song:** Blackwater Park | **Album:** Blackwater Park (2001) | **BPM:** ~92 BPM | **Time:** 4/4 (jazz shuffle feel, triplet subdivision) | **Technique:** main groove | **Difficulty:** advanced
+**Song:** Blackwater Park | **Album:** Blackwater Park (2001) | **BPM:** ~85 BPM | **Time:** 4/4 (jazz shuffle feel, triplet subdivision) | **Technique:** main groove | **Difficulty:** advanced
 
 The title track of Opeth's landmark 2001 album Blackwater Park features one of the most unusual and technically sophisticated groove choices in metal drumming: a jazz-influenced shuffle feel, applied to a progressive metal context in a way that creates a rhythmic character unique in the genre. Martin Lopez's jazz training — which he undertook seriously as a young drummer in Sweden — is nowhere more audible than in this groove, where the triplet subdivision of the ride cymbal and the swung 8th-note feel of the snare placement belong entirely to the jazz idiom, while the surrounding arrangement is unmistakably heavy metal.
 
@@ -226,4 +226,4 @@ Martin Lopez's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -82,7 +82,7 @@ Erlandsson's performance on War Eternal holds the album's rhythm section togethe
 
 **Q: Who played drums on Arch Enemy's War Eternal (2014)?**
 
-A: Daniel Erlandsson played drums on Arch Enemy's War Eternal (2014), as he has on every Arch Enemy studio album since co-founding the band in 1995. War Eternal was Erlandsson's ninth studio album with Arch Enemy and the first with vocalist Alissa White-Gluz, who joined after Angela Gossow's retirement from performing following the Khaos Legions world tour. Erlandsson's setup for the album — Pearl Reference Pure kit, Pearl Daniel Erlandsson Signature snare, Sabian AAX/HHX cymbals, Pearl Eliminator pedal — maintained the mature configuration established on Khaos Legions (2011). For Erlandsson's full career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson).
+A: Daniel Erlandsson played drums on Arch Enemy's War Eternal (2014), as he has on every Arch Enemy studio album since co-founding the band in 1995, except Stigmata (1998), which was recorded by Peter Wildoer during Erlandsson's brief absence. War Eternal was Erlandsson's ninth studio album with Arch Enemy and the first with vocalist Alissa White-Gluz, who joined after Angela Gossow's retirement from performing following the Khaos Legions world tour. Erlandsson's setup for the album — Pearl Reference Pure kit, Pearl Daniel Erlandsson Signature snare, Sabian AAX/HHX cymbals, Pearl Eliminator pedal — maintained the mature configuration established on Khaos Legions (2011). For Erlandsson's full career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson).
 
 **Q: What was the first Arch Enemy album with Alissa White-Gluz?**
 
@@ -115,4 +115,4 @@ A: War Eternal (June 9, 2014) is significant as the arc-opening record of Arch E
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

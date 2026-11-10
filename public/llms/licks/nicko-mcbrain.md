@@ -40,7 +40,7 @@ Nicko McBrain is one of Heavy Metal / NWOBHM's most influential drummers, best k
 
 ## Aces High Full-Throttle Drive
 
-**Song:** Aces High | **Album:** Powerslave (1984) | **BPM:** ~175 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** advanced
+**Song:** Aces High | **Album:** Powerslave (1984) | **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** advanced
 
 "Aces High," the blazing opener of Iron Maiden's 1984 album Powerslave, is one of Nicko McBrain's most exhilarating performances and a song so associated with high energy that Maiden have used it to open shows for decades. The track charges out of the gate at a punishing tempo, and McBrain powers it with a relentless, driving groove and the explosive fills that define his style. His signature is the combination of speed, swing, and stamina — he keeps the fast ride pattern and snare locked to the galloping riff for the entire song while injecting bursts of fills that lift each section. Remarkably, he does it all on a single bass pedal, proving that propulsion in metal is about feel and hand technique as much as foot speed. In his tour drum-cam footage you can see the physicality and precision up close: the economy of motion, the consistent pocket, and the way he resets after every big fill without dropping the tempo. For drummers, "Aces High" is a demanding study in sustained high-energy drumming: it develops fast-tempo groove stamina, the consistency to hold a driving pattern for a full song, and fills that punctuate without derailing the momentum. The approach is to build the core groove at tempo gradually, focus on staying relaxed so the speed is sustainable, and practise the fills so they snap back into the pocket every time. "Aces High" captures everything that makes McBrain a heavy-metal great: power, precision, and an unstoppable sense of drive.
 
@@ -111,4 +111,4 @@ Nicko McBrain's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

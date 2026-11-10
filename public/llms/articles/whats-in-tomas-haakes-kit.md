@@ -11,7 +11,7 @@
 
 When Meshuggah's "Bleed" exploded onto the metal scene in 2008, drummers worldwide sat in stunned silence. The relentless 32nd-note kick pattern — six months in the making just to play consistently — announced that Tomas Haake had redefined what was possible behind a drum kit.
 
-Born July 13, 1971, in Örebro, Sweden, Tomas Haake joined Meshuggah in 1990 and has spent over three decades crafting the polyrhythmic template that spawned an entire genre: djent. While the term comes from the guitar tone, it's Haake's drumming that provides the mathematical foundation — complex patterns layered over steady 4/4 that create the illusion of multiple time signatures occurring simultaneously.
+Born July 13, 1971, in Örnsköldsvik, Sweden, Tomas Haake joined Meshuggah in 1990 and has spent over three decades crafting the polyrhythmic template that spawned an entire genre: djent. While the term comes from the guitar tone, it's Haake's drumming that provides the mathematical foundation — complex patterns layered over steady 4/4 that create the illusion of multiple time signatures occurring simultaneously.
 
 What separates Tomas from other technical drummers is his insistence on groove. Despite the complexity, he maintains that Meshuggah is fundamentally "a groove band." His patterns aren't exercises in showing off — they're designed to make you move, even when your brain can't quite process what's happening.
 
@@ -121,4 +121,4 @@ A: Tomas Haake's Sonor SQ2 Heavy Beech setup is a high-end custom instrument, wi
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -17,7 +17,7 @@ Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the 
 **Genre:** Death Metal / Thrash Metal  
 **Current Kit:** Pearl Reference Pure  
 **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)  
-**Key Gear:** Pearl Reference Pure (specific snare model unverified), Pearl Demon Drive Double Pedal, Promark Classic Forward 2B  
+**Key Gear:** Pearl (specific model not independently verified), Pearl Demon Drive Double Pedal, Promark Classic Forward 2B  
 
 **Watch:**
 
@@ -48,7 +48,7 @@ George Kollias, born in 1977, is a Greek drummer known for his extreme speed and
 |----------|-------------|----------------|
 | Drum Kit | Pearl Reference Pure | Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) |
 | Cymbals | Sabian | Zildjian |
-| Snare | Pearl Reference Pure (snare unverified) | Pearl George Kollias Signature 14x6.5" |
+| Snare | Pearl (specific model not independently verified) | Pearl George Kollias Signature 14x6.5" |
 | Pedals | Pearl Demon Drive Double Pedal | Pearl Demon XR Double Pedal |
 
 ## FAQ
@@ -76,4 +76,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

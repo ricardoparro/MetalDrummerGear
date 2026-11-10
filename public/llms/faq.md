@@ -1,5 +1,5 @@
 # MetalForge — Master FAQ
-> Last Updated: 2026-11-03 · Source: https://metalforge.io
+> Last Updated: 2026-11-10 · Source: https://metalforge.io
 
 Answer-first FAQ for the gear and techniques of the world's legendary metal drummers. Every answer links to a deeper source page on MetalForge.
 
@@ -12,7 +12,7 @@ Lars Ulrich plays Tama Starclassic Maple. The Metallica drummer rounds out the k
 Joey Jordison plays Pearl Reference Series. The Slipknot drummer rounds out the kit with a Pearl Joey Jordison Signature 13x6.5" snare and Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride) cymbals. [see /llms/drummers/joey-jordison.md]
 
 ### What drums does Gene Hoglan use?
-Gene Hoglan plays Pearl Reference Pure. The Death / Testament / Dethklok drummer rounds out the kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China) cymbals. [see /llms/drummers/gene-hoglan.md]
+Gene Hoglan plays Pearl Reference Pure. The Death / Testament / Dethklok drummer rounds out the kit with a Pearl (specific model not independently verified) snare and Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China) cymbals. [see /llms/drummers/gene-hoglan.md]
 
 ### What drums does Dave Lombardo use?
 Dave Lombardo plays Tama Starclassic Walnut/Birch. The Slayer drummer rounds out the kit with a Tama S.L.P. 14x6.5" snare and Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China) cymbals. [see /llms/drummers/dave-lombardo.md]
@@ -27,7 +27,7 @@ George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Har
 Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). The Slipknot drummer rounds out the kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong) cymbals. [see /llms/drummers/eloy-casagrande.md]
 
 ### What drums does Ray Luzier use?
-Ray Luzier plays Pearl Reference Series. The Korn drummer rounds out the kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China) cymbals. [see /llms/drummers/ray-luzier.md]
+Ray Luzier plays Pearl Reference Series. The Korn drummer rounds out the kit with a Pearl (specific model not independently verified) snare and Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China) cymbals. [see /llms/drummers/ray-luzier.md]
 
 ### What drums does John Otto use?
 John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. The Limp Bizkit drummer rounds out the kit with a OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply snare and Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom) cymbals. [see /llms/drummers/john-otto.md]
@@ -69,7 +69,7 @@ Hellhammer plays Sonor SQ2 Heavy Beech. The Mayhem drummer rounds out the kit wi
 Pete Sandoval plays ddrum (specific series unconfirmed). The Morbid Angel drummer rounds out the kit with a ddrum (specific model unconfirmed) snare and Cymbal brand/model not publicly documented cymbals. [see /llms/drummers/pete-sandoval.md]
 
 ### What drums does Art Cruz use?
-Art Cruz plays Ludwig Drums. The Lamb of God drummer rounds out the kit with a Ludwig 14x6.5" Black Beauty snare and Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell) cymbals. [see /llms/drummers/art-cruz.md]
+Art Cruz plays Ludwig Drums. The Lamb of God drummer rounds out the kit with a Ludwig 14x6.5" Black Beauty snare and Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 10" Splash, FX Blast Bell) cymbals. [see /llms/drummers/art-cruz.md]
 
 ### What drums does Arin Ilejay use?
 Arin Ilejay plays DW Collector's Series. The ex-Avenged Sevenfold drummer rounds out the kit with a DW Collector's Series snare and Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China) cymbals. [see /llms/drummers/arin-ilejay.md]
@@ -96,7 +96,7 @@ Igor Cavalera plays Yamaha Absolute Hybrid Maple. The Sepultura / Cavalera Consp
 Bill Ward plays Ludwig Standard / Club Date Series. The Black Sabbath drummer rounds out the kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals. [see /llms/drummers/bill-ward.md]
 
 ### What drums does Nick Augusto use?
-Nick Augusto plays Pearl Reference Pure. The ex-Trivium drummer rounds out the kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China) cymbals. [see /llms/drummers/nick-augusto.md]
+Nick Augusto plays Pearl Reference Pure. The ex-Trivium drummer rounds out the kit with a Pearl (specific model not independently verified) snare and Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China) cymbals. [see /llms/drummers/nick-augusto.md]
 
 ### What drums does Chris Turner use?
 Chris Turner plays Tama Starclassic Maple/Birch. The Oceans Ate Alaska drummer rounds out the kit with a Tama S.L.P. 14x5.5" G-Maple snare and Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China) cymbals. [see /llms/drummers/chris-turner.md]
@@ -123,7 +123,7 @@ Martin Lopez plays Noble & Cooley Walnut. The Soen / ex-Opeth drummer rounds out
 Travis Orbin plays SJC Custom Drums. The Darkest Hour / ex-Periphery drummer rounds out the kit with a SJC Custom 14x6.5" Maple snare and Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China) cymbals. [see /llms/drummers/travis-orbin.md]
 
 ### What drums does Ryan Van Poederooyen use?
-Ryan Van Poederooyen plays Pearl Reference Series. The Devin Townsend Project drummer rounds out the kit with a Pearl Reference 14x6.5" Brass snare and Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China) cymbals. [see /llms/drummers/ryan-van-poederooyen.md]
+Ryan Van Poederooyen plays Pearl Reference Series. The Devin Townsend Project drummer rounds out the kit with a Pearl (specific model not independently verified) snare and Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China) cymbals. [see /llms/drummers/ryan-van-poederooyen.md]
 
 ### What drums does Nicko McBrain use?
 Nicko McBrain plays British Drum Co.. The Iron Maiden drummer rounds out the kit with a Sonor Nicko McBrain Signature 14x6.5" snare and Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China) cymbals. [see /llms/drummers/nicko-mcbrain.md]
@@ -177,7 +177,7 @@ Hannes Grossmann plays DW Collectors Series. The Obscura / ex-Necrophagist / Alk
 Daray plays Tama Starclassic Performer B/B, Piano Black. The Dimmu Borgir / Vader drummer rounds out the kit with a Tama S.L.P. Black Brass LBR1465 snare and Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride) cymbals. [see /llms/drummers/daray.md]
 
 ### What drums does Jocke Wallgren use?
-Jocke Wallgren plays Pearl Reference Pure. The Amon Amarth drummer rounds out the kit with a Pearl Reference Pure 14x6.5" snare and Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride) cymbals. [see /llms/drummers/jocke-wallgren.md]
+Jocke Wallgren plays Pearl Reference Pure. The Amon Amarth drummer rounds out the kit with a Pearl (specific model not independently verified) snare and Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride) cymbals. [see /llms/drummers/jocke-wallgren.md]
 
 ### What drums does Tim Yeung use?
 Tim Yeung plays Tama Starclassic Bubinga. The Morbid Angel / Hate Eternal / Vital Remains drummer rounds out the kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) cymbals. [see /llms/drummers/tim-yeung.md]
@@ -241,6 +241,10 @@ A complete pro-level metal setup (shells, hardware, cymbals, pedals, snare) gene
 ## Drummer-Specific FAQs
 
 ### Lars Ulrich
+
+**Q: When was Lars Ulrich born?**
+
+A: Lars Ulrich was born on December 26, 1963, in Gentofte, Denmark, and turns 63 on December 26, 2026.
 
 **Q: What drums does Lars Ulrich play?**
 
@@ -2586,7 +2590,7 @@ A: Art Cruz's drum set pairs Ludwig shells and his Black Beauty snare with a Tri
 
 **Q: What cymbals does Art Cruz play?**
 
-A: Art Cruz plays an extensive Zildjian setup: 14" A Custom Mastersound Hi-Hats, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium, 19" A Custom Projection, and 20" A Custom Crashes, a 21" A Zildjian Mega Bell Ride, a 19" A Ultra Hammered China, plus 9" FX Trash Splashes and an FX Blast Bell for extra color.
+A: Art Cruz plays an extensive Zildjian setup: 14" A Custom Mastersound Hi-Hats, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium, 19" A Custom Projection, and 20" A Custom Crashes, a 21" A Zildjian Mega Bell Ride, a 19" A Ultra Hammered China, plus a 10" splash and an FX Blast Bell for extra color.
 
 **Q: What snare does Art Cruz use?**
 

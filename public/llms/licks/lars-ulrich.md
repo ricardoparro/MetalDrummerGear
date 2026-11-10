@@ -30,7 +30,7 @@ The haunting, militaristic snare pattern that opens Metallica's anti-war masterp
 
 ### Gear Used
 
-- Tama Artstar ES Kit (drums)
+- Tama Artstar II Kit (drums)
 - Zildjian A Custom Cymbals (cymbals)
 
 **Core Techniques:** [Dynamics](https://metalforge.io/techniques/dynamics), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Military Snare](https://metalforge.io/techniques/military-snare)
@@ -86,7 +86,7 @@ The relentless thrash gallop that drives metal's greatest song. Lars's double ba
 ### Gear Used
 
 - Tama Artstar II Kit (drums)
-- Zildjian A Series Cymbals (cymbals)
+- Zildjian A Custom Cymbals (cymbals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Gallop](https://metalforge.io/techniques/gallop), [Stamina](https://metalforge.io/techniques/stamina)
 
@@ -113,7 +113,7 @@ The mid-to-late section of Metallica's "One" represents one of the most dramatic
 
 ### Gear Used
 
-- Tama Artstar ES Kit (drums)
+- Tama Artstar II Kit (drums)
 - Zildjian A Custom Cymbals (cymbals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamics](https://metalforge.io/techniques/dynamics), [Stamina](https://metalforge.io/techniques/stamina)
@@ -141,8 +141,8 @@ The mid-to-late section of Metallica's "One" represents one of the most dramatic
 
 ### Gear Used
 
-- Tama Artstar ES Kit (drums)
-- Zildjian A Series Hi-Hats (cymbals)
+- Tama Artstar II Kit (drums)
+- Zildjian A Custom Hi-Hats (cymbals)
 
 **Core Techniques:** [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control), [Groove](https://metalforge.io/techniques/groove), [Stamina](https://metalforge.io/techniques/stamina)
 
@@ -159,4 +159,4 @@ Lars Ulrich's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

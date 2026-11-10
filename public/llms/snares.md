@@ -1,8 +1,8 @@
 # Metal Drummer Snares — Complete List
 
-This page indexes every verified snare catalogued in MetalForge's snares database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
+This page indexes every verified snare catalogued in MetalForge's snares database — 55 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-11-01 · Source: https://metalforge.io
+> Last Updated: 2026-11-10 · Source: https://metalforge.io
 
 For shell material, size, and tuning reference pages see the Reference Guides section below. For a buying guide anchored on the verified signature snares see [https://metalforge.io/snares/best-for-metal](https://metalforge.io/snares/best-for-metal).
 
@@ -54,11 +54,10 @@ A: Neither is strictly "better" — metal shells (steel, brass, bronze, aluminiu
 **Q: What size snare is best for metal?**
 A: 14x6.5" is the most common "workhorse" size across the verified metal roster, balancing crack with body. Shallower options like a 13" (e.g. Joey Jordison's signature model) or a 3"–4.5"-deep piccolo trade some low-end body for a sharper, higher-pitched attack.
 
-## All 56 Snare Records
+## All 55 Snare Records
 
 - Lars Ulrich — [Tama LU1465 Lars Ulrich Signature 14x6.5"](https://metalforge.io/drummer/lars-ulrich)
 - Joey Jordison — [Pearl Joey Jordison Signature 13x6.5"](https://metalforge.io/drummer/joey-jordison)
-- Gene Hoglan — [Pearl Reference 14x6.5" Brass](https://metalforge.io/drummer/gene-hoglan)
 - Dave Lombardo — [Tama S.L.P. 14x6.5" G-Maple](https://metalforge.io/drummer/dave-lombardo)
 - Tomas Haake — [Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze](https://metalforge.io/drummer/tomas-haake)
 - George Kollias — [Pearl George Kollias Signature 14x6.5"](https://metalforge.io/drummer/george-kollias)

@@ -93,8 +93,8 @@ Daray is one of Black Metal / Death Metal's most influential drummers, best know
 
 ### Gear Used
 
-- Pearl Reference Pure (drums)
-- Pearl Reference 14"x6.5" Snare (snare)
+- Tama Starclassic Performer B/B (drums)
+- Tama S.L.P. Black Brass 14"x6.5" Snare (snare)
 - Paiste RUDE / 2002 Series (cymbals)
 - Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth 5B (sticks)
@@ -114,4 +114,4 @@ Daray's style is defined by precision, timing, and genre-defining grooves. Key p
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

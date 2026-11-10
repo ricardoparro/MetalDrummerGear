@@ -32,7 +32,7 @@ Chris Turner is one of Progressive Metalcore's most influential drummers, best k
 ### Gear Used
 
 - Tama Starclassic Maple/Birch Kit (drums)
-- Tama S.L.P. 14x5.5" G-Maple Snare (snare)
+- Tama Starclassic Matching Snare (snare)
 - Meinl Byzance 15" Dual Hi-Hats (cymbals)
 - Meinl Byzance 22" Dual Ride (cymbals)
 - Tama Speed Cobra 910 Double Pedal (hardware)
@@ -64,7 +64,7 @@ Chris Turner is one of Progressive Metalcore's most influential drummers, best k
 ### Gear Used
 
 - Tama Starclassic Maple/Birch Kit (drums)
-- Tama S.L.P. 14x5.5" G-Maple Snare (snare)
+- Tama Starclassic Matching Snare (snare)
 - Meinl Byzance Extra Dry 18" Medium Crash (cymbals)
 - Meinl Byzance Extra Dry 18" China (cymbals)
 - Tama Speed Cobra 910 Double Pedal (hardware)
@@ -117,4 +117,4 @@ Chris Turner's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

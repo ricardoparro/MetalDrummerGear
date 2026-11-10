@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers with the Best Side Projects — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-side-project-drummers)
+> **Last updated:** 2026-11-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-side-project-drummers)
 
 ---
 
@@ -39,10 +39,10 @@ Full drummer profile: [Dave Lombardo on MetalForge](https://metalforge.io/drumme
 ### 3. Danny Carey
 
 **Band:** Tool
-**Highlight:** Tool's foundation, plus two creative outlets beyond it
-**Why ranked here:** Danny Carey has maintained Volto! and Legend of the Seagullmen as ongoing creative outlets throughout his decades with Tool, giving him space to explore ideas — funk-inflected fusion in Volto!, more freewheeling rock experimentation in Legend of the Seagullmen — that don't fit Tool's methodical album cycle. That balance of a slow-moving flagship band with faster-moving side projects lets Carey stay creatively active between Tool's famously long gaps between releases. Carey earns rank #3 for side projects that specifically fill the creative space his main band's pace leaves open.
+**Highlight:** Tool's foundation, plus a creative outlet beyond it
+**Why ranked here:** Danny Carey has maintained Volto! as an ongoing creative outlet throughout his decades with Tool, giving him space to explore funk-inflected fusion ideas that don't fit Tool's methodical album cycle. That balance of a slow-moving flagship band with a faster-moving side project lets Carey stay creatively active between Tool's famously long gaps between releases. Carey earns rank #3 for a side project that specifically fills the creative space his main band's pace leaves open.
 
-Danny Carey (Tool) earns rank #3 for: tool's foundation, plus two creative outlets beyond it. Danny Carey has maintained Volto! and Legend of the Seagullmen as ongoing creative outlets throughout his decades with Tool, giving him space to explore ideas — funk-inflected fusion in Volto!, more freewheeling rock experimentation in Legend of the Seagullmen — that don't fit Tool's methodical album cycle. That balance of a slow-moving flagship band with faster-moving side projects lets Carey stay creatively active between Tool's famously long gaps between releases. Carey earns rank #3 for side projects that specifically fill the creative space his main band's pace leaves open..
+Danny Carey (Tool) earns rank #3 for: tool's foundation, plus a creative outlet beyond it. Danny Carey has maintained Volto! as an ongoing creative outlet throughout his decades with Tool, giving him space to explore funk-inflected fusion ideas that don't fit Tool's methodical album cycle. That balance of a slow-moving flagship band with a faster-moving side project lets Carey stay creatively active between Tool's famously long gaps between releases. Carey earns rank #3 for a side project that specifically fills the creative space his main band's pace leaves open..
 
 Full drummer profile: [Danny Carey on MetalForge](https://metalforge.io/drummer/danny-carey)
 
@@ -130,7 +130,7 @@ A: A side project is a band or creative venture the drummer helped found, co-wri
 A: It happens. Igor Cavalera's Mixhell electronic project became a genuinely separate creative identity from his Sepultura and Cavalera Conspiracy metal work, and Charlie Benante's 2022 Pantera reunion stint put him behind the kit for one of metal's most legendary bands decades after Anthrax became his flagship. In both cases, what started as a side commitment grew into a career pillar in its own right.
 
 **Q: Why do metal drummers take on so many simultaneous projects?**
-A: Side projects let drummers explore sounds, genres, or creative relationships that don't fit their main band's identity or release schedule. Danny Carey's Volto! and Legend of the Seagullmen give him creative outlets during Tool's notoriously long gaps between albums, while Morgan Ågren's parallel work in the Mats/Morgan Band, Kaipa, and with Fredrik Thordendal lets him pursue jazz fusion, prog rock, and metal simultaneously rather than choosing just one.
+A: Side projects let drummers explore sounds, genres, or creative relationships that don't fit their main band's identity or release schedule. Danny Carey's Volto! gives him a creative outlet during Tool's notoriously long gaps between albums, while Morgan Ågren's parallel work in the Mats/Morgan Band, Kaipa, and with Fredrik Thordendal lets him pursue jazz fusion, prog rock, and metal simultaneously rather than choosing just one.
 
 
 ---
@@ -150,4 +150,4 @@ A: Side projects let drummers explore sounds, genres, or creative relationships 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

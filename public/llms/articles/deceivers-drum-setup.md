@@ -88,7 +88,7 @@ Jens Bogren's third Fascination Street production captured Erlandsson's Pearl Re
 
 **Q: Who played drums on Arch Enemy's Deceivers (2022)?**
 
-A: Daniel Erlandsson played drums on Arch Enemy's Deceivers (2022), as he has on every Arch Enemy studio album since co-founding the band in 1995. Deceivers was Erlandsson's eleventh studio album with Arch Enemy — the current endpoint of a discography stretching from Black Earth (1996) to the present day. His setup maintained the White-Gluz era configuration that had defined the previous two albums: Pearl Reference Pure kit, Pearl Daniel Erlandsson Signature snare (14" x 5.5"), Sabian AAX/HHX multi-series cymbals, Pearl Eliminator double bass pedal. For Erlandsson's full career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson).
+A: Daniel Erlandsson played drums on Arch Enemy's Deceivers (2022), as he has on every Arch Enemy studio album since co-founding the band in 1995, except Stigmata (1998), which was recorded by Peter Wildoer during Erlandsson's brief absence. Deceivers was Erlandsson's eleventh studio album with Arch Enemy — the current endpoint of a discography stretching from Black Earth (1996) to the present day. His setup maintained the White-Gluz era configuration that had defined the previous two albums: Pearl Reference Pure kit, Pearl Daniel Erlandsson Signature snare (14" x 5.5"), Sabian AAX/HHX multi-series cymbals, Pearl Eliminator double bass pedal. For Erlandsson's full career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson).
 
 **Q: What is Arch Enemy's newest album?**
 
@@ -121,4 +121,4 @@ A: Deceivers (August 12, 2022) closes the Alissa White-Gluz era arc that began w
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

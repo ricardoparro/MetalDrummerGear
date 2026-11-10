@@ -1,6 +1,6 @@
 # Tim Yeung Drum Kit & Gear Setup — Morbid Angel Death Metal
 
-> Tim Yeung's Tama Starclassic Bubinga kit, Sabian cymbals, and Tama Speed Cobra 910 double bass pedal — the extreme death metal rig behind Morbid Angel and Hate Eternal. Complete drum setup breakdown including blast beat technique and double bass speed.
+> Tim Yeung's Tama Starclassic Bubinga kit, Sabian cymbals, and Tama Speed Cobra 910 double bass pedal — the extreme death metal rig behind Morbid Angel and Divine Heresy. Complete drum setup breakdown including blast beat technique and double bass speed.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Tim Yeung](/llms/drummers/tim-yeung.md)
@@ -76,7 +76,7 @@ For deeper exploration:
 - Sabian cymbals throughout his career — fast, aggressive, purpose-built for extreme metal
 - Tama Speed Cobra 910 double pedal — direct-drive action for sustained 200–280 BPM double kick
 - Known for extreme blast beat speed and relaxed double-bass technique at high tempos
-- Also recorded with Hate Eternal and Divine Heresy — crossover with Erik Rutan's extreme metal universe
+- Also recorded with Hate Eternal (1997-2000, pre-Tama) and Divine Heresy — crossover with Erik Rutan's extreme metal universe
 - Tama Starclassic Bubinga — bubinga shells for focused low-end and projection, played since signing with Tama in 2005
 - Double 22" x 18" bass drums — the engine for 200–280 BPM double kick patterns
 - Compact four-tom configuration matched to Morbid Angel's riff-driven arrangement style
@@ -120,4 +120,4 @@ A: Tim Yeung's core gear setup — Tama Starclassic Bubinga drums, Sabian cymbal
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -29,7 +29,7 @@ This article covers the complete gear behind Bleed the Fifth — Tama Starclassi
 
 ### Tama Starclassic Bubinga on Bleed the Fifth
 
-Tim Yeung's Tama Starclassic Bubinga kit on Bleed the Fifth is the same dense bubinga-shell configuration that anchors his Morbid Angel and Hate Eternal work — high-mass shells built for the sub-bass physical impact that extreme double kick demands. At the title track's roughly 200 BPM blast tempo, the double 22" x 18" bass drums generate the low-end mass that makes each stroke register as a physical event rather than a blur, while the compact four-tom spread (10", 12" rack toms; 16", 18" floor toms) supports the transitional fills that punctuate Dino Cazares's riff-driven arrangements without adding unnecessary complexity to a kit built for speed.
+Tim Yeung's Tama Starclassic Bubinga kit on Bleed the Fifth is the same dense bubinga-shell configuration that anchors his Morbid Angel work — high-mass shells built for the sub-bass physical impact that extreme double kick demands. At the title track's roughly 200 BPM blast tempo, the double 22" x 18" bass drums generate the low-end mass that makes each stroke register as a physical event rather than a blur, while the compact four-tom spread (10", 12" rack toms; 16", 18" floor toms) supports the transitional fills that punctuate Dino Cazares's riff-driven arrangements without adding unnecessary complexity to a kit built for speed.
 
 Recorded at Undercity Studios under Logan Mader, the kit's tone favors clarity and articulation across extended blast passages — a production choice that lets "Inferno of Violence"'s extended double bass runs stay audible as individual strokes rather than collapsing into an undifferentiated low-frequency wash.
 
@@ -63,8 +63,8 @@ For deeper exploration:
 - Tim Yeung's blast beats on the title track run at approximately 200 BPM
 - "Inferno of Violence" isolates his double bass technique at roughly 195 BPM
 - "Anarchists of the Underground" demonstrates a groove-within-brutality approach at around 185 BPM
-- Same Tama Starclassic Bubinga / Sabian / Tama Speed Cobra 910 setup Yeung uses across his Morbid Angel and Hate Eternal work
-- Same Tama Starclassic Bubinga configuration Yeung plays across his Morbid Angel and Hate Eternal catalogue
+- Same Tama Starclassic Bubinga / Sabian / Tama Speed Cobra 910 setup Yeung uses across his Morbid Angel work (adopted 2005, after his 1997-2000 Hate Eternal tenure)
+- Same Tama Starclassic Bubinga configuration Yeung plays across his Morbid Angel catalogue
 - Double 22" x 18" bass drums generate sub-bass mass for extreme double kick tempos
 - Compact four-tom spread matched to Divine Heresy's riff-driven arrangement style
 - Recorded, mixed, and mastered at Undercity Studios, North Hollywood, February–May 2007
@@ -103,4 +103,4 @@ A: Tim Yeung played a Tama Starclassic Bubinga kit on Bleed the Fifth — bubing
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

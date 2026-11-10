@@ -81,7 +81,7 @@ For deeper exploration:
 - Zildjian A Custom & K Custom cymbals throughout his Amon Amarth tenure — bright attack paired with dark, complex overtones for melodic death metal
 - Pearl Demon Drive double bass pedal — adjustable-cam chain-drive action for sustained gallop and blast patterns across full live sets
 - Driving double bass foundation — the rhythmic engine behind anthems like "Twilight of the Thunder God" and "Deceiver of the Gods"
-- Previously with Evergrey and Rage — broad European power/prog metal background before joining Amon Amarth
+- Previously with Swedish Viking/folk metal band Valkyria (2009–2016) before joining Amon Amarth
 - Pearl Reference Pure — maple shell construction for attack clarity and warm body at arena volumes
 - Double 22" x 18" bass drums — the engine for Amon Amarth's galloping double-kick figures
 - Four-tom configuration supporting the orchestral sweep of melodic death metal arrangements
@@ -125,4 +125,4 @@ A: Amon Amarth's drum style is built on the double-bass gallop — a three-note 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

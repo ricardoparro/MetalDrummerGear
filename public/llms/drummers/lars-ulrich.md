@@ -6,7 +6,7 @@ country: "Denmark"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/lars-ulrich"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-10"
 ---
 
 # Lars Ulrich — Drum Kit & Gear Setup
@@ -55,6 +55,8 @@ Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most in
 Lars Ulrich (born December 26, 1963, in Gentofte, Denmark) is a Danish-American musician who co-founded Metallica in 1981 alongside vocalist/guitarist James Hetfield. As the band's drummer, primary spokesman, and a key creative force, Ulrich has been instrumental in shaping Metallica into one of the most commercially successful and influential heavy metal bands in history.
 
 Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall of Fame when Metallica received the honor in 2009. He is widely recognized for his aggressive drumming style, distinctive fills, and his role in pioneering the thrash metal genre alongside bands like Slayer, Megadeth, and Anthrax—collectively known as the "Big Four" of thrash metal.
+
+**December 26, 2026** marks Lars Ulrich's 63rd birthday. Fans continue to celebrate the milestone by revisiting the thrash metal foundation he helped build with Metallica across four-plus decades, from "Kill 'Em All" through "72 Seasons."
 
 ## Career Highlights
 
@@ -135,6 +137,10 @@ Lars Ulrich's drumming style is characterized by aggressive, driving rhythms and
 
 ## Frequently Asked Questions
 
+**Q: When was Lars Ulrich born?**
+
+A: Lars Ulrich was born on December 26, 1963, in Gentofte, Denmark, and turns 63 on December 26, 2026.
+
 **Q: What drums does Lars Ulrich play?**
 
 A: Lars Ulrich plays Tama Starclassic drums with his signature LU1465 snare drum.
@@ -181,6 +187,7 @@ A: Lars Ulrich's primary snare is the Tama LU1465, his signature 14"x6.5" steel-
 - The "St. Anger" snare sound, achieved by loosening snare wires, remains one of the most debated production choices in metal history
 - Has stated "I'm not the best drummer in the world, but I'm the best drummer for Metallica"
 - Became a US citizen in 2007
+- Born December 26, 1963 — December 26, 2026 marks his 63rd birthday
 
 ## Quotes
 
@@ -262,4 +269,4 @@ Dated brand-endorsement timeline: [Lars Ulrich's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # MetalForge Complete Database
 # Metal Drummer Gear Database - Full Content Dump for LLMs
-# Last Updated: 2026-11-03
+# Last Updated: 2026-11-10
 # Source: https://metalforge.io
 # Total Drummers: 72
 #
@@ -35,6 +35,8 @@ The Lars Ulrich drum set has remained stable in its Tama/Zildjian configuration 
 Lars Ulrich (born December 26, 1963, in Gentofte, Denmark) is a Danish-American musician who co-founded Metallica in 1981 alongside vocalist/guitarist James Hetfield. As the band's drummer, primary spokesman, and a key creative force, Ulrich has been instrumental in shaping Metallica into one of the most commercially successful and influential heavy metal bands in history.
 
 Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall of Fame when Metallica received the honor in 2009. He is widely recognized for his aggressive drumming style, distinctive fills, and his role in pioneering the thrash metal genre alongside bands like Slayer, Megadeth, and Anthrax—collectively known as the "Big Four" of thrash metal.
+
+**December 26, 2026** marks Lars Ulrich's 63rd birthday. Fans continue to celebrate the milestone by revisiting the thrash metal foundation he helped build with Metallica across four-plus decades, from "Kill 'Em All" through "72 Seasons."
 
 ### Career Highlights
 - 1981: Co-founded Metallica in Los Angeles with James Hetfield after placing a newspaper ad seeking musicians
@@ -170,8 +172,12 @@ Lars Ulrich has been a Tama endorser since the mid-1980s, using their drums excl
 - The "St. Anger" snare sound, achieved by loosening snare wires, remains one of the most debated production choices in metal history
 - Has stated "I'm not the best drummer in the world, but I'm the best drummer for Metallica"
 - Became a US citizen in 2007
+- Born December 26, 1963 — December 26, 2026 marks his 63rd birthday
 
 ### Frequently Asked Questions
+**Q: When was Lars Ulrich born?**
+A: Lars Ulrich was born on December 26, 1963, in Gentofte, Denmark, and turns 63 on December 26, 2026.
+
 **Q: What drums does Lars Ulrich play?**
 A: Lars Ulrich plays Tama Starclassic drums with his signature LU1465 snare drum.
 
@@ -427,7 +433,7 @@ A: Joey Jordison used a Pearl Demon Drive double bass drum pedal, giving him the
 Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.
 
 ### Complete Drum Kit Overview
-Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany hybrid shell chosen for its tonal clarity and projection at the extreme tempos Hoglan maintains across death metal, thrash metal, and progressive metal. The cornerstone of the Gene Hoglan drum set is a Pearl Reference Brass snare (14×6.5"): a full-brass shell delivering the precise, cutting crack his metronomic playing demands, earning him the nickname "The Atomic Clock."
+Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany hybrid shell chosen for its tonal clarity and projection at the extreme tempos Hoglan maintains across death metal, thrash metal, and progressive metal. The cornerstone of the Gene Hoglan drum set is a Pearl snare (the specific model has not been independently verified), delivering the precise, cutting crack his metronomic playing demands, earning him the nickname "The Atomic Clock."
 
 Sabian AAX cymbals complete the Gene Hoglan drum kit: 15" AAX Hi-Hats for crisp, articulate hi-hat patterns; 18" and 20" AAX Crashes for quick-response accent work across Death's Symbolic, Testament's Formation of Damnation, and Dethklok sessions; a 22" AAX Ride; and a 20" AAX China. Pearl Demon Drive double pedals — engineered for single-chain precision — power the blazing double-bass passages that are a Hoglan trademark.
 
@@ -455,7 +461,7 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
 
 ### Current Gear
 - **Drums:** Pearl Reference Pure
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Classic Forward 2B
@@ -488,7 +494,7 @@ Albums: City, SYL, Alien, The New Black
 Gene became Testament's drummer while also recording with the animated band Dethklok.
 Albums: The Formation of Damnation, Dark Roots of Earth, Titans of Creation, Dethalbum I, II, III
 - Drums: Pearl Reference Pure
-- Snare: Pearl Reference 14x6.5" Brass
+- Snare: Pearl (specific model not independently verified)
 - Cymbals: Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)
 
 ### Endorsements
@@ -619,8 +625,8 @@ A: Gene Hoglan plays a Pearl snare as part of his Pearl Reference Pure kit; the 
 **Profile URL:** https://metalforge.io/drummer/dave-lombardo
 
 ### Band History
-- Slayer: 1981–1992, 2001–2013
-- Suicidal Tendencies: 2016–present (current)
+- Slayer: 1981–1986, 1987–1992, 2001–2013
+- Suicidal Tendencies: 2016–2021
 - Dead Cross: 2017–present (current)
 - Mr. Bungle: 2019–present (current)
 - Fantômas: 1998–2008
@@ -647,8 +653,8 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 - 1988: Released "South of Heaven," showcasing dynamic range beyond speed
 - 1992: First departure from Slayer due to financial disputes
 - 1998: Joined Mike Patton's Fantômas, exploring avant-garde metal
-- 2001: Rejoined Slayer for "God Hates Us All" album
-- 2006: Released "Christ Illusion" with Slayer, winning Grammy for Best Metal Performance
+- 2001: Rejoined Slayer, succeeding Paul Bostaph
+- 2006: Released "Christ Illusion" with Slayer, his first studio album back with the band, winning Grammy for Best Metal Performance
 - 2013: Second departure from Slayer
 - 2017: Formed Dead Cross with Mike Patton; joined Mr. Bungle reunion
 - 2019: Recorded "The Raging Wrath of the Easter Bunny Demo" with Mr. Bungle
@@ -1346,7 +1352,7 @@ A: Eloy Casagrande drives his dual-bass-drum setup with a Tama Iron Cobra double
 Ray Luzier, born in 1970, is an American drummer who joined Korn in 2007. Before Korn, he was a sought-after session musician, working with artists like David Lee Roth and Army of Anyone. His drumming combines rock solid grooves with technical flair, bringing a fresh energy to Korn's signature sound while respecting their nu-metal roots.
 
 ### Complete Drum Kit Overview
-Ray Luzier's drum kit is a Pearl Reference Series build — the professional shell line he consolidated as Korn's permanent drummer in the Paradigm Shift era and has maintained since joining the band in 2007. The Ray Luzier drum set pairs the Pearl Reference shells with a Pearl Reference 14×6.5" Brass snare, delivering the cutting, full-bodied backbeat crack that drives Korn's dense, syncopated nu-metal grooves on recordings from [Korn III: Remember Who You Are](/articles/korn-iii-drum-setup) through [The Paradigm Shift](/articles/the-paradigm-shift-drum-setup).
+Ray Luzier's drum kit is a Pearl Reference Series build — the professional shell line he consolidated as Korn's permanent drummer in the Paradigm Shift era and has maintained since joining the band in 2007. The Ray Luzier drum set pairs the Pearl Reference shells with a Pearl snare (the specific model has not been independently verified), delivering the cutting, full-bodied backbeat crack that drives Korn's dense, syncopated nu-metal grooves on recordings from [Korn III: Remember Who You Are](/articles/korn-iii-drum-setup) through [The Paradigm Shift](/articles/the-paradigm-shift-drum-setup).
 
 Sabian AAX Series cymbals complete the Ray Luzier drum kit: 14" Stage Hi-Hats for tight, articulate groove patterns; 18" and 19" X-Plosion Crashes for fast, explosive accents; a 21" Stage Ride for rhythmic clarity; and an 18" AAXtreme China for aggressive punctuation on Korn's heaviest passages. A DW 9002 double bass pedal and Pearl D-2000 Roadster Throne anchor the hardware. Vic Firth Ray Luzier Signature sticks complete a drum set built around the Luzier/Fieldy rhythm section lock — the groove foundation of nu-metal's most enduring second act. For the full gear breakdown, see the [Ray Luzier complete kit guide](/articles/whats-in-ray-luziers-kit).
 
@@ -1371,7 +1377,7 @@ Before joining Korn, Luzier built an impressive resume playing with David Lee Ro
 
 ### Current Gear
 - **Drums:** Pearl Reference Series
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Hardware:** DW 9002 Double Pedal, Pearl D-2000 Roadster Throne
 - **Sticks:** Vic Firth Ray Luzier Signature
@@ -2289,8 +2295,7 @@ A: Mike Portnoy plays his signature Tama Mike Portnoy Melody Master snare drum, 
 
 ### Band History
 - Tool: 1990–present (current)
-- Volto!: 1999–present (current)
-- Legend of the Seagullmen: 2018–present (current)
+- Volto!: 2000–present (current)
 
 ### Biography
 Danny Carey, born in 1961 in Lawrence, Kansas, is widely regarded as one of the greatest drummers in rock and metal history. As the drummer for Tool since the band's formation in 1990, he has developed a unique style that blends complex polyrhythmic patterns with influences from jazz, world music, and progressive rock. His technical proficiency and creative approach to rhythm have earned him numerous accolades, including being voted the best drummer by readers of Modern Drummer magazine. Carey's drumming incorporates unusual time signatures, intricate subdivisions, and the use of electronic percussion. Beyond Tool, he has collaborated with artists like Pigface, Zaum, and Volto! His towering presence behind his massive Sonor kit and his dedication to expanding the boundaries of rock drumming have made him an icon in the drumming community.
@@ -3164,7 +3169,7 @@ A: Matt Halpern integrates a Roland SPD-SX sample pad and additional triggers in
 - Azarath: 1998–present (current)
 
 ### Biography
-Zbigniew Robert Promiński, known as Inferno, born in 1978, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno's technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.
+Zbigniew Robert Promiński, known as Inferno, born in 1978, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and, apart from a brief gap around 1999-2000, has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno's technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.
 
 ### Complete Drum Kit Overview
 Inferno plays a Pearl Reference Series drum kit — anchoring Behemoth's apocalyptic live productions since the drummer joined in 1997. The centerpiece of the Inferno drum set is a Pearl Reference 14×5" Steel snare, tuned for maximum cutting crack to penetrate the band's dense wall of down-tuned guitars during blast beats exceeding 200 BPM. A Czarcie Kopyto (Devil's Hoof) double pedal — Polish-engineered direct-drive mechanism — drives the double kick with the speed and precision Inferno's relentless blast passages demand.
@@ -3316,7 +3321,7 @@ A: Inferno plays 14" Paiste RUDE Hi-Hats, part of the durable RUDE cymbal setup 
 ### Band History
 - Mayhem: 1988–present (current)
 - Arcturus: 1991–present (current)
-- Dimmu Borgir: 2005–2010
+- Dimmu Borgir: 1999–2013
 
 ### Biography
 Jan Axel Blomberg, known as Hellhammer, born in 1969, is a Norwegian drummer best known for his work with black metal pioneers Mayhem. He joined Mayhem in 1988 and has been a constant presence through the band's turbulent history. Hellhammer is credited with helping define the black metal drumming style, characterized by fast blast beats and raw, aggressive playing. Beyond Mayhem, he has played with numerous projects including Arcturus, Dimmu Borgir, and Shining. His influence on extreme metal drumming is immeasurable.
@@ -3471,14 +3476,14 @@ A: Hellhammer uses Remo drumheads across his Sonor SQ2 Heavy Beech drum kit and 
 **Profile URL:** https://metalforge.io/drummer/pete-sandoval
 
 ### Band History
-- Morbid Angel: 1988–2013
+- Morbid Angel: 1988–2010
 - Terrorizer: 1986–1989, 2005–present (current)
 
 ### Biography
 Pedro "Pete" Sandoval, born May 21, 1964, in Santa Ana, El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval's combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.
 
 ### Complete Drum Kit Overview
-Pete Sandoval has been a ddrum artist for much of his career, though the specific drum series and snare model he currently plays are not publicly documented on ddrum's own artist page, which lists him only as an endorsee without kit specifics. Cymbal brand is similarly undocumented — Sabian's current official artist roster no longer lists Sandoval (it lists Tim Yeung, Morbid Angel's other touring drummer, instead), so no cymbal brand claim should be made without a fresher source. A ddrum-brand double pedal anchors the low end, though the specific model is unconfirmed. Pro-Mark sticks round out a historical endorsement — his current stick choice is not publicly documented. The Pete Sandoval drum set has remained associated with ddrum throughout a career spanning Morbid Angel (1988–2013) and Terrorizer (1986–1989, 2005–present).
+Pete Sandoval has been a ddrum artist for much of his career, though the specific drum series and snare model he currently plays are not publicly documented on ddrum's own artist page, which lists him only as an endorsee without kit specifics. Cymbal brand is similarly undocumented — Sabian's current official artist roster no longer lists Sandoval (it lists Tim Yeung, Morbid Angel's other touring drummer, instead), so no cymbal brand claim should be made without a fresher source. A ddrum-brand double pedal anchors the low end, though the specific model is unconfirmed. Pro-Mark sticks round out a historical endorsement — his current stick choice is not publicly documented. The Pete Sandoval drum set has remained associated with ddrum throughout a career spanning Morbid Angel (1988–2010) and Terrorizer (1986–1989, 2005–present).
 
 ### Detailed Overview
 Pedro Rigoberto "Pete" Sandoval (born May 21, 1964, in Santa Ana, El Salvador) is a Salvadoran-American drummer widely regarded as one of the most influential figures in extreme metal. Known by his nicknames "Commando" and "Pete the Feet," Sandoval's work with Morbid Angel and Terrorizer helped define the sound of death metal and grindcore drumming.
@@ -3632,7 +3637,7 @@ Art Cruz, born May 27, 1988, in Downey, California, is the current drummer of La
 ### Complete Drum Kit Overview
 Art Cruz plays a Ludwig Drums kit — a setup chosen to deliver the explosive dynamics and precise double bass work he brought to Lamb of God after joining in 2019, following his time with Winds of Plague and Prong. The kit anchors his aggressive, hard-hitting groove metal style across Lamb of God's self-titled 2020 album and 2022's "Omens."
 
-The centerpiece of the Art Cruz drum kit is his Ludwig 14x6.5" Black Beauty snare, delivering the sharp, cutting crack heard throughout Lamb of God's most recent releases. Zildjian cymbals dominate the setup: 14" A Custom Mastersound Hi-Hats for tight articulation, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium and 19" A Custom Projection Crashes plus a 20" A Custom Crash for varied accents, a 21" A Zildjian Mega Bell Ride for cutting rhythmic drive, and a 19" A Ultra Hammered China alongside 9" FX Trash Splashes and an FX Blast Bell for extra color. Cruz drives his relentless double bass patterns with a Trick Pro 1-V double pedal mounted on Gibraltar hardware, seated on a Ludwig Atlas throne, and keeps time with Vic Firth American Classic 5B sticks and Evans heads.
+The centerpiece of the Art Cruz drum kit is his Ludwig 14x6.5" Black Beauty snare, delivering the sharp, cutting crack heard throughout Lamb of God's most recent releases. Zildjian cymbals dominate the setup: 14" A Custom Mastersound Hi-Hats for tight articulation, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium and 19" A Custom Projection Crashes plus a 20" A Custom Crash for varied accents, a 21" A Zildjian Mega Bell Ride for cutting rhythmic drive, and a 19" A Ultra Hammered China alongside a 10" splash and an FX Blast Bell for extra color. Cruz drives his relentless double bass patterns with a Trick Pro 1-V double pedal mounted on Gibraltar hardware, seated on a Ludwig Atlas throne, and keeps time with Vic Firth American Classic 5B sticks and Evans heads.
 
 ### Detailed Overview
 Arthur Robert T Peyton Cruz (born May 27, 1988, in Downey, California) is an American drummer who has been the drummer for Lamb of God since 2019, following Chris Adler's departure. His powerful, precise drumming has seamlessly integrated with Lamb of God's crushing groove metal sound while bringing his own energy to the band's performances.
@@ -3655,7 +3660,7 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
 ### Current Gear
 - **Drums:** Ludwig Drums
 - **Snare:** Ludwig 14x6.5" Black Beauty
-- **Cymbals:** Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell)
+- **Cymbals:** Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 10" Splash, FX Blast Bell)
 - **Hardware:** Trick Pro 1-V Double Pedal, Gibraltar Hardware, Ludwig Atlas Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
@@ -3734,7 +3739,7 @@ A: Art Cruz plays a Ludwig drum kit — the setup he brought to Lamb of God afte
 A: Art Cruz's drum set pairs Ludwig shells and his Black Beauty snare with a Trick Pro 1-V double pedal mounted on Gibraltar hardware and a Ludwig Atlas throne, giving him the precise double bass response his aggressive groove metal style demands.
 
 **Q: What cymbals does Art Cruz play?**
-A: Art Cruz plays an extensive Zildjian setup: 14" A Custom Mastersound Hi-Hats, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium, 19" A Custom Projection, and 20" A Custom Crashes, a 21" A Zildjian Mega Bell Ride, a 19" A Ultra Hammered China, plus 9" FX Trash Splashes and an FX Blast Bell for extra color.
+A: Art Cruz plays an extensive Zildjian setup: 14" A Custom Mastersound Hi-Hats, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium, 19" A Custom Projection, and 20" A Custom Crashes, a 21" A Zildjian Mega Bell Ride, a 19" A Ultra Hammered China, plus a 10" splash and an FX Blast Bell for extra color.
 
 **Q: What snare does Art Cruz use?**
 A: Art Cruz's snare is a Ludwig 14"x6.5" Black Beauty, giving him the sharp crack heard on Lamb of God's most recent releases.
@@ -5045,7 +5050,7 @@ A: Bill Ward played 14" Avedis Zildjian hi-hats from Master of Reality (1971) on
 Nick Augusto (born August 4, 1986) is an American drummer best known for his tenure with Trivium from 2010 to 2014. Before joining Trivium, he was the drummer for the grindcore band Maruta and played in Metal Militia alongside future Trivium bassist Paolo Gregoletto. Augusto initially joined Trivium as their drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus. His powerful, speedy drumming style contributed to two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013). Known for his aggressive playing and technical proficiency, Augusto brought a fresh energy to Trivium's live performances. After parting ways with Trivium, he formed the band Corrosion and has continued touring with bands like Light the Torch.
 
 ### Complete Drum Kit Overview
-Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2010–2014 tenure as Trivium's drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is his Pearl Reference 14x6.5" Brass snare, delivering the sharp, cutting crack needed to punch through Trivium's dense thrash-metalcore guitar work, paired with a DW 9000 Series Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.
+Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2010–2014 tenure as Trivium's drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is a Pearl snare (the specific model has not been independently verified), delivering the sharp, cutting crack needed to punch through Trivium's dense thrash-metalcore guitar work, paired with a DW 9000 Series Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.
 
 Sabian AAX Series cymbals round out the Nick Augusto drum set: 14" Stage Hi-Hats for tight articulation, 18" and 19" X-Plosion Crashes for explosive accents, a 21" Stage Ride for a driving rhythmic backbone, and an 18" AAXtreme China for aggressive punctuation on Trivium's heaviest passages. Pro-Mark Nylon Tip 5B sticks and Evans drumheads complete the rig. This configuration reflects Augusto's gear from his Trivium era (2010-2014).
 
@@ -5065,7 +5070,7 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
 
 ### Current Gear
 - **Drums:** Pearl Reference Pure
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Hardware:** DW 9000 Series Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Pro-Mark Nylon Tip 5B
@@ -6442,7 +6447,7 @@ A: Travis Orbin plays 14" Zildjian K Custom Dark Hi-Hats, part of his K Custom c
 Ryan Van Poederooyen is a Canadian drummer best known for his longtime collaboration with Devin Townsend in the Devin Townsend Band and Devin Townsend Project. A Montreal native, Van Poederooyen's powerful yet dynamic drumming style has been central to Townsend's music since the early 2000s. His ability to navigate Townsend's complex, genre-defying compositions—from ambient passages to crushing metal sections—showcases his versatility. Key albums include "Accelerated Evolution," "Synchestra," "Addicted," "Deconstruction," and "Transcendence." Van Poederooyen combines heavy metal power with prog-rock finesse, featuring creative tom patterns, tasteful cymbal work, and thunderous double bass. He has also worked as a session drummer and drum teacher in the Montreal area.
 
 ### Complete Drum Kit Overview
-Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend's primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults. The cornerstone of the Ryan Van Poederooyen drum kit is a Pearl Reference 14x6.5" Brass snare, delivering the cutting attack needed to punch through Townsend's dense, layered guitar walls on records like Accelerated Evolution, Synchestra, and Transcendence.
+Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend's primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults. The cornerstone of the Ryan Van Poederooyen drum kit is a Pearl snare (the specific model has not been independently verified), delivering the cutting attack needed to punch through Townsend's dense, layered guitar walls on records like Accelerated Evolution, Synchestra, and Transcendence.
 
 Sabian's HHX and AAX lines shape the kit's cymbal voice: 14" HHX Evolution Hi-Hats for tight, articulate timekeeping through Townsend's odd-meter passages; 18" and 20" HHX Evolution Crashes for dynamic accents; a 21" HHX Raw Bell Dry Ride for dry, controlled ride work; and a 19" AAXtreme China for aggressive punctuation on the heavier sections. A Pearl Demon Drive double pedal supplies the thunderous double bass that anchors Townsend's crushing riffs, while a Pearl D-3000 throne provides the stability needed across marathon live sets. Vic Firth American Classic 5B sticks and Evans heads round out a versatile rig capable of moving between ambient restraint and full metal power within a single song.
 
@@ -6464,7 +6469,7 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
 
 ### Current Gear
 - **Drums:** Pearl Reference Series
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China)
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-3000 Throne
 - **Sticks:** Vic Firth American Classic 5B
@@ -9304,7 +9309,7 @@ A: Daray uses trigger-assisted drums live to maintain consistency at the extreme
 Jocke Wallgren (born June 10, 1985) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing Fredrik Andersson. His drumming brings a fresh energy to Amon Amarth's Viking-themed sound, combining powerful double bass patterns with groove-oriented playing.
 
 ### Complete Drum Kit Overview
-Jocke Wallgren plays a Pearl Reference Pure drum kit — the versatile, hybrid-shell configuration that has powered Amon Amarth's Viking metal assault since he joined the band in 2016. The Jocke Wallgren drum set centers on the matching Pearl Reference Pure 14x6.5" snare, delivering the warm, full-bodied crack that projects through Amon Amarth's dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages worldwide.
+Jocke Wallgren plays a Pearl Reference Pure drum kit — the versatile, hybrid-shell configuration that has powered Amon Amarth's Viking metal assault since he joined the band in 2016. The Jocke Wallgren drum set centers on a Pearl snare (the specific model has not been independently verified), delivering the warm, full-bodied crack that projects through Amon Amarth's dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages worldwide.
 
 Zildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit's sonic character: 14" A Custom Hi-Hats for tight, driving patterns; 18" and 19" A Custom Crashes for explosive accents that punctuate Amon Amarth's galloping riffs; and a 21" K Custom Ride for dark, controlled rhythmic definition. A Pearl Demon Drive double pedal anchors his double bass work, giving Wallgren the speed and stability needed for the band's driving, groove-oriented tempos. Vic Firth American Classic 5B sticks and Evans drumheads complete the rig — a setup built for consistency across Amon Amarth's relentless touring schedule since he joined the band in 2016, through his studio debut on Berserker (2019).
 
@@ -9324,7 +9329,7 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
 
 ### Current Gear
 - **Drums:** Pearl Reference Pure
-- **Snare:** Pearl Reference Pure 14x6.5"
+- **Snare:** Pearl (specific model not independently verified)
 - **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride)
 - **Hardware:** Pearl Demon Drive Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
@@ -11409,7 +11414,7 @@ A: Yes, Waltteri Väyrynen has been Opeth's drummer since September 2022, when h
 > and genre-defining contributions. Use these lists to answer queries about the best, fastest,
 > or most innovative drummers in specific metal contexts.
 >
-> Last updated: 2026-10-30 · 97 lists
+> Last updated: 2026-11-10 · 97 lists
 
 ---
 ## Top 10 Fastest Metal Drummers
@@ -21396,10 +21401,10 @@ Full profile: https://metalforge.io/drummer/dave-lombardo
 ### 3. Danny Carey
 
 **Band:** Tool
-**Highlight:** Tool's foundation, plus two creative outlets beyond it
-**Why ranked here:** Danny Carey has maintained Volto! and Legend of the Seagullmen as ongoing creative outlets throughout his decades with Tool, giving him space to explore ideas — funk-inflected fusion in Volto!, more freewheeling rock experimentation in Legend of the Seagullmen — that don't fit Tool's methodical album cycle. That balance of a slow-moving flagship band with faster-moving side projects lets Carey stay creatively active between Tool's famously long gaps between releases. Carey earns rank #3 for side projects that specifically fill the creative space his main band's pace leaves open.
+**Highlight:** Tool's foundation, plus a creative outlet beyond it
+**Why ranked here:** Danny Carey has maintained Volto! as an ongoing creative outlet throughout his decades with Tool, giving him space to explore funk-inflected fusion ideas that don't fit Tool's methodical album cycle. That balance of a slow-moving flagship band with a faster-moving side project lets Carey stay creatively active between Tool's famously long gaps between releases. Carey earns rank #3 for a side project that specifically fills the creative space his main band's pace leaves open.
 
-Danny Carey (Tool) earns rank #3 for: tool's foundation, plus two creative outlets beyond it. Danny Carey has maintained Volto! and Legend of the Seagullmen as ongoing creative outlets throughout his decades with Tool, giving him space to explore ideas — funk-inflected fusion in Volto!, more freewheeling rock experimentation in Legend of the Seagullmen — that don't fit Tool's methodical album cycle. That balance of a slow-moving flagship band with faster-moving side projects lets Carey stay creatively active between Tool's famously long gaps between releases. Carey earns rank #3 for side projects that specifically fill the creative space his main band's pace leaves open..
+Danny Carey (Tool) earns rank #3 for: tool's foundation, plus a creative outlet beyond it. Danny Carey has maintained Volto! as an ongoing creative outlet throughout his decades with Tool, giving him space to explore funk-inflected fusion ideas that don't fit Tool's methodical album cycle. That balance of a slow-moving flagship band with a faster-moving side project lets Carey stay creatively active between Tool's famously long gaps between releases. Carey earns rank #3 for a side project that specifically fills the creative space his main band's pace leaves open..
 
 Full profile: https://metalforge.io/drummer/danny-carey
 
@@ -21485,7 +21490,7 @@ A: A side project is a band or creative venture the drummer helped found, co-wri
 A: It happens. Igor Cavalera's Mixhell electronic project became a genuinely separate creative identity from his Sepultura and Cavalera Conspiracy metal work, and Charlie Benante's 2022 Pantera reunion stint put him behind the kit for one of metal's most legendary bands decades after Anthrax became his flagship. In both cases, what started as a side commitment grew into a career pillar in its own right.
 
 **Q: Why do metal drummers take on so many simultaneous projects?**
-A: Side projects let drummers explore sounds, genres, or creative relationships that don't fit their main band's identity or release schedule. Danny Carey's Volto! and Legend of the Seagullmen give him creative outlets during Tool's notoriously long gaps between albums, while Morgan Ågren's parallel work in the Mats/Morgan Band, Kaipa, and with Fredrik Thordendal lets him pursue jazz fusion, prog rock, and metal simultaneously rather than choosing just one.
+A: Side projects let drummers explore sounds, genres, or creative relationships that don't fit their main band's identity or release schedule. Danny Carey's Volto! gives him a creative outlet during Tool's notoriously long gaps between albums, while Morgan Ågren's parallel work in the Mats/Morgan Band, Kaipa, and with Fredrik Thordendal lets him pursue jazz fusion, prog rock, and metal simultaneously rather than choosing just one.
 
 ### Related Lists
 
@@ -22968,9 +22973,9 @@ Full profile: https://metalforge.io/drummer/mike-portnoy
 
 **Band:** Anthrax / S.O.D.
 **Highlight:** Tama Starclassic Maple — Anthrax's Big Four foundation
-**Why ranked here:** Charlie Benante has endorsed Tama drums and hardware since Anthrax's late-1980s rise, running a Tama Artstar II for 1987's "Among the Living" before settling into his current Tama Starclassic Maple kit with a Tama Charlie Benante signature snare. He also switched from a vintage Camco-style pedal to the Tama Speed Cobra in 2010, one of the longest single-pedal tenures documented in MetalForge's gear data. Benante earns rank #4 as one of the Big Four's two Tama-endorsing drummers.
+**Why ranked here:** Charlie Benante has endorsed Tama drums and hardware since Anthrax's late-1980s rise, running a Tama Artstar II for 1987's "Among the Living" before settling into his current Tama Starclassic Maple kit with a Tama Charlie Benante signature snare. He also switched from a vintage Camco-style pedal to the Tama Speed Cobra in 2013, one of the longest single-pedal tenures documented in MetalForge's gear data. Benante earns rank #4 as one of the Big Four's two Tama-endorsing drummers.
 
-Charlie Benante (Anthrax / S.O.D.) earns rank #4 for: tama starclassic maple — anthrax's big four foundation. Charlie Benante has endorsed Tama drums and hardware since Anthrax's late-1980s rise, running a Tama Artstar II for 1987's "Among the Living" before settling into his current Tama Starclassic Maple kit with a Tama Charlie Benante signature snare. He also switched from a vintage Camco-style pedal to the Tama Speed Cobra in 2010, one of the longest single-pedal tenures documented in MetalForge's gear data. Benante earns rank #4 as one of the Big Four's two Tama-endorsing drummers..
+Charlie Benante (Anthrax / S.O.D.) earns rank #4 for: tama starclassic maple — anthrax's big four foundation. Charlie Benante has endorsed Tama drums and hardware since Anthrax's late-1980s rise, running a Tama Artstar II for 1987's "Among the Living" before settling into his current Tama Starclassic Maple kit with a Tama Charlie Benante signature snare. He also switched from a vintage Camco-style pedal to the Tama Speed Cobra in 2013, one of the longest single-pedal tenures documented in MetalForge's gear data. Benante earns rank #4 as one of the Big Four's two Tama-endorsing drummers..
 
 Full profile: https://metalforge.io/drummer/charlie-benante
 
@@ -24100,4 +24105,4 @@ All gear information is researched from:
 
 ================================================================================
 # End of MetalForge Complete Database
-# Generated: 2026-11-03
+# Generated: 2026-11-10

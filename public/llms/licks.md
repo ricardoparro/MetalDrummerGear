@@ -1,6 +1,6 @@
 # MetalForge — Signature Licks Database
 > Drummer signature fills, beats, and patterns with technique breakdowns and tutorial videos.
-Last updated: 2026-11-04 · Source: https://metalforge.io
+Last updated: 2026-11-10 · Source: https://metalforge.io
 
 Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time signature, difficulty, and techniques, followed by an answer-first "how to play it" walkthrough, the tutorial video, and the canonical page URL to cite.
 
@@ -157,7 +157,7 @@ Profile: [https://metalforge.io/drummers/abe-cunningham](https://metalforge.io/d
 Profile: [https://metalforge.io/drummers/adrian-erlandsson](https://metalforge.io/drummers/adrian-erlandsson) · All licks: [https://metalforge.io/drummers/adrian-erlandsson/licks](https://metalforge.io/drummers/adrian-erlandsson/licks)
 
 ### Blinded by Fear — The Blast Beat That Opened a Genre — "Blinded by Fear", Slaughter of the Soul (1995)
-- **BPM:** ~195 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** melodic-death-metal
+- **BPM:** ~250 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** melodic-death-metal
 - **Techniques:** blast-beat, d-beat, double-bass
 
 **How to play it:**
@@ -992,11 +992,11 @@ Profile: [https://metalforge.io/drummers/blake-richardson](https://metalforge.io
 Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/drummers/brann-dailor) · All licks: [https://metalforge.io/drummers/brann-dailor/licks](https://metalforge.io/drummers/brann-dailor/licks)
 
 ### Blood and Thunder Lead Groove — "Blood and Thunder", Leviathan (2004)
-- **BPM:** ~168 BPM | **Time:** 4/4 | **Technique:** signature groove | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
+- **BPM:** ~125 BPM | **Time:** 4/4 | **Technique:** signature groove | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
 - **Techniques:** groove-drumming, fill-techniques, linear-drumming
 
 **How to play it:**
-1. Lock the galloping kick pattern to the main riff so the groove drives forward at a steady ~168 BPM
+1. Lock the galloping kick pattern to the main riff so the groove drives forward at a steady ~125 BPM
 2. Keep a busy but relaxed ride/hi-hat hand running underneath the verse so there is room to ornament
 3. Answer each guitar phrase with a short single-stroke fill that tumbles down and back up the toms
 4. Resolve every fill cleanly onto beat one so the riff snaps back into focus
@@ -1067,7 +1067,7 @@ Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-ghost-of-karelia-groove
 
 ### Blood and Thunder Swung Quasi-Blast — "Blood and Thunder", Leviathan (2004)
-- **BPM:** ~168 BPM | **Time:** 4/4 (swing feel) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
+- **BPM:** ~125 BPM | **Time:** 4/4 (swing feel) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
 - **Techniques:** groove-drumming, linear-drumming, stamina
 
 **How to play it:**
@@ -1075,7 +1075,7 @@ Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/dru
 2. Practice the hi-hat pattern alone at half tempo to feel the slight subdivision lean
 3. Drive the kick in a near-continuous gallop underneath the swung hi-hat pattern
 4. Land the snare on beats 2 and 4 with authority to anchor the groove against the swing
-5. Gradually increase tempo from 84 BPM to 168 BPM while preserving the swung feel
+5. Gradually increase tempo from 62 BPM to 125 BPM while preserving the swung feel
 
 **Practice tips:**
 - Listen for the slight swing in the hi-hat — it is subtle but defines the whole groove feel
@@ -1113,11 +1113,11 @@ Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-crack-the-skye-melodic-fill
 
 ### Colony of Birchmen Funky Groove — "Colony of Birchmen", Blood Mountain (2006)
-- **BPM:** ~120 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5) | **Style:** progressive-metal
+- **BPM:** ~110 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5) | **Style:** progressive-metal
 - **Techniques:** groove-drumming, ghost-notes, hi-hat-control
 
 **How to play it:**
-1. Lock in the kick and snare pattern first at ~120 BPM before adding any ornamentation
+1. Lock in the kick and snare pattern first at ~110 BPM before adding any ornamentation
 2. Add ghost notes on the snare between main hits — keep them barely audible to maintain pocket
 3. Mix slightly open and closed hi-hat strokes to create rhythmic texture beneath the groove
 4. Lean back into the beat rather than rushing — the funk pocket lives slightly behind the pulse
@@ -1140,7 +1140,7 @@ Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/drummers/charlie-benante) · All licks: [https://metalforge.io/drummers/charlie-benante/licks](https://metalforge.io/drummers/charlie-benante/licks)
 
 ### Caught in a Mosh Syncopated Groove — "Caught in a Mosh", Among the Living (1987)
-- **BPM:** ~180 BPM | **Time:** 4/4 (heavy syncopation) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5) | **Style:** thrash-metal
+- **BPM:** ~175 BPM | **Time:** 4/4 (heavy syncopation) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5) | **Style:** thrash-metal
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -1164,7 +1164,7 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-caught-in-a-mosh-groove
 
 ### Madhouse Thrash Groove — "Madhouse", Spreading the Disease (1985)
-- **BPM:** ~168 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** thrash-metal
+- **BPM:** ~158 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** thrash-metal
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -1188,7 +1188,7 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-madhouse-thrash-groove
 
 ### Indians War Dance Breakdown — "Indians", Among the Living (1987)
-- **BPM:** ~200 BPM | **Time:** 4/4 (fast thrash into half-time war dance) | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
+- **BPM:** ~145 BPM | **Time:** 4/4 (fast thrash into half-time war dance) | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -1446,7 +1446,7 @@ Profile: [https://metalforge.io/drummers/chris-turner](https://metalforge.io/dru
 
 **Gear Used:**
 - Tama Starclassic Maple/Birch Kit (drums)
-- Tama S.L.P. 14x5.5" G-Maple Snare (snare)
+- Tama Starclassic Matching Snare (snare)
 - Meinl Byzance 15" Dual Hi-Hats (cymbals)
 - Meinl Byzance 22" Dual Ride (cymbals)
 - Tama Speed Cobra 910 Double Pedal (hardware)
@@ -1474,7 +1474,7 @@ Profile: [https://metalforge.io/drummers/chris-turner](https://metalforge.io/dru
 
 **Gear Used:**
 - Tama Starclassic Maple/Birch Kit (drums)
-- Tama S.L.P. 14x5.5" G-Maple Snare (snare)
+- Tama Starclassic Matching Snare (snare)
 - Meinl Byzance Extra Dry 18" Medium Crash (cymbals)
 - Meinl Byzance Extra Dry 18" China (cymbals)
 - Tama Speed Cobra 910 Double Pedal (hardware)
@@ -1817,8 +1817,8 @@ Profile: [https://metalforge.io/drummers/daray](https://metalforge.io/drummers/d
 - Record yourself with the track and compare your groove placement to Daray's — orchestral interlocking requires precision most groove practice doesn't demand
 
 **Gear Used:**
-- Pearl Reference Pure (drums)
-- Pearl Reference 14"x6.5" Snare (snare)
+- Tama Starclassic Performer B/B (drums)
+- Tama S.L.P. Black Brass 14"x6.5" Snare (snare)
 - Paiste RUDE / 2002 Series (cymbals)
 - Pearl Demon Drive Double Pedal (hardware)
 - Vic Firth 5B (sticks)
@@ -1831,7 +1831,7 @@ Profile: [https://metalforge.io/drummers/daray](https://metalforge.io/drummers/d
 Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/drummers/dave-lombardo) · All licks: [https://metalforge.io/drummers/dave-lombardo/licks](https://metalforge.io/drummers/dave-lombardo/licks)
 
 ### Reign in Blood Double-Bass Pump — "Postmortem", Reign in Blood (1986)
-- **BPM:** ~190 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
+- **BPM:** ~90 BPM, faster in the closing solo section | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
 - **Techniques:** double-bass, riff-lock, groove-drumming
 
 **How to play it:**
@@ -1871,7 +1871,7 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 
 **Gear Used:**
 - Pearl Maxwin Kit (drums)
-- Paiste Cymbals (cymbals)
+- Cymbals (brand not independently verified for this era) (cymbals)
 - Single Bass Drum Pedal (pedals)
 **Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run
 
@@ -2256,7 +2256,7 @@ Profile: [https://metalforge.io/drummers/eloy-casagrande](https://metalforge.io/
 **Gear Used:**
 - Tama Starclassic Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Speed Cobra Pedals (pedals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=dQe3EwkPcFU
 **Page:** https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-means-to-an-end-groove
@@ -2281,7 +2281,7 @@ Profile: [https://metalforge.io/drummers/eloy-casagrande](https://metalforge.io/
 **Gear Used:**
 - Tama Starclassic Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Speed Cobra Pedals (pedals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=MyXvmX0BXlM
 **Page:** https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-isolation-blast
@@ -2306,7 +2306,7 @@ Profile: [https://metalforge.io/drummers/eloy-casagrande](https://metalforge.io/
 **Gear Used:**
 - Tama Starclassic Kit (drums)
 - Paiste Cymbals (cymbals)
-- Tama Speed Cobra Pedals (pedals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=ZRSM24T9iVI
 **Page:** https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-arise-double-bass
@@ -2997,7 +2997,7 @@ Profile: [https://metalforge.io/drummers/hellhammer](https://metalforge.io/drumm
 **Tutorial:** https://www.youtube.com/watch?v=NcK8-AUqj5g
 **Page:** https://metalforge.io/drummers/hellhammer/licks/hellhammer-freezing-moon-blast
 
-### Deathcrush — Speed Metal Battery — "Deathcrush", Deathcrush EP (1987)
+### Deathcrush — Speed Metal Battery — "Deathcrush", Daemonic Rites (Live, 2023)
 - **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5) | **Style:** black-metal
 - **Techniques:** blast-beat, speed-metal, ride-cymbal-blast
 
@@ -3012,7 +3012,7 @@ Profile: [https://metalforge.io/drummers/hellhammer](https://metalforge.io/drumm
 - Start by locking the bass drum and snare together at a moderate tempo before adding speed
 - Move the blast pattern to the ride cymbal and notice how the character changes
 - Focus on groove and forward momentum rather than maximum velocity
-- Study the original EP recording alongside the live video to hear how the pattern translates across decades
+- Compare the raw 1987 EP recording (drummer: Manheim) with Hellhammer's live version to hear how the pattern has tightened up over decades
 
 **Gear Used:**
 - Paiste RUDE Cymbals (cymbals)
@@ -3198,7 +3198,7 @@ Profile: [https://metalforge.io/drummers/igor-cavalera](https://metalforge.io/dr
 Profile: [https://metalforge.io/drummers/inferno](https://metalforge.io/drummers/inferno) · All licks: [https://metalforge.io/drummers/inferno/licks](https://metalforge.io/drummers/inferno/licks)
 
 ### Conquer All Blast Beat Mastery — "Conquer All", Demigod (2004)
-- **BPM:** ~220 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5) | **Style:** blackened-death-metal
+- **BPM:** ~160 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5) | **Style:** blackened-death-metal
 - **Techniques:** blast-beat, double-bass, blackened-death-metal
 
 **How to play it:**
@@ -3224,7 +3224,7 @@ Profile: [https://metalforge.io/drummers/inferno](https://metalforge.io/drummers
 **Page:** https://metalforge.io/drummers/inferno/licks/inferno-conquer-all-blast
 
 ### Blow Your Trumpets Gabriel — Dynamic Blast Architecture — "Blow Your Trumpets Gabriel", The Satanist (2014)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** blackened-death-metal
+- **BPM:** ~115 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** blackened-death-metal
 - **Techniques:** blast-beat, dynamic-contrast, atmospheric-drumming
 
 **How to play it:**
@@ -3275,7 +3275,7 @@ Profile: [https://metalforge.io/drummers/inferno](https://metalforge.io/drummers
 **Page:** https://metalforge.io/drummers/inferno/licks/inferno-evangelion-blast-sequence
 
 ### The Satanist Groove-Blast Hybrid — Ora Pro Nobis Lucifer — "Ora Pro Nobis Lucifer", The Satanist (2014)
-- **BPM:** ~190 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** blackened-death-metal
+- **BPM:** ~175 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** blackened-death-metal
 - **Techniques:** blast-beat, groove-drumming, dynamic-contrast
 
 **How to play it:**
@@ -4133,18 +4133,18 @@ Profile: [https://metalforge.io/drummers/jon-dette](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/jon-dette/licks/jon-dette-serenity-in-fire-groove
 
 ### Postmortem Precision Attack — "Postmortem", Reign in Blood (1986)
-- **BPM:** 190 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
+- **BPM:** ~90 BPM, faster in the closing solo section | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
 - **Techniques:** thrash-groove, double-bass, high-speed-precision
 
 **How to play it:**
-1. Bass drum alternates in 8th-note pairs at 190 BPM — heels-up technique is essential
+1. Bass drum alternates in 8th-note pairs across the half-time ~90 BPM verse groove — heels-up technique is essential once the closing solo section accelerates
 2. Snare strikes are uniform in velocity; any inconsistency is immediately audible at this tempo
 3. Crash cymbal accents fall on the 1 of each new riff section without disturbing foot work
 4. Hi-hat keeps a steady 8th-note pulse, locking hands and feet into a shared grid
 
 **Practice tips:**
 - Heel-up technique is non-negotiable at this tempo — heels-down will cause cramping
-- Use a metronome and start at 150 BPM; add 5 BPM per session until 190 feels relaxed
+- Use a metronome and lock in the half-time ~90 BPM verse groove first, then work the closing solo section's faster tempo separately
 - Record and compare your version to Jon Dette's — listen for kick-snare alignment on the grid
 
 **Gear Used:**
@@ -4256,7 +4256,7 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 - Listen closely to how Lars builds tension
 
 **Gear Used:**
-- Tama Artstar ES Kit (drums)
+- Tama Artstar II Kit (drums)
 - Zildjian A Custom Cymbals (cymbals)
 **Page:** https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-one-intro
 
@@ -4300,7 +4300,7 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 
 **Gear Used:**
 - Tama Artstar II Kit (drums)
-- Zildjian A Series Cymbals (cymbals)
+- Zildjian A Custom Cymbals (cymbals)
 **Page:** https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-master-of-puppets-gallop
 
 ### One Building Thrash Section — "One", ...And Justice for All (1988)
@@ -4321,7 +4321,7 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 - Study how Lars uses cymbal choice (closed hi-hat vs open crash) to signal intensity changes
 
 **Gear Used:**
-- Tama Artstar ES Kit (drums)
+- Tama Artstar II Kit (drums)
 - Zildjian A Custom Cymbals (cymbals)
 **Page:** https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-one-building-thrash
 
@@ -4343,8 +4343,8 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 - Listen to the record closely to internalise how the open hi-hat creates tension under the riff
 
 **Gear Used:**
-- Tama Artstar ES Kit (drums)
-- Zildjian A Series Hi-Hats (cymbals)
+- Tama Artstar II Kit (drums)
+- Zildjian A Custom Hi-Hats (cymbals)
 **Page:** https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-blackened-open-hihat
 
 ## Mario Duplantier (Gojira)
@@ -4442,7 +4442,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-stranded-intro-fill
 
 ### Flying Whales Main Groove — "Flying Whales", From Mars to Sirius (2005)
-- **BPM:** ~132 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
+- **BPM:** ~85 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
 - **Techniques:** groove-drumming, riff-lock, dynamic-control
 
 **How to play it:**
@@ -4544,8 +4544,8 @@ Profile: [https://metalforge.io/drummers/martin-axenrot](https://metalforge.io/d
 
 Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/drummers/martin-lopez) · All licks: [https://metalforge.io/drummers/martin-lopez/licks](https://metalforge.io/drummers/martin-lopez/licks)
 
-### Bleak Ghost Note Groove — "Bleak", Blackwater Park (2001)
-- **BPM:** ~96 BPM | **Time:** 4/4 (dynamic, atmospheric) | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
+### Bleak Ghost Note Groove — "Bleak", Still Life (1999)
+- **BPM:** ~100 BPM | **Time:** 4/4 (dynamic, atmospheric) | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
 - **Techniques:** ghost-notes, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -4568,7 +4568,7 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-bleak-ghost-notes
 
 ### The Drapery Falls Dynamic Architecture — "The Drapery Falls", Blackwater Park (2001)
-- **BPM:** ~90 BPM | **Time:** 4/4 (dynamic shifts, mixed passages) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
+- **BPM:** ~75 BPM | **Time:** 4/4 (dynamic shifts, mixed passages) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
 - **Techniques:** groove-drumming, fill-techniques, polyrhythms
 
 **How to play it:**
@@ -4611,7 +4611,7 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 
 **Gear Used:**
 - Noble & Cooley Kit (drums)
-- Zildjian K Constantinople Cymbals (cymbals)
+- Zildjian K Dark Series Cymbals (cymbals)
 - Axis Percussion Double Pedal (hardware)
 - Vic Firth Sticks (sticks)
 
@@ -4642,7 +4642,7 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-demon-of-the-fall-opening
 
 ### Blackwater Park Jazz Shuffle Groove — "Blackwater Park", Blackwater Park (2001)
-- **BPM:** ~92 BPM | **Time:** 4/4 (jazz shuffle feel, triplet subdivision) | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
+- **BPM:** ~85 BPM | **Time:** 4/4 (jazz shuffle feel, triplet subdivision) | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
 - **Techniques:** groove-drumming, ghost-notes, fill-techniques
 
 **How to play it:**
@@ -5034,7 +5034,7 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/drummers/matt-halpern) · All licks: [https://metalforge.io/drummers/matt-halpern/licks](https://metalforge.io/drummers/matt-halpern/licks)
 
 ### Icarus Lives! Djent Groove — "Icarus Lives!", Periphery (2010)
-- **BPM:** ~170 BPM | **Time:** 4/4 (syncopated, polymetric accents) | **Technique:** main groove | **Difficulty:** Expert (5/5) | **Style:** djent
+- **BPM:** ~120 BPM | **Time:** 4/4 (syncopated, polymetric accents) | **Technique:** main groove | **Difficulty:** Expert (5/5) | **Style:** djent
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -5053,13 +5053,12 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 **Gear Used:**
 - Yamaha Drum Kit (drums)
 - Meinl Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (pedals)
 
 **Tutorial:** https://www.youtube.com/watch?v=WjObrWs84iM
 **Page:** https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-icarus-lives-groove
 
 ### Marigold Melodic Groove — "Marigold", Periphery III: Select Difficulty (2016)
-- **BPM:** ~150 BPM | **Time:** 4/4 (dynamic, song-driven) | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
+- **BPM:** ~140 BPM | **Time:** 4/4 (dynamic, song-driven) | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** progressive-metal
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -5084,7 +5083,7 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-marigold-groove
 
 ### The Bad Thing Double-Bass Assault — "The Bad Thing", Juggernaut: Alpha (2015)
-- **BPM:** ~180 BPM | **Time:** 4/4 (shifting groupings, half-time breakdowns) | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** djent
+- **BPM:** ~135 BPM | **Time:** 4/4 (shifting groupings, half-time breakdowns) | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** djent
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -5109,7 +5108,7 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-the-bad-thing-groove
 
 ### Scarlet Syncopated Djent Groove — "Scarlet", Periphery II: This Time It's Personal (2012)
-- **BPM:** ~158 BPM | **Time:** 4/4 (syncopated 16th-note ghost-note grid) | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** djent
+- **BPM:** ~132 BPM | **Time:** 4/4 (syncopated 16th-note ghost-note grid) | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** djent
 - **Techniques:** ghost-notes, groove-drumming, double-bass
 
 **How to play it:**
@@ -5128,7 +5127,6 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 **Gear Used:**
 - Pearl Reference Series Kit (drums)
 - Meinl Byzance Series Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (pedals)
 **Page:** https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-scarlet-groove
 
 ### Ragnarok Hybrid Blast Groove — "Ragnarok", Periphery II: This Time It's Personal (2012)
@@ -5151,7 +5149,6 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 **Gear Used:**
 - Pearl Reference Series Kit (drums)
 - Meinl Byzance Series Cymbals (cymbals)
-- Pearl Demon Drive Double Pedal (pedals)
 **Page:** https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-ragnarok-blast
 
 ### Masamune Ghost-Note Density Pattern — "Masamune", Periphery III: Select Difficulty (2016)
@@ -5378,7 +5375,7 @@ Profile: [https://metalforge.io/drummers/mike-portnoy](https://metalforge.io/dru
 - Play along with the record to internalise the song-serving phrasing
 
 **Gear Used:**
-- Tama Starclassic Kit (drums)
+- Tama Artstar II (drums)
 - Sabian Cymbals (cymbals)
 - Tama Iron Cobra Pedals (pedals)
 
@@ -5428,7 +5425,7 @@ Profile: [https://metalforge.io/drummers/mike-portnoy](https://metalforge.io/dru
 - Once the fill is solid, practise the transition into the main groove without stopping
 
 **Gear Used:**
-- Tama Starclassic Kit (drums)
+- Tama Artstar II (drums)
 - Sabian Cymbals (cymbals)
 - Tama Iron Cobra Pedals (pedals)
 **Page:** https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-pull-me-under-fill
@@ -5802,7 +5799,7 @@ Profile: [https://metalforge.io/drummers/navene-koperweis](https://metalforge.io
 Profile: [https://metalforge.io/drummers/nick-augusto](https://metalforge.io/drummers/nick-augusto) · All licks: [https://metalforge.io/drummers/nick-augusto/licks](https://metalforge.io/drummers/nick-augusto/licks)
 
 ### In Waves Main Groove Pattern — "In Waves", In Waves (2011)
-- **BPM:** ~175 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** metalcore
+- **BPM:** ~132 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** metalcore
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -5908,7 +5905,7 @@ Profile: [https://metalforge.io/drummers/nick-barker](https://metalforge.io/drum
 Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drummers/nick-menza) · All licks: [https://metalforge.io/drummers/nick-menza/licks](https://metalforge.io/drummers/nick-menza/licks)
 
 ### Tornado of Souls Melodic Groove — "Tornado of Souls", Rust in Peace (1990)
-- **BPM:** ~210 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** thrash-metal
+- **BPM:** ~178 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** thrash-metal
 - **Techniques:** thrash-groove, precise-fills, high-velocity-control
 
 **How to play it:**
@@ -5933,7 +5930,7 @@ Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/nick-menza/licks/nick-menza-tornado-of-souls-melodic-groove
 
 ### Holy Wars Intro Blast Pattern — "Holy Wars...The Punishment Due", Rust in Peace (1990)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5) | **Style:** thrash-metal
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5) | **Style:** thrash-metal
 - **Techniques:** blast-beat, thrash-groove, syncopated-fill
 
 **How to play it:**
@@ -5958,7 +5955,7 @@ Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/nick-menza/licks/nick-menza-holy-wars-intro-blast-pattern
 
 ### Hangar 18 Technical Fill Sequence — "Hangar 18", Rust in Peace (1990)
-- **BPM:** ~225 BPM | **Time:** 4/4 | **Technique:** fill sequence | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
+- **BPM:** ~165 BPM | **Time:** 4/4 | **Technique:** fill sequence | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
 - **Techniques:** rapid-fill-sequences, polyrhythmic-independence, tempo-control
 
 **How to play it:**
@@ -5983,7 +5980,7 @@ Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/nick-menza/licks/nick-menza-hangar-18-technical-fill-sequence
 
 ### Tornado of Souls Double-Bass Roll — "Tornado of Souls", Rust in Peace (1990)
-- **BPM:** ~210 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
+- **BPM:** ~178 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5) | **Style:** thrash-metal
 - **Techniques:** double-bass, dynamic-shaping, riff-lock
 
 **How to play it:**
@@ -6006,7 +6003,7 @@ Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/nick-menza/licks/nick-menza-tornado-of-souls-lick
 
 ### Holy Wars Gallop Groove — "Holy Wars...The Punishment Due", Rust in Peace (1990)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** gallop groove | **Difficulty:** Advanced (4/5) | **Style:** thrash-metal
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** gallop groove | **Difficulty:** Advanced (4/5) | **Style:** thrash-metal
 - **Techniques:** gallop-groove, riff-lock, thrash-groove
 
 **How to play it:**
@@ -6082,7 +6079,7 @@ Profile: [https://metalforge.io/drummers/nicko-mcbrain](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/nicko-mcbrain/licks/nicko-mcbrain-the-trooper
 
 ### Aces High Full-Throttle Drive — "Aces High", Powerslave (1984)
-- **BPM:** ~175 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5) | **Style:** heavy-metal
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5) | **Style:** heavy-metal
 - **Techniques:** groove-drumming, fill-techniques, linear-drumming
 
 **How to play it:**
@@ -7369,7 +7366,7 @@ Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-walk-groove
 
 ### Cowboys from Hell Driving Groove — "Cowboys from Hell", Cowboys from Hell (1990)
-- **BPM:** ~135 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** groove-metal
+- **BPM:** ~118 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5) | **Style:** groove-metal
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -7393,7 +7390,7 @@ Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-cowboys-from-hell-groove
 
 ### Domination Double-Bass Breakdown — "Domination", Cowboys from Hell (1990)
-- **BPM:** ~180 BPM | **Time:** 4/4 (fast verses into half-time breakdown) | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** groove-metal
+- **BPM:** ~104 BPM | **Time:** 4/4 (fast verses into half-time breakdown) | **Technique:** signature pattern | **Difficulty:** Expert (5/5) | **Style:** groove-metal
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -7439,7 +7436,7 @@ Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-pantera-groove-pocket
 
 ### Far Beyond Driven 16th-Note Double Bass — "5 Minutes Alone", Far Beyond Driven (1994)
-- **BPM:** ~162 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5) | **Style:** groove-metal
+- **BPM:** ~92 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5) | **Style:** groove-metal
 - **Techniques:** double-bass, groove-drumming
 
 **How to play it:**

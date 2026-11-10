@@ -5640,22 +5640,22 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'White Pony (2000)',
     profileImage: '/images/drummers/abe-cunningham.webp',
 
-    summary: "Abe Cunningham's 2000 setup behind Deftones' White Pony documents the decisive pivot from nu-metal aggression to atmospheric alt-metal sophistication that made the album a Grammy-winning critical landmark. Running the same Tama Starclassic shell pack he's played since Deftones' 1997 breakthrough on Around the Fur, and building his cymbal voice on Zildjian A/K Custom cymbals since that same year, Cunningham built a rig tuned for space and dynamics rather than raw power — the complete setup cost approximately $8,000 in 2000 dollars, equivalent to roughly $15,220 today after inflation. Cunningham's cymbal setup evolved across Deftones' catalog while his Tama shells stayed constant — he moved to a darker Sabian HHX setup for the groove-driven Diamond Eyes (2010) era, carrying that darker voice through the cinematic Gore (2016) and Ohms (2020) records. His verified current setup centers on the same Tama Starclassic Maple/Bubinga kit, now paired with a Zildjian A Custom/K Custom hybrid cymbal spread he returned to in the years following the Ohms touring cycle — one of the longest single-brand drum relationships in alternative metal, built on the same dynamic, groove-first restraint that has made him one of the genre's most respected drummers for over three decades.",
+    summary: "Abe Cunningham's 2000 setup behind Deftones' White Pony documents the decisive pivot from nu-metal aggression to atmospheric alt-metal sophistication that made the album a Grammy-winning critical landmark. Running the same Tama Starclassic shell pack he's played since Deftones' 1997 breakthrough on Around the Fur, and building his cymbal voice on Zildjian A/K Custom cymbals since that same year, Cunningham built a rig tuned for space and dynamics rather than raw power — the complete setup cost approximately $8,000 in 2000 dollars, equivalent to roughly $15,220 today after inflation. Cunningham's cymbal setup evolved across Deftones' catalog while his Tama shells stayed constant — he moved to a darker Sabian HHX setup for the groove-driven Diamond Eyes (2010) era, carrying that darker voice through the cinematic Gore (2016) and Ohms (2020) records. His verified current setup centers on the same Tama Starclassic Bubinga kit, now paired with a Zildjian A Custom/K Custom hybrid cymbal spread he returned to in the years following the Ohms touring cycle — one of the longest single-brand drum relationships in alternative metal, built on the same dynamic, groove-first restraint that has made him one of the genre's most respected drummers for over three decades.",
 
     setup: {
       drums: {
         item: 'Tama Starclassic',
-        model: 'Maple/bubinga hybrid shell pack',
+        model: 'Bubinga shell pack',
         specs: '22" kick, 10"/12"/14"/16" toms',
         originalPrice: 3400,
         year: 2000,
         source: 'Tama Starclassic catalog MSRP 2000',
-        notes: "The same Tama Starclassic kit Cunningham has played since Deftones' 1997 breakthrough on Around the Fur — the maple/bubinga hybrid shells gave him the warmer, more resonant tone that suited White Pony's atmospheric arrangements.",
+        notes: "The same Tama Starclassic kit Cunningham has played since Deftones' 1997 breakthrough on Around the Fur — the dense bubinga shells gave him the warmer, more resonant tone that suited White Pony's atmospheric arrangements.",
         vintageValue2026: 2200,
         modernEquivalent: {
-          item: 'Tama Starclassic Maple/Bubinga (current Cunningham kit)',
+          item: 'Tama Starclassic Bubinga (current Cunningham kit)',
           price: 4200,
-          link: 'tama-starclassic-maple-bubinga-abe',
+          link: 'tama-starclassic-bubinga-abe',
         },
       },
       snare: {

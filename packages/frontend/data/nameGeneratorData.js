@@ -619,7 +619,7 @@ export const DRUMMER_MATCHES = [
   {
     id: 'jay-weinberg',
     name: 'Jay Weinberg',
-    band: 'Slipknot',
+    band: 'ex-Slipknot',
     image: '/images/drummers/jay-weinberg.webp',
     traits: ['legacy', 'chaotic', 'energy'],
     matchQuote: 'You carry the torch with honor!'

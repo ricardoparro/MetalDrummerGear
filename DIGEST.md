@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-09 19:08 UTC · Window: last 12h*
+*Generated 2026-11-10 08:15 UTC · Window: last 12h*
 
 ---
 
@@ -9,26 +9,26 @@
 | Metric | Value |
 | --- | --- |
 | Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 11 |
+| Open `seo-proposal` issues | 10 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
 | Open PRs | 0 |
-| PRs merged in window | **5** |
-| Issues closed in window | 5 |
-| Commits to `main` in window | 14 |
+| PRs merged in window | **8** |
+| Issues closed in window | 7 |
+| Commits to `main` in window | 13 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **457** |
-| Sessions | 533 |
-| Page views | 763 |
-| Engagement rate | 64.54% |
-| GSC impressions | 15,137 |
-| GSC clicks | 307 |
-| GSC CTR | 2.03% |
-| GSC avg position | 8.1 |
+| Active users | **478** |
+| Sessions | 548 |
+| Page views | 761 |
+| Engagement rate | 64.05% |
+| GSC impressions | 15,047 |
+| GSC clicks | 318 |
+| GSC CTR | 2.11% |
+| GSC avg position | 8.0 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,8 +36,8 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~3,270 |
-| Est. ad revenue / mo | **~€9.81** |
+| Est. pageviews / mo | ~3,261 |
+| Est. ad revenue / mo | **~€9.78** |
 | Progress to €1000/mo | 1.0% |
 | Pageviews/mo needed for €1000 | ~333,333 (102× current) |
 
@@ -65,61 +65,58 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 14d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 18d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 47d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 13d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 17d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 46d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 49 | 48 | 1 |
-| Check Sitemap Drift | 6 | 3 | 3 |
-| Verify YouTube Videos | 6 | 3 | 3 |
-| Verify Data Modules | 6 | 3 | 3 |
-| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
-| Health Check | 4 | 3 | 1 |
-| Check llms freshness | 4 | 0 | 4 |
-| Perf Budget Gate | 3 | 0 | 3 |
-| Daily Digest | 2 | 1 | 0 |
-| Loop Watchdog | 2 | 2 | 0 |
-| SEO Agent | 2 | 1 | 0 |
-| CEO Agent | 2 | 1 | 1 |
-| Verify API Modules | 2 | 1 | 1 |
-| Roadie Night Fleet | 1 | 0 | 0 |
-| X Agent | 1 | 1 | 0 |
-| Check structured data | 1 | 1 | 0 |
-| Check indexation health | 1 | 1 | 0 |
-| Check GSC watched queries | 1 | 1 | 0 |
-| Check backlink signal | 1 | 1 | 0 |
-| Check LLM citations | 1 | 1 | 0 |
+| PR Merger | 29 | 29 | 0 |
+| Verify YouTube Videos | 16 | 9 | 7 |
+| Check Sitemap Drift | 15 | 8 | 7 |
+| Verify Data Modules | 14 | 8 | 6 |
+| Check llms freshness | 8 | 0 | 8 |
+| Perf Budget Gate | 7 | 0 | 7 |
+| Verify API Modules | 3 | 2 | 1 |
+| Daily Digest | 1 | 0 | 0 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
+| Loop Watchdog | 1 | 1 | 0 |
+| SEO Agent | 1 | 1 | 0 |
+| Prune Proposals | 1 | 1 | 0 |
+| Health Check | 1 | 1 | 0 |
+| CEO Agent | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-10 06:12 (cheap pulse, pre-deep-run — 2/2 proposals verified+promoted #10507/10508)
+- 2026-11-10 00:18 (cheap pulse — 5/5 proposals verified+promoted #10497/10498/10502/10503/10504)
 - 2026-11-09 00:21 — overnight pulse: 4/4 proposals verified+promoted #10477-10481, #10460 corrected-close (already resolv
-- 2026-11-08 18:08 (cheap pulse — 3/3 proposals verified+promoted #10469-10471)
-- 2026-11-08 12:xx — daily deep run: 5/5 fresh proposals verified+promoted #10456-10460
-- 2026-11-08 06:11 (cheap pulse, pre-deep-run — 7/7 proposals verified+promoted #10446-10452)
-- 2026-11-08 00:2x (cheap pulse — 3/3 proposals verified+promoted #10443-10445)
 - 2026-11-09 06:20 (cheap pulse, pre-deep-run — 3/3 proposals verified+promoted #10485-10487)
+- 2026-11-09 12:11 — daily deep run: L1/L2/L3 full close-the-loop, 2/2 proposals verified+promoted #10492-10493, L2 rotati
 
-## 📦 Shipped to main (5)
+## 📦 Shipped to main (8)
 
-- #10500 fix: #10493 SEO: Martin Lopez fabricated Morbid Angel 'Heretic' session credit in drummerComparisons.js (3 locations) — zero Morbid Angel connection in verified band history
-- #10499 fix: #10492 SEO: Hellhammer's Dimmu Borgir tenure still stale '2005-2010' in api/drummers/index.js + extendedBios.js — verified 1999-2013 by 3 closed issues
-- #10496 fix: #10487 SEO: Danny Carey Paiste cymbal sizes fabricated in drummerComparisons.js + genreGearGuides.js (3 locations, 2 files) — verified 14"/18"&20" vs claimed 15"/18"&19"
-- #10495 fix: #10486 SEO: Eloy Casagrande cymbal models invented in matt-greiner-vs-eloy-casagrande.md — contradicts file's own Setup section
-- #10494 fix: #10485 SEO batch: 2 drummerComparisons.js George Kollias entries missed by both #9826 and #10471's restore
+- #10522 fix: #10508 SEO batch: Mike Portnoy kit wood fabricated as 'Tama Starclassic Maple/Birch' in drummerComparisons.js (9 locations, 6 entries) — scope gap in closed #7821/#7836
+- #10521 fix: #10507 SEO: Abe Cunningham snare still 'Maple/Bubinga shell pack' in drummerComparisons.js (6 locations, missed by #10191/#10176) + 4 public/llms mirrors
+- #10516 fix: #10504 SEO batch: genreGearGuides.js frames Chris Adler as a current Lamb of God member throughout (~100+ locations) — verified ex-Lamb of God since 2019, replaced by Art Cruz
+- #10512 fix: #10497 SEO batch: Art Cruz splash cymbal fabrication ('9" FX Trash Splash') survives in 4 files after #10205 only fixed cymbalSetups.js (~15 locations)
+- #10511 fix: #10503 SEO batch: genreGearGuides.js frames Jay Weinberg as a current Slipknot member throughout (~25+ locations) — verified ex-Slipknot since 2023
+- #10510 fix: #10502 SEO: genreGearGuides.js Abe Cunningham affiliateLink URLs still point to stale 'maple_bubinga' slug after #10176 (2 locations)
+- #10509 fix: #10498 SEO: Gene Hoglan Dark Angel start year still '1983' in genreGearGuides.js FAQ, missed by today's #10478 fix
+- #10506 fix: week-1 audit repairs — social images, crawler routing, 404s, analytics guard, broken pages
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 150h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2460h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2556h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2733h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3818h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 164h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2473h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2569h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2746h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3831h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

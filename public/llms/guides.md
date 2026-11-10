@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-11-08 · Source: https://metalforge.io
+> Last updated: 2026-11-10 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -79,7 +79,7 @@ MetalForge publishes two categories of drummer guides: **how-to-sound-like** sty
 - [Martin Axenrot — Opeth](https://metalforge.io/guides/how-to-sound-like-martin-axenrot) · Progressive Metal / Progressive Death Metal
 - [Jimmy DeGrasso — Megadeth](https://metalforge.io/guides/how-to-sound-like-jimmy-degrasso) · Thrash Metal
 - [Nick Barker — Dimmu Borgir](https://metalforge.io/guides/how-to-sound-like-nick-barker) · Black Metal / Death Metal
-- [Alex Rüdinger — The Faceless](https://metalforge.io/guides/how-to-sound-like-alex-rudinger) · Technical Death Metal / Progressive Metal
+- [Alex Rüdinger — Former The Faceless / Trivium](https://metalforge.io/guides/how-to-sound-like-alex-rudinger) · Technical Death Metal / Progressive Metal
 - [John Longstreth — Origin](https://metalforge.io/guides/how-to-sound-like-john-longstreth) · Technical Death Metal / Brutal Death Metal
 - [Waltteri Väyrynen — Opeth](https://metalforge.io/guides/how-to-sound-like-waltteri-vayrynen) · Progressive Metal / Gothic Doom Metal
 
@@ -3678,7 +3678,7 @@ A: Beyond Cradle of Filth and Dimmu Borgir, Barker has been a member of grindcor
 
 ---
 
-## How to Sound Like Alex Rüdinger (The Faceless)
+## How to Sound Like Alex Rüdinger (Former The Faceless / Trivium)
 
 **Genre:** Technical Death Metal / Progressive Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-alex-rudinger](https://metalforge.io/guides/how-to-sound-like-alex-rudinger)

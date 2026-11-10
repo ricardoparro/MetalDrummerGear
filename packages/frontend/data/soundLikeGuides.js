@@ -17525,7 +17525,7 @@ This guide breaks down the technique and gear approach behind Barker's sound —
     slug: 'how-to-sound-like-alex-rudinger',
     drummerId: 70,
     drummerName: 'Alex Rüdinger',
-    band: 'The Faceless',
+    band: 'Former The Faceless / Trivium',
     genre: 'Technical Death Metal / Progressive Metal',
     priority: 68,
     title: "How to Sound Like Alex Rüdinger: Complete Gear & Technique Guide",

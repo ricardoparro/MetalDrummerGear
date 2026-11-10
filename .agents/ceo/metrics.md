@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-10 00:17 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-10 01:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,19 +8,19 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 444 |
-| Sessions | 512 |
-| Page views | 709 |
-| Engagement rate | 64.06% |
-| Avg session (s) | 108 |
+| Active users | 456 |
+| Sessions | 524 |
+| Page views | 727 |
+| Engagement rate | 64.12% |
+| Avg session (s) | 106 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /bpm | 29 | 4 |
-| / | 23 | 18 |
+| /bpm | 30 | 5 |
+| / | 24 | 19 |
 | /drummers | 23 | 5 |
-| /articles/john-otto-drum-setup | 17 | 14 |
+| /articles/john-otto-drum-setup | 19 | 16 |
 | /articles/black-sabbath-drum-setup | 13 | 9 |
 | /drummer/matt-greiner | 13 | 11 |
 | /drummer/bill-ward | 12 | 10 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 409 | 348 |
-| Direct | 86 | 80 |
-| Unassigned | 13 | 10 |
+| Organic Search | 410 | 349 |
+| Direct | 97 | 91 |
+| Unassigned | 16 | 13 |
 | Referral | 12 | 12 |
 | AI Assistant | 1 | 1 |
 
@@ -42,11 +42,11 @@
 | --- | --- | --- |
 | United States | 177 | 144 |
 | United Kingdom | 36 | 32 |
+| Portugal | 28 | 28 |
 | Singapore | 27 | 27 |
 | Sweden | 21 | 17 |
 | Canada | 20 | 16 |
 | Germany | 17 | 17 |
-| Portugal | 17 | 17 |
 | Australia | 16 | 15 |
 | Netherlands | 13 | 12 |
 | Brazil | 11 | 9 |

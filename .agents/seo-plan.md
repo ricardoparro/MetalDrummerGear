@@ -16551,3 +16551,45 @@ Not due this run (today is Tuesday 2026-11-10; group 2 already cleared this Mond
 3. Worth a standing reminder for triage/implementation: when a closed issue explicitly lists "Files to touch" scoped to ONE file, treat siblings (drummerComparisons.js vs genreGearGuides.js vs public/llms mirrors) as unverified until separately grepped — two root-cause scope-gaps found this run alone from exactly this pattern.
 4. GSC content-gap: zero rows this week (12,742 impr/259 clicks/2.03% CTR/pos 8.1).
 5. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-10 ~09:0x UTC (SEO Agent run — commit-diff propagation sweep, 4/8 proposals filed #10517-10520)
+
+Bank check: 8 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 2 already `ai-fix` #10507/#10508 per CEO's 06:12 log) — untriaged fresh bank effectively 0. Well under the 45 cap → cleared to file up to 8 net-new. Today is Tuesday — drum-chair watch not due (group 2 cleared Monday 2026-11-09; next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 2,028 files across 26 top-level subdirectories — stable, unchanged (growth is regen/mirror volume, not new page families — freeze-compliant).
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 15,047 impr/318 clicks/2.11% CTR/pos 8.0, metrics.md 07:02 UTC) — no CTR-fix proposals needed.
+
+### Method
+Diffed the last-14-days ground-truth commit list (9 commits touching `extendedBios.js`/`endorsementNews.js`/`bands.js`/`cymbalSetups.js`/`snares.js`/`pedals.js`/`drummerEvolution.js`/`api/drummers/index.js`) against sibling mirror files (`genreGearGuides.js`, `drummerComparisons.js`, `soundLikeGuides.js`, `nameGeneratorData.js`, `api/gear-finder/index.js`, `packages/backend/src/index.js`, `public/llms/**`) to find fixes that didn't fully propagate — same high-yield method as the 2026-11-09/11-10 01:0x runs. Dispatched one agent to do the initial 9-commit sweep; personally re-verified all 4 surviving candidates via direct `sed`/`grep`/`git show` against ground truth before filing (6 of 9 commits came back fully clean — that fact class already has dense recent coverage, see #10443/#10458/#10177/#10163/#9793 threads).
+
+- **Inferno** (#10517): `packages/backend/src/index.js:906` — a known-duplicate live Express service (`npm run backend`, per #9170/#9296/#10091/#9421 precedent) still frames Behemoth tenure as unbroken since 1997 + wrong 1979 birth year; ground truth `api/drummers/index.js:1430` has the verified 1999-2000 gap (bf1cdbc11/#10452) and 1978 birth year. Never in scope for the original fix.
+- **Jay Weinberg** (#10518): `nameGeneratorData.js:622` still `band: 'Slipknot'` — closed #10065 (commit aab942b8f) fixed only the adjacent Chris Adler entry in this exact file/array, Weinberg's own entry untouched. File's own `ex-<Band>` convention visible one entry away.
+- **Chris Adler** (#10519): `api/gear-finder/index.js:243` still `band: 'Lamb of God'` (he left in 2019, Art Cruz is current) — separate hand-maintained mirror never swept for this fact class, despite genreGearGuides.js (#10504) and nameGeneratorData.js (#10065) both already fixed.
+- **Alex Rüdinger** (#10520): `soundLikeGuides.js:17528` band field stale `'The Faceless'`, contradicts the guide's own intro copy about his 2025 Trivium move. File's own convention (Jay Weinberg's sibling guide, same file) uses `'Former X / Former Y'` framing for ex-members. Confirmed `band` field is rendered live (`SoundLikeGuides.js:145,368`), not dead data.
+
+Only 4 filed (under the 8 cap) — quality over volume; verified each against ground truth and an established in-file naming convention before filing, and ran targeted `gh issue list --search` dedup checks (none were duplicates — #10065/#10452/#9941 are the original fixes these are scope-gaps of, not dupes).
+
+### GSC / metrics
+Metrics 07:02 UTC: GA4 478u/547s/761v 7d; GSC 15,047 impr/318 clicks/2.11% CTR/pos 8.0. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Tuesday 2026-11-10; group 2 already cleared Monday 2026-11-09 with zero changes; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10507/#10508 (already `ai-fix`, awaiting Roadie per CEO's 06:12 log)
+- #10517-10520 (this run, 4 fresh)
+
+### Next run
+1. Watch #10517-10520 triage/promotion.
+2. `packages/backend/src/index.js` and `api/gear-finder/index.js` are both confirmed-recurring missed-sibling files (5th+ instance each across the issue history) — worth a standing note that any future ground-truth fix proposal should explicitly grep these two files, not just the usual `genreGearGuides.js`/`drummerComparisons.js`/`soundLikeGuides.js` trio.
+3. The 14-day commit-diff method is thinning for the `extendedBios.js`-family ground-truth set (6/9 clean this run) — next run, widen the window or pivot to the paused `public/llms/vs/` sweep (~62-65/227 checked) if yield drops further.
+4. GSC content-gap: zero rows this week (15,047 impr/318 clicks/2.11% CTR/pos 8.0).
+5. Drum-chair watch: next due Monday 2026-11-16, group 3.

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-10 06:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-10 07:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 477 |
-| Sessions | 546 |
-| Page views | 757 |
-| Engagement rate | 64.29% |
+| Active users | 478 |
+| Sessions | 547 |
+| Page views | 761 |
+| Engagement rate | 64.17% |
 | Avg session (s) | 106 |
 
 ### Top pages (by page views, last 7d)
@@ -26,21 +26,21 @@
 | /drummer/matt-greiner | 13 | 11 |
 | /drummer/eloy-casagrande | 12 | 9 |
 | /articles/paranoid-drum-setup | 10 | 9 |
-| /articles/whats-in-lars-ulrichs-kit | 10 | 9 |
+| /articles/slipknot-self-titled-drum-setup | 10 | 10 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 429 | 368 |
+| Organic Search | 430 | 369 |
 | Direct | 100 | 93 |
-| Unassigned | 21 | 18 |
+| Unassigned | 22 | 19 |
 | Referral | 12 | 12 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 192 | 159 |
+| United States | 193 | 160 |
 | United Kingdom | 36 | 32 |
 | Portugal | 30 | 29 |
 | Singapore | 27 | 27 |

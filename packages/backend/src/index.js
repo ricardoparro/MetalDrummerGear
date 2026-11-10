@@ -903,7 +903,7 @@ const drummers = [
     country: 'Poland',
     era: '90s',
     image: 'https://upload.wikimedia.org/wikipedia/commons/7/72/Behemoth_-_Reload_Festival_2024_01.jpg',
-    bio: 'Zbigniew Robert Promiński, known as Inferno, born in 1979, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno\'s technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.',
+    bio: 'Zbigniew Robert Promiński, known as Inferno, born in 1978, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and, apart from a brief gap around 1999-2000, has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno\'s technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.',
     gear: {
       drums: 'Pearl Reference Pure',
       snare: 'Pearl Reference 14x5" Steel',

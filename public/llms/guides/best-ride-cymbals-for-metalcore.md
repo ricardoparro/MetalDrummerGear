@@ -11,7 +11,7 @@
 
 Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the ride cymbal has to serve both. Palm-muted chugs and tightly syncopated riffing need a ride that stays dry and controlled rather than washing out, while the genre's frequent tempo and dynamic shifts demand quick, clear stick definition through complex patterns.
 
-Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Matt Greiner of August Burns Red runs a near-identical 21" Meinl Byzance Extra Dry Transition Ride, driving August Burns Red's Grammy-nominated catalog with the same dry clarity. Alex Bent, who brought his technical death metal background to Trivium, rides a 21" Meinl Byzance Brilliant Medium Ride for a brighter, faster attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, riding a 21" Zildjian K Custom Ride for a darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Matt Greiner of August Burns Red runs a near-identical 21" Meinl Byzance Extra Dry Transition Ride, driving August Burns Red's Grammy-nominated catalog with the same dry clarity. Alex Bent, who brought his technical death metal background to Trivium, rides a 21" Meinl Byzance Brilliant Medium Ride for a brighter, faster attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took a different path entirely, riding a 21" Zildjian K Custom Ride for a darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
 This guide breaks down what actually makes a ride work for metalcore — dry control, stick definition, and clarity through breakdown transitions — and recommends specific models across every budget, from a first dry-toned ride to the exact cymbals metalcore's most influential drummers ride night after night.
 
@@ -131,12 +131,12 @@ Where Halpern and Greiner prioritize dryness and control, Bent's Brilliant Mediu
 **Type:** B20 Bronze, Traditional Dark  
 **Rating:** 4.5/5
 
-Jay Weinberg of Slipknot stands apart from metalcore's Meinl-dominated landscape, riding a 21" Zildjian K Custom Ride as the darker, more controlled counterpart to his brighter A Custom crashes. This brighter overall kit voice matches Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
+Jay Weinberg, formerly of Slipknot (2014-2023), stood apart from metalcore's Meinl-dominated landscape, riding a 21" Zildjian K Custom Ride as the darker, more controlled counterpart to his brighter A Custom crashes. This brighter overall kit voice matched Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
 
-The K Custom Ride adds dark, controlled definition underneath Slipknot's dynamic, theatrical arrangements — proof that metalcore's ride choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the sound a band is chasing.
+The K Custom Ride added dark, controlled definition underneath Slipknot's dynamic, theatrical arrangements — proof that metalcore's ride choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the sound a band is chasing.
 
 **Pros:**
-- Jay Weinberg's Slipknot setup — proven on massive stages across a global touring career
+- Jay Weinberg's Slipknot-era setup — proven on massive stages across a global touring career
 - Darker, controlled definition balances a brighter overall cymbal setup
 - B20 bronze for complex, articulate stick definition
 - Works well for aggressive, nu-metal-influenced metalcore
@@ -147,7 +147,7 @@ The K Custom Ride adds dark, controlled definition underneath Slipknot's dynamic
 - 21" size demands a sturdy cymbal stand
 
 **Who uses it:**
-- Jay Weinberg (Slipknot) — 21" K Custom Ride for aggressive, nu-metal-influenced metalcore
+- Jay Weinberg (ex-Slipknot) — 21" K Custom Ride for aggressive, nu-metal-influenced metalcore
 
 **Verdict:** Best for aggressive, nu-metal-influenced metalcore. Weinberg's setup brings dark, controlled definition to a brighter overall kit.
 
@@ -283,7 +283,7 @@ Metalcore's ride choices split along a clear line: dry control versus brighter, 
 - **Best Overall:** Meinl Byzance Extra Dry Transition Ride — Matt Halpern's and Matt Greiner's dry, controlled standard for breakdown-heavy technical metalcore.
 - **Best for Melodic Metalcore:** Meinl Byzance Brilliant Medium Ride — Alex Bent's brighter, faster attack for Trivium's riff-driven modern metal sound.
 - **Best Budget:** Zildjian ZBT Ride — A genuinely bright, cutting attack at a true beginner price.
-- **Best for Aggressive Metalcore:** Zildjian K Custom Ride — Jay Weinberg's dark, controlled definition for Slipknot's aggressive hybrid sound.
+- **Best for Aggressive Metalcore:** Zildjian K Custom Ride — Jay Weinberg's dark, controlled definition for Slipknot's aggressive hybrid sound (2014-2023).
 
 ---
 
@@ -293,7 +293,7 @@ Metalcore's ride choices split along a clear line: dry control versus brighter, 
 Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes.
 
 **What ride cymbal does Jay Weinberg use?**
-Jay Weinberg of Slipknot rides a 21" Zildjian K Custom Ride, adding darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Jay Weinberg, formerly of Slipknot (2014-2023), rode a 21" Zildjian K Custom Ride, adding darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
 **What size ride cymbal is best for metalcore?**
 21"-22" is the metalcore standard. Matt Halpern's 22" Transition Ride leans into slightly more low-end body, while Matt Greiner's, Alex Bent's, and Jay Weinberg's 21" rides respond a touch faster for busy, syncopated patterns.
@@ -327,13 +327,13 @@ Start with a 21"-22" pro ride built for control, and choose your voicing based o
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — 22" Meinl Byzance Extra Dry Transition Ride — Periphery djent-metalcore precision
 - [Matt Greiner](https://metalforge.io/drummer/matt-greiner) — 21" Meinl Byzance Extra Dry Transition Ride — August Burns Red technical metalcore
 - [Alex Bent](https://metalforge.io/drummer/alex-bent) — 21" Meinl Byzance Brilliant Medium Ride — Trivium melodic modern metal
-- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — 21" Zildjian K Custom Ride — Slipknot aggressive metalcore
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — 21" Zildjian K Custom Ride — ex-Slipknot (2014-2023) aggressive metalcore
 
 ## Featured Drummers
 
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Meinl Byzance Extra Dry Transition Ride for Periphery
 - [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Extra Dry Transition Ride for August Burns Red
-- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian K Custom Ride for Slipknot
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian K Custom Ride from his Slipknot era (2014-2023)
 
 ---
 

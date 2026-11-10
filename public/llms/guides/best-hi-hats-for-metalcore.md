@@ -11,7 +11,7 @@
 
 Hi-hats do more rhythmic work in metalcore than almost any other cymbal in the kit. Palm-muted breakdown riffing, tightly syncopated chugs, and constant tempo and dynamic shifts all live or die on whether the hi-hat stays controlled and articulate — a washy, uncontrolled hi-hat turns a precise breakdown into mud, while a dry, well-chosen pair locks the whole riff into place.
 
-Matt Halpern of Periphery builds his setup around 15" Dark Hi-Hats from the Meinl Byzance Extra Dry line, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, low-sustain foundation across "Periphery II," "Juggernaut," and "Hail Stan." Matt Greiner of August Burns Red runs a near-identical 15" Dual Hi-Hats setup from the same Byzance Extra Dry series, driving August Burns Red's Grammy-nominated technical precision. Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium, plays 14" Medium Hi-Hats from the brighter Meinl Byzance Brilliant Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
+Matt Halpern of Periphery builds his setup around 15" Dark Hi-Hats from the Meinl Byzance Extra Dry line, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, low-sustain foundation across "Periphery II," "Juggernaut," and "Hail Stan." Matt Greiner of August Burns Red runs a near-identical 15" Dual Hi-Hats setup from the same Byzance Extra Dry series, driving August Burns Red's Grammy-nominated technical precision. Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium, plays 14" Medium Hi-Hats from the brighter Meinl Byzance Brilliant Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
 
 This guide breaks down exactly what makes a great metalcore hi-hat — diameter, voicing, and control — and which specific models these four influential drummers play, from budget starter pairs to the professional setups heard on the genre's most technically respected records.
 
@@ -126,14 +126,14 @@ Where Halpern and Greiner prioritize dryness and control, Bent's Brilliant Serie
 **Material:** B20 Bronze  
 **Rating:** 4.5/5
 
-Jay Weinberg of Slipknot stands apart from metalcore's Meinl-dominated landscape, running 14" A New Beat Hi-Hats from Zildjian's A Custom line alongside a K Custom ride and China elsewhere in his kit. This brighter, more explosive voice matches Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
+Jay Weinberg, formerly of Slipknot (2014-2023), stood apart from metalcore's Meinl-dominated landscape, running 14" A New Beat Hi-Hats from Zildjian's A Custom line alongside a K Custom ride and China elsewhere in his kit. This brighter, more explosive voice matched Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
 
-The A Custom line's brilliant finish gives fast, cutting response ideal for Slipknot's dynamic, theatrical arrangements — proof that metalcore's hi-hat choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the specific sound a band is chasing.
+The A Custom line's brilliant finish gave fast, cutting response ideal for Slipknot's dynamic, theatrical arrangements — proof that metalcore's hi-hat choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the specific sound a band is chasing.
 
 **Pros:**
-- Jay Weinberg's Slipknot setup — the brighter, more aggressive end of metalcore's hi-hat spectrum
+- Jay Weinberg's Slipknot-era setup — the brighter, more aggressive end of metalcore's hi-hat spectrum
 - A Custom's brilliant finish gives fast, explosive response
-- Proven on massive stages across Slipknot's global touring career
+- Proven on massive stages across Slipknot's global touring career (2014-2023)
 - Consistent Zildjian quality
 
 **Cons:**
@@ -142,7 +142,7 @@ The A Custom line's brilliant finish gives fast, cutting response ideal for Slip
 - Less dry control than the genre's more technical setups
 
 **Who uses it:**
-- Jay Weinberg (Slipknot) — 14" A New Beat Hi-Hats — aggressive, nu-metal-influenced metalcore
+- Jay Weinberg (ex-Slipknot) — 14" A New Beat Hi-Hats — aggressive, nu-metal-influenced metalcore
 
 **Verdict:** Best for aggressive, nu-metal-influenced metalcore. Weinberg's setup brings explosive brightness to the genre.
 
@@ -253,7 +253,7 @@ Metalcore's hi-hat choices split into two clear camps, defined by the genre's mo
 
 - **Best Overall:** Meinl Byzance Extra Dry Hi-Hats — Matt Halpern and Matt Greiner's shared setup — the genre's most technically respected hi-hat sound.
 - **Best for Melodic Metalcore:** Meinl Byzance Brilliant Hi-Hats — Alex Bent's Trivium setup. Faster, brighter attack for melodic, riff-driven material.
-- **Best for Aggressive Metalcore:** Zildjian A Custom & K Custom Hi-Hats — Jay Weinberg's choice for Slipknot's explosive, nu-metal-influenced hybrid sound.
+- **Best for Aggressive Metalcore:** Zildjian A Custom & K Custom Hi-Hats — Jay Weinberg's choice for Slipknot's (2014-2023) explosive, nu-metal-influenced hybrid sound.
 - **Best Budget:** Meinl Classics Custom Dark Hi-Hats — Real dry, controlled character without the flagship Byzance price.
 
 ---
@@ -261,7 +261,7 @@ Metalcore's hi-hat choices split into two clear camps, defined by the genre's mo
 ## FAQ
 
 **What hi-hats are used in metalcore?**
-Matt Halpern of Periphery and Matt Greiner of August Burns Red both use 15" Meinl Byzance Extra Dry Hi-Hats for controlled, low-sustain response. Alex Bent of Trivium uses 14" Meinl Byzance Brilliant Hi-Hats for a brighter, faster attack. Jay Weinberg of Slipknot uses 14" Zildjian A Custom Hi-Hats for explosive projection.
+Matt Halpern of Periphery and Matt Greiner of August Burns Red both use 15" Meinl Byzance Extra Dry Hi-Hats for controlled, low-sustain response. Alex Bent of Trivium uses 14" Meinl Byzance Brilliant Hi-Hats for a brighter, faster attack. Jay Weinberg, Slipknot's drummer from 2014 to 2023, used 14" Zildjian A Custom Hi-Hats for explosive projection.
 
 **What hi-hats does Matt Halpern use?**
 Matt Halpern of Periphery uses 15" Dark Hi-Hats from the Meinl Byzance Extra Dry Series, part of his broader Extra Dry cymbal setup that also includes 18" and 20" crashes, a 22" Transition Ride, and an 18" China.
@@ -300,14 +300,14 @@ Whatever you choose, prioritize consistent chick response and dynamic range over
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Meinl Byzance Extra Dry 15" Hi-Hats — Periphery djent-metalcore precision
 - [Matt Greiner](https://metalforge.io/drummer/matt-greiner) — Meinl Byzance Extra Dry 15" Hi-Hats — August Burns Red technical precision
 - [Alex Bent](https://metalforge.io/drummer/alex-bent) — Meinl Byzance Brilliant 14" Hi-Hats — Trivium melodic modern metal
-- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — Zildjian A Custom 14" Hi-Hats — Slipknot explosive hybrid sound
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — Zildjian A Custom 14" Hi-Hats — ex-Slipknot (2014-2023) explosive hybrid sound
 
 ## Featured Drummers
 
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Meinl Byzance Extra Dry Hi-Hats — Periphery djent-metalcore precision
 - [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Extra Dry Hi-Hats — August Burns Red technical precision
 - [Alex Bent](https://metalforge.io/drummer/alex-bent): Zildjian K Custom Hybrid Hi-Hats — Trivium melodic modern metal
-- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian A Custom Hi-Hats — Slipknot's explosive hybrid attack
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian A Custom Hi-Hats — ex-Slipknot's (2014-2023) explosive hybrid attack
 
 ---
 

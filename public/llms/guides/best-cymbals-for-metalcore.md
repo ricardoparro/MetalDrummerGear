@@ -1,6 +1,6 @@
 # Best Cymbals for Metalcore: 2026 Expert Guide
 
-> Best cymbal picks for metalcore drumming: what Matt Halpern (Periphery), Matt Greiner (August Burns Red), Alex Bent (Trivium), and Jay Weinberg (Slipknot) actually play. Meinl Byzance Extra Dry vs Zildjian A/K Custom — ranked budget to pro.
+> Best cymbal picks for metalcore drumming: what Matt Halpern (Periphery), Matt Greiner (August Burns Red), Alex Bent (Trivium), and Jay Weinberg (Slipknot, 2014-2023 era) actually play. Meinl Byzance Extra Dry vs Zildjian A/K Custom — ranked budget to pro.
 
 **Guide URL:** [https://metalforge.io/guides/best-cymbals-for-metalcore](https://metalforge.io/guides/best-cymbals-for-metalcore)  
 **Last Updated:** 2026-07-05
@@ -11,7 +11,7 @@
 
 Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's cymbal choices reflect that split. Palm-muted chugs and tightly syncopated riffing need cymbals that stay dry and controlled rather than washing out, while the genre's frequent tempo and dynamic shifts demand quick, articulate response.
 
-Matt Halpern of Periphery and Matt Greiner of August Burns Red both build their setups around Meinl Byzance Extra Dry Series cymbals, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, uses the brighter Meinl Byzance Brilliant Series for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, building his kit around Zildjian A Custom and K Custom cymbals for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Matt Halpern of Periphery and Matt Greiner of August Burns Red both build their setups around Meinl Byzance Extra Dry Series cymbals, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, uses the brighter Meinl Byzance Brilliant Series for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took a different path entirely, building his kit around Zildjian A Custom and K Custom cymbals for a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
 This guide compares Meinl Byzance Extra Dry, Meinl Byzance Brilliant, and Zildjian A/K Custom cymbals for metalcore — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.
 
@@ -133,16 +133,16 @@ Where Halpern and Greiner prioritize dryness and control, Bent's Brilliant Serie
 **Material:** B20 Bronze  
 **Rating:** 4.5/5
 
-Jay Weinberg of Slipknot stands apart from metalcore's Meinl-dominated landscape, building his kit around Zildjian A Custom and K Custom cymbals — 14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, a 21" K Custom Ride, and a 19" K China. This brighter, more explosive voice matches Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
+Jay Weinberg, formerly of Slipknot (2014-2023), stood apart from metalcore's Meinl-dominated landscape, building his kit around Zildjian A Custom and K Custom cymbals — 14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, a 21" K Custom Ride, and a 19" K China. This brighter, more explosive voice matched Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
 
-The A Custom line's brilliant finish gives fast, cutting crash response ideal for Slipknot's dynamic, theatrical arrangements, while the K Custom Ride adds darker, more controlled definition underneath. It's proof that metalcore's cymbal choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the specific sound a band is chasing.
+The A Custom line's brilliant finish gave fast, cutting crash response ideal for Slipknot's dynamic, theatrical arrangements, while the K Custom Ride added darker, more controlled definition underneath. It's proof that metalcore's cymbal choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the specific sound a band is chasing.
 
 **Pros:**
-- Jay Weinberg's Slipknot setup — the brighter, more aggressive end of metalcore's cymbal spectrum
+- Jay Weinberg's Slipknot-era setup — the brighter, more aggressive end of metalcore's cymbal spectrum
 - A Custom's brilliant finish gives fast, explosive crash response
 - K Custom Ride adds darker, more controlled definition
 - Wide range across hi-hats, crashes, ride, and china
-- Proven on massive stages across Slipknot's global touring career
+- Proven on massive stages across Slipknot's global touring career (2014-2023)
 
 **Cons:**
 - Brighter voicing less suited to breakdown-heavy technical metalcore than Meinl Byzance Extra Dry
@@ -150,7 +150,7 @@ The A Custom line's brilliant finish gives fast, cutting crash response ideal fo
 - Less dry control than the genre's more technical setups
 
 **Who uses it:**
-- Jay Weinberg (Slipknot) — 14" A New Beat Hi-Hats, 18"&19" A Custom Crashes, 21" K Custom Ride, 19" K China
+- Jay Weinberg (ex-Slipknot) — 14" A New Beat Hi-Hats, 18"&19" A Custom Crashes, 21" K Custom Ride, 19" K China
 
 **Verdict:** Best for aggressive, nu-metal-influenced metalcore. Weinberg's setup brings explosive brightness to the genre.
 
@@ -248,7 +248,7 @@ Cymbal choice splits metalcore drummers into two clear camps. Here's how each co
 - More versatile outside pure metalcore contexts
 - Best for: Theatrical, high-energy live performance
 
-**The Truth:** Two of metalcore's most technically respected drummers — Matt Halpern and Matt Greiner — built their sound on Meinl Byzance Extra Dry's controlled dryness. Jay Weinberg proves the opposite approach also works at the highest level, trading dry control for explosive brightness. Neither is "more correct" — it depends on whether your metalcore leans technical/breakdown-driven or aggressive/theatrical.
+**The Truth:** Two of metalcore's most technically respected drummers — Matt Halpern and Matt Greiner — built their sound on Meinl Byzance Extra Dry's controlled dryness. Jay Weinberg's Slipknot-era (2014-2023) setup proved the opposite approach also works at the highest level, trading dry control for explosive brightness. Neither is "more correct" — it depends on whether your metalcore leans technical/breakdown-driven or aggressive/theatrical.
 
 **Our Recommendation:** Start with Meinl Byzance Extra Dry if you want the dry, controlled sound that dominates modern technical metalcore. Choose Zildjian A Custom & K Custom if your material is more aggressive and nu-metal-influenced.
 
@@ -266,7 +266,7 @@ Cymbal choice splits metalcore drummers into two clear camps. Here's how each co
 
 - **Best Overall:** Meinl Byzance Extra Dry Series — Matt Halpern and Matt Greiner's shared setup — the dry, controlled tone that defines modern metalcore.
 - **Best for Melodic Metalcore:** Meinl Byzance Brilliant Series — Alex Bent's brighter Trivium setup. Fast, cutting attack for riff-driven modern metal.
-- **Best for Aggressive Metalcore:** Zildjian A Custom & K Custom — Jay Weinberg's Slipknot setup — explosive brightness for theatrical, high-energy performance.
+- **Best for Aggressive Metalcore:** Zildjian A Custom & K Custom — Jay Weinberg's Slipknot-era (2014-2023) setup — explosive brightness for theatrical, high-energy performance.
 - **Best Budget:** Meinl HCS Series — The Meinl dry-leaning DNA at accessible pricing. A real starting point before upgrading to Byzance.
 
 ---
@@ -292,7 +292,7 @@ No — start with a budget line from the same family as your target sound: Meinl
 
 ## Find Your Metalcore Cymbal Voice
 
-Metalcore cymbal choice comes down to a fundamental question: do you want dry control or explosive brightness? Matt Halpern and Matt Greiner both found their answer in Meinl Byzance Extra Dry's controlled voicing, ideal for breakdown-heavy technical metalcore. Alex Bent found a brighter middle ground in the Byzance Brilliant Series for Trivium's more melodic modern metal sound, while Jay Weinberg found his in Zildjian's explosive A Custom & K Custom lines for Slipknot's aggressive, theatrical performances.
+Metalcore cymbal choice comes down to a fundamental question: do you want dry control or explosive brightness? Matt Halpern and Matt Greiner both found their answer in Meinl Byzance Extra Dry's controlled voicing, ideal for breakdown-heavy technical metalcore. Alex Bent found a brighter middle ground in the Byzance Brilliant Series for Trivium's more melodic modern metal sound, while Jay Weinberg found his in Zildjian's explosive A Custom & K Custom lines for Slipknot's aggressive, theatrical performances during his 2014-2023 tenure.
 
 Neither approach is more "authentic" to the genre — all four have driven some of metalcore's most influential recordings. Start with whichever family matches your band's balance of breakdown weight versus melody and aggression.
 
@@ -314,14 +314,14 @@ Budget shouldn't stop you either. A Meinl HCS or Zildjian ZBT setup will teach r
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Meinl Byzance Extra Dry — Periphery djent-metalcore precision
 - [Matt Greiner](https://metalforge.io/drummer/matt-greiner) — Meinl Byzance Extra Dry — August Burns Red technical metalcore
 - [Alex Bent](https://metalforge.io/drummer/alex-bent) — Meinl Byzance Brilliant — Trivium melodic modern metal
-- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — Zildjian A Custom & K Custom — Slipknot aggressive metalcore
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — Zildjian A Custom & K Custom — ex-Slipknot (2014-2023) aggressive metalcore
 
 ## Featured Drummers
 
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Meinl Byzance Extra Dry — Periphery djent-metalcore precision
 - [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Extra Dry — August Burns Red technical metalcore
 - [Alex Bent](https://metalforge.io/drummer/alex-bent): Zildjian K Custom Hybrid — Trivium melodic modern metal
-- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian A Custom & K Custom — Slipknot aggressive metalcore
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian A Custom & K Custom — ex-Slipknot (2014-2023) aggressive metalcore
 
 ---
 

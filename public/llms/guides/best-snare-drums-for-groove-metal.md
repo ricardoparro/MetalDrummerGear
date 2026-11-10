@@ -11,7 +11,7 @@
 
 Groove metal isn't chasing blast beat speed — it's built on mid-tempo, riff-locked power, which means the snare has to deliver maximum crack and body on every single backbeat rather than surviving hundreds of rapid strokes per minute. Where black or death metal snares are tuned for endurance under extreme tempo, groove metal snares are tuned for weight: every hit has to land like a sledgehammer against down-tuned, syncopated riffs.
 
-Vinnie Paul built the genre's template on a deep 14x8" ddrum Vinnie Paul Signature steel snare, engineered for maximum projection and crack to cut through Pantera's wall of distorted guitars on "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God takes the opposite depth approach with a shallow 14x5.5" Mapex Chris Adler Signature Walnut/Maple snare, punching through dense guitar walls with a fast, articulate crack tuned for Lamb of God's syncopated riff-locking grooves. Shannon Larkin of Godsmack splits the difference with a 14x6.5" Pearl Reference Brass snare, delivering a powerful, cutting attack across two decades of multi-platinum groove-driven hard rock. Igor Cavalera of Sepultura and Cavalera Conspiracy anchors his kit with a Tama S.L.P. 14x6.5" G-Maple snare, supplying the punishing crack behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
+Vinnie Paul built the genre's template on a deep 14x8" ddrum Vinnie Paul Signature steel snare, engineered for maximum projection and crack to cut through Pantera's wall of distorted guitars on "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), took the opposite depth approach with a shallow 14x5.5" Mapex Chris Adler Signature Walnut/Maple snare, punching through dense guitar walls with a fast, articulate crack tuned for Lamb of God's syncopated riff-locking grooves. Shannon Larkin of Godsmack splits the difference with a 14x6.5" Pearl Reference Brass snare, delivering a powerful, cutting attack across two decades of multi-platinum groove-driven hard rock. Igor Cavalera of Sepultura and Cavalera Conspiracy anchors his kit with a Tama S.L.P. 14x6.5" G-Maple snare, supplying the punishing crack behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
 
 This guide breaks down steel, walnut/maple, brass, and maple snare options for groove metal — comparing shell depth, material, and tuning approach across four of the genre's most influential drummers, with recommendations from budget to professional touring rigs.
 
@@ -103,7 +103,7 @@ The steel shell's brightness cuts through Pantera's wall of distorted guitars wi
 **Material:** Walnut/Maple (14x5.5")  
 **Rating:** 4.6/5
 
-Chris Adler of Lamb of God takes a different approach than Vinnie Paul's deep steel tradition — his shallow 14x5.5" Mapex Chris Adler Signature snare in walnut/maple prioritizes speed and articulation over raw depth. It's the snare behind Lamb of God's "Ashes of the Wake," "Sacrament," and "Wrath," records built on precise, syncopated riff-locking rather than slow, crushing grooves.
+Chris Adler, Lamb of God's former drummer (1994–2019), took a different approach than Vinnie Paul's deep steel tradition — his shallow 14x5.5" Mapex Chris Adler Signature snare in walnut/maple prioritized speed and articulation over raw depth. It's the snare behind Lamb of God's "Ashes of the Wake," "Sacrament," and "Wrath," records built on precise, syncopated riff-locking rather than slow, crushing grooves.
 
 The walnut/maple hybrid shell gives a dry, focused crack that punches through dense guitar walls without excess ring, letting Adler's ghost notes and dynamic fills stay articulate at groove metal's faster, more technical end. It proves groove metal's snare requirements aren't one-size-fits-all — shallower and drier works just as well as deep and booming, depending on your riff style.
 
@@ -120,7 +120,7 @@ The walnut/maple hybrid shell gives a dry, focused crack that punches through de
 - Drier voicing may feel thin to drummers wanting maximum boom
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — 14x5.5" Mapex Signature Walnut/Maple — syncopated riff-locking precision
+- Chris Adler (ex-Lamb of God) — 14x5.5" Mapex Signature Walnut/Maple — syncopated riff-locking precision
 
 **Verdict:** Best for technical groove metal. Chris Adler's shallow, dry snare punches through dense riffs without sacrificing speed.
 
@@ -277,7 +277,7 @@ Shell material and depth split groove metal drummers into distinct camps. Here's
 Vinnie Paul of Pantera used a ddrum Vinnie Paul Signature snare — an exceptionally deep 14x8" steel shell engineered for maximum projection and crack. It's the sound behind Pantera's "Cowboys from Hell," "Vulgar Display of Power," and "Far Beyond Driven," the records that established groove metal's foundational sound.
 
 **What snare drum does Chris Adler use?**
-Chris Adler of Lamb of God plays a Mapex Chris Adler Signature snare — a shallow 14x5.5" walnut/maple shell that delivers a fast, articulate crack tuned for Lamb of God's syncopated riff-locking grooves on albums like "Ashes of the Wake" and "Sacrament."
+Chris Adler, Lamb of God's former drummer (1994–2019), played a Mapex Chris Adler Signature snare — a shallow 14x5.5" walnut/maple shell that delivered a fast, articulate crack tuned for Lamb of God's syncopated riff-locking grooves on albums like "Ashes of the Wake" and "Sacrament."
 
 **Steel or wood shell — which is better for groove metal?**
 Both work at the highest level. Vinnie Paul's steel ddrum snare gives maximum brightness and low-end body for slow, crushing grooves. Chris Adler's walnut/maple and Igor Cavalera's maple shells give a drier, more articulate crack better suited to faster, syncopated riff-locking. Choose based on whether your material leans toward Pantera's crushing weight or Lamb of God's technical precision.

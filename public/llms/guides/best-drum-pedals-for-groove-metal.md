@@ -91,7 +91,7 @@ The Falcon's Raptorlock quick-release and convertible footboard let Adler dial i
 - Premium price relative to entry direct-drive alternatives
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — Direct drive — syncopated groove metal riff-locking precision
+- Chris Adler (ex-Lamb of God) — Direct drive — syncopated groove metal riff-locking precision
 
 **Verdict:** The syncopated groove metal standard. Adler's precise, immediate response defines the genre's riff-locking foundation.
 
@@ -292,10 +292,10 @@ The great debate carries over into groove metal, but with different stakes than 
 ## FAQ
 
 **Who are the best groove metal drummers and what pedals do they use?**
-Vinnie Paul of Pantera built groove metal's founding pedal template on a ddrum double pedal, driving the syncopated double-kick patterns on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler of Lamb of God plays a Mapex Falcon direct drive double pedal, and Art Cruz, Lamb of God's current drummer, plays a Trick Pro 1-V mounted on Gibraltar hardware.
+Vinnie Paul of Pantera built groove metal's founding pedal template on a ddrum double pedal, driving the syncopated double-kick patterns on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler, Lamb of God's former drummer (1994–2019), played a Mapex Falcon direct drive double pedal, and Art Cruz, Lamb of God's current drummer, plays a Trick Pro 1-V mounted on Gibraltar hardware.
 
 **What pedal does Chris Adler use?**
-Chris Adler of Lamb of God plays a Mapex Falcon direct drive double pedal, delivering the precise, syncopated crack heard on "Ashes of the Wake," "Sacrament," and "Wrath."
+Chris Adler, Lamb of God's former drummer (1994–2019), played a Mapex Falcon direct drive double pedal, delivering the precise, syncopated crack heard on "Ashes of the Wake," "Sacrament," and "Wrath."
 
 **Direct drive or chain drive — which is better for groove metal?**
 Both work well for groove metal because the genre prioritizes syncopated pocket precision over pure top-end speed. Chris Adler and Art Cruz use direct drive for immediate, linear response, while Vinnie Paul and Igor Cavalera built groove metal's foundational sound on reliable chain drive pedals.

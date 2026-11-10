@@ -186,7 +186,7 @@ While not as common in pure death metal, the 9000 series is favored by drummers 
 - Expensive for chain drive
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — Groove metal precision
+- Chris Adler (ex-Lamb of God) — Groove metal precision
 - Paul Bostaph (Slayer/Testament) — Thrash veteran
 
 **Verdict:** Premium chain drive for drummers who want feel over pure speed. Excellent for death/groove styles.

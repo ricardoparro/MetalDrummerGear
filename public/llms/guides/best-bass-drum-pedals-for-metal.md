@@ -133,7 +133,7 @@ Leather or synthetic belt — faster than chain, lighter feel, less power transm
 ## FAQ
 
 **What bass drum pedal do metal drummers use?**
-The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah and Chris Adler of Lamb of God both used Iron Cobra. Pearl Demon Drive is popular for extreme metal speed specialists (George Kollias). Gene Hoglan uses DW 9000 hardware. The Iron Cobra is the safe default for any metal style.
+The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah and Chris Adler, Lamb of God's former drummer (1994–2019), both used Iron Cobra. Pearl Demon Drive is popular for extreme metal speed specialists (George Kollias). Gene Hoglan uses DW 9000 hardware. The Iron Cobra is the safe default for any metal style.
 
 **What is the difference between chain drive and direct drive bass drum pedals?**
 Chain drive pedals use a chain between footboard and beater shaft, providing a natural, slightly cushioned feel. Most drummers find it comfortable and powerful. Direct drive pedals use a rigid rod for zero slack and instant response — faster and more precise but requiring technique adaptation. Most metal drummers use chain drive; extreme speed specialists prefer direct drive.

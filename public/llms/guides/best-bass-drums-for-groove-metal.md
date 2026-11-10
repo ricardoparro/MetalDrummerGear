@@ -120,7 +120,7 @@ The Falcon's immediate, linear response lets Adler land exactly on the pocket ra
 - Direct drive takes an adjustment period for drummers used to chain drive
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — 22"x18" Mapex Black Panther + Falcon — syncopated groove metal riff-locking precision
+- Chris Adler (ex-Lamb of God) — 22"x18" Mapex Black Panther + Falcon — syncopated groove metal riff-locking precision
 
 **Verdict:** The technical groove metal standard. Adler's setup delivers power with precise, pocket-tight articulation.
 
@@ -279,7 +279,7 @@ Shell size stays consistent at 22"x18" across groove metal's founding and cross-
 ## FAQ
 
 **Who are the best groove metal drummers and what bass drum setups do they use?**
-Vinnie Paul of Pantera played a ddrum Vinnie Paul Signature Series 22x18" bass drum with a chain-drive ddrum double pedal. Chris Adler of Lamb of God plays a Mapex Black Panther Design Lab bass drum with a Mapex Falcon double pedal, Charlie Benante of Anthrax runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra, and John Otto of Limp Bizkit plays an OCDP Custom bass drum with a DW 9000 double pedal.
+Vinnie Paul of Pantera played a ddrum Vinnie Paul Signature Series 22x18" bass drum with a chain-drive ddrum double pedal. Chris Adler, Lamb of God's former drummer (1994–2019), played a Mapex Black Panther Design Lab bass drum with a Mapex Falcon double pedal, Charlie Benante of Anthrax runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra, and John Otto of Limp Bizkit plays an OCDP Custom bass drum with a DW 9000 double pedal.
 
 **What bass drum pedal handles groove metal's syncopated pocket best?**
 Chris Adler's Mapex Falcon delivers immediate, linear response for landing syncopated accents exactly on the beat, while Vinnie Paul's ddrum chain-drive pedal and Charlie Benante's Tama Speed Cobra prove that a tight, reliable pedal — direct or chain drive — serves groove metal's mid-tempo pocket just as well as raw speed does.

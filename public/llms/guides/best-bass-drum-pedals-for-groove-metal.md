@@ -91,7 +91,7 @@ The Falcon's Raptorlock quick-release and convertible footboard let Adler dial i
 - Premium price relative to entry direct-drive alternatives
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — Direct drive — syncopated groove metal riff-locking precision
+- Chris Adler (ex-Lamb of God) — Direct drive — syncopated groove metal riff-locking precision
 
 **Verdict:** The syncopated groove metal standard. Adler's precise, immediate response defines the genre's riff-locking foundation.
 

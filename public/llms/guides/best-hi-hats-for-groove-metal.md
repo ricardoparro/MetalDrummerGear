@@ -11,7 +11,7 @@
 
 Groove metal's mid-tempo (100–140 BPM), riff-locked patterns put the hi-hat at the center of the pocket. Unlike thrash or death metal, where hi-hats are chosen to survive hundreds of rapid strokes per minute, groove metal hi-hats are voiced for tight, deliberate articulation on fewer, more purposeful hits — every chick needs to land exactly on the riff.
 
-Vinnie Paul built groove metal's founding hi-hat template on 14" Sabian AA/AAX Hi-Hats, giving Pantera's grooves tight, cutting articulation across "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with 14" Meinl Byzance Dark Hi-Hats, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs 14" Sabian AAX Stage Hi-Hats for crisp articulation behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura and Cavalera Conspiracy plays 14" Paiste RUDE Hi-Hats for the harsh, cutting aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
+Vinnie Paul built groove metal's founding hi-hat template on 14" Sabian AA/AAX Hi-Hats, giving Pantera's grooves tight, cutting articulation across "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), took a drier, more controlled approach with 14" Meinl Byzance Dark Hi-Hats, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs 14" Sabian AAX Stage Hi-Hats for crisp articulation behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura and Cavalera Conspiracy plays 14" Paiste RUDE Hi-Hats for the harsh, cutting aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
 
 This guide breaks down hi-hat choices for groove metal — comparing four drummers whose setups define the genre's tight, riff-locked hi-hat demands, with recommendations from budget to professional touring rigs.
 
@@ -95,7 +95,7 @@ As the co-founder of groove metal alongside his brother Dimebag Darrell, Paul's 
 **Material:** B20 Bronze (Byzance)  
 **Rating:** 4.7/5
 
-Chris Adler of Lamb of God runs 14" Dark Hi-Hats from the Meinl Byzance Series for dry, controlled articulation. Adler's setup mirrors his shallow, articulate snare philosophy — dry and controlled rather than washy, giving Lamb of God's syncopated riff-locking grooves a cutting edge on "Ashes of the Wake" and "Sacrament."
+Chris Adler, Lamb of God's former drummer (1994–2019), ran 14" Dark Hi-Hats from the Meinl Byzance Series for dry, controlled articulation. Adler's setup mirrored his shallow, articulate snare philosophy — dry and controlled rather than washy, giving Lamb of God's syncopated riff-locking grooves a cutting edge on "Ashes of the Wake" and "Sacrament."
 
 The dark voicing keeps every chick tight and defined even under Lamb of God's dense, down-tuned guitar riffing — exactly the kind of tightly syncopated pocket work groove metal's technical wing demands.
 
@@ -111,7 +111,7 @@ The dark voicing keeps every chick tight and defined even under Lamb of God's de
 - Less explosive top-end brightness than the AA/AAX or X-Plosion lines
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — Meinl Byzance Dark — dry, controlled precision for syncopated riff-locking
+- Chris Adler (ex-Lamb of God) — Meinl Byzance Dark — dry, controlled precision for syncopated riff-locking
 
 **Verdict:** Best for technical, syncopated groove metal. Adler's dry, controlled Byzance hi-hats cut through anything.
 
@@ -258,10 +258,10 @@ Groove metal's hi-hat choices split across three proven philosophies, defined by
 ## FAQ
 
 **What hi-hats are used in groove metal?**
-Vinnie Paul of Pantera used 14" Sabian AA/AAX Hi-Hats for tight, cutting articulation. Chris Adler of Lamb of God uses 14" Meinl Byzance Dark Hi-Hats for dry, controlled precision. Shannon Larkin of Godsmack uses 14" Sabian AAX Stage Hi-Hats for crisp punch. Igor Cavalera of Sepultura uses 14" Paiste RUDE Hi-Hats for harsh, tribal aggression.
+Vinnie Paul of Pantera used 14" Sabian AA/AAX Hi-Hats for tight, cutting articulation. Chris Adler, Lamb of God's former drummer (1994–2019), used 14" Meinl Byzance Dark Hi-Hats for dry, controlled precision. Shannon Larkin of Godsmack uses 14" Sabian AAX Stage Hi-Hats for crisp punch. Igor Cavalera of Sepultura uses 14" Paiste RUDE Hi-Hats for harsh, tribal aggression.
 
 **What hi-hats does Chris Adler use?**
-Chris Adler of Lamb of God uses 14" Dark Hi-Hats from the Meinl Byzance Series, part of his broader Byzance Dark cymbal setup. The dry, controlled voicing gives Lamb of God's syncopated riff-locking grooves a cutting edge without excess wash.
+Chris Adler, Lamb of God's former drummer (1994–2019), used 14" Dark Hi-Hats from the Meinl Byzance Series, part of his broader Byzance Dark cymbal setup. The dry, controlled voicing gave Lamb of God's syncopated riff-locking grooves a cutting edge without excess wash.
 
 **What size hi-hats for groove metal?**
 14" is the groove metal hi-hat standard, used by Vinnie Paul, Chris Adler, Shannon Larkin, and Igor Cavalera alike. This size balances projection with the tight, controlled articulation the genre's mid-tempo, riff-locked patterns demand.

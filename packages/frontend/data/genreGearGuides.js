@@ -266,7 +266,7 @@ While not as common in pure death metal, the 9000 series is favored by drummers 
             weight: "5.2 kg (pair)"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Groove metal precision" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "Groove metal precision" }
           ],
           verdict: "Premium chain drive for drummers who want feel over pure speed. Excellent for death/groove styles.",
           rating: 4.5,
@@ -608,7 +608,7 @@ Gene Hoglan of Death and Testament relies on Evans for the focused, powerful ton
           usedBy: [
             { name: "Gene Hoglan", band: "Death / Testament", note: "The Atomic Clock's head of choice" },
             { name: "Matt Greiner", band: "August Burns Red", note: "Progressive metalcore tone" },
-            { name: "Chris Adler", band: "Lamb of God", note: "Groove metal precision" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "Groove metal precision" }
           ],
           verdict: "The benchmark double-ply coated head for metal. If you're not sure what to buy, start here.",
           rating: 4.9,
@@ -11883,7 +11883,7 @@ The Pro V's highly adjustable acceleration curves and machined aluminum construc
             weight: "4.2 kg (pair)"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "V-Cam direct drive — syncopated groove metal riff-locking precision" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "V-Cam direct drive — syncopated groove metal riff-locking precision" }
           ],
           verdict: "The syncopated groove metal standard. Adler's precise, immediate response defines the genre's riff-locking foundation.",
           rating: 4.7,
@@ -33652,7 +33652,7 @@ Chris Adler's Meinl Byzance setup with Lamb of God anchors the band's dark, cont
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Dark, controlled trash for pocket-precise breakdown accents" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "Dark, controlled trash for pocket-precise breakdown accents" }
           ],
           verdict: "Best for groove metal drummers who want a dark, controlled china that stays in the pocket.",
           rating: 4.7,
@@ -37400,7 +37400,7 @@ Start with one durable, fast-attack ride in the 21"-22" range, and prioritize co
       title: "Why Groove Metal Rides Need Explosive Impact, Not Speed",
       content: `Groove metal's mid-tempo (100-140 BPM), riff-locked patterns put the snare and kick front and center, but the ride still has real work to do: landing with explosive, cutting impact on accented downbeats rather than blending into a wash. Unlike thrash or death metal, where rides are chosen to survive hundreds of rapid strokes per minute, groove metal rides are voiced for maximum impact on fewer, more deliberate hits.
 
-Vinnie Paul built the genre's founding ride template on a 20" Sabian AA Ride, delivering explosive accents across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake." Shannon Larkin of Godsmack runs a 21" Sabian AAX Raw Bell Dry Ride for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, while Igor Cavalera of Sepultura plays a 22" Paiste RUDE Ride for the harsh, slow-decay aggression behind "Roots Bloody Roots."
+Vinnie Paul built the genre's founding ride template on a 20" Sabian AA Ride, delivering explosive accents across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), took a drier, more controlled approach with a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake." Shannon Larkin of Godsmack runs a 21" Sabian AAX Raw Bell Dry Ride for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, while Igor Cavalera of Sepultura plays a 22" Paiste RUDE Ride for the harsh, slow-decay aggression behind "Roots Bloody Roots."
 
 This guide breaks down what actually makes a ride work for groove metal — explosive impact and cutting power over raw speed — and recommends specific models across every budget, from a first cutting ride to the exact cymbals groove metal's most influential drummers ride.`,
       keyPoints: [
@@ -37504,7 +37504,7 @@ As the genre's founding drummer, Vinnie Paul's ride choice set the template the 
           priceRange: "€260-320",
           tier: "pro",
           driveType: "B20 Bronze, Dark Finish",
-          description: `Chris Adler of Lamb of God plays a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on "Ashes of the Wake" and "Sacrament." Where Vinnie Paul's Sabian setup favors bright explosiveness, Adler's Byzance Dark ride prioritizes precision.
+          description: `Chris Adler, Lamb of God's former drummer (1994–2019), played a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on "Ashes of the Wake" and "Sacrament." Where Vinnie Paul's Sabian setup favors bright explosiveness, Adler's Byzance Dark ride prioritized precision.
 
 Adler's ride choice proves that groove metal's cutting template doesn't require raw brightness — a dry, dark-voiced ride can cut through syncopated, riff-locked material just as effectively.`,
           pros: [
@@ -37526,7 +37526,7 @@ Adler's ride choice proves that groove metal's cutting template doesn't require 
             weight: "Medium"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "22\" Byzance Dark Ride for syncopated riff-locking precision" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "22\" Byzance Dark Ride for syncopated riff-locking precision" }
           ],
           verdict: "Best for technical, tightly syncopated groove metal that needs dry, controlled cutting power.",
           rating: 4.7,
@@ -37745,7 +37745,7 @@ For groove metal drummers whose material blends traditional riff-locked grooves 
       },
       {
         question: "What ride cymbal does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God plays a 22\" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on \"Ashes of the Wake\" and \"Sacrament.\""
+        answer: "Chris Adler, Lamb of God's former drummer (1994–2019), played a 22\" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on \"Ashes of the Wake\" and \"Sacrament.\""
       },
       {
         question: "What ride cymbal does Shannon Larkin use?",
@@ -42566,7 +42566,7 @@ Mario Duplantier (Gojira) layers an 18" K Custom Hybrid Crash alongside a 19" A 
           driveType: "B20 Bronze, Dark/Dry",
           description: `The Byzance Extra Dry Medium Crash trades brightness for a dark, dry tone with a controlled, fast decay — a favorite for progressive and djent-adjacent metal drummers who need accents that cut cleanly without lingering.
 
-Chris Adler (Lamb of God) plays 18" and 19" Byzance Dark Crashes from this family for groove metal's tightly arranged breakdowns.`,
+Chris Adler, Lamb of God's former drummer (1994–2019), played 18" and 19" Byzance Dark Crashes from this family for groove metal's tightly arranged breakdowns.`,
           pros: [
             "Dark, dry tone with controlled, fast decay",
             "Chris Adler's proven groove metal choice",
@@ -42586,7 +42586,7 @@ Chris Adler (Lamb of God) plays 18" and 19" Byzance Dark Crashes from this famil
             decay: "Fast, dry"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "18\" & 19\" Byzance Dark Crashes for groove metal" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "18\" & 19\" Byzance Dark Crashes for groove metal" }
           ],
           verdict: "Best choice for groove metal drummers who need controlled, fast-decaying accents.",
           rating: 4.5,
@@ -43684,7 +43684,7 @@ Start with one dry, controlled crash in the 16"-20" range, and layer a second si
       title: "Why Metalcore Crashes Need to Punctuate, Not Wash Out",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's crash choices reflect that split. A breakdown crash needs to land hard and decay fast so the next palm-muted chug isn't buried under ringing metal, while the genre's frequent tempo and dynamic shifts demand a crash that responds instantly to a wide range of accent styles.
 
-Matt Halpern of Periphery runs 18" and 20" Meinl Byzance Traditional Extra Thin Hammered Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium during his 2017-2025 run as the band's drummer, used 16", 18", and 19" Zildjian K Custom Hybrid Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
+Matt Halpern of Periphery runs 18" and 20" Meinl Byzance Traditional Extra Thin Hammered Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium during his 2017-2025 run as the band's drummer, used 16", 18", and 19" Zildjian K Custom Hybrid Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler, Lamb of God's former drummer (1994–2019), played 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
 
 This guide breaks down what actually makes a crash work for metalcore — fast decay, breakdown punctuation, and brightness versus control — and recommends specific models across every budget, from a first breakdown-ready crash to the exact cymbals metalcore's most influential drummers play.`,
       keyPoints: [
@@ -43859,7 +43859,7 @@ The A Custom line's brilliant finish gave fast, cutting crash response ideal for
           priceRange: "€210-260",
           tier: "pro",
           driveType: "B20 Bronze, Dark",
-          description: `Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes, tuned for groove metal's tightly arranged breakdowns. The dark, hand-hammered B20 construction delivers controlled decay with more tonal complexity than a purely dry-voiced crash, giving Adler's breakdown hits weight without losing definition.
+          description: `Chris Adler, Lamb of God's former drummer (1994–2019), played 18" and 19" Meinl Byzance Dark Crashes, tuned for groove metal's tightly arranged breakdowns. The dark, hand-hammered B20 construction delivers controlled decay with more tonal complexity than a purely dry-voiced crash, giving Adler's breakdown hits weight without losing definition.
 
 Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and Jay Weinberg's bright, explosive attack — a genuinely middle-ground option for metalcore-adjacent groove metal.`,
           pros: [
@@ -43881,7 +43881,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
             decay: "Controlled, complex"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "18\" & 19\" Byzance Dark Crashes for groove metal breakdowns" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "18\" & 19\" Byzance Dark Crashes for groove metal breakdowns" }
           ],
           verdict: "Best middle-ground crash — dark and controlled without sacrificing tonal complexity.",
           rating: 4.5,
@@ -44043,7 +44043,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
       },
       {
         question: "What crash cymbal does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God plays 18\" and 19\" Meinl Byzance Dark Crashes, tuned for groove metal's tightly arranged breakdowns — a dark, complex B20 tone with controlled decay."
+        answer: "Chris Adler, Lamb of God's former drummer (1994–2019), played 18\" and 19\" Meinl Byzance Dark Crashes, tuned for groove metal's tightly arranged breakdowns — a dark, complex B20 tone with controlled decay."
       },
       {
         question: "What crash cymbal does Jay Weinberg use?",
@@ -46248,7 +46248,7 @@ Start with one durable, fast-attack crash in the 16"-19" range, and prioritize c
       title: "Why Groove Metal Crashes Need Explosive Impact, Not Speed",
       content: `Groove metal's mid-tempo (100-140 BPM), riff-locked patterns put the snare and kick front and center, but the crash still has real work to do: landing with explosive, cutting impact on accented downbeats rather than blending into a wash. Unlike thrash or death metal, where crashes are chosen to survive hundreds of rapid strokes per minute, groove metal crashes are voiced for maximum impact on fewer, more deliberate hits.
 
-Vinnie Paul built the genre's founding crash template on 18" and 19" Sabian AA and AAX crashes, delivering explosive accents across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with 18" and 19" Meinl Byzance Dark Crashes, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake." Shannon Larkin of Godsmack runs 18" and 19" Sabian AAX X-Plosion Crashes for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, while Igor Cavalera of Sepultura plays 18"-19" Paiste RUDE Crashes for the harsh, slow-decay aggression behind "Roots Bloody Roots."
+Vinnie Paul built the genre's founding crash template on 18" and 19" Sabian AA and AAX crashes, delivering explosive accents across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), took a drier, more controlled approach with 18" and 19" Meinl Byzance Dark Crashes, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake." Shannon Larkin of Godsmack runs 18" and 19" Sabian AAX X-Plosion Crashes for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, while Igor Cavalera of Sepultura plays 18"-19" Paiste RUDE Crashes for the harsh, slow-decay aggression behind "Roots Bloody Roots."
 
 This guide breaks down what actually makes a crash work for groove metal — explosive impact and cutting power over raw speed — and recommends specific models across every budget, from a first cutting crash to the exact cymbals groove metal's most influential drummers play.`,
       keyPoints: [
@@ -46352,7 +46352,7 @@ As the genre's founding drummer, Vinnie Paul's crash choice set the template the
           priceRange: "€230-290",
           tier: "pro",
           driveType: "B20 Bronze, Dark Finish",
-          description: `Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on "Ashes of the Wake" and "Sacrament." Where Vinnie Paul's Sabian setup favors bright explosiveness, Adler's Byzance Dark crashes prioritize precision.
+          description: `Chris Adler, Lamb of God's former drummer (1994–2019), played 18" and 19" Meinl Byzance Dark Crashes, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on "Ashes of the Wake" and "Sacrament." Where Vinnie Paul's Sabian setup favors bright explosiveness, Adler's Byzance Dark crashes prioritized precision.
 
 Adler's crash choice proves that groove metal's cutting template doesn't require raw brightness — a dry, dark-voiced crash can cut through syncopated, riff-locked material just as effectively.`,
           pros: [
@@ -46374,7 +46374,7 @@ Adler's crash choice proves that groove metal's cutting template doesn't require
             decay: "Dry, controlled"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "18\" & 19\" Byzance Dark Crashes for syncopated riff-locking precision" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "18\" & 19\" Byzance Dark Crashes for syncopated riff-locking precision" }
           ],
           verdict: "Best for technical, tightly syncopated groove metal that needs dry, controlled cutting power.",
           rating: 4.7,
@@ -46593,7 +46593,7 @@ For groove metal drummers whose material blends traditional riff-locked grooves 
       },
       {
         question: "What crash cymbal does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God plays 18\" and 19\" Meinl Byzance Dark Crashes, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on \"Ashes of the Wake\" and \"Sacrament.\""
+        answer: "Chris Adler, Lamb of God's former drummer (1994–2019), played 18\" and 19\" Meinl Byzance Dark Crashes, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on \"Ashes of the Wake\" and \"Sacrament.\""
       },
       {
         question: "What crash cymbal does Shannon Larkin use?",
@@ -64026,7 +64026,7 @@ The Pro V's highly adjustable acceleration curves and machined aluminum construc
             weight: "4.2 kg (pair)"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "V-Cam direct drive — syncopated groove metal riff-locking precision" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "V-Cam direct drive — syncopated groove metal riff-locking precision" }
           ],
           verdict: "The syncopated groove metal standard. Adler's precise, immediate response defines the genre's riff-locking foundation.",
           rating: 4.7,
@@ -64164,7 +64164,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
           priceRange: "€350-400",
           tier: "mid",
           driveType: "Chain with Interchangeable Cams",
-          description: "The Eliminator Redline's interchangeable cam system lets developing groove metal drummers experiment with different acceleration feels, getting closer to the tight, immediate response Chris Adler and Art Cruz rely on.",
+          description: "The Eliminator Redline's interchangeable cam system lets developing groove metal drummers experiment with different acceleration feels, getting closer to the tight, immediate response Chris Adler relied on and Art Cruz relies on today.",
           pros: ["Interchangeable cams included", "Solid, reliable build quality", "Good upgrade path toward pro-level pedals"],
           cons: ["Chain drive limits ultimate top-end speed", "Not as immediate as direct drive alternatives"],
           verdict: "Best mid-range option for aspiring groove metal drummers.",
@@ -64217,7 +64217,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
 - Proven reliability across decades of touring
 - Fully capable of anchoring groove metal's syncopated, riff-tight patterns
 
-**The Truth:** Both work for groove metal because the genre is about pocket precision, not top-end speed. Chris Adler nails syncopated Lamb of God riffs on direct drive. Vinnie Paul built the genre's founding sound on a chain-drive pedal. Your technique and feel for the pocket matter more than the drive system.
+**The Truth:** Both work for groove metal because the genre is about pocket precision, not top-end speed. Chris Adler nailed syncopated Lamb of God riffs on direct drive during his 1994–2019 tenure. Vinnie Paul built the genre's founding sound on a chain-drive pedal. Your technique and feel for the pocket matter more than the drive system.
 
 **Our Recommendation:** If you're new to groove metal, try both if possible. If buying blind, direct drive (Trick Pro V or Trick Pro 1-V) gives you the most immediate, riff-locking precision out of the box.`,
       comparisonTable: [
@@ -64281,15 +64281,15 @@ For groove metal drummers who want to trace their pedal choice back to the genre
     faq: [
       {
         question: "Who are the best groove metal drummers and what pedals do they use?",
-        answer: "Vinnie Paul of Pantera built groove metal's founding pedal template on a chain-drive double pedal during his 1990-1996 Pantera era, driving the syncopated double-kick patterns on \"Vulgar Display of Power\" and \"Far Beyond Driven.\" Chris Adler of Lamb of God plays a Trick Pro V direct drive double pedal, and Art Cruz, Lamb of God's current drummer, plays a Trick Pro 1-V mounted on Gibraltar hardware."
+        answer: "Vinnie Paul of Pantera built groove metal's founding pedal template on a chain-drive double pedal during his 1990-1996 Pantera era, driving the syncopated double-kick patterns on \"Vulgar Display of Power\" and \"Far Beyond Driven.\" Chris Adler, Lamb of God's former drummer (1994–2019), played a Trick Pro V direct drive double pedal, and Art Cruz, Lamb of God's current drummer, plays a Trick Pro 1-V mounted on Gibraltar hardware."
       },
       {
         question: "What pedal does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God plays a Trick Pro V direct drive double pedal, delivering the precise, syncopated crack heard on \"Ashes of the Wake,\" \"Sacrament,\" and \"Wrath.\""
+        answer: "Chris Adler, Lamb of God's former drummer (1994–2019), played a Trick Pro V direct drive double pedal, delivering the precise, syncopated crack heard on \"Ashes of the Wake,\" \"Sacrament,\" and \"Wrath.\""
       },
       {
         question: "Direct drive or chain drive — which is better for groove metal?",
-        answer: "Both work well for groove metal because the genre prioritizes syncopated pocket precision over pure top-end speed. Chris Adler and Art Cruz use direct drive for immediate, linear response, while Vinnie Paul (chain-drive double pedal) and Igor Cavalera (Tama Iron Cobra) built groove metal's foundational sound on reliable chain drive pedals."
+        answer: "Both work well for groove metal because the genre prioritizes syncopated pocket precision over pure top-end speed. Chris Adler used direct drive for immediate, linear response during his Lamb of God tenure, a precision Art Cruz carries forward today, while Vinnie Paul (chain-drive double pedal) and Igor Cavalera (Tama Iron Cobra) built groove metal's foundational sound on reliable chain drive pedals."
       },
       {
         question: "Do groove metal pedals need to be fast like death metal pedals?",
@@ -64360,7 +64360,7 @@ Budget shouldn't stop you either. A Pearl Eliminator Redline or entry-level Tama
       title: "Why Groove Metal Needs Cutting, Explosive Cymbals — Not Speed",
       content: `Groove metal's mid-tempo (100–140 BPM), riff-locked patterns put the snare and kick front and center, but the cymbals still have to do real work: cutting through down-tuned, syncopated guitar riffs with explosive crash accents and a ride bell that stays locked to the pocket rather than washing over it. Unlike thrash or death metal, where cymbals are chosen to survive hundreds of rapid strokes per minute, groove metal cymbals are voiced for maximum impact on fewer, more deliberate hits.
 
-Vinnie Paul built the genre's founding cymbal template on Sabian AA and AAX Series cymbals, running 14" hi-hats for tight groove articulation, 18" and 19" crashes for explosive accents, a 21" ride for rhythmic clarity, and an 18" China for aggressive punctuation across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with Meinl Byzance Series cymbals — 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China — giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs Sabian AAX Series cymbals built around 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Raw Bell Dry Ride, and an 18" AAX Chinese, delivering the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura played Paiste RUDE and 2002 Series cymbals during the band's 1993–1996 Paiste era — 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China — built for the harsh, slow-decay aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
+Vinnie Paul built the genre's founding cymbal template on Sabian AA and AAX Series cymbals, running 14" hi-hats for tight groove articulation, 18" and 19" crashes for explosive accents, a 21" ride for rhythmic clarity, and an 18" China for aggressive punctuation across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), took a drier, more controlled approach with Meinl Byzance Series cymbals — 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China — giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs Sabian AAX Series cymbals built around 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Raw Bell Dry Ride, and an 18" AAX Chinese, delivering the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura played Paiste RUDE and 2002 Series cymbals during the band's 1993–1996 Paiste era — 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China — built for the harsh, slow-decay aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
 
 This guide breaks down hi-hat, crash, ride, and China choices for groove metal — comparing four drummers whose setups define the genre's cutting, riff-locked cymbal demands, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -64467,7 +64467,7 @@ As the co-founder of groove metal alongside his brother Dimebag Darrell, Paul's 
           tier: "pro",
           material: "B20 Bronze (Byzance)",
 
-          description: `Chris Adler of Lamb of God runs a Meinl Byzance Dark Series setup: 14" Dark Hi-Hats for dry, controlled articulation, 18" and 19" Dark Crashes for explosive accent bursts, a 21" Transition Ride for clear rhythmic articulation, and an 18" Extra Dry China for raw, cutting punctuation.
+          description: `Chris Adler, Lamb of God's former drummer (1994–2019), ran a Meinl Byzance Dark Series setup: 14" Dark Hi-Hats for dry, controlled articulation, 18" and 19" Dark Crashes for explosive accent bursts, a 21" Transition Ride for clear rhythmic articulation, and an 18" Extra Dry China for raw, cutting punctuation.
 
 Adler's setup mirrors his shallow, articulate snare philosophy — dry and controlled rather than washy, giving Lamb of God's syncopated riff-locking grooves a cutting edge on "Ashes of the Wake" and "Sacrament."`,
 
@@ -64490,7 +64490,7 @@ Adler's setup mirrors his shallow, articulate snare philosophy — dry and contr
             china: "18\" Meinl Byzance Extra Dry"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Meinl Byzance Dark — dry, controlled precision for syncopated riff-locking" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "Meinl Byzance Dark — dry, controlled precision for syncopated riff-locking" }
           ],
           verdict: "Best for technical, syncopated groove metal. Adler's dry, controlled Byzance setup cuts through anything.",
           rating: 4.7,
@@ -64699,7 +64699,7 @@ Cavalera's RUDE setup delivers the harsh, slow-decay aggression that drove Sepul
       },
       {
         question: "What cymbals does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God plays Meinl Byzance Dark Series cymbals: 14\" Dark Hi-Hats, 18\" and 19\" Dark Crashes, a 21\" Transition Ride, and an 18\" Extra Dry China. The dry, controlled voicing gives Lamb of God's syncopated riff-locking grooves a cutting edge on \"Ashes of the Wake\" and \"Sacrament.\""
+        answer: "Chris Adler, Lamb of God's former drummer (1994–2019), played Meinl Byzance Dark Series cymbals: 14\" Dark Hi-Hats, 18\" and 19\" Dark Crashes, a 21\" Transition Ride, and an 18\" Extra Dry China. The dry, controlled voicing gave Lamb of God's syncopated riff-locking grooves a cutting edge on \"Ashes of the Wake\" and \"Sacrament.\""
       },
       {
         question: "What cymbals does Shannon Larkin use?",
@@ -83663,7 +83663,7 @@ The Trick Pro V's immediate, linear response lets Adler land exactly on the pock
             headRecommendation: "Remo Powerstroke 3"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "22\"x18\" Mapex Saturn in Satin Black Maple Burl + Trick Pro V — syncopated groove metal riff-locking precision" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "22\"x18\" Mapex Saturn in Satin Black Maple Burl + Trick Pro V — syncopated groove metal riff-locking precision" }
           ],
           verdict: "The technical groove metal standard. Adler's setup delivers power with precise, pocket-tight articulation.",
           rating: 4.7,
@@ -83874,7 +83874,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
     faq: [
       {
         question: "Who are the best groove metal drummers and what bass drum setups do they use?",
-        answer: "Vinnie Paul of Pantera played a Tama 22x18\" bass drum with a chain-drive double pedal during his 1990-1996 tenure with the brand. Chris Adler of Lamb of God plays a Mapex Saturn in Satin Black Maple Burl bass drum with a Trick Pro V double pedal, Charlie Benante of Anthrax runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra, and John Otto of Limp Bizkit plays an OCDP Custom bass drum with a Gibraltar Professional Series double pedal."
+        answer: "Vinnie Paul of Pantera played a Tama 22x18\" bass drum with a chain-drive double pedal during his 1990-1996 tenure with the brand. Chris Adler, Lamb of God's former drummer (1994–2019), played a Mapex Saturn in Satin Black Maple Burl bass drum with a Trick Pro V double pedal, Charlie Benante of Anthrax runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra, and John Otto of Limp Bizkit plays an OCDP Custom bass drum with a Gibraltar Professional Series double pedal."
       },
       {
         question: "What bass drum pedal handles groove metal's syncopated pocket best?",
@@ -87204,7 +87204,7 @@ Whatever you choose, prioritize consistency under sustained blast beat use over 
       title: "What Hi-Hats Are Used in Groove Metal?",
       content: `Groove metal's mid-tempo (100–140 BPM), riff-locked patterns put the hi-hat at the center of the pocket. Unlike thrash or death metal, where hi-hats are chosen to survive hundreds of rapid strokes per minute, groove metal hi-hats are voiced for tight, deliberate articulation on fewer, more purposeful hits — every chick needs to land exactly on the riff.
 
-Vinnie Paul built groove metal's founding hi-hat template on 14" Sabian AA/AAX Hi-Hats, giving Pantera's grooves tight, cutting articulation across "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with 14" Meinl Byzance Dark Hi-Hats, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs 14" Sabian AAX Stage Hi-Hats for crisp articulation behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura played 14" Paiste RUDE Hi-Hats during the band's 1993–1996 Paiste era for the harsh, cutting aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
+Vinnie Paul built groove metal's founding hi-hat template on 14" Sabian AA/AAX Hi-Hats, giving Pantera's grooves tight, cutting articulation across "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), took a drier, more controlled approach with 14" Meinl Byzance Dark Hi-Hats, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs 14" Sabian AAX Stage Hi-Hats for crisp articulation behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura played 14" Paiste RUDE Hi-Hats during the band's 1993–1996 Paiste era for the harsh, cutting aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
 
 This guide breaks down hi-hat choices for groove metal — comparing four drummers whose setups define the genre's tight, riff-locked hi-hat demands, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -87304,7 +87304,7 @@ As the co-founder of groove metal alongside his brother Dimebag Darrell, Paul's 
           tier: "pro",
           material: "B20 Bronze (Byzance)",
 
-          description: `Chris Adler of Lamb of God runs 14" Dark Hi-Hats from the Meinl Byzance Series for dry, controlled articulation. Adler's setup mirrors his shallow, articulate snare philosophy — dry and controlled rather than washy, giving Lamb of God's syncopated riff-locking grooves a cutting edge on "Ashes of the Wake" and "Sacrament."
+          description: `Chris Adler, Lamb of God's former drummer (1994–2019), ran 14" Dark Hi-Hats from the Meinl Byzance Series for dry, controlled articulation. Adler's setup mirrored his shallow, articulate snare philosophy — dry and controlled rather than washy, giving Lamb of God's syncopated riff-locking grooves a cutting edge on "Ashes of the Wake" and "Sacrament."
 
 The dark voicing keeps every chick tight and defined even under Lamb of God's dense, down-tuned guitar riffing — exactly the kind of tightly syncopated pocket work groove metal's technical wing demands.`,
 
@@ -87327,7 +87327,7 @@ The dark voicing keeps every chick tight and defined even under Lamb of God's de
             series: "Byzance Dark"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Meinl Byzance Dark — dry, controlled precision for syncopated riff-locking" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "Meinl Byzance Dark — dry, controlled precision for syncopated riff-locking" }
           ],
           verdict: "Best for technical, syncopated groove metal. Adler's dry, controlled Byzance hi-hats cut through anything.",
           rating: 4.7,
@@ -87528,11 +87528,11 @@ The unlathed top surface produces a raw, trashy character that punches through S
     faq: [
       {
         question: "What hi-hats are used in groove metal?",
-        answer: "Vinnie Paul of Pantera used 14\" Sabian AA/AAX Hi-Hats for tight, cutting articulation. Chris Adler of Lamb of God uses 14\" Meinl Byzance Dark Hi-Hats for dry, controlled precision. Shannon Larkin of Godsmack uses 14\" Sabian AAX Stage Hi-Hats for crisp punch. Igor Cavalera of Sepultura uses 14\" Paiste RUDE Hi-Hats for harsh, tribal aggression."
+        answer: "Vinnie Paul of Pantera used 14\" Sabian AA/AAX Hi-Hats for tight, cutting articulation. Chris Adler, Lamb of God's former drummer (1994–2019), used 14\" Meinl Byzance Dark Hi-Hats for dry, controlled precision. Shannon Larkin of Godsmack uses 14\" Sabian AAX Stage Hi-Hats for crisp punch. Igor Cavalera of Sepultura uses 14\" Paiste RUDE Hi-Hats for harsh, tribal aggression."
       },
       {
         question: "What hi-hats does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God uses 14\" Dark Hi-Hats from the Meinl Byzance Series, part of his broader Byzance Dark cymbal setup. The dry, controlled voicing gives Lamb of God's syncopated riff-locking grooves a cutting edge without excess wash."
+        answer: "Chris Adler, Lamb of God's former drummer (1994–2019), used 14\" Dark Hi-Hats from the Meinl Byzance Series, part of his broader Byzance Dark cymbal setup. The dry, controlled voicing gave Lamb of God's syncopated riff-locking grooves a cutting edge without excess wash."
       },
       {
         question: "What size hi-hats for groove metal?",
@@ -90119,7 +90119,7 @@ One overlooked factor: extreme metal's sustained abuse means a stick's long-term
       title: "Why Groove Metal Sticks Need Impact, Not Blast-Beat Speed",
       content: `Groove metal's mid-tempo (100-140 BPM), riff-locked patterns put the snare and kick front and center, and the stick choices behind the genre's most influential drummers reflect that: rather than optimizing for blast-beat rebound, groove metal sticks are built to land with explosive, cutting impact on fewer, more deliberate accents. It's a different problem than thrash or death metal's rapid-fire endurance demands.
 
-Vinnie Paul built the genre's founding template on a standard Vic Firth American Classic 5B, delivering the explosive accents that anchored Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God plays his own Promark signature stick — an extra-long 5A-diameter model that trades raw mass for added reach and precise control on Lamb of God's syncopated riff-locking grooves. Igor Cavalera of Sepultura runs a standard Vic Firth 5B, anchoring the heavier end of groove metal's spectrum for tribal, down-tuned riffing.
+Vinnie Paul built the genre's founding template on a standard Vic Firth American Classic 5B, delivering the explosive accents that anchored Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), played his own Promark signature stick — an extra-long 5A-diameter model that traded raw mass for added reach and precise control on Lamb of God's syncopated riff-locking grooves. Igor Cavalera of Sepultura runs a standard Vic Firth 5B, anchoring the heavier end of groove metal's spectrum for tribal, down-tuned riffing.
 
 This guide covers what actually makes a drumstick work for groove metal's deliberate, riff-locked dynamic, what the genre's most influential drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
@@ -90249,7 +90249,7 @@ It's proof that groove metal's explosive template doesn't require maximum diamet
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Promark TX5AXW signature — extended reach for syncopated riff-locking grooves" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "Promark TX5AXW signature — extended reach for syncopated riff-locking grooves" }
           ],
           verdict: "The precision pick. Best for groove metal drummers who want reach and control over raw diameter.",
           rating: 4.7,
@@ -90411,7 +90411,7 @@ Alongside Vinnie Paul, Cavalera's choice reinforces that a standard 5B remains g
       },
       {
         question: "What drumsticks does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God plays his own Promark TX5AXW signature stick — an extra-long, 5A-diameter model built for precise reach and control on Lamb of God's syncopated riff-locking grooves."
+        answer: "Chris Adler, Lamb of God's former drummer (1994–2019), played his own Promark TX5AXW signature stick — an extra-long, 5A-diameter model built for precise reach and control on Lamb of God's syncopated riff-locking grooves."
       },
       {
         question: "What's the best drumstick for groove metal accents?",
@@ -111554,7 +111554,7 @@ Whatever you choose, prioritize double-braced construction and genuine expandabi
       title: "What Actually Matters When Picking Metal Drumsticks?",
       content: `Metal covers everything from mid-tempo groove to 240 BPM blast beats, which means there's no single "correct" stick — but there are fundamentals that hold across the entire genre: enough diameter to survive hard, aggressive playing without snapping every set, a tip shape that projects cleanly through distorted guitars, and a length/balance that doesn't fight your technique during long, physically demanding sets.
 
-Nicko McBrain of Iron Maiden plays a Vic Firth Signature Series stick built on a 5B shaft with a reinforced neck and tip — a beefed-up variant of metal's most common diameter, chosen for durability across Iron Maiden's marathon arena sets. Chris Adler of Lamb of God plays the ProMark TX5AXW Chris Adler Signature, a slightly slimmer .551" stick with an acorn wood tip that gives his technical, groove-driven playing a fast, dark-toned attack. Mikkey Dee, who powered Motörhead and later Scorpions, plays a Wincent signature stick built on a heavier 2B-class .622" diameter with a fat acorn/teardrop tip, reflecting his famously hard-hitting, high-volume approach.
+Nicko McBrain of Iron Maiden plays a Vic Firth Signature Series stick built on a 5B shaft with a reinforced neck and tip — a beefed-up variant of metal's most common diameter, chosen for durability across Iron Maiden's marathon arena sets. Chris Adler, Lamb of God's former drummer (1994–2019), played the ProMark TX5AXW Chris Adler Signature, a slightly slimmer .551" stick with an acorn wood tip that gave his technical, groove-driven playing a fast, dark-toned attack. Mikkey Dee, who powered Motörhead and later Scorpions, plays a Wincent signature stick built on a heavier 2B-class .622" diameter with a fat acorn/teardrop tip, reflecting his famously hard-hitting, high-volume approach.
 
 This guide covers the fundamentals that make a drumstick work for metal — diameter, length, tip shape, and wood — and breaks down exactly what these three influential metal drummers play, plus solid picks for every budget.`,
       keyPoints: [
@@ -111661,7 +111661,7 @@ Across four decades of Iron Maiden's arena and stadium touring, McBrain's signat
           tier: "pro",
           material: "American Hickory",
 
-          description: `Chris Adler of Lamb of God plays the ProMark TX5AXW Chris Adler Signature, his own named signature stick, built around a .551" diameter — close to a standard 5A but slightly thicker — paired with an acorn wood tip that gives a darker, fuller tone than a typical round-tip 5A. The combination suits Adler's technical, groove-heavy playing, where speed and articulation matter as much as raw power.
+          description: `Chris Adler, Lamb of God's former drummer (1994–2019), played the ProMark TX5AXW Chris Adler Signature, his own named signature stick, built around a .551" diameter — close to a standard 5A but slightly thicker — paired with an acorn wood tip that gave a darker, fuller tone than a typical round-tip 5A. The combination suited Adler's technical, groove-heavy playing, where speed and articulation mattered as much as raw power.
 
 The TX5AXW proves that metal doesn't always demand the heaviest available stick — Adler's intricate, precisely placed fills and blast-beat runs benefit more from a fast, well-balanced stick than from maximum mass.`,
 
@@ -111684,7 +111684,7 @@ The TX5AXW proves that metal doesn't always demand the heaviest available stick 
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "ProMark TX5AXW signature — fast, articulate attack for technical groove metal" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "ProMark TX5AXW signature — fast, articulate attack for technical groove metal" }
           ],
           verdict: "Best for technical, groove-oriented metal drumming. Fast, balanced, and darker-toned than a standard 5A.",
           rating: 4.6,
@@ -111930,7 +111930,7 @@ A sensible entry point for developing metal drummers before stepping up to a 5B 
       },
       {
         question: "What drumsticks does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God plays the ProMark TX5AXW Chris Adler Signature — a .551\" diameter stick with an acorn wood tip, giving his technical, groove-heavy playing a fast, dark-toned attack."
+        answer: "Chris Adler, Lamb of God's former drummer (1994–2019), played the ProMark TX5AXW Chris Adler Signature — a .551\" diameter stick with an acorn wood tip, giving his technical, groove-heavy playing a fast, dark-toned attack."
       },
       {
         question: "What drumsticks does Mikkey Dee use?",
@@ -113624,7 +113624,7 @@ This guide breaks down the drum heads that build groove metal's punchy, pocket-f
           tier: "pro",
           material: "2-Ply Coated (7mil + 7mil)",
 
-          description: `The G2 Coated is groove metal's punchy, pocket-locked standard. Its double-ply construction delivers exactly the controlled low-end weight Chris Adler and Art Cruz need for Lamb of God's syncopated, riff-locking grooves, while staying articulate enough that off-beat accents never smear together.
+          description: `The G2 Coated is groove metal's punchy, pocket-locked standard. Its double-ply construction delivers exactly the controlled low-end weight Chris Adler needed and Art Cruz needs for Lamb of God's syncopated, riff-locking grooves, while staying articulate enough that off-beat accents never smear together.
 
 Its Level 360 collar keeps tuning consistent across a heavy touring schedule, and the coating adds warmth without sacrificing the punch that makes a low-tuned groove hit hard.`,
 
@@ -113648,7 +113648,7 @@ Its Level 360 collar keeps tuning consistent across a heavy touring schedule, an
             sizes: "6\" to 26\""
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Syncopated, riff-locking groove metal precision" },
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "Syncopated, riff-locking groove metal precision" },
             { name: "Art Cruz", band: "Lamb of God", note: "Current-era groove and pocket punch" }
           ],
           verdict: "The definitive groove metal head — punchy, articulate, and durable enough for constant touring.",
@@ -113819,7 +113819,7 @@ This is the head to learn groove metal's foundational pocket feel on, not necess
       content: `Groove metal's two dominant head brands both offer punchy double-ply options, with a real split between modern precision and traditional warmth.
 
 **Evans:**
-- G2 Coated is the genre's most common choice — Chris Adler and Art Cruz both play punchy, articulate Evans double-ply heads
+- G2 Coated is the genre's most common choice — Chris Adler played it during his Lamb of God tenure, and Art Cruz plays it today
 - Level 360 collar for reliable tuning across a heavy touring schedule
 - EC2 SST adds built-in overtone control for an even tighter, more focused punch
 - Preferred by: Chris Adler, Art Cruz
@@ -113891,7 +113891,7 @@ This is the head to learn groove metal's foundational pocket feel on, not necess
     faq: [
       {
         question: "What drum heads do groove metal drummers use?",
-        answer: "Groove metal drummers generally favor coated double-ply heads for a punchy, controlled attack. Chris Adler and Art Cruz of Lamb of God both play Evans G2 Coated heads, while Igor Cavalera of Sepultura favors Remo's Coated Emperor for its warmer, floor-tom-forward tone."
+        answer: "Groove metal drummers generally favor coated double-ply heads for a punchy, controlled attack. Chris Adler, Lamb of God's former drummer (1994–2019), played Evans G2 Coated heads, and Art Cruz, the band's current drummer, plays them too, while Igor Cavalera of Sepultura favors Remo's Coated Emperor for its warmer, floor-tom-forward tone."
       },
       {
         question: "Why does groove metal use double-ply heads instead of thin single-ply heads?",

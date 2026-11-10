@@ -166,7 +166,7 @@ This 14"x5" configuration excels at fast playing—the shallower depth provides 
 **Size:** 14" x 5.5"  
 **Best for:** Modern thrash, groove-thrash hybrid, powerful projection
 
-Chris Adler of Lamb of God helped design the Black Panther series, and the Blade is built specifically for modern metal. The 2.3mm steel shell is thicker than most, providing maximum projection and a focused, controlled crack.
+Chris Adler, Lamb of God's former drummer (1994–2019), helped design the Black Panther series, and the Blade is built specifically for modern metal. The 2.3mm steel shell is thicker than most, providing maximum projection and a focused, controlled crack.
 
 The SONIClear bearing edge is Mapex's precision-cut edge that enhances both attack and sensitivity. For drummers transitioning from groove metal to thrash, the Blade delivers the power and cut you need without breaking the bank.
 
@@ -183,7 +183,7 @@ The SONIClear bearing edge is Mapex's precision-cut edge that enhances both atta
 - May need additional muffling
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — Primary snare choice
+- Chris Adler (ex-Lamb of God) — Primary snare choice
 
 ### 5. Yamaha Recording Custom Steel — Yamaha
 

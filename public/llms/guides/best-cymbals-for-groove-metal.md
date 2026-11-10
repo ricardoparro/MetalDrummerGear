@@ -11,7 +11,7 @@
 
 Groove metal's mid-tempo (100–140 BPM), riff-locked patterns put the snare and kick front and center, but the cymbals still have to do real work: cutting through down-tuned, syncopated guitar riffs with explosive crash accents and a ride bell that stays locked to the pocket rather than washing over it. Unlike thrash or death metal, where cymbals are chosen to survive hundreds of rapid strokes per minute, groove metal cymbals are voiced for maximum impact on fewer, more deliberate hits.
 
-Vinnie Paul built the genre's founding cymbal template on Sabian AA and AAX Series cymbals, running 14" hi-hats for tight groove articulation, 18" and 19" crashes for explosive accents, a 21" ride for rhythmic clarity, and an 18" China for aggressive punctuation across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with Meinl Byzance Series cymbals — 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China — giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs Sabian AAX Series cymbals built around 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Raw Bell Dry Ride, and an 18" AAX Chinese, delivering the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura and Cavalera Conspiracy plays Paiste RUDE and 2002 Series cymbals — 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China — built for the harsh, slow-decay aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
+Vinnie Paul built the genre's founding cymbal template on Sabian AA and AAX Series cymbals, running 14" hi-hats for tight groove articulation, 18" and 19" crashes for explosive accents, a 21" ride for rhythmic clarity, and an 18" China for aggressive punctuation across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), took a drier, more controlled approach with Meinl Byzance Series cymbals — 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China — giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs Sabian AAX Series cymbals built around 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Raw Bell Dry Ride, and an 18" AAX Chinese, delivering the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura and Cavalera Conspiracy plays Paiste RUDE and 2002 Series cymbals — 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China — built for the harsh, slow-decay aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
 
 This guide breaks down hi-hat, crash, ride, and China choices for groove metal — comparing four drummers whose setups define the genre's cutting, riff-locked cymbal demands, with recommendations from budget to professional touring rigs.
 
@@ -103,7 +103,7 @@ As the co-founder of groove metal alongside his brother Dimebag Darrell, Paul's 
 **Material:** B20 Bronze (Byzance)  
 **Rating:** 4.7/5
 
-Chris Adler of Lamb of God runs a Meinl Byzance Dark Series setup: 14" Dark Hi-Hats for dry, controlled articulation, 18" and 19" Dark Crashes for explosive accent bursts, a 21" Transition Ride for clear rhythmic articulation, and an 18" Extra Dry China for raw, cutting punctuation.
+Chris Adler, Lamb of God's former drummer (1994–2019), ran a Meinl Byzance Dark Series setup: 14" Dark Hi-Hats for dry, controlled articulation, 18" and 19" Dark Crashes for explosive accent bursts, a 21" Transition Ride for clear rhythmic articulation, and an 18" Extra Dry China for raw, cutting punctuation.
 
 Adler's setup mirrors his shallow, articulate snare philosophy — dry and controlled rather than washy, giving Lamb of God's syncopated riff-locking grooves a cutting edge on "Ashes of the Wake" and "Sacrament."
 
@@ -120,7 +120,7 @@ Adler's setup mirrors his shallow, articulate snare philosophy — dry and contr
 - Less explosive top-end brightness than the AA/AAX or X-Plosion lines
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — Meinl Byzance Dark — dry, controlled precision for syncopated riff-locking
+- Chris Adler (ex-Lamb of God) — Meinl Byzance Dark — dry, controlled precision for syncopated riff-locking
 
 **Verdict:** Best for technical, syncopated groove metal. Adler's dry, controlled Byzance setup cuts through anything.
 
@@ -277,7 +277,7 @@ Cutting, explosive impact stays the goal across groove metal's founding and mode
 Vinnie Paul of Pantera played Sabian AA and AAX Series cymbals: 14" Hi-Hats, 18" and 19" Crashes, a 21" Ride, and an 18" China. This setup delivered the cutting, explosive punctuation behind "Cowboys from Hell," "Vulgar Display of Power," and "Far Beyond Driven" — the records that established groove metal's foundational sound.
 
 **What cymbals does Chris Adler use?**
-Chris Adler of Lamb of God plays Meinl Byzance Dark Series cymbals: 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China. The dry, controlled voicing gives Lamb of God's syncopated riff-locking grooves a cutting edge on "Ashes of the Wake" and "Sacrament."
+Chris Adler, Lamb of God's former drummer (1994–2019), played Meinl Byzance Dark Series cymbals: 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China. The dry, controlled voicing gave Lamb of God's syncopated riff-locking grooves a cutting edge on "Ashes of the Wake" and "Sacrament."
 
 **What cymbals does Shannon Larkin use?**
 Shannon Larkin of Godsmack plays Sabian AAX Series cymbals: 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Raw Bell Dry Ride, and an 18" AAX Chinese. The X-Plosion crashes deliver the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums.

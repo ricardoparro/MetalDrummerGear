@@ -11,7 +11,7 @@
 
 Groove metal's mid-tempo (100-140 BPM), riff-locked patterns put the snare and kick front and center, but the ride still has real work to do: landing with explosive, cutting impact on accented downbeats rather than blending into a wash. Unlike thrash or death metal, where rides are chosen to survive hundreds of rapid strokes per minute, groove metal rides are voiced for maximum impact on fewer, more deliberate hits.
 
-Vinnie Paul built the genre's founding ride template on a 20" Sabian AA Ride, delivering explosive accents across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake." Shannon Larkin of Godsmack runs a 21" Sabian AAX Raw Bell Dry Ride for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, while Igor Cavalera of Sepultura plays a 22" Paiste RUDE Ride for the harsh, slow-decay aggression behind "Roots Bloody Roots."
+Vinnie Paul built the genre's founding ride template on a 20" Sabian AA Ride, delivering explosive accents across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), took a drier, more controlled approach with a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake." Shannon Larkin of Godsmack runs a 21" Sabian AAX Raw Bell Dry Ride for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, while Igor Cavalera of Sepultura plays a 22" Paiste RUDE Ride for the harsh, slow-decay aggression behind "Roots Bloody Roots."
 
 This guide breaks down what actually makes a ride work for groove metal — explosive impact and cutting power over raw speed — and recommends specific models across every budget, from a first cutting ride to the exact cymbals groove metal's most influential drummers ride.
 
@@ -102,7 +102,7 @@ As the genre's founding drummer, Vinnie Paul's ride choice set the template the 
 **Type:** B20 Bronze, Dark Finish  
 **Rating:** 4.7/5
 
-Chris Adler of Lamb of God plays a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on "Ashes of the Wake" and "Sacrament." Where Vinnie Paul's Sabian setup favors bright explosiveness, Adler's Byzance Dark ride prioritizes precision.
+Chris Adler, Lamb of God's former drummer (1994–2019), played a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on "Ashes of the Wake" and "Sacrament." Where Vinnie Paul's Sabian setup favors bright explosiveness, Adler's Byzance Dark ride prioritized precision.
 
 Adler's ride choice proves that groove metal's cutting template doesn't require raw brightness — a dry, dark-voiced ride can cut through syncopated, riff-locked material just as effectively.
 
@@ -118,7 +118,7 @@ Adler's ride choice proves that groove metal's cutting template doesn't require 
 - Individual cymbal variation is significant in hand-hammered lines
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — 22" Byzance Dark Ride for syncopated riff-locking precision
+- Chris Adler (ex-Lamb of God) — 22" Byzance Dark Ride for syncopated riff-locking precision
 
 **Verdict:** Best for technical, tightly syncopated groove metal that needs dry, controlled cutting power.
 
@@ -273,7 +273,7 @@ Cutting, explosive impact stays the goal across groove metal's founding and mode
 Vinnie Paul of Pantera played a 20" Sabian AA Ride, delivering the cutting, explosive punctuation behind "Cowboys from Hell," "Vulgar Display of Power," and "Far Beyond Driven."
 
 **What ride cymbal does Chris Adler use?**
-Chris Adler of Lamb of God plays a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on "Ashes of the Wake" and "Sacrament."
+Chris Adler, Lamb of God's former drummer (1994–2019), played a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on "Ashes of the Wake" and "Sacrament."
 
 **What ride cymbal does Shannon Larkin use?**
 Shannon Larkin of Godsmack runs a 21" Sabian AAX Raw Bell Dry Ride, delivering the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums.

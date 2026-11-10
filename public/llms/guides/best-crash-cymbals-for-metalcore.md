@@ -11,7 +11,7 @@
 
 Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's crash choices reflect that split. A breakdown crash needs to land hard and decay fast so the next palm-muted chug isn't buried under ringing metal, while the genre's frequent tempo and dynamic shifts demand a crash that responds instantly to a wide range of accent styles.
 
-Matt Greiner of August Burns Red runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium, uses 16", 18", and 19" Meinl Byzance Brilliant Medium Thin Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
+Matt Greiner of August Burns Red runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium, uses 16", 18", and 19" Meinl Byzance Brilliant Medium Thin Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler, Lamb of God's former drummer (1994–2019), played 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
 
 This guide breaks down what actually makes a crash work for metalcore — fast decay, breakdown punctuation, and brightness versus control — and recommends specific models across every budget, from a first breakdown-ready crash to the exact cymbals metalcore's most influential drummers play.
 
@@ -158,7 +158,7 @@ The A Custom line's brilliant finish gave fast, cutting crash response ideal for
 **Type:** B20 Bronze, Dark  
 **Rating:** 4.5/5
 
-Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes, tuned for groove metal's tightly arranged breakdowns. The dark, hand-hammered B20 construction delivers controlled decay with more tonal complexity than a purely dry-voiced crash, giving Adler's breakdown hits weight without losing definition.
+Chris Adler, Lamb of God's former drummer (1994–2019), played 18" and 19" Meinl Byzance Dark Crashes, tuned for groove metal's tightly arranged breakdowns. The dark, hand-hammered B20 construction delivers controlled decay with more tonal complexity than a purely dry-voiced crash, giving Adler's breakdown hits weight without losing definition.
 
 Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and Jay Weinberg's bright, explosive attack — a genuinely middle-ground option for metalcore-adjacent groove metal.
 
@@ -174,7 +174,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
 - Individual hand-hammered units vary — try before buying if possible
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — 18" & 19" Byzance Dark Crashes for groove metal breakdowns
+- Chris Adler (ex-Lamb of God) — 18" & 19" Byzance Dark Crashes for groove metal breakdowns
 
 **Verdict:** Best middle-ground crash — dark and controlled without sacrificing tonal complexity.
 
@@ -291,7 +291,7 @@ Metalcore's crash choices split along a clear line: control-first dryness, or br
 Matt Greiner of August Burns Red runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes, chosen for the controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes.
 
 **What crash cymbal does Chris Adler use?**
-Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes, tuned for groove metal's tightly arranged breakdowns — a dark, complex B20 tone with controlled decay.
+Chris Adler, Lamb of God's former drummer (1994–2019), played 18" and 19" Meinl Byzance Dark Crashes, tuned for groove metal's tightly arranged breakdowns — a dark, complex B20 tone with controlled decay.
 
 **What crash cymbal does Jay Weinberg use?**
 Jay Weinberg, formerly of Slipknot (2014-2023), ran 18" and 19" Zildjian A Custom Crashes, a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound.

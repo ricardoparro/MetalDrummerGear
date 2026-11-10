@@ -91,7 +91,7 @@ Its Level 360 collar keeps tuning consistent across a heavy touring schedule, an
 - Mid-range pricing versus budget single-ply options
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — Syncopated, riff-locking groove metal precision
+- Chris Adler (ex-Lamb of God) — Syncopated, riff-locking groove metal precision
 - Art Cruz (Lamb of God) — Current-era groove and pocket punch
 
 **Verdict:** The definitive groove metal head — punchy, articulate, and durable enough for constant touring.

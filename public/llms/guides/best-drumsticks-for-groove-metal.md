@@ -11,7 +11,7 @@
 
 Groove metal's mid-tempo (100-140 BPM), riff-locked patterns put the snare and kick front and center, and the stick choices behind the genre's most influential drummers reflect that: rather than optimizing for blast-beat rebound, groove metal sticks are built to land with explosive, cutting impact on fewer, more deliberate accents. It's a different problem than thrash or death metal's rapid-fire endurance demands.
 
-Vinnie Paul built the genre's founding template on a standard Vic Firth American Classic 5B, delivering the explosive accents that anchored Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God plays his own Promark signature stick — an extra-long 5A-diameter model that trades raw mass for added reach and precise control on Lamb of God's syncopated riff-locking grooves. Shannon Larkin of Godsmack plays his own Promark signature stick, built for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack records. Igor Cavalera of Sepultura runs a standard Vic Firth 5B, anchoring the heavier end of groove metal's spectrum for tribal, down-tuned riffing.
+Vinnie Paul built the genre's founding template on a standard Vic Firth American Classic 5B, delivering the explosive accents that anchored Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), played his own Promark signature stick — an extra-long 5A-diameter model that traded raw mass for added reach and precise control on Lamb of God's syncopated riff-locking grooves. Shannon Larkin of Godsmack plays his own Promark signature stick, built for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack records. Igor Cavalera of Sepultura runs a standard Vic Firth 5B, anchoring the heavier end of groove metal's spectrum for tribal, down-tuned riffing.
 
 This guide covers what actually makes a drumstick work for groove metal's deliberate, riff-locked dynamic, what the genre's most influential drummers actually play, and concrete recommendations from budget to pro.
 
@@ -118,7 +118,7 @@ It's proof that groove metal's explosive template doesn't require maximum diamet
 - Less raw diameter than Vinnie Paul's 5B for drummers wanting maximum accent weight
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — Promark TX5AXW signature — extended reach for syncopated riff-locking grooves
+- Chris Adler (ex-Lamb of God) — Promark TX5AXW signature — extended reach for syncopated riff-locking grooves
 
 **Verdict:** The precision pick. Best for groove metal drummers who want reach and control over raw diameter.
 
@@ -271,7 +271,7 @@ Groove metal's most influential drummers split between the genre-founding heavie
 Vinnie Paul of Pantera built groove metal's founding stick template on a standard Vic Firth American Classic 5B, delivering the explosive, cutting accents behind "Cowboys from Hell," "Vulgar Display of Power," and "Far Beyond Driven."
 
 **What drumsticks does Chris Adler use?**
-Chris Adler of Lamb of God plays his own Promark TX5AXW signature stick — an extra-long, 5A-diameter model built for precise reach and control on Lamb of God's syncopated riff-locking grooves.
+Chris Adler, Lamb of God's former drummer (1994–2019), played his own Promark TX5AXW signature stick — an extra-long, 5A-diameter model built for precise reach and control on Lamb of God's syncopated riff-locking grooves.
 
 **What's the best drumstick for groove metal accents?**
 A standard 5B like Vinnie Paul's and Igor Cavalera's choice delivers maximum explosive accent impact. For drummers who prioritize syncopated precision over raw diameter, Chris Adler's extended-length Promark signature is a proven alternative.

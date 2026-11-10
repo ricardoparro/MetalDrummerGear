@@ -11,7 +11,7 @@
 
 Groove metal built its entire identity on the pocket — mid-tempo, riff-locked grooves that hit exactly on the beat rather than around it. That approach doesn't need the sprawling, multi-tom rack systems that define technical death metal or djent; it needs a lean, rock-solid standard kit where every stand holds its position through hard, deliberate hits without drifting.
 
-Vinnie Paul of Pantera defined the genre's hardware philosophy long before "groove metal" was a term anyone used — a compact, standard-footprint kit anchored by heavy-duty stands that never needed to be an elaborate rack system, because Pantera's grooves didn't call for one. Chris Adler of Lamb of God carried that same minimalist logic forward, building his rig around dependable, double-braced stands sized to a tight, road-ready kit rather than a sprawling technical setup. Shannon Larkin of Godsmack has spent decades proving that a well-chosen standard hardware pack, not a rack system, is what most groove metal drumming actually calls for.
+Vinnie Paul of Pantera defined the genre's hardware philosophy long before "groove metal" was a term anyone used — a compact, standard-footprint kit anchored by heavy-duty stands that never needed to be an elaborate rack system, because Pantera's grooves didn't call for one. Chris Adler, Lamb of God's former drummer (1994–2019), carried that same minimalist logic forward, building his rig around dependable, double-braced stands sized to a tight, road-ready kit rather than a sprawling technical setup. Shannon Larkin of Godsmack has spent decades proving that a well-chosen standard hardware pack, not a rack system, is what most groove metal drumming actually calls for.
 
 This guide covers what makes hardware genuinely groove-metal-grade, which specific pieces the genre's most respected drummers rely on, and where a compact pocket kit should spend versus save.
 
@@ -110,7 +110,7 @@ The DW 9000's memory-lock system lets a groove metal drummer rebuild the exact s
 - More hardware than a truly minimalist pocket kit strictly needs
 
 **Who uses it:**
-- Chris Adler (Lamb of God) — Flagship stability for a lean, road-hardened groove metal kit
+- Chris Adler (ex-Lamb of God) — Flagship stability for a lean, road-hardened groove metal kit
 
 **Verdict:** The flagship choice for groove metal drummers who want maximum durability in a lean kit.
 

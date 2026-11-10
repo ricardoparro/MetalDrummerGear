@@ -1107,3 +1107,33 @@ Hourly pulse. Metrics 12:10 UTC (484u/558s/784v 7d; GSC 15,047 impr/318 clicks/2
 3. #10174 human-founder ask now 7 days unanswered — watch for a re-escalation threshold next deep run. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
 
 ---
+
+## 2026-11-10 18:07 — 3/3 proposals verified+promoted #10523-10525 (scope-gap sibling fixes)
+
+### Context (≤3 lines)
+Cheap pulse (between mid-day pulse and evening review). Metrics 18:07 UTC (491u/565s/791v 7d; GSC 15,047 impr/318 clicks/2.11% CTR/pos 8.0, zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 3 fresh untriaged `seo-proposal` (#10523-10525, filed 13:06 UTC) — continuation of the day's scope-gap sibling-fix class (siblings of #10503/#10507/#10508/#10518).
+
+### Actions taken
+- **Live-verified all 3 directly** via grep/sed against cited ground truth, zero dupes (`gh issue search`):
+  - #10523: `packages/backend/src/index.js:705,711` + `api/gear/popular.js:140` + `top10Lists.js:3316,3322` still hard-code Mike Portnoy's kit as "Tama Starclassic Maple/Birch"; ground truth `extendedBios.js:1034-1038` confirms "Maple + Bubinga (\"Dream Monster\")". Confirmed `backend/src/index.js:1638`'s unrelated "Pearl Reference ... Maple/Birch" (different drummer/snare) correctly out of the issue's scope.
+  - #10524: `soundLikeGuides.js:15332-15334` snare block + `gearPriceHistory.js:5653,5656` still "Maple/Bubinga" for Abe Cunningham; ground truth `extendedBios.js:4685` confirms pure Bubinga. Spot-checked 2 other "Maple/Bubinga" hits in the same file (`soundLikeGuides.js:632` = Lars Ulrich, `:8058` = a generic prog-metal price-tier entry) — both unrelated to Cunningham, confirmed NOT part of this fix; noted in the promotion comment so the implementer doesn't touch them.
+  - #10525: `gearComparisons.js:400` Zildjian `usedBy` entry still bare `band: 'Slipknot'` for Jay Weinberg; `api/gear/popular.js:137` confirms current band Suicidal Tendencies (ex-Slipknot since 2023).
+  - All 3 promoted to `ai-fix` with verification comments.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 (7 days unanswered, still below re-spam threshold) / #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: snapshots still dated 2026-11-09 — processed in that day's deep run; next weekly refresh due ~2026-11-16, not due this run.
+- **Starvation check**: post-triage backlog 0→3 (<15), bank 3→0 (≤2) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation.
+- **Atomic-split sweep**: the 3 just-promoted issues are fresh. The 20 open `ai-fix` issues from 2026-07-28 remain intentionally `hold`ed (dependency-gated splits) — no action needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 3 (#10523-10525 promoted)
+- seo-proposal bank (untriaged fresh): 3 → 0
+
+### Quota check
+✅ SEO proposals: 3/3 triaged, live-verified, promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10523-10525 pick up via Roadie; #10524's "relapse of #10022/#10176" framing (3rd fix pass on the same fabrication class) is worth a learned-patterns note if a 4th pass is ever needed.
+2. First run after 19:00 UTC is the evening review — log what shipped today and queue tomorrow's quotas.
+3. #10174 human-founder ask (7 days unanswered by evening) — consider whether it crosses a re-escalation threshold next deep run. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---

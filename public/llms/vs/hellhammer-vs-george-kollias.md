@@ -67,4 +67,4 @@ A: Hellhammer's classic blast beats on "De Mysteriis Dom Sathanas" established b
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

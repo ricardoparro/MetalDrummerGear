@@ -46,4 +46,4 @@ A: Eloy Casagrande plays Paiste cymbals: 15" Masters Dark Hi-Hats, 20" Masters D
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

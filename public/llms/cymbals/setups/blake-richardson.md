@@ -44,4 +44,4 @@ A: Blake Richardson plays Sabian cymbals: 14" HHX Evolution Hi-Hats, 18" HHX Evo
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

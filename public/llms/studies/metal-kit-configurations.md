@@ -1,6 +1,6 @@
 # Metal Drum Kit Configurations: Double Bass vs. Double Pedal
 
-> **Last updated:** 2026-11-03 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-kit-configurations)
+> **Last updated:** 2026-11-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-kit-configurations)
 
 ---
 
@@ -50,7 +50,7 @@ Double pedal is by far the most common bass-drum configuration among metal drumm
 | Progressive Metal | 9 | 5.6 | 5 |
 | Thrash Metal | 9 | 4.8 | 5 |
 | Death Metal | 5 | 4.6 | 5 |
-| Heavy Metal | 5 | 5 | 5 |
+| Heavy Metal | 5 | 4.8 | 5 |
 | Melodic Death Metal | 4 | 2.8 | 3.5 |
 | Black Metal | 3 | 5 | 5 |
 | Nu Metal | 3 | 7.3 | 8 |
@@ -68,7 +68,7 @@ Roster-wide cymbal setup size ranges from 0 to 9 pieces across the 56-drummer ve
 | Hi-Hats | 55 |
 | Crashes | 116 |
 | Rides | 52 |
-| Chinas | 49 |
+| Chinas | 48 |
 | Splashes | 9 |
 | Other | 5 |
 
@@ -95,4 +95,4 @@ Dataset: 72 documented drummers, snapshot dated 2026-07-25. Pedal-configuration 
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

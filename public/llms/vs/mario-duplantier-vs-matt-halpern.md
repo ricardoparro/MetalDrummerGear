@@ -67,4 +67,4 @@ A: Mario Duplantier is the drummer and co-founder of Gojira, the French progress
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

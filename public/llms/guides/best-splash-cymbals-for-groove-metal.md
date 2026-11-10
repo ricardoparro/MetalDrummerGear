@@ -11,14 +11,14 @@
 
 Groove metal is built on mid-tempo, syncopated riffs that lock tight with the bass and guitar — the whole genre depends on a drummer landing accents with precision rather than speed. A splash cymbal's sharp, near-instant decay is a natural fit for that job: a bright accent voice, typically 8" to 12" in diameter, that punctuates a single syncopated stab or the tail end of a breakdown without washing over the next bar the way a full-size crash would.
 
-Art Cruz's Zildjian setup for Lamb of God includes a 9" FX Trash Splash within his broader A Custom rig — a splash modified with rivets or an FX treatment for a trashier, more aggressive accent that suits groove metal's syncopated riff-locking better than a clean, ringing splash would. Shannon Larkin runs a 10" Sabian AAX Splash within his AAX and HHX touring setup for Godsmack, giving the band's groove-driven, radio-ready rhythms a quick, cutting punctuation option beyond his X-Plosion crashes.
+Art Cruz runs a 10" splash within his broader Zildjian A Custom rig for Lamb of God, a clean, focused accent that suits groove metal's syncopated riff-locking. Shannon Larkin runs a 10" Sabian AAX Splash within his AAX and HHX touring setup for Godsmack, giving the band's groove-driven, radio-ready rhythms a quick, cutting punctuation option beyond his X-Plosion crashes.
 
 Despite that real-world use, a splash remains one of the most overlooked cymbals in a groove metal setup. Where a second crash or a china tends to make the shopping list early on, a splash usually only gets added once a drummer notices every syncopated accent and breakdown hit sounds tonally identical against a standard crash-and-ride rig. That's a real gap in a genre built almost entirely around landing accents with impact — a splash is one of the cheapest, smallest ways to close it. This guide covers what actually matters when choosing a splash cymbal for groove metal — size, construction, and trash treatment — with specific recommendations across every budget.
 
 **Key Points:**
 
 - A splash's fast decay gives groove metal's syncopated riff-locking a distinct accent voice a full-size crash can't replicate
-- Art Cruz runs a 9" Zildjian FX Trash Splash within his Lamb of God touring rig for a trashier, more aggressive accent
+- Art Cruz runs a 10" splash within his Zildjian A Custom rig for a clean, focused accent in Lamb of God
 - Shannon Larkin's 10" Sabian AAX Splash punctuates Godsmack's groove-driven rhythms beyond his X-Plosion crashes
 - A splash is one of the cheapest, smallest ways to add tonal contrast to accents and breakdown hits
 
@@ -34,7 +34,7 @@ Splash cymbals typically range from 8" to 12". Smaller sizes (8"-10") decay fast
 
 ### ⚡ Trash/FX Treatment
 
-Some groove metal drummers, including Art Cruz, run a rivet or FX-treated splash for a trashier, more aggressive accent voice that cuts differently than a clean splash — a genuinely useful option for syncopated, riff-locked material.
+Some groove metal drummers run a rivet or FX-treated splash for a trashier, more aggressive accent voice that cuts differently than a clean splash — a genuinely useful option for syncopated, riff-locked material.
 
 **Recommendation:** Consider an FX or trash splash if you want a grittier accent than a standard clean splash provides
 
@@ -66,35 +66,7 @@ Some drummers stack a splash on top of a hi-hat or another small cymbal to creat
 
 ## Top Splash Cymbals for Groove Metal Drummers
 
-### 1. Zildjian FX Trash Splash — Zildjian
-
-**Model:** FX Trash Splash 9"  
-**Price range:** €110-140  
-**Tier:** pro  
-**Type:** B20 Bronze, Trash/FX Treatment  
-**Rating:** 4.6/5
-
-The FX Trash Splash trades a clean, ringing decay for a trashier, more aggressive attack — an accent voice built for exactly the kind of syncopated, riff-locked punctuation groove metal calls for rather than a smoothly sustained wash.
-
-Art Cruz's touring cymbal setup for Lamb of God includes a 9" FX Trash Splash within his broader Zildjian A Custom rig, giving his breakdown hits and syncopated stabs a grittier edge than a standard clean splash would.
-
-**Pros:**
-- Aggressive, trashy attack distinct from a standard clean splash
-- Cuts clearly through down-tuned, syncopated riffing
-- Consistent with the A Custom voicing many groove metal setups already run
-- Fast decay ideal for isolated accent hits
-
-**Cons:**
-- Premium price for a single accent cymbal
-- Trashy voicing is a specific tonal choice, not universally preferred
-- 9" size limited to accent use, not a crash substitute
-
-**Who uses it:**
-- Art Cruz (Lamb of God) — 9" FX Trash Splash within Zildjian A Custom touring rig
-
-**Verdict:** The best all-around pro splash for a grittier, more aggressive groove metal accent.
-
-### 2. Sabian AAX Splash — Sabian
+### 1. Sabian AAX Splash — Sabian
 
 **Model:** AAX Splash 10"  
 **Price range:** €100-130  
@@ -122,7 +94,7 @@ Shannon Larkin's Godsmack cymbal setup runs a 10" AAX Splash alongside his AAX X
 
 **Verdict:** The most explosive, cutting clean splash here, proven in groove-driven radio-ready material.
 
-### 3. Meinl Byzance Dark Splash — Meinl
+### 2. Meinl Byzance Dark Splash — Meinl
 
 **Model:** Byzance Dark Splash 10"  
 **Price range:** €110-140  
@@ -147,7 +119,7 @@ That controlled, drier character suits groove metal setups already running brigh
 
 **Verdict:** The best dry, controlled splash voice for contrast against a bright groove metal crash setup.
 
-### 4. Sabian HHX Evolution Splash — Sabian
+### 3. Sabian HHX Evolution Splash — Sabian
 
 **Model:** HHX Evolution Splash 10"  
 **Price range:** €120-150  
@@ -184,7 +156,7 @@ You don't need a premium B20 bronze splash to start building your accent vocabul
 **Type:** B8 Bronze  
 **Rating:** 4/5
 
-A budget B8 bronze splash from Zildjian's entry-level Planet Z line, offering a bright, usable accent voice at a fraction of the FX Trash Splash's price — a genuine starting point for learning splash placement on syncopated riffs.
+A budget B8 bronze splash from Zildjian's entry-level Planet Z line, offering a bright, usable accent voice at a fraction of a pro-tier splash's price — a genuine starting point for learning splash placement on syncopated riffs.
 
 **Pros:**
 - Very affordable entry point from a trusted major brand
@@ -245,19 +217,18 @@ Meinl's HCS line uses a more affordable brass alloy rather than bronze, but stil
 
 Splash cymbals for groove metal generally split into two tonal camps:
 
-**Trash/FX Splashes (Zildjian FX Trash Splash):**
+**Trash/FX Splashes (rivet or FX-treated models):**
 - Gritty, aggressive attack that suits syncopated, riff-locked material
-- Favored by drummers like Art Cruz for accents that sit apart from a clean crash setup
 - Best when you want the splash to sound distinctly different from your crashes
 
 **Clean Splashes (Sabian AAX, Meinl Byzance Dark, Sabian HHX Evolution):**
 - Standard, ringing decay that blends more naturally alongside a matched crash setup
-- Favored by drummers like Shannon Larkin for a bright, immediate accent that's still tonally consistent with the rest of the kit
+- Favored by drummers like Shannon Larkin and Art Cruz for a bright, immediate accent that's still tonally consistent with the rest of the kit
 - Best when your setup already runs a distinct crash voicing and you want the splash to match rather than contrast
 
-**The Truth:** Neither voicing is objectively better — it depends on whether you want your splash to sound like a variation of your crashes or a genuinely different accent voice. Drummers who already run a bright, cutting crash setup (like AAX X-Plosion) often add a clean splash for consistency, while drummers looking to add a new textural dimension reach for a trash or FX splash instead.
+**The Truth:** Neither voicing is objectively better — it depends on whether you want your splash to sound like a variation of your crashes or a genuinely different accent voice. Drummers who already run a bright, cutting crash setup (like AAX X-Plosion or A Custom) often add a clean splash for consistency, while drummers looking to add a new textural dimension reach for a trash or FX splash instead.
 
-**Our Recommendation:** If your existing crash setup is already bright and cutting, add a Sabian AAX or Meinl Byzance Dark splash for a consistent, controlled accent. If you want your splash to stand apart with a grittier edge, the Zildjian FX Trash Splash is the more distinctive choice.
+**Our Recommendation:** If your existing crash setup is already bright and cutting, add a Sabian AAX or Meinl Byzance Dark splash for a consistent, controlled accent. If you want your splash to stand apart with a grittier edge, a rivet or FX-treated splash is the more distinctive choice.
 
 | feature | directDrive | chainDrive |
 | --- | --- | --- |
@@ -271,26 +242,26 @@ Splash cymbals for groove metal generally split into two tonal camps:
 
 ## Our Top Picks
 
-- **Best Overall:** Zildjian FX Trash Splash — A gritty, distinctive accent voice proven in Art Cruz's touring cymbal rig for Lamb of God.
-- **Best Clean Splash:** Sabian AAX Splash — A bright, explosive accent voice proven in Shannon Larkin's Godsmack touring setup.
+- **Best Overall:** Sabian AAX Splash — A bright, explosive accent voice proven in Shannon Larkin's Godsmack touring setup.
 - **Best Budget:** Zildjian Planet Z Splash — A genuinely usable, bright entry-level splash for learning accent placement and technique.
 - **Best for Bright Crash Setups:** Meinl Byzance Dark Splash — A dry, controlled decay that adds contrast without piling on more brightness.
+- **Most Versatile:** Sabian HHX Evolution Splash — A crisp, articulate splash that responds well across a wide dynamic range, for drummers who don't already run AAX or A Custom.
 
 ---
 
 ## FAQ
 
 **What splash cymbal does Art Cruz use?**
-Art Cruz of Lamb of God runs a 9" Zildjian FX Trash Splash within his broader Zildjian A Custom touring rig, giving his breakdown hits and syncopated accents a grittier, trashier edge than a standard clean splash.
+Art Cruz of Lamb of God runs a 10" splash within his broader Zildjian A Custom touring rig, giving his breakdown hits and syncopated accents a clean, focused accent voice.
 
 **What splash cymbal does Shannon Larkin use?**
 Shannon Larkin of Godsmack plays a 10" Sabian AAX Splash within his AAX and HHX touring setup, delivering a bright, cutting accent voice for Godsmack's groove-driven, radio-ready rhythms.
 
 **What's a trash splash, and is it different from a regular splash?**
-A trash splash uses rivets or an FX treatment (like Zildjian's FX Trash Splash) to add a dirtier, more aggressive decay compared to a standard clean splash. It suits groove metal's syncopated, riff-locked accents better than a smoothly ringing splash for drummers wanting a grittier edge.
+A trash splash uses rivets or an FX treatment to add a dirtier, more aggressive decay compared to a standard clean splash. It suits groove metal's syncopated, riff-locked accents better than a smoothly ringing splash for drummers wanting a grittier edge.
 
 **What size splash cymbal is best for groove metal?**
-9"-10" is the most common range among groove metal drummers. Art Cruz runs a 9" splash for the sharpest possible stab, while Shannon Larkin's 10" splash retains a touch more body for breakdown punctuation.
+9"-10" is the most common range among groove metal drummers. Both Art Cruz and Shannon Larkin run a 10" splash, retaining a touch more body for breakdown punctuation than a smaller 8"-9" option.
 
 **What's the best budget splash cymbal for groove metal?**
 The Zildjian Planet Z Splash (€35-50) and Sabian SBR Splash (€30-45) both use budget B8 bronze but deliver a genuinely usable, bright accent voice for developing drummers, while the Meinl HCS Splash (€25-40) is the most affordable brass-alloy option for a first full beginner cymbal setup.
@@ -299,7 +270,7 @@ The Zildjian Planet Z Splash (€35-50) and Sabian SBR Splash (€30-45) both us
 
 ## Add the Accent Your Breakdowns Are Missing
 
-A splash cymbal is easy to overlook in a groove metal setup built around crash-driven impact, but Art Cruz's gritty Zildjian FX Trash Splash and Shannon Larkin's bright Sabian AAX Splash both prove it has a real role to play — punctuating syncopated stabs and breakdown hits with an accent voice a crash simply can't replicate.
+A splash cymbal is easy to overlook in a groove metal setup built around crash-driven impact, but Art Cruz's clean 10" Zildjian splash and Shannon Larkin's bright Sabian AAX Splash both prove it has a real role to play — punctuating syncopated stabs and breakdown hits with an accent voice a crash simply can't replicate.
 
 Start with a single 9"-10" splash in whichever voicing contrasts with (or matches) your existing crash setup, and consider a trash or FX-treated splash if you want your accents to stand apart even further. It's a small cymbal, but it closes a real gap most groove metal cymbal setups leave open.
 
@@ -315,7 +286,7 @@ Start with a single 9"-10" splash in whichever voicing contrasts with (or matche
 
 ## Related Drummers
 
-- [Art Cruz](https://metalforge.io/drummer/art-cruz) — 9" Zildjian FX Trash Splash — Lamb of God's syncopated, riff-locked accent voice
+- [Art Cruz](https://metalforge.io/drummer/art-cruz) — 10" Zildjian splash within his A Custom touring rig — Lamb of God's syncopated, riff-locked accent voice
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — 10" Sabian AAX Splash — Godsmack's groove-driven, radio-ready punctuation
 - [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul) — Sabian AA/AAX Crash-based setup that groove metal's founding cutting voice is built around
 

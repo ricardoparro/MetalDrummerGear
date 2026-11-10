@@ -67,4 +67,4 @@ A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Ar
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

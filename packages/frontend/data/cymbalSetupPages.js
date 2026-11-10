@@ -41,8 +41,18 @@ export function getCymbalSetupPageData(drummerSlug, drummerName) {
   };
 }
 
+const PIECE_TYPE_LABELS = {
+  'hi-hat': 'Hi-Hat',
+  crash: 'Crash',
+  ride: 'Ride',
+  china: 'China',
+  splash: 'Splash',
+  stack: 'Stack',
+};
+
 function pieceLabel(piece) {
-  return `${piece.sizeIn}" ${piece.series ? `${piece.series} ` : ''}${piece.model}`;
+  const model = piece.model || PIECE_TYPE_LABELS[piece.type] || piece.type;
+  return `${piece.sizeIn}" ${piece.series ? `${piece.series} ` : ''}${model}`;
 }
 
 // Single-paragraph, direct-answer text for "What cymbals does <drummer> use?"

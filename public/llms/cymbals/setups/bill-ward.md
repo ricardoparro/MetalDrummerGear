@@ -6,31 +6,29 @@
 
 ## Direct Answer
 
-Bill Ward plays Zildjian cymbals: 15" Avedis Hi-Hats, 18" Avedis Crash, 20" Avedis Crash, 24" Avedis Ride, 18" Avedis China.
+Bill Ward plays Zildjian cymbals: 14" Avedis Hi-Hats, 16" Avedis Crash, 18" Avedis Crash, 20" Avedis Ride.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 15" | Avedis | Hi-Hats |
+| Hi-hat | 14" | Avedis | Hi-Hats |
+| Crash | 16" | Avedis | Crash |
 | Crash | 18" | Avedis | Crash |
-| Crash | 20" | Avedis | Crash |
-| Ride | 24" | Avedis | Ride |
-| China | 18" | Avedis | China |
+| Ride | 20" | Avedis | Ride |
 
-Verified roster hardware entry: "Zildjian Avedis Series (15" Hi-Hats, 18" & 20" Crashes, 24" Ride, 18" China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Zildjian Avedis Series (14" Hi-Hats, 16" & 18" Crashes, 20" Ride)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
 ## Setup Context
 
 - **Hi-hat:** Two cymbals on a stand, played by foot and/or stick — the main timekeeper for tight, fast 16th-note patterns and blast beats.
 - **Crash:** A short, explosive accent on strong beats and fills; metal kits often stack several sizes (e.g. 16"/17"/18") for different accent pitches.
 - **Ride:** The largest, heaviest cymbal in most setups — carries sustained 16th-note "blast-beat" ride patterns and cuts through a dense mix, with the bell used for sharper accents.
-- **China:** An upturned-edge cymbal with a trashy, explosive, dirty accent — a staple for breakdown and chorus hits in metal; sometimes mounted upside down for an even darker tone.
 
 ## FAQ
 
 **Q: What cymbals does Bill Ward use?**
-A: Bill Ward plays Zildjian cymbals: 15" Avedis Hi-Hats, 18" Avedis Crash, 20" Avedis Crash, 24" Avedis Ride, 18" Avedis China.
+A: Bill Ward plays Zildjian cymbals: 14" Avedis Hi-Hats, 16" Avedis Crash, 18" Avedis Crash, 20" Avedis Ride.
 
 ## More Resources
 
@@ -41,4 +39,4 @@ A: Bill Ward plays Zildjian cymbals: 15" Avedis Hi-Hats, 18" Avedis Crash, 20" A
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

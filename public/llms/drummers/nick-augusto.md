@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/nick-augusto"
 source: "https://metalforge.io"
-last_updated: "2026-11-03"
+last_updated: "2026-11-10"
 ---
 
 # Nick Augusto — Drum Kit & Gear Setup
@@ -23,12 +23,12 @@ Nick Augusto's drum kit and gear setup. Nick Augusto is a professional metal dru
 | Country | USA |
 | Primary brand | Pearl |
 | Drum kit | Pearl Reference Pure |
-| Signature snare | Pearl Reference 14x6.5" Brass |
+| Signature snare | Pearl (specific model not independently verified) |
 | Sticks | Pro-Mark Nylon Tip 5B |
 
 ## Kit Overview
 
-Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2010–2014 tenure as Trivium's drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is his Pearl Reference 14x6.5" Brass snare, delivering the sharp, cutting crack needed to punch through Trivium's dense thrash-metalcore guitar work, paired with a DW 9000 Series Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.
+Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his 2010–2014 tenure as Trivium's drummer, powering the aggressive, technically demanding tracks on "In Waves" (2011) and "Vengeance Falls" (2013). The heart of the Nick Augusto drum kit is a Pearl snare (the specific model has not been independently verified), delivering the sharp, cutting crack needed to punch through Trivium's dense thrash-metalcore guitar work, paired with a DW 9000 Series Double Pedal driving his speed-focused double bass work and a Pearl D-2000 Throne built for long, high-energy sets.
 
 Sabian AAX Series cymbals round out the Nick Augusto drum set: 14" Stage Hi-Hats for tight articulation, 18" and 19" X-Plosion Crashes for explosive accents, a 21" Stage Ride for a driving rhythmic backbone, and an 18" AAXtreme China for aggressive punctuation on Trivium's heaviest passages. Pro-Mark Nylon Tip 5B sticks and Evans drumheads complete the rig. This configuration reflects Augusto's gear from his Trivium era (2010-2014).
 
@@ -88,7 +88,7 @@ Nick Augusto's drumming style is characterized by high energy, powerful double b
 ## Gear
 
 - **Drums:** Pearl Reference Pure
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Hardware:** DW 9000 Series Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Pro-Mark Nylon Tip 5B
@@ -194,4 +194,4 @@ Dated brand-endorsement timeline: [Nick Augusto's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

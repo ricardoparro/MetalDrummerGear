@@ -39,4 +39,4 @@ A: Matt Garstka plays Meinl cymbals: 15" Byzance Dual Hi-Hats, 18" Byzance Extra
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

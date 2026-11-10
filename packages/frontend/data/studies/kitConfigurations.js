@@ -178,7 +178,7 @@ export const KIT_CONFIGURATIONS = {
       {
         "genre": "Heavy Metal",
         "datasetSize": 5,
-        "avgPieces": 5,
+        "avgPieces": 4.8,
         "medianPieces": 5
       },
       {
@@ -228,7 +228,7 @@ export const KIT_CONFIGURATIONS = {
       "hi-hat": 55,
       "crash": 116,
       "ride": 52,
-      "china": 49,
+      "china": 48,
       "splash": 9,
       "stack": 0,
       "other": 5

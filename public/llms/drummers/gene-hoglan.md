@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-11-04"
+last_updated: "2026-11-10"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -24,12 +24,12 @@ Gene Hoglan's drum kit and gear setup. Gene Hoglan is a professional metal drumm
 | Country | USA |
 | Primary brand | Pearl |
 | Drum kit | Pearl Reference Pure |
-| Signature snare | Pearl Reference 14x6.5" Brass |
+| Signature snare | Pearl (specific model not independently verified) |
 | Sticks | Promark Classic Forward 2B |
 
 ## Kit Overview
 
-Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany hybrid shell chosen for its tonal clarity and projection at the extreme tempos Hoglan maintains across death metal, thrash metal, and progressive metal. The cornerstone of the Gene Hoglan drum set is a Pearl Reference Brass snare (14×6.5"): a full-brass shell delivering the precise, cutting crack his metronomic playing demands, earning him the nickname "The Atomic Clock."
+Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany hybrid shell chosen for its tonal clarity and projection at the extreme tempos Hoglan maintains across death metal, thrash metal, and progressive metal. The cornerstone of the Gene Hoglan drum set is a Pearl snare (the specific model has not been independently verified), delivering the precise, cutting crack his metronomic playing demands, earning him the nickname "The Atomic Clock."
 
 Sabian AAX cymbals complete the Gene Hoglan drum kit: 15" AAX Hi-Hats for crisp, articulate hi-hat patterns; 18" and 20" AAX Crashes for quick-response accent work across Death's Symbolic, Testament's Formation of Damnation, and Dethklok sessions; a 22" AAX Ride; and a 20" AAX China. Pearl Demon Drive double pedals — engineered for single-chain precision — power the blazing double-bass passages that are a Hoglan trademark.
 
@@ -108,7 +108,7 @@ Gene Hoglan's drumming philosophy centers on serving the music while pushing tec
 ## Gear
 
 - **Drums:** Pearl Reference Pure
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl (specific model not independently verified)
 - **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Classic Forward 2B
@@ -209,10 +209,6 @@ MetalForge has 8 signature lick tutorial(s) for Gene Hoglan:
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
-## Snare
-
-Gene Hoglan's snare: Pearl Reference 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
-
 ## Cymbal Setup
 
 Gene Hoglan's cymbals: Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China).
@@ -262,4 +258,4 @@ Dated brand-endorsement timeline: [Gene Hoglan's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-04 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -11,7 +11,7 @@
 
 Metalcore lives on dynamic contrast — blast-adjacent verses that snap into slow, weighted breakdowns, clean melodic sections that explode into full-throttle chugging. A splash cymbal, typically 8" to 12" in diameter, adds one more tool to that dynamic vocabulary: a bright, sharp attack that decays almost instantly instead of ringing over the next bar the way a full-size crash would, giving a drummer a way to punctuate a single moment — the top of a breakdown, a syncopated stab before a drop — without smearing into what comes next.
 
-Matt Greiner's Meinl Byzance rig for August Burns Red runs both 10" and 12" Splashes as a standard part of one of metalcore's most studied and technically demanding cymbal setups, giving him extra accent options across the band's math-metal-adjacent arrangements. Blake Richardson runs a Sabian HH Duo Splash within his own genre-hopping Between the Buried and Me setup, where technical metalcore-adjacent material benefits from a cymbal built purely for a single accent moment. Art Cruz's Zildjian rig — built across his time in Winds of Plague and now Lamb of God — includes 9" FX Trash Splashes for sharp, unconventional punctuation, a reminder that a splash's usefulness in metalcore extends beyond a single clean accent into more aggressive textural territory too.
+Matt Greiner's Meinl Byzance rig for August Burns Red runs both 10" and 12" Splashes as a standard part of one of metalcore's most studied and technically demanding cymbal setups, giving him extra accent options across the band's math-metal-adjacent arrangements. Blake Richardson runs a Sabian HH Duo Splash within his own genre-hopping Between the Buried and Me setup, where technical metalcore-adjacent material benefits from a cymbal built purely for a single accent moment. Art Cruz runs a 10" splash within his Zildjian A Custom rig for Lamb of God, proof that even a single, clean accent cymbal earns its place in a breakdown-heavy metalcore kit.
 
 Despite that, a splash remains one of the most overlooked cymbals among developing metalcore drummers, usually added only after a breakdown-heavy set starts to feel tonally flat. That's a real gap in a genre defined by dynamic swings, and a splash is the cheapest, smallest way to close it. This guide covers what actually matters when choosing a splash cymbal for metalcore — size, alloy, and mounting — with specific recommendations across every budget.
 
@@ -20,7 +20,7 @@ Despite that, a splash remains one of the most overlooked cymbals among developi
 - A splash's fast decay gives metalcore's breakdown-to-blast dynamic swings a distinct accent voice a full-size crash can't replicate
 - Matt Greiner runs 10" and 12" Meinl Byzance Splashes as a standard part of his August Burns Red touring rig
 - Blake Richardson's Sabian HH Duo Splash punctuates Between the Buried and Me's technical, metalcore-adjacent material
-- Art Cruz's 9" Zildjian FX Trash Splashes show a splash's usefulness in metalcore extends into aggressive, unconventional textures too
+- Art Cruz runs a 10" splash within his Zildjian A Custom rig for Lamb of God, a reminder that even a single, clean accent cymbal earns its place in a breakdown-heavy setup
 
 ---
 
@@ -122,35 +122,7 @@ Blake Richardson runs the HH Duo Splash within his broader Sabian setup for Betw
 
 **Verdict:** A versatile single-splash option for drummers who want both bright and controlled character in one cymbal.
 
-### 3. Zildjian FX Trash Splash — Zildjian
-
-**Model:** FX Trash Splash 9"  
-**Price range:** €90-120  
-**Tier:** pro  
-**Type:** B20 Bronze, Trash/EFX Style  
-**Rating:** 4.4/5
-
-Zildjian's FX Trash Splash trades a clean, musical splash tone for a raw, aggressive, slightly dirty texture — a genuinely different accent voice for metalcore drummers who want something more unconventional than a standard bright or dry splash.
-
-Art Cruz's Zildjian rig, built through his time in Winds of Plague and now Lamb of God, includes 9" FX Trash Splashes for exactly this kind of sharp, unconventional punctuation alongside his A Custom crashes and K China.
-
-**Pros:**
-- Distinctly raw, aggressive texture unlike a standard clean splash
-- The exact accent-cymbal category Art Cruz runs in his touring rig
-- Smaller 9" size decays extremely fast for the sharpest possible stab
-- Stands out clearly against a dense, heavily distorted metalcore mix
-
-**Cons:**
-- Trashy, unconventional voicing isn't for every drummer or every song
-- Less musical, blendable tone than a standard bronze splash
-- Premium price for a niche-use accent cymbal
-
-**Who uses it:**
-- Art Cruz (Lamb of God) — 9" FX Trash Splashes within Zildjian touring rig
-
-**Verdict:** The most aggressive, unconventional splash here for drummers who want raw texture over clean tone.
-
-### 4. Sabian HHX Evolution Splash — Sabian
+### 3. Sabian HHX Evolution Splash — Sabian
 
 **Model:** HHX Evolution Splash 10"  
 **Price range:** €120-150  
@@ -160,7 +132,7 @@ Art Cruz's Zildjian rig, built through his time in Winds of Plague and now Lamb 
 
 HHX Evolution's brilliant finish and refined B20 formula deliver a crisp, articulate splash voice that responds well to both light accent taps and the full-force stabs metalcore's fast tempo-to-breakdown transitions demand.
 
-For metalcore drummers who want a clean, bright, all-purpose accent rather than Matt Greiner's dual-finish pairing or Art Cruz's trash-style texture, the HHX Evolution splits the difference with a straightforward, cutting attack.
+For metalcore drummers who want a clean, bright, all-purpose accent rather than Matt Greiner's dual-finish pairing or a trash-style texture, the HHX Evolution splits the difference with a straightforward, cutting attack.
 
 **Pros:**
 - Crisp, articulate response across a wide dynamic range
@@ -170,7 +142,7 @@ For metalcore drummers who want a clean, bright, all-purpose accent rather than 
 
 **Cons:**
 - Premium price point
-- Less distinctive than Matt Greiner's dual-finish pairing or Art Cruz's trash-style splash
+- Less distinctive than Matt Greiner's dual-finish pairing or a trash-style splash
 - Sold individually, adding to overall cymbal setup cost
 
 **Verdict:** The most straightforward, all-purpose bright splash for metalcore drummers who want reliable cut.
@@ -255,14 +227,13 @@ Splash cymbals for metalcore generally split into two tonal camps:
 - Favored by drummers like Matt Greiner and Blake Richardson for precise, repeatable accent work across technical arrangements
 - Best when you want the splash to sound like a natural extension of your existing crashes and hi-hats
 
-**Trash/Aggressive Splashes (Zildjian FX Trash):**
+**Trash/Aggressive Splashes (rivet or FX-treated models):**
 - A raw, dirty, less musical texture that stands out sharply against a dense, distorted mix
-- Favored by drummers like Art Cruz for unconventional punctuation that doesn't blend in
 - Best when you want the splash to sound distinctly different from every other cymbal on your kit
 
 **The Truth:** Neither voicing is objectively better — it depends on whether you want your splash to blend seamlessly into your existing setup or to stand out as a deliberately different texture. A clean splash is the more versatile first purchase; a trash-style splash is a strong second cymbal once you know exactly what unconventional accent you're chasing.
 
-**Our Recommendation:** Start with a Meinl Byzance Dual or Sabian HH Duo Splash for a versatile, all-purpose accent. Add a Zildjian FX Trash Splash later if you want the kind of raw, aggressive texture Art Cruz runs in his own touring rig.
+**Our Recommendation:** Start with a Meinl Byzance Dual or Sabian HH Duo Splash for a versatile, all-purpose accent. Add a rivet or FX-treated splash later if you want a raw, aggressive texture that stands apart from a clean accent voice.
 
 | feature | directDrive | chainDrive |
 | --- | --- | --- |
@@ -279,14 +250,13 @@ Splash cymbals for metalcore generally split into two tonal camps:
 - **Best Overall:** Meinl Byzance Series Splash — The exact 10"/12" pairing Matt Greiner runs in one of metalcore's most studied touring rigs.
 - **Most Versatile:** Sabian HH Duo Splash — Dual-finish design proven in Blake Richardson's technical, metalcore-adjacent BTBAM material.
 - **Best Budget:** Zildjian Planet Z Splash — A genuinely usable, bright entry-level splash for learning accent placement and technique.
-- **Most Aggressive:** Zildjian FX Trash Splash — The raw, unconventional texture Art Cruz runs for sharp punctuation in his own touring rig.
 
 ---
 
 ## FAQ
 
 **What splash cymbal size works best for metalcore fills?**
-A 10" splash is the most common choice, though Matt Greiner runs both 10" and 12" Meinl Byzance Splashes in his August Burns Red touring rig for a broader range of accent sizes. Art Cruz runs a smaller 9" FX Trash Splash for a sharper, more aggressive texture.
+A 10" splash is the most common choice, though Matt Greiner runs both 10" and 12" Meinl Byzance Splashes in his August Burns Red touring rig for a broader range of accent sizes. Art Cruz runs a 10" splash within his Zildjian A Custom rig for exactly this kind of versatile accent size.
 
 **Do metalcore drummers use splash or effects cymbals live?**
 Both, and often together. Matt Greiner's live rig runs a full 18" china alongside 10" and 12" splashes, giving him distinct textures for both abrupt punctuation and precise, single-hit accents across August Burns Red's breakdown-heavy sets.
@@ -304,7 +274,7 @@ The Zildjian Planet Z Splash (€35-50) and Sabian SBR Splash (€30-45) both us
 
 ## Punctuate the Breakdown, Don't Blur It
 
-Metalcore's identity is built on dynamic contrast, and a splash cymbal is a genuinely useful tool for sharpening that contrast rather than letting it blur. Matt Greiner's matched 10"/12" Meinl Byzance Splashes give August Burns Red's technical arrangements extra accent range, while Art Cruz's raw Zildjian FX Trash Splashes show the same small cymbal can serve a completely different, more aggressive purpose depending on how it's voiced.
+Metalcore's identity is built on dynamic contrast, and a splash cymbal is a genuinely useful tool for sharpening that contrast rather than letting it blur. Matt Greiner's matched 10"/12" Meinl Byzance Splashes give August Burns Red's technical arrangements extra accent range, while a single 10" splash — the same size Art Cruz runs within his own Zildjian A Custom rig — proves a clean, no-frills accent cymbal closes the gap just as effectively as a more aggressive, trash-voiced option.
 
 Start with a single 10" splash mounted close to your snare, and consider a second, more aggressive splash once you know exactly what kind of accent your breakdowns are missing. It's a small cymbal, but it closes a real gap most standard metalcore cymbal setups leave open.
 
@@ -322,7 +292,7 @@ Start with a single 10" splash mounted close to your snare, and consider a secon
 
 - [Matt Greiner](https://metalforge.io/drummer/matt-greiner) — 10"/12" Meinl Byzance Splashes — one of metalcore's most studied touring cymbal rigs
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Sabian HH Duo Splash — BTBAM technical, metalcore-adjacent arrangements
-- [Art Cruz](https://metalforge.io/drummer/art-cruz) — 9" Zildjian FX Trash Splashes — groove-metalcore hybrid punctuation
+- [Art Cruz](https://metalforge.io/drummer/art-cruz) — 10" Zildjian splash within his A Custom touring rig
 
 ---
 

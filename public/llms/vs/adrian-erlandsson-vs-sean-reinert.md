@@ -67,4 +67,4 @@ A: No. Sean Reinert's core bands were Death and Cynic; Adrian Erlandsson's core 
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

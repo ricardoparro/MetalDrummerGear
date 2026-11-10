@@ -2,7 +2,7 @@
 
 This page indexes every verified cymbal setup catalogued in MetalForge's cymbals database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-10-30 · Source: https://metalforge.io
+> Last Updated: 2026-11-10 · Source: https://metalforge.io
 
 For types, alloys, and sizing/weight reference pages see the Reference Guides section below. For brand positioning and metal-relevant series see [https://metalforge.io/cymbals/brands](https://metalforge.io/cymbals/brands). For a buying guide by budget tier see [https://metalforge.io/cymbals/best-for-metal](https://metalforge.io/cymbals/best-for-metal).
 
@@ -71,14 +71,14 @@ A: The best setup depends on the sub-genre and how hard you hit, but a durable, 
 - Chris Adler — [Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)](https://metalforge.io/llms/cymbals/setups/chris-adler.md) ([profile](https://metalforge.io/drummer/chris-adler))
 - Inferno — [Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China)](https://metalforge.io/llms/cymbals/setups/inferno.md) ([profile](https://metalforge.io/drummer/inferno))
 - Hellhammer — [Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)](https://metalforge.io/llms/cymbals/setups/hellhammer.md) ([profile](https://metalforge.io/drummer/hellhammer))
-- Art Cruz — [Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell)](https://metalforge.io/llms/cymbals/setups/art-cruz.md) ([profile](https://metalforge.io/drummer/art-cruz))
+- Art Cruz — [Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 10" Splash, FX Blast Bell)](https://metalforge.io/llms/cymbals/setups/art-cruz.md) ([profile](https://metalforge.io/drummer/art-cruz))
 - Navene Koperweis — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash)](https://metalforge.io/llms/cymbals/setups/navene-koperweis.md) ([profile](https://metalforge.io/drummer/navene-koperweis))
 - Alex Bent — [Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China)](https://metalforge.io/llms/cymbals/setups/alex-bent.md) ([profile](https://metalforge.io/drummer/alex-bent))
 - Shannon Larkin — [Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)](https://metalforge.io/llms/cymbals/setups/shannon-larkin.md) ([profile](https://metalforge.io/drummer/shannon-larkin))
 - Raymond Herrera — [Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China)](https://metalforge.io/llms/cymbals/setups/raymond-herrera.md) ([profile](https://metalforge.io/drummer/raymond-herrera))
 - morgan-agren — [Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)](https://metalforge.io/llms/cymbals/setups/morgan-agren.md) ([profile](https://metalforge.io/drummer/morgan-agren))
 - Igor Cavalera — [Zildjian A Custom Series, adopted for the Cavalera Conspiracy era starting with "Inflikted"](https://metalforge.io/llms/cymbals/setups/igor-cavalera.md) ([profile](https://metalforge.io/drummer/igor-cavalera))
-- Bill Ward — [Zildjian Avedis Series (15" Hi-Hats, 18" & 20" Crashes, 24" Ride, 18" China)](https://metalforge.io/llms/cymbals/setups/bill-ward.md) ([profile](https://metalforge.io/drummer/bill-ward))
+- Bill Ward — [Zildjian Avedis Series (14" Hi-Hats, 16" & 18" Crashes, 20" Ride)](https://metalforge.io/llms/cymbals/setups/bill-ward.md) ([profile](https://metalforge.io/drummer/bill-ward))
 - Chris Turner — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China)](https://metalforge.io/llms/cymbals/setups/chris-turner.md) ([profile](https://metalforge.io/drummer/chris-turner))
 - Matt Greiner — [Paiste Formula 602 (14" Hi-Hats, 16", 17" & 18" Crashes, 22" Ride, 18" China, 10" Splash)](https://metalforge.io/llms/cymbals/setups/matt-greiner.md) ([profile](https://metalforge.io/drummer/matt-greiner))
 - Blake Richardson — [Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime)](https://metalforge.io/llms/cymbals/setups/blake-richardson.md) ([profile](https://metalforge.io/drummer/blake-richardson))

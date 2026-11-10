@@ -67,4 +67,4 @@ A: Joey Jordison played Pearl Reference Series drums with a signature 13"×6.5" 
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

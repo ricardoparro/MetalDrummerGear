@@ -37,8 +37,18 @@ function removeSchema() {
   if (existing) existing.remove();
 }
 
+const PIECE_TYPE_LABELS = {
+  'hi-hat': 'Hi-Hat',
+  crash: 'Crash',
+  ride: 'Ride',
+  china: 'China',
+  splash: 'Splash',
+  stack: 'Stack',
+};
+
 function pieceLabel(piece) {
-  return `${piece.sizeIn}" ${piece.series ? `${piece.series} ` : ''}${piece.model}`;
+  const model = piece.model || PIECE_TYPE_LABELS[piece.type] || piece.type;
+  return `${piece.sizeIn}" ${piece.series ? `${piece.series} ` : ''}${model}`;
 }
 
 // ==========================================
@@ -123,7 +133,7 @@ export function CymbalSetupPage({
               <Text style={[styles.tableCell, styles.colType, { color: theme.text }]}>{piece.type}</Text>
               <Text style={[styles.tableCell, styles.colSize, { color: theme.text }]}>{piece.sizeIn}"</Text>
               <Text style={[styles.tableCell, styles.colSeries, { color: theme.text }]}>{piece.series || '—'}</Text>
-              <Text style={[styles.tableCell, styles.colModel, { color: theme.text }]}>{piece.model}</Text>
+              <Text style={[styles.tableCell, styles.colModel, { color: theme.text }]}>{piece.model || '—'}</Text>
             </View>
           ))}
         </View>

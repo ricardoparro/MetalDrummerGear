@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/inferno"
 source: "https://metalforge.io"
-last_updated: "2026-10-30"
+last_updated: "2026-11-10"
 ---
 
 # Inferno — Drum Kit & Gear Setup
@@ -35,7 +35,7 @@ Paiste RUDE Series cymbals define the sonic character of the Inferno drum kit: 1
 
 ## Biography
 
-Zbigniew Robert Promiński, known as Inferno, born in 1978, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno's technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.
+Zbigniew Robert Promiński, known as Inferno, born in 1978, is the drummer for Polish extreme metal band Behemoth. He joined the band in 1997 and, apart from a brief gap around 1999-2000, has been instrumental in shaping their signature sound. His drumming is characterized by relentless blast beats, precise double bass work, and the ability to maintain extreme speeds for extended periods. Inferno's technical abilities and stamina have made him one of the most respected drummers in extreme metal. His work on albums like "The Satanist" and "I Loved You at Your Darkest" showcases his evolution as a drummer.
 
 Inferno (born Zbigniew Robert Promiński on December 30, 1978, in Tczew, Poland) is a Polish drummer best known as the longtime drummer for blackened death metal titans Behemoth. Since joining in 1997, he has been the rhythmic foundation of one of extreme metal's most successful and controversial bands.
 
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Inferno's endorsement history](https://metalf
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*

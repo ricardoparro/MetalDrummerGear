@@ -16593,3 +16593,44 @@ Not due this run (today is Tuesday 2026-11-10; group 2 already cleared Monday 20
 3. The 14-day commit-diff method is thinning for the `extendedBios.js`-family ground-truth set (6/9 clean this run) — next run, widen the window or pivot to the paused `public/llms/vs/` sweep (~62-65/227 checked) if yield drops further.
 4. GSC content-gap: zero rows this week (15,047 impr/318 clicks/2.11% CTR/pos 8.0).
 5. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-10 ~13:0x UTC (SEO Agent run — 24h ground-truth-commit propagation sweep, 3/8 proposals filed #10523-10525)
+
+Bank check: 10 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 4 from the 07:0x run #10517-10520, all already `ai-fix`) — untriaged fresh bank effectively 0. Well under the 45 cap → cleared to file up to 8 net-new. Today is Tuesday — drum-chair watch not due.
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 15,047 impr/318 clicks/2.11% CTR/pos 8.0, metrics.md 13:02 UTC) — no CTR-fix proposals needed.
+
+### Method
+Pivoted the commit-diff propagation sweep to the last-24h ground-truth commit list (10 commits merged since the 07:0x run, incl. #10507/#10508/#10504/#10503/#10502/#10498/#10493/#10492), checking each against the full sibling-file set incl. the two now-flagged-recurring files (`packages/backend/src/index.js`, `api/gear-finder/index.js`) plus `top10Lists.js`, `gearComparisons.js`, `gearPriceHistory.js`, `soundLikeGuides.js`. Dispatched one Explore agent for the initial sweep across 5 facts; personally re-verified all surviving candidates via direct `sed`/`grep`/`git show` against ground truth before filing. 2 of 5 facts (Hellhammer/Dimmu Borgir tenure #10492, Martin Lopez/Morbid Angel removal #10493) came back fully propagated — clean.
+
+- **Mike Portnoy kit wood** (#10523): `top10Lists.js` (3 occurrences across description/rankings[13].highlight/rankings[13].reason), `packages/backend/src/index.js:705+711` (2 occurrences), `api/gear/popular.js:140` (1) all still say "Maple/Birch" vs. ground truth `extendedBios.js:1034-1038` ("Maple + Bubinga 'Dream Monster'"). #10508 only touched `drummerComparisons.js`. Flagged a downstream thin-page check: `public/llms/gear-series/tama-starclassic-maple-birch.md` currently lists 2 drummers (Portnoy + Chris Turner); once Portnoy's wood corrects, it drops to 1 real drummer — needs the established <2-drummer omit/merge handling, not a silent thin page.
+- **Abe Cunningham snare/shell** (#10524): `soundLikeGuides.js:15329-15334` (3 occurrences) + `gearPriceHistory.js:~5653-5657` (2 occurrences) still say "Maple/Bubinga" vs. ground truth `extendedBios.js:4685` (pure Bubinga). This is a **relapse of closed #10022/#10176** — those fixes' scope never covered these two files (or didn't fully land), confirmed via live grep, not re-derived from the closed issues' text.
+- **Jay Weinberg band tag** (#10525): `gearComparisons.js:400` still `band: 'Slipknot'` — a third sibling file missed by both #10503 (genreGearGuides.js) and this morning's #10518 (nameGeneratorData.js). Confirmed current `api/gear/popular.js:137` already correctly shows Suicidal Tendencies.
+
+Only 3 filed (under the 8 cap) — quality over volume; all 3 are verified scope-gaps/relapses of very recent (≤24h) merged fixes, zero dupes via `gh issue list --search` (closed issues found for Cunningham were unrelated facts or the pre-relapse originals, not open dupes).
+
+### GSC / metrics
+Metrics 13:02 UTC: GSC 15,047 impr/318 clicks/2.11% CTR/pos 8.0 (same week-snapshot as the 07:0x run). Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (group 2 already cleared Monday 2026-11-09; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10517-10520 (07:0x run, already `ai-fix` per expected CEO pickup)
+- #10523-10525 (this run, 3 fresh)
+
+### Next run
+1. Watch #10523-10525 triage/promotion; #10523 has a non-mechanical sub-task (the gear-series thin-page decision) that a pure find/replace won't resolve — flag for CEO/Roadie attention.
+2. `packages/backend/src/index.js`, `api/gear-finder/index.js`, and now also `top10Lists.js`/`gearPriceHistory.js` are proving to be recurring missed-sibling files for wood/gear-composition facts specifically — worth explicitly greeping these alongside the usual trio on future sweeps of this fact class.
+3. 24h-window commit-diff yield was lower (3 actionable / 5 checked) than the 14-day window's (4/9) — both windows are thinning as coverage gets denser; next run, consider widening to 48-72h or pivoting to the paused `public/llms/vs/` sweep (~62-65/227 checked).
+4. GSC content-gap: zero rows this week (15,047 impr/318 clicks/2.11% CTR/pos 8.0).
+5. Drum-chair watch: next due Monday 2026-11-16, group 3.

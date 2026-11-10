@@ -15329,9 +15329,9 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
         brand: 'Tama',
         model: 'Tama Starclassic (matching shell pack; no separate model documented)',
         size: '14" x 6.5"',
-        shell: 'Maple/Bubinga',
-        description: "Cunningham's snare matches his Starclassic Maple/Bubinga shell pack rather than a separate signature model, delivering the crack and cut essential for Deftones' heavier moments while giving him room to tune for a satisfying fundamental note and sensitive ghost-note response.",
-        alternative: "Any matching Maple/Bubinga shell-pack snare tuned medium will approximate the crack and body."
+        shell: 'Bubinga',
+        description: "Cunningham's snare matches his Starclassic Bubinga shell pack rather than a separate signature model, delivering the crack and cut essential for Deftones' heavier moments while giving him room to tune for a satisfying fundamental note and sensitive ghost-note response.",
+        alternative: "Any matching Bubinga shell-pack snare tuned medium will approximate the crack and body."
       },
       cymbals: {
         brand: 'Zildjian',

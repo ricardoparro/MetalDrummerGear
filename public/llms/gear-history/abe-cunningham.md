@@ -60,7 +60,7 @@
 
 ### Koi No Yokan / Gore / Ohms Era (2012–2022)
 
-- **Drums:** Tama Starclassic Bubinga (Egyptian Night Mist) — maple/bubinga shells; 22" kick, 10"/12"/14"/16" toms
+- **Drums:** Tama Starclassic Bubinga (Egyptian Night Mist) — bubinga shells; 22" kick, 10"/12"/14"/16" toms
 - **Snare:** Tama Starclassic matching snare (no separate model publicly documented)
 - **Cymbals:** Sabian HHX Series — 14" hi-hats, 18"/20" crashes, 22" ride, 19" China
 - **Pedal:** Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), Iron Cobra Lever Glide Hi-Hat (HH905)

@@ -96,7 +96,7 @@ That's the ultimate measure of a great drummer. And by that measure, Abe Cunning
 - Compact configuration: 4 toms total
 - Standard 22" bass drum for controlled low-end
 - Setup prioritizes ergonomics and efficiency
-- Estimated kit value: $2,500-4,500 (Tama Starclassic Maple/Bubinga shell pack)
+- Estimated kit value: $2,500-4,500 (Tama Starclassic Bubinga shell pack)
 - Estimated snare value: $300-450 (Tama Starclassic matching snare, 14"x6.5")
 
 ## Frequently Asked Questions
@@ -111,7 +111,7 @@ A: Abe Cunningham uses a Zildjian A Custom and K Custom hybrid setup. His cymbal
 
 **Q: How much does Abe Cunningham's Deftones kit cost?**
 
-A: A Tama Starclassic Maple/Bubinga shell pack comparable to Abe Cunningham's setup costs approximately $2,500 to $4,500. The matching Tama Starclassic 14"x6.5" snare adds $300 to $450. Completing the rig with a full Zildjian A Custom and K Custom cymbal package brings the total to roughly $7,000 to $10,000.
+A: A Tama Starclassic Bubinga shell pack comparable to Abe Cunningham's setup costs approximately $2,500 to $4,500. The matching Tama Starclassic 14"x6.5" snare adds $300 to $450. Completing the rig with a full Zildjian A Custom and K Custom cymbal package brings the total to roughly $7,000 to $10,000.
 
 ## Related Articles
 

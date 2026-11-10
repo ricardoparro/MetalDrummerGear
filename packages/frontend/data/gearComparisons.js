@@ -397,7 +397,7 @@ export const gearComparisons = {
         usedBy: [
           { name: 'Lars Ulrich', band: 'Metallica', series: 'A Custom', note: 'Thrash metal pioneer' },
           { name: 'Mario Duplantier', band: 'Gojira', series: 'K Custom/A Custom', note: 'Modern prog metal' },
-          { name: 'Jay Weinberg', band: 'Slipknot', series: 'K/A Custom', note: 'Extreme metal' },
+          { name: 'Jay Weinberg', band: 'ex-Slipknot', series: 'K/A Custom', note: 'Extreme metal' },
           { name: 'Abe Cunningham', band: 'Deftones', series: 'A Custom/K Custom', note: 'Alternative metal' },
           { name: 'Ben Koller', band: 'Converge', series: 'K/A Custom', note: 'Hardcore/metal' },
           { name: 'Art Cruz', band: 'Lamb of God', series: 'Various', note: 'Groove metal' },

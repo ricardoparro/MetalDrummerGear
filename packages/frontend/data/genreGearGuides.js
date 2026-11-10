@@ -13423,7 +13423,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
       },
       {
         question: "What drum kit does Gene Hoglan use?",
-        answer: "Gene Hoglan has used two brands across his career. His work with Death and Dark Angel from 1983 featured a Tama Superstar kit, and he stuck with Tama through his Testament and Dethklok years. In 2018 he switched to a Pearl Reference Pure kit, which remains his current setup. Hoglan's precision-first playing style works well with both brands' emphasis on consistent, reliable action."
+        answer: "Gene Hoglan has used two brands across his career. His work with Death and Dark Angel from 1984 featured a Tama Superstar kit, and he stuck with Tama through his Testament and Dethklok years. In 2018 he switched to a Pearl Reference Pure kit, which remains his current setup. Hoglan's precision-first playing style works well with both brands' emphasis on consistent, reliable action."
       },
       {
         question: "Are birch or maple drums better for death metal?",

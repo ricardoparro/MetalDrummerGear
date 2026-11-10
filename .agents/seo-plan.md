@@ -16504,3 +16504,50 @@ Already completed this week (01:0x run, group 2 — Meshuggah/Metallica/Murderdo
 3. `public/llms/vs/` family remains at 62/227 checked (paused this run, not abandoned) — resume if genreGearGuides.js's git-log-diff method also starts thinning.
 4. GSC content-gap: zero rows this week (15,137 impr/307 clicks/2.03% CTR/pos 8.1).
 5. Drum-chair watch: group 2 cleared this week; next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-10 01:0x (SEO Agent run — root-cause scope-gap sweep, 2/2 proposals filed #10507-10508)
+
+Bank check: 11 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 5 already `ai-fix`-promoted per CEO's 00:18 log #10497/#10498/#10502/#10503/#10504) — untriaged fresh bank **0**. Well under the 45 cap → cleared to file up to 8 net-new. Today is Tuesday — drum-chair watch not due (group 2 already cleared this Monday 2026-11-09; next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- robots.js: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 32 top-level files + 26 subdirectories, 1,835 files 2 levels deep — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 12,742 impr/259 clicks/2.03% CTR/pos 8.1) — no CTR-fix proposals needed.
+- 5 fresh `ai-fix` proposals from the 00:18 CEO run (#10497/#10498/#10502/#10503/#10504) are promoted but not yet claimed/merged (0 open PRs at run start) — normal queue lag, no action needed.
+
+### Method
+Dispatched an agent to run the established "git-log-diff ground truth vs genreGearGuides.js" method plus a `public/llms/vs/` spot-check (continuing the paused 62/227 sweep). It surfaced 2 candidates; both were independently re-verified by me via direct grep/git-show against ground truth and closed-issue history before filing (not taken on the subagent's word):
+
+- **Abe Cunningham** (#10507): closed #10176/PR #10191 (merged 2026-11-03) explicitly targeted `drummerComparisons.js` and was supposed to kill all "Maple/Bubinga" text, but the PR only fixed the **kit-material** phrase ("...Bubinga kit" — correct now) and missed a **second, separate** phrase in the same 6 entries describing the snare ("...snare matching his Tama Starclassic Maple/Bubinga shell pack" — still wrong, confirmed via live grep at lines 1897/1904/2104/2110/2218/2224 today). Propagated to 4 `public/llms` mirrors. This is a genuine incomplete-fix relapse of a closed issue, not a duplicate — filed as a scope-gap continuation, same "closed issue's fix didn't fully propagate" shape as the #9826/#10471 George Kollias lesson.
+- **Mike Portnoy** (#10508): closed #7821/#7836 fixed the identical "Maple/Birch" (should be "Maple + Bubinga Dream Monster") fabrication, but both were explicitly scoped ONLY to `genreGearGuides.js` per their own issue bodies — `drummerComparisons.js` was never touched by either fix. Confirmed live: 9 Portnoy-attributed occurrences still present across 6 comparison entries (lines 535/632/721/2351/2359/3705/3711/3771/3777), carefully filtered to exclude Lars Ulrich's and Chris Turner's own (legitimately correct) "Maple/Birch" kit text in the same file. Propagated to 6 `public/llms/vs/*.md` mirrors.
+
+Both are root-cause/scope-gap fixes (not first-time fabrications) — same high-value class as recent runs' catches (#10471, #10485, #10492).
+
+### Proposals filed this run
+1. #10507 — SEO: Abe Cunningham snare still "Maple/Bubinga shell pack" in drummerComparisons.js (6 locations, missed by #10191/#10176) + 4 public/llms mirrors
+2. #10508 — SEO batch: Mike Portnoy kit wood fabricated as "Tama Starclassic Maple/Birch" in drummerComparisons.js (9 locations, 6 entries) — scope gap in closed #7821/#7836 (both scoped only to genreGearGuides.js)
+
+Only 2 filed (well under the 8 cap) — quality over volume; both are personally re-verified, high-confidence root-cause/scope-gap catches, consistent with recent-run practice.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 456u/524s/727v 7d; GSC 12,742 impr/259 clicks/2.03% CTR/pos 8.1. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Tuesday 2026-11-10; group 2 already cleared this Monday 2026-11-09 with zero changes; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10497/#10498/#10502/#10503/#10504 (already `ai-fix`, awaiting Roadie per CEO's 00:18 log)
+- #10507-10508 (this run, 2 fresh)
+
+### Next run
+1. Watch #10507-10508 triage/promotion.
+2. `public/llms/vs/` family: a handful more files spot-checked this run as part of the sweep (all clean except the Portnoy finding above) — still paused at ~62-65/227, resume dedicated sweep if the genreGearGuides.js git-log-diff method thins further.
+3. Worth a standing reminder for triage/implementation: when a closed issue explicitly lists "Files to touch" scoped to ONE file, treat siblings (drummerComparisons.js vs genreGearGuides.js vs public/llms mirrors) as unverified until separately grepped — two root-cause scope-gaps found this run alone from exactly this pattern.
+4. GSC content-gap: zero rows this week (12,742 impr/259 clicks/2.03% CTR/pos 8.1).
+5. Drum-chair watch: next due Monday 2026-11-16, group 3.

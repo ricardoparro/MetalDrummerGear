@@ -23550,7 +23550,7 @@ That dual-purpose voicing makes this one of the most explicitly post-metal-minde
           ],
           verdict: "Best for drummers who want a dense Bubinga shell voiced explicitly for dynamic extremes.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_bubinga_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_kesselsaetze.html?partner_id=metalforge"
         }
       ]
     },
@@ -98709,7 +98709,7 @@ Cunningham's ability to shift between the two extremes without changing gear is 
           ],
           verdict: "A professional-tier platform proven at shifting cleanly between post-metal's crushing and ambient extremes.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_bubinga.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_kesselsaetze.html?partner_id=metalforge"
         }
       ]
     },

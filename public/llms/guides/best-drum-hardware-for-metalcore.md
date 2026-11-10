@@ -110,7 +110,7 @@ Matt Greiner's Pearl-anchored kit shares the same brand philosophy, prioritizing
 - Round-top design less common than saddle seats for some players
 
 **Who uses it:**
-- Jay Weinberg (Slipknot / Suicidal Tendencies) — Pearl throne proven across one of metal's most physically demanding shows
+- Jay Weinberg (ex-Slipknot / Suicidal Tendencies) — Pearl throne proven across one of metal's most physically demanding shows
 
 **Verdict:** The throne choice proven under metalcore and nu-metal's most physically aggressive touring shows.
 

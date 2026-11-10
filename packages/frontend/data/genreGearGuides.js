@@ -27357,7 +27357,7 @@ Jay Weinberg's Zildjian A Custom setup — carried through his work with Slipkno
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Jay Weinberg", band: "Slipknot", note: "Bright A Custom accents for dense, modern metalcore mixes" }
+            { name: "Jay Weinberg", band: "ex-Slipknot", note: "Bright A Custom accents for dense, modern metalcore mixes" }
           ],
           verdict: "Best for drummers who need an accent china bright enough to cut through a loud, busy mix.",
           rating: 4.6,
@@ -40729,7 +40729,7 @@ Start with a 21"-22" pro ride, and specialize toward a Mega Bell or Dark-voiced 
       title: "Why Metalcore Rides Need to Stay Dry and Legible",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the ride cymbal has to serve both. Palm-muted chugs and tightly syncopated riffing need a ride that stays dry and controlled rather than washing out, while the genre's frequent tempo and dynamic shifts demand quick, clear stick definition through complex patterns.
 
-Matt Halpern of Periphery rides a 21" Meinl Byzance Dark Double Down Crash-Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium during his 2017-2025 run as the band's drummer, rode a 21" Zildjian K Custom Hybrid Ride for a brighter, faster attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, riding a 21" Zildjian K Custom Ride for a darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Matt Halpern of Periphery rides a 21" Meinl Byzance Dark Double Down Crash-Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium during his 2017-2025 run as the band's drummer, rode a 21" Zildjian K Custom Hybrid Ride for a brighter, faster attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took a different path entirely, riding a 21" Zildjian K Custom Ride for a darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
 This guide breaks down what actually makes a ride work for metalcore — dry control, stick definition, and clarity through breakdown transitions — and recommends specific models across every budget, from a first dry-toned ride to the exact cymbals metalcore's most influential drummers ride night after night.`,
       keyPoints: [
@@ -40870,11 +40870,11 @@ Where Halpern and Greiner prioritize dryness and control, Bent's K Custom Hybrid
           priceRange: "€270-330",
           tier: "pro",
           driveType: "B20 Bronze, Traditional Dark",
-          description: `Jay Weinberg of Slipknot stands apart from metalcore's Meinl-dominated landscape, riding a 21" Zildjian K Custom Ride as the darker, more controlled counterpart to his brighter A Custom crashes. This brighter overall kit voice matches Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
+          description: `Jay Weinberg, formerly of Slipknot (2014-2023), stood apart from metalcore's Meinl-dominated landscape, riding a 21" Zildjian K Custom Ride as the darker, more controlled counterpart to his brighter A Custom crashes. This brighter overall kit voice matched Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
 
-The K Custom Ride adds dark, controlled definition underneath Slipknot's dynamic, theatrical arrangements — proof that metalcore's ride choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the sound a band is chasing.`,
+The K Custom Ride added dark, controlled definition underneath Slipknot's dynamic, theatrical arrangements — proof that metalcore's ride choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the sound a band is chasing.`,
           pros: [
-            "Jay Weinberg's Slipknot setup — proven on massive stages across a global touring career",
+            "Jay Weinberg's Slipknot-era setup — proven on massive stages across a global touring career",
             "Darker, controlled definition balances a brighter overall cymbal setup",
             "B20 bronze for complex, articulate stick definition",
             "Works well for aggressive, nu-metal-influenced metalcore"
@@ -40892,7 +40892,7 @@ The K Custom Ride adds dark, controlled definition underneath Slipknot's dynamic
             weight: "Medium-Heavy"
           },
           usedBy: [
-            { name: "Jay Weinberg", band: "Slipknot", note: "21\" K Custom Ride for aggressive, nu-metal-influenced metalcore" }
+            { name: "Jay Weinberg", band: "ex-Slipknot", note: "21\" K Custom Ride for aggressive, nu-metal-influenced metalcore" }
           ],
           verdict: "Best for aggressive, nu-metal-influenced metalcore. Weinberg's setup brings dark, controlled definition to a brighter overall kit.",
           rating: 4.5,
@@ -41058,7 +41058,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
         {
           category: "Best for Aggressive Metalcore",
           pedal: "Zildjian K Custom Ride",
-          reason: "Jay Weinberg's dark, controlled definition for Slipknot's aggressive hybrid sound."
+          reason: "Jay Weinberg's dark, controlled definition for Slipknot's aggressive hybrid sound (2014-2023)."
         }
       ]
     },
@@ -41072,13 +41072,13 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
     relatedDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: '21" Meinl Byzance Dark Double Down Crash-Ride — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Ride — former Trivium (2017-2025) melodic modern metal' },
-      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: '21" Zildjian K Custom Ride — Slipknot aggressive metalcore' }
+      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: '21" Zildjian K Custom Ride — ex-Slipknot (2014-2023) aggressive metalcore' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Dark Double Down Crash-Ride for Periphery' },
-      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian K Custom Ride for Slipknot' }
+      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian K Custom Ride from his Slipknot era (2014-2023)' }
     ],
     relatedComparisons: [],
 
@@ -41090,7 +41090,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
       },
       {
         question: "What ride cymbal does Jay Weinberg use?",
-        answer: "Jay Weinberg of Slipknot rides a 21\" Zildjian K Custom Ride, adding darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound."
+        answer: "Jay Weinberg, formerly of Slipknot (2014-2023), rode a 21\" Zildjian K Custom Ride, adding darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound."
       },
       {
         question: "What size ride cymbal is best for metalcore?",
@@ -43684,7 +43684,7 @@ Start with one dry, controlled crash in the 16"-20" range, and layer a second si
       title: "Why Metalcore Crashes Need to Punctuate, Not Wash Out",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's crash choices reflect that split. A breakdown crash needs to land hard and decay fast so the next palm-muted chug isn't buried under ringing metal, while the genre's frequent tempo and dynamic shifts demand a crash that responds instantly to a wide range of accent styles.
 
-Matt Halpern of Periphery runs 18" and 20" Meinl Byzance Traditional Extra Thin Hammered Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium during his 2017-2025 run as the band's drummer, used 16", 18", and 19" Zildjian K Custom Hybrid Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
+Matt Halpern of Periphery runs 18" and 20" Meinl Byzance Traditional Extra Thin Hammered Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium during his 2017-2025 run as the band's drummer, used 16", 18", and 19" Zildjian K Custom Hybrid Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
 
 This guide breaks down what actually makes a crash work for metalcore — fast decay, breakdown punctuation, and brightness versus control — and recommends specific models across every budget, from a first breakdown-ready crash to the exact cymbals metalcore's most influential drummers play.`,
       keyPoints: [
@@ -43822,11 +43822,11 @@ Where Matt Halpern prioritizes dryness and control, Bent's K Custom Hybrid setup
           priceRange: "€190-250",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant",
-          description: `Jay Weinberg of Slipknot stands apart from metalcore's Meinl-dominated landscape, running 18" and 19" Zildjian A Custom Crashes as part of a broader A Custom/K Custom setup. This brighter, more explosive voice matches Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
+          description: `Jay Weinberg, formerly of Slipknot (2014-2023), stood apart from metalcore's Meinl-dominated landscape, running 18" and 19" Zildjian A Custom Crashes as part of a broader A Custom/K Custom setup. This brighter, more explosive voice matched Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
 
-The A Custom line's brilliant finish gives fast, cutting crash response ideal for Slipknot's dynamic, theatrical arrangements — proof that metalcore's crash choices scale from ultra-dry technical precision all the way to bright, explosive aggression.`,
+The A Custom line's brilliant finish gave fast, cutting crash response ideal for Slipknot's dynamic, theatrical arrangements — proof that metalcore's crash choices scale from ultra-dry technical precision all the way to bright, explosive aggression.`,
           pros: [
-            "Jay Weinberg's proven Slipknot setup — the brighter, more aggressive end of metalcore's crash spectrum",
+            "Jay Weinberg's proven Slipknot-era setup — the brighter, more aggressive end of metalcore's crash spectrum",
             "Brilliant finish gives fast, explosive crash response",
             "Proven across Slipknot's most dynamic, theatrical live performances",
             "Available across a wide size range for a layered setup"
@@ -43844,7 +43844,7 @@ The A Custom line's brilliant finish gives fast, cutting crash response ideal fo
             decay: "Fast, explosive"
           },
           usedBy: [
-            { name: "Jay Weinberg", band: "Slipknot", note: "18\" & 19\" A Custom Crashes for aggressive nu-metal/metalcore hybrid" }
+            { name: "Jay Weinberg", band: "ex-Slipknot", note: "18\" & 19\" A Custom Crashes for aggressive nu-metal/metalcore hybrid" }
           ],
           verdict: "The brightest, most explosive option — ideal for aggressive, theatrical metalcore.",
           rating: 4.6,
@@ -43976,7 +43976,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
 - More explosive, theatrical impact live
 - Best for melodic modern metalcore and aggressive nu-metal/metalcore hybrids
 
-**The Truth:** Both approaches are proven at the highest level. Matt Halpern's polyrhythmic technical precision runs on dry control; Jay Weinberg's Slipknot intensity runs on bright explosiveness. Neither is objectively better — it depends entirely on whether your metalcore leans breakdown-technical or melodic-aggressive.
+**The Truth:** Both approaches are proven at the highest level. Matt Halpern's polyrhythmic technical precision runs on dry control; Jay Weinberg's Slipknot-era (2014-2023) intensity ran on bright explosiveness. Neither is objectively better — it depends entirely on whether your metalcore leans breakdown-technical or melodic-aggressive.
 
 **Our Recommendation:** If your band is breakdown-heavy and technical, start with Meinl Byzance Traditional Extra Thin Hammered. If your band leans melodic or aggressive/theatrical, start with Zildjian A Custom or Zildjian K Custom Hybrid.`,
       comparisonTable: [
@@ -44004,7 +44004,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
         {
           category: "Best for Aggressive/Theatrical Metalcore",
           pedal: "Zildjian A Custom Crash",
-          reason: "Jay Weinberg's explosive Slipknot voice — the brightest, most theatrical option."
+          reason: "Jay Weinberg's explosive Slipknot-era (2014-2023) voice — the brightest, most theatrical option."
         },
         {
           category: "Best Budget",
@@ -44023,7 +44023,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
     relatedDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Traditional Extra Thin Hammered Crashes — Periphery\'s polyrhythmic technical precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Medium Thin Crashes — former Trivium\'s (2017-2025) melodic modern metal' },
-      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Crashes — Slipknot\'s explosive attack' },
+      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Crashes — ex-Slipknot\'s (2014-2023) explosive attack' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance Dark Crashes — Lamb of God\'s breakdown precision' }
     ],
 
@@ -44031,7 +44031,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
     featuredDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Traditional Extra Thin Hammered Crashes — Periphery\'s polyrhythmic technical precision' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance Dark Crashes — Lamb of God\'s breakdown precision' },
-      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Crashes — Slipknot\'s explosive attack' }
+      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Crashes — ex-Slipknot\'s (2014-2023) explosive attack' }
     ],
     relatedComparisons: [],
 
@@ -44047,7 +44047,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
       },
       {
         question: "What crash cymbal does Jay Weinberg use?",
-        answer: "Jay Weinberg of Slipknot runs 18\" and 19\" Zildjian A Custom Crashes, a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound."
+        answer: "Jay Weinberg, formerly of Slipknot (2014-2023), ran 18\" and 19\" Zildjian A Custom Crashes, a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound."
       },
       {
         question: "Should I choose a dry or bright crash for metalcore?",
@@ -52711,7 +52711,7 @@ Jay Weinberg has run Roland electronics across his touring rigs for exactly this
             variants: "HR (head/rim), K (kick), S (snare)"
           },
           usedBy: [
-            { name: "Jay Weinberg", band: "Slipknot", note: "Roland electronics across his touring rigs for consistent attack" }
+            { name: "Jay Weinberg", band: "Suicidal Tendencies", note: "Roland electronics across his touring rigs for consistent attack" }
           ],
           verdict: "The most versatile clip-on trigger for a metalcore drummer building a touring-ready reinforcement chain.",
           rating: 4.6,
@@ -60253,7 +60253,7 @@ Budget shouldn't stop you either. A Pearl Export or Mapex Storm Series snare wil
     // SEO metadata
     title: "Best Cymbals for Metalcore: 2026 Expert Guide",
     metaTitle: "Best Cymbals for Metalcore 2026 | MetalForge Expert Guide",
-    description: "Best cymbal picks for metalcore drumming: what Matt Halpern (Periphery), Alex Bent (Trivium, 2017-2025 era), and Jay Weinberg (Slipknot) actually play. Meinl Byzance vs Zildjian A/K Custom — ranked budget to pro.",
+    description: "Best cymbal picks for metalcore drumming: what Matt Halpern (Periphery), Alex Bent (Trivium, 2017-2025 era), and Jay Weinberg (Slipknot, 2014-2023 era) actually play. Meinl Byzance vs Zildjian A/K Custom — ranked budget to pro.",
     seoKeywords: [
       'best cymbals for metalcore',
       'metalcore cymbals',
@@ -60289,7 +60289,7 @@ Budget shouldn't stop you either. A Pearl Export or Mapex Storm Series snare wil
       title: "Why Metalcore Cymbals Need to Stay Dry and Controlled",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's cymbal choices reflect that split. Palm-muted chugs and tightly syncopated riffing need cymbals that stay dry and controlled rather than washing out, while the genre's frequent tempo and dynamic shifts demand quick, articulate response.
 
-Matt Halpern of Periphery builds his setup around Meinl Byzance cymbals, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium during his 2017-2025 run as the band's drummer, used the brighter Zildjian K Custom Hybrid Series for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, building his kit around Zildjian A Custom and K Custom cymbals for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Matt Halpern of Periphery builds his setup around Meinl Byzance cymbals, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium during his 2017-2025 run as the band's drummer, used the brighter Zildjian K Custom Hybrid Series for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took a different path entirely, building his kit around Zildjian A Custom and K Custom cymbals for a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
 This guide compares Meinl Byzance, Zildjian K Custom Hybrid, and Zildjian A/K Custom cymbals for metalcore — breaking down what each of these three influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
@@ -60435,16 +60435,16 @@ Where Halpern prioritizes dryness and control, Bent's K Custom Hybrid Series set
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `Jay Weinberg of Slipknot stands apart from metalcore's Meinl-dominated landscape, building his kit around Zildjian A Custom and K Custom cymbals — 14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, a 21" K Custom Ride, and a 19" K China. This brighter, more explosive voice matches Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
+          description: `Jay Weinberg, formerly of Slipknot (2014-2023), stood apart from metalcore's Meinl-dominated landscape, building his kit around Zildjian A Custom and K Custom cymbals — 14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, a 21" K Custom Ride, and a 19" K China. This brighter, more explosive voice matched Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
 
-The A Custom line's brilliant finish gives fast, cutting crash response ideal for Slipknot's dynamic, theatrical arrangements, while the K Custom Ride adds darker, more controlled definition underneath. It's proof that metalcore's cymbal choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the specific sound a band is chasing.`,
+The A Custom line's brilliant finish gave fast, cutting crash response ideal for Slipknot's dynamic, theatrical arrangements, while the K Custom Ride added darker, more controlled definition underneath. It's proof that metalcore's cymbal choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the specific sound a band is chasing.`,
 
           pros: [
-            "Jay Weinberg's Slipknot setup — the brighter, more aggressive end of metalcore's cymbal spectrum",
+            "Jay Weinberg's Slipknot-era setup — the brighter, more aggressive end of metalcore's cymbal spectrum",
             "A Custom's brilliant finish gives fast, explosive crash response",
             "K Custom Ride adds darker, more controlled definition",
             "Wide range across hi-hats, crashes, ride, and china",
-            "Proven on massive stages across Slipknot's global touring career"
+            "Proven on massive stages across Slipknot's global touring career (2014-2023)"
           ],
           cons: [
             "Brighter voicing less suited to breakdown-heavy technical metalcore than Meinl Byzance",
@@ -60458,7 +60458,7 @@ The A Custom line's brilliant finish gives fast, cutting crash response ideal fo
             bestFor: "Aggressive, nu-metal-influenced metalcore"
           },
           usedBy: [
-            { name: "Jay Weinberg", band: "Slipknot", note: "14\" A New Beat Hi-Hats, 18\"&19\" A Custom Crashes, 21\" K Custom Ride, 19\" K China" }
+            { name: "Jay Weinberg", band: "ex-Slipknot", note: "14\" A New Beat Hi-Hats, 18\"&19\" A Custom Crashes, 21\" K Custom Ride, 19\" K China" }
           ],
           verdict: "Best for aggressive, nu-metal-influenced metalcore. Weinberg's setup brings explosive brightness to the genre.",
           rating: 4.5,
@@ -60587,7 +60587,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
         {
           category: "Best for Aggressive Metalcore",
           pedal: "Zildjian A Custom & K Custom",
-          reason: "Jay Weinberg's Slipknot setup — explosive brightness for theatrical, high-energy performance."
+          reason: "Jay Weinberg's Slipknot-era (2014-2023) setup — explosive brightness for theatrical, high-energy performance."
         },
         {
           category: "Best Budget",
@@ -60607,14 +60607,14 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
     relatedDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid — former Trivium (2017-2025) melodic modern metal' },
-      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom & K Custom — Slipknot aggressive metalcore' }
+      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom & K Custom — ex-Slipknot (2014-2023) aggressive metalcore' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid — former Trivium (2017-2025) melodic modern metal' },
-      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom & K Custom — Slipknot aggressive metalcore' }
+      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom & K Custom — ex-Slipknot (2014-2023) aggressive metalcore' }
     ],
 
     // FAQ section for SEO
@@ -84453,7 +84453,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
       title: "What Hi-Hats Are Used in Metalcore?",
       content: `Hi-hats do more rhythmic work in metalcore than almost any other cymbal in the kit. Palm-muted breakdown riffing, tightly syncopated chugs, and constant tempo and dynamic shifts all live or die on whether the hi-hat stays controlled and articulate — a washy, uncontrolled hi-hat turns a precise breakdown into mud, while a dry, well-chosen pair locks the whole riff into place.
 
-Matt Halpern of Periphery builds his setup around 14" Byzance Traditional Medium Hi-Hats from Meinl, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, articulate foundation across "Periphery II," "Juggernaut," and "Hail Stan." Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium during his 2017-2025 run as the band's drummer, played 14" Medium Hi-Hats from the brighter Zildjian K Custom Hybrid Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
+Matt Halpern of Periphery builds his setup around 14" Byzance Traditional Medium Hi-Hats from Meinl, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, articulate foundation across "Periphery II," "Juggernaut," and "Hail Stan." Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium during his 2017-2025 run as the band's drummer, played 14" Medium Hi-Hats from the brighter Zildjian K Custom Hybrid Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
 
 This guide breaks down exactly what makes a great metalcore hi-hat — diameter, voicing, and control — and which specific models these three influential drummers play, from budget starter pairs to the professional setups heard on the genre's most technically respected records.`,
       keyPoints: [
@@ -84594,14 +84594,14 @@ Where Halpern prioritizes dryness and control, Bent's K Custom Hybrid hi-hats sh
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `Jay Weinberg of Slipknot stands apart from metalcore's Meinl-dominated landscape, running 14" A New Beat Hi-Hats from Zildjian's A Custom line alongside a K Custom ride and China elsewhere in his kit. This brighter, more explosive voice matches Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
+          description: `Jay Weinberg, formerly of Slipknot (2014-2023), stood apart from metalcore's Meinl-dominated landscape, running 14" A New Beat Hi-Hats from Zildjian's A Custom line alongside a K Custom ride and China elsewhere in his kit. This brighter, more explosive voice matched Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
 
-The A Custom line's brilliant finish gives fast, cutting response ideal for Slipknot's dynamic, theatrical arrangements — proof that metalcore's hi-hat choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the specific sound a band is chasing.`,
+The A Custom line's brilliant finish gave fast, cutting response ideal for Slipknot's dynamic, theatrical arrangements — proof that metalcore's hi-hat choices scale from ultra-dry technical precision all the way to bright, explosive aggression depending on the specific sound a band is chasing.`,
 
           pros: [
-            "Jay Weinberg's Slipknot setup — the brighter, more aggressive end of metalcore's hi-hat spectrum",
+            "Jay Weinberg's Slipknot-era setup — the brighter, more aggressive end of metalcore's hi-hat spectrum",
             "A Custom's brilliant finish gives fast, explosive response",
-            "Proven on massive stages across Slipknot's global touring career",
+            "Proven on massive stages across Slipknot's global touring career (2014-2023)",
             "Consistent Zildjian quality"
           ],
           cons: [
@@ -84617,7 +84617,7 @@ The A Custom line's brilliant finish gives fast, cutting response ideal for Slip
             series: "A Custom (A New Beat)"
           },
           usedBy: [
-            { name: "Jay Weinberg", band: "Slipknot", note: "14\" A New Beat Hi-Hats — aggressive, nu-metal-influenced metalcore" }
+            { name: "Jay Weinberg", band: "ex-Slipknot", note: "14\" A New Beat Hi-Hats — aggressive, nu-metal-influenced metalcore" }
           ],
           verdict: "Best for aggressive, nu-metal-influenced metalcore. Weinberg's setup brings explosive brightness to the genre.",
           rating: 4.5,
@@ -84744,7 +84744,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
         {
           category: "Best for Aggressive Metalcore",
           pedal: "Zildjian A Custom & K Custom Hi-Hats",
-          reason: "Jay Weinberg's choice for Slipknot's explosive, nu-metal-influenced hybrid sound."
+          reason: "Jay Weinberg's choice for Slipknot's (2014-2023) explosive, nu-metal-influenced hybrid sound."
         },
         {
           category: "Best Budget",
@@ -84763,21 +84763,21 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
     relatedDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Traditional Medium 14" Hi-Hats — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid 14" Hi-Hats — former Trivium (2017-2025) melodic modern metal' },
-      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom 14" Hi-Hats — Slipknot explosive hybrid sound' }
+      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom 14" Hi-Hats — ex-Slipknot (2014-2023) explosive hybrid sound' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Traditional Medium Hi-Hats — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Hi-Hats — former Trivium (2017-2025) melodic modern metal' },
-      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Hi-Hats — Slipknot\'s explosive hybrid attack' },
+      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Hi-Hats — ex-Slipknot\'s (2014-2023) explosive hybrid attack' },
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What hi-hats are used in metalcore?",
-        answer: "Matt Halpern of Periphery uses 14\" Meinl Byzance Traditional Medium Hi-Hats for controlled, low-sustain response. Alex Bent, Trivium's drummer from 2017 to 2025, used 14\" Zildjian K Custom Hybrid Hi-Hats for a brighter, faster attack. Jay Weinberg of Slipknot uses 14\" Zildjian A Custom Hi-Hats for explosive projection."
+        answer: "Matt Halpern of Periphery uses 14\" Meinl Byzance Traditional Medium Hi-Hats for controlled, low-sustain response. Alex Bent, Trivium's drummer from 2017 to 2025, used 14\" Zildjian K Custom Hybrid Hi-Hats for a brighter, faster attack. Jay Weinberg, Slipknot's drummer from 2014 to 2023, used 14\" Zildjian A Custom Hi-Hats for explosive projection."
       },
       {
         question: "What hi-hats does Matt Halpern use?",

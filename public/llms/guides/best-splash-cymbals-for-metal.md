@@ -92,7 +92,7 @@ Jay Weinberg's touring cymbal setup runs a 10" splash within his broader Zildjia
 - 10" size limited to accent use, not a crash substitute
 
 **Who uses it:**
-- Jay Weinberg (Slayer) — 10" splash within Zildjian K Custom touring rig
+- Jay Weinberg (Suicidal Tendencies) — 10" splash within Zildjian K Custom touring rig
 
 **Verdict:** The best all-around pro splash for cutting accents with real tonal complexity.
 
@@ -319,7 +319,7 @@ Splash cymbals for metal generally split into two tonal camps:
 A 10" splash is the most common choice among metal drummers, striking a balance between a sharp, distinct accent and enough body to cut through a dense mix. An 8" splash decays even faster for the sharpest possible stab, while a 12" splash retains more sustain, blurring toward small-crash territory.
 
 **Do I need a splash cymbal for metal drumming?**
-It's not essential, but progressive and technical metal drummers — including Danny Carey (Tool), Mike Mangini (Dream Theater), Jay Weinberg (Slayer), and Art Cruz (Lamb of God) — all run a splash as a standard part of their touring setups for the extra accent and textural options it adds beyond a standard hi-hat, crash, and ride.
+It's not essential, but progressive and technical metal drummers — including Danny Carey (Tool), Mike Mangini (Dream Theater), Jay Weinberg (Suicidal Tendencies), and Art Cruz (Lamb of God) — all run a splash as a standard part of their touring setups for the extra accent and textural options it adds beyond a standard hi-hat, crash, and ride.
 
 **What's the difference between a splash and a crash cymbal?**
 A splash is smaller (typically 8"-12" versus 16"+ for a crash) and decays almost instantly, punctuating a single hit without sustaining. A crash is designed to ring out and wash over several beats, making it unsuitable for the kind of sharp, isolated accent a splash provides.

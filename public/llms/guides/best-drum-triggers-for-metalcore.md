@@ -117,7 +117,7 @@ Jay Weinberg has run Roland electronics across his touring rigs for exactly this
 - Clip mount needs occasional repositioning as heads are changed between sessions
 
 **Who uses it:**
-- Jay Weinberg (Slipknot) — Roland electronics across his touring rigs for consistent attack
+- Jay Weinberg (Suicidal Tendencies) — Roland electronics across his touring rigs for consistent attack
 
 **Verdict:** The most versatile clip-on trigger for a metalcore drummer building a touring-ready reinforcement chain.
 

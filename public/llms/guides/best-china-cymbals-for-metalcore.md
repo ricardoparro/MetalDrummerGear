@@ -118,7 +118,7 @@ Jay Weinberg's Zildjian A Custom setup — carried from his work with Slipknot i
 - 18" size limits low-end weight compared to 20" options
 
 **Who uses it:**
-- Jay Weinberg (Slipknot/Trivium) — Bright A Custom accents for dense, modern metalcore mixes
+- Jay Weinberg (ex-Slipknot) — Bright A Custom accents for dense, modern metalcore mixes
 
 **Verdict:** Best for drummers who need an accent china bright enough to cut through a loud, busy mix.
 

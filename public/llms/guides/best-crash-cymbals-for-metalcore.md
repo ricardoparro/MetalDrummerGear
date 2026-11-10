@@ -11,7 +11,7 @@
 
 Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's crash choices reflect that split. A breakdown crash needs to land hard and decay fast so the next palm-muted chug isn't buried under ringing metal, while the genre's frequent tempo and dynamic shifts demand a crash that responds instantly to a wide range of accent styles.
 
-Matt Greiner of August Burns Red runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium, uses 16", 18", and 19" Meinl Byzance Brilliant Medium Thin Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
+Matt Greiner of August Burns Red runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium, uses 16", 18", and 19" Meinl Byzance Brilliant Medium Thin Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg, who spent nine years with Slipknot (2014-2023) before joining Suicidal Tendencies, took a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
 
 This guide breaks down what actually makes a crash work for metalcore — fast decay, breakdown punctuation, and brightness versus control — and recommends specific models across every budget, from a first breakdown-ready crash to the exact cymbals metalcore's most influential drummers play.
 
@@ -130,12 +130,12 @@ Where Matt Greiner prioritizes dryness and control, Bent's Brilliant Series setu
 **Type:** B20 Bronze, Brilliant  
 **Rating:** 4.6/5
 
-Jay Weinberg of Slipknot stands apart from metalcore's Meinl-dominated landscape, running 18" and 19" Zildjian A Custom Crashes as part of a broader A Custom/K Custom setup. This brighter, more explosive voice matches Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
+Jay Weinberg, formerly of Slipknot (2014-2023), stood apart from metalcore's Meinl-dominated landscape, running 18" and 19" Zildjian A Custom Crashes as part of a broader A Custom/K Custom setup. This brighter, more explosive voice matched Slipknot's aggressive nu-metal/metalcore hybrid sound, honoring the band's legacy while adding Weinberg's own intensity.
 
-The A Custom line's brilliant finish gives fast, cutting crash response ideal for Slipknot's dynamic, theatrical arrangements — proof that metalcore's crash choices scale from ultra-dry technical precision all the way to bright, explosive aggression.
+The A Custom line's brilliant finish gave fast, cutting crash response ideal for Slipknot's dynamic, theatrical arrangements — proof that metalcore's crash choices scale from ultra-dry technical precision all the way to bright, explosive aggression.
 
 **Pros:**
-- Jay Weinberg's proven Slipknot setup — the brighter, more aggressive end of metalcore's crash spectrum
+- Jay Weinberg's proven Slipknot-era setup — the brighter, more aggressive end of metalcore's crash spectrum
 - Brilliant finish gives fast, explosive crash response
 - Proven across Slipknot's most dynamic, theatrical live performances
 - Available across a wide size range for a layered setup
@@ -146,7 +146,7 @@ The A Custom line's brilliant finish gives fast, cutting crash response ideal fo
 - Faster decay under extremely dense mixes than heavier alternatives
 
 **Who uses it:**
-- Jay Weinberg (Slipknot) — 18" & 19" A Custom Crashes for aggressive nu-metal/metalcore hybrid
+- Jay Weinberg (ex-Slipknot) — 18" & 19" A Custom Crashes for aggressive nu-metal/metalcore hybrid
 
 **Verdict:** The brightest, most explosive option — ideal for aggressive, theatrical metalcore.
 
@@ -263,7 +263,7 @@ Metalcore's crash choices split along a clear line: control-first dryness, or br
 - More explosive, theatrical impact live
 - Best for melodic modern metalcore and aggressive nu-metal/metalcore hybrids
 
-**The Truth:** Both approaches are proven at the highest level. Matt Greiner's Grammy-nominated technical precision runs on dry control; Jay Weinberg's Slipknot intensity runs on bright explosiveness. Neither is objectively better — it depends entirely on whether your metalcore leans breakdown-technical or melodic-aggressive.
+**The Truth:** Both approaches are proven at the highest level. Matt Greiner's Grammy-nominated technical precision runs on dry control; Jay Weinberg's Slipknot-era (2014-2023) intensity ran on bright explosiveness. Neither is objectively better — it depends entirely on whether your metalcore leans breakdown-technical or melodic-aggressive.
 
 **Our Recommendation:** If your band is breakdown-heavy and technical, start with Meinl Byzance Extra Dry. If your band leans melodic or aggressive/theatrical, start with Zildjian A Custom or Meinl Byzance Brilliant.
 
@@ -280,7 +280,7 @@ Metalcore's crash choices split along a clear line: control-first dryness, or br
 
 - **Best Overall:** Meinl Byzance Extra Dry Medium Crash — Matt Greiner's Grammy-nominated technical standard — controlled, breakdown-ready decay.
 - **Best for Melodic Metalcore:** Meinl Byzance Brilliant Medium Thin Crash — Alex Bent's brighter Trivium setup — proof melody and precision aren't mutually exclusive.
-- **Best for Aggressive/Theatrical Metalcore:** Zildjian A Custom Crash — Jay Weinberg's explosive Slipknot voice — the brightest, most theatrical option.
+- **Best for Aggressive/Theatrical Metalcore:** Zildjian A Custom Crash — Jay Weinberg's explosive Slipknot-era (2014-2023) voice — the brightest, most theatrical option.
 - **Best Budget:** Zildjian ZBT Crash — A genuinely explosive first crash at a true beginner price.
 
 ---
@@ -294,7 +294,7 @@ Matt Greiner of August Burns Red runs 18" and 19" Meinl Byzance Extra Dry Medium
 Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes, tuned for groove metal's tightly arranged breakdowns — a dark, complex B20 tone with controlled decay.
 
 **What crash cymbal does Jay Weinberg use?**
-Jay Weinberg of Slipknot runs 18" and 19" Zildjian A Custom Crashes, a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Jay Weinberg, formerly of Slipknot (2014-2023), ran 18" and 19" Zildjian A Custom Crashes, a brighter, more explosive voice that matched Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
 **Should I choose a dry or bright crash for metalcore?**
 It depends on your style. Dry, controlled crashes like Matt Greiner's and Chris Adler's Meinl Byzance Extra Dry/Dark suit breakdown-heavy, technical metalcore. Brighter crashes like Alex Bent's Byzance Brilliant and Jay Weinberg's Zildjian A Custom suit melodic or aggressive, theatrical metalcore.
@@ -324,14 +324,14 @@ Start with one medium-weight crash in the 18" range that matches your band's gen
 
 - [Matt Greiner](https://metalforge.io/drummer/matt-greiner) — Meinl Byzance Extra Dry Medium Crashes — August Burns Red's technical precision
 - [Alex Bent](https://metalforge.io/drummer/alex-bent) — Meinl Byzance Brilliant Medium Thin Crashes — Trivium's melodic modern metal
-- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — Zildjian A Custom Crashes — Slipknot's explosive attack
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — Zildjian A Custom Crashes — ex-Slipknot's (2014-2023) explosive attack
 - [Chris Adler](https://metalforge.io/drummer/chris-adler) — Meinl Byzance Dark Crashes — Lamb of God's breakdown precision
 
 ## Featured Drummers
 
 - [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Extra Dry Medium Crashes — August Burns Red's technical precision
 - [Chris Adler](https://metalforge.io/drummer/chris-adler): Meinl Byzance Dark Crashes — Lamb of God's breakdown precision
-- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian A Custom Crashes — Slipknot's explosive attack
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian A Custom Crashes — ex-Slipknot's (2014-2023) explosive attack
 
 ---
 

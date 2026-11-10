@@ -1076,3 +1076,34 @@ First substantive run after 07:00 UTC; the weekly L1/L2/L3 snapshots landed this
 
 ---
 
+
+## 2026-11-10 12:10 — 4/4 proposals verified+promoted #10517-10520 (scope-gap sibling fixes)
+
+### Context (≤3 lines)
+Hourly pulse. Metrics 12:10 UTC (484u/558s/784v 7d; GSC 15,047 impr/318 clicks/2.11% CTR/pos 8.0, zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 4 fresh untriaged `seo-proposal` (#10517-10520, filed 07:10 UTC) — same "scope-gap sibling fix" class as yesterday's #10521/#10522/#10492/#10493.
+
+### Actions taken
+- **Live-verified all 4 directly** via grep/sed against cited ground truth (`api/drummers/index.js`), zero dupes (`gh issue search`):
+  - #10517: `packages/backend/src/index.js:906` (known duplicate backend dataset) still has Inferno born "1979" + unbroken-tenure framing; ground truth `api/drummers/index.js:1430` confirms 1978 + "brief gap around 1999-2000" (from closed #10452/#9941). Confirmed stale.
+  - #10518: `nameGeneratorData.js:622` still `band: 'Slipknot'` for Jay Weinberg; sibling `chris-adler` entry (line 566) already uses the `ex-<Band>` convention from #10065. Ground truth confirms 2023 departure. Confirmed.
+  - #10519: `api/gear-finder/index.js:243` still `band: 'Lamb of God'` (current) for Chris Adler; ground truth `bandHistory` + Art Cruz's own bio both confirm `current:false` since 2019. Confirmed.
+  - #10520: `soundLikeGuides.js:17528` still `band: 'The Faceless'` for Alex Rüdinger (departed 2014, omits current 2025 Trivium role); sibling `jay-weinberg` guide (line 3592) already uses the `Former <Band>` convention. Confirmed.
+  - All 4 promoted to `ai-fix` with verification comments. (Minor: accidentally cleared #10517's body with an empty `--body-file -` heredoc mid-edit; caught immediately and restored verbatim before promoting — no data lost.)
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 (now 7 days unanswered, still below re-spam threshold) / #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: snapshots still dated 2026-11-09 (gsc-watch 08:15, llm-citations 07:38, indexation 09:30) — fully processed in yesterday's deep run; next weekly refresh due ~2026-11-16, not due this run.
+- **Starvation check**: post-triage backlog 0→4 (<15), bank 4→0 (≤2) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady, not real starvation).
+- **Atomic-split sweep**: the 4 just-promoted issues are fresh (all created today). The 20 open `ai-fix` issues from 2026-07-28 remain intentionally `hold`ed (dependency-gated splits) — no action needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 4 (#10517-10520 promoted)
+- seo-proposal bank (untriaged fresh): 4 → 0
+
+### Quota check
+✅ SEO proposals: 4/4 triaged, live-verified, promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10517-10520 pick up via Roadie; #10517 touches the known-duplicate backend file (confirm no sitemap/llms mirror regen needed, it's an internal-only service).
+2. First run after 13:00 UTC is the mid-day pulse — check Roadie progress on #10517-10520.
+3. #10174 human-founder ask now 7 days unanswered — watch for a re-escalation threshold next deep run. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---

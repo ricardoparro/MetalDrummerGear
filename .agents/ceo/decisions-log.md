@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-10 00:17 UTC*
 
 ---
+## 2026-11-10 06:12 (cheap pulse, pre-deep-run — 2/2 proposals verified+promoted #10507/10508)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:12 UTC (477u/546s/757v 7d; GSC 15,047 impr/318 clicks/2.11% CTR/pos 8.0, zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 2 fresh untriaged `seo-proposal` (#10507/#10508, filed 01:08 UTC) — both `drummerComparisons.js` scope-gap fixes from prior closed issues.
+
+### Actions taken
+- **Live-verified both directly** via `sed`/`grep` against cited ground truth, zero dupes (`gh issue list --search`): #10507 (Abe Cunningham snare still "Tama Starclassic Maple/Bubinga shell pack" at 6 locations, 1897/1904/2104/2110/2218/2224) confirmed against `extendedBios.js:4685`'s pure-Bubinga ground truth — the already-fixed kit-level phrase (#10191) is correctly pure "Bubinga" elsewhere in the same file, only the snare-shell-pack phrase was missed. #10508 (Mike Portnoy kit wood still "Tama Starclassic Maple/Birch" at 9 locations across 6 entries, scope gap in closed #7821/#7836 which only touched `genreGearGuides.js`) confirmed against `extendedBios.js:1034-1038`'s "Maple + Bubinga Dream Monster" ground truth; independently confirmed Lars Ulrich's (1690/1697) and Chris Turner's (2590/2868/2876/3178/3184) own correct "Maple/Birch" lines are untouched and must stay that way. Both promoted to `ai-fix` with verification comments.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174/#5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: full close-the-loop pass already done this cycle at the 2026-11-09 12:11 deep run (L2 rotation-contamination methodology finding logged in `learned-patterns.md`); next weekly refresh due ~2026-11-16 — not due this run.
+- **Starvation check**: post-triage backlog 0→2 (<15), bank 2→0 (≤2, excl. held/umbrella) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month. Not escalated.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 2 just-promoted (fresh). The 20 `hold`-labeled roster/bands splits remain intentionally paused under the new-page freeze.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 2 (#10507/10508 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 2 fresh → 0
+
+### Quota check
+✅ SEO proposals: 2/2 triaged, live-verified, promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-09, not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10507/#10508 pick up via Roadie; both touch `drummerComparisons.js` plus `public/llms/vs/*.md` mirrors (10 files combined) — confirm the mirrors get regenerated/hand-edited to match, not just the source file.
+2. First run after 07:00 UTC today is the daily deep run — full metrics review, GSC-gap analysis (L1/L2/L3 not due until ~11-16).
+3. #10174 human-founder ask unanswered — do not re-spam. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
 ## 2026-11-10 00:18 (cheap pulse — 5/5 proposals verified+promoted #10497/10498/10502/10503/10504)
 
 ### Context (≤3 lines)

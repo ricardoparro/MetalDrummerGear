@@ -188,7 +188,7 @@ const drummers = [
     genre: 'Progressive Metal',
     image: '/images/drummers/mike-portnoy.webp',
     gear: {
-      drums: 'Tama Starclassic Maple/Birch',
+      drums: 'Tama Starclassic Maple + Starclassic Bubinga "Dream Monster"',
       snare: 'Tama Mike Portnoy Signature Melody Master 14x5.5"',
       cymbals: 'Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash)',
       hardware: 'Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',

@@ -4761,14 +4761,14 @@ While less common than Evans among MetalForge's extreme metal roster, the Empero
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Evans heads sustaining 240+ BPM blast beats for Nile' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Remo Pinstripe/Emperor — pioneered the gravity blast technique' },
+      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Head brand not publicly documented — pioneered the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Evans heads for one-footed blast technique durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'The Atomic Clock — Evans precision across four decades' }
     ],
 
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Evans heads — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Remo Pinstripe/Emperor — pioneer of the gravity blast technique' },
+      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Head brand not publicly documented — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Evans heads engineered for one-footed blast durability' }
     ],
 
@@ -4776,7 +4776,7 @@ While less common than Evans among MetalForge's extreme metal roster, the Empero
     faq: [
       {
         question: "What drum heads do extreme metal drummers use?",
-        answer: "Evans dominates extreme metal's professional roster. George Kollias, Derek Roddy, and Gene Hoglan all use Evans, primarily double-ply coated heads like the G2, with reinforced options like Power Center Reverse Dot for drummers whose technique concentrates the most force. Pete Sandoval is the exception — he played Remo Pinstripe or Emperor heads."
+        answer: "Evans dominates extreme metal's professional roster. George Kollias, Derek Roddy, and Gene Hoglan all use Evans, primarily double-ply coated heads like the G2, with reinforced options like Power Center Reverse Dot for drummers whose technique concentrates the most force. Pete Sandoval's head brand isn't publicly documented."
       },
       {
         question: "Why do extreme metal drummers need more durable drum heads than other metal genres?",

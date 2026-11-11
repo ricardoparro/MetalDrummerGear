@@ -12273,7 +12273,7 @@ This guide breaks down drive systems, footboard design, and dual-pedal versatili
           priceRange: "€650-750",
           tier: "pro",
           driveType: "Chain Drive (Dual Chain)",
-          description: `Nick Augusto paired a DW 9000 Series double pedal with his Pearl Reference Pure kit during his 2009-2014 run in Trivium, giving the band's technical metalcore riffing on "In Waves" and "Vengeance Falls" the power and stability of DW's dual chain drive system. The free-floating rotor design and extensive adjustability let him dial in exactly the balance of speed and breakdown power each track demanded.
+          description: `Nick Augusto paired a DW 9000 Series double pedal with his Pearl Reference Pure kit during his 2010-2014 run in Trivium, giving the band's technical metalcore riffing on "In Waves" and "Vengeance Falls" the power and stability of DW's dual chain drive system. The free-floating rotor design and extensive adjustability let him dial in exactly the balance of speed and breakdown power each track demanded.
 
 For metalcore drummers who need reliable chain-drive power for rapid double-bass fills without sacrificing durability on tour, the 9000 Series remains a proven touring workhorse.`,
           pros: [
@@ -59090,7 +59090,7 @@ This guide breaks down what actually makes a kit work for metalcore — shell se
           tier: "pro",
           material: "6-ply Maple",
 
-          description: `Nick Augusto powered Trivium's aggressive, thrash-influenced metalcore on a Pearl Reference Pure kit throughout his 2009–2014 tenure, driving the technically demanding tracks on "In Waves" and "Vengeance Falls." The thin 6-ply maple shells deliver exceptional sensitivity and resonance, letting every stroke articulate clearly even during Trivium's fastest, most technical passages.
+          description: `Nick Augusto powered Trivium's aggressive, thrash-influenced metalcore on a Pearl Reference Pure kit throughout his 2010–2014 tenure, driving the technically demanding tracks on "In Waves" and "Vengeance Falls." The thin 6-ply maple shells deliver exceptional sensitivity and resonance, letting every stroke articulate clearly even during Trivium's fastest, most technical passages.
 
 Pearl's SST (Superior Shell Technology) construction and minimal-contact mounting let the shells vibrate as freely as possible, producing a richer fundamental tone than thicker, more dampened alternatives — exactly what metalcore's rapid shifts between breakdowns and technical runs demand.`,
 
@@ -79676,7 +79676,7 @@ This guide breaks down drive systems, footboard design, and speed potential for 
           tier: "pro",
           driveType: "Chain Drive (Dual Chain)",
 
-          description: `Nick Augusto paired a DW 9000 Series double pedal with his Pearl Reference Pure kit during his 2009-2014 run in Trivium, giving the band's technical metalcore riffing on "In Waves" and "Vengeance Falls" the power and stability of DW's dual chain drive system. The free-floating rotor design and extensive adjustability let him dial in exactly the balance of speed and power each track demanded.
+          description: `Nick Augusto paired a DW 9000 Series double pedal with his Pearl Reference Pure kit during his 2010-2014 run in Trivium, giving the band's technical metalcore riffing on "In Waves" and "Vengeance Falls" the power and stability of DW's dual chain drive system. The free-floating rotor design and extensive adjustability let him dial in exactly the balance of speed and power each track demanded.
 
 For metalcore drummers who need reliable chain-drive power for rapid double-bass fills without sacrificing durability on tour, the 9000 Series remains a proven touring workhorse.`,
 
@@ -79899,11 +79899,11 @@ The extended footboard design is specifically engineered for fast, rolling patte
     faq: [
       {
         question: "Who are the best metalcore drummers and what pedals do they use?",
-        answer: "Nick Augusto, who played in Trivium from 2009-2014, used a DW 9000 Series double pedal. Art Cruz of Lamb of God plays a Trick Pro 1-V double pedal. The Tama Speed Cobra 910 is another strong pro-level option for the genre's technical, prog-leaning wing."
+        answer: "Nick Augusto, who played in Trivium from 2010-2014, used a DW 9000 Series double pedal. Art Cruz of Lamb of God plays a Trick Pro 1-V double pedal. The Tama Speed Cobra 910 is another strong pro-level option for the genre's technical, prog-leaning wing."
       },
       {
         question: "What pedal does Nick Augusto use?",
-        answer: "Nick Augusto, who played drums in Trivium from 2009 to 2014, used a DW 9000 Series double pedal alongside his Pearl Reference Pure kit, giving the band's technical metalcore riffing on \"In Waves\" and \"Vengeance Falls\" dependable, chain-driven power."
+        answer: "Nick Augusto, who played drums in Trivium from 2010 to 2014, used a DW 9000 Series double pedal alongside his Pearl Reference Pure kit, giving the band's technical metalcore riffing on \"In Waves\" and \"Vengeance Falls\" dependable, chain-driven power."
       },
       {
         question: "Do I need a direct drive pedal for metalcore breakdowns?",
@@ -88930,7 +88930,7 @@ One genuinely overlooked factor: black metal's sustained blast beats reward whic
       title: "Why Metalcore Sticks Need Rebound as Much as Power",
       content: `Metalcore's drumming vocabulary swings between two extremes within a single song — blast beats and fast double bass in the verses, then a sudden drop into a slow, weighty breakdown where every hit has to land with maximum authority. That dynamic range makes rebound as important as raw power: a stick that only excels at one extreme leaves a drummer fighting their equipment during the other.
 
-Matt Greiner of August Burns Red plays his own Vic Firth signature stick — a 0.585" diameter model with an elongated taper and teardrop tip, dry-tumbled with no added finish for a smooth, organic grip. Greiner's signature partnership also includes his own Pearl steel snare, part of a broader technical reputation built across August Burns Red's Grammy-nominated catalog. Ben Koller of Converge, whose relentless intensity helped define modern metalcore and hardcore drumming, favors the heavier end of Vic Firth's American Classic 5B — a preference for maximum impact established during his DIY hardcore years that carried through unchanged into the "Jane Doe" era. Alex Bent, also known for technical precision within heavier metalcore contexts, likewise favors the Vic Firth American Classic 5B for its dependable balance of power and control. Nick Augusto, who anchored Trivium's technical riffing from 2009-2014, plays a Pro-Mark Nylon Tip 5B — the same trusted 5B diameter with a nylon tip for extra durability and a brighter cymbal attack.
+Matt Greiner of August Burns Red plays his own Vic Firth signature stick — a 0.585" diameter model with an elongated taper and teardrop tip, dry-tumbled with no added finish for a smooth, organic grip. Greiner's signature partnership also included a Pearl steel snare during his 2011-2016 Pearl Reference Pure era; his current kit is Mapex Black Panther Design Lab, part of a broader technical reputation built across August Burns Red's Grammy-nominated catalog. Ben Koller of Converge, whose relentless intensity helped define modern metalcore and hardcore drumming, favors the heavier end of Vic Firth's American Classic 5B — a preference for maximum impact established during his DIY hardcore years that carried through unchanged into the "Jane Doe" era. Alex Bent, also known for technical precision within heavier metalcore contexts, likewise favors the Vic Firth American Classic 5B for its dependable balance of power and control. Nick Augusto, who anchored Trivium's technical riffing from 2010-2014, plays a Pro-Mark Nylon Tip 5B — the same trusted 5B diameter with a nylon tip for extra durability and a brighter cymbal attack.
 
 This guide covers what actually makes a drumstick work for metalcore's breakdown-to-blast-beat dynamic range, what the genre's most respected drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [

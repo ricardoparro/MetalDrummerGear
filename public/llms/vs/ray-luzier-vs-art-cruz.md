@@ -67,4 +67,4 @@ A: Ray Luzier plays a Pearl Reference Maple kit with a Pearl snare (the specific
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

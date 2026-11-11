@@ -67,4 +67,4 @@ A: Ryan Van Poederooyen plays a Pearl Reference Series kit with a Pearl snare (t
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

@@ -66,4 +66,4 @@ A: Matt Garstka replaced Navene Koperweis as Animals as Leaders' drummer in 2012
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

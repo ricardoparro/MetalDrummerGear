@@ -63,4 +63,4 @@ A: Both are among the most technically demanding drummers in metal history, but 
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

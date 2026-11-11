@@ -67,4 +67,4 @@ A: Mario Duplantier's landmark records with Gojira include "From Mars to Sirius"
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

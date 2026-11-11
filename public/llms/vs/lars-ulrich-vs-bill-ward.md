@@ -34,7 +34,7 @@ Ward's technique is rooted in open, swinging jazz feel rather than technical pre
 
 ## Key Differences
 
-Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride), driven by a single Ludwig Speed King pedal — no double bass. Lars Ulrich plays a Tama Starclassic Maple/Birch kit with a Tama LU1465 Lars Ulrich Signature 14x6.5" snare and Zildjian A Custom Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" China, 22" Ride), powered by Tama Iron Cobra 900 Power Glide double bass pedals and Ahead Lars Ulrich Signature aluminum drumsticks. Ward's technique is rooted in open, swinging jazz feel rather than technical precision — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove no other rock drummer of the era was playing. Ulrich is a feel-driven player whose drumming serves Metallica's songs above all else — his powerful, punchy patterns and signature fills lock in with Hetfield's rhythm guitar to create one of metal's tightest rhythm section bonds, prioritizing song service over technical flash.
+Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride), driven by a single Ludwig Speed King pedal — no double bass. Lars Ulrich plays a Tama Starclassic Maple kit with a Tama LU1465 Lars Ulrich Signature 14x6.5" snare and Zildjian A Custom Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" China, 22" Ride), powered by Tama Iron Cobra 900 Power Glide double bass pedals and Ahead Lars Ulrich Signature aluminum drumsticks. Ward's technique is rooted in open, swinging jazz feel rather than technical precision — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove no other rock drummer of the era was playing. Ulrich is a feel-driven player whose drumming serves Metallica's songs above all else — his powerful, punchy patterns and signature fills lock in with Hetfield's rhythm guitar to create one of metal's tightest rhythm section bonds, prioritizing song service over technical flash.
 
 ## Influence & Legacy
 
@@ -53,7 +53,7 @@ A: Both are considered founding fathers of metal drumming, but for different rea
 A: Bill Ward's pioneering work with Black Sabbath created the foundational rhythmic vocabulary of heavy metal drumming that every metal drummer who followed, including Lars Ulrich, built upon — even drummers from entirely different subgenres like thrash trace their genre's roots back to Ward's original Sabbath recordings.
 
 **Q: What gear do Lars Ulrich and Bill Ward use?**
-A: Bill Ward played a Ludwig Standard / Club Date Series kit with Zildjian Avedis Series cymbals and a single Ludwig Speed King pedal — no double bass. Lars Ulrich plays a Tama Starclassic Maple/Birch kit with a Tama LU1465 Signature snare, Zildjian A Custom cymbals, and Tama Iron Cobra 900 Power Glide double bass pedals.
+A: Bill Ward played a Ludwig Standard / Club Date Series kit with Zildjian Avedis Series cymbals and a single Ludwig Speed King pedal — no double bass. Lars Ulrich plays a Tama Starclassic Maple kit with a Tama LU1465 Signature snare, Zildjian A Custom cymbals, and Tama Iron Cobra 900 Power Glide double bass pedals.
 
 **Q: Does Lars Ulrich use double bass like modern thrash drummers?**
 A: Yes — Lars Ulrich uses Tama Iron Cobra double bass pedals for Metallica's faster thrash tracks, unlike Bill Ward, who never used a double pedal across his entire Black Sabbath career and relied entirely on single-pedal foot technique and swing feel.
@@ -67,4 +67,4 @@ A: Yes — Lars Ulrich uses Tama Iron Cobra double bass pedals for Metallica's f
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

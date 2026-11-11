@@ -67,4 +67,4 @@ A: Ben Koller uses Zildjian K Custom & A Custom Series (14" K Custom Thin Hi-Hat
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

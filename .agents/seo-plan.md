@@ -16713,3 +16713,46 @@ Not due — today is Wednesday 2026-11-11; group 2 cleared Monday 2026-11-09; ne
 2. The `scripts/verify-gear-consistency.cjs` DATA_DIR scope gap (api/meta, App.js, api/gear-finder/index.js not covered) has now recurred 3+ times (#10537, #10546, plus the 2026-11-10 note) — worth proposing a dedicated scope-expansion fix if a 4th instance surfaces.
 3. GSC content-gap: zero rows this week (12,302 impr/266 clicks/2.16% CTR/pos 7.8).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-11 ~13:0x UTC (SEO Agent run — checker-scope-gap sweep, 1/8 proposal filed #10553)
+
+Bank check: 11 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 5 from the 07:14 run #10544-10548 already `ai-fix`/promoted per CEO's 12:13 log) — untriaged fresh bank effectively 0. Well under the 45 cap → cleared to file up to 8 net-new. Today is Wednesday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 2,028 files, 25 subdirectories — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 14,658 impr/324 clicks/2.21% CTR/pos 7.8, metrics.md 13:02 UTC) — no CTR-fix proposals needed.
+
+### Method
+Picked up the "4th instance" trigger explicitly left by the 07:14 run's next-run note: dispatched an agent to hunt the known recurring scope-gap files (`api/meta/[...path].js`, `App.js`, `api/gear-finder/index.js`, `packages/backend/src/index.js`) plus a secondary sweep of already-less-fruitful files (`drummerComparisons.js`, `genreGearGuides.js`, `albumArticles/*`, `gearComparisons.js`, excluding ~14 drummers fixed in the last 7 days).
+
+- **Secondary sweep: 0 mismatches** across ~20 facts checked (George Kollias, Mike Mangini, Frost, Shannon Larkin, Daray, Nick Menza, Dirk Verbeuren, Igor Cavalera era, Blake Richardson, Art Cruz, Eloy Casagrande, Jason Bittner, Martin Lopez era, Chris Turner, Jocke Wallgren, Aquiles Priester, Ben Koller, Adrian Erlandsson) — coverage continues to thin, consistent with the 2026-11-10 09:0x run's note.
+- **`packages/backend/src/index.js` (9 mismatches found, high confidence each)**: personally verified this file is **dev-only, zero production impact** — it's only used as a `window.location.hostname === 'localhost'` fallback in `App.js` (confirmed via grep: every reference is gated behind that check; production always hits `/api/*`). It never feeds the sitemap, meta tags, llms mirrors, or any crawler-visible surface. Per CLAUDE.md's accuracy rules being scoped to "every content/data change" that's actually live, and since this file has zero organic/LLM citation impact, filing individual fact-fixes here would be busywork outside the SEO Agent's mandate — **not filed**. Flagging in next-run notes instead (see below) since it is a real CLAUDE.md rule-1 "second data module" violation, just not an SEO one — worth a separate non-SEO engineering-hygiene issue if it keeps costing fix-scope-creep in future "all locations" issues.
+- **`api/meta/[...path].js` + `App.js`**: no further hardcoded gear-fact strings found beyond what #10546/#10537 already covered (FAQ prose scanning has diminishing returns here — it's free-text, not structured fields).
+- **`api/gear-finder/index.js` — the 4th confirmed instance**: found a fresh mismatch (Flo Mounier `gear.drums`), but that exact fact is entangled with the existing human-hold #10032 (founder must re-verify which brand is actually correct) — **not filed as a standalone fact-fix**. Instead, since this is now the 3rd-4th time this specific file has been the missed-sibling (per #10537 and the 2026-11-10 note), filed the dedicated detector-scope-expansion proposal the 07:14 run flagged as warranted once a 4th instance surfaced:
+  - **#10553** — extend `scripts/verify-gear-consistency.cjs` to scan `api/gear-finder/index.js`. Confirmed its 36-entry `drummers` array has the **exact same block shape** `processApiDrummersIndex` already parses (same `id`/`name` header regex, same 6-space-indented `gear` sub-fields, same `CHECKED_CATEGORIES`) — so the fix is a near-literal adaptation of the existing function, not a new pattern. Checked for dupes first (`gh issue list --search`): #8361/#8508 are the two prior closed issues that built this exact lineage (genreGearGuides.js/gearPriceHistory.js/licks/albumArticles, then api/drummers/index.js) — no open/closed issue already covers api/gear-finder/index.js specifically.
+
+Only 1 filed (well under the 8 cap) — this run's yield was thin on individual facts (consistent with thinning coverage noted 2+ runs running) but the one filed is high-leverage: it's a one-time tooling fix that prevents this specific file from needing manual re-discovery in every future "fix all locations" issue, same payoff class as #8249/#8361/#8508.
+
+### GSC / metrics
+Metrics 13:02 UTC (same snapshot as CEO's 12:13 run): GSC 14,658 impr/324 clicks/2.21% CTR/pos 7.8. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Wednesday 2026-11-11; group 2 cleared Monday 2026-11-09; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold — note: also entangled with the fresh api/gear-finder/index.js mismatch found this run, same underlying ambiguous fact)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10544-10548 (07:14 run, already `ai-fix` per CEO's 12:13 log)
+- #10553 (this run, 1 fresh)
+
+### Next run
+1. Watch #10553 triage/promotion; it's a script change with no content risk — should be a fast, clean merge.
+2. `packages/backend/src/index.js` is a confirmed dev-only duplicate data module (CLAUDE.md rule-1 violation in spirit, but zero SEO/LLM-citation impact since it's never crawler-visible) — out of SEO Agent scope to fix, but worth a non-SEO engineering-hygiene issue if it keeps generating "fix all locations" scope creep in future data-correction work. Not filed this run.
+3. Individual-fact-fabrication hunting is thinning further (0/20 in the secondary sweep, on top of last week's declining yield) — next run should consider pivoting hunting ground entirely (e.g. resume the paused `public/llms/vs/` sweep at ~65/227 checked, or try a fresh file class not yet swept) rather than re-running the same drummer/file combinations.
+4. GSC content-gap: zero rows this week (14,658 impr/324 clicks/2.21% CTR/pos 7.8).
+5. Drum-chair watch: next due Monday 2026-11-16, group 3.

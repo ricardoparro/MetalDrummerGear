@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-10 19:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-11 00:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,84 +8,84 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 494 |
-| Sessions | 568 |
-| Page views | 794 |
-| Engagement rate | 64.61% |
+| Active users | 458 |
+| Sessions | 527 |
+| Page views | 738 |
+| Engagement rate | 63.57% |
 | Avg session (s) | 104 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 30 | 5 |
-| / | 26 | 21 |
-| /drummers | 23 | 5 |
-| /articles/john-otto-drum-setup | 22 | 19 |
-| /drummer/bill-ward | 15 | 13 |
+| / | 24 | 20 |
+| /drummers | 18 | 4 |
+| /articles/john-otto-drum-setup | 17 | 15 |
+| /drummer/bill-ward | 14 | 12 |
 | /articles/black-sabbath-drum-setup | 13 | 9 |
-| /drummer/eloy-casagrande | 13 | 10 |
-| /drummer/matt-greiner | 13 | 11 |
+| /drummer/eloy-casagrande | 12 | 9 |
 | /drummer/mario-duplantier | 11 | 9 |
-| /articles/paranoid-drum-setup | 10 | 9 |
+| /drummer/matt-greiner | 10 | 8 |
+| /articles/whats-in-lars-ulrichs-kit | 9 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 449 | 382 |
-| Direct | 102 | 95 |
-| Unassigned | 13 | 13 |
+| Organic Search | 413 | 353 |
+| Direct | 94 | 86 |
+| Unassigned | 20 | 20 |
 | Referral | 12 | 12 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 199 | 165 |
-| United Kingdom | 38 | 33 |
+| United States | 188 | 154 |
+| United Kingdom | 36 | 32 |
 | Portugal | 30 | 29 |
-| Singapore | 27 | 27 |
-| Sweden | 22 | 18 |
-| Canada | 21 | 17 |
-| Germany | 18 | 18 |
-| Australia | 17 | 16 |
-| Netherlands | 13 | 12 |
-| Brazil | 12 | 10 |
+| Singapore | 25 | 25 |
+| Sweden | 19 | 16 |
+| Germany | 17 | 17 |
+| Canada | 16 | 13 |
+| Australia | 14 | 14 |
+| Brazil | 11 | 9 |
+| Finland | 11 | 10 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 15,047 |
-| Clicks | 318 |
-| CTR | 2.11% |
-| Avg position | 8.0 |
+| Impressions | 12,302 |
+| Clicks | 266 |
+| CTR | 2.16% |
+| Avg position | 7.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| john otto cymbal setup | 11 | 3 | 27.27% | 3.3 |
-| bill ward cymbals | 12 | 2 | 16.67% | 7.8 |
+| bill ward cymbals | 11 | 2 | 18.18% | 7.8 |
 | joey jordison self titled drum kit | 4 | 2 | 50.00% | 1.5 |
-| bill ward drum kit | 38 | 1 | 2.63% | 5.3 |
+| john otto cymbal setup | 7 | 2 | 28.57% | 3.6 |
+| bill ward drum kit | 30 | 1 | 3.33% | 5.1 |
 | bill ward drum kit 1970 | 6 | 1 | 16.67% | 3.5 |
 | bill ward drum set | 11 | 1 | 9.09% | 5.7 |
 | bill ward drum setup | 8 | 1 | 12.50% | 5.5 |
 | chris adler drum setup | 6 | 1 | 16.67% | 5.8 |
 | death metal drum kit | 7 | 1 | 14.29% | 3.4 |
-| does mario duplantier use triggers | 12 | 1 | 8.33% | 3.4 |
+| does mario duplantier use triggers | 11 | 1 | 9.09% | 3.4 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,977 | 106 | 2.13% | 7.8 |
-| gbr | 846 | 20 | 2.36% | 8.2 |
-| deu | 490 | 18 | 3.67% | 6.9 |
-| aus | 539 | 14 | 2.60% | 6.7 |
-| swe | 291 | 14 | 4.81% | 6.6 |
-| can | 671 | 12 | 1.79% | 7.3 |
-| pol | 222 | 10 | 4.50% | 6.2 |
-| fin | 241 | 9 | 3.73% | 6.9 |
-| nld | 237 | 9 | 3.80% | 7.2 |
-| bra | 1,318 | 7 | 0.53% | 11.1 |
+| usa | 4,171 | 87 | 2.09% | 7.8 |
+| gbr | 720 | 19 | 2.64% | 8.0 |
+| deu | 406 | 15 | 3.69% | 6.8 |
+| aus | 441 | 12 | 2.72% | 6.6 |
+| swe | 243 | 12 | 4.94% | 6.7 |
+| can | 560 | 9 | 1.61% | 7.3 |
+| fin | 211 | 9 | 4.27% | 6.8 |
+| nld | 192 | 7 | 3.65% | 7.1 |
+| pol | 179 | 7 | 3.91% | 6.3 |
+| jpn | 117 | 6 | 5.13% | 7.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

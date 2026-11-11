@@ -860,6 +860,7 @@ function processGenreGearGuides(groundTruth, globalBrands, mismatches) {
 // approach than the other processors use) and are deliberately left for a
 // follow-up once this flat-field coverage is live and proven.
 const API_DRUMMERS_FILE = path.join(ROOT, 'api/drummers/index.js');
+const API_GEAR_FINDER_FILE = path.join(ROOT, 'api/gear-finder/index.js');
 
 function slugifyDrummerName(name) {
   return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
@@ -910,6 +911,29 @@ function processApiDrummersIndex(groundTruth, globalBrands, mismatches) {
   }
 }
 
+function processApiGearFinder(groundTruth, globalBrands, mismatches) {
+  const relFile = 'api/gear-finder/index.js';
+  const content = fs.readFileSync(API_GEAR_FINDER_FILE, 'utf8');
+  const lineOf = makeLineFinder(content);
+
+  const blocks = getTopLevelBlocks(content, /\n {2}\{\s*\n {4}id:\s*\d+,\s*\n {4}name:\s*'([^']+)'/g)
+    .map(({ start, end }) => {
+      const nameMatch = /name:\s*'([^']+)'/.exec(content.slice(start, Math.min(end, start + 200)));
+      return { start, end, slug: nameMatch && slugifyDrummerName(nameMatch[1]) };
+    })
+    .filter((b) => b.slug && groundTruth[b.slug]);
+
+  for (const { start, end, slug } of blocks) {
+    const block = content.slice(start, end);
+    for (const cat of CHECKED_CATEGORIES) {
+      const re = new RegExp(`\\n {6}${cat}:\\s*'((?:[^'\\\\]|\\\\.)*)'`, 'd');
+      const mm = re.exec(block);
+      if (!mm) continue;
+      checkAndRecord(mismatches, mm[1], slug, cat, relFile, lineOf(start + mm.indices[1][0]), groundTruth, globalBrands);
+    }
+  }
+}
+
 async function main() {
   const { groundTruth, globalBrands } = await loadGroundTruth();
   const mismatches = [];
@@ -923,6 +947,7 @@ async function main() {
   processLicks(groundTruth, globalBrands, mismatches);
   processAlbumArticles(groundTruth, globalBrands, mismatches);
   processApiDrummersIndex(groundTruth, globalBrands, mismatches);
+  processApiGearFinder(groundTruth, globalBrands, mismatches);
 
   for (const m of mismatches) {
     console.log(

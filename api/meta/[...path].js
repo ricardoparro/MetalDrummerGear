@@ -5286,7 +5286,7 @@ export function getMetaForPath(pathname) {
           },
           {
             question: 'Which metal drummers use Tama or Pearl kits?',
-            answer: "Tama is favoured by drummers like Nicko McBrain (Iron Maiden) and Yoshiki (X Japan). Pearl kits are used by Gene Hoglan and Chad Smith. DW is popular across thrash and death metal.",
+            answer: "Tama is favoured by drummers like Lars Ulrich (Metallica) and Dave Lombardo (Slayer). Pearl kits are used by Gene Hoglan. DW is popular across thrash and death metal.",
           },
           {
             question: 'What should I look for in a metal drum kit?',

@@ -634,7 +634,7 @@ Converge's Ben Koller vs Mayhem's Hellhammer. Raw, unpredictable hardcore intens
 
 **Technique:** Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that is the polar opposite of Koller's deliberately loose feel.
 
-**Gear:** Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — both drummers share a Vic Firth 5B stick preference despite their opposite genres.
+**Gear:** Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal and Vic Firth American Classic 5B sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — both drummers share a Vic Firth 5B stick preference despite their opposite genres.
 
 **Influence:** Koller is widely regarded as one of the most respected drummers in extreme and hardcore music, and Converge's "Jane Doe" is routinely cited as a genre-defining mathcore record that reshaped how hardcore and metal drummers approach unpredictability and dynamics. Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him the genre's most in-demand extreme drummer for both raw and symphonic contexts.
 
@@ -644,7 +644,7 @@ Converge's Ben Koller vs Mayhem's Hellhammer. Raw, unpredictable hardcore intens
 A: Both are considered elite in extreme drumming, but in different contexts. Hellhammer's cold, relentless blast beats on Mayhem's "De Mysteriis Dom Sathanas" set the benchmark for second-wave black metal speed and precision. Ben Koller's speed is deployed unpredictably within Converge's constantly shifting mathcore structures, making his intensity feel more chaotic and less sustained than Hellhammer's machine-like consistency.
 
 **Q: What gear do Ben Koller and Hellhammer use?**
-A: Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Both use Vic Firth American Classic 5B sticks.
+A: Ben Koller plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Custom & A Custom Series cymbals, driven by a Tama Iron Cobra Double Pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Both use Vic Firth American Classic 5B sticks.
 
 **Q: What bands are Ben Koller and Hellhammer known for?**
 A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Hellhammer has drummed for Mayhem since 1988 and ran a parallel career with Dimmu Borgir from 1999 to 2013, along with co-founding Arcturus.
@@ -1201,7 +1201,7 @@ Mastodon's Brann Dailor vs Mayhem's Hellhammer. Melodic, songful progressive slu
 
 **Technique:** Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex, constantly moving patterns while simultaneously handling lead and co-lead vocal duties on many songs. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that prioritizes icy atmosphere over melodic expression.
 
-**Gear:** Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — Dailor's Meinl Byzance Series array is chosen for warmth and melodic sustain, while Hellhammer's Paiste RUDE setup is built for cutting, high-speed articulation.
+**Gear:** Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — Dailor's Meinl Byzance Series array is chosen for warmth and melodic sustain, while Hellhammer's Paiste RUDE setup is built for cutting, high-speed articulation.
 
 **Influence:** Dailor helped define the progressive sludge sound and proved a metal drummer could also front a band as co-vocalist, influencing a generation of prog-sludge acts and earning Mastodon a Grammy Award for Best Metal Performance in 2018. Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him the genre's most in-demand extreme drummer for both raw and symphonic contexts.
 
@@ -1211,7 +1211,7 @@ Mastodon's Brann Dailor vs Mayhem's Hellhammer. Melodic, songful progressive slu
 A: Brann Dailor drives Mastodon's progressive sludge with flowing, syncopated fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs. Hellhammer built his reputation on cold, relentless blast beats delivered with one-foot precision, defining Mayhem's second-wave black metal sound.
 
 **Q: What gear do Brann Dailor and Hellhammer use?**
-A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance Series cymbals, and a Tama Speed Cobra double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare, Paiste RUDE Series cymbals, and an Axis Double Pedal.
+A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance Series cymbals, and a Tama Speed Cobra double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare, Paiste RUDE Series cymbals, and an Axis Double Pedal.
 
 **Q: Does Brann Dailor sing while drumming for Mastodon?**
 A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing lead or co-lead vocals while simultaneously executing Mastodon's complex, flowing drum patterns, a rare combination among metal drummers. Hellhammer does not sing while drumming for Mayhem.
@@ -2143,7 +2143,7 @@ Slipknot/Sepultura's Eloy Casagrande vs Mayhem's Hellhammer. Brazilian dual-bass
 
 **Technique:** Casagrande's São Paulo upbringing brought samba and bossa nova influences into his playing — even at blast-beat velocity his double kick, driven by a Tama Iron Cobra double pedal, breathes with a natural swing rather than mechanically alternating. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds, prioritizing atmosphere and aggression over technical display.
 
-**Gear:** Casagrande plays a Tama Starclassic Bubinga kit with 22"x16" & 24"x14" bass drums, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal and Promark signature sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks.
+**Gear:** Casagrande plays a Tama Starclassic Bubinga kit with 22"x16" & 24"x14" bass drums, a Tama Bell Brass 14x5.5" (BB146) snare, and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal and Promark signature sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks.
 
 **Influence:** Casagrande's Modern Drummer 2024 Readers' Poll #1 ranking validated over a decade of thrash pedigree with Sepultura before he stepped onto one of metal's biggest stages with Slipknot. Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him one of extreme metal's most in-demand drummers.
 
@@ -2153,7 +2153,7 @@ Slipknot/Sepultura's Eloy Casagrande vs Mayhem's Hellhammer. Brazilian dual-bass
 A: Eloy Casagrande (Slipknot, ex-Sepultura) is known for dual-bass-drum power with a Brazilian samba-informed swing, earning Modern Drummer's 2024 #1 metal drummer ranking. Hellhammer (Mayhem, Dimmu Borgir) is known for cold, relentless one-foot blast beats that defined second-wave black metal's speed vocabulary starting with "De Mysteriis Dom Sathanas" (1994).
 
 **Q: What gear do Eloy Casagrande and Hellhammer use?**
-A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with 22"x16" & 24"x14" bass drums and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
+A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with 22"x16" & 24"x14" bass drums and Paiste RUDE/2002/PST X cymbals, driven by a Tama Iron Cobra double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
 
 **Q: Does Hellhammer play barefoot?**
 A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds. Eloy Casagrande plays in standard footwear.
@@ -2710,7 +2710,7 @@ Porcupine Tree/King Crimson's Gavin Harrison vs Mayhem's Hellhammer. Meticulous 
 
 **Technique:** Harrison specializes in linear drumming and polyrhythmic layering, using deep musical instinct and meticulous ghost-note weaving through odd time signatures to make technically impossible grooves feel natural, treating space and cymbal decay as compositional tools rather than chasing raw volume. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that is the polar opposite of Harrison's controlled, dry restraint.
 
-**Gear:** Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature 14x5.25" brass snare, and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, paired with his Vic Firth Gavin Harrison Signature stick — a setup built for clarity and articulation. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — a near-total sonic opposite of Harrison's dry, restrained rig, built instead for raw cutting power at extreme tempos.
+**Gear:** Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature 14x5.25" brass snare, and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, paired with his Vic Firth Gavin Harrison Signature stick — a setup built for clarity and articulation. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — a near-total sonic opposite of Harrison's dry, restrained rig, built instead for raw cutting power at extreme tempos.
 
 **Influence:** Harrison's Zildjian K Custom Special Dry series changed how a generation of progressive drummers think about cymbal decay and controlled sound, and his multiple Modern Drummer awards cement him as one of prog's most studied players. Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him the genre's most in-demand extreme drummer for both raw and symphonic contexts.
 
@@ -2720,7 +2720,7 @@ Porcupine Tree/King Crimson's Gavin Harrison vs Mayhem's Hellhammer. Meticulous 
 A: Gavin Harrison (Porcupine Tree, King Crimson) is known for meticulous polyrhythmic layering, ghost notes, and dry, controlled precision built for progressive rock's subtlety. Hellhammer (Mayhem, Dimmu Borgir) is known for cold, relentless blast beats delivered with icy one-foot precision, defining second-wave black metal's speed vocabulary. Harrison represents composed restraint; Hellhammer represents raw, atmosphere-first extremity.
 
 **Q: What gear do Gavin Harrison and Hellhammer use?**
-A: Gavin Harrison plays a Sonor SQ2 kit with his signature Sonor 14x5.25" brass snare and Zildjian K Custom Special Dry cymbals. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
+A: Gavin Harrison plays a Sonor SQ2 kit with his signature Sonor 14x5.25" brass snare and Zildjian K Custom Special Dry cymbals. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
 
 **Q: What bands are Gavin Harrison and Hellhammer known for?**
 A: Gavin Harrison is best known for Porcupine Tree (since 2002) and King Crimson (since 2008), and also drums for The Pineapple Thief. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside co-founding Arcturus.
@@ -3147,7 +3147,7 @@ Mayhem's Hellhammer vs Black Sabbath's Bill Ward — extreme black metal blast-b
 
 **Technique:** Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds. Ward's technique came from jazz — a loose, open-handed feel inherited from Gene Krupa and Buddy Rich that prioritized dynamics and space over raw velocity, and he never reached for a double pedal in his career, generating Sabbath's early heaviness entirely through single-pedal technique and touch.
 
-**Gear:** Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — an evolution from the developing-endorsement Sonor kit and Sonor 14"x5.5" steel snare he used on "De Mysteriis Dom Sathanas." Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal.
+**Gear:** Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — an evolution from the developing-endorsement Sonor kit and Sonor 14"x5.5" steel snare he used on "De Mysteriis Dom Sathanas." Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal.
 
 **Influence:** Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him the genre's most in-demand extreme drummer for both raw and symphonic contexts. Ward is widely credited as one of the true originators of heavy metal drumming — every extreme metal drummer who followed, including Hellhammer, built on the swinging, dynamic rhythmic vocabulary he created with Sabbath, earning him a 2006 Rock and Roll Hall of Fame induction.
 
@@ -3160,7 +3160,7 @@ A: Hellhammer has driven Mayhem's black metal since 1988, delivering the genre-d
 A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside stints in Arcturus and Shining. Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1980, returned briefly in 1983-1984 and again from 1997-1998, and rejoined once more from 2011 to 2012.
 
 **Q: What gear do Hellhammer and Bill Ward use?**
-A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal throughout his career.
+A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal throughout his career.
 
 **Q: Did Bill Ward ever use a double bass pedal?**
 A: No. Bill Ward built Black Sabbath's foundational heaviness entirely with a single Ludwig Speed King pedal, relying on touch, tuning, and jazz-informed technique rather than extra hardware — a contrast to Hellhammer, who has used an Axis Double Pedal throughout his career with Mayhem and Dimmu Borgir.
@@ -3300,7 +3300,7 @@ Mayhem's Hellhammer vs Children of Bodom's Jaska Raatikainen — two Nordic extr
 
 **Technique:** Hellhammer's technique is built around cold, relentless blast beats delivered with icy one-foot precision that became the template for second-wave black metal drumming — speed in service of atmosphere and aggression rather than technical display; he also plays barefoot for direct tactile feedback. Raatikainen balances death metal velocity with melodic awareness — rapid double bass volleys and blast beats that lock tightly with Children of Bodom's neoclassical riffing, with fills composed to support rather than overwhelm Laiho's guitar and Janne Wirman's keyboard interplay.
 
-**Gear:** Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks.
+**Gear:** Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks.
 
 **Influence:** Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him one of extreme metal's most in-demand drummers. Raatikainen helped build Finland's melodic death metal scene into a global commercial force — Children of Bodom sold over two million albums worldwide, and his playing on "Hatebreeder" and "Follow the Reaper" influenced a generation of melodic death and metalcore drummers.
 
@@ -3313,7 +3313,7 @@ A: Hellhammer has anchored Mayhem's black metal since 1988, delivering genre-def
 A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside Arcturus and Shining. Jaska Raatikainen was the sole drummer of Finnish melodic death metal band Children of Bodom from 1993 until the band's dissolution in 2019.
 
 **Q: What gear do Hellhammer and Jaska Raatikainen use?**
-A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
+A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
 
 [hellhammer profile](https://metalforge.io/drummer/hellhammer)
 [jaska-raatikainen profile](https://metalforge.io/drummer/jaska-raatikainen)
@@ -3330,7 +3330,7 @@ Mayhem's Hellhammer vs Limp Bizkit's John Otto. Cold, relentless second-wave bla
 
 **Technique:** Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket — a groove-first, song-serving discipline that has nothing in common with Hellhammer's machine-like speed.
 
-**Gear:** Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals — the two run entirely different cymbal setups despite operating at opposite ends of metal's tempo and intensity spectrum.
+**Gear:** Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar Professional Series pedals — the two run entirely different cymbal setups despite operating at opposite ends of metal's tempo and intensity spectrum.
 
 **Influence:** Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him the genre's most in-demand extreme drummer for both raw and symphonic contexts. Otto's jazz-meets-hip-hop grooves gave Limp Bizkit's sound instant recognizability, helping drive one of the best-selling records of the nu-metal era in "Chocolate Starfish and the Hot Dog Flavored Water."
 
@@ -3340,7 +3340,7 @@ Mayhem's Hellhammer vs Limp Bizkit's John Otto. Cold, relentless second-wave bla
 A: Hellhammer (Mayhem, Dimmu Borgir) is known for cold, relentless blast beats delivered with icy one-foot precision, defining second-wave black metal's speed vocabulary. John Otto (Limp Bizkit) is known for disciplined, jazz-and-funk-informed grooves built around a tight single-pedal pocket. Hellhammer represents extreme metal speed; Otto represents nu-metal groove and restraint.
 
 **Q: What gear do Hellhammer and John Otto use?**
-A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar Professional Series pedals.
+A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar Professional Series pedals.
 
 **Q: What bands are Hellhammer and John Otto known for?**
 A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside co-founding Arcturus. John Otto has been Limp Bizkit's drummer and founding member since 1994.
@@ -3363,7 +3363,7 @@ Mayhem's Hellhammer vs Motörhead/Scorpions' Mikkey Dee — cold Norwegian black
 
 **Technique:** Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosphere and aggression over technical display, and he plays barefoot for direct tactile feedback at extreme tempos. Dee's technique blends jazz-trained precision from his King Diamond years with pure rock power — a single massive 18"x22" bass drum rather than a compact double-kick setup delivers the chest-thumping low end that defined Motörhead's live sound, with explosive drum solos and a heavy backbeat built to cut through Lemmy's legendary stage volume.
 
-**Gear:** Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Mikkey Dee plays a Sonor SQ2 kit built around a single 18"x22" bass drum with a Sonor Mikkey Dee Signature 14"x7.25" Birch snare, and Paiste Signature Series cymbals (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China), driven by a DW 5000 Series double pedal and Wincent Mikkey Dee Signature sticks.
+**Gear:** Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Mikkey Dee plays a Sonor SQ2 kit built around a single 18"x22" bass drum with a Sonor Mikkey Dee Signature 14"x7.25" Birch snare, and Paiste Signature Series cymbals (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China), driven by a DW 5000 Series double pedal and Wincent Mikkey Dee Signature sticks.
 
 **Influence:** Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him one of extreme metal's most in-demand drummers. Dee's 23-year run with Motörhead — Lemmy Kilmister once called him "the best drummer I ever played with" — cemented his status as one of hard rock's most powerful and durable players, a reputation he has carried into Scorpions since 2016.
 
@@ -3376,7 +3376,7 @@ A: Hellhammer has anchored Mayhem's black metal since 1988, delivering genre-def
 A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013. Mikkey Dee played with King Diamond in the 1980s, drummed for Motörhead from 1992 to 2015, and has been Scorpions' drummer since 2016.
 
 **Q: What gear do Hellhammer and Mikkey Dee use?**
-A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Mikkey Dee plays Sonor drums built around a single 18"x22" bass drum, with a Sonor Mikkey Dee Signature snare and Paiste Signature Series cymbals.
+A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Mikkey Dee plays Sonor drums built around a single 18"x22" bass drum, with a Sonor Mikkey Dee Signature snare and Paiste Signature Series cymbals.
 
 **Q: Why does Mikkey Dee use a single 18"x22" bass drum instead of double bass?**
 A: Mikkey Dee prioritizes the massive, chest-thumping low end a large single kick provides over the speed of a compact double-bass setup, even though he has used a double pedal on occasion — the resonance and power of one large drum suited Motörhead's thunderous live sound better than two smaller ones.
@@ -4671,7 +4671,7 @@ Gojira's Mario Duplantier vs Mayhem's Hellhammer. Organic, dual-bass-drum progre
 
 **Technique:** Duplantier forgoes a double pedal in favor of dual bass drums for a more organic feel, layering tribal, almost ritualistic polyrhythms beneath Gojira's environmentally-themed death metal. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds.
 
-**Gear:** Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks.
+**Gear:** Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks.
 
 **Influence:** Duplantier pioneered the "environmental metal" style that made Gojira one of the most critically acclaimed progressive death metal bands of the 21st century, earning multiple Grammy nominations. Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him the genre's most in-demand extreme drummer for both raw and symphonic contexts.
 
@@ -4681,7 +4681,7 @@ Gojira's Mario Duplantier vs Mayhem's Hellhammer. Organic, dual-bass-drum progre
 A: Mario Duplantier uses dual bass drums instead of a double pedal to give Gojira's progressive death metal a more organic, tribal feel. Hellhammer built his reputation on cold, relentless blast beats delivered with one-foot precision, defining Mayhem's second-wave black metal sound.
 
 **Q: What gear do Mario Duplantier and Hellhammer use?**
-A: Mario Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. 14x6.5" G-Maple snare, and a Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare, Paiste RUDE Series cymbals, and an Axis Double Pedal.
+A: Mario Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. 14x6.5" G-Maple snare, and a Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare, Paiste RUDE Series cymbals, and an Axis Double Pedal.
 
 **Q: Why does Mario Duplantier use dual bass drums instead of a double pedal?**
 A: Mario Duplantier prefers dual 22"x18" bass drums over a double pedal because it gives Gojira's tribal, progressive death metal rhythms a more organic feel, letting him layer polyrhythms with a different physical touch than a single-kick double-pedal setup allows.
@@ -5007,7 +5007,7 @@ August Burns Red's Matt Greiner vs Mayhem's Hellhammer. Jazz-informed metalcore 
 
 **Technique:** Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed for its own sake. Hellhammer's blast beats are built on cold, relentless one-foot precision that became the template for second-wave black metal drumming, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — speed in service of atmosphere and aggression rather than technical showcase.
 
-**Gear:** Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks.
+**Gear:** Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks.
 
 **Influence:** Greiner earned two Grammy nominations for Best Metal Performance with August Burns Red and has influenced a generation of metalcore drummers through his signature Pearl snare and worldwide drum clinics. Hellhammer defined the sound and speed vocabulary of second-wave black metal, and his three-decade-plus dual career with Mayhem and Dimmu Borgir has made him one of extreme metal's most in-demand drummers for both raw and symphonic contexts.
 
@@ -5017,7 +5017,7 @@ August Burns Red's Matt Greiner vs Mayhem's Hellhammer. Jazz-informed metalcore 
 A: Matt Greiner (August Burns Red) blends jazz-informed dynamics and compositional control into Grammy-nominated metalcore. Hellhammer (Mayhem, Dimmu Borgir) built second-wave black metal's blast-beat speed vocabulary on cold, relentless one-foot precision, starting with "De Mysteriis Dom Sathanas" (1994). Greiner treats extremity as one compositional tool; Hellhammer treats it as the genre's defining atmosphere.
 
 **Q: What gear do Matt Greiner and Hellhammer use?**
-A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, also driven by an Axis Double Pedal.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his Mapex Black Panther 14"x5.5" Maple snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, also driven by an Axis Double Pedal.
 
 **Q: Does Hellhammer play barefoot?**
 A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds.

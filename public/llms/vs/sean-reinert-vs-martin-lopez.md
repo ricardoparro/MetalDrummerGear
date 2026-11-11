@@ -64,4 +64,4 @@ A: Martin Lopez played on Opeth's "My Arms, Your Hearse" (1998), "Still Life" (1
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

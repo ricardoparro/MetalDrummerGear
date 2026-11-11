@@ -67,4 +67,4 @@ A: Matt Greiner has earned two Grammy nominations for Best Metal Performance wit
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

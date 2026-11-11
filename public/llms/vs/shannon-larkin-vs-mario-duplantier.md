@@ -67,4 +67,4 @@ A: No — Shannon Larkin plays Vic Firth American Classic 5B sticks, a standard 
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

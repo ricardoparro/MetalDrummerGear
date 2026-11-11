@@ -67,4 +67,4 @@ A: Dirk Verbeuren uses Meinl Byzance Brilliant & Classics Custom Dark Series (14
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

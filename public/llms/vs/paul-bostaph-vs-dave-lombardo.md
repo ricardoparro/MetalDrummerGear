@@ -67,4 +67,4 @@ A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. G-
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

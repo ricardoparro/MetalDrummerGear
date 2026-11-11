@@ -67,4 +67,4 @@ A: Chris Adler's most celebrated work is on Lamb of God's "Ashes of the Wake" (2
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

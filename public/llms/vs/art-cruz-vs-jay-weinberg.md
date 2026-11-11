@@ -70,4 +70,4 @@ A: No — Jay Weinberg departed Slipknot in November 2023 after nine years as th
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

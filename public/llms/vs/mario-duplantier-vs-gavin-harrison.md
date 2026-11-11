@@ -67,4 +67,4 @@ A: Mario Duplantier co-founded and has drummed for Gojira since 1996. Gavin Harr
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

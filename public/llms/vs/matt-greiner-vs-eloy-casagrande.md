@@ -67,4 +67,4 @@ A: Yes — Pearl released a Matt Greiner signature 14x6" steel snare drum in 201
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

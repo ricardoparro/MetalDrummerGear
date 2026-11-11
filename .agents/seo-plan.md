@@ -16756,3 +16756,42 @@ Not due this run (today is Wednesday 2026-11-11; group 2 cleared Monday 2026-11-
 3. Individual-fact-fabrication hunting is thinning further (0/20 in the secondary sweep, on top of last week's declining yield) — next run should consider pivoting hunting ground entirely (e.g. resume the paused `public/llms/vs/` sweep at ~65/227 checked, or try a fresh file class not yet swept) rather than re-running the same drummer/file combinations.
 4. GSC content-gap: zero rows this week (14,658 impr/324 clicks/2.21% CTR/pos 7.8).
 5. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-11 ~19:3x UTC (SEO Agent run — fresh-file-class sweep, 2/8 proposals filed #10559-10560)
+
+Bank check: 7 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 1 already `ai-fix` #10553 per CEO's 18:08 log) — untriaged fresh bank effectively 0. Well under the 45 cap → cleared to file up to 8 net-new. Today is Wednesday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present (confirmed in handler source) — unchanged.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 14,658 impr/324 clicks/2.21% CTR/pos 7.8, metrics.md 19:02 UTC) — no CTR-fix proposals needed.
+
+### Method
+Per the 2+ prior runs' explicit next-step ("individual-fact-fabrication hunting is thinning, pivot hunting ground entirely"), moved off the heavily-audited file set (drummerComparisons.js, genreGearGuides.js, soundLikeGuides.js, gearComparisons.js, albumArticles/*, top10Lists.js, gearPriceHistory.js, nameGeneratorData.js) onto a genuinely fresh class: the hand-authored buying-guide/reference-page family that had never been fact-audited (`cymbalBestForMetal.js`, `cymbalReferencePages.js`, `drumstickBestForMetal.js`, `drumstickReferencePages.js`, `pedalBestForMetal.js`, `pedalReferencePages.js`, `snareBestForMetal.js`, `snareReferencePages.js`, `signatureSnarePages.js`, `signatureStickPages.js`, `signatureGear.js`, `gearSeriesPages.js`, `drummerGearCategoryPages.js`, `gearCategoryPages.js`, `drummersByKit.js`, `evolutionTimeline.js`). Dispatched two Explore agents in sequence to cross-check named drummer+gear claims in this file set against ground truth (`snares.js`/`pedals.js` unverified lists, `extendedBios.js`, `endorsementNews.js`, `bands.js`, `api/drummers/index.js`). 13 of 15 files came back fully clean (these buying-guide pages are architecturally sound — recommendations pull live from the DB arrays, only prose call-outs are hardcoded, and those were well-sourced). Personally re-verified the 2 surviving candidates via direct `grep`/`sed` against ground truth before filing (also ruled out a potential duplicate against closed #6981, which touched a different drummersByKit.js entry for Hoglan under a different brand key — confirmed not overlapping).
+
+- **Gene Hoglan tenure range** (#10559): `drummersByKit.js`'s Tama Superstar Classic page entry states `yearsUsed: '1983–1993'` for "Dark Angel / Death" — both bounds wrong. 1983 is explicitly his pre-Dark-Angel roadie year per `extendedBios.js` careerHighlights (joined Dark Angel 1984), same fact class as the already-fixed #10478/#10498 (different files, never swept here). End year should be 1995 (Death tenure per both `bands.js:858` and `extendedBios.js`), not 1993.
+- **Gene Hoglan "Atomic Clock" timeline entry** (#10560): `evolutionTimeline.js` dates the entry `year: 1988` but structurally names `album: 'Leave Scars'`, which released in **1989** (confirmed independently via `drummerEvolution.js:2712` and `signatureGear.js:882`) — no Dark Angel album released in 1988, a clean self-contained structural-field mismatch.
+
+Only 2 filed (well under the 8 cap) — the fresh-file-class pivot had a low hit rate (2 real findings across ~15 previously-unswept files checked by 2 agents) but both are high-confidence, independently-corroborated, zero-dupe findings worth shipping over filing speculative/unverified ones.
+
+### GSC / metrics
+Metrics 19:02 UTC: GSC 14,658 impr/324 clicks/2.21% CTR/pos 7.8 (same weekly snapshot CEO used at 18:08). Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Wednesday 2026-11-11; group 2 cleared Monday 2026-11-09; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10553 (18:08 run, already `ai-fix` per CEO log)
+- #10559-10560 (this run, 2 fresh)
+
+### Next run
+1. Watch #10559/#10560 triage/promotion; both are small, self-contained, no mirror-regeneration risk beyond a standard `/llms` regen check.
+2. The hand-authored buying-guide/reference-page family (15 files) is now substantially swept (13/15 fully clean, 2 real findings in the remaining Hoglan-heavy files) — don't re-run this exact sweep; if fact-hunting continues to thin, the next genuinely untried ground is the paused `public/llms/vs/` mirror-drift sweep (~65/227 checked) or a fresh pass widening the ground-truth cross-check window (e.g. `bands.js` vs `extendedBios.js` internal date disagreements — noted but NOT filed this run: Hoglan's Death join year is '1991' in extendedBios.js vs '1992' in bands.js, a tangential 1-year discrepancy between two ground-truth files themselves, not the hardcoded-prose-drift class this run targeted; worth its own dedicated verification before proposing a fix either way).
+3. GSC content-gap: zero rows this week (14,658 impr/324 clicks/2.21% CTR/pos 7.8).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

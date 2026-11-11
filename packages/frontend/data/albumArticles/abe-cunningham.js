@@ -2147,7 +2147,7 @@ export const articles = {
     "drumKit": {
       "title": "Abe's Saturday Night Wrist Era Kit: Tama Starclassic",
       "brand": "Tama",
-      "model": "Tama Starclassic Maple/Birch",
+      "model": "Tama Starclassic",
       "finish": "Custom finish",
       "config": {
         "bassdrums": [
@@ -2161,17 +2161,17 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple/Birch hybrid for warmth with attack"
+        "shells": "Tama Starclassic shells"
       },
-      "description": "For the Saturday Night Wrist sessions, Abe Cunningham continued his longstanding partnership with Tama, using the Starclassic Maple/Birch hybrid kit that reflected his evolving preferences during this era. The maple and birch shell combination provided a balance between warmth and attack that suited the album's wide sonic range — from the dreamy atmospherics of \"Cherry Waves\" to the angular aggression of \"Beware.\"\n\nThe kit's core configuration remained unchanged from the [Around the Fur](/articles/around-the-fur-drum-setup) years: a single 22-inch bass drum, two rack toms (10 and 12 inch), and two floor toms (14 and 16 inch). This consistency reflects Abe's fundamental philosophy — the same minimal, focused setup maintained throughout his career, trusting that good playing on a focused kit beats having more drums to hide behind.\n\nThe sessions for Saturday Night Wrist were spread across multiple studios and involved multiple production teams, which means the drum sound varies somewhat track to track. Terry Date's sessions lean toward the natural, dynamic approach developed over their earlier work together. Bob Ezrin's contributions brought a different sonic sensibility. The result is a record where the drums sound somewhat different depending on where you are in the tracklist — which suits the album's experimental, fragmented character.\n\nThe 22-inch bass drum remains consistent and central throughout. On \"Hole in the Earth,\" it drives the song's urgent groove with focused, punchy hits that lock with Chi Cheng's bass guitar. On \"Cherry Waves,\" it barely registers in the quietest sections before arriving with full authority in the song's climactic moments.\n\nLike all of [Abe's Tama Starclassic kits](/drummer/abe-cunningham), this one was built for the long haul — studio work and extended festival touring.",
+      "description": "For the Saturday Night Wrist sessions, Abe Cunningham continued his longstanding partnership with Tama, using a Starclassic kit that suited the album's wide sonic range — from the dreamy atmospherics of \"Cherry Waves\" to the angular aggression of \"Beware.\"\n\nThe kit's core configuration remained unchanged from the [Around the Fur](/articles/around-the-fur-drum-setup) years: a single 22-inch bass drum, two rack toms (10 and 12 inch), and two floor toms (14 and 16 inch). This consistency reflects Abe's fundamental philosophy — the same minimal, focused setup maintained throughout his career, trusting that good playing on a focused kit beats having more drums to hide behind.\n\nThe sessions for Saturday Night Wrist were spread across multiple studios and involved multiple production teams, which means the drum sound varies somewhat track to track. Terry Date's sessions lean toward the natural, dynamic approach developed over their earlier work together. Bob Ezrin's contributions brought a different sonic sensibility. The result is a record where the drums sound somewhat different depending on where you are in the tracklist — which suits the album's experimental, fragmented character.\n\nThe 22-inch bass drum remains consistent and central throughout. On \"Hole in the Earth,\" it drives the song's urgent groove with focused, punchy hits that lock with Chi Cheng's bass guitar. On \"Cherry Waves,\" it barely registers in the quietest sections before arriving with full authority in the song's climactic moments.\n\nLike all of [Abe's Tama Starclassic kits](/drummer/abe-cunningham), this one was built for the long haul — studio work and extended festival touring.",
       "notes": [
-        "Tama Starclassic Maple/Birch — warmth with focused attack",
+        "Tama Starclassic — warmth with focused attack",
         "Consistent single 22\" bass drum across all sessions",
         "Multiple production teams created some sonic variation across tracks",
         "Same fundamental 4-tom configuration maintained throughout career",
         "Built to handle both studio sessions and major festival touring"
       ],
-      "estimatedValue": "$3,000-5,000 (2006 era Starclassic Maple/Birch shell pack)"
+      "estimatedValue": "$3,000-5,000 (2006 era Starclassic shell pack)"
     },
     "snare": {
       "title": "The Backbone: Steel and Brass in Transition",
@@ -2346,7 +2346,7 @@ export const articles = {
         ],
         "description": "Experimental, fractured sessions.",
         "gear": {
-          "drums": "Tama Starclassic Maple/Birch",
+          "drums": "Tama Starclassic",
           "snare": "Tama steel/brass 14\"x6.5\"",
           "cymbals": "Zildjian A Custom / K Custom",
           "hardware": "Tama Iron Cobra"
@@ -2402,10 +2402,10 @@ export const articles = {
       "title": "Gear From the Saturday Night Wrist Era You Can Buy Today",
       "items": [
         {
-          "item": "Tama Starclassic Maple/Birch",
+          "item": "Tama Starclassic",
           "available": true,
           "priceRange": "$3,000-5,000 (shell pack)",
-          "notes": "Current production; same warm-yet-punchy hybrid character"
+          "notes": "Current production; same warm, punchy character"
         },
         {
           "item": "Tama Iron Cobra Single Pedal",
@@ -2457,7 +2457,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Abe Cunningham use on Saturday Night Wrist?",
-        "answer": "Abe Cunningham recorded Saturday Night Wrist in 2005-2006 using a Tama Starclassic Maple/Birch hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. This consistent configuration, which Abe maintained throughout his career with Deftones, provided the focused, warm tone that suited both the album's heavier sections and its atmospheric, dreamy passages."
+        "answer": "Abe Cunningham recorded Saturday Night Wrist in 2005-2006 using a Tama Starclassic kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. This consistent configuration, which Abe maintained throughout his career with Deftones, provided the focused, warm tone that suited both the album's heavier sections and its atmospheric, dreamy passages."
       },
       {
         "question": "What Deftones album followed the White Pony era?",
@@ -2585,7 +2585,7 @@ export const articles = {
               "name": "What drum kit did Abe Cunningham use on Saturday Night Wrist?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Abe Cunningham recorded Saturday Night Wrist in 2005-2006 using a Tama Starclassic Maple/Birch hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms."
+                "text": "Abe Cunningham recorded Saturday Night Wrist in 2005-2006 using a Tama Starclassic kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms."
               }
             },
             {

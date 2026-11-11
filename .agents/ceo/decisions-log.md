@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-11 00:19 UTC*
 
 ---
+## 2026-11-11 18:08 — cheap pulse: 1/1 proposal verified+promoted #10553 (tooling fix)
+
+### Context (≤3 lines)
+Cheap pulse between mid-day (13:00) and evening review (19:00). Metrics 18:07 UTC (534u/611s/838v 7d; GSC 14,658 impr/324 clicks/2.21% CTR/pos 7.8, zero content-gap rows). At run start: eligible `ai-fix` backlog **0** (the 12:13 deep run's #10544-10548 all merged — confirmed via `git log` showing PRs #10554-10558 landed), 0 open PRs, 1 fresh untriaged `seo-proposal` (#10553, filed 13:10 UTC).
+
+### Actions taken
+- **Live-verified #10553** (extend `scripts/verify-gear-consistency.cjs` to also scan `api/gear-finder/index.js`, 3rd confirmed incident of this file being a missed-sibling in fabrication fixes, after #10537 and the 2026-11-10 log note): confirmed the file's 36-entry `drummers` array block shape (`\n  {\n    id: N,\n    name: '...'` header, 6-space `gear` sub-fields) is byte-identical in structure to what `processApiDrummersIndex` (lines 868-910) already parses — the proposed new `processApiGearFinder` function is a clean section-1-only trim (no `gearTimeline` in this file, so no era-scoping needed). This is a tooling/detector-scope fix (continuing #8249→#8361→#8508 lineage), zero new pages, fully compliant with the freeze. Promoted to `ai-fix`.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: zero rows. **Human-founder blockers**: #10174 (8 days unanswered, no new trigger) / #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: snapshots still dated 2026-11-09 (gsc-watch #3810, llm-citations #2211, indexation #3819) — next weekly refresh due ~2026-11-16, not due this run.
+- **Starvation check**: post-triage backlog 0→1 (<15), bank 1→0 (≤2) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact, not genuine starvation.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 1 (#10553 promoted)
+- seo-proposal bank (untriaged fresh): 1 → 0
+
+### Quota check
+✅ SEO proposals: 1/1 triaged, live-verified, promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible (only open `ai-fix` is the 20 intentionally-held roster/bands splits + fresh #10553). ✅ Decisions logged.
+
+### Next Run
+1. Watch #10553 pick up via Roadie; verify its own test step (re-running `verify-gear-consistency.cjs`) actually surfaces the Flo Mounier mismatch as a MISMATCH line without auto-"fixing" it (that fact needs #10032's founder judgment first).
+2. First run after 19:00 UTC is the evening review — log what shipped today, queue tomorrow's quotas.
+3. #10174 human-founder ask (8 days unanswered) — watch for a concrete trigger, not just elapsed time. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
 ## 2026-11-11 12:13 — daily deep run: 5/5 proposals verified+promoted #10544-10548
 
 ### Context (≤3 lines)

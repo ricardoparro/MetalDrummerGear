@@ -45425,13 +45425,13 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
       title: "Why Doom Metal Crashes Need to Bloom, Not Explode",
       content: `Doom metal's crash demands sit at the opposite end of the spectrum from blast-beat-driven extreme metal. Where a death or black metal crash needs to detonate instantly and get out of the way before the next accent, doom's slow, riff-locked tempos give every crash strike room to fully develop — rewarding dark, complex, low-tuned wash over raw, bright cut. A crash voiced for speed sounds thin and disconnected against doom's tonnage-first grooves.
 
-Brann Dailor of Mastodon anchors the closest working analogue to doom's crushing, atmospheric template with 18" and 19" Meinl Byzance Brilliant Heavy Hammered Crashes, chosen for the slow, complex wash they build across Mastodon's progressive sludge-doom catalog. Danny Carey of Tool pairs Paiste Signature Power Crashes with his Signature-series ride to add explosive accents when Tool's patient, doom-adjacent compositions build toward a climax on records like "Fear Inoculum." Mario Duplantier of Gojira runs 18" and 20" Paiste 602 Crashes for tectonic low-end body on crushing, down-tuned material, while Igor Cavalera of Sepultura plays 18"-19" Paiste RUDE Crashes for a harsher, tribal-adjacent edge that still favors slow decay over bright cut.
+Brann Dailor of Mastodon anchors the closest working analogue to doom's crushing, atmospheric template with 18" and 19" Meinl Byzance Brilliant Heavy Hammered Crashes, chosen for the slow, complex wash they build across Mastodon's progressive sludge-doom catalog. Danny Carey of Tool pairs Paiste Signature Power Crashes with his Signature-series ride to add explosive accents when Tool's patient, doom-adjacent compositions build toward a climax on records like "Fear Inoculum." Mario Duplantier of Gojira layers 18" K Custom Hybrid, 19" A Custom, and 20" K Sweet Zildjian Crashes — the K Custom Hybrid's dark, complex body giving the set real tonal weight even within a brighter progressive death metal attack — while Igor Cavalera of Sepultura plays 18"-19" Paiste RUDE Crashes for a harsher, tribal-adjacent edge that still favors slow decay over bright cut.
 
 This guide breaks down what actually makes a crash work for doom metal — darkness, weight, and sustained wash over instant attack — and recommends specific models across every budget, from a first dark-toned crash to the exact cymbals doom metal's closest working analogues play.`,
       keyPoints: [
         "Doom metal crashes need to bloom into a slow, dark wash rather than detonate and decay instantly",
         "Brann Dailor's Meinl Byzance Brilliant Heavy Hammered Crashes anchor Mastodon's progressive sludge-doom atmosphere",
-        "Danny Carey's Paiste Signature Power Crashes and Mario Duplantier's Paiste 602 Crashes show how weight can vary within doom's dark-crash template",
+        "Danny Carey's Paiste Signature Power Crashes and Mario Duplantier's Zildjian K Custom Hybrid/A Custom/K Sweet Crashes show how weight can vary within doom's dark-crash template",
         "18\"-20\" heavy crashes with slow decay are the doom standard, favoring sustained wash over quick attack"
       ]
     },
@@ -45455,7 +45455,7 @@ This guide breaks down what actually makes a crash work for doom metal — darkn
         {
           name: "Weight for Tonnage",
           icon: "🏋️",
-          description: "Mario Duplantier's 18\"-20\" Paiste 602 Crashes deliver tectonic low-end body that matches Gojira's crushing, down-tuned tonnage — proof that a heavier crash reinforces doom's weight rather than fighting it.",
+          description: "Mario Duplantier's layered 18\" K Custom Hybrid, 19\" A Custom, and 20\" K Sweet Zildjian Crashes deliver the tonal weight that matches Gojira's crushing, down-tuned tonnage — proof that a heavier crash reinforces doom's weight rather than fighting it.",
           recommendation: "18\"-20\" heavy crashes for maximum tonnage and low-end body"
         },
         {
@@ -45467,7 +45467,7 @@ This guide breaks down what actually makes a crash work for doom metal — darkn
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Meinl Byzance, Paiste 602/Signature/RUDE) delivers the dark complexity doom demands. Budget B8 or brass lines are simpler but a genuinely usable starting point for developing the same low-tuned aesthetic.",
+          description: "B20 bronze (Meinl Byzance, Zildjian K Custom, Paiste Signature/RUDE) delivers the dark complexity doom demands. Budget B8 or brass lines are simpler but a genuinely usable starting point for developing the same low-tuned aesthetic.",
           recommendation: "B20 bronze for pro-level darkness and complexity, B8/brass for a real budget entry"
         },
         {
@@ -45559,40 +45559,40 @@ Carey's setup proves that even within doom-adjacent atmosphere, a full-bodied, p
         },
         {
           rank: 3,
-          name: "Paiste 602 Crash",
-          brand: "Paiste",
-          model: "18\" & 20\" 602 Crash",
+          name: "Zildjian K Custom Hybrid Crash",
+          brand: "Zildjian",
+          model: "18\" K Custom Hybrid Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
-          priceRange: "€200-280",
+          priceRange: "€230-280",
           tier: "premium",
-          driveType: "CuSn8 Bronze, Lathed",
-          description: `Mario Duplantier of Gojira runs 18" and 20" Paiste 602 Crashes for tectonic low-end body across Gojira's crushing, down-tuned passages on records like "From Mars to Sirius" and "Magma." The larger 20" size adds weight and sustain that a standard 18" crash can't match.
+          driveType: "B20 Bronze, Dark/Brilliant Hybrid",
+          description: `Mario Duplantier of Gojira layers an 18" K Custom Hybrid Crash alongside a 19" A Custom Crash and 20" K Sweet Crash across Gojira's crushing, down-tuned passages on records like "From Mars to Sirius" and "Magma." The K Custom Hybrid's dark, complex body carries real low-end weight, while the larger 20" K Sweet companion adds sustain that a standard single crash can't match.
 
-For doom-adjacent drummers chasing a heavier, more technical edge, Duplantier's 602 combination bridges traditional dark voicing with progressive death metal's need for note-to-note clarity under heavy distortion.`,
+For doom-adjacent drummers chasing a heavier, more technical edge, Duplantier's layered Zildjian setup bridges traditional dark voicing with progressive death metal's need for note-to-note clarity under heavy distortion.`,
           pros: [
-            "Mario Duplantier's proven Gojira setup — tectonic low-end presence on crushing material",
-            "Larger 20\" option adds weight and sustain beyond standard crash sizes",
-            "Classic 602 lathed construction for complex overtone development",
+            "Mario Duplantier's proven Gojira setup — dark, complex K Custom body within a graduated three-crash layering",
+            "Larger 20\" K Sweet companion adds weight and sustain beyond a standard single crash",
+            "Hybrid K Custom construction for complex overtone development",
             "Versatile across doom, sludge, and progressive death hybrids"
           ],
           cons: [
             "Leans brighter than pure doom purists may want",
-            "Premium Paiste pricing",
-            "20\" size requires a stand rated for heavier cymbals"
+            "Premium Zildjian K Custom pricing",
+            "Full three-crash layering requires more stands and setup space"
           ],
           specs: {
-            size: "18\" & 20\"",
-            alloy: "CuSn8 Bronze",
-            finish: "Traditional Lathed",
+            size: "18\" (paired w/ 19\" & 20\")",
+            alloy: "B20 Bronze",
+            finish: "Hybrid (Dark body, Brilliant top)",
             weight: "Medium-Heavy",
             decay: "Sustained, complex"
           },
           usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "18\" & 20\" 602 Crashes for tectonic, dark-leaning tonnage" }
+            { name: "Mario Duplantier", band: "Gojira", note: "18\" K Custom Hybrid, 19\" A Custom & 20\" K Sweet Crashes for tectonic, dark-leaning tonnage" }
           ],
           verdict: "Best for crushing, technical weight that bridges dark doom voicing with progressive clarity.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/paiste_602_crash_20_duplantier.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_hybrid_crash_18_duplantier.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -45686,7 +45686,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance Brilliant vs Paiste 602 vs Paiste RUDE for Doom Metal",
+      title: "Meinl Byzance Brilliant vs Zildjian K Custom Hybrid vs Paiste RUDE for Doom Metal",
       content: `Dark, slow-decay wash stays the through-line across doom metal's closest working analogues, but weight and voicing split them into distinct camps:
 
 **Meinl Byzance Brilliant Heavy Hammered (Brann Dailor):**
@@ -45694,8 +45694,8 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 - The closest working analogue to doom's crushing, atmospheric founding template
 - Best for straightforward doom, sludge, and progressive-doom hybrids
 
-**Paiste 602 (Mario Duplantier):**
-- Tectonic low-end body at larger 18"-20" sizes
+**Zildjian K Custom Hybrid, A Custom & K Sweet (Mario Duplantier):**
+- Dark, complex K Custom body layered with brighter A Custom and K Sweet companions at 18"-20" sizes
 - More technical, note-clear voicing under heavy distortion
 - Best for crushing, down-tuned progressive death/doom hybrids
 
@@ -45704,7 +45704,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 - Cavalera's raw, unlathed RUDE voicing brings a harsher tribal edge
 - Best for doom hybrids blending climactic dynamics or tribal groove elements
 
-**Our Recommendation:** Start with a Zildjian S Family Dark or Sabian XSR Monarch crash if you're building doom metal technique on a budget. Choose Meinl Byzance Brilliant Heavy Hammered for the classic dark, atmospheric wash, Paiste 602 if your material needs larger, crushing low-end weight, Paiste Signature Power Crash for explosive contrast, or Paiste RUDE for a harsher tribal edge.`,
+**Our Recommendation:** Start with a Zildjian S Family Dark or Sabian XSR Monarch crash if you're building doom metal technique on a budget. Choose Meinl Byzance Brilliant Heavy Hammered for the classic dark, atmospheric wash, Zildjian K Custom Hybrid if your material needs larger, crushing low-end weight, Paiste Signature Power Crash for explosive contrast, or Paiste RUDE for a harsher tribal edge.`,
       comparisonTable: [
         { feature: "Darkness/Atmosphere", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Low-End Weight", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -45729,7 +45729,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
         },
         {
           category: "Best for Crushing, Technical Weight",
-          pedal: "Paiste 602 Crash",
+          pedal: "Zildjian K Custom Hybrid Crash",
           reason: "Mario Duplantier's Gojira setup — tectonic low-end body at larger crash sizes."
         },
         {
@@ -45750,14 +45750,14 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon\'s progressive sludge-doom atmosphere' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Power Crash — Tool\'s climactic, doom-adjacent contrast' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Crash — Gojira\'s tectonic, crushing low-end tonnage' }
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Hybrid Crash — Gojira\'s tectonic, crushing low-end tonnage' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon\'s progressive sludge-doom atmosphere' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Power Crash — Tool\'s climactic, doom-adjacent contrast' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Dark Crash — Gojira\'s tectonic, crushing low-end tonnage' }
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian K Custom Hybrid Crash — Gojira\'s tectonic, crushing low-end tonnage' }
     ],
     relatedComparisons: [],
 
@@ -45773,7 +45773,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       },
       {
         question: "What crash cymbal does Mario Duplantier use?",
-        answer: "Mario Duplantier of Gojira runs 18\" and 20\" Paiste 602 Crashes, delivering tectonic low-end body across Gojira's crushing, down-tuned passages."
+        answer: "Mario Duplantier of Gojira layers an 18\" Zildjian K Custom Hybrid Crash with a 19\" A Custom Crash and 20\" K Sweet Crash, the K Custom Hybrid's dark body delivering real low-end weight across Gojira's crushing, down-tuned passages."
       },
       {
         question: "Why do doom metal drummers favor dark, slow-decay crashes?",
@@ -45781,16 +45781,16 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       },
       {
         question: "What size crash cymbal is best for doom metal?",
-        answer: "18\"-20\" heavy crashes are the doom metal standard. Brann Dailor runs 18\" and 19\" Byzance Brilliant Heavy Hammered Crashes, while Mario Duplantier goes up to 20\" with Paiste 602 for maximum low-end tonnage on crushing, down-tuned material."
+        answer: "18\"-20\" heavy crashes are the doom metal standard. Brann Dailor runs 18\" and 19\" Byzance Brilliant Heavy Hammered Crashes, while Mario Duplantier goes up to a 20\" K Sweet within his layered Zildjian setup for maximum low-end tonnage on crushing, down-tuned material."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal Crash Sound Around Weight, Not Speed",
-      content: `Doom metal's crash philosophy comes down to one core idea: let it bloom. Whether you build around Brann Dailor's dark, atmospheric Meinl Byzance Brilliant Heavy Hammered wash, Mario Duplantier's tectonic Paiste 602 weight, or Danny Carey's explosive Signature Power Crash contrast, the right doom metal crash should sound like it's filling the entire space between riffs, not fighting to escape it.
+      content: `Doom metal's crash philosophy comes down to one core idea: let it bloom. Whether you build around Brann Dailor's dark, atmospheric Meinl Byzance Brilliant Heavy Hammered wash, Mario Duplantier's tectonic Zildjian K Custom Hybrid weight, or Danny Carey's explosive Signature Power Crash contrast, the right doom metal crash should sound like it's filling the entire space between riffs, not fighting to escape it.
 
-Start with one dark, heavy crash in the 18"-19" range, and add a second voicing — whether that's a larger 602 for more weight or a Signature Power Crash for climactic contrast — once you know where your doom leans on the sludge-to-progressive spectrum.
+Start with one dark, heavy crash in the 18"-19" range, and add a second voicing — whether that's a larger K Sweet for more weight or a Signature Power Crash for climactic contrast — once you know where your doom leans on the sludge-to-progressive spectrum.
 
 🤘 **Stay heavy, stay patient.**`
     }

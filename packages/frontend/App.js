@@ -5706,7 +5706,7 @@ const DRUMMER_PAGE_META_OVERRIDES = {
   // title/description only covered "drum kit" phrasing, missing the "drum set" query.
   'mike-portnoy': {
     title: 'Mike Portnoy Drum Set & Kit Gear | MetalForge',
-    description: "What drum set does Mike Portnoy play? Dream Theater co-founder's drum kit: Tama Starclassic Maple/Birch, Tama Melody Master signature snare, Sabian HHX cymbals — complete gear breakdown.",
+    description: "What drum set does Mike Portnoy play? Dream Theater co-founder's drum kit: Tama Starclassic Maple + Starclassic Bubinga \"Dream Monster\", Tama Melody Master signature snare, Sabian HHX cymbals — complete gear breakdown.",
   },
 };
 

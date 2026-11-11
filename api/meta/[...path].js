@@ -372,7 +372,7 @@ const DRUMMER_META_OVERRIDES = {
   'mike-portnoy': {
     title: `Mike Portnoy Drum Set & Kit — Dream Theater Gear | ${SITE_NAME}`,
     description:
-      "What drum set does Mike Portnoy play? The Dream Theater drummer's Tama Starclassic Maple/Birch drum set, Sabian HHX cymbals — full gear breakdown & prices.",
+      "What drum set does Mike Portnoy play? The Dream Theater drummer's Tama Starclassic Maple + Starclassic Bubinga \"Dream Monster\" drum set, Sabian HHX cymbals — full gear breakdown & prices.",
   },
   // Issue #4739: "danny carey drum set" (71 impr, 1.41% CTR, pos 11.3) — extendedBios
   // metaTitle/metaDescription said "Drum Kit" and generic bio copy, never "drum set".

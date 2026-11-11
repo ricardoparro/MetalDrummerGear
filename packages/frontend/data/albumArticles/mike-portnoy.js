@@ -48,7 +48,7 @@ export const articles = {
     "drumKit": {
       "title": "Mike's Tama Starclassic Empire",
       "brand": "Tama",
-      "model": "Tama Starclassic Maple/Birch",
+      "model": "Tama Starclassic Maple + Starclassic Bubinga (\"Dream Monster\")",
       "finish": "Custom Lacquer finishes (varies by tour)",
       "config": {
         "bassdrums": [
@@ -69,11 +69,11 @@ export const articles = {
         "octobans": [
           "Set of 4 Octobans (6\", 8\", 10\", 12\" lengths)"
         ],
-        "shells": "Maple/Birch hybrid shells for balanced attack and warmth"
+        "shells": "Dual kit pairing Maple shells with Bubinga shells (\"Dream Monster\")"
       },
-      "description": "Mike Portnoy's Tama Starclassic kit is one of the most recognizable setups in progressive metal. The current configuration represents decades of refinement, balancing the massive stage presence Dream Theater requires with the ergonomic efficiency needed to play 3+ hour shows.\n\nThe Starclassic Maple/Birch shells offer a unique tonal character: maple's warmth and sustain combined with birch's focused attack and punch. This hybrid construction sits perfectly in the mix during Dream Theater's complex arrangements, where drums need to cut through without overwhelming.\n\nPortnoy's double bass drum setup is legendary. While many modern drummers favor a single bass drum with a double pedal, Mike maintains two 22\" kick drums for visual impact and the slightly different feel of independent drums. The matching 22\" x 18\" shells provide thunderous low end for tracks like \"The Glass Prison\" and \"A Nightmare to Remember.\"\n\nThe extended tom range — from 8\" to 18\" — gives Mike melodic possibilities across a vast pitch spectrum. His elaborate fills often utilize the full range, creating cascading patterns that became a Dream Theater signature. The Octobans add even more melodic reach, allowing for tonal fills impossible on standard kits.\n\nThroughout his years away from Dream Theater, Mike experimented with slightly smaller configurations for The Winery Dogs and Sons of Apollo. The reunion kit marks a return to the massive setups that defined his Dream Theater era, though with refinements learned from playing more compact kits.",
+      "description": "Mike Portnoy's Tama Starclassic kit is one of the most recognizable setups in progressive metal. The current configuration represents decades of refinement, balancing the massive stage presence Dream Theater requires with the ergonomic efficiency needed to play 3+ hour shows.\n\nThe Starclassic Maple + Bubinga \"Dream Monster\" shells offer a unique tonal character: maple's warmth and sustain combined with bubinga's focused attack and punch. This dual-shell construction sits perfectly in the mix during Dream Theater's complex arrangements, where drums need to cut through without overwhelming.\n\nPortnoy's double bass drum setup is legendary. While many modern drummers favor a single bass drum with a double pedal, Mike maintains two 22\" kick drums for visual impact and the slightly different feel of independent drums. The matching 22\" x 18\" shells provide thunderous low end for tracks like \"The Glass Prison\" and \"A Nightmare to Remember.\"\n\nThe extended tom range — from 8\" to 18\" — gives Mike melodic possibilities across a vast pitch spectrum. His elaborate fills often utilize the full range, creating cascading patterns that became a Dream Theater signature. The Octobans add even more melodic reach, allowing for tonal fills impossible on standard kits.\n\nThroughout his years away from Dream Theater, Mike experimented with slightly smaller configurations for The Winery Dogs and Sons of Apollo. The reunion kit marks a return to the massive setups that defined his Dream Theater era, though with refinements learned from playing more compact kits.",
       "notes": [
-        "Maple/Birch hybrid shells balance warmth and attack",
+        "Maple + Bubinga \"Dream Monster\" dual shells balance warmth and attack",
         "True double bass drum setup, not just a double pedal",
         "Extended tom range from 8\" to 18\" for melodic fills",
         "Octobans add high-pitched melodic elements",
@@ -323,7 +323,7 @@ export const articles = {
         ],
         "description": "Return to Dream Theater with evolved approach.",
         "gear": {
-          "drums": "Tama Starclassic Maple/Birch",
+          "drums": "Tama Starclassic Maple + Starclassic Bubinga (\"Dream Monster\")",
           "snare": "Updated Melody Master Signature",
           "cymbals": "Sabian HHX Evolution full setup",
           "hardware": "Power Tower System 2.0"
@@ -378,7 +378,7 @@ export const articles = {
     },
     "buyingGuide": {
       "title": "Getting the Portnoy Sound: A Buyer's Guide",
-      "content": "Recreating Mike Portnoy's exact setup isn't practical for most drummers (or budgets), but you can capture elements of his sound at various price points.\n\n**Budget Approach ($1,500-3,000):**\n- Tama Imperialstar or Superstar kit — Mike's early drums\n- Sabian AAX cymbals — bright, articulate, affordable HHX alternative\n- Iron Cobra 200 pedals — entry-level version of his pedal line\n- Standard Promark 5B sticks\n\n**Mid-Range Approach ($4,000-8,000):**\n- Tama Starclassic Performer — professional quality, more affordable\n- Sabian HHX cymbals — same line Mike uses\n- Iron Cobra 900 Power Glide pedals — professional level\n- Add Octobans for melodic fills\n\n**Professional Approach ($10,000+):**\n- Tama Starclassic Maple/Birch — same shells as Mike\n- Full Sabian HHX Evolution setup\n- Mike Portnoy Signature Snare\n- Power Tower rack system\n- Promark MP signature sticks",
+      "content": "Recreating Mike Portnoy's exact setup isn't practical for most drummers (or budgets), but you can capture elements of his sound at various price points.\n\n**Budget Approach ($1,500-3,000):**\n- Tama Imperialstar or Superstar kit — Mike's early drums\n- Sabian AAX cymbals — bright, articulate, affordable HHX alternative\n- Iron Cobra 200 pedals — entry-level version of his pedal line\n- Standard Promark 5B sticks\n\n**Mid-Range Approach ($4,000-8,000):**\n- Tama Starclassic Performer — professional quality, more affordable\n- Sabian HHX cymbals — same line Mike uses\n- Iron Cobra 900 Power Glide pedals — professional level\n- Add Octobans for melodic fills\n\n**Professional Approach ($10,000+):**\n- Tama Starclassic Maple + Starclassic Bubinga — same shells as Mike\n- Full Sabian HHX Evolution setup\n- Mike Portnoy Signature Snare\n- Power Tower rack system\n- Promark MP signature sticks",
       "budgetTiers": [
         {
           "tier": "Budget",
@@ -436,7 +436,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Mike Portnoy use on the Dream Theater 2025 reunion?",
-        "answer": "Mike Portnoy returned to Dream Theater in 2025 playing a Tama Starclassic Maple and Birch hybrid kit. The massive setup includes dual 22x18 inch bass drums, rack toms at 8, 10, 12, and 13 inches plus a set of Octobans, and floor toms at 14, 16, and 18 inches. The Maple and Birch hybrid shells deliver a combination of warmth and attack that supports his melodic yet powerful playing style."
+        "answer": "Mike Portnoy returned to Dream Theater in 2025 playing a Tama Starclassic Maple + Starclassic Bubinga \"Dream Monster\" dual kit. The massive setup includes dual 22x18 inch bass drums, rack toms at 8, 10, 12, and 13 inches plus a set of Octobans, and floor toms at 14, 16, and 18 inches. The Maple + Bubinga shells deliver a combination of warmth and attack that supports his melodic yet powerful playing style."
       },
       {
         "question": "What cymbals does Mike Portnoy use on the Dream Theater 2025 reunion?",
@@ -444,7 +444,7 @@ export const articles = {
       },
       {
         "question": "How much does Mike Portnoy's Dream Theater 2025 reunion kit cost?",
-        "answer": "A Tama Starclassic Maple and Birch kit in Portnoy's configuration with Octobans runs approximately $12,000 to $18,000. His Tama Mike Portnoy Signature Melody Master Snare adds $600 to $800. A full Sabian HHX cymbal setup comparable to his adds another $3,500 to $6,000. Total estimated cost for the full 2025 reunion rig is in the range of $16,000 to $25,000."
+        "answer": "A Tama Starclassic Maple + Starclassic Bubinga \"Dream Monster\" kit in Portnoy's configuration with Octobans runs approximately $12,000 to $18,000. His Tama Mike Portnoy Signature Melody Master Snare adds $600 to $800. A full Sabian HHX cymbal setup comparable to his adds another $3,500 to $6,000. Total estimated cost for the full 2025 reunion rig is in the range of $16,000 to $25,000."
       }
     ],
     "conclusion": {

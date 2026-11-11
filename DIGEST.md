@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-10 19:08 UTC · Window: last 12h*
+*Generated 2026-11-11 08:14 UTC · Window: last 12h*
 
 ---
 
@@ -8,27 +8,27 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **23** |
-| Open `seo-proposal` issues | 6 |
+| Open `ai-fix` issues | **20** |
+| Open `seo-proposal` issues | 11 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
 | Open PRs | 0 |
-| PRs merged in window | **6** |
-| Issues closed in window | 6 |
+| PRs merged in window | **7** |
+| Issues closed in window | 7 |
 | Commits to `main` in window | 11 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **494** |
-| Sessions | 568 |
-| Page views | 794 |
-| Engagement rate | 64.61% |
-| GSC impressions | 15,047 |
-| GSC clicks | 318 |
-| GSC CTR | 2.11% |
-| GSC avg position | 8.0 |
+| Active users | **505** |
+| Sessions | 582 |
+| Page views | 805 |
+| Engagement rate | 62.37% |
+| GSC impressions | 14,658 |
+| GSC clicks | 324 |
+| GSC CTR | 2.21% |
+| GSC avg position | 7.8 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~3,403 |
-| Est. ad revenue / mo | **~€10.21** |
+| Est. pageviews / mo | ~3,450 |
+| Est. ad revenue / mo | **~€10.35** |
 | Progress to €1000/mo | 1.0% |
-| Pageviews/mo needed for €1000 | ~333,333 (98× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (97× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,58 +65,60 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 13d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 17d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 46d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 12d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 16d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 45d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 52 | 52 | 0 |
-| Verify YouTube Videos | 9 | 4 | 5 |
-| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
-| Check Sitemap Drift | 5 | 2 | 3 |
-| Verify Data Modules | 5 | 2 | 3 |
-| Health Check | 4 | 4 | 0 |
-| Check llms freshness | 4 | 0 | 4 |
-| Perf Budget Gate | 3 | 0 | 3 |
-| Daily Digest | 2 | 1 | 0 |
-| Loop Watchdog | 2 | 2 | 0 |
-| SEO Agent | 2 | 1 | 0 |
-| CEO Agent | 2 | 2 | 0 |
-| Verify API Modules | 2 | 1 | 1 |
-| Roadie Night Fleet | 1 | 0 | 0 |
-| X Agent | 1 | 1 | 0 |
-| Validate URLs | 1 | 0 | 1 |
+| PR Merger | 26 | 26 | 0 |
+| Check Sitemap Drift | 13 | 6 | 7 |
+| Verify Data Modules | 13 | 6 | 7 |
+| Verify YouTube Videos | 13 | 7 | 6 |
+| Check llms freshness | 8 | 0 | 8 |
+| Perf Budget Gate | 7 | 0 | 7 |
+| Check Video SEO | 4 | 0 | 4 |
+| Verify API Modules | 4 | 2 | 2 |
+| Check Vercel Bot Rewrites | 4 | 2 | 2 |
+| Daily Digest | 1 | 0 | 0 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
+| Loop Watchdog | 1 | 1 | 0 |
+| SEO Agent | 1 | 1 | 0 |
+| Prune Proposals | 1 | 1 | 0 |
+| Health Check | 1 | 1 | 0 |
+| CEO Agent | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-11 00:2x (cheap pulse — 4/4 proposals verified+promoted #10531/10533/10534/10535)
 - 2026-11-10 06:12 (cheap pulse, pre-deep-run — 2/2 proposals verified+promoted #10507/10508)
 - 2026-11-10 00:18 (cheap pulse — 5/5 proposals verified+promoted #10497/10498/10502/10503/10504)
-- 2026-11-09 00:21 — overnight pulse: 4/4 proposals verified+promoted #10477-10481, #10460 corrected-close (already resolv
-- 2026-11-09 06:20 (cheap pulse, pre-deep-run — 3/3 proposals verified+promoted #10485-10487)
-- 2026-11-09 12:11 — daily deep run: L1/L2/L3 full close-the-loop, 2/2 proposals verified+promoted #10492-10493, L2 rotati
 - 2026-11-10 12:10 — 4/4 proposals verified+promoted #10517-10520 (scope-gap sibling fixes)
+- 2026-11-10 18:07 — 3/3 proposals verified+promoted #10523-10525 (scope-gap sibling fixes)
+- 2026-11-11 06:12 (cheap pulse, pre-deep-run — 3/3 proposals verified+promoted #10537/10538/10539)
 
-## 📦 Shipped to main (6)
+## 📦 Shipped to main (7)
 
-- #10529 fix: #10520 SEO: Alex Rüdinger soundLikeGuides.js band field stale 'The Faceless', omits current Trivium role
-- #10528 fix: #10519 SEO: Chris Adler still 'Lamb of God' (not ex-) in api/gear-finder/index.js
-- #10527 fix: #10518 SEO: Jay Weinberg still 'Slipknot' (not ex-) in nameGeneratorData.js — scope gap in closed #10065
-- #10526 fix: #10517 SEO: Inferno's Behemoth bio missing verified 1999-2000 tenure gap in packages/backend/src/index.js
-- #10522 fix: #10508 SEO batch: Mike Portnoy kit wood fabricated as 'Tama Starclassic Maple/Birch' in drummerComparisons.js (9 locations, 6 entries) — scope gap in closed #7821/#7836
-- #10521 fix: #10507 SEO: Abe Cunningham snare still 'Maple/Bubinga shell pack' in drummerComparisons.js (6 locations, missed by #10191/#10176) + 4 public/llms mirrors
+- #10552 fix: #10539 SEO: Abe Cunningham 'Saturday Night Wrist' era fabricates kit wood as 'Maple/Birch' (9 locations) — relapse of #10022/#10176/#10524 bug class, contradicts this same file's own sibling era entry
+- #10551 fix: #10538 SEO: Lars Ulrich kit mis-stated as 'Tama Starclassic Maple/Birch' in lars-ulrich-vs-bill-ward comparison — contradicts this same file's own correct template at 3 other entries
+- #10549 fix: #10537 SEO: Mike Portnoy kit wood still fabricated as 'Tama Starclassic Maple/Birch' in LIVE meta tags + gear-finder API + album article (relapse of #7821/#7836/#9310/#10508/#10523)
+- #10543 fix: #10531 SEO batch: Vinnie Paul gear wrongly fabricated as Tama/Sabian across groove-metal guide family in genreGearGuides.js (~50 locations)
+- #10542 fix: #10535 SEO: Nick Augusto Trivium tenure off-by-one '2009' survives in genreGearGuides.js (6 locations) + adjacent Matt Greiner undated snare line
+- #10541 fix: #10534 SEO batch: Ray Luzier snare over-specified as 'Pearl Reference 14x6.5 brass' across nu-metal guide family in genreGearGuides.js (~20 locations)
+- #10540 fix: #10533 SEO: Pete Sandoval fabricated 'Remo Pinstripe/Emperor' drum heads in genreGearGuides.js extreme-metal heads guide (3 locations)
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 174h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2484h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2580h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2757h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3842h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 187h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2497h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2593h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2770h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3855h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

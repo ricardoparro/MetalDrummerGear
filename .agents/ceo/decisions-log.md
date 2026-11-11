@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-11 00:19 UTC*
 
 ---
+## 2026-11-11 12:13 — daily deep run: 5/5 proposals verified+promoted #10544-10548
+
+### Context (≤3 lines)
+First substantive run after 07:00 UTC. Metrics 12:11 UTC (519u/596s/821v 7d; GSC 14,658 impr/324 clicks/2.21% CTR/pos 7.8, zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 5 fresh untriaged `seo-proposal` (#10544-10548, filed 07:13-07:14 UTC) — continuation of the data-fabrication-fix class just shipped (#10549/10551/10552 merged).
+
+### Actions taken
+- **Live-verified all 5 directly** via grep/sed against cited ground truth, zero dupes (`gh issue list --search` per-query):
+  - #10548 Hellhammer: confirmed `grep -c "Heavy Beech snare"` = 20 (10 gear + 10 FAQ fields) in drummerComparisons.js vs ground truth `api/drummers/index.js:1475` (Beech kit shells, distinct Maple snare); confirmed `"Heavy Beech kit"` phrase (33 hits, correctly describes shells) is out of scope and untouched.
+  - #10547 Gene Hoglan: confirmed 10 remaining "Reference Pure Free-Floating/Pure Maple" hits in the 2020-era block of albumArticles/gene-hoglan.js — #10074 only fixed the 2016 block; the established hedge ("model not independently verified") is already present elsewhere in the same file, confirming the pattern to apply.
+  - #10546 Nicko McBrain: confirmed `api/meta/[...path].js:5289` (live-served FAQ meta) states Tama favours him; ground truth kitOverview is unambiguous British Drum Co., no Tama anywhere in his profile. Same bug class as #10537 (Mike Portnoy live-meta fabrication, just promoted) — files outside `packages/frontend/data/` keep resurfacing this class.
+  - #10545 Matt Greiner: confirmed via `sed -n '4675,4686p'` — `gear` field (line 4679) correctly states Mapex, `influence` field (line 4683) still says "signature Pearl snare," 4 lines apart in the same entry.
+  - #10544 Mario Duplantier: confirmed genreGearGuides.js doom-metal guide (~45428) states Paiste 602 Crashes; sibling metal-crash guide (~42355) and ground truth kitOverview (`api/drummers/index.js:1176`) both confirm Zildjian K Custom Hybrid/A Custom/K Sweet — within-file self-contradiction.
+  - All 5 promoted to `ai-fix` with verification comments. All are existing-page data-rot fixes, compliant with the new-page freeze.
+- **GSC content-gap**: zero rows (metrics.md: "no significant gaps detected").
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 now 8 days unanswered (0 comments, `updatedAt` unchanged) — no new concrete trigger, not re-escalated. #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 (genuine source conflicts, need founder judgment) unchanged.
+- **L1/L2/L3**: snapshots dated 2026-11-09 (gsc-watch #3810, llm-citations #2211, indexation #3819), fully processed in that day's deep run; next weekly refresh due ~2026-11-16 — not due this run.
+- **Starvation check**: post-triage backlog 0→5 (<15), bank 5→0 (≤2, excl. held/umbrella) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady, not real starvation).
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 5 just-promoted (fresh). The 20 `hold`-labeled roster/bands splits remain intentionally paused under the new-page freeze.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 5 (#10544-10548 promoted)
+- seo-proposal bank (untriaged fresh): 5 → 0
+
+### Quota check
+✅ SEO proposals: 5/5 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-09, not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10544-10548 pick up via Roadie; #10546 is the highest-value fix (reaches live-served meta/FAQ schema, not just static mirrors).
+2. First run after 13:00 UTC is the mid-day pulse — check Roadie progress on #10544-10548.
+3. #10174 human-founder ask now 8 days old — watch for a concrete trigger to act (not just elapsed time). #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
 ## 2026-11-11 00:2x (cheap pulse — 4/4 proposals verified+promoted #10531/10533/10534/10535)
 
 ### Context (≤3 lines)

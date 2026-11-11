@@ -16634,3 +16634,43 @@ Not due this run (group 2 already cleared Monday 2026-11-09; next due Monday 202
 3. 24h-window commit-diff yield was lower (3 actionable / 5 checked) than the 14-day window's (4/9) — both windows are thinning as coverage gets denser; next run, consider widening to 48-72h or pivoting to the paused `public/llms/vs/` sweep (~62-65/227 checked).
 4. GSC content-gap: zero rows this week (15,047 impr/318 clicks/2.11% CTR/pos 8.0).
 5. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-11 01:0x (SEO Agent run — live meta-tag + album-article wood-fact sweep, 3/8 proposals filed #10537-10539)
+
+Bank check: 10 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 4 from the 19:1x run #10531/10533/10534/10535, all already `ai-fix` per CEO's 00:2x log) — untriaged fresh bank effectively 0. Well under the 45 cap → cleared to file up to 8 net-new. Today is Wednesday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged.
+- `/llms/*.md` endpoints: 32 top-level files + 25 subdirectories, 2,028 total files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 12,302 impr/266 clicks/2.16% CTR/pos 7.8, metrics.md 01:02 UTC) — no CTR-fix proposals needed.
+
+### Method
+Started from the Mike Portnoy "Maple/Birch" thin-page HTML comment left by #10523's fix (`public/llms/gear-series/tama-starclassic-maple-birch.md`, flagging a <2-verified-drummer omit/merge decision) and pulled the thread: confirmed the live `drummersByKit.js` route data is actually clean for this specific series (`gearIndex.js` has no "Starclassic Maple/Birch" Tama key at all — already orphaned/non-generating), but while investigating found the underlying Portnoy wood fabrication is **still live outside every file the 5 prior closed fixes (#7821/#7836/#9310/#10508/#10523) touched**. Dispatched one agent to do an exhaustive repo-wide "Maple/Birch" ownership sweep (distinguishing the legitimate Chris Turner fact from any mis-attributed drummer), then personally re-verified every surviving candidate via direct `grep`/`sed`/`git show` before filing — the agent's report also surfaced a Lars Ulrich fact and a previously-undetected Abe Cunningham relapse that I independently confirmed before including.
+
+- **Mike Portnoy** (#10537): `api/meta/[...path].js:375` and `packages/frontend/App.js:5709` — **live page meta description** for `/drummer/mike-portnoy` (the actual search-snippet text Google/crawlers see, not a static mirror) still says "Tama Starclassic Maple/Birch"; also `api/gear-finder/index.js:191` and an entirely unswept file, `packages/frontend/data/albumArticles/mike-portnoy.js` (6 occurrences). Confirmed `scripts/verify-gear-consistency.cjs` cannot catch this class because it only scans `packages/frontend/data/` — `api/meta`, `App.js`, and `api/gear-finder` are all out of its scope, explaining why this is the 6th round on the same fact. Mirror `public/llms/articles/whats-in-mike-portnoys-kit.md` also confirmed stale (will self-heal via `scripts/generate-llms-articles.cjs` once source is fixed).
+- **Lars Ulrich** (#10538): `drummerComparisons.js` `lars-ulrich-vs-bill-ward` entry (lines 1690, 1697) alone says "Tama Starclassic Maple/Birch" — contradicts the exact same file's own correct "Tama Starclassic Maple" phrasing used verbatim in 3 sibling entries (lines 2152, 3359, 3381), making this a clean, self-contained, same-file-template fix. `public/llms/vs/lars-ulrich-vs-bill-ward.md` confirmed stale too.
+- **Abe Cunningham** (#10539): a previously-undetected relapse in `albumArticles/abe-cunningham.js` — the "Saturday Night Wrist Era" (2005-2006) section (9 occurrences) invents an unsupported "Maple/Birch" that matches neither the file's own documented pre-2009 "Maple/Bubinga" era nor its post-2009 "Bubinga/Birch" era, AND is contradicted by a second "Saturday Night Wrist Era" entry in the same file (line 1041) that correctly omits the wood entirely. Scoped the fix to match that sibling's omit-if-unsure pattern rather than guess a replacement wood, per the verified-only rule. One location (line 2588) is inside a JSON-LD `FAQPage` schema block — structured data, not just prose.
+
+Only 3 filed (well under the 8 cap) — quality over volume; all 3 are personally re-verified, high-confidence root-cause/scope-gap catches, two of them (Portnoy's live meta tags, Cunningham's JSON-LD schema) are higher-value than typical mirror-level fixes because they're what search engines and AI crawlers directly consume.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 464u/533s/745v 7d; GSC 12,302 impr/266 clicks/2.16% CTR/pos 7.8. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Wednesday 2026-11-11; group 2 cleared Monday 2026-11-09; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10531/#10533/#10534/#10535 (19:1x run, already `ai-fix` per CEO's 00:2x log)
+- #10537-10539 (this run, 3 fresh)
+
+### Next run
+1. Watch #10537-10539 triage/promotion; #10537 is the highest-value of the three (live meta-tag fabrication, not just a mirror) — flag to whoever implements it to re-grep the whole repo for "Maple/Birch" one more time after landing, since this fact class has now survived 6 rounds across 10+ files.
+2. Consider (not yet proposed — would need its own scoping) whether `scripts/verify-gear-consistency.cjs`'s DATA_DIR should expand beyond `packages/frontend/data/` to also catch `api/meta/[...path].js`, `App.js`, and `api/gear-finder/index.js` — this is the second time in a week these three files have been flagged as the actual root cause of a "fixed" fact resurfacing (see also the 2026-11-10 ~09:0x run's note on `packages/backend/src/index.js`/`api/gear-finder/index.js` recurring-missed-sibling pattern). Not filed this run — out of scope for a single data-fact fix, worth a dedicated proposal if it keeps recurring.
+3. GSC content-gap: zero rows this week (12,302 impr/266 clicks/2.16% CTR/pos 7.8).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

@@ -2523,15 +2523,12 @@ export const articles = {
       "estimatedValue": "$6,000-8,500 (2020)"
     },
     "snare": {
-      "title": "Pearl Reference Pure Free-Floating Snare: Projection and Sensitivity",
+      "title": "A Pearl Snare — Model Not Independently Verified",
       "brand": "Pearl",
-      "model": "Pearl Reference Pure Free-Floating Snare",
-      "size": "14\" x 6.5\"",
-      "shell": "Pure Maple",
-      "description": "For *Titans of Creation*, Gene Hoglan paired the Reference Pure kit with a Pearl Reference Pure Free-Floating snare — a drum that elevated the warm, resonant character of the pure maple shell with Pearl's Free-Floating mounting system, which allows the shell to vibrate freely without hardware contact points dampening the tone.\n\nThe Free-Floating design produces a more open, resonant snare sound than conventional lug-mounted drums — the shell's full surface area vibrates uniformly, resulting in a tone that is simultaneously warm and cutting. For Hoglan's playing style — which combines crushing backbeats with sensitive ghost notes and intricate rimshot work — this balance between power and sensitivity is essential.\n\nAt 14\" x 6.5\", the drum offered depth sufficient for the album's heaviest passages while retaining the articulation required for the ghost note patterns and dynamic nuances characteristic of Hoglan's performance vocabulary. The snare sound on \"Children of the Next Level\" — the track that received Grammy consideration — is particularly authoritative: present in the mix without overpowering the arrangement, and tonally rich enough to reward careful listening on headphones.\n\nThe warm maple character of this snare represents a distinct evolution from the Pearl Reference Brass used on *Brotherhood of the Snake*: where the brass shell's midrange cut was ideally suited to the dense, intense 2016 production, the Reference Pure's maple warmth complemented the slightly more spacious and dynamic sonic palette of the 2020 sessions.",
-      "tuningSetting": "Medium for warmth and resonance while maintaining attack across thrash tempos",
-      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$500-700 (2020)"
+      "model": "Not independently verified",
+      "size": "Not independently verified",
+      "description": "On *Titans of Creation*, Gene Hoglan plays a Pearl snare as part of his Pearl Reference Pure kit, but the specific model has not been independently verified. Claims naming a specific snare model and size circulating online do not trace to a verifiable source, so MetalForge is leaving those details out rather than guessing.",
+      "estimatedValue": "$400-700 (typical range for a professional Pearl snare)"
     },
     "cymbals": {
       "title": "Sabian AAX: Continuing Refinement",
@@ -2667,10 +2664,10 @@ export const articles = {
         "highlights": [
           "Mid-tempo track with extended compositional architecture",
           "Ride cymbal work provides textural variation from the crash-heavy openers",
-          "Ghost notes beneath the main thrash groove — sensitivity of the Reference Pure Free-Floating snare audible",
+          "Ghost notes beneath the main thrash groove — sensitivity of the Pearl snare audible (specific model not independently verified)",
           "One of the album's most dynamic drum performances"
         ],
-        "gearNotes": "Sabian AAX 20\" Ride for sustained groove. Pearl Reference Pure Free-Floating snare captures ghost note dynamics throughout."
+        "gearNotes": "Sabian AAX 20\" Ride for sustained groove. Pearl snare (specific model not independently verified) captures ghost note dynamics throughout."
       }
     ],
     "evolution": {
@@ -2684,8 +2681,8 @@ export const articles = {
         },
         {
           "category": "Snare",
-          "then": "Pearl Reference Brass 14\"x6.5\" (2016)",
-          "now": "Pearl Reference Pure Free-Floating 14\"x6.5\" (2020)"
+          "then": "Pearl snare (specific model not independently verified, 2016)",
+          "now": "Pearl snare (specific model not independently verified, 2020)"
         },
         {
           "category": "Cymbals",
@@ -2724,11 +2721,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Gene Hoglan use on Titans of Creation?",
-        "answer": "Gene Hoglan recorded Titans of Creation (2020) using a Pearl Reference Pure kit — Pearl's pure maple professional flagship, a step above the maple/birch hybrid Reference Series he used on Brotherhood of the Snake (2016). His configuration retained his signature twin 22\" x 18\" bass drums for independent double-kick, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. His snare was a Pearl Reference Pure Free-Floating model at 14\" x 6.5\". Cymbals were Sabian AAX series, and he switched from Pearl Demon Drives to Pearl Eliminator single pedals (one per bass drum) for the 2020 sessions."
+        "answer": "Gene Hoglan recorded Titans of Creation (2020) using a Pearl Reference Pure kit — Pearl's pure maple professional flagship, a step above the maple/birch hybrid Reference Series he used on Brotherhood of the Snake (2016). His configuration retained his signature twin 22\" x 18\" bass drums for independent double-kick, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. His snare was a Pearl snare; the specific model has not been independently verified. Cymbals were Sabian AAX series, and he switched from Pearl Demon Drives to Pearl Eliminator single pedals (one per bass drum) for the 2020 sessions."
       },
       {
         "question": "How does Titans of Creation differ from Brotherhood of the Snake gear-wise?",
-        "answer": "Three key gear changes distinguish Titans of Creation (2020) from Brotherhood of the Snake (2016). First, Hoglan upgraded from Pearl Reference Series (16-ply maple/birch hybrid) to Pearl Reference Pure (6-ply pure maple) — a warmer, more resonant shell construction that gave the 2020 album a more open, spacious drum character. Second, his snare changed from Pearl Reference Brass to Pearl Reference Pure Free-Floating, shifting from the brass shell's midrange cut to maple's warmer resonance. Third, his bass drum pedals changed from Pearl Demon Drive singles to Pearl Eliminator singles. Sabian AAX cymbals remained consistent across both albums."
+        "answer": "Three key gear changes distinguish Titans of Creation (2020) from Brotherhood of the Snake (2016). First, Hoglan upgraded from Pearl Reference Series (16-ply maple/birch hybrid) to Pearl Reference Pure (6-ply pure maple) — a warmer, more resonant shell construction that gave the 2020 album a more open, spacious drum character. Second, his snare remained a Pearl snare across both albums; the specific model has not been independently verified for either era. Third, his bass drum pedals changed from Pearl Demon Drive singles to Pearl Eliminator singles. Sabian AAX cymbals remained consistent across both albums."
       },
       {
         "question": "Was Titans of Creation recorded during COVID lockdown?",

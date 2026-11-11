@@ -23,11 +23,10 @@ This article breaks down every piece of gear Gene Hoglan used on *Titans of Crea
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Pure (Natural Maple finish)
-- **Snare:** Pearl Pearl Reference Pure Free-Floating Snare, 14" x 6.5"
+- **Snare:** Pearl Not independently verified, Not independently verified
 - **Cymbals:** Sabian — Sabian AAX Series
 - **Hardware / Pedals:** Pearl Eliminator Single Pedals (x2); Pearl H-2050 Gyro-Lock Hi-Hat Stand; Roc-N-Soc Nitro; Promark TX5BW (5B Wood Tip)
-- **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
-- **Snare tuning:** Medium for warmth and resonance while maintaining attack across thrash tempos
+- **Heads:** [object Object]
 
 ### Pearl Reference Pure: Hoglan's Apex Setup
 
@@ -39,15 +38,9 @@ The four-tom spread — 10", 12", 14", 16" — remained consistent with his 2016
 
 The Reference Pure's pure maple construction produced a drum sound that bridged classic warmth with modern definition — identifiably organic in a recording context where competing albums often rely on samples and triggers to achieve their sonic goals. Juan Urteaga's production at Sharkbite captured this natural character intact.
 
-### Pearl Reference Pure Free-Floating Snare: Projection and Sensitivity
+### A Pearl Snare — Model Not Independently Verified
 
-For *Titans of Creation*, Gene Hoglan paired the Reference Pure kit with a Pearl Reference Pure Free-Floating snare — a drum that elevated the warm, resonant character of the pure maple shell with Pearl's Free-Floating mounting system, which allows the shell to vibrate freely without hardware contact points dampening the tone.
-
-The Free-Floating design produces a more open, resonant snare sound than conventional lug-mounted drums — the shell's full surface area vibrates uniformly, resulting in a tone that is simultaneously warm and cutting. For Hoglan's playing style — which combines crushing backbeats with sensitive ghost notes and intricate rimshot work — this balance between power and sensitivity is essential.
-
-At 14" x 6.5", the drum offered depth sufficient for the album's heaviest passages while retaining the articulation required for the ghost note patterns and dynamic nuances characteristic of Hoglan's performance vocabulary. The snare sound on "Children of the Next Level" — the track that received Grammy consideration — is particularly authoritative: present in the mix without overpowering the arrangement, and tonally rich enough to reward careful listening on headphones.
-
-The warm maple character of this snare represents a distinct evolution from the Pearl Reference Brass used on *Brotherhood of the Snake*: where the brass shell's midrange cut was ideally suited to the dense, intense 2016 production, the Reference Pure's maple warmth complemented the slightly more spacious and dynamic sonic palette of the 2020 sessions.
+On *Titans of Creation*, Gene Hoglan plays a Pearl snare as part of his Pearl Reference Pure kit, but the specific model has not been independently verified. Claims naming a specific snare model and size circulating online do not trace to a verifiable source, so MetalForge is leaving those details out rather than guessing.
 
 ### Sabian AAX: Continuing Refinement
 
@@ -87,17 +80,17 @@ For drummers tracing Gene Hoglan's career through MetalForge's documentation: th
 - Four-tom configuration: 10", 12", 14", 16" — melodic fill vocabulary throughout the album
 - Natural Maple finish — greater warmth and resonance than the standard Reference Series
 - Estimated kit value: $6,000-8,500 (2020)
-- Estimated snare value: $500-700 (2020)
+- Estimated snare value: $400-700 (typical range for a professional Pearl snare)
 
 ## Frequently Asked Questions
 
 **Q: What drums did Gene Hoglan use on Titans of Creation?**
 
-A: Gene Hoglan recorded Titans of Creation (2020) using a Pearl Reference Pure kit — Pearl's pure maple professional flagship, a step above the maple/birch hybrid Reference Series he used on Brotherhood of the Snake (2016). His configuration retained his signature twin 22" x 18" bass drums for independent double-kick, 10" and 12" rack toms, and 14" and 16" floor toms. His snare was a Pearl Reference Pure Free-Floating model at 14" x 6.5". Cymbals were Sabian AAX series, and he switched from Pearl Demon Drives to Pearl Eliminator single pedals (one per bass drum) for the 2020 sessions.
+A: Gene Hoglan recorded Titans of Creation (2020) using a Pearl Reference Pure kit — Pearl's pure maple professional flagship, a step above the maple/birch hybrid Reference Series he used on Brotherhood of the Snake (2016). His configuration retained his signature twin 22" x 18" bass drums for independent double-kick, 10" and 12" rack toms, and 14" and 16" floor toms. His snare was a Pearl snare; the specific model has not been independently verified. Cymbals were Sabian AAX series, and he switched from Pearl Demon Drives to Pearl Eliminator single pedals (one per bass drum) for the 2020 sessions.
 
 **Q: How does Titans of Creation differ from Brotherhood of the Snake gear-wise?**
 
-A: Three key gear changes distinguish Titans of Creation (2020) from Brotherhood of the Snake (2016). First, Hoglan upgraded from Pearl Reference Series (16-ply maple/birch hybrid) to Pearl Reference Pure (6-ply pure maple) — a warmer, more resonant shell construction that gave the 2020 album a more open, spacious drum character. Second, his snare changed from Pearl Reference Brass to Pearl Reference Pure Free-Floating, shifting from the brass shell's midrange cut to maple's warmer resonance. Third, his bass drum pedals changed from Pearl Demon Drive singles to Pearl Eliminator singles. Sabian AAX cymbals remained consistent across both albums.
+A: Three key gear changes distinguish Titans of Creation (2020) from Brotherhood of the Snake (2016). First, Hoglan upgraded from Pearl Reference Series (16-ply maple/birch hybrid) to Pearl Reference Pure (6-ply pure maple) — a warmer, more resonant shell construction that gave the 2020 album a more open, spacious drum character. Second, his snare remained a Pearl snare across both albums; the specific model has not been independently verified for either era. Third, his bass drum pedals changed from Pearl Demon Drive singles to Pearl Eliminator singles. Sabian AAX cymbals remained consistent across both albums.
 
 **Q: Was Titans of Creation recorded during COVID lockdown?**
 
@@ -126,4 +119,4 @@ A: Gene Hoglan used Pearl Eliminator single pedals on Titans of Creation (2020) 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*

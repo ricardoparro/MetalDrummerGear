@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-11 06:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-11 07:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 495 |
-| Sessions | 571 |
-| Page views | 792 |
-| Engagement rate | 62.70% |
-| Avg session (s) | 104 |
+| Active users | 497 |
+| Sessions | 573 |
+| Page views | 795 |
+| Engagement rate | 62.83% |
+| Avg session (s) | 106 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -23,7 +23,7 @@
 | /articles/john-otto-drum-setup | 17 | 15 |
 | /drummer/bill-ward | 16 | 14 |
 | /articles/black-sabbath-drum-setup | 13 | 9 |
-| /drummer/eloy-casagrande | 12 | 9 |
+| /drummer/eloy-casagrande | 13 | 10 |
 | /drummer/mario-duplantier | 12 | 10 |
 | /drummers/bill-ward/evolution | 11 | 4 |
 | /articles/whats-in-lars-ulrichs-kit | 10 | 9 |
@@ -31,16 +31,16 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 446 | 381 |
+| Organic Search | 448 | 383 |
 | Direct | 105 | 96 |
-| Unassigned | 34 | 30 |
+| Unassigned | 35 | 31 |
 | Referral | 12 | 12 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 218 | 178 |
+| United States | 219 | 179 |
 | United Kingdom | 39 | 33 |
 | Portugal | 30 | 29 |
 | Singapore | 25 | 25 |

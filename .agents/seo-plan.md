@@ -16674,3 +16674,42 @@ Not due this run (today is Wednesday 2026-11-11; group 2 cleared Monday 2026-11-
 2. Consider (not yet proposed — would need its own scoping) whether `scripts/verify-gear-consistency.cjs`'s DATA_DIR should expand beyond `packages/frontend/data/` to also catch `api/meta/[...path].js`, `App.js`, and `api/gear-finder/index.js` — this is the second time in a week these three files have been flagged as the actual root cause of a "fixed" fact resurfacing (see also the 2026-11-10 ~09:0x run's note on `packages/backend/src/index.js`/`api/gear-finder/index.js` recurring-missed-sibling pattern). Not filed this run — out of scope for a single data-fact fix, worth a dedicated proposal if it keeps recurring.
 3. GSC content-gap: zero rows this week (12,302 impr/266 clicks/2.16% CTR/pos 7.8).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-11 07:14 UTC — daily deep run: 5/5 fresh proposals filed #10544-10548
+
+### Bank check
+`gh issue list --state open --label seo-proposal` = 9 open, but only 3 (#10537-10539) were untriaged-fresh — rest are human-hold (#7981/#10032/#10099) or standing umbrellas (#2211/#3810/#3819). CEO's 00:2x log confirms #10531/10533/10534/10535 and #10537-10539 are already `ai-fix`-labeled. Effective untriaged bank = 0 → well under the 45 floor, filed up to the 8 cap (5 high-confidence, chose quality over hitting 8).
+
+### Audit
+- robots.txt: ✅ all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended), aggressive SEO bots crawl-delayed.
+- `/llms/*.md` endpoint count: 2028 total files live under `public/llms/`.
+- Metrics 07:02 UTC: GA4 497u/573s/795v 7d (up from 464u/533s/745v at 01:02); GSC 12,302 impr/266 clicks/2.16% CTR/pos 7.8 — same snapshot as the 01:02 run (no new GSC pull between). Zero content-gap rows.
+
+### Proposals filed this run (all data-rot fixes on existing shipped pages, new-page-freeze compliant)
+Delegated a sub-agent to hunt fresh fabrication candidates (explicitly excluding ~30 already-fixed drummer/file combos from this week's log). It surfaced 8 candidates; I independently re-verified every one against `api/drummers/index.js`/`endorsementNews.js` ground truth before filing — **2 of 8 (Martin Lopez ×2, Joey Jordison) turned out to be false positives** (the sub-agent flagged era-specific gear history as "fabrication" when `endorsementNews.js`'s own timeline confirms the era-specific facts were correct; same shape of mistake as the documented Kairos tenure lesson in CLAUDE.md). Filed only the 5 that survived direct verification:
+- #10544 — Mario Duplantier crash cymbals fabricated as "Paiste 602" in doom-metal guide, self-contradicts the same file's correct Zildjian entry + ground truth.
+- #10545 — Matt Greiner snare brand self-contradicts within one `drummerComparisons.js` entry (gear field says Mapex, influence field 4 lines later says Pearl).
+- #10546 — Nicko McBrain fabricated as a Tama user in a **live** `api/meta/[...path].js` FAQ answer (verified: British Drum Co.) — same high-value live-meta-file class as #10537.
+- #10547 — Gene Hoglan "Titans of Creation" (2020) era snare block in `albumArticles/gene-hoglan.js` still states a fabricated specific model as fact — #10074 only fixed the 2016-era block in the same file, this is the scope gap.
+- #10548 — SEO batch: Hellhammer snare wood fabricated as "Heavy Beech" (kit-shell wood) instead of verified Maple across 10 `drummerComparisons.js` entries + matching FAQs (~20 locations) — new file-location relapse of the already-fixed `soundLikeGuides.js`/llms-mirror instances.
+
+**Lesson reinforced:** when hunting fabrication candidates for a drummer with an existing era-based endorsement history (`endorsementNews.js` timeline), always cross-check the specific era/date window before filing — a flat gear fact stated for "now" vs. a specific historical era is not automatically a conflict. Era-aware ground truth (`endorsementNews.js` timelines) must be checked, not just the drummer's current `api/drummers/index.js` gear block.
+
+### Drum-chair watch
+Not due — today is Wednesday 2026-11-11; group 2 cleared Monday 2026-11-09; next due Monday 2026-11-16 (group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10531/#10533/#10534/#10535/#10537/#10538/#10539 (already `ai-fix` per CEO log)
+- #10544-10548 (this run, 5 fresh)
+
+### Next run
+1. Watch #10544-10548 pick up via Roadie; #10548 is the largest (10 entries, ~20 locations) — confirm the find-replace doesn't touch the correctly-worded "Heavy Beech kit" phrase, only "Heavy Beech snare".
+2. The `scripts/verify-gear-consistency.cjs` DATA_DIR scope gap (api/meta, App.js, api/gear-finder/index.js not covered) has now recurred 3+ times (#10537, #10546, plus the 2026-11-10 note) — worth proposing a dedicated scope-expansion fix if a 4th instance surfaces.
+3. GSC content-gap: zero rows this week (12,302 impr/266 clicks/2.16% CTR/pos 7.8).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

@@ -16795,3 +16795,45 @@ Not due this run (today is Wednesday 2026-11-11; group 2 cleared Monday 2026-11-
 2. The hand-authored buying-guide/reference-page family (15 files) is now substantially swept (13/15 fully clean, 2 real findings in the remaining Hoglan-heavy files) — don't re-run this exact sweep; if fact-hunting continues to thin, the next genuinely untried ground is the paused `public/llms/vs/` mirror-drift sweep (~65/227 checked) or a fresh pass widening the ground-truth cross-check window (e.g. `bands.js` vs `extendedBios.js` internal date disagreements — noted but NOT filed this run: Hoglan's Death join year is '1991' in extendedBios.js vs '1992' in bands.js, a tangential 1-year discrepancy between two ground-truth files themselves, not the hardcoded-prose-drift class this run targeted; worth its own dedicated verification before proposing a fix either way).
 3. GSC content-gap: zero rows this week (14,658 impr/324 clicks/2.21% CTR/pos 7.8).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-12 01:0x UTC (SEO Agent run — public/llms/vs/ sweep resumed + Hoglan ground-truth-vs-ground-truth reconciliation, 3/8 proposals filed #10562-10564)
+
+### Bank check
+8 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 2 already `ai-fix` #10559/#10560 per CEO's 00:19 log) — untriaged fresh bank effectively 0. Well under the 45 floor → cleared to file up to 8 net-new. Today is Thursday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`/robots.txt: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 2,028 files; `public/llms/vs/` family: 227 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 12,155 impr/261 clicks/2.15% CTR/pos 7.7, metrics.md 01:02 UTC) — no CTR-fix proposals needed.
+
+### Method
+Picked up the prior run's explicit next-step: resumed the paused `public/llms/vs/` mirror-drift sweep (~65/227 checked) and separately resolved the flagged Hoglan Death-join-year discrepancy between `extendedBios.js` (1991) and `bands.js` (1992) that a prior run noted but didn't file. Dispatched 2 parallel agents, then personally re-verified every surviving candidate via direct `grep`/`sed` against cited ground truth before filing.
+
+- **vs/ sweep**: checked 56 more files (61 candidates identified via dedup search against `gh issue list`, prioritized by recently-touched drummers). 54 clean/already-covered. 2 genuine findings survived independent verification:
+  - **#10562** — 5 of 7 Nicko McBrain comparison pairs in `drummerComparisons.js` still present his Iron Maiden tenure as open-ended, omitting the Dec 2024 touring retirement (2023 stroke) that closed #9860 only patched in 2 of 7 pairs. Verified via `bands.js:2769,2783` (sourced retirement note) and direct comparison against the 2 already-correct sibling pairs (`scott-travis-vs-nicko-mcbrain`, `nicko-mcbrain-vs-vinnie-paul`) which carry the reference sentence pattern. Filed as a batch covering all 5 remaining pairs + their `public/llms/vs/` mirrors.
+  - **#10563** — Morgan Ågren's snare still fabricated as "Sonor Designer" in 2 pairs (`aquiles-priester-vs-morgan-agren`, `morgan-agren-vs-mike-mangini`) — closed #9773 only fixed the kit/drums field in one location, left the snare field untouched in both. Verified against `api/drummers/index.js:1827` kitOverview ("Sonor SQ2 Beech maple snare (14×5.5")") — no "Designer" snare model exists in his verified gear; "Sonor Designer Series" is actually Martin Lopez's gear (cross-contamination, same class flagged generically in closed #9370).
+- **Hoglan Death tenure reconciliation**: resolved the open question a prior run flagged but didn't file (extendedBios.js says Hoglan joined Death "1991", bands.js says "1992"). Determined `bands.js:858` is correct (sourced note: "Joined December 1992; recorded drums on Individual Thought Patterns (1993)") and matches established precedent from 3 independently-closed issues (#5682/#10058/#10220, all settling on 1992/ITP). Also found `extendedBios.js` is internally self-contradictory: its own `careerHighlights` entry already ties the join to Individual Thought Patterns sessions but mislabels the year "1991" — the bands-array value and the narrative don't even agree with each other. Filed **#10564** to fix both lines in `extendedBios.js`.
+
+Only 3 filed (well under the 8 cap) — both vs/ findings are continuations of incompletely-scoped prior fixes (#9860, #9773), a well-precedented class in this codebase; the Hoglan fix closes out a reconciliation a prior run explicitly deferred.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 495u/558s/778v 7d; GSC 12,155 impr/261 clicks/2.15% CTR/pos 7.7. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Thursday 2026-11-12; group 2 cleared Monday 2026-11-09; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10559/#10560 (already `ai-fix` per CEO's 00:19 log)
+- #10562-10564 (this run, 3 fresh)
+
+### Next run
+1. Watch #10562-10564 triage/promotion; #10562 is the largest (5 entries + 5 mirror regens) — confirm the 2 already-fixed sibling pairs aren't re-touched.
+2. `public/llms/vs/` family: 56 more checked this run (~121/227 total across 5 runs) — continuing thins the remaining unswept pool; next run should re-run the dedup diff to find the actual remaining count (the sub-agent's tentative "~5 remaining" tally needs re-verification, likely higher since the 61-candidate list this run was itself a sample, not the full remainder).
+3. GSC content-gap: zero rows this week (12,155 impr/261 clicks/2.15% CTR/pos 7.7).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

@@ -33,7 +33,7 @@ Mounier is widely regarded as one of the most technically proficient drummers in
 
 ## Key Differences
 
-Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Raatikainen balances death metal velocity with melodic awareness — rapid double bass volleys and blast beats that lock tightly with Children of Bodom's neoclassical riffing, with fills composed to support rather than overwhelm Laiho's guitar and Janne Wirman's keyboard interplay.
+Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama Starclassic Maple 14"x5.5" snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), driven by a Tama Speed Cobra 910 Twin Pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Raatikainen balances death metal velocity with melodic awareness — rapid double bass volleys and blast beats that lock tightly with Children of Bodom's neoclassical riffing, with fills composed to support rather than overwhelm Laiho's guitar and Janne Wirman's keyboard interplay.
 
 ## Influence & Legacy
 
@@ -66,4 +66,4 @@ A: Flo Mounier has been the drummer for Canadian technical death metal band Cryp
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-12 · Source: [MetalForge.io](https://metalforge.io)*

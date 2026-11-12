@@ -26,7 +26,7 @@ Megadeth's Dirk Verbeuren vs Slayer's Paul Bostaph. Two of thrash metal's most r
 
 ## Playing Style
 
-Dirk Verbeuren is a Belgian drummer who spent 18 years (1998–2016) as the backbone of Swedish melodic death metal band Soilwork before joining Megadeth's touring lineup in 2016, stepping in after Chris Adler recorded the studio drum parts for "Dystopia" (2016) but was unable to tour behind it. His precise, powerful playing combines European melodic death metal sensibilities with American thrash aggression, and he went on to record his own studio debut with the band, "The Sick, the Dying... and the Dead!" (2022). Paul Bostaph is Slayer's longest-serving drummer outside of Dave Lombardo — joining in 1992 and recording four studio albums across two tenures (1992–2001, 2013–2019), including "Divine Intervention" (1994), "Undisputed Attitude" (1996), "Diabolus in Musica" (1998), and "Repentless" (2015), before returning once more for Slayer's 2024 reunion shows.
+Dirk Verbeuren is a Belgian drummer who spent 18 years (1998–2016) as the backbone of Swedish melodic death metal band Soilwork before joining Megadeth's touring lineup in 2016, stepping in after Chris Adler recorded the studio drum parts for "Dystopia" (2016) but was unable to tour behind it. His precise, powerful playing combines European melodic death metal sensibilities with American thrash aggression, and he went on to record his own studio debut with the band, "The Sick, the Dying... and the Dead!" (2022). Paul Bostaph is Slayer's longest-serving drummer outside of Dave Lombardo — joining in 1992 and recording four studio albums across three stints (1992–1996, 1997–2001, 2013–2019), including "Divine Intervention" (1994), "Undisputed Attitude" (1996), "Diabolus in Musica" (1998), and "Repentless" (2015), before returning once more for Slayer's 2024 reunion shows.
 
 ## Technique
 
@@ -50,7 +50,7 @@ Dirk Verbeuren and Paul Bostaph are united by a shared challenge: stepping into 
 A: Dirk Verbeuren has been Megadeth's drummer since 2016, joining the touring lineup after Chris Adler recorded the studio drum parts for "Dystopia" (2016) but couldn't tour behind it. Before Megadeth, Verbeuren spent 18 years as Soilwork's drummer (1998–2016). He recorded his own studio debut with Megadeth, "The Sick, the Dying... and the Dead!" (2022).
 
 **Q: Who is Slayer's drummer?**
-A: Paul Bostaph is Slayer's longest-serving drummer outside of founding member Dave Lombardo. He played with Slayer from 1992–2001 and 2013–2019, recording four studio albums, and returned for the band's 2024 reunion shows after their 2019 "final" tour.
+A: Paul Bostaph is Slayer's longest-serving drummer outside of founding member Dave Lombardo. He played with Slayer from 1992–1996, 1997–2001, 2013–2019, recording four studio albums, and returned for the band's 2024 reunion shows after their 2019 "final" tour.
 
 **Q: What bands did Dirk Verbeuren play in before Megadeth?**
 A: Dirk Verbeuren was the drummer for Swedish melodic death metal band Soilwork for 18 years (1998–2016) and the French metal band Scarve (1995–2008) before joining Megadeth in 2016.
@@ -67,4 +67,4 @@ A: Paul Bostaph recorded four studio albums with Slayer: "Divine Intervention" (
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-12 · Source: [MetalForge.io](https://metalforge.io)*

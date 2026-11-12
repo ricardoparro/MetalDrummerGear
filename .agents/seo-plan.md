@@ -16837,3 +16837,45 @@ Not due this run (today is Thursday 2026-11-12; group 2 cleared Monday 2026-11-0
 2. `public/llms/vs/` family: 56 more checked this run (~121/227 total across 5 runs) — continuing thins the remaining unswept pool; next run should re-run the dedup diff to find the actual remaining count (the sub-agent's tentative "~5 remaining" tally needs re-verification, likely higher since the 61-candidate list this run was itself a sample, not the full remainder).
 3. GSC content-gap: zero rows this week (12,155 impr/261 clicks/2.15% CTR/pos 7.7).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-12 ~09:0x UTC (SEO Agent run — root-cause bands-array fix + vs/ sweep continuation, 3/8 proposals filed #10567-10569)
+
+### Bank check
+9 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 3 from the 01:0x run #10562/10563/10564, all already `ai-fix` per CEO's 06:13 log) — untriaged fresh bank effectively 0. Well under the 45 floor → cleared to file up to 8 net-new. Today is Thursday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged.
+- `/llms/*.md` endpoints: 2,028 total files; `public/llms/vs/` family: 227 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 14,679 impr/329 clicks/2.24% CTR/pos 7.9, metrics.md 07:02 UTC) — no CTR-fix proposals needed.
+
+### Method
+Continued the paused `public/llms/vs/` mirror-drift sweep (~121/227 checked across 5 prior runs). Dispatched one agent (3 parallel internal passes, 74 pairs checked) with an explicit exclusion list of ~25 drummers/fact-types already fixed this week, instructed to cite both the wrong line and the ground-truth line for any finding. It surfaced 3 candidates; I personally re-verified all 3 via direct `grep`/`sed` against `api/drummers/index.js` before filing, and ran `gh issue list --search` dedup checks on each.
+
+- **Flo Mounier cymbals** (#10568): `drummerComparisons.js` `flo-mounier-vs-jaska-raatikainen` `gear` field fabricates cymbal models (X-Celerator Hi-Hats, 16"/18" crashes, 20" Metal Ride, X-Treme Chinese) vs verified `api/drummers/index.js:2196` (14" HHX Stage Hi-Hats, 17"/18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China) — self-contradicts the correct version in the same file's `ben-koller-vs-flo-mounier` sibling entry. Confirmed not entangled with human-hold #10032 (that's a kit-*brand* dispute; this is cymbal models, unambiguous).
+- **Travis Orbin tenure** (#10569): `drummerComparisons.js` `blake-richardson-vs-travis-orbin` states Darkest Hour joined "in 2013" vs verified `api/drummers/index.js` bands array `'2017–present'` — a 4-year error, different file/location than closed #10291's fix.
+- **Richard Christy tenure — root cause** (#10567): the third candidate (an apparent "2003-2004 vs 2003-2007" Iced Earth conflict in `drummerComparisons.js`) turned out, on verification, to be a **false positive with an important twist** — closed issues #9868/#9247 had already deliberately set `drummerComparisons.js` to "2003-2007" (and Death to "1997-2001"), citing `extendedBios.js`/`drummerEvolution.js`/`bands.js`/`albumArticles.js` as ground truth. Filing a "fix" back to "2003-2004" would have reverted 2 already-correct closed fixes. Tracing the conflict further found the *actual* unfixed outlier: `api/drummers/index.js` itself (id 49, lines 2802-2803, the documented single-source-of-truth file per `scripts/build-gear-index.cjs:19`, live-imported by `api/meta/[...path].js` and `App.js`) still has the stale `1996–1999`/`2003–2004` values that 10+ prior closed issues (#9677/#10109/#10242/#9868/#9247/#5609/#8268/#8939/#5928) have already established as wrong everywhere else. Filed #10567 to fix the actual root file instead of re-flipping the already-corrected downstream copy — higher-value than the original candidate would have been, and avoids a revert war.
+
+Only 3 filed (well under the 8 cap) — quality over volume; the Richard Christy root-cause catch is the highest-value of the three since it fixes the file multiple other modules key off, not just a comparison-page mirror. **Lesson reinforced:** when a sub-agent flags a "tenure conflict" between two site files, always check which closed issues already adjudicated that exact conflict before filing a fix — the "wrong" side might be the side 2+ prior fixes already corrected, and the real bug is a third, unfixed file nobody checked.
+
+### GSC / metrics
+Metrics 07:02 UTC: GA4 531u/596s/820v 7d; GSC 14,679 impr/329 clicks/2.24% CTR/pos 7.9. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Thursday 2026-11-12; group 2 cleared Monday 2026-11-09; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10562/#10563/#10564 (01:0x run, already `ai-fix` per CEO's 06:13 log)
+- #10567-10569 (this run, 3 fresh)
+
+### Next run
+1. Watch #10567-10569 triage/promotion; #10567 is highest-value (root `api/drummers/index.js` fix, feeds live meta tags) — confirm no other drummer's unrelated `1996–1999`/`2003–2004` spans (Malevolent Creation line 2564, The Haunted line 3506, Damageplan line 889) get accidentally touched by a careless find-replace.
+2. `public/llms/vs/` sweep: ~121/227 + 74 more checked this run (~195/227 across 6 runs) — nearly complete; next run should finish the remaining ~32 and then retire this sweep as a hunting ground.
+3. Given #10567's pattern (closed-issue-established-fact vs. an unfixed canonical file), worth considering whether other "10+ prior fact fixes on one drummer" cases elsewhere have the same root-cause gap — not filed this run, a candidate for a future run's hunting ground once the vs/ sweep retires.
+4. GSC content-gap: zero rows this week (14,679 impr/329 clicks/2.24% CTR/pos 7.9).
+5. Drum-chair watch: next due Monday 2026-11-16, group 3.

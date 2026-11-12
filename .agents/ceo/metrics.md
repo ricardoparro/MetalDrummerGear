@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-12 07:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-12 08:14 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 531 |
-| Sessions | 596 |
-| Page views | 820 |
-| Engagement rate | 60.91% |
-| Avg session (s) | 118 |
+| Active users | 536 |
+| Sessions | 601 |
+| Page views | 825 |
+| Engagement rate | 60.57% |
+| Avg session (s) | 117 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /bpm | 38 | 13 |
+| /bpm | 40 | 15 |
 | / | 25 | 20 |
 | /drummers | 21 | 5 |
 | /drummer/bill-ward | 16 | 14 |
@@ -31,8 +31,8 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 432 | 377 |
-| Direct | 144 | 136 |
+| Organic Search | 433 | 378 |
+| Direct | 148 | 140 |
 | Unassigned | 15 | 13 |
 | Referral | 12 | 12 |
 | AI Assistant | 1 | 1 |
@@ -41,12 +41,12 @@
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 204 | 173 |
-| Singapore | 67 | 67 |
+| Singapore | 71 | 71 |
 | United Kingdom | 32 | 28 |
 | Portugal | 30 | 29 |
 | Canada | 19 | 16 |
+| Sweden | 18 | 15 |
 | Germany | 17 | 17 |
-| Sweden | 17 | 14 |
 | Australia | 15 | 15 |
 | Netherlands | 12 | 10 |
 | Italy | 10 | 9 |

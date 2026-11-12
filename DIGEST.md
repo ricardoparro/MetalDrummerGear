@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-11 08:14 UTC · Window: last 12h*
+*Generated 2026-11-12 08:14 UTC · Window: last 12h*
 
 ---
 
@@ -9,26 +9,26 @@
 | Metric | Value |
 | --- | --- |
 | Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 11 |
+| Open `seo-proposal` issues | 9 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
 | Open PRs | 0 |
-| PRs merged in window | **7** |
-| Issues closed in window | 7 |
-| Commits to `main` in window | 11 |
+| PRs merged in window | **5** |
+| Issues closed in window | 5 |
+| Commits to `main` in window | 9 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **505** |
-| Sessions | 582 |
-| Page views | 805 |
-| Engagement rate | 62.37% |
-| GSC impressions | 14,658 |
-| GSC clicks | 324 |
-| GSC CTR | 2.21% |
-| GSC avg position | 7.8 |
+| Active users | **536** |
+| Sessions | 601 |
+| Page views | 825 |
+| Engagement rate | 60.57% |
+| GSC impressions | 14,679 |
+| GSC clicks | 329 |
+| GSC CTR | 2.24% |
+| GSC avg position | 7.9 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~3,450 |
-| Est. ad revenue / mo | **~€10.35** |
-| Progress to €1000/mo | 1.0% |
-| Pageviews/mo needed for €1000 | ~333,333 (97× current) |
+| Est. pageviews / mo | ~3,536 |
+| Est. ad revenue / mo | **~€10.61** |
+| Progress to €1000/mo | 1.1% |
+| Pageviews/mo needed for €1000 | ~333,333 (94× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,58 +65,54 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 12d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 16d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 45d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 11d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 15d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 44d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 26 | 26 | 0 |
-| Check Sitemap Drift | 13 | 6 | 7 |
-| Verify Data Modules | 13 | 6 | 7 |
-| Verify YouTube Videos | 13 | 7 | 6 |
-| Check llms freshness | 8 | 0 | 8 |
-| Perf Budget Gate | 7 | 0 | 7 |
-| Check Video SEO | 4 | 0 | 4 |
-| Verify API Modules | 4 | 2 | 2 |
-| Check Vercel Bot Rewrites | 4 | 2 | 2 |
+| PR Merger | 44 | 44 | 0 |
+| Verify YouTube Videos | 11 | 6 | 5 |
+| Check Sitemap Drift | 10 | 5 | 5 |
+| Verify Data Modules | 10 | 5 | 5 |
+| Check llms freshness | 6 | 0 | 6 |
+| Perf Budget Gate | 5 | 0 | 5 |
+| Health Check | 3 | 3 | 0 |
+| SEO Agent | 2 | 2 | 0 |
+| CEO Agent | 2 | 2 | 0 |
+| Roadie Night Fleet | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
 | Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
 | Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
-| CEO Agent | 1 | 1 | 0 |
 | Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-12 00:19 (cheap pulse — 2/2 proposals verified+promoted #10559/10560)
+- 2026-11-11 18:08 — cheap pulse: 1/1 proposal verified+promoted #10553 (tooling fix)
+- 2026-11-11 12:13 — daily deep run: 5/5 proposals verified+promoted #10544-10548
 - 2026-11-11 00:2x (cheap pulse — 4/4 proposals verified+promoted #10531/10533/10534/10535)
-- 2026-11-10 06:12 (cheap pulse, pre-deep-run — 2/2 proposals verified+promoted #10507/10508)
-- 2026-11-10 00:18 (cheap pulse — 5/5 proposals verified+promoted #10497/10498/10502/10503/10504)
-- 2026-11-10 12:10 — 4/4 proposals verified+promoted #10517-10520 (scope-gap sibling fixes)
-- 2026-11-10 18:07 — 3/3 proposals verified+promoted #10523-10525 (scope-gap sibling fixes)
 - 2026-11-11 06:12 (cheap pulse, pre-deep-run — 3/3 proposals verified+promoted #10537/10538/10539)
+- 2026-11-12 06:13 (cheap pulse, pre-deep-run — 3/3 proposals verified+promoted #10562/10563/10564)
 
-## 📦 Shipped to main (7)
+## 📦 Shipped to main (5)
 
-- #10552 fix: #10539 SEO: Abe Cunningham 'Saturday Night Wrist' era fabricates kit wood as 'Maple/Birch' (9 locations) — relapse of #10022/#10176/#10524 bug class, contradicts this same file's own sibling era entry
-- #10551 fix: #10538 SEO: Lars Ulrich kit mis-stated as 'Tama Starclassic Maple/Birch' in lars-ulrich-vs-bill-ward comparison — contradicts this same file's own correct template at 3 other entries
-- #10549 fix: #10537 SEO: Mike Portnoy kit wood still fabricated as 'Tama Starclassic Maple/Birch' in LIVE meta tags + gear-finder API + album article (relapse of #7821/#7836/#9310/#10508/#10523)
-- #10543 fix: #10531 SEO batch: Vinnie Paul gear wrongly fabricated as Tama/Sabian across groove-metal guide family in genreGearGuides.js (~50 locations)
-- #10542 fix: #10535 SEO: Nick Augusto Trivium tenure off-by-one '2009' survives in genreGearGuides.js (6 locations) + adjacent Matt Greiner undated snare line
-- #10541 fix: #10534 SEO batch: Ray Luzier snare over-specified as 'Pearl Reference 14x6.5 brass' across nu-metal guide family in genreGearGuides.js (~20 locations)
-- #10540 fix: #10533 SEO: Pete Sandoval fabricated 'Remo Pinstripe/Emperor' drum heads in genreGearGuides.js extreme-metal heads guide (3 locations)
+- #10572 fix: #10564 SEO: Gene Hoglan's Death tenure wrong in extendedBios.js (1991-1995, verified 1992-1995 per bands.js)
+- #10571 fix: #10563 SEO: Morgan Ågren snare still fabricated as 'Sonor Designer' in 2 drummerComparisons.js pairs (#9773 incomplete fix)
+- #10570 fix: #10562 SEO batch: Nicko McBrain touring-retirement caveat missing from 5 more drummerComparisons.js pairs (#9860 scope gap)
+- #10566 fix: #10559 SEO: Gene Hoglan drummersByKit.js Tama Superstar Classic tenure wrong (1983-1993, verified 1984-1995)
+- #10565 fix: #10560 SEO: evolutionTimeline.js Gene Hoglan entry dated 1988 but names 1989 album (Leave Scars)
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 187h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2497h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2593h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2770h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3855h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 211h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2521h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2617h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2794h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3879h)_
 
 ---
 

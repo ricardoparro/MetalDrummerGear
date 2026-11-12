@@ -26,7 +26,7 @@ Between the Buried and Me's Blake Richardson vs ex-Periphery's Travis Orbin. Jaz
 
 ## Playing Style
 
-Blake Richardson has been the drummer for American progressive metal band Between the Buried and Me since early 2005, fusing death metal precision with jazz influences across genre-spanning, fill-heavy compositions on landmark albums like "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2021), earning Grammy nominations along the way. Travis Orbin played drums in Periphery from 2006 to 2009, in the band's pre-recording years, leaving before the group wrote or recorded its self-titled 2010 debut — a record widely credited with helping define the djent movement, recorded by his replacement Matt Halpern — before moving on to thrash band Darkest Hour in 2013, building a parallel reputation as a prolific session player and YouTube playthrough artist.
+Blake Richardson has been the drummer for American progressive metal band Between the Buried and Me since early 2005, fusing death metal precision with jazz influences across genre-spanning, fill-heavy compositions on landmark albums like "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2021), earning Grammy nominations along the way. Travis Orbin played drums in Periphery from 2006 to 2009, in the band's pre-recording years, leaving before the group wrote or recorded its self-titled 2010 debut — a record widely credited with helping define the djent movement, recorded by his replacement Matt Halpern — before moving on to thrash band Darkest Hour in 2017, building a parallel reputation as a prolific session player and YouTube playthrough artist.
 
 ## Technique
 
@@ -67,4 +67,4 @@ A: Blake Richardson joined Between the Buried and Me in early 2005, replacing fo
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-12 · Source: [MetalForge.io](https://metalforge.io)*

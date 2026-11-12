@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-12 08:14 UTC · Window: last 12h*
+*Generated 2026-11-12 19:08 UTC · Window: last 12h*
 
 ---
 
@@ -8,23 +8,23 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 9 |
+| Open `ai-fix` issues | **21** |
+| Open `seo-proposal` issues | 8 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **5** |
-| Issues closed in window | 5 |
-| Commits to `main` in window | 9 |
+| Open PRs | 1 |
+| PRs merged in window | **6** |
+| Issues closed in window | 6 |
+| Commits to `main` in window | 11 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **536** |
-| Sessions | 601 |
-| Page views | 825 |
-| Engagement rate | 60.57% |
+| Active users | **567** |
+| Sessions | 635 |
+| Page views | 868 |
+| Engagement rate | 60.31% |
 | GSC impressions | 14,679 |
 | GSC clicks | 329 |
 | GSC CTR | 2.24% |
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~3,536 |
-| Est. ad revenue / mo | **~€10.61** |
+| Est. pageviews / mo | ~3,720 |
+| Est. ad revenue / mo | **~€11.16** |
 | Progress to €1000/mo | 1.1% |
-| Pageviews/mo needed for €1000 | ~333,333 (94× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (90× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -73,21 +73,21 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 44 | 44 | 0 |
-| Verify YouTube Videos | 11 | 6 | 5 |
-| Check Sitemap Drift | 10 | 5 | 5 |
-| Verify Data Modules | 10 | 5 | 5 |
-| Check llms freshness | 6 | 0 | 6 |
-| Perf Budget Gate | 5 | 0 | 5 |
-| Health Check | 3 | 3 | 0 |
-| SEO Agent | 2 | 2 | 0 |
+| PR Merger | 51 | 51 | 0 |
+| Verify YouTube Videos | 7 | 3 | 4 |
+| Check Sitemap Drift | 7 | 3 | 4 |
+| Verify Data Modules | 6 | 2 | 3 |
+| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
+| Check llms freshness | 5 | 0 | 5 |
+| Health Check | 4 | 4 | 0 |
+| Perf Budget Gate | 3 | 0 | 3 |
+| Daily Digest | 2 | 1 | 0 |
+| Loop Watchdog | 2 | 2 | 0 |
+| SEO Agent | 2 | 1 | 0 |
 | CEO Agent | 2 | 2 | 0 |
-| Roadie Night Fleet | 2 | 2 | 0 |
-| Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| Verify API Modules | 2 | 1 | 1 |
+| Roadie Night Fleet | 1 | 0 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
@@ -98,23 +98,24 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - 2026-11-11 06:12 (cheap pulse, pre-deep-run — 3/3 proposals verified+promoted #10537/10538/10539)
 - 2026-11-12 06:13 (cheap pulse, pre-deep-run — 3/3 proposals verified+promoted #10562/10563/10564)
 
-## 📦 Shipped to main (5)
+## 📦 Shipped to main (6)
 
+- #10576 fix: #10569 SEO: Travis Orbin's Darkest Hour join year wrong (2013) in blake-richardson-vs-travis-orbin comparison
+- #10575 fix: #10568 SEO: Flo Mounier cymbal specs fabricated in flo-mounier-vs-jaska-raatikainen comparison entry
+- #10574 fix: #10567 SEO: api/drummers/index.js — Richard Christy's Death/Iced Earth tenure periods still wrong in the single-source-of-truth bands array
 - #10572 fix: #10564 SEO: Gene Hoglan's Death tenure wrong in extendedBios.js (1991-1995, verified 1992-1995 per bands.js)
 - #10571 fix: #10563 SEO: Morgan Ågren snare still fabricated as 'Sonor Designer' in 2 drummerComparisons.js pairs (#9773 incomplete fix)
 - #10570 fix: #10562 SEO batch: Nicko McBrain touring-retirement caveat missing from 5 more drummerComparisons.js pairs (#9860 scope gap)
-- #10566 fix: #10559 SEO: Gene Hoglan drummersByKit.js Tama Superstar Classic tenure wrong (1983-1993, verified 1984-1995)
-- #10565 fix: #10560 SEO: evolutionTimeline.js Gene Hoglan entry dated 1988 but names 1989 album (Leave Scars)
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 211h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2521h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2617h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2794h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3879h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 222h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2532h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2628h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2805h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3890h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

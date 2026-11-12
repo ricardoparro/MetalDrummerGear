@@ -33,7 +33,7 @@ Priester's technique is built for speed and stage presence — rapid, precise do
 
 ## Key Differences
 
-Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit with Paiste cymbals (a custom red-coated set including his 18" Psychoctopus Giga Bell Ride), driven by a DW 9000 Series double pedal and his own ProMark Aquiles Priester Signature sticks. Morgan Ågren plays a Sonor SQ2 Beech kit with a Sonor Designer 14"x5" or 14"x6" snare and Paiste Signature / 2002 Series cymbals, using Sonor hardware paired with a Sonor Giant Step Double Pedal and Vic Firth sticks. Priester's technique is built for speed and stage presence — rapid, precise double bass patterns and powerful fills designed to translate power metal's bombast into a compelling live show, all delivered with a warm showmanship that has made him a fan favorite at clinics worldwide. Ågren's technique draws on jazz fusion sophistication — extreme four-limb independence, fluid odd-time-signature navigation, and a melodic approach that treats the kit almost as a lead instrument, letting him "sing" through complex compositions the way Terry Bozzio or Vinnie Colaiuta might.
+Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit with Paiste cymbals (a custom red-coated set including his 18" Psychoctopus Giga Bell Ride), driven by a DW 9000 Series double pedal and his own ProMark Aquiles Priester Signature sticks. Morgan Ågren plays a Sonor SQ2 Beech kit with a Sonor SQ2 Beech 14"x5.5" maple snare and Paiste Signature / 2002 Series cymbals, using Sonor hardware paired with a Sonor Giant Step Double Pedal and Vic Firth sticks. Priester's technique is built for speed and stage presence — rapid, precise double bass patterns and powerful fills designed to translate power metal's bombast into a compelling live show, all delivered with a warm showmanship that has made him a fan favorite at clinics worldwide. Ågren's technique draws on jazz fusion sophistication — extreme four-limb independence, fluid odd-time-signature navigation, and a melodic approach that treats the kit almost as a lead instrument, letting him "sing" through complex compositions the way Terry Bozzio or Vinnie Colaiuta might.
 
 ## Influence & Legacy
 
@@ -55,7 +55,7 @@ A: Not quite — Morgan Ågren was personally selected by Frank Zappa to sit in 
 A: Aquiles Priester has drummed for Angra (2001-2008), W.A.S.P., and Hangar. Morgan Ågren co-founded the Mats/Morgan Band in 1981, sat in with Frank Zappa's band for one Stockholm concert in 1988, played with Kaipa (2002-2005), and drummed for Devin Townsend Project from 2012 to 2016.
 
 **Q: What gear do Aquiles Priester and Morgan Ågren use?**
-A: Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit with a custom red-coated Paiste cymbal set, driven by a DW 9000 Series double pedal and his own ProMark signature sticks. Morgan Ågren plays a Sonor SQ2 Beech kit with a Sonor Designer snare and Paiste Signature / 2002 Series cymbals, using Sonor hardware and a Sonor Giant Step Double Pedal.
+A: Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit with a custom red-coated Paiste cymbal set, driven by a DW 9000 Series double pedal and his own ProMark signature sticks. Morgan Ågren plays a Sonor SQ2 Beech kit with a Sonor SQ2 Beech maple snare and Paiste Signature / 2002 Series cymbals, using Sonor hardware and a Sonor Giant Step Double Pedal.
 
 ---
 
@@ -66,4 +66,4 @@ A: Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-12 · Source: [MetalForge.io](https://metalforge.io)*

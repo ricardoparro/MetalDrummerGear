@@ -2799,8 +2799,8 @@ const drummers = [
     name: 'Richard Christy',
     band: 'Death / Iced Earth',
     bands: [
-      { name: 'Death', period: '1996–1999', current: false },
-      { name: 'Iced Earth', period: '2003–2004', current: false },
+      { name: 'Death', period: '1997–2001', current: false },
+      { name: 'Iced Earth', period: '2003–2007', current: false },
       { name: 'Charred Walls of the Damned', period: '2009–present', current: true }
     ],
     genre: 'Death Metal / Thrash Metal',

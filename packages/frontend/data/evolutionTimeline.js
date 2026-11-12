@@ -310,8 +310,8 @@ export const EVOLUTION_TIMELINE = [
     relatedDrummers: ['gene-hoglan'],
   },
   {
-    id: 'timeline-1988-gene-hoglan-dark-angel',
-    year: 1988,
+    id: 'timeline-1989-gene-hoglan-dark-angel',
+    year: 1989,
     month: 3,
     decade: '1980s',
     title: 'Gene Hoglan: "The Atomic Clock" Emerges',

@@ -26,7 +26,7 @@ Iron Maiden's Nicko McBrain vs Black Sabbath's Bill Ward: the galloping single-p
 
 ## Playing Style
 
-Bill Ward co-founded Black Sabbath in Birmingham, England in 1968 alongside Ozzy Osbourne, Tony Iommi, and Geezer Butler, and, shaped by jazz heroes Gene Krupa and Buddy Rich, helped invent the vocabulary of heavy metal drumming itself on landmark records like "Black Sabbath" (1970), "Paranoid" (1970), and "Master of Reality" (1971). Nicko McBrain joined Iron Maiden in 1982 and has anchored the band's galloping NWOBHM sound for more than four decades, defining classics like "Piece of Mind" (1983), "Powerslave" (1984), and "Seventh Son of a Seventh Son" (1988) with intricate hi-hat work and theatrical showmanship.
+Bill Ward co-founded Black Sabbath in Birmingham, England in 1968 alongside Ozzy Osbourne, Tony Iommi, and Geezer Butler, and, shaped by jazz heroes Gene Krupa and Buddy Rich, helped invent the vocabulary of heavy metal drumming itself on landmark records like "Black Sabbath" (1970), "Paranoid" (1970), and "Master of Reality" (1971). Nicko McBrain joined Iron Maiden in 1982 and anchored the band's galloping NWOBHM sound for more than four decades (retiring from touring in December 2024, remaining an official band member), defining classics like "Piece of Mind" (1983), "Powerslave" (1984), and "Seventh Son of a Seventh Son" (1988) with intricate hi-hat work and theatrical showmanship.
 
 ## Technique
 
@@ -38,7 +38,7 @@ Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Suprapho
 
 ## Influence & Legacy
 
-Ward is widely credited as one of the true originators of heavy metal drumming — his jazz-informed, swinging approach to Black Sabbath's riffs created a rhythmic template that every subsequent metal drummer, including McBrain, built upon. McBrain shaped British heavy metal drumming for over four decades as Iron Maiden's heartbeat, proving that single-pedal technique could deliver galloping power and stadium-scale showmanship without a double kick, influencing generations of NWOBHM and traditional metal drummers.
+Ward is widely credited as one of the true originators of heavy metal drumming — his jazz-informed, swinging approach to Black Sabbath's riffs created a rhythmic template that every subsequent metal drummer, including McBrain, built upon. McBrain shaped British heavy metal drumming for over four decades as Iron Maiden's heartbeat before retiring from touring in December 2024, proving that single-pedal technique could deliver galloping power and stadium-scale showmanship without a double kick, influencing generations of NWOBHM and traditional metal drummers.
 
 ## Verdict
 
@@ -50,7 +50,7 @@ Nicko McBrain and Bill Ward represent the two poles of classic British heavy met
 A: Bill Ward's pioneering work with Black Sabbath created the foundational jazz-swing rhythmic vocabulary of heavy metal drumming that every British metal drummer who followed, including Nicko McBrain, built upon — both are frequently cited as defining answers to "who shaped classic 80s metal drumming?"
 
 **Q: Do Nicko McBrain and Bill Ward both avoid double bass pedals?**
-A: Yes — both drummers built their entire careers around a single bass drum pedal. Nicko McBrain has never used a double pedal throughout more than 40 years with Iron Maiden, and Bill Ward relied entirely on a single Ludwig Speed King pedal and foot technique across his whole Black Sabbath tenure, never adopting a double kick.
+A: Yes — both drummers built their entire careers around a single bass drum pedal. Nicko McBrain never used a double pedal throughout more than 40 years with Iron Maiden, up to his December 2024 touring retirement, and Bill Ward relied entirely on a single Ludwig Speed King pedal and foot technique across his whole Black Sabbath tenure, never adopting a double kick.
 
 **Q: What gear do Nicko McBrain and Bill Ward use?**
 A: Bill Ward played a Ludwig Standard / Club Date Series kit with Zildjian Avedis Series cymbals and a single Ludwig Speed King pedal — no double bass. Nicko McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature snare and Paiste 2002 & Signature Series cymbals, also driven by a single bass drum pedal.
@@ -67,4 +67,4 @@ A: Both are considered foundational to classic heavy metal drumming, but for dif
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-12 · Source: [MetalForge.io](https://metalforge.io)*

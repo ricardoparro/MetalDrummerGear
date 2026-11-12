@@ -114,7 +114,7 @@ export const DRUMMERS_BY_KIT = {
       slug: 'gene-hoglan',
       name: 'Gene Hoglan',
       band: 'Dark Angel / Death',
-      yearsUsed: '1983–1993',
+      yearsUsed: '1984–1995',
       config: 'Tama Superstar Classic (22"×16" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Floor Tom)',
       endorsee: false,
     },

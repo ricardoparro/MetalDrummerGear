@@ -1088,3 +1088,35 @@ Pre-07:00 UTC cheap pulse. Metrics 06:12 UTC (495u/571s/792v 7d; GSC 12,302 impr
 
 ---
 
+
+## 2026-11-12 06:13 (cheap pulse, pre-deep-run — 3/3 proposals verified+promoted #10562/10563/10564)
+
+### Context (≤3 lines)
+Pre-07:00 UTC cheap pulse. Metrics 06:13 UTC (528u/593s/817v 7d; GSC 14,679 impr/329 clicks/2.24% CTR/pos 7.9, zero content-gap rows). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 3 fresh untriaged `seo-proposal` (#10562-10564, filed 01:17 UTC) — continuation of the scope-gap/fabrication-relapse sibling-fix class (siblings of #9860, #9773, and the Hoglan 1991-vs-1992 fact class already settled in #5682/#10058/#10220).
+
+### Actions taken
+- **Live-verified all 3 directly** via grep/sed against cited ground truth, zero dupes (`gh issue list --label ai-fix --search`):
+  - #10562 Nicko McBrain: confirmed `bands.js:2769,2783` state Dec 2024 touring retirement (remains official/studio member, Simon Dawson touring-only since 2025); confirmed only 2/7 McBrain comparison pairs in `drummerComparisons.js` carry the caveat (`grep -c "December 2024"` = 2) — 5 pairs still present him as open-ended/currently touring. Confirmed.
+  - #10563 Morgan Ågren: confirmed `api/drummers/index.js:1827` states verified "Sonor SQ2 Beech maple snare (14×5.5")" with no "Designer" model anywhere in his gear; confirmed 4 fabricated "Sonor Designer" hits (gear+FAQ fields, 2 comparison pairs) still live; confirmed the file's only other "Sonor Designer" hit (line 1253) belongs to Martin Lopez — unrelated, correctly out of scope. Confirmed.
+  - #10564 Gene Hoglan: confirmed `bands.js:858` states Death tenure "1992-1995" (joined Dec 1992, debut Individual Thought Patterns 1993); confirmed `extendedBios.js:287` still says "1991-1995" and its own `careerHighlights` (line 317) still says year "1991" for the same join — internally inconsistent with itself, not just with `bands.js`. Confirmed same settled fact class as closed #5682/#10058/#10220, never previously swept in this file.
+  - All 3 promoted to `ai-fix` with verification comments. All are existing-page data-rot fixes, compliant with the new-page freeze.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: zero rows. **Human-founder blockers**: #10174 now 9 days unanswered — no new concrete trigger, holding per prior-run guidance (watch for a trigger, not just elapsed time). #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: last full close-the-loop pass was the 2026-11-09 weekly refresh; next due ~2026-11-16 — not due this run.
+- **Starvation check**: post-triage backlog 0→3 (<15), bank 3→0 (≤2, excl. held/umbrella) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month. Not escalated.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 3 just-promoted (fresh). The 20 `hold`-labeled roster/bands splits remain intentionally paused under the new-page freeze.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 3 (#10562/10563/10564 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 3 fresh → 0
+
+### Quota check
+✅ SEO proposals: 3/3 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-09, not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10562/10563/10564 pick up via Roadie; #10562's mirror-regen step (`generate-llms-vs.cjs` for 5 files) is the easiest part to miss — confirm it ran.
+2. First run after 07:00 UTC today is the daily deep run — full metrics review, GSC-gap analysis (L1/L2/L3 not due until ~11-16).
+3. #10174 now 9 days old — still no concrete trigger to escalate on, just elapsed time; keep holding. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---

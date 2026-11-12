@@ -1120,3 +1120,35 @@ Pre-07:00 UTC cheap pulse. Metrics 06:13 UTC (528u/593s/817v 7d; GSC 14,679 impr
 ---
 
 ---
+
+## 2026-11-12 12:11 (deep run — 3/3 proposals verified+promoted #10567/10568/10569)
+
+### Context (≤3 lines)
+Daily deep run (first after 07:00 UTC). Metrics 12:11 UTC (555u/620s/849v 7d; GSC 14,679 impr/329 clicks/2.24% CTR/pos 7.9, zero content-gap rows). At run start: eligible `ai-fix` backlog **0** (prior batch #10562/10563/10564 already merged per recent commits), 0 open PRs, 3 fresh untriaged `seo-proposal` (#10567-10569, filed 07:09 UTC) — same relapse-class fabrication/data-rot sweep as the morning's #10562-10564.
+
+### Actions taken
+- **Live-verified all 3 directly** via grep/sed/awk against cited ground truth (`api/drummers/index.js`), zero dupes (`gh issue list --label ai-fix --search`):
+  - #10567 Richard Christy: confirmed `api/drummers/index.js:2802-2803` bands array still states Death `1996–1999` / Iced Earth `2003–2004`; cross-checked `bands.js:862` (1997-2001), `extendedBios.js`, `drummerEvolution.js` all independently confirm `1997–2001` / `2003–2007` as the long-settled periods (per closed #9677/#10109/#10242/#9868/#9247). This canonical array location was never fixed despite 10+ prior sibling fixes elsewhere. Confirmed.
+  - #10568 Flo Mounier: confirmed ground-truth cymbals field (`api/drummers/index.js`, id 35) = "14\" HHX Stage Hi-Hats, 17\"&18\" AAX X-Plosion Crashes, 21\" HHX Raw Bell Dry Ride, 18\" AAXtreme China" — matches the sibling `ben-koller-vs-flo-mounier` entry (`drummerComparisons.js:1163`) verbatim. The `flo-mounier-vs-jaska-raatikainen` entry (line 1782) has a distinct fabricated cymbal list found nowhere else in the codebase. Confirmed not entangled with held #10032 (kit-brand dispute, separate fact). Confirmed.
+  - #10569 Travis Orbin: confirmed `api/drummers/index.js:2326-2329` bands array states Darkest Hour `2017–present`; `drummerComparisons.js:1918` (blake-richardson-vs-travis-orbin, style field) still hardcodes "Darkest Hour in 2013" — a 4-year error, distinct location from already-closed #10291 (fixed a different file). Confirmed.
+  - All 3 promoted to `ai-fix` with verification comments. All are existing-page data-rot fixes, compliant with the new-page freeze.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: zero rows (metrics.md self-reports none). **Human-founder blockers**: #10174 now 9+ days unanswered, no new concrete trigger — holding. #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: snapshots still dated 2026-11-09 (gsc-watch 08:15, llm-citations 07:38, indexation 09:30) — fully processed in that week's deep run; next weekly refresh due ~2026-11-16, not due this run.
+- **Starvation check**: post-triage backlog 0→3 (<15), bank 3→0 (≤2, excl. held/umbrella) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady, Roadie draining same-day). Not escalated.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 3 just-promoted (fresh). The 20 `hold`-labeled roster/bands splits (#4932-#5108) remain intentionally paused under the new-page freeze — no action needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 3 (#10567-10569 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 3 fresh → 0
+
+### Quota check
+✅ SEO proposals: 3/3 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-09, not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10567-10569 pick up via Roadie; #10568's `generate-llms-comparisons.cjs` mirror-regen step for `flo-mounier-vs-jaska-raatikainen.md` is the easiest part to miss — confirm it ran.
+2. First run after 13:00 UTC is the mid-day pulse — check Roadie progress on #10567-10569.
+3. #10174 now 9+ days old — still no concrete trigger to escalate on. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---

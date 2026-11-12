@@ -16879,3 +16879,47 @@ Not due this run (today is Thursday 2026-11-12; group 2 cleared Monday 2026-11-0
 3. Given #10567's pattern (closed-issue-established-fact vs. an unfixed canonical file), worth considering whether other "10+ prior fact fixes on one drummer" cases elsewhere have the same root-cause gap — not filed this run, a candidate for a future run's hunting ground once the vs/ sweep retires.
 4. GSC content-gap: zero rows this week (14,679 impr/329 clicks/2.24% CTR/pos 7.9).
 5. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-12 ~13:0x UTC (SEO Agent run — public/llms/vs/ sweep completion + retirement, 1/8 proposals filed #10573)
+
+### Bank check
+6 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819) — the 09:0x run's #10567-10569 are already `ai-fix` (confirmed open, labeled `ai-fix`, 0 open PRs so not yet claimed by Roadie). Untriaged fresh bank effectively 0. Well under the 45 floor → cleared to file up to 8 net-new. Today is Thursday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged.
+- `/llms/*.md` endpoints: 2,028 total files; `public/llms/vs/` family: 227 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 14,679 impr/329 clicks/2.24% CTR/pos 7.9, metrics.md 13:02 UTC) — no CTR-fix proposals needed.
+- Open PRs: 0. ai-fix backlog: 23 (20 intentionally-held roster/bands splits + the 3 fresh from the 09:0x run).
+
+### Method
+Finished the `public/llms/vs/` mirror-drift sweep per the prior run's explicit next-step (~195/227 checked across 6 runs). Dispatched one agent (3 parallel internal passes, ~80 files) with an exclusion list of drummers/facts already fixed this week, instructed to cite both the wrong line and ground-truth line for any finding and to dedupe via `gh issue list --search` before reporting. Personally re-verified the single surviving candidate via direct `grep`/`sed` against `bands.js` before filing, plus checked ~20 closed/open issue titles for Bostaph/stints/tenure variants to confirm no duplicate.
+
+- **Paul Bostaph Slayer tenure compression** (#10573): `drummerComparisons.js` collapses Bostaph's verified 3-stint Slayer tenure (`bands.js:336`, "1992-1996, 1997-2001, 2013-2019", corroborated by Jon Dette's own bands.js:337 note that his 1996-97 fill-in sits "between Bostaph's first and second stints") into "two tenures (1992–2001, 2013–2019)" / "12 years across two stints" across **7 locations spanning 4 comparison pairs**: `paul-bostaph-vs-jon-dette` (lines 1342/1345/1349), `dirk-verbeuren-vs-paul-bostaph` (1457/1465), `paul-bostaph-vs-dave-lombardo` (2010/2017), `jon-dette-vs-dave-lombardo` (4083). Confirmed Dave Lombardo's own 3-stint phrasing in the same entries is correct and must stay untouched. Checked ~25 prior closed Bostaph/Dette/Lombardo issues (#9712, #10163, #9245, #9097, #9084, etc.) — all fixed different fact classes (gear, other tenure fields, different files); none covered this specific 2-vs-3-stint undercount in drummerComparisons.js. Not a duplicate. Filed with all 7 exact locations, ground truth, and the 4 affected `public/llms/vs/*.md` mirrors to regenerate.
+- **False positives ruled out by the sub-agent** (not filed): Matt Garstka's "Pearl Masterworks Maple" in 5 vs/ files — correct, deliberately era-scoped per closed #9909 (anchored to pre-2021 albums; current DW gear shown via a separate data path). Daniel Erlandsson "Pearl Reference Pure" — matches canonical `api/drummers/index.js`; the conflicting text lives in lower-authority `extendedBios.js`, not a vs/ markdown bug.
+
+Only 1 filed (well under the 8 cap) — thin yield (1 genuine finding in ~80 files checked this run) confirms the sweep has reached diminishing returns.
+
+**Sweep retired.** Combined with ~195/227 from prior runs, effectively all 227 `public/llms/vs/*.md` files have now been checked at least once. Per the dispatched agent's explicit recommendation: future `drummerComparisons.js`-sourced mirror drift should be caught by spot-checks triggered by future edits to that file, not a dedicated blind sweep. Do not re-run this as a standing hunting ground.
+
+### GSC / metrics
+Metrics 13:02 UTC: GSC 14,679 impr/329 clicks/2.24% CTR/pos 7.9 (GA4 560u/626s/856v 7d). Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Thursday 2026-11-12; group 2 cleared Monday 2026-11-09; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10567-10569 (09:0x run, already `ai-fix`, not yet claimed by Roadie)
+- #10573 (this run, 1 fresh)
+
+### Next run
+1. Watch #10567-10569 and #10573 pick up via Roadie.
+2. `public/llms/vs/` sweep retired (227/227 effectively checked across 7 runs) — do not resume as a dedicated hunting ground; only revisit files touched by future `drummerComparisons.js` edits.
+3. Next genuinely untried hunting ground: the "10+ prior fact fixes on one drummer → check for an unfixed root-cause file" pattern flagged by the 09:0x run's #10567 catch (Richard Christy). Worth scanning which other heavily-patched drummers (10+ closed fact-fix issues) might still have one unfixed canonical-source file — not started yet.
+4. GSC content-gap: zero rows this week (14,679 impr/329 clicks/2.24% CTR/pos 7.9).
+5. Drum-chair watch: next due Monday 2026-11-16, group 3.

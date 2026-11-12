@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-12 12:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-12 13:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 555 |
-| Sessions | 620 |
-| Page views | 849 |
-| Engagement rate | 59.84% |
+| Active users | 560 |
+| Sessions | 626 |
+| Page views | 856 |
+| Engagement rate | 60.06% |
 | Avg session (s) | 116 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 42 | 17 |
-| / | 25 | 20 |
+| / | 28 | 23 |
 | /drummers | 23 | 7 |
 | /drummer/bill-ward | 16 | 14 |
 | /articles/john-otto-drum-setup | 15 | 14 |
@@ -31,21 +31,22 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 440 | 385 |
-| Direct | 160 | 152 |
+| Organic Search | 442 | 386 |
+| Direct | 161 | 153 |
 | Unassigned | 15 | 13 |
 | Referral | 12 | 12 |
+| Organic Social | 3 | 3 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 209 | 178 |
+| United States | 213 | 181 |
 | Singapore | 82 | 82 |
 | United Kingdom | 32 | 28 |
 | Portugal | 30 | 29 |
 | Canada | 20 | 17 |
-| Sweden | 18 | 15 |
+| Sweden | 20 | 17 |
 | Germany | 17 | 17 |
 | Australia | 16 | 16 |
 | Netherlands | 12 | 10 |

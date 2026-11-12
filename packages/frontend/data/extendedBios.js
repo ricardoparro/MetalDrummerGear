@@ -284,7 +284,7 @@ For a complete era-by-era component breakdown, see the [Joey Jordison drum setup
     name: 'Gene Hoglan',
     bands: [
       { slug: 'dark-angel', period: '1984-1992', role: 'Drummer' },
-      { slug: 'death', period: '1991-1995', role: 'Drummer' },
+      { slug: 'death', period: '1992-1995', role: 'Drummer' },
       { slug: 'strapping-young-lad', period: '1997-2007', role: 'Drummer' },
       { slug: 'testament', period: '2007-present', role: 'Drummer' },
       { slug: 'dethklok', period: '2007-2014', role: 'Drummer' },
@@ -314,7 +314,7 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
           { year: '1983', event: 'Started career as a roadie/drum tech for Slayer' },
           { year: '1984', event: 'Joined Dark Angel, earning the "Human Drum Machine" nickname' },
           { year: '1986', event: 'Released "Darkness Descends" with Dark Angel, a thrash metal landmark' },
-          { year: '1991', event: 'Joined Chuck Schuldiner\'s Death for "Individual Thought Patterns" sessions' },
+          { year: '1992', event: 'Joined Chuck Schuldiner\'s Death for "Individual Thought Patterns" sessions' },
           { year: '1995', event: 'Recorded "Symbolic" with Death, widely considered his masterwork' },
           { year: '1997', event: 'Joined Strapping Young Lad, collaborating with Devin Townsend' },
           { year: '2005', event: 'Performed on "Alien" with Strapping Young Lad, one of the heaviest albums ever' },

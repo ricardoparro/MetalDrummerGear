@@ -38,7 +38,7 @@ Nicko plays a British Drum Co. kit with Paiste cymbals for bright, cutting tone.
 
 ## Influence & Legacy
 
-Nicko shaped British heavy metal drumming through four decades with Maiden. Lars shaped how millions perceive metal drumming through Metallica.
+Nicko shaped British heavy metal drumming through four decades with Maiden, retiring from touring in December 2024 (remaining an official band member). Lars shaped how millions perceive metal drumming through Metallica.
 
 ## Verdict
 
@@ -67,4 +67,4 @@ A: Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-12 · Source: [MetalForge.io](https://metalforge.io)*

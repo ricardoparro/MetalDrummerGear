@@ -26,7 +26,7 @@ Children of Bodom's Jaska Raatikainen vs Iron Maiden's Nicko McBrain. Finnish me
 
 ## Playing Style
 
-Jaska Raatikainen co-founded Children of Bodom in 1993 (originally performing as Inearthed until adopting the Children of Bodom name in 1997) alongside the late Alexi Laiho, and remained the band's sole drummer for its entire 26-year run — from the 1997 debut "Something Wild" through the band's 2019 farewell album "Hexed." His playing fused neoclassical melodic death metal with explosive blast beats and double bass patterns, always shaped around Laiho's intricate guitar and keyboard counterpoint. Nicko McBrain joined Iron Maiden in 1982, debuting on "Piece of Mind" (1983), and has remained the band's drummer for over four decades across landmark albums including "Powerslave" (1984), "Somewhere in Time" (1986), "Seventh Son of a Seventh Son" (1988), "Brave New World" (2000), "The Final Frontier" (2010), and "Senjutsu" (2021). His galloping rhythm style and intricate hi-hat work became foundational to the NWOBHM sound and heavy metal at large.
+Jaska Raatikainen co-founded Children of Bodom in 1993 (originally performing as Inearthed until adopting the Children of Bodom name in 1997) alongside the late Alexi Laiho, and remained the band's sole drummer for its entire 26-year run — from the 1997 debut "Something Wild" through the band's 2019 farewell album "Hexed." His playing fused neoclassical melodic death metal with explosive blast beats and double bass patterns, always shaped around Laiho's intricate guitar and keyboard counterpoint. Nicko McBrain joined Iron Maiden in 1982, debuting on "Piece of Mind" (1983), and remained the band's touring drummer for over four decades across landmark albums including "Powerslave" (1984), "Somewhere in Time" (1986), "Seventh Son of a Seventh Son" (1988), "Brave New World" (2000), "The Final Frontier" (2010), and "Senjutsu" (2021), before retiring from touring in December 2024 (remaining an official band member). His galloping rhythm style and intricate hi-hat work became foundational to the NWOBHM sound and heavy metal at large.
 
 ## Technique
 
@@ -47,7 +47,7 @@ Jaska Raatikainen and Nicko McBrain represent two foundational pillars of Europe
 ## FAQ
 
 **Q: Who is the better drummer, Jaska Raatikainen or Nicko McBrain?**
-A: Both are foundational drummers in their respective styles. Jaska Raatikainen anchored Children of Bodom's neoclassical melodic death metal for 26 years with blast beats and double bass precision. Nicko McBrain has powered Iron Maiden's galloping heavy metal sound since 1982 using only a single bass drum pedal — a technical feat almost unheard of in modern metal. The comparison comes down to Finnish melodic death metal extremity vs British heavy metal foundational power.
+A: Both are foundational drummers in their respective styles. Jaska Raatikainen anchored Children of Bodom's neoclassical melodic death metal for 26 years with blast beats and double bass precision. Nicko McBrain has powered Iron Maiden's galloping heavy metal sound since 1982 until his December 2024 touring retirement using only a single bass drum pedal — a technical feat almost unheard of in modern metal. The comparison comes down to Finnish melodic death metal extremity vs British heavy metal foundational power.
 
 **Q: What gear do Jaska Raatikainen and Nicko McBrain use?**
 A: Jaska Raatikainen plays a Pearl Masters Premium Maple kit with Zildjian A Custom & K Custom cymbals and a Pearl Eliminator double pedal. Nicko McBrain plays a British Drum Co. kit with Paiste 2002 & Signature Series cymbals and, notably, only a single bass drum pedal.
@@ -67,4 +67,4 @@ A: Jaska Raatikainen recorded every Children of Bodom studio album as the band's
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-12 · Source: [MetalForge.io](https://metalforge.io)*

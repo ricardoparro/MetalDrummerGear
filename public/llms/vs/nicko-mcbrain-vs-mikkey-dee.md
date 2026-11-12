@@ -38,7 +38,7 @@ Nicko plays a British Drum Co. kit with Paiste 2002 cymbals for a bright, cuttin
 
 ## Influence & Legacy
 
-Nicko shaped British heavy metal drumming through four decades and hundreds of millions of Iron Maiden records sold. Mikkey anchored Motörhead's final and most celebrated live era, earning legendary status in hard rock and metal.
+Nicko shaped British heavy metal drumming through four decades and hundreds of millions of Iron Maiden records sold, retiring from touring in December 2024 (remaining an official band member). Mikkey anchored Motörhead's final and most celebrated live era, earning legendary status in hard rock and metal.
 
 ## Verdict
 
@@ -67,4 +67,4 @@ A: Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-12 · Source: [MetalForge.io](https://metalforge.io)*

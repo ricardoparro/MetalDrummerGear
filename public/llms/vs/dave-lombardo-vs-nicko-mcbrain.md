@@ -38,7 +38,7 @@ Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6.5" G-
 
 ## Influence & Legacy
 
-Lombardo defined the Slayer sound that shaped virtually all of extreme metal drumming that followed, and has also played with Fantomas, Suicidal Tendencies, and Dead Cross. McBrain has anchored Iron Maiden's rhythm section for over four decades, shaping British heavy metal drumming and remaining one of the genre's most instantly recognizable stylists.
+Lombardo defined the Slayer sound that shaped virtually all of extreme metal drumming that followed, and has also played with Fantomas, Suicidal Tendencies, and Dead Cross. McBrain anchored Iron Maiden's rhythm section for over four decades before retiring from touring in December 2024 (remaining an official band member), shaping British heavy metal drumming and remaining one of the genre's most instantly recognizable stylists.
 
 ## Verdict
 
@@ -53,7 +53,7 @@ A: Dave Lombardo pioneered relentless, high-speed double bass drumming that defi
 A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals. Nicko McBrain plays a British Drum Co. kit with a Sonor Nicko McBrain Signature 14x6.5" snare and Paiste 2002 & Signature Series cymbals.
 
 **Q: Does Nicko McBrain use a double bass pedal?**
-A: No — Nicko McBrain notably refuses to use a double bass pedal, instead achieving remarkable speed and complexity on Iron Maiden's galloping rhythms with a single bass drum pedal.
+A: No — throughout his Iron Maiden career (1982 until his December 2024 touring retirement), Nicko McBrain notably refused to use a double bass pedal, instead achieving remarkable speed and complexity on Iron Maiden's galloping rhythms with a single bass drum pedal.
 
 **Q: What album is Dave Lombardo best known for with Slayer?**
 A: Dave Lombardo's drumming on Slayer's "Reign in Blood" (1986) is widely considered one of the most groundbreaking metal drum performances ever recorded, pioneering the double bass style that defined thrash metal.
@@ -67,4 +67,4 @@ A: Dave Lombardo's drumming on Slayer's "Reign in Blood" (1986) is widely consid
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-12 · Source: [MetalForge.io](https://metalforge.io)*

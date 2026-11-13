@@ -27,16 +27,18 @@
  *     retailerUrls: {},          // intentionally empty until affiliate links are added
  *   }
  *
- * Only roster drummers with `gear.verified: true` are parsed here (55 of 67),
+ * Only roster drummers with `gear.verified: true` are parsed here (54 of 67),
  * matching the cymbalSetups.js (#4303) audit exactly.
  * Unverified drummers (wait for a research pass before their snares are added;
  * never guessed): ray-luzier, vinnie-paul, charlie-benante, mike-portnoy,
  * danny-carey, brann-dailor, matt-halpern, pete-sandoval, arin-ilejay,
- * nick-augusto, isaac-lamb, gene-hoglan.
+ * nick-augusto, isaac-lamb, gene-hoglan, george-kollias (#10577: fabricated
+ * "George Kollias Signature" snare removed from the roster record — no
+ * verified signature snare model exists).
  *
- * 14 roster drummers have a literal "Signature" snare model, but 4 of them
+ * 13 roster drummers have a literal "Signature" snare model, but 4 of them
  * (Vinnie Paul, Charlie Benante, Mike Portnoy, Danny Carey) are unverified and
- * excluded above — so 10 signature snares are flagged (`isSignature: true`)
+ * excluded above — so 9 signature snares are flagged (`isSignature: true`)
  * in this module. The flagship /snares/signature/<drummer> pages (phase 3)
  * read from this subset.
  *
@@ -91,18 +93,6 @@ export const SNARES = [
     sizeIn: 14,
     depthIn: 6.5,
     shellMaterial: 'Bronze',
-    isSignature: true,
-    source: 'roster gear.snare (verified: true; sources on the drummer record)',
-    retailerUrls: {},
-  },
-  {
-    drummerSlug: 'george-kollias',
-    summary: 'Pearl George Kollias Signature 14x6.5"',
-    brand: 'Pearl',
-    model: 'George Kollias Signature',
-    sizeIn: 14,
-    depthIn: 6.5,
-    shellMaterial: null,
     isSignature: true,
     source: 'roster gear.snare (verified: true; sources on the drummer record)',
     retailerUrls: {},

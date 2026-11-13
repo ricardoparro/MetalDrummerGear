@@ -119,15 +119,9 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'george-kollias',
-    summary: 'Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)',
+    summary: 'Zildjian A Custom Series',
     brands: ['Zildjian'],
-    pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'K Mastersound', model: 'Hi-Hats' },
-      { type: 'crash', sizeIn: 17, series: 'K Custom Dark', model: 'Crash' },
-      { type: 'crash', sizeIn: 18, series: 'K Custom Dark', model: 'Crash' },
-      { type: 'ride', sizeIn: 21, series: 'A Custom', model: 'Mega Bell Ride' },
-      { type: 'china', sizeIn: 18, series: null, model: 'China' },
-    ],
+    pieces: [],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
     retailerUrls: {},
   },

@@ -286,7 +286,7 @@ For a complete era-by-era component breakdown, see the [Joey Jordison drum setup
       { slug: 'dark-angel', period: '1984-1992', role: 'Drummer' },
       { slug: 'death', period: '1992-1995', role: 'Drummer' },
       { slug: 'strapping-young-lad', period: '1997-2007', role: 'Drummer' },
-      { slug: 'testament', period: '2007-present', role: 'Drummer' },
+      { slug: 'testament', period: '1996-1997, 2011-2022', role: 'Drummer' },
       { slug: 'dethklok', period: '2007-2014', role: 'Drummer' },
       { slug: 'fear-factory', period: '2009-2012', role: 'Drummer' }
     ],
@@ -316,11 +316,10 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
           { year: '1986', event: 'Released "Darkness Descends" with Dark Angel, a thrash metal landmark' },
           { year: '1992', event: 'Joined Chuck Schuldiner\'s Death for "Individual Thought Patterns" sessions' },
           { year: '1995', event: 'Recorded "Symbolic" with Death, widely considered his masterwork' },
-          { year: '1997', event: 'Joined Strapping Young Lad, collaborating with Devin Townsend' },
+          { year: '1997', event: 'Joined Testament for a brief first stint, recording "Demonic"; later joined Strapping Young Lad, collaborating with Devin Townsend' },
           { year: '2005', event: 'Performed on "Alien" with Strapping Young Lad, one of the heaviest albums ever' },
-          { year: '2007', event: 'Became Testament\'s drummer; recorded for Dethklok' },
-          { year: '2008', event: 'Drummed on "The Formation of Damnation," Testament\'s acclaimed comeback' },
-          { year: '2012', event: 'Joined Fear Factory; released "The Industrialist"' },
+          { year: '2011', event: 'Rejoined Testament; also recorded for Dethklok' },
+          { year: '2012', event: 'Drummed on "Dark Roots of Earth," Testament\'s first album of his second stint; also joined Fear Factory and released "The Industrialist"' },
           { year: '2020', event: 'Released "Titans of Creation" with Testament during COVID-19 pandemic' }
         ]
       },
@@ -350,12 +349,12 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
           { name: 'Death - Symbolic', year: 1995, label: 'Roadrunner', note: 'Considered his masterpiece' },
           { name: 'Strapping Young Lad - City', year: 1997, label: 'Century Media', note: 'One of the heaviest albums ever' },
           { name: 'Strapping Young Lad - Alien', year: 2005, label: 'Century Media', note: 'Extreme metal tour de force' },
-          { name: 'Testament - The Formation of Damnation', year: 2008, label: 'Nuclear Blast', note: 'Triumphant comeback' },
+          { name: 'Testament - Dark Roots of Earth', year: 2012, label: 'Nuclear Blast', note: 'First album of his second Testament stint' },
           { name: 'Dethklok - The Dethalbum', year: 2007, label: 'Williams Street', note: 'Animated band, real metal' },
           { name: 'Testament - Titans of Creation', year: 2020, label: 'Nuclear Blast', note: 'Pandemic-era masterwork' }
         ],
         tours: [
-          { name: 'Testament World Tours', year: '2007-Present', note: 'Primary touring drummer' },
+          { name: 'Testament World Tours', year: '2011-2022', note: 'Touring drummer during his second stint' },
           { name: 'Dethklok Tours', year: '2008-2014', note: 'Adult Swim animated band live shows' },
           { name: 'Death To All', year: '2012-2013', note: 'Tribute to Chuck Schuldiner\'s Death' }
         ]

@@ -743,6 +743,12 @@ export const GEAR_INDEX = {
         "configString": "Zildjian A Custom Series (14\" Dyno Beat Hi-Hats, 16\", 17\" & 18\" Rock Crashes, 20\" Z Custom China, 22\" Ride)"
       },
       {
+        "id": 6,
+        "name": "George Kollias",
+        "slug": "george-kollias",
+        "configString": "Zildjian A Custom Series"
+      },
+      {
         "id": 29,
         "name": "Igor Cavalera",
         "slug": "igor-cavalera",

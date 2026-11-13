@@ -664,7 +664,7 @@ const drummers = [
     country: 'Greece',
     image: '/images/drummers/george-kollias.webp',
     bio: 'George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.',
-    kitOverview: 'George Kollias plays a Pearl Masterworks Stadium Exotic drum kit — Piano Black with Gold Hardware — the configuration engineered for Nile\'s extreme technical death metal demands since 2004. As one of the fastest drummers in extreme metal, sustaining blast beats at 240+ BPM with surgical clarity, the George Kollias drum set centers on his co-designed Pearl Demon XR double pedal, which provides the linear, direct action required for rapid-fire bass drum sequences defining tracks like "Annihilation of the Wicked" and "Those Whom the Gods Detest."\n\nThe cornerstone of the drum kit is his Pearl George Kollias Signature snare — a 14×6.5" model designed for cutting articulation through Nile\'s densely layered guitar and bass walls. Zildjian cymbals complete the George Kollias drum set: 14" K Mastersound Hi-Hats for dry, defined hi-hat articulation; 17" and 18" K Custom Dark Crashes for explosive accent layering; a 21" A Custom Mega Bell Ride for powerful rhythmic definition; and an 18" China for aggressive punctuation. Vic Firth George Kollias Signature SGK sticks and Evans heads round out this drum set purpose-built for extreme technical death metal.',
+    kitOverview: 'George Kollias plays a Pearl Masterworks Stadium Exotic drum kit — Piano Black with Gold Hardware — the configuration engineered for Nile\'s extreme technical death metal demands since 2004. As one of the fastest drummers in extreme metal, sustaining blast beats at 240+ BPM with surgical clarity, the George Kollias drum set centers on his co-designed Pearl Demon XR double pedal, which provides the linear, direct action required for rapid-fire bass drum sequences defining tracks like "Annihilation of the Wicked" and "Those Whom the Gods Detest."\n\nThe cornerstone of the drum kit is a Pearl snare (the specific model has not been independently verified), delivering the cutting articulation needed to project through Nile\'s densely layered guitar and bass walls. Zildjian A Custom Series cymbals complete the George Kollias drum set, giving his hi-hats, crashes, and ride the bright, cutting attack that cuts through the mix. Vic Firth George Kollias Signature SGK sticks and Evans heads round out this drum set purpose-built for extreme technical death metal.',
     sameAs: [
       'https://en.wikipedia.org/wiki/George_Kollias_(drummer)',
       'https://www.instagram.com/george_kollias/',
@@ -673,12 +673,13 @@ const drummers = [
     ],
     gear: {
       drums: 'Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)',
-      snare: 'Pearl George Kollias Signature 14x6.5"',
-      cymbals: 'Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)',
+      snare: 'Pearl (specific model not independently verified)',
+      cymbals: 'Zildjian A Custom Series',
       hardware: 'Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne',
       sticks: 'Vic Firth',
       heads: 'Evans',
-      verified: true,
+      verified: false,
+      notes: 'Pearl, Zildjian, Vic Firth, and Evans endorsements confirmed; the specific snare model is not independently verified — sources are generic artist-roster pages that do not name a snare model.',
       sources: ['https://pearldrum.com/en/artist/george-kollias/15801', 'https://zildjian.com/artists', 'https://vicfirth.com/products/signature-series-george-kollias']
     },
     photos: [

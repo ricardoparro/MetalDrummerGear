@@ -80,9 +80,9 @@ Full drummer profile: [Paul Mazurkiewicz on MetalForge](https://metalforge.io/dr
 
 **Band:** Arch Enemy
 **Highlight:** Pearl Reference Pure — Arch Enemy's melodic death metal engine
-**Why ranked here:** Daniel Erlandsson is a Pearl Drums artist, running a Pearl Reference Pure kit in custom black finish with a Pearl Daniel Erlandsson Signature 14"x5.5" snare and Pearl Eliminator double pedal, having started on a Pearl Masters Premium kit for Arch Enemy's 2001 "Wages of Sin." Erlandsson earns rank #7 for a Pearl relationship documented across Arch Enemy's entire melodic death metal catalog.
+**Why ranked here:** Daniel Erlandsson is a Pearl Drums artist, running a Pearl Reference Pure kit in custom black finish with a Pearl Daniel Erlandsson Signature 14"x5.5" snare and Pearl Eliminator double pedal, having started on a Pearl Export / Session Series kit for Arch Enemy's 2001 "Wages of Sin." Erlandsson earns rank #7 for a Pearl relationship documented across Arch Enemy's entire melodic death metal catalog.
 
-Daniel Erlandsson (Arch Enemy) earns rank #7 for: pearl reference pure — arch enemy's melodic death metal engine. Daniel Erlandsson is a Pearl Drums artist, running a Pearl Reference Pure kit in custom black finish with a Pearl Daniel Erlandsson Signature 14"x5.5" snare and Pearl Eliminator double pedal, having started on a Pearl Masters Premium kit for Arch Enemy's 2001 "Wages of Sin." Erlandsson earns rank #7 for a Pearl relationship documented across Arch Enemy's entire melodic death metal catalog..
+Daniel Erlandsson (Arch Enemy) earns rank #7 for: pearl reference pure — arch enemy's melodic death metal engine. Daniel Erlandsson is a Pearl Drums artist, running a Pearl Reference Pure kit in custom black finish with a Pearl Daniel Erlandsson Signature 14"x5.5" snare and Pearl Eliminator double pedal, having started on a Pearl Export / Session Series kit for Arch Enemy's 2001 "Wages of Sin." Erlandsson earns rank #7 for a Pearl relationship documented across Arch Enemy's entire melodic death metal catalog..
 
 Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 

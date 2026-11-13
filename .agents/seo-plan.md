@@ -16963,3 +16963,38 @@ Not due this run (today is Friday 2026-11-13; next due Monday 2026-11-16, group 
 2. Continue the "heavily-patched drummer → unfixed root-cause file" hunting ground on `api/drummers/index.js`: Bill Ward's Black Sabbath tenure (`1968–1983, 1997–2006`) was spot-checked but not resolved this run — his real history involves a 1980 departure (replaced by Vinny Appice) and a complicated mid-80s/2012-2013 reunion-and-fallout arc; needs careful verification against `bands.js` + external sources before filing, not a quick grep. Also worth a pass on Mike Portnoy's other `bands` array entries (Liquid Tension Experiment, Transatlantic both say `'present'` — plausible but unverified this run) and Flying Colors' omission from his bands array despite being named in his own bio prose.
 3. GSC content-gap: zero rows this week (12,090 impr/291 clicks/2.41% CTR/pos 7.9).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-13 ~UTC — SEO Agent run: 5/8 proposals filed #10584-10588 (top10Lists.js fabrication sweep)
+
+### Bank check
+6 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819) — untriaged fresh bank effectively 0. Well under the 45 floor → cleared to file up to 8 net-new. Today is Friday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 12,090 impr/291 clicks/2.41% CTR/pos 7.9, metrics.md 07:02 UTC) — no CTR-fix proposals needed.
+
+### Method
+New-page freeze + LLM-first mode still binding (founder decision 2026-07-28, unchanged). With zero CTR-gap rows and the bank near-empty, continued the established high-value pattern from the past two weeks: hunt for fabricated/self-contradictory drummer gear facts on already-shipped pages in large hand-authored data files that haven't yet been swept. `drummerComparisons.js`, `battles.js`, `soundLikeGuides.js`, `genreGearGuides.js` have each had 6-12+ rounds of fixes; `gearComparisons.js` and the `*ReferencePages.js` family (cymbal/snare/drumstick/pedal) came up clean in this run's audit (no fabrication survives there — `gearComparisons.js` shows signs of prior careful curation, `*ReferencePages.js` was swept by #6976/#6977/#7159/#7160/#7339 in September). `top10Lists.js` (859KB, never swept as a dedicated target) yielded 5 confirmed, independently-verified, non-duplicate findings — all cross-checked directly against `api/drummers/index.js`/`bands.js` ground truth before filing:
+- #10584 George Kollias: fabricated signature snare model + Zildjian K Custom Dark/Mega Bell cymbal setup (3 locations) — same fabrication #10577 just fixed in the root roster record; `top10Lists.js` was one of the 12+ never-swept mirrors.
+- #10585 Gene Hoglan: wrong current gear brand (Tama/Zildjian instead of verified Pearl/Sabian, 2 FAQ locations) + misattributed Death "Human" (1991) album credit (5 locations) — verified against `bands.js`'s explicit Sean Reinert/Hoglan drummer-by-album table.
+- #10586 Ray Luzier: fabricated snare material/size ("14"x5" brass or steel") where ground truth explicitly hedges `verified: false`, "not independently verified."
+- #10587 Eloy Casagrande: joined Slipknot in 2024, file says 2023 — date bleed from the adjacent Weinberg-departure-announcement date.
+- #10588 Pete Sandoval: fabricated "ddrum Dios"/"ddrum Mercury" model names (2 locations) — same cross-contamination-from-Shannon-Larkin bug class #8994 already fixed once in `gearPriceHistory.js`, never swept from `top10Lists.js`.
+
+Filed 5 of the 8 ceiling — stopped at 5 high-confidence findings rather than padding to 8, consistent with the "quality over volume" rule. `gearComparisons.js` and `*ReferencePages.js` audits returned zero forceable findings (explicitly not padded).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10584-10588 (this run, 5 fresh)
+
+### Next run
+1. Watch #10584-10588 pick up via Roadie. #10586 explicitly asks the implementer to also check the adjacent Hoglan Pearl-list entry in the same file for the identical unverified-snare-specificity bug (same list, same bug class, flag-only — not independently verified by me this run, left for Roadie's own grep step).
+2. `top10Lists.js` is 859KB and was audited via targeted grep on ~19 known fabrication-prone drummers, not exhaustively — worth a follow-up pass on remaining drummers if the bank runs dry again before the next GSC-gap signal.
+3. GSC content-gap: zero rows this week (12,090 impr/291 clicks/2.41% CTR/pos 7.9).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

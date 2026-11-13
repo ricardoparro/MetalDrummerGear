@@ -295,8 +295,8 @@ const drummers = [
     band: 'Death / Testament / Dethklok',
     bands: [
       { name: 'Dark Angel', period: '1984–1992, 2013–present', current: true },
-      { name: 'Death', period: '1993–1995', current: false },
-      { name: 'Testament', period: '2007–2011, 2014–present', current: true },
+      { name: 'Death', period: '1992–1995', current: false },
+      { name: 'Testament', period: '1996–1997, 2011–2022', current: false },
       { name: 'Dethklok', period: '2007–2013', current: false },
       { name: 'Fear Factory', period: '1997–1998', current: false },
       { name: 'Strapping Young Lad', period: '2003–2006', current: false }
@@ -305,7 +305,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/gene-hoglan.webp',
     bio: 'Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.',
-    kitOverview: 'Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany hybrid shell chosen for its tonal clarity and projection at the extreme tempos Hoglan maintains across death metal, thrash metal, and progressive metal. The cornerstone of the Gene Hoglan drum set is a Pearl snare (the specific model has not been independently verified), delivering the precise, cutting crack his metronomic playing demands, earning him the nickname "The Atomic Clock."\n\nSabian AAX cymbals complete the Gene Hoglan drum kit: 15" AAX Hi-Hats for crisp, articulate hi-hat patterns; 18" and 20" AAX Crashes for quick-response accent work across Death\'s Symbolic, Testament\'s Formation of Damnation, and Dethklok sessions; a 22" AAX Ride; and a 20" AAX China. Pearl Demon Drive double pedals — engineered for single-chain precision — power the blazing double-bass passages that are a Hoglan trademark.\n\nThe Gene Hoglan drum set has remained consistent in its Pearl/Sabian configuration across more than 20 bands over four decades. He uses Promark Classic Forward 2B drumsticks and Evans drumheads tuned for focused tone — a setup equally effective for Dark Angel\'s thrash, Death\'s technical death metal, and Dethklok\'s satirical brutality.',
+    kitOverview: 'Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany hybrid shell chosen for its tonal clarity and projection at the extreme tempos Hoglan maintains across death metal, thrash metal, and progressive metal. The cornerstone of the Gene Hoglan drum set is a Pearl snare (the specific model has not been independently verified), delivering the precise, cutting crack his metronomic playing demands, earning him the nickname "The Atomic Clock."\n\nSabian AAX cymbals complete the Gene Hoglan drum kit: 15" AAX Hi-Hats for crisp, articulate hi-hat patterns; 18" and 20" AAX Crashes for quick-response accent work across Death\'s Symbolic, Testament\'s Dark Roots of Earth, and Dethklok sessions; a 22" AAX Ride; and a 20" AAX China. Pearl Demon Drive double pedals — engineered for single-chain precision — power the blazing double-bass passages that are a Hoglan trademark.\n\nThe Gene Hoglan drum set has remained consistent in its Pearl/Sabian configuration across more than 20 bands over four decades. He uses Promark Classic Forward 2B drumsticks and Evans drumheads tuned for focused tone — a setup equally effective for Dark Angel\'s thrash, Death\'s technical death metal, and Dethklok\'s satirical brutality.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Gene_Hoglan',
       'https://www.instagram.com/gene_hoglan/',
@@ -382,9 +382,9 @@ const drummers = [
       },
       {
         era: 'Testament & Dethklok',
-        years: '2007-Present',
-        description: 'Gene became Testament\'s drummer while also recording with the animated band Dethklok.',
-        albums: ['The Formation of Damnation', 'Dark Roots of Earth', 'Titans of Creation', 'Dethalbum I, II, III'],
+        years: '2007-2022',
+        description: 'Gene began recording with the animated band Dethklok in 2007 and rejoined Testament in 2011 for his second stint.',
+        albums: ['Dark Roots of Earth', 'Titans of Creation', 'Dethalbum I, II, III'],
         gear: {
           drums: 'Pearl Reference Pure',
           snare: 'Pearl (specific model not independently verified)',

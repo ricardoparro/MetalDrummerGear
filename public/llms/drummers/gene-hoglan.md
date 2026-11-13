@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-13"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -31,7 +31,7 @@ Gene Hoglan's drum kit and gear setup. Gene Hoglan is a professional metal drumm
 
 Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany hybrid shell chosen for its tonal clarity and projection at the extreme tempos Hoglan maintains across death metal, thrash metal, and progressive metal. The cornerstone of the Gene Hoglan drum set is a Pearl snare (the specific model has not been independently verified), delivering the precise, cutting crack his metronomic playing demands, earning him the nickname "The Atomic Clock."
 
-Sabian AAX cymbals complete the Gene Hoglan drum kit: 15" AAX Hi-Hats for crisp, articulate hi-hat patterns; 18" and 20" AAX Crashes for quick-response accent work across Death's Symbolic, Testament's Formation of Damnation, and Dethklok sessions; a 22" AAX Ride; and a 20" AAX China. Pearl Demon Drive double pedals — engineered for single-chain precision — power the blazing double-bass passages that are a Hoglan trademark.
+Sabian AAX cymbals complete the Gene Hoglan drum kit: 15" AAX Hi-Hats for crisp, articulate hi-hat patterns; 18" and 20" AAX Crashes for quick-response accent work across Death's Symbolic, Testament's Dark Roots of Earth, and Dethklok sessions; a 22" AAX Ride; and a 20" AAX China. Pearl Demon Drive double pedals — engineered for single-chain precision — power the blazing double-bass passages that are a Hoglan trademark.
 
 The Gene Hoglan drum set has remained consistent in its Pearl/Sabian configuration across more than 20 bands over four decades. He uses Promark Classic Forward 2B drumsticks and Evans drumheads tuned for focused tone — a setup equally effective for Dark Angel's thrash, Death's technical death metal, and Dethklok's satirical brutality.
 
@@ -50,13 +50,12 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
 - **1983** — Started career as a roadie/drum tech for Slayer
 - **1984** — Joined Dark Angel, earning the "Human Drum Machine" nickname
 - **1986** — Released "Darkness Descends" with Dark Angel, a thrash metal landmark
-- **1991** — Joined Chuck Schuldiner's Death for "Individual Thought Patterns" sessions
+- **1992** — Joined Chuck Schuldiner's Death for "Individual Thought Patterns" sessions
 - **1995** — Recorded "Symbolic" with Death, widely considered his masterwork
-- **1997** — Joined Strapping Young Lad, collaborating with Devin Townsend
+- **1997** — Joined Testament for a brief first stint, recording "Demonic"; later joined Strapping Young Lad, collaborating with Devin Townsend
 - **2005** — Performed on "Alien" with Strapping Young Lad, one of the heaviest albums ever
-- **2007** — Became Testament's drummer; recorded for Dethklok
-- **2008** — Drummed on "The Formation of Damnation," Testament's acclaimed comeback
-- **2012** — Joined Fear Factory; released "The Industrialist"
+- **2011** — Rejoined Testament; also recorded for Dethklok
+- **2012** — Drummed on "Dark Roots of Earth," Testament's first album of his second stint; also joined Fear Factory and released "The Industrialist"
 - **2020** — Released "Titans of Creation" with Testament during COVID-19 pandemic
 
 ## Style & Influences
@@ -86,21 +85,21 @@ Gene Hoglan's drumming philosophy centers on serving the music while pushing tec
 - **Death - Symbolic** (1995, Roadrunner) — Considered his masterpiece
 - **Strapping Young Lad - City** (1997, Century Media) — One of the heaviest albums ever
 - **Strapping Young Lad - Alien** (2005, Century Media) — Extreme metal tour de force
-- **Testament - The Formation of Damnation** (2008, Nuclear Blast) — Triumphant comeback
+- **Testament - Dark Roots of Earth** (2012, Nuclear Blast) — First album of his second Testament stint
 - **Dethklok - The Dethalbum** (2007, Williams Street) — Animated band, real metal
 - **Testament - Titans of Creation** (2020, Nuclear Blast) — Pandemic-era masterwork
 
 **Tours:**
 
-- **Testament World Tours** (2007-Present) — Primary touring drummer
+- **Testament World Tours** (2011-2022) — Touring drummer during his second stint
 - **Dethklok Tours** (2008-2014) — Adult Swim animated band live shows
 - **Death To All** (2012-2013) — Tribute to Chuck Schuldiner's Death
 
 ## Band History
 
 - **Dark Angel** — 1984–1992, 2013–present (current)
-- **Death** — 1993–1995
-- **Testament** — 2007–2011, 2014–present (current)
+- **Death** — 1992–1995
+- **Testament** — 1996–1997, 2011–2022
 - **Dethklok** — 2007–2013
 - **Fear Factory** — 1997–1998
 - **Strapping Young Lad** — 2003–2006
@@ -258,4 +257,4 @@ Dated brand-endorsement timeline: [Gene Hoglan's endorsement history](https://me
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-13 · Source: [MetalForge.io](https://metalforge.io)*

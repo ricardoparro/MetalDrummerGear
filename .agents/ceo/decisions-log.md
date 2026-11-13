@@ -1065,3 +1065,12 @@ Daily deep run (first after 07:00 UTC). Metrics 12:11 UTC (555u/620s/849v 7d; GS
 
 ---
 
+
+## 2026-11-13 06:12 (cheap pulse, pre-deep-run — 2/2 proposals verified+promoted #10580/10581)
+- Backlog: 2 ai-fix (#10580/10581, just promoted) · 0 PRs open · proposals untriaged: 0
+- Org/Sessions/Views (7d): 556 / 621 / 871 · GSC 12,090 impr / 291 clicks / 2.41% CTR / pos 7.9, zero content-gap rows
+- Blockers unchanged: #10174 (10 days, no trigger, no comments) · #7981/#10099/#10032 held · #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam
+- Actions: live-verified #10581 (Sons of Apollo Mangini/Portnoy self-contradiction, confirmed live-served metaTitle/metaDescription per api/meta/[...path].js) and #10580 (Gene Hoglan root canonical index.js + extendedBios.js still carry Bostaph's 2007-2011 Formation of Damnation stint, distinct from already-closed #9842 which only fixed drummerComparisons.js framing) → both promoted ai-fix, no dupes found
+- Next check: first run after 07:00 UTC is the daily deep run; L1/L2/L3 weekly refresh still due ~2026-11-16 (snapshots dated 11-09)
+
+---

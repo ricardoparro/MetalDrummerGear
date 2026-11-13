@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-13 01:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-13 06:12 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,49 +8,50 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 536 |
-| Sessions | 598 |
-| Page views | 837 |
-| Engagement rate | 59.87% |
-| Avg session (s) | 116 |
+| Active users | 556 |
+| Sessions | 621 |
+| Page views | 871 |
+| Engagement rate | 60.23% |
+| Avg session (s) | 113 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 41 | 16 |
-| / | 35 | 21 |
+| / | 36 | 21 |
+| /drummer/eloy-casagrande | 19 | 12 |
 | /drummers | 18 | 7 |
 | /drummer/mario-duplantier | 16 | 13 |
 | /articles/john-otto-drum-setup | 15 | 14 |
 | /drummer/bill-ward | 14 | 13 |
-| /drummer/eloy-casagrande | 13 | 10 |
+| /drummer/igor-cavalera | 12 | 11 |
 | /articles/whats-in-lars-ulrichs-kit | 11 | 9 |
-| /drummer/igor-cavalera | 10 | 9 |
-| /drummer/jay-weinberg | 9 | 4 |
+| /articles/slipknot-self-titled-drum-setup | 9 | 9 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 421 | 369 |
-| Direct | 161 | 153 |
-| Unassigned | 19 | 17 |
+| Organic Search | 439 | 383 |
+| Direct | 163 | 155 |
+| Unassigned | 20 | 18 |
 | Referral | 5 | 5 |
+| Cross-network | 4 | 4 |
 | Organic Social | 3 | 3 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 194 | 165 |
+| United States | 207 | 175 |
 | Singapore | 82 | 82 |
 | Portugal | 30 | 29 |
-| United Kingdom | 28 | 24 |
-| Germany | 20 | 18 |
-| Canada | 18 | 15 |
-| Sweden | 18 | 16 |
+| United Kingdom | 30 | 26 |
+| Germany | 21 | 18 |
+| Canada | 19 | 16 |
+| Sweden | 19 | 16 |
 | Australia | 13 | 13 |
+| China | 12 | 12 |
 | Netherlands | 11 | 9 |
-| Russia | 11 | 10 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

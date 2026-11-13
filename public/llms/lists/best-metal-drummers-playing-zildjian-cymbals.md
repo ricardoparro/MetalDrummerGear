@@ -1,6 +1,6 @@
 # Top 7 Metal Drummers Playing Zildjian Cymbals — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals)
+> **Last updated:** 2026-11-13 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals)
 
 ---
 
@@ -14,7 +14,7 @@ The metal drummers with verified Zildjian cymbal setups, ranked. Lars Ulrich's a
 
 ## Rankings
 
-Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Lars Ulrich, George Kollias, Mario Duplantier, Jay Weinberg, Arin Ilejay, and more.
+Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Lars Ulrich, George Kollias, Mario Duplantier, Jay Weinberg, Raymond Herrera, and more.
 
 ### 1. Lars Ulrich
 
@@ -56,15 +56,15 @@ Jay Weinberg (Slipknot / Suicidal Tendencies) earns rank #4 for: zildjian a cust
 
 Full drummer profile: [Jay Weinberg on MetalForge](https://metalforge.io/drummer/jay-weinberg)
 
-### 5. Arin Ilejay
+### 5. Raymond Herrera
 
-**Band:** ex-Avenged Sevenfold
+**Band:** Fear Factory / Brujeria
 **Highlight:** From triggered Z Custom pioneer to a modern Z Custom rig
 **Why ranked here:** Raymond Herrera pioneered a hybrid acoustic/electronic Zildjian setup on Fear Factory's "Demanufacture" (1995), pairing Zildjian Z Custom cymbals with a full Roland/ddrum trigger rack in a rig that cost roughly $5,200 at the time and helped define industrial metal's mechanical drum sound. His current setup has consolidated onto Tama Starclassic shells with Zildjian Z Custom cymbals, dropping the dedicated trigger rack as modern triggering technology became more compact. Herrera earns rank #5 for a Zildjian relationship documented across three decades of gear evolution.
 
-Arin Ilejay (ex-Avenged Sevenfold) earns rank #5 for: from triggered z custom pioneer to a modern z custom rig. Raymond Herrera pioneered a hybrid acoustic/electronic Zildjian setup on Fear Factory's "Demanufacture" (1995), pairing Zildjian Z Custom cymbals with a full Roland/ddrum trigger rack in a rig that cost roughly $5,200 at the time and helped define industrial metal's mechanical drum sound. His current setup has consolidated onto Tama Starclassic shells with Zildjian Z Custom cymbals, dropping the dedicated trigger rack as modern triggering technology became more compact. Herrera earns rank #5 for a Zildjian relationship documented across three decades of gear evolution..
+Raymond Herrera (Fear Factory / Brujeria) earns rank #5 for: from triggered z custom pioneer to a modern z custom rig. Raymond Herrera pioneered a hybrid acoustic/electronic Zildjian setup on Fear Factory's "Demanufacture" (1995), pairing Zildjian Z Custom cymbals with a full Roland/ddrum trigger rack in a rig that cost roughly $5,200 at the time and helped define industrial metal's mechanical drum sound. His current setup has consolidated onto Tama Starclassic shells with Zildjian Z Custom cymbals, dropping the dedicated trigger rack as modern triggering technology became more compact. Herrera earns rank #5 for a Zildjian relationship documented across three decades of gear evolution..
 
-Full drummer profile: [Arin Ilejay on MetalForge](https://metalforge.io/drummer/arin-ilejay)
+Full drummer profile: [Raymond Herrera on MetalForge](https://metalforge.io/drummer/raymond-herrera)
 
 ### 6. John Otto
 
@@ -117,4 +117,4 @@ A: Every entry on this list requires a Zildjian relationship that's independentl
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-13 · Source: [MetalForge.io](https://metalforge.io)*

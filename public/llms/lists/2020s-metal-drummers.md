@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 2020s — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2020s-metal-drummers)
+> **Last updated:** 2026-11-13 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2020s-metal-drummers)
 
 ---
 
@@ -50,9 +50,9 @@ Full drummer profile: [Jay Weinberg on MetalForge](https://metalforge.io/drummer
 
 **Band:** Sepultura / Slipknot
 **Highlight:** Sepultura to Slipknot — a rare cross-legacy leap
-**Why ranked here:** Eloy Casagrande spent 2011–2024 anchoring Sepultura's Brazilian thrash-death standard before joining Slipknot in 2023, an unusual mid-career jump between two of extreme metal's most demanding drum chairs that confirmed his status as one of the decade's most in-demand percussionists.
+**Why ranked here:** Eloy Casagrande spent 2011–2024 anchoring Sepultura's Brazilian thrash-death standard before joining Slipknot in 2024, an unusual mid-career jump between two of extreme metal's most demanding drum chairs that confirmed his status as one of the decade's most in-demand percussionists.
 
-Eloy Casagrande (Sepultura / Slipknot) earns rank #4 for: sepultura to slipknot — a rare cross-legacy leap. Eloy Casagrande spent 2011–2024 anchoring Sepultura's Brazilian thrash-death standard before joining Slipknot in 2023, an unusual mid-career jump between two of extreme metal's most demanding drum chairs that confirmed his status as one of the decade's most in-demand percussionists..
+Eloy Casagrande (Sepultura / Slipknot) earns rank #4 for: sepultura to slipknot — a rare cross-legacy leap. Eloy Casagrande spent 2011–2024 anchoring Sepultura's Brazilian thrash-death standard before joining Slipknot in 2024, an unusual mid-career jump between two of extreme metal's most demanding drum chairs that confirmed his status as one of the decade's most in-demand percussionists..
 
 Full drummer profile: [Eloy Casagrande on MetalForge](https://metalforge.io/drummer/eloy-casagrande)
 
@@ -145,4 +145,4 @@ A: The most notable 2020s metal drumming releases so far include Megadeth's "The
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-13 · Source: [MetalForge.io](https://metalforge.io)*

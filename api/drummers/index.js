@@ -2879,9 +2879,9 @@ const drummers = [
       '/images/drummers/aquiles-priester.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/a/a0/Aquiles_Priester_Cropped_-Aquiles_Priester_El_SALVADOR.jpg
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'ProMark Sticks', url: 'https://www.promark.com' },
       { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
@@ -3047,8 +3047,9 @@ const drummers = [
     ],
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'ProMark Sticks', url: 'https://www.promark.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
       { title: 'Arch Enemy - Nemesis (Drum Cam)', youtubeId: 'n9AcG0glVu4', year: 2017 }

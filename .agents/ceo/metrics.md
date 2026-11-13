@@ -1,57 +1,12 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-13 07:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-13 08:15 UTC*
 *Lookback: last 7 days*
 
 ---
 
 ## GA4 — Audience
-| Metric | Last 7d |
-| --- | --- |
-| Active users | 558 |
-| Sessions | 623 |
-| Page views | 873 |
-| Engagement rate | 60.19% |
-| Avg session (s) | 113 |
-
-### Top pages (by page views, last 7d)
-| Page | Views | Users |
-| --- | --- | --- |
-| /bpm | 41 | 16 |
-| / | 36 | 21 |
-| /drummer/eloy-casagrande | 19 | 12 |
-| /drummers | 18 | 7 |
-| /drummer/mario-duplantier | 16 | 13 |
-| /articles/john-otto-drum-setup | 15 | 14 |
-| /drummer/bill-ward | 14 | 13 |
-| /drummer/igor-cavalera | 12 | 11 |
-| /articles/whats-in-lars-ulrichs-kit | 11 | 9 |
-| /articles/slipknot-self-titled-drum-setup | 9 | 9 |
-
-### Traffic sources
-| Channel | Sessions | Users |
-| --- | --- | --- |
-| Organic Search | 441 | 385 |
-| Direct | 163 | 155 |
-| Unassigned | 20 | 18 |
-| Referral | 5 | 5 |
-| Cross-network | 4 | 4 |
-| Organic Social | 3 | 3 |
-| AI Assistant | 1 | 1 |
-
-### Top countries (sessions, last 7d)
-| Country | Sessions | Users |
-| --- | --- | --- |
-| United States | 207 | 175 |
-| Singapore | 82 | 82 |
-| Portugal | 30 | 29 |
-| United Kingdom | 30 | 26 |
-| Germany | 21 | 18 |
-| Canada | 20 | 17 |
-| Sweden | 19 | 16 |
-| Australia | 13 | 13 |
-| China | 12 | 12 |
-| Netherlands | 11 | 9 |
+> ⚠️ **GA4 data unavailable:** GA4 error: 4 DEADLINE_EXCEEDED: Deadline exceeded after 60.002s,LB pick: 0.001s,remote_addr=172.217.113.4:443
 
 ## Search Console — Search performance
 | Metric | Last 7d |

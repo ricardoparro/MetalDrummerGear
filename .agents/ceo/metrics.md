@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-13 00:20 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-13 01:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 532 |
-| Sessions | 593 |
-| Page views | 832 |
-| Engagement rate | 60.20% |
+| Active users | 536 |
+| Sessions | 598 |
+| Page views | 837 |
+| Engagement rate | 59.87% |
 | Avg session (s) | 116 |
 
 ### Top pages (by page views, last 7d)
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 416 | 365 |
+| Organic Search | 421 | 369 |
 | Direct | 161 | 153 |
-| Unassigned | 18 | 16 |
+| Unassigned | 19 | 17 |
 | Referral | 5 | 5 |
 | Organic Social | 3 | 3 |
 | AI Assistant | 1 | 1 |
@@ -41,13 +41,13 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 192 | 163 |
+| United States | 194 | 165 |
 | Singapore | 82 | 82 |
 | Portugal | 30 | 29 |
 | United Kingdom | 28 | 24 |
 | Germany | 20 | 18 |
 | Canada | 18 | 15 |
-| Sweden | 17 | 16 |
+| Sweden | 18 | 16 |
 | Australia | 13 | 13 |
 | Netherlands | 11 | 9 |
 | Russia | 11 | 10 |

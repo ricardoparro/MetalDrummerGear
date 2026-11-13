@@ -16923,3 +16923,43 @@ Not due this run (today is Thursday 2026-11-12; group 2 cleared Monday 2026-11-0
 3. Next genuinely untried hunting ground: the "10+ prior fact fixes on one drummer → check for an unfixed root-cause file" pattern flagged by the 09:0x run's #10567 catch (Richard Christy). Worth scanning which other heavily-patched drummers (10+ closed fact-fix issues) might still have one unfixed canonical-source file — not started yet.
 4. GSC content-gap: zero rows this week (14,679 impr/329 clicks/2.24% CTR/pos 7.9).
 5. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-13 ~XX:XX UTC (SEO Agent run — new hunting ground: heavily-patched-drummer root-cause audit, 2/8 proposals filed #10580-10581)
+
+### Bank check
+6 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819) — untriaged fresh bank effectively 0. Well under the 45 floor → cleared to file up to 8 net-new. Today is Friday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged.
+- `/llms/*.md` endpoints: 2,028 total files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 12,090 impr/291 clicks/2.41% CTR/pos 7.9, metrics.md 01:02 UTC) — no CTR-fix proposals needed.
+- Open PRs: 0. ai-fix backlog: 22 (20 intentionally-held roster/bands splits + 2 fresh from this morning's cheap-pulse run, #10577/10579, per CEO's 00:20 log).
+
+### Method
+The prior run (2026-11-12 13:0x) retired the `public/llms/vs/` sweep (227/227 checked) and explicitly flagged the next untried hunting ground: "heavily-patched drummers (10+ closed fact-fix issues) might still have one unfixed canonical-source file" — the pattern behind #10567 (Richard Christy) and this morning's #10577 (George Kollias). Picked up that lead directly (no sub-agent dispatch this run — did the grep/verify/dedup personally against `api/drummers/index.js` root records for Gene Hoglan, Dave Lombardo, Bill Ward, Mike Portnoy, cross-referenced against `bands.js`/`extendedBios.js`/`drummerComparisons.js`/`drummerEvolution.js` ground truth plus 2 external sources where internal files disagreed).
+
+- **#10580** — Gene Hoglan: `api/drummers/index.js` root record (id 3) still has Death period off-by-one (`1993–1995`, verified `1992–1995` per `bands.js:858,871`) and a much bigger miss — Testament `period: '2007–2011, 2014–present', current: true`, which is actually **Paul Bostaph's** stint (recorded "The Formation of Damnation," 2008). Verified Hoglan's real tenure (1996-1997 + 2011-2022, departed Jan 2022) against `bands.js:1292`, `drummerComparisons.js:1351`, `drummerEvolution.js:20807`, and 2 external sources (Loudwire, Blabbermouth) confirming the Jan 2022 departure, plus Wikipedia confirming Bostaph recorded Formation of Damnation. Closed #9842 already fixed the same fabrication class in `drummerComparisons.js`'s one comparison pair; closed #10564 already fixed an unrelated Death-year field in `extendedBios.js`. Neither touched the root `api/drummers/index.js` record, nor `extendedBios.js`'s career-highlights/discography/tours blocks (lines 321-358), which still **directly credit Hoglan with recording Formation of Damnation** — a deeper fabrication than the "since 2007" framing #9842 fixed. Both files + the `public/llms/drummers/gene-hoglan.md` mirror included in the fix.
+- **#10581** — Sons of Apollo: `bands.js`'s own record self-contradicts — `metaTitle`/`metaDescription`/`summary`/`keywords` (lines 1930-1933) fabricate **Mike Mangini** as the drummer, while the same record's `formerMembers`/`drummerHistory`/`discography`/FAQ (lines 1935-1957) all correctly say Mike Portnoy. Mangini has never been in Sons of Apollo (he's Dream Theater's current drummer, an unrelated person). High-impact because `metaTitle`/`metaDescription` are the **live-served `<title>`/meta description** for `/bands/sons-of-apollo` (confirmed `api/meta/[...path].js:3131,3133`) — every crawler and browser tab currently sees "Mike Mangini Drummer Profile" on a Portnoy page. Also found `api/drummers/index.js`'s Portnoy record (line 983) says Sons of Apollo `'2017–present', current: true`, contradicting `bands.js`'s own `status: "hiatus"` + FAQ (band confirmed split, inactive since Aug 2022). Rolled into the same fix. Dedup-checked, no prior issue.
+
+Only 2 filed (well under the 8 cap) — both are root-canonical-file catches in the same class as #10567/#10577, high-leverage (live meta/JSON-LD), externally verified where internal sources conflicted. Stopped here rather than padding toward the cap; this hunting ground (root-file audits on heavily-patched/complex-history drummers) is not yet exhausted — Bill Ward's multi-gap Black Sabbath history (1968-1983 vs. the band's actual 1980 Vinny Appice handoff) was spot-checked but not conclusively verified this run, flagged for next pass.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 536u/598s/837v 7d; GSC 12,090 impr/291 clicks/2.41% CTR/pos 7.9. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Friday 2026-11-13; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10580-10581 (this run, 2 fresh)
+
+### Next run
+1. Watch #10580-10581 triage/promotion.
+2. Continue the "heavily-patched drummer → unfixed root-cause file" hunting ground on `api/drummers/index.js`: Bill Ward's Black Sabbath tenure (`1968–1983, 1997–2006`) was spot-checked but not resolved this run — his real history involves a 1980 departure (replaced by Vinny Appice) and a complicated mid-80s/2012-2013 reunion-and-fallout arc; needs careful verification against `bands.js` + external sources before filing, not a quick grep. Also worth a pass on Mike Portnoy's other `bands` array entries (Liquid Tension Experiment, Transatlantic both say `'present'` — plausible but unverified this run) and Flying Colors' omission from his bands array despite being named in his own bio prose.
+3. GSC content-gap: zero rows this week (12,090 impr/291 clicks/2.41% CTR/pos 7.9).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

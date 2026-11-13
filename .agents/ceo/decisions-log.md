@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-13 00:20 UTC*
 
 ---
+## 2026-11-13 12:11 — daily deep run: 5/5 proposals verified+promoted #10584-10588
+
+### Context (≤3 lines)
+First substantive run after 07:00 UTC. Metrics 12:11 UTC (GSC 12,090 impr/291 clicks/2.41% CTR/pos 7.9, zero content-gap rows; GA4 unavailable — DEADLINE_EXCEEDED, not treated as a blocker). At run start: eligible `ai-fix` backlog **0** (prior #10577/10579 already merged per commits c4b8bac30/58ebac3c0), 0 open PRs, 5 fresh untriaged `seo-proposal` (#10584-10588, filed 07:11-07:12 UTC) — continuation of the `top10Lists.js` fabrication sweep, same bug class as the just-merged root-file fixes.
+
+### Actions taken
+- **Live-verified all 5 directly** via grep against cited ground truth, zero dupes (`gh issue list --label ai-fix --search` per drummer — all hits were prior CLOSED issues on different files/lines):
+  - #10584 George Kollias: confirmed `api/drummers/index.js:674-679` verified gear is Pearl Masterworks Stadium Exotic / Pearl snare (unverified model) / Zildjian A Custom Series only. Confirmed 3 fabricated locations in top10Lists.js (signature snare model, K Custom Dark line, Mega Bell Ride) exactly as described.
+  - #10585 Gene Hoglan: confirmed ground truth current gear is Pearl Reference Pure/Sabian AAX, yet top10Lists.js:1992,2021 still state Tama/Zildjian. Confirmed via bands.js that Sean Reinert (not Hoglan) recorded Death's "Human" (1991); Hoglan joined Dec 1992. Confirmed 5 "Human" misattribution lines.
+  - #10586 Ray Luzier: confirmed ground truth snare is `verified: false`/unconfirmed, top10Lists.js:3348 fabricates "14x5 brass or steel." Also independently confirmed the issue's own flagged sibling bug — the Hoglan entry in the same list (line 3347) has the identical fabrication pattern; in scope for the same PR.
+  - #10587 Eloy Casagrande: confirmed bands.js — Slipknot join was 2024 (audition Jan, confirmed May 1, first live Apr 25), not 2023 (that's only when Slipknot announced splitting with Weinberg). top10Lists.js:3002 conflates the two dates.
+  - #10588 Pete Sandoval: confirmed ground truth marks drums/snare/pedal as unconfirmed ddrum-brand-only; top10Lists.js:1852,3469 fabricate "Dios"/"Mercury" model names — same cross-contamination class #8994 already fixed in a sibling file (gearPriceHistory.js), never swept here.
+  - All 5 promoted to `ai-fix` with verification comments. All are existing-page data-rot fixes on `top10Lists.js`, compliant with the new-page freeze.
+- **GSC content-gap**: zero rows. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 (10 days unanswered) / #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 (genuine source conflicts needing founder judgment) unchanged.
+- **L1/L2/L3**: snapshots still dated 2026-11-09 (gsc-watch #3810, llm-citations #2211, indexation #3819) — confirmed via file git-log and issue `updatedAt`; next weekly refresh due ~2026-11-16, not due this run.
+- **Starvation check**: post-triage backlog 0→5 (<15), bank 5→0 (≤2) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady at ~5/day), not genuine starvation.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 5 just-promoted (fresh). The 20 `hold`-labeled roster/bands splits remain intentionally paused under the new-page freeze.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 5 (#10584-10588 promoted)
+- seo-proposal bank (untriaged fresh): 5 → 0
+
+### Quota check
+✅ SEO proposals: 5/5 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-09, not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10584-10588 pick up via Roadie; #10586 bundles a second (Hoglan) fix into the same PR — confirm Roadie's diff actually touches both entries, not just Luzier's.
+2. First run after 13:00 UTC is the mid-day pulse — check Roadie progress on #10584-10588.
+3. #10174 human-founder ask now 10 days old — watch for a concrete trigger to act (not just elapsed time). #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
 ## 2026-11-13 00:20 (cheap pulse, pre-deep-run — 2/2 proposals verified+promoted #10577/10579)
 
 ### Context (≤3 lines)

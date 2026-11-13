@@ -1,6 +1,6 @@
 # Top 10 Progressive Thrash Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/progressive-thrash-metal-drummers)
+> **Last updated:** 2026-11-13 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/progressive-thrash-metal-drummers)
 
 ---
 
@@ -20,9 +20,9 @@ Ranked by documented performance records, genre-defining influence, and technica
 
 **Band:** Death / Testament / Dethklok
 **Highlight:** Death's pivot from death metal into progressive thrash-death
-**Why ranked here:** Gene Hoglan's drumming on Death's "Human" (1991) and "Individual Thought Patterns" (1993) helped pivot the band from straightforward death metal into progressive thrash-death territory — odd-time signatures, jazz-informed fills, and compositional ambition layered over thrash-derived speed. Gene Hoglan earns rank #1 for helping define progressive thrash's death-metal-adjacent wing at its most influential.
+**Why ranked here:** Gene Hoglan's drumming on Death's "Individual Thought Patterns" (1993) and "Symbolic" (1995) helped pivot the band from straightforward death metal into progressive thrash-death territory — odd-time signatures, jazz-informed fills, and compositional ambition layered over thrash-derived speed. Gene Hoglan earns rank #1 for helping define progressive thrash's death-metal-adjacent wing at its most influential.
 
-Gene Hoglan (Death / Testament / Dethklok) earns rank #1 for: death's pivot from death metal into progressive thrash-death. Gene Hoglan's drumming on Death's "Human" (1991) and "Individual Thought Patterns" (1993) helped pivot the band from straightforward death metal into progressive thrash-death territory — odd-time signatures, jazz-informed fills, and compositional ambition layered over thrash-derived speed. Gene Hoglan earns rank #1 for helping define progressive thrash's death-metal-adjacent wing at its most influential..
+Gene Hoglan (Death / Testament / Dethklok) earns rank #1 for: death's pivot from death metal into progressive thrash-death. Gene Hoglan's drumming on Death's "Individual Thought Patterns" (1993) and "Symbolic" (1995) helped pivot the band from straightforward death metal into progressive thrash-death territory — odd-time signatures, jazz-informed fills, and compositional ambition layered over thrash-derived speed. Gene Hoglan earns rank #1 for helping define progressive thrash's death-metal-adjacent wing at its most influential..
 
 Full drummer profile: [Gene Hoglan on MetalForge](https://metalforge.io/drummer/gene-hoglan)
 
@@ -121,7 +121,7 @@ Full drummer profile: [Dave Lombardo on MetalForge](https://metalforge.io/drumme
 ## Frequently Asked Questions
 
 **Q: Who is the best progressive thrash metal drummer?**
-A: Vektor's Blake Anderson, Warbringer's Carlos Cruz, and Coroner's Marquis Marky defined progressive thrash's modern and classic vocabulary but do not currently have dedicated profiles in MetalForge's database. Gene Hoglan is the closest working analogue, his drumming on Death's "Human" and "Individual Thought Patterns" helping pivot death metal into progressive thrash-death territory that remains hugely influential. Richard Christy of Death/Control Denied and Dirk Verbeuren of Megadeth follow closely for their own compositionally ambitious thrash-adjacent catalogs.
+A: Vektor's Blake Anderson, Warbringer's Carlos Cruz, and Coroner's Marquis Marky defined progressive thrash's modern and classic vocabulary but do not currently have dedicated profiles in MetalForge's database. Gene Hoglan is the closest working analogue, his drumming on Death's "Individual Thought Patterns" and "Symbolic" helping pivot death metal into progressive thrash-death territory that remains hugely influential. Richard Christy of Death/Control Denied and Dirk Verbeuren of Megadeth follow closely for their own compositionally ambitious thrash-adjacent catalogs.
 
 **Q: What is progressive thrash metal?**
 A: Progressive thrash metal fuses thrash metal's speed and aggression with progressive metal's odd-time signatures, compositional ambition, and structural complexity, tracing back to Watchtower and Coroner's mid-1980s fusion of thrash velocity with jazz-informed complexity. Death's "Human" (1991) pivoted death metal into progressive thrash-death territory, and a modern revival led by Vektor and Warbringer has carried the style's forward-thinking songwriting into the 2010s and 2020s.
@@ -150,4 +150,4 @@ A: Watchtower is widely credited as progressive thrash's founding band, its mid-
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-13 · Source: [MetalForge.io](https://metalforge.io)*

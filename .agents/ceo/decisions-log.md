@@ -5,6 +5,42 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-13 00:20 UTC*
 
 ---
+## 2026-11-13 18:09 — cheap pulse: 8/8 proposals verified+promoted #10591-10598
+
+### Context (≤3 lines)
+Not a scheduled deep-run slot, but 8 fresh untriaged `seo-proposal` issues had accumulated since the 12:11 deep run (filed 13:11-13:12 UTC) — larger than the usual 2-5/batch, all continuing the `top10Lists.js` fabrication sweep (siblings of the morning's #10584-10588). Metrics 18:09 UTC (GSC 12,090 impr/291 clicks/2.41% CTR/pos 7.9, zero content-gap rows — unchanged from the 06:12/12:11 snapshots, GA4 unavailable/DEADLINE_EXCEEDED). At run start: eligible `ai-fix` backlog **0** (#10584-10588 already merged), 0 open PRs, 8 fresh untriaged proposals (#10591-10598).
+
+### Actions taken
+- **Live-verified all 8 directly** via grep/sed against cited ground truth, zero dupes (`gh issue list --label ai-fix` keyword search across all 8 drummer/list names; also checked closed #8864 for #10594):
+  - #10591 Sabian list: confirmed `api/drummers/index.js` ids 22=Art Cruz/26=Shannon Larkin/28=Morgan Ågren/35=Flo Mounier — top10Lists.js keys Larkin's and Mounier's bios to the wrong numeric IDs (22, 28), plus fabricated Mounier cymbal models/BPM and fabricated Portnoy "Evolution" cymbal line vs. ground truth's X-Plosion/O-Zone/MAX spec. Confirmed exactly.
+  - #10592 Zildjian list: confirmed Raymond Herrera's bio keyed to id 23 (Arin Ilejay) instead of his own id 27. Confirmed.
+  - #10593 Tama-kits list: confirmed fabricated Remo-as-kit-brand chapter for Vinnie Paul (Remo is a drumhead brand only) and confirmed via `drummerEvolution.js` that Grossmann's Tama Starclassic Maple era started at Obscura's 2007 founding, not 2001 as claimed (2001-2004 Necrophagist years explicitly documented as having no fixed gear brand). Confirmed.
+  - #10594 Pearl-kits list: confirmed closed #8864 + current `gearPriceHistory.js` ground truth both state Erlandsson's 2001 "Wages of Sin" kit was Pearl Reference Pure, not the "Pearl Masters Premium" top10Lists.js still states — same fact, independent file, never swept. Issue appropriately hedges its own suggested replacement text pending re-verification. Confirmed.
+  - #10595 Signature-pedal list: confirmed `extendedBios.js:3750` states McBrain's pedal brand is explicitly "unconfirmed," yet top10Lists.js invents "a DW pedal adopted in 1984." Confirmed.
+  - #10596 Signature-drumhead list: confirmed `endorsementNews.js:2481` is the only sourced Evans model for Blake Richardson ("G2 Coated / Hazy 300"), contradicting top10Lists.js's 3 fabricated per-drum models and false "verified against Wikipedia" claim. Confirmed.
+  - #10597 Signature-snare list: confirmed `snares.js`'s own header explicitly flags Portnoy/Danny Carey/Benante as unverified-never-guessed (Vinnie Paul correctly excluded per the issue's own note), and `endorsementNews.js` confirms none of the three have a snare field — yet top10Lists.js states specific fabricated models/dimensions for all three as flat fact. Confirmed.
+  - #10598 Electronic-triggers list: confirmed `api/drummers/index.js` + `drummerEvolution.js` place Mangini's Masterworks+TD-50 combo in his 2010-era chapter only, ending before his 2019 Reference Pure switch — top10Lists.js overstates it running through 2023. Consistent with already-closed #9073 fixing the same fact in a sibling file. Confirmed.
+  - All 8 promoted to `ai-fix` with verification comments. All are existing-page data-rot fixes on `top10Lists.js`, compliant with the new-page freeze.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: zero rows. **Human-founder blockers**: #10174 now 10+ days unanswered, no new concrete trigger — holding. #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 unchanged.
+- **L1/L2/L3**: snapshots still dated 2026-11-09 — next weekly refresh due ~2026-11-16, not due this run.
+- **Starvation check**: post-triage backlog 0→8 (<15), bank 8→0 (≤2) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month; not genuine starvation (SEO Agent cadence actually ran hot this batch at 8 vs. the usual 2-5, a healthy sign, not a gap).
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 8 just-promoted (fresh). The 20 `hold`-labeled roster/bands splits remain intentionally paused under the new-page freeze.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10591-10598 promoted)
+- seo-proposal bank (untriaged fresh): 8 → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-09, not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10591-10598 pick up via Roadie (8-deep batch — day fleet is 3-wide, so expect this to span several hours, not one pass); #10591/10597 bundle multiple sub-fixes into one PR each — confirm both parts land.
+2. First run after 19:00 UTC is the evening review — log what shipped today (13 total promotions: #10580/10581, #10584-10588, #10591-10598) and queue tomorrow's quotas.
+3. #10174 now 10+ days old — still no concrete trigger to escalate on. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
 ## 2026-11-13 12:11 — daily deep run: 5/5 proposals verified+promoted #10584-10588
 
 ### Context (≤3 lines)

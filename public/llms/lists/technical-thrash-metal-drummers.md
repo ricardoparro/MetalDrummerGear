@@ -98,9 +98,9 @@ Full drummer profile: [Hannes Grossmann on MetalForge](https://metalforge.io/dru
 
 **Band:** Sepultura / Slipknot
 **Highlight:** Modern Sepultura and Slipknot — Brazilian technical thrash inheritance
-**Why ranked here:** Eloy Casagrande's explosive speed and technical precision since joining Sepultura in 2011 carried the band's technical thrash-death hybrid forward, and his subsequent move to Slipknot in 2023 confirmed his standing as one of modern metal's most technically complete drummers
+**Why ranked here:** Eloy Casagrande's explosive speed and technical precision since joining Sepultura in 2011 carried the band's technical thrash-death hybrid forward, and his subsequent move to Slipknot in 2024 confirmed his standing as one of modern metal's most technically complete drummers
 
-Eloy Casagrande (Sepultura / Slipknot) earns rank #9 for: modern sepultura and slipknot — brazilian technical thrash inheritance. Eloy Casagrande's explosive speed and technical precision since joining Sepultura in 2011 carried the band's technical thrash-death hybrid forward, and his subsequent move to Slipknot in 2023 confirmed his standing as one of modern metal's most technically complete drummers.
+Eloy Casagrande (Sepultura / Slipknot) earns rank #9 for: modern sepultura and slipknot — brazilian technical thrash inheritance. Eloy Casagrande's explosive speed and technical precision since joining Sepultura in 2011 carried the band's technical thrash-death hybrid forward, and his subsequent move to Slipknot in 2024 confirmed his standing as one of modern metal's most technically complete drummers.
 
 Full drummer profile: [Eloy Casagrande on MetalForge](https://metalforge.io/drummer/eloy-casagrande)
 

@@ -1,6 +1,6 @@
 # 10 Best Thrash Metal Drummers Ranked — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-thrash-metal-drummers)
+> **Last updated:** 2026-11-13 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-thrash-metal-drummers)
 
 ---
 
@@ -126,9 +126,9 @@ Full drummer profile: [Scott Travis on MetalForge](https://metalforge.io/drummer
 
 **Band:** Sepultura / Slipknot
 **Highlight:** New Sepultura — modern thrash's Brazilian standard-bearer
-**Why ranked here:** Eloy Casagrande joined Sepultura in 2011 and has sustained the band's Brazilian extreme metal standard for over a decade, demonstrating on albums like "The Mediator Between Head and Hands Must Be the Heart" and "Machine Messiah" that Sepultura's thrash-death hybrid can continue to evolve without losing its essential character. His ability to honor Igor Cavalera's foundational contribution while developing his own voice within extreme drumming represents one of modern thrash metal's most successful succession stories. His subsequent move to Slipknot in 2023 confirmed his status as one of heavy music's most sought-after percussionists — a modern thrash drummer with the versatility and skills to succeed across multiple extreme metal contexts.
+**Why ranked here:** Eloy Casagrande joined Sepultura in 2011 and has sustained the band's Brazilian extreme metal standard for over a decade, demonstrating on albums like "The Mediator Between Head and Hands Must Be the Heart" and "Machine Messiah" that Sepultura's thrash-death hybrid can continue to evolve without losing its essential character. His ability to honor Igor Cavalera's foundational contribution while developing his own voice within extreme drumming represents one of modern thrash metal's most successful succession stories. His subsequent move to Slipknot in 2024 confirmed his status as one of heavy music's most sought-after percussionists — a modern thrash drummer with the versatility and skills to succeed across multiple extreme metal contexts.
 
-Eloy Casagrande (Sepultura / Slipknot) earns rank #10 for: new sepultura — modern thrash's brazilian standard-bearer. Eloy Casagrande joined Sepultura in 2011 and has sustained the band's Brazilian extreme metal standard for over a decade, demonstrating on albums like "The Mediator Between Head and Hands Must Be the Heart" and "Machine Messiah" that Sepultura's thrash-death hybrid can continue to evolve without losing its essential character. His ability to honor Igor Cavalera's foundational contribution while developing his own voice within extreme drumming represents one of modern thrash metal's most successful succession stories. His subsequent move to Slipknot in 2023 confirmed his status as one of heavy music's most sought-after percussionists — a modern thrash drummer with the versatility and skills to succeed across multiple extreme metal contexts..
+Eloy Casagrande (Sepultura / Slipknot) earns rank #10 for: new sepultura — modern thrash's brazilian standard-bearer. Eloy Casagrande joined Sepultura in 2011 and has sustained the band's Brazilian extreme metal standard for over a decade, demonstrating on albums like "The Mediator Between Head and Hands Must Be the Heart" and "Machine Messiah" that Sepultura's thrash-death hybrid can continue to evolve without losing its essential character. His ability to honor Igor Cavalera's foundational contribution while developing his own voice within extreme drumming represents one of modern thrash metal's most successful succession stories. His subsequent move to Slipknot in 2024 confirmed his status as one of heavy music's most sought-after percussionists — a modern thrash drummer with the versatility and skills to succeed across multiple extreme metal contexts..
 
 Full drummer profile: [Eloy Casagrande on MetalForge](https://metalforge.io/drummer/eloy-casagrande)
 
@@ -173,4 +173,4 @@ A: Classic-era thrash metal drummers gravitated toward Tama and Pearl kits for t
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-13 · Source: [MetalForge.io](https://metalforge.io)*

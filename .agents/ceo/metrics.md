@@ -1,12 +1,12 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-13 12:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-13 13:03 UTC*
 *Lookback: last 7 days*
 
 ---
 
 ## GA4 — Audience
-> ⚠️ **GA4 data unavailable:** GA4 error: 4 DEADLINE_EXCEEDED: Deadline exceeded after 60.006s,LB pick: 0.001s,remote_addr=172.217.114.4:443
+> ⚠️ **GA4 data unavailable:** GA4 error: 4 DEADLINE_EXCEEDED: Deadline exceeded after 60.008s,name resolution: 0.038s,metadata filters: 0.001s,LB pick: 0.079s,remote_addr=172.217.114.4:443
 
 ## Search Console — Search performance
 | Metric | Last 7d |

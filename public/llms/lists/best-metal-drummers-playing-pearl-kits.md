@@ -60,9 +60,9 @@ Full drummer profile: [Mike Mangini on MetalForge](https://metalforge.io/drummer
 
 **Band:** Nile
 **Highlight:** Pearl Demon XR — co-designed for 240+ BPM
-**Why ranked here:** George Kollias has signature products with both Pearl Drums and Vic Firth, co-designing the Pearl Demon XR double pedal specifically for the extreme-speed technical death metal he plays with Nile. His current Pearl Masterworks Stadium Exotic kit and Pearl George Kollias Signature 14"x6.5" snare grew out of the Pearl Reference Series he played on 2005's "Annihilation of the Wicked." Kollias earns rank #5 for the only drummer-designed Pearl pedal on this list.
+**Why ranked here:** George Kollias has signature products with both Pearl Drums and Vic Firth, co-designing the Pearl Demon XR double pedal specifically for the extreme-speed technical death metal he plays with Nile. His current Pearl Masterworks Stadium Exotic kit grew out of the Pearl Reference Series he played on 2005's "Annihilation of the Wicked." Kollias earns rank #5 for the only drummer-designed Pearl pedal on this list.
 
-George Kollias (Nile) earns rank #5 for: pearl demon xr — co-designed for 240+ bpm. George Kollias has signature products with both Pearl Drums and Vic Firth, co-designing the Pearl Demon XR double pedal specifically for the extreme-speed technical death metal he plays with Nile. His current Pearl Masterworks Stadium Exotic kit and Pearl George Kollias Signature 14"x6.5" snare grew out of the Pearl Reference Series he played on 2005's "Annihilation of the Wicked." Kollias earns rank #5 for the only drummer-designed Pearl pedal on this list..
+George Kollias (Nile) earns rank #5 for: pearl demon xr — co-designed for 240+ bpm. George Kollias has signature products with both Pearl Drums and Vic Firth, co-designing the Pearl Demon XR double pedal specifically for the extreme-speed technical death metal he plays with Nile. His current Pearl Masterworks Stadium Exotic kit grew out of the Pearl Reference Series he played on 2005's "Annihilation of the Wicked." Kollias earns rank #5 for the only drummer-designed Pearl pedal on this list..
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 

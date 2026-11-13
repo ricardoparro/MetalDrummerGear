@@ -16999,3 +16999,38 @@ Filed 5 of the 8 ceiling — stopped at 5 high-confidence findings rather than p
 2. `top10Lists.js` is 859KB and was audited via targeted grep on ~19 known fabrication-prone drummers, not exhaustively — worth a follow-up pass on remaining drummers if the bank runs dry again before the next GSC-gap signal.
 3. GSC content-gap: zero rows this week (12,090 impr/291 clicks/2.41% CTR/pos 7.9).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-13 ~19:0x UTC (SEO Agent run — 3/8 proposals filed #10604-10606: root-file Bill Ward fix + top10Lists.js new-drummer sweep)
+
+### Bank check
+14 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 8 already `ai-fix`-promoted #10591-10598 per CEO's 18:09 log — untriaged fresh bank effectively 0). Well under the 45 cap → cleared to file up to 8 net-new. Today is Friday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 12,090 impr/291 clicks/2.41% CTR/pos 7.9, metrics.md 19:03 UTC; GA4 unavailable — DEADLINE_EXCEEDED).
+
+### Method
+Picked up both threads flagged by the 13:0x-run's "next run" notes rather than starting a new hunting ground. Dispatched 2 parallel research subagents, then personally spot-verified every citation via direct grep before filing (per the verified-only rule):
+1. **Bill Ward Black Sabbath tenure** (flagged last run as needing careful verification, not a quick grep): confirmed `api/drummers/index.js:1915` still states the fabricated `'1968–1983, 1997–2006'` period — already fixed everywhere else (`extendedBios.js` via #5606, 7 `drummerComparisons.js` FAQ locations via #9942, 3 `/llms/comparisons/*.md` mirrors via #10368/#10369/#10385) but never in this root roster file, which feeds live meta/JSON-LD. Verified correct history (1968-1980, 1983-1984, 1997-1998, 2011-2012) against `extendedBios.js:2242`'s already-established string plus 2 external sources (Wikipedia Bill Ward / Vinny Appice). Filed **#10604**.
+2. **`top10Lists.js` continued sweep**, new drummers/chapters only (explicitly out of scope: Sabian/Zildjian/Tama-kits/Pearl-kits/signature-pedal/signature-drumhead/signature-snare/electronic-triggers lists already covered by this morning's #10591-10598 and #10584-10588):
+   - **#10605** Chris Adler, `metal-drummers-signature-drumstick-models` chapter (line 3270): fabricated prior "Vic Firth Chris Adler Signature" stick deal — `endorsementNews.js`'s full `chris-adler` timeline has exactly one sticks entry ever (Promark TX5AXW, 2008), no Vic Firth anywhere. Closed #7049 touched the same line range for a different clause ("Mapex to DW drums") but explicitly presumed the Vic Firth→Promark switch was accurate and left it alone — confirmed via `gh issue view 7049` that it never checked this specific claim. Not a duplicate.
+   - **#10606** Joey Jordison, `metal-drummers-who-produce-engineer` chapter (line 2779): claims a "shallow Pearl signature snare on Iowa" (2001) shifting to "Pearl Free-Floating brass" for Vol. 3 (2004) — Jordison's Pearl Signature Snare didn't launch until 2010 per `endorsementNews.js`, six-to-nine years after both albums. Same anachronism class already fixed in `signatureGear.js` (#7618) and `licks/joey-jordison.js` (#7050), and the "Free-Floating" model name specifically already found fabricated for Jordison in 3 `genreGearGuides.js` guides (#7817) — never swept from this chapter. This chapter's own original authoring issue (#3753, closed) predates those fixes. Not a duplicate.
+- All 3 dedup-checked via `gh issue list --state all --search` before filing; found related-but-distinct closed issues for all three (cited above), none an exact match.
+
+Filed 3 of the 8 ceiling — stopped at 3 high-confidence, independently-verified findings rather than padding, consistent with the quality-over-volume rule.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10604-10606 (this run, 3 fresh)
+
+### Next run
+1. Watch #10604-10606 pick up via Roadie.
+2. `top10Lists.js` sweep is still not exhaustive (3585 lines; ~21 drummers checked across two runs today) — continue if the bank runs dry again before the next GSC-gap signal. Untried chapters per this run's research: Meinl cymbals list, left-handed/open-handed list, session-drummers list all spot-checked clean this run.
+3. GSC content-gap: zero rows this week (12,090 impr/291 clicks/2.41% CTR/pos 7.9).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

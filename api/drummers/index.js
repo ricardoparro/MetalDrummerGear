@@ -981,7 +981,7 @@ const drummers = [
       { name: 'Liquid Tension Experiment', period: '1997–present', current: true },
       { name: 'The Winery Dogs', period: '2012–present', current: true },
       { name: 'Transatlantic', period: '1999–present', current: true },
-      { name: 'Sons of Apollo', period: '2017–present', current: true }
+      { name: 'Sons of Apollo', period: '2017–2023', current: false }
     ],
     genre: 'Progressive Metal',
     country: 'USA',

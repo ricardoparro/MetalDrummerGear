@@ -13,7 +13,7 @@
 
 ## Summary
 
-Sons of Apollo, formed in 2017, is a progressive metal supergroup featuring Dream Theater drummer Mike Mangini alongside members of Journey, Mr. Big, and Guns N' Roses.
+Sons of Apollo, formed in 2017, is a progressive metal supergroup featuring Dream Theater co-founder Mike Portnoy alongside members of Journey, Mr. Big, and Guns N' Roses.
 
 ## Drummer History
 
@@ -68,4 +68,4 @@ A: Two studio albums: Psychotic Symphony (2017) and MMXX (2020).
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-13 · Source: [MetalForge.io](https://metalforge.io)*

@@ -3,7 +3,7 @@
 > Structured reference for metal bands, their drummer history, discography, and gear.
 > Optimised for AI crawlers answering "who drums for <band>" queries.
 >
-> Last updated: 2026-10-30 · 47 bands
+> Last updated: 2026-11-13 · 47 bands
 
 ---
 ## Amon Amarth
@@ -1046,7 +1046,7 @@ Joey Jordison is widely regarded as one of the most influential metal drummers o
 
 **Genre:** Progressive Metal · **Status:** Hiatus · **Formed:** 2017 · **Origin:** United States
 
-Sons of Apollo, formed in 2017, is a progressive metal supergroup featuring Dream Theater drummer Mike Mangini alongside members of Journey, Mr. Big, and Guns N' Roses.
+Sons of Apollo, formed in 2017, is a progressive metal supergroup featuring Dream Theater co-founder Mike Portnoy alongside members of Journey, Mr. Big, and Guns N' Roses.
 
 **Drummer history:**
 - Mike Portnoy — 2017-2023 (Sole drummer for the band's entire active run; also Dream Theater co-founder, which he rejoined in Oct 2023)

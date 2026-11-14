@@ -5433,8 +5433,7 @@ Lars Ulrich's iconic cymbal sound is built on Zildjian A Customs and the earlier
             rideRange: "20\" - 22\""
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "A Custom and A series throughout career" },
-            { name: "Charlie Benante", band: "Anthrax", note: "Thrash cymbal standard" }
+            { name: "Lars Ulrich", band: "Metallica", note: "A Custom and A series throughout career" }
           ],
           verdict: "The metal cymbal industry standard. Cuts through any mix, reliable quality, used by more pros than any other line.",
           rating: 4.9,
@@ -5642,7 +5641,7 @@ Vinnie Paul of Pantera used Sabian cymbals (brand confirmed via secondary source
 - Bright, cutting shimmer with fast attack
 - Brilliant finish adds visual and sonic presence
 - The most common choice across all metal subgenres
-- Preferred by: Lars Ulrich, Charlie Benante
+- Preferred by: Lars Ulrich
 
 **Paiste 2002:**
 - Full-bodied, powerful, slightly dark character
@@ -10521,8 +10520,7 @@ Lars Ulrich of Metallica has used Zildjian A Custom cymbals extensively througho
             series: "A Custom"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Zildjian A Custom across Metallica's career" },
-            { name: "Charlie Benante", band: "Anthrax", note: "Thrash metal hi-hat authority" }
+            { name: "Lars Ulrich", band: "Metallica", note: "Zildjian A Custom across Metallica's career" }
           ],
           verdict: "The benchmark hi-hat for metal. Cutting, versatile, and used by legends. Start here if you're unsure.",
           rating: 4.9,

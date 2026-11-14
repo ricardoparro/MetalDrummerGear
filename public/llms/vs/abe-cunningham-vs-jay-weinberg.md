@@ -26,7 +26,7 @@ Deftones' Abe Cunningham vs ex-Slipknot's Jay Weinberg. Atmospheric alt-metal fe
 
 ## Playing Style
 
-Abe Cunningham co-founded Deftones in Sacramento in 1988, left briefly in 1990, and has been the band's drummer continuously since returning in 1993, shaping alternative metal's most atmospheric, shoegaze-influenced sound through landmark records like "Around the Fur" (1997), the Grammy-winning "White Pony" (2000), "Diamond Eyes" (2010), and "Ohms" (2020). Jay Weinberg joined Slipknot in 2014 at age 24, stepping into one of extreme metal's most scrutinized drum chairs following founding drummer Joey Jordison's departure, and recorded three studio albums — ".5: The Gray Chapter" (2014), "We Are Not Your Kind" (2019), and "The End, So Far" (2022) — before parting ways in November 2023 and later joining Suicidal Tendencies.
+Abe Cunningham co-founded Deftones in Sacramento in 1988, left briefly in 1990, and has been the band's drummer continuously since returning in 1993, shaping alternative metal's most atmospheric, shoegaze-influenced sound through landmark records like "Around the Fur" (1997), the Grammy-winning "White Pony" (2000), "Diamond Eyes" (2010), and "Ohms" (2020). Jay Weinberg joined Slipknot in 2014 at age 24, stepping into one of extreme metal's most scrutinized drum chairs following founding drummer Joey Jordison's departure, and recorded three studio albums — ".5: The Gray Chapter" (2014), "We Are Not Your Kind" (2019), and "The End, So Far" (2022) — before parting ways in November 2023 and later joining Suicidal Tendencies, where he drummed until departing in January 2026.
 
 ## Technique
 
@@ -38,7 +38,7 @@ Abe Cunningham has been a longtime Tama endorser, playing a Tama Starclassic Bub
 
 ## Influence & Legacy
 
-Cunningham's influence runs deep in alternative and nu-metal-adjacent drumming — his groove-and-feel-first approach with Deftones, prioritizing pocket and atmosphere over technical complexity, shaped how a generation of alt-metal drummers think about serving a song's emotional arc rather than showcasing chops. Weinberg carried one of metal's most scrutinized drum chairs for nine years, earning respect from fans who initially doubted anyone could replace Jordison, and built a following that carried into his post-Slipknot work with Suicidal Tendencies.
+Cunningham's influence runs deep in alternative and nu-metal-adjacent drumming — his groove-and-feel-first approach with Deftones, prioritizing pocket and atmosphere over technical complexity, shaped how a generation of alt-metal drummers think about serving a song's emotional arc rather than showcasing chops. Weinberg carried one of metal's most scrutinized drum chairs for nine years, earning respect from fans who initially doubted anyone could replace Jordison, and built a following that carried into his post-Slipknot work with Suicidal Tendencies (2024–2026).
 
 ## Verdict
 
@@ -56,7 +56,7 @@ A: Jay Weinberg's Slipknot drumming is built around raw power and sustained extr
 A: Abe Cunningham plays a Tama Starclassic Bubinga kit with a snare matching his Tama Starclassic Bubinga shell pack (no separate model publicly documented) and Zildjian cymbals, driven by a Tama Iron Cobra double pedal. Jay Weinberg played an SJC Custom Drums kit with a SJC "The Crucible" brass snare and Zildjian cymbals, driven by a DW 9000 double bass pedal and Roland electronics.
 
 **Q: What bands did each play for?**
-A: Abe Cunningham co-founded Deftones in 1988, left briefly in 1990, and has been the band's drummer continuously since returning in 1993, spanning nine studio albums including "White Pony" (2000) and "Ohms" (2020). Jay Weinberg drummed for Slipknot from 2014 to 2023, recorded three studio albums, and later joined Suicidal Tendencies in 2024.
+A: Abe Cunningham co-founded Deftones in 1988, left briefly in 1990, and has been the band's drummer continuously since returning in 1993, spanning nine studio albums including "White Pony" (2000) and "Ohms" (2020). Jay Weinberg drummed for Slipknot from 2014 to 2023, recorded three studio albums, and later joined Suicidal Tendencies in 2024, departing that band in January 2026.
 
 ---
 
@@ -67,4 +67,4 @@ A: Abe Cunningham co-founded Deftones in 1988, left briefly in 1990, and has bee
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

@@ -26,7 +26,7 @@ Ex-Slipknot's Jay Weinberg vs ex-Trivium's Alex Bent — two drummers who steppe
 
 ## Playing Style
 
-Jay Weinberg joined Slipknot in 2014 at age 24, stepping into one of extreme metal's most scrutinized drum chairs following founding drummer Joey Jordison's departure, and recorded three studio albums with the band — ".5: The Gray Chapter" (2014), "We Are Not Your Kind" (2019), and "The End, So Far" (2022) — before parting ways in November 2023 and later joining Suicidal Tendencies. Alex Bent joined Trivium in 2017, also at age 24, bringing a technical death metal pedigree from Brain Drill, Arkaik, and Battlecross to the modern metal giants' catalog, recording "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), "In the Court of the Dragon" (2021), and "Struck Dead" (2025) before departing in October 2025.
+Jay Weinberg joined Slipknot in 2014 at age 24, stepping into one of extreme metal's most scrutinized drum chairs following founding drummer Joey Jordison's departure, and recorded three studio albums with the band — ".5: The Gray Chapter" (2014), "We Are Not Your Kind" (2019), and "The End, So Far" (2022) — before parting ways in November 2023 and later joining Suicidal Tendencies, where he drummed until departing in January 2026. Alex Bent joined Trivium in 2017, also at age 24, bringing a technical death metal pedigree from Brain Drill, Arkaik, and Battlecross to the modern metal giants' catalog, recording "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), "In the Court of the Dragon" (2021), and "Struck Dead" (2025) before departing in October 2025.
 
 ## Technique
 
@@ -38,7 +38,7 @@ Jay Weinberg played an SJC Custom Drums kit with a SJC "The Crucible" 14x6.5" br
 
 ## Influence & Legacy
 
-Weinberg carried one of metal's most scrutinized drum chairs for nine years, earning respect from fans who initially doubted anyone could replace Jordison, and built a following that carried into his post-Slipknot work with Suicidal Tendencies. Bent elevated Trivium's rhythmic complexity across four albums over nine years, proving a technical death metal background from underground bands like Brain Drill could translate directly into mainstream modern metal success.
+Weinberg carried one of metal's most scrutinized drum chairs for nine years, earning respect from fans who initially doubted anyone could replace Jordison, and built a following that carried into his post-Slipknot work with Suicidal Tendencies (2024–2026). Bent elevated Trivium's rhythmic complexity across four albums over nine years, proving a technical death metal background from underground bands like Brain Drill could translate directly into mainstream modern metal success.
 
 ## Verdict
 
@@ -56,7 +56,7 @@ A: Before joining Trivium in 2017, Alex Bent played technical death metal with B
 A: Jay Weinberg played an SJC Custom Drums kit with a SJC "The Crucible" brass snare and Zildjian K Custom cymbals, driven by a DW 9000 double bass pedal. Alex Bent played a TAMA Starclassic Maple kit with a TAMA Starclassic Maple snare and Zildjian K Custom Hybrid cymbals, powered by Axis Percussion double pedals.
 
 **Q: Are Jay Weinberg and Alex Bent still in Slipknot and Trivium?**
-A: No — Jay Weinberg left Slipknot in November 2023 and later joined Suicidal Tendencies. Alex Bent left Trivium in October 2025 after nine years and four albums with the band.
+A: No — Jay Weinberg left Slipknot in November 2023 and later joined Suicidal Tendencies (2024–2026), departing that band in January 2026. Alex Bent left Trivium in October 2025 after nine years and four albums with the band.
 
 ---
 
@@ -67,4 +67,4 @@ A: No — Jay Weinberg left Slipknot in November 2023 and later joined Suicidal 
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

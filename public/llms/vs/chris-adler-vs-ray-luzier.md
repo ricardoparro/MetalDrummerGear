@@ -53,7 +53,7 @@ A: Chris Adler (Lamb of God) plays in a heavier sonic context — groove metal w
 A: Chris Adler plays Mapex Saturn in Satin Black Maple Burl drums with Meinl Byzance cymbals. Ray Luzier plays Pearl Reference Series drums with Sabian cymbals.
 
 **Q: Did Chris Adler leave Lamb of God?**
-A: Yes — Chris Adler departed Lamb of God in 2019 after a period of reduced touring activity. Art Cruz joined as the band's full-time drummer. Adler's recorded legacy with Lamb of God (2000–2017) remains the benchmark for groove metal drumming.
+A: Yes — Chris Adler departed Lamb of God in 2019 after a period of reduced touring activity. Art Cruz joined as the band's full-time drummer. Adler's recorded legacy with Lamb of God (1994–2019) remains the benchmark for groove metal drumming.
 
 **Q: Where did Ray Luzier study drumming?**
 A: Ray Luzier studied at the Musicians Institute (MI) in Los Angeles, California, where he later taught. His formal training in jazz and rock drumming is evident in his technical vocabulary and adaptability — skills that earned him the KoRn drum chair in 2007.
@@ -67,4 +67,4 @@ A: Ray Luzier studied at the Musicians Institute (MI) in Los Angeles, California
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

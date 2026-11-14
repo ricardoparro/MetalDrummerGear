@@ -5866,7 +5866,7 @@ Slayer's two defining drummers compared: founding member Dave Lombardo vs longti
 A: It depends on the criteria. Dave Lombardo is Slayer's founding drummer and is credited with inventing thrash metal's double bass vocabulary on classics like "Reign in Blood" (1986), making him the more historically influential figure. Paul Bostaph is Slayer's longest-serving drummer by total years (1992–2001, 2013–2019) and anchored the band through "Divine Intervention," "Diabolus in Musica," and "Repentless." Most fans credit Lombardo as the legend and Bostaph as the drummer who kept Slayer alive between Lombardo's tenures.
 
 **Q: What albums did Dave Lombardo record with Slayer?**
-A: Dave Lombardo recorded "Show No Mercy" (1983), "Hell Awaits" (1985), "Reign in Blood" (1986), "South of Heaven" (1988), "Seasons in the Abyss" (1990), "Christ Illusion" (2006), and "World Painted Blood" (2009) across his two tenures as Slayer's founding drummer.
+A: Dave Lombardo recorded "Show No Mercy" (1983), "Hell Awaits" (1985), "Reign in Blood" (1986), "South of Heaven" (1988), "Seasons in the Abyss" (1990), "Christ Illusion" (2006), and "World Painted Blood" (2009) across his three tenures as Slayer's founding drummer.
 
 **Q: What albums did Paul Bostaph record with Slayer?**
 A: Paul Bostaph recorded four studio albums with Slayer: "Divine Intervention" (1994), "Undisputed Attitude" (1996, a punk covers album), "Diabolus in Musica" (1998), and "Repentless" (2015). He also played Slayer's final-ever show in Los Angeles in November 2019.

@@ -37401,13 +37401,13 @@ Start with one durable, fast-attack ride in the 21"-22" range, and prioritize co
       title: "Why Groove Metal Rides Need Explosive Impact, Not Speed",
       content: `Groove metal's mid-tempo (100-140 BPM), riff-locked patterns put the snare and kick front and center, but the ride still has real work to do: landing with explosive, cutting impact on accented downbeats rather than blending into a wash. Unlike thrash or death metal, where rides are chosen to survive hundreds of rapid strokes per minute, groove metal rides are voiced for maximum impact on fewer, more deliberate hits.
 
-Vinnie Paul built the genre's founding ride template on a Sabian ride (brand confirmed via secondary sources; specific model and size unverified), delivering explosive accents across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), took a drier, more controlled approach with a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake." Shannon Larkin of Godsmack runs a 21" Sabian AAX Raw Bell Dry Ride for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, while Igor Cavalera of Sepultura plays a 22" Paiste RUDE Ride for the harsh, slow-decay aggression behind "Roots Bloody Roots."
+Vinnie Paul built the genre's founding ride template on a Sabian ride (brand confirmed via secondary sources; specific model and size unverified), delivering explosive accents across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler, Lamb of God's former drummer (1994–2019), took a drier, more controlled approach with a 21" Transition Ride, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake." Shannon Larkin of Godsmack runs a 21" Sabian AAX Raw Bell Dry Ride for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, while Igor Cavalera of Sepultura plays a 22" Paiste RUDE Ride for the harsh, slow-decay aggression behind "Roots Bloody Roots."
 
 This guide breaks down what actually makes a ride work for groove metal — explosive impact and cutting power over raw speed — and recommends specific models across every budget, from a first cutting ride to the exact cymbals groove metal's most influential drummers ride.`,
       keyPoints: [
         "Groove metal rides need explosive, cutting impact on deliberate downbeats rather than fast, sustained speed",
         "Vinnie Paul's foundational Sabian ride (brand confirmed, model unverified) still defines the genre's cutting attack",
-        "Chris Adler's drier Meinl Byzance Dark Ride and Igor Cavalera's raw Paiste RUDE show how groove metal's ride voicing adapts to different riff styles",
+        "Chris Adler's drier 21\" Transition Ride and Igor Cavalera's raw Paiste RUDE show how groove metal's ride voicing adapts to different riff styles",
         "20\"-22\" rides are the groove metal standard, favoring explosive attack over fast decay"
       ]
     },
@@ -37425,7 +37425,7 @@ This guide breaks down what actually makes a ride work for groove metal — expl
         {
           name: "Dry, Controlled Response",
           icon: "🎯",
-          description: "Chris Adler's Meinl Byzance Dark Ride gives Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge — proof that groove metal's explosive template can also be dry and precise rather than bright and washy.",
+          description: "Chris Adler's 21\" Transition Ride gives Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge — proof that groove metal's explosive template can also be dry and precise rather than bright and washy.",
           recommendation: "Dry-voiced rides for tightly syncopated, riff-locking material"
         },
         {
@@ -37499,14 +37499,14 @@ As the genre's founding drummer, Vinnie Paul's ride choice set the template the 
         },
         {
           rank: 2,
-          name: "Meinl Byzance Dark Ride",
+          name: "Meinl Byzance Transition Ride",
           brand: "Meinl",
-          model: "22\" Byzance Dark Ride",
+          model: "21\" Byzance Transition Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
           priceRange: "€260-320",
           tier: "pro",
           driveType: "B20 Bronze, Dark Finish",
-          description: `Chris Adler, Lamb of God's former drummer (1994–2019), played a 22" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on "Ashes of the Wake" and "Sacrament." Where Vinnie Paul's Sabian setup favors bright explosiveness, Adler's Byzance Dark ride prioritized precision.
+          description: `Chris Adler, Lamb of God's former drummer (1994–2019), played a 21" Transition Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on "Ashes of the Wake" and "Sacrament." Where Vinnie Paul's Sabian setup favors bright explosiveness, Adler's Byzance Dark ride prioritized precision.
 
 Adler's ride choice proves that groove metal's cutting template doesn't require raw brightness — a dry, dark-voiced ride can cut through syncopated, riff-locked material just as effectively.`,
           pros: [
@@ -37521,18 +37521,18 @@ Adler's ride choice proves that groove metal's cutting template doesn't require 
             "Individual cymbal variation is significant in hand-hammered lines"
           ],
           specs: {
-            size: "22\"",
+            size: "21\"",
             alloy: "B20 Bronze",
             finish: "Dark, Hand Hammered",
             bell: "Standard",
             weight: "Medium"
           },
           usedBy: [
-            { name: "Chris Adler", band: "ex-Lamb of God", note: "22\" Byzance Dark Ride for syncopated riff-locking precision" }
+            { name: "Chris Adler", band: "ex-Lamb of God", note: "21\" Transition Ride for syncopated riff-locking precision" }
           ],
           verdict: "Best for technical, tightly syncopated groove metal that needs dry, controlled cutting power.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dark_ride_22_adler.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_transition_ride_21_adler.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -37701,7 +37701,7 @@ For groove metal drummers whose material blends traditional riff-locked grooves 
         },
         {
           category: "Best for Technical/Syncopated Groove Metal",
-          pedal: "Meinl Byzance Dark Ride",
+          pedal: "Meinl Byzance Transition Ride",
           reason: "Chris Adler's Lamb of God setup — dry, controlled precision for riff-locking grooves."
         },
         {
@@ -37726,7 +37726,7 @@ For groove metal drummers whose material blends traditional riff-locked grooves 
     ],
     relatedDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Sabian ride (brand confirmed, model unverified) — groove metal\'s founding, cutting ride voice' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance Dark Ride — Lamb of God syncopated riff-locking precision' },
+      { slug: 'chris-adler', name: 'Chris Adler', reason: '21" Transition Ride — Lamb of God syncopated riff-locking precision' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Sabian AAX Raw Bell Dry Ride — Godsmack explosive, radio-ready punch' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Paiste RUDE Ride — Sepultura tribal groove metal aggression' }
     ],
@@ -37734,7 +37734,7 @@ For groove metal drummers whose material blends traditional riff-locked grooves 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Sabian ride (brand confirmed, model unverified) — groove metal\'s founding, cutting ride voice' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance Dark Ride — Lamb of God syncopated riff-locking precision' },
+      { slug: 'chris-adler', name: 'Chris Adler', reason: '21" Transition Ride — Lamb of God syncopated riff-locking precision' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Sabian AAX Raw Bell Dry Ride — Godsmack explosive, radio-ready punch' }
     ],
     relatedComparisons: [],
@@ -37747,7 +37747,7 @@ For groove metal drummers whose material blends traditional riff-locked grooves 
       },
       {
         question: "What ride cymbal does Chris Adler use?",
-        answer: "Chris Adler, Lamb of God's former drummer (1994–2019), played a 22\" Meinl Byzance Dark Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on \"Ashes of the Wake\" and \"Sacrament.\""
+        answer: "Chris Adler, Lamb of God's former drummer (1994–2019), played a 21\" Transition Ride, giving Lamb of God's syncopated riff-locking grooves a drier, more controlled cutting edge on \"Ashes of the Wake\" and \"Sacrament.\""
       },
       {
         question: "What ride cymbal does Shannon Larkin use?",

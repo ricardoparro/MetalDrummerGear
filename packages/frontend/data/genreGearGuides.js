@@ -12611,7 +12611,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
       title: "Why Thrash Metal Demands Speed That Survives Decades of Touring",
       content: `Thrash metal drumming demands a bass drum pedal that can handle two very different attacks in the same song: relentless, high-speed single-stroke double bass under fast picking, and tight, percussive gallop rhythms locked to palm-muted riffs. Unlike black metal's sustained blast-beat endurance or death metal's pure technical speed, thrash pedals need to balance raw speed with the precise, punchy attack that drives the genre's signature downpicked riffing — and they need to keep delivering that feel after decades of nightly touring wear.
 
-Dave Lombardo of Slayer pioneered the double bass drumming style that defined thrash metal, driving "Reign in Blood" on his Tama Starclassic kit. Charlie Benante of Anthrax uses a Tama Speed Cobra double pedal for his extremely fast double kick technique.
+Dave Lombardo of Slayer pioneered the double bass drumming style that defined thrash metal, driving "Reign in Blood" on his Pearl kit. Charlie Benante of Anthrax uses a Tama Speed Cobra double pedal for his extremely fast double kick technique.
 
 Gene Hoglan — "The Atomic Clock" — has brought his legendary metronomic precision to Testament and Dark Angel on a Pearl Demon Drive since 2008, while Lars Ulrich of Metallica has driven the genre's most commercially successful catalog on a Tama Iron Cobra 900 Power Glide double pedal for decades without missing a beat.
 
@@ -12680,7 +12680,7 @@ This guide covers the specific pedal needs of thrash metal drumming — speed, g
           priceRange: "€500-600",
           tier: "pro",
           driveType: "Direct Drive",
-          description: `Dave Lombardo pioneered the double bass drumming style that defined thrash metal, driving Slayer's "Reign in Blood" — a record built on some of thrash's fastest, most influential double bass work — on his Tama Starclassic kit.
+          description: `Dave Lombardo pioneered the double bass drumming style that defined thrash metal, driving Slayer's "Reign in Blood" — a record built on some of thrash's fastest, most influential double bass work — on his Pearl kit.
 
 Gene Hoglan — "The Atomic Clock" — has relied on the Pearl Demon Drive since 2008, its direct drive action and NiNjA bearing system delivering the frictionless response behind his legendary metronomic precision in Testament and Dark Angel.
 
@@ -60697,7 +60697,7 @@ Budget shouldn't stop you either. A Meinl HCS or Zildjian ZBT setup will teach r
       title: "Thrash Metal's Unique Pedal Requirements",
       content: `Thrash metal drumming demands a pedal that can handle two very different attacks in the same song: relentless, high-speed single-stroke double bass under fast picking, and tight, percussive gallop rhythms locked to palm-muted riffs. Unlike black metal's sustained blast-beat endurance or death metal's pure technical speed, thrash pedals need to balance raw speed with the precise, punchy attack that drives the genre's signature downpicked riffing.
 
-Dave Lombardo of Slayer pioneered the double bass drumming style that defined thrash metal, driving "Reign in Blood" on his Tama Starclassic kit. Charlie Benante of Anthrax, credited with popularizing the blast beat technique within thrash, uses a Tama Speed Cobra double pedal for his extremely fast double kick technique.
+Dave Lombardo of Slayer pioneered the double bass drumming style that defined thrash metal, driving "Reign in Blood" on his Pearl kit. Charlie Benante of Anthrax, credited with popularizing the blast beat technique within thrash, uses a Tama Speed Cobra double pedal for his extremely fast double kick technique.
 
 Gene Hoglan — "The Atomic Clock" — has brought his legendary metronomic precision to Testament and Dark Angel on a Pearl Demon Drive since 2008, while Lars Ulrich of Metallica has driven the genre's most commercially successful catalog on a Tama Iron Cobra 900 Power Glide double pedal.
 
@@ -60767,7 +60767,7 @@ This guide covers the specific pedal needs of thrash metal drumming — speed, g
           tier: "pro",
           driveType: "Direct Drive",
 
-          description: `Dave Lombardo pioneered the double bass drumming style that defined thrash metal, driving Slayer's "Reign in Blood" — a record built on some of thrash's fastest, most influential double bass work — on his Tama Starclassic kit.
+          description: `Dave Lombardo pioneered the double bass drumming style that defined thrash metal, driving Slayer's "Reign in Blood" — a record built on some of thrash's fastest, most influential double bass work — on his Pearl kit.
 
 Gene Hoglan — "The Atomic Clock" — has relied on the Pearl Demon Drive since 2008, its direct drive action and NiNjA bearing system delivering the frictionless response behind his metronomic precision across Testament, Dark Angel, and Dethklok.
 
@@ -103482,7 +103482,7 @@ The extended footboard is specifically engineered for fast, rolling patterns, ex
           priceRange: "€500-600",
           tier: "pro",
           driveType: "Direct Drive",
-          description: `Dave Lombardo drove Slayer's "Reign in Blood" (1986), the record that arguably built the bridge from thrash into modern extreme metal's blast-beat vocabulary, on his Tama Starclassic kit.
+          description: `Dave Lombardo drove Slayer's "Reign in Blood" (1986), the record that arguably built the bridge from thrash into modern extreme metal's blast-beat vocabulary, on his Pearl kit.
 
 Gene Hoglan — "The Atomic Clock" — has trusted the Pearl Demon Drive since 2008. The NiNjA bearing system delivers virtually frictionless action, and the PowerShifter footboard lets you dial in leverage for your specific technique; its identical response across every dynamic level proves consistency beats brute force whether he's laying into a punishing thrash riff or a technical death metal blast passage.
 
@@ -103632,7 +103632,7 @@ Nearly two decades later, the Demon Drive remains an industry standard precisely
 
 Gene Hoglan's Pearl Demon Drive shows the direct drive alternative — zero-slack response that has anchored his precision since 2008.
 
-That same demand for zero-slack consistency traces back to Dave Lombardo's Tama Starclassic setup on "Reign in Blood," the record that built the bridge into extreme metal's blast-beat vocabulary.
+That same demand for zero-slack consistency traces back to Dave Lombardo's Pearl Maxwin setup on "Reign in Blood," the record that built the bridge into extreme metal's blast-beat vocabulary.
 
 Derek Roddy's Tama Speed Cobra 910 proves refined chain drive can match that consistency across Hate Eternal's most punishing material. Whichever drive system you choose, prioritize consistency over raw top-end numbers — a pedal that's fast for eight bars and then fatigues is worse than useless on stage.
 

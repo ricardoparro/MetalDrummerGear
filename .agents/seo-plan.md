@@ -17120,3 +17120,42 @@ Not due this run (today is Saturday 2026-11-14; next due Monday 2026-11-16, grou
 2. `drummerComparisons.js`/`genreGearGuides.js` sweep: 9 total high-frequency drummers checked today across both files (5 + 5, with 1 overlap... actually distinct sets); still-unswept high-frequency names worth a future pass: Danny Carey, Mike Portnoy, Flo Mounier (careful: #10032 human-hold on his kit brand), George Kollias, Igor Cavalera, Joey Jordison.
 3. GSC content-gap: zero rows this week (9,593 impr/242 clicks/2.52% CTR/pos 7.8).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-14 ~13:0x UTC (SEO Agent run — 7/8 proposals filed #10631-10637: Kollias/Portnoy/Cavalera/Jordison fabrication sweep)
+
+### Bank check
+14 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 8 already `ai-fix`-promoted #10591-10598 per 2026-11-13 18:09 CEO log — untriaged fresh bank effectively 0). Well under the 45 floor → cleared to file up to 8 net-new. Today is Saturday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 9,593 impr/242 clicks/2.52% CTR/pos 7.8, metrics.md 13:02 UTC) — no CTR-fix proposals needed.
+
+### Method
+Picked up the prior run's explicit "still-unswept high-frequency names" list (Danny Carey, Mike Portnoy, George Kollias, Igor Cavalera, Joey Jordison — skipped Flo Mounier per the standing #10032 human-hold caution). Dispatched 2 parallel research agents — one auditing `drummerComparisons.js`, one auditing `genreGearGuides.js` — against ground truth (`api/drummers/index.js`, `bands.js`, `endorsementNews.js`, `snares.js`, `signatureGear.js`). Personally re-verified every single finding via direct `grep`/`sed` against both the fabricated text and the cited ground truth before filing (not just trusting subagent claims) — in one case this required an exact-line-count grep pass (`Pearl George Kollias Signature` in drummerComparisons.js) to confirm all 11 locations before writing the issue body.
+
+Filed 7 of the 8 ceiling (stopped short of padding, consistent with quality-over-volume):
+- **#10631** George Kollias fabricated "Pearl George Kollias Signature" snare survives in `drummerComparisons.js` (11 locations, 6 comparison entries) — same fabrication closed **#10577** removed from the root roster record 3 days ago ("12+ closed issues fixed every mirror but never this file"); drummerComparisons.js was the missed mirror.
+- **#10632** George Kollias fabricated "world's fastest recorded drummer"/"world record" claims in `genreGearGuides.js` (8 fix locations) — same fabrication class closed **#9280** removed from `soundLikeGuides.js`, never swept from this file.
+- **#10633** George Kollias self-contradictory 260/280 BPM figures in `genreGearGuides.js` (2 locations) vs the verified 240+ BPM used at 15+ other Kollias mentions in the same file — a relapse/miss from closed **#9962**'s ~115-location sweep of the same bug class.
+- **#10634** Mike Portnoy framed as "now of Sons of Apollo" in `genreGearGuides.js` (2 locations) — band has been on hiatus/defunct since 2023 per `bands.js`, and Portnoy rejoined Dream Theater Oct 2023.
+- **#10635** Igor Cavalera gear-timeline errors in `genreGearGuides.js` (2 locations) — Yamaha kit (2018-present) wrongly credited for "Roots Bloody Roots" (1996, actually Tama era); separate location skips the verified 2006-2018 ddrum era entirely, implying a direct Tama→Yamaha jump.
+- **#10636** Joey Jordison's snare shell material fabricated as "Steel" in `genreGearGuides.js` (5 locations) — `snares.js:71` deliberately sets `shellMaterial: null` for this entry (never guessed, per the file's own header rule); genreGearGuides.js states it as flat fact anyway.
+- **#10637** Joey Jordison anachronistic "Vol. 3 era" (2004) signature-snare claim in `genreGearGuides.js` (2 locations) — snare didn't launch until 2010 per `endorsementNews.js`/`signatureGear.js`; identical bug class already fixed in 3 sibling files (closed #7618, #7050, #10606) but never swept from this file.
+
+Danny Carey came back clean in both files (no fabrications found — correctly not forced). All 7 dedup-checked via `gh issue list --state all --search` before filing; found multiple related-but-distinct closed issues for each (cited inline in the issue bodies), zero exact-match duplicates.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10631-10637 (this run, 7 fresh)
+
+### Next run
+1. Watch #10631-10637 pick up via Roadie/CEO triage. #10631 (11 locations) and #10632 (8 locations) are the largest — confirm only the Kollias-specific clauses change, not the other drummer's side of each comparison entry.
+2. `drummerComparisons.js`/`genreGearGuides.js` sweep: Danny Carey now confirmed clean in both files. Remaining untried high-frequency names from the running list: Flo Mounier (careful: #10032 human-hold), George Kollias/Igor Cavalera/Joey Jordison/Mike Portnoy now swept in these 2 files — pick a fresh file pairing (e.g. `soundLikeGuides.js`, `battles.js`) or fresh names (e.g. Chris Adler/Dave Lombardo/Charlie Benante, already partially swept 2026-11-14 07:0x — check which chapters remain) if the bank runs dry again before a GSC-gap signal.
+3. GSC content-gap: zero rows this week (9,593 impr/242 clicks/2.52% CTR/pos 7.8).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

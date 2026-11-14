@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-14 01:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-14 06:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 463 |
-| Sessions | 521 |
-| Page views | 749 |
-| Engagement rate | 63.92% |
-| Avg session (s) | 122 |
+| Active users | 584 |
+| Sessions | 656 |
+| Page views | 903 |
+| Engagement rate | 61.28% |
+| Avg session (s) | 117 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 32 | 21 |
+| / | 34 | 22 |
+| /bpm | 23 | 14 |
+| /drummer/eloy-casagrande | 17 | 11 |
+| /drummer/mario-duplantier | 16 | 13 |
 | /guides | 16 | 4 |
-| /bpm | 15 | 6 |
-| /drummer/mario-duplantier | 14 | 11 |
-| /drummer/eloy-casagrande | 13 | 7 |
-| /articles/john-otto-drum-setup | 12 | 11 |
-| /drummer/bill-ward | 12 | 11 |
+| /articles/john-otto-drum-setup | 15 | 14 |
+| /drummer/bill-ward | 14 | 13 |
+| /drummers | 12 | 6 |
 | /drummer/flo-mounier | 11 | 8 |
-| /drummers | 9 | 5 |
-| /drummers/bill-ward/evolution | 9 | 3 |
+| /drummer/igor-cavalera | 11 | 11 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 384 | 333 |
-| Direct | 125 | 118 |
-| Unassigned | 8 | 7 |
+| Organic Search | 466 | 403 |
+| Direct | 175 | 168 |
+| Unassigned | 11 | 9 |
 | Cross-network | 4 | 4 |
 | Organic Social | 3 | 3 |
 | Referral | 3 | 3 |
@@ -42,16 +42,16 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 186 | 161 |
-| Singapore | 38 | 38 |
-| Portugal | 28 | 27 |
-| United Kingdom | 27 | 23 |
-| Germany | 22 | 19 |
-| Canada | 21 | 17 |
-| Sweden | 17 | 14 |
-| China | 11 | 11 |
-| Russia | 10 | 9 |
-| Netherlands | 9 | 7 |
+| United States | 220 | 184 |
+| Singapore | 84 | 84 |
+| Portugal | 29 | 28 |
+| United Kingdom | 29 | 25 |
+| Canada | 27 | 23 |
+| Germany | 27 | 24 |
+| Sweden | 18 | 15 |
+| China | 15 | 15 |
+| Netherlands | 12 | 10 |
+| Russia | 12 | 11 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

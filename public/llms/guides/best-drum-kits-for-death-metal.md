@@ -12,7 +12,7 @@ Death metal drummers who want to know which drum kits survive and project at ext
 
 Death metal places the most demanding physical requirements on a drum kit of any genre. Sustained double bass at 200–280 BPM, constant blast beat snare hits, and tom fills executed at extreme tempos mean your kit must combine structural integrity with tonal projection and precise response across every component.
 
-George Kollias — widely regarded as the fastest drummer on record — plays Pearl Reference drums. His kit must survive nights of continuous 280 BPM 16th-note bass drum patterns while still projecting clearly in dense, downtuned Nile recordings. Flo Mounier (Cryptopsy) uses DW Collector's Series maple for the sensitivity and projection that lets his technical death metal patterns cut through one of the genre's densest sonic environments. Gene Hoglan, "The Atomic Clock," built his precision-first approach on Tama and DW equipment — kits engineered for consistency under punishing conditions.
+George Kollias — among the fastest drummers in extreme metal, sustaining blast beats at 240+ BPM — plays Pearl Reference drums. His kit must survive nights of continuous 280 BPM 16th-note bass drum patterns while still projecting clearly in dense, downtuned Nile recordings. Flo Mounier (Cryptopsy) uses DW Collector's Series maple for the sensitivity and projection that lets his technical death metal patterns cut through one of the genre's densest sonic environments. Gene Hoglan, "The Atomic Clock," built his precision-first approach on Tama and DW equipment — kits engineered for consistency under punishing conditions.
 
 ---
 
@@ -25,7 +25,7 @@ George Kollias — widely regarded as the fastest drummer on record — plays Pe
 - **Best for:** Technical death metal; speed-focused playing
 
 **Who uses it:**
-- **George Kollias** ([/drummer/george-kollias](https://metalforge.io/drummer/george-kollias)) — World's fastest recorded drummer; Pearl Reference Pure is his primary live and studio kit for Nile's extreme death metal performances
+- **George Kollias** ([/drummer/george-kollias](https://metalforge.io/drummer/george-kollias)) — Among the fastest drummers in extreme metal, sustaining blast beats at 240+ BPM; Pearl Reference Pure is his primary live and studio kit for Nile's extreme death metal performances
 - **Paul Mazurkiewicz** ([/drummer/paul-mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)) — Pearl endorser; three decades of Cannibal Corpse death metal brutality
 
 The Pearl Reference Pure's thin 6-ply maple shells deliver exceptional sensitivity and resonance — critical for the nuanced dynamics that separate world-class death metal drumming from mere speed. Pearl's SST (Superior Shell Technology) construction with no reinforcement rings lets the maple vibrate freely for a richer fundamental.

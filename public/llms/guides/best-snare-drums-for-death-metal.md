@@ -12,7 +12,7 @@ Death metal drummers who want to know which snare drums deliver the speed, sensi
 
 The snare drum is the defining voice of death metal drumming. Every blast beat, every backbeat, every snare fill that cuts through downtuned guitar walls originates here. Death metal's specific demands — extreme tempos (180–280 BPM), ghost note sensitivity for technical patterns, and a crack that remains audible in the densest sonic environments — make snare selection a critical decision with real sonic consequences.
 
-George Kollias, the world's fastest recorded drummer, uses Pearl Free-Floating snare drums. The free-floating design eliminates lug dampening by suspending the shell from its own flanges — maximizing resonance and sensitivity at 280 BPM blast beats. Flo Mounier (Cryptopsy) prioritizes sensitivity for the dynamic range and ghost note articulation that Cryptopsy's technical death metal demands. Gene Hoglan ("The Atomic Clock") uses DW snare drums with True-Pitch tensioning for the consistent, repeatable response his metronomic approach requires.
+George Kollias, renowned for sustaining blast beats at 240+ BPM, uses Pearl Free-Floating snare drums. The free-floating design eliminates lug dampening by suspending the shell from its own flanges — maximizing resonance and sensitivity at 280 BPM blast beats. Flo Mounier (Cryptopsy) prioritizes sensitivity for the dynamic range and ghost note articulation that Cryptopsy's technical death metal demands. Gene Hoglan ("The Atomic Clock") uses DW snare drums with True-Pitch tensioning for the consistent, repeatable response his metronomic approach requires.
 
 ---
 

@@ -2777,7 +2777,7 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
     drummerId: 54,
     name: 'Daniel Erlandsson',
     bands: [
-      { slug: 'arch-enemy', period: '1996-present', role: 'Drummer' },
+      { slug: 'arch-enemy', period: '1995-1997, 1998-present', role: 'Founding drummer' },
       { slug: 'eucharist', period: '1989-1997', role: 'Drummer' },
       { slug: 'in-flames', period: '1997', role: 'Live drummer' },
       { slug: 'carcass', period: '2007-2008', role: 'Live drummer' }

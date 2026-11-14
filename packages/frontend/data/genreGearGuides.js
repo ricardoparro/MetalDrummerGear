@@ -9149,7 +9149,7 @@ The steel shell delivers a brighter, harder-edged attack than brass alternatives
 
           description: `The Pearl Joey Jordison Signature Snare is Jordison's actual signature model — a 13"x6.5" steel shell finished in his distinctive blood-splatter graphic. The smaller 13" diameter (versus the standard 14") gives faster response and a tighter, more aggressive crack, built for the sustained blast beats and rapid-fire fills that defined Slipknot's attack.
 
-Jordison was a Pearl Drums endorser for most of his career, and this signature snare anchored his sound from the "Vol. 3" era onward — a compact shell built to cut through Slipknot's wall-of-sound production at extreme tempos.`,
+Jordison was a Pearl Drums endorser for most of his career, and this signature snare anchored his sound from 2010 onward — a compact shell built to cut through Slipknot's wall-of-sound production at extreme tempos.`,
 
           pros: [
             "Joey Jordison's actual signature model — Slipknot's defining snare attack",
@@ -9170,7 +9170,7 @@ Jordison was a Pearl Drums endorser for most of his career, and this signature s
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "Actual signature snare since the Vol. 3 era; blood-splatter finish" }
+            { name: "Joey Jordison", band: "Slipknot", note: "Actual signature snare since 2010; blood-splatter finish" }
           ],
           verdict: "The authentic Slipknot snare. Joey Jordison's real signature model — 13\" steel shell built for speed and aggression.",
           rating: 4.8,

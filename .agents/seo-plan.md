@@ -17034,3 +17034,50 @@ Filed 3 of the 8 ceiling — stopped at 3 high-confidence, independently-verifie
 2. `top10Lists.js` sweep is still not exhaustive (3585 lines; ~21 drummers checked across two runs today) — continue if the bank runs dry again before the next GSC-gap signal. Untried chapters per this run's research: Meinl cymbals list, left-handed/open-handed list, session-drummers list all spot-checked clean this run.
 3. GSC content-gap: zero rows this week (12,090 impr/291 clicks/2.41% CTR/pos 7.9).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-14 ~01:0x UTC (SEO Agent run — 2/8 proposals filed #10616-10617: Daniel Erlandsson Arch Enemy 1996-vs-1995 flip-flop root cause)
+
+### Bank check
+9 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 3 already promoted to `ai-fix` #10604-10606 per the 00:19 UTC cheap-pulse log) — untriaged fresh bank effectively 0. Well under the 45 floor → cleared to file up to 8 net-new. Today is Saturday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): zero rows this week (GSC 9,593 impr/242 clicks/2.52% CTR/pos 7.8, metrics.md 01:02 UTC) — no CTR-fix proposals needed.
+- Open PRs: 0. ai-fix backlog: 23.
+
+### Method
+Continued the `top10Lists.js` fabrication-sweep hunting ground (dedicated target since this file was identified as never-swept on 2026-11-13). Dispatched 2 research subagents in sequence to audit previously-unchecked chapters:
+1. `longest-active-tenure-metal-drummers` + `best-side-project-drummers` — came back clean except one MEDIUM-confidence candidate (Shannon Larkin's pre-Godsmack "Souls at Zero"/"Amen" band credits). Independently fact-checked externally (Wikipedia/Modern Drummer/Loudwire) before trusting it — **turned out to be entirely true**, just absent from our own `api/drummers/index.js` `bands` array. Did not file as a "fix" (nothing is wrong in top10Lists.js); noted as a possible future minor depth-enrichment of Larkin's root record, not pursued this run (low value, well-documented elsewhere, not citation-unique).
+2. `best-metal-drummers-with-classical-training`, `drummers-known-for-live-improvisation`, `best-90s-death-metal-drummers`, `2000s/2010s/2020s-metal-drummers` — all clean except one confirmed fabrication: **Daniel Erlandsson's Arch Enemy join year**, stated as "1996" in 10 `top10Lists.js` locations (1698, 1753, 1765, 1867, 2038, 2183, 2919, 3476, 3489, 3510).
+
+Traced the full history via `gh issue view` on related closed issues before filing (critical — this fact has flip-flopped twice): closed **#5652** (Aug 2026) changed `top10Lists.js` from 1995→1996, citing `extendedBios.js`'s `bands` array (which said `1996-present`) as ground truth at the time. Closed **#9787** (Oct 27 2026) later re-verified the true canonical source (`bands.js`: founding drummer, 1995, with a documented 1997-98 Peter Wildoer gap) and corrected `drummerEvolution.js` + its llms mirror back to 1995 — but never touched `top10Lists.js`, which is now the stale outlier. Filed **#10616** with the full flip-flop history inline so Roadie doesn't re-flip it a third time, covering all 10 locations + the generated `public/llms/lists.md` mirror (regenerate via `scripts/generate-llms-lists-per-slug.cjs`).
+
+While tracing ground truth, found `extendedBios.js:2780`'s own structured `bands` array (`period: '1996-present'`) self-contradicts that same file's own prose overview (line 2791), career timeline (line 2799), and FAQ (line 2892) — all three already say 1995/founding member. Confirmed via `gh issue view 9148` that the prior extendedBios.js fabrication-fix pass on this exact entry never touched this field. Filed **#10617** separately (different file, cleanly separable fix).
+
+Both dedup-checked via `gh issue list --state all --search` before filing — found the related-but-distinct closed issues cited above, no exact-match duplicate.
+
+Filed 2 of the 8 ceiling — stopped at 2 high-confidence findings; the Larkin lead was correctly not forced into a fabrication-shaped issue once external verification showed it was true.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 463u/521s/749v 7d; GSC 9,593 impr/242 clicks/2.52% CTR/pos 7.8. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Saturday 2026-11-14; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10604-10606 (00:19 UTC cheap pulse, already `ai-fix`)
+- #10616-10617 (this run, 2 fresh)
+
+### Next run
+1. Watch #10616-10617 pick up via Roadie. #10616 explicitly warns against a third flip-flop — if a future run's sub-agent flags this exact fact again, check `gh issue view 10616`'s history section first.
+2. `top10Lists.js` sweep: now ~8 chapters checked today (longest-tenure, side-project, classical-training, live-improvisation, 90s-death-metal, 2000s/2010s/2020s) on top of last week's gear-specific chapters — most of the ~60-chapter file has now had at least one pass. Remaining untried: goregrind, rap-metal, polyrhythmic, crust-metal, blackgaze, horror-metal, and a handful of other niche genre lists (lower fabrication risk historically — mostly reused bio text rather than new specific claims) — lower priority, pick up only if the bank runs dry again before a GSC-gap signal.
+3. Possible minor depth-enrichment candidate (not filed, low priority): Shannon Larkin's `api/drummers/index.js` `bands` array is missing verified pre-Godsmack stints (Souls at Zero 1992-94, Amen 1998-2002) — externally confirmed true via Wikipedia/Modern Drummer/Loudwire this run, just incomplete, not a fabrication. Low citation value since well-documented elsewhere; only worth doing if the bank runs dry with nothing better.
+4. GSC content-gap: zero rows this week (9,593 impr/242 clicks/2.52% CTR/pos 7.8).
+5. Drum-chair watch: next due Monday 2026-11-16, group 3.

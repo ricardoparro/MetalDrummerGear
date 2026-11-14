@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-13 08:15 UTC · Window: last 12h*
+*Generated 2026-11-14 08:11 UTC · Window: last 12h*
 
 ---
 
@@ -9,27 +9,37 @@
 | Metric | Value |
 | --- | --- |
 | Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 11 |
+| Open `seo-proposal` issues | 14 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
 | Open PRs | 0 |
-| PRs merged in window | **4** |
-| Issues closed in window | 4 |
-| Commits to `main` in window | 8 |
+| PRs merged in window | **5** |
+| Issues closed in window | 5 |
+| Commits to `main` in window | 9 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| GA4 | _unavailable_ |
-| GSC impressions | 12,090 |
-| GSC clicks | 291 |
-| GSC CTR | 2.41% |
-| GSC avg position | 7.9 |
+| Active users | **595** |
+| Sessions | 667 |
+| Page views | 917 |
+| Engagement rate | 61.47% |
+| GSC impressions | 9,593 |
+| GSC clicks | 242 |
+| GSC CTR | 2.52% |
+| GSC avg position | 7.8 |
 
 ## 💰 Revenue trajectory (estimate)
 
-_No pageview data yet — needs GA4 metrics._
+> ⚠️ **Estimate**, not real earnings: ad revenue modeled as pageviews × €3/1k RPM. Real AdSense numbers need the AdSense Management API connected. Affiliate-click tracking not wired yet.
+
+| Metric | Value |
+| --- | --- |
+| Est. pageviews / mo | ~3,930 |
+| Est. ad revenue / mo | **~€11.79** |
+| Progress to €1000/mo | 1.2% |
+| Pageviews/mo needed for €1000 | ~333,333 (85× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -55,24 +65,24 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 10d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 14d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 43d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 9d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 13d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 42d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 46 | 46 | 0 |
-| Verify YouTube Videos | 9 | 5 | 4 |
-| Verify API Modules | 8 | 4 | 4 |
-| Check Sitemap Drift | 8 | 4 | 4 |
-| Verify Data Modules | 6 | 3 | 3 |
-| Check llms freshness | 5 | 0 | 5 |
-| Health Check | 4 | 4 | 0 |
-| Perf Budget Gate | 3 | 0 | 3 |
+| PR Merger | 45 | 45 | 0 |
+| Verify YouTube Videos | 11 | 6 | 5 |
+| Check Sitemap Drift | 10 | 5 | 5 |
+| Verify Data Modules | 8 | 4 | 4 |
+| Check llms freshness | 6 | 0 | 6 |
+| Perf Budget Gate | 4 | 0 | 4 |
+| Health Check | 3 | 3 | 0 |
 | SEO Agent | 2 | 2 | 0 |
 | CEO Agent | 2 | 2 | 0 |
+| Verify API Modules | 2 | 1 | 1 |
 | Roadie Night Fleet | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
 | Roadie (Watcher + Implementer) | 1 | 1 | 0 |
@@ -82,27 +92,28 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-13 18:09 — cheap pulse: 8/8 proposals verified+promoted #10591-10598
+- 2026-11-13 12:11 — daily deep run: 5/5 proposals verified+promoted #10584-10588
 - 2026-11-13 00:20 (cheap pulse, pre-deep-run — 2/2 proposals verified+promoted #10577/10579)
-- 2026-11-12 00:19 (cheap pulse — 2/2 proposals verified+promoted #10559/10560)
-- 2026-11-12 06:13 (cheap pulse, pre-deep-run — 3/3 proposals verified+promoted #10562/10563/10564)
-- 2026-11-12 12:11 (deep run — 3/3 proposals verified+promoted #10567/10568/10569)
-- 2026-11-12 18:09 (cheap pulse — 1/1 proposal verified+promoted #10573)
 - 2026-11-13 06:12 (cheap pulse, pre-deep-run — 2/2 proposals verified+promoted #10580/10581)
+- 2026-11-14 00:19 (cheap pulse, pre-deep-run — 3/3 proposals verified+promoted #10604/10605/10606)
+- 2026-11-14 06:11 (cheap pulse, pre-deep-run — 2/2 proposals verified+promoted #10616/10617)
 
-## 📦 Shipped to main (4)
+## 📦 Shipped to main (5)
 
-- #10590 fix: #10581 SEO: Sons of Apollo band page live meta title/description fabricate 'Mike Mangini' as drummer — verified Mike Portnoy, self-contradicted by the record's own FAQ/drummerHistory
-- #10589 fix: #10580 SEO: Gene Hoglan's api/drummers/index.js + extendedBios.js still credit him with Paul Bostaph's 2007-2011 Testament stint (Formation of Damnation) — root canonical file never fixed
-- #10583 fix: #10577 SEO: George Kollias's root api/drummers/index.js record still fabricates 'Pearl George Kollias Signature' snare + 'K Mastersound/K Custom Dark' cymbals — 12+ closed issues fixed every mirror but never this file
-- #10582 fix: #10579 SEO: Aquiles Priester + Daniel Erlandsson — stale 'endorsements' array in api/drummers/index.js still names pre-fix brands, contradicting the gear object 2-9 lines above
+- #10630 fix: #10617 SEO: extendedBios.js Daniel Erlandsson structured 'bands' field says Arch Enemy '1996-present', contradicting the same file's own prose/timeline/FAQ (1995, founding drummer)
+- #10629 fix: #10616 SEO: top10Lists.js — Daniel Erlandsson 'joined Arch Enemy in 1996' stale across 10 locations (verified: founding drummer, 1995)
+- #10619 fix: #10605 SEO: top10Lists.js signature-drumstick list — Chris Adler fabricated prior 'Vic Firth' stick deal (no such endorsement exists)
+- #10620 fix: #10606 SEO: top10Lists.js producer/engineer list — Joey Jordison anachronistic snare claim (models didn't exist until years after the cited albums)
+- #10618 fix: #10604 SEO: api/drummers/index.js root record — Bill Ward's Black Sabbath tenure still fabricated as '1968–1983, 1997–2006' (root file never swept)
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 236h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2545h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2641h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2818h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3903h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 259h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2569h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2665h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2842h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3927h)_
 
 ---
 

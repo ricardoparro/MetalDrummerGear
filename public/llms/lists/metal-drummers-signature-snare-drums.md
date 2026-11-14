@@ -1,6 +1,6 @@
 # Top 7 Metal Drummers' Signature Snare Drums — Complete Ranked Guide
 
-> **Last updated:** 2026-11-13 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-snare-drums)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-snare-drums)
 
 ---
 
@@ -117,4 +117,4 @@ A: A signature snare's dimensions are chosen to solve a specific problem the sta
 
 ---
 
-*Last updated: 2026-11-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

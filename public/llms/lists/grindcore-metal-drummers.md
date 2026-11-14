@@ -1,6 +1,6 @@
 # Top 10 Grindcore Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/grindcore-metal-drummers)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/grindcore-metal-drummers)
 
 ---
 
@@ -130,7 +130,7 @@ A: George Kollias holds documented blast beat speeds exceeding 280 BPM with Nile
 A: Grindcore drumming fuses death metal's blast beats with hardcore punk's raw speed, aggression, and brevity — songs frequently run under two minutes and are built almost entirely around sustained, blur-inducing blast beat velocity rather than groove or dynamics. Where death metal drumming balances speed with technical composition, grindcore drumming strips the format down to its most extreme, high-BPM essentials, favoring relentless intensity over structural complexity. The genre emerged in the mid-1980s from bands like Napalm Death and Terrorizer fusing crust punk and death metal influences into the fastest extreme metal subgenre.
 
 **Q: What gear do grindcore drummers use?**
-A: Grindcore's extreme tempos demand lightweight, direct-drive double pedals and tightly tuned kits built for speed over resonance. Pete Sandoval's ddrum Dios kit and ddrum Mercury double pedal deliver the fast, direct response his blast beats require. Flo Mounier's Tama Starclassic Maple kit and Tama Speed Cobra 910 double pedal, and Kevin Talley's Pearl Eliminator double pedal, follow the same pattern — responsive, low-mass hardware that lets the feet keep pace with 250+ BPM blast beats without sacrificing control.
+A: Grindcore's extreme tempos demand lightweight, direct-drive double pedals and tightly tuned kits built for speed over resonance. Pete Sandoval's ddrum kit and double pedal (specific series unconfirmed) deliver the fast, direct response his blast beats require. Flo Mounier's Tama Starclassic Maple kit and Tama Speed Cobra 910 double pedal, and Kevin Talley's Pearl Eliminator double pedal, follow the same pattern — responsive, low-mass hardware that lets the feet keep pace with 250+ BPM blast beats without sacrificing control.
 
 
 ---
@@ -150,4 +150,4 @@ A: Grindcore's extreme tempos demand lightweight, direct-drive double pedals and
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

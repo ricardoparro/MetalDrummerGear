@@ -1,6 +1,6 @@
 # Top 10 Fastest Blast Beat Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-blast-beat-drummers)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-blast-beat-drummers)
 
 ---
 
@@ -129,7 +129,7 @@ A: Pete Sandoval (Morbid Angel) is widely credited as the pioneer and perfecter 
 A: A standard blast beat alternates snare and kick in unison with the hi-hat or ride, typically in the 180-220 BPM range. A hyper blast, the variant Pete Sandoval is credited with pioneering and perfecting, pushes that same alternating pattern to 250+ BPM, the tempo MetalForge's own technique guide classifies as the genre's "Hyper Blast" variation.
 
 **Q: Do blast beat specialists use different gear than other metal drummers?**
-A: Yes — several drummers on this list chose kits specifically engineered for extreme, sustained tempos. Pete Sandoval plays an all-metal-shell ddrum Dios kit built to survive hyper-blast velocities, and Derek Roddy and Tim Yeung both play the same dense, bass-heavy Tama Starclassic Bubinga shell pack for the low-end weight and fast attack blast-beat playing demands. MetalForge's blast-beat gear guide also recommends direct-drive pedals like the Pearl Demon Drive and lightweight footboards like the Tama Speed Cobra specifically for this technique.
+A: Yes — several drummers on this list chose kits specifically engineered for extreme, sustained tempos. Pete Sandoval plays a ddrum kit (specific series unconfirmed) built to survive hyper-blast velocities, and Derek Roddy and Tim Yeung both play the same dense, bass-heavy Tama Starclassic Bubinga shell pack for the low-end weight and fast attack blast-beat playing demands. MetalForge's blast-beat gear guide also recommends direct-drive pedals like the Pearl Demon Drive and lightweight footboards like the Tama Speed Cobra specifically for this technique.
 
 **Q: Which subgenres rely most on blast beats?**
 A: Death metal (Pete Sandoval, George Kollias, Flo Mounier, Gene Hoglan, Kevin Talley, Tim Yeung) and black metal (Hellhammer, Frost) are the two subgenres MetalForge's technique data identifies as most centrally built around the blast beat, with Behemoth's Inferno bridging both as a blackened death metal drummer. Grindcore, the blast beat's original home before it migrated into death and black metal in the mid-1980s, also depends heavily on the technique.
@@ -152,4 +152,4 @@ A: Death metal (Pete Sandoval, George Kollias, Flo Mounier, Gene Hoglan, Kevin T
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

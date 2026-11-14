@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Meinl Cymbals — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-meinl-cymbals)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-meinl-cymbals)
 
 ---
 
@@ -126,7 +126,7 @@ A: Derek Roddy pairs Meinl's nuanced Byzance line (hi-hats and china) with the l
 
 - [Top 7 Metal Drummers Playing Zildjian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-zildjian-cymbals.md)
 - [Top 9 Metal Drummers Playing Sabian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-sabian-cymbals.md)
-- [Top 10 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
+- [Top 7 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 
 ## More Resources
 
@@ -137,4 +137,4 @@ A: Derek Roddy pairs Meinl's nuanced Byzance line (hi-hats and china) with the l
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

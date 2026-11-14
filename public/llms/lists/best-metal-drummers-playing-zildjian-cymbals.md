@@ -1,6 +1,6 @@
 # Top 7 Metal Drummers Playing Zildjian Cymbals — Complete Ranked Guide
 
-> **Last updated:** 2026-11-13 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals)
 
 ---
 
@@ -105,7 +105,7 @@ A: Every entry on this list requires a Zildjian relationship that's independentl
 ## Related Lists
 
 - [Top 9 Metal Drummers Playing Sabian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-sabian-cymbals.md)
-- [Top 10 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
+- [Top 7 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 - [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers) — [LLM Reference](https://metalforge.io/llms/lists/death-metal-drummers.md)
 
 ## More Resources
@@ -117,4 +117,4 @@ A: Every entry on this list requires a Zildjian relationship that's independentl
 
 ---
 
-*Last updated: 2026-11-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

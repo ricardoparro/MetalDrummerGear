@@ -11,14 +11,14 @@
 
 A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Triggers are common in technical death metal for consistent bass drum attack, but the genre has a distinctive tension around them: many players, particularly those focused on single-foot technique, deliberately minimize reliance on triggers to preserve natural dynamics.
 
-George Kollias of Nile holds recognized world records for single-foot bass drum speed and has documented 240+ BPM blast beats sustained across entire instructional materials — a level of raw foot technique where minimizing trigger dependence is itself part of the achievement. Derek Roddy's swivel technique pushed blast beat speed past 260 BPM, another benchmark built on natural technique rather than electronic assistance. Tim Yeung, by contrast, runs a trigger-assisted double-pedal setup built for the extreme-tempo session and touring work he's done with Hate Eternal, Morbid Angel, and Divine Heresy — showing that reinforcement remains a legitimate studio tool even at the genre's technical extremes.
+George Kollias of Nile has documented 240+ BPM blast beats sustained across entire instructional materials, among the fastest single-foot bass drum speed in the genre — a level of raw foot technique where minimizing trigger dependence is itself part of the achievement. Derek Roddy's swivel technique pushed blast beat speed past 260 BPM, another benchmark built on natural technique rather than electronic assistance. Tim Yeung, by contrast, runs a trigger-assisted double-pedal setup built for the extreme-tempo session and touring work he's done with Hate Eternal, Morbid Angel, and Divine Heresy — showing that reinforcement remains a legitimate studio tool even at the genre's technical extremes.
 
 This guide covers what actually matters when choosing drum triggers for technical death metal — mounting type, dual-zone sensing, and crosstalk rejection at odd-meter blast tempo — with specific recommendations for drummers reinforcing takes and for those minimizing reliance to showcase natural single-foot speed.
 
 **Key Points:**
 
 - Triggers are common for consistent bass drum attack, but many technical death metal players minimize reliance to preserve natural dynamics
-- George Kollias holds recognized world records for single-foot bass drum speed, built without relying on trigger assistance
+- George Kollias's documented 240+ BPM single-foot bass drum speed was built without relying on trigger assistance
 - Derek Roddy's swivel technique pushed blast beat speed past 260 BPM through natural foot technique
 - Tim Yeung's trigger-assisted double-pedal setup shows reinforcement remains a legitimate studio tool at the genre's technical extremes
 
@@ -253,7 +253,7 @@ Technical death metal drummers weigh triggers differently depending on what they
 - Keeps the acoustic kit's exact feel and tuning — the trigger only adds a clean, parallel signal for the engineer
 
 **Minimal-Reliance Natural Technique (George Kollias, Derek Roddy):**
-- George Kollias's world-record single-foot bass drum speed and Derek Roddy's swivel technique past 260 BPM showcase raw technique with light or no trigger dependence
+- George Kollias's 240+ BPM single-foot bass drum speed and Derek Roddy's swivel technique past 260 BPM showcase raw technique with light or no trigger dependence
 - Preserves natural dynamics as part of the technical achievement itself
 - No hardware cost, but demands significantly more physical development
 
@@ -286,7 +286,7 @@ Technical death metal drummers weigh triggers differently depending on what they
 Triggers are common for consistent bass drum attack in technical death metal, but many players — particularly those focused on single-foot technique like George Kollias — minimize reliance on them to preserve natural dynamics. Tim Yeung's trigger-assisted double-pedal setup shows reinforcement remains a legitimate studio tool at the genre's technical extremes.
 
 **Why would a drummer avoid triggers if they help with consistency?**
-For drummers whose technical identity is built around raw foot speed — George Kollias's world-record single-foot bass drum speed and Derek Roddy's swivel technique past 260 BPM are the genre's clearest examples — minimizing trigger reliance preserves natural dynamics as part of the showcase itself. It's a deliberate artistic and technical choice, not an oversight.
+For drummers whose technical identity is built around raw foot speed — George Kollias's 240+ BPM single-foot bass drum speed and Derek Roddy's swivel technique past 260 BPM are the genre's clearest examples — minimizing trigger reliance preserves natural dynamics as part of the showcase itself. It's a deliberate artistic and technical choice, not an oversight.
 
 **What drum triggers does Tim Yeung use?**
 Tim Yeung runs a trigger-assisted double-pedal setup built for the extreme-tempo session and touring work he's done with Hate Eternal, Morbid Angel, and Divine Heresy. It's a studio-consistency tool layered on top of his own technique, not a replacement for it.
@@ -301,7 +301,7 @@ The Pintech RS-5 (€55-70) is marketed as the best-selling trigger in the world
 
 ## Reinforce the Take, or Showcase the Technique
 
-Technical death metal's relationship with triggers is more nuanced than most extreme metal subgenres. Tim Yeung's trigger-assisted double-pedal setup proves reinforcement is a legitimate studio tool for extreme-tempo session and touring work, while George Kollias's world-record single-foot bass drum speed and Derek Roddy's 260+ BPM swivel technique show that minimizing trigger reliance can itself be the technical statement.
+Technical death metal's relationship with triggers is more nuanced than most extreme metal subgenres. Tim Yeung's trigger-assisted double-pedal setup proves reinforcement is a legitimate studio tool for extreme-tempo session and touring work, while George Kollias's 240+ BPM single-foot bass drum speed and Derek Roddy's 260+ BPM swivel technique show that minimizing trigger reliance can itself be the technical statement.
 
 Start lean: a single kick trigger and a basic interface will reinforce your loudest, most tempo-critical drum without touching how your acoustic kit feels. Whether you lean into that reinforcement or minimize it in favor of raw single-foot speed is a choice about what you want your playing to showcase — both are proven at the highest level of the genre.
 
@@ -317,7 +317,7 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
 
 ## Related Drummers
 
-- [George Kollias](https://metalforge.io/drummer/george-kollias) — World-record single-foot bass drum speed, minimizing trigger reliance to preserve natural dynamics
+- [George Kollias](https://metalforge.io/drummer/george-kollias) — 240+ BPM single-foot bass drum speed, minimizing trigger reliance to preserve natural dynamics
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Swivel technique pushing blast beat speed past 260 BPM through natural foot technique
 - [Tim Yeung](https://metalforge.io/drummer/tim-yeung) — Trigger-assisted double pedal setup across Hate Eternal, Morbid Angel, and Divine Heresy
 

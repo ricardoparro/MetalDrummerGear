@@ -11,7 +11,7 @@
 
 Death metal's bass drum has one job above all others: deliver deep, punchy low-end weight that anchors the genre's downtuned guitars without losing definition at 200+ BPM. Unlike black metal's raw, resonant approach, death metal wants a controlled, tightly muffled attack — every kick stroke needs to articulate clearly even buried inside dense, layered mixes.
 
-George Kollias — widely regarded as the fastest drummer on record — plays a Pearl Reference Pure 22"x18" bass drum, its thin 6-ply maple shell delivering exceptional sensitivity for Nile's densely layered technical death metal. Flo Mounier of Cryptopsy runs a DW Collector's Series maple bass drum, hand-crafted for the sensitivity and projection his technical patterns demand at sustained 270 BPM. Gene Hoglan — "The Atomic Clock" — built his precision-first low end on Tama's Starclassic Birch/Bubinga across his work with Death, Testament, and Dark Angel. Pete Sandoval of Morbid Angel also relied on Tama equipment at various career stages, adding to the brand's death metal pedigree.
+George Kollias — among the fastest drummers in extreme metal, sustaining blast beats at 240+ BPM — plays a Pearl Reference Pure 22"x18" bass drum, its thin 6-ply maple shell delivering exceptional sensitivity for Nile's densely layered technical death metal. Flo Mounier of Cryptopsy runs a DW Collector's Series maple bass drum, hand-crafted for the sensitivity and projection his technical patterns demand at sustained 270 BPM. Gene Hoglan — "The Atomic Clock" — built his precision-first low end on Tama's Starclassic Birch/Bubinga across his work with Death, Testament, and Dark Angel. Pete Sandoval of Morbid Angel also relied on Tama equipment at various career stages, adding to the brand's death metal pedigree.
 
 This guide breaks down exactly what makes a bass drum work for death metal — shell size, material, and head selection — and which specific shells the genre's most demanding drummers actually play.
 
@@ -74,7 +74,7 @@ Sustained 200-280 BPM double bass patterns punish loose hoops and spurs. Heavy-d
 **Material:** 6-ply Maple (No Reinforcement Ring), 22"x18"  
 **Rating:** 4.9/5
 
-The Pearl Reference Pure bass drum is George Kollias's kit of choice — and when the world's fastest recorded drummer stakes his reputation on a shell, that's the strongest possible endorsement. The thin 6-ply maple construction with no reinforcement ring lets the drum vibrate freely for a richer, more articulate low end.
+The Pearl Reference Pure bass drum is George Kollias's kit of choice — and when a drummer renowned for sustaining 240+ BPM blast beats stakes his reputation on a shell, that's the strongest possible endorsement. The thin 6-ply maple construction with no reinforcement ring lets the drum vibrate freely for a richer, more articulate low end.
 
 That sensitivity matters when Kollias is firing 280 BPM patterns beneath Nile's densely layered guitar and bass walls — every stroke needs to stay legible, not blur into a wash of low end. Paired with his co-designed Pearl Demon XR double pedal, it's the death metal speed standard.
 

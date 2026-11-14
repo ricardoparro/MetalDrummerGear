@@ -26,7 +26,7 @@ Avenged Sevenfold's Arin Ilejay vs ex-Slipknot's Jay Weinberg. Two drummers who 
 
 ## Playing Style
 
-Arin Ilejay joined Avenged Sevenfold in 2011, stepping into one of metal's most emotionally charged drum chairs after the tragic 2009 death of founding drummer Jimmy "The Rev" Sullivan. His one studio album with the band, "Hail to the King" (2013), debuted at No. 1 on the Billboard 200 and multiple international charts, and his direct, powerful playing suited the record's back-to-basics classic heavy metal approach rather than trying to replicate The Rev's technical flourishes. Jay Weinberg, son of E Street Band drummer Max Weinberg, joined Slipknot in 2014 to fill the chair vacated by founding drummer Joey Jordison, spending nine years driving the band's masked, maximalist stage show across ".5: The Gray Chapter," "We Are Not Your Kind," and "The End, So Far" before departing in 2023 to join Suicidal Tendencies.
+Arin Ilejay joined Avenged Sevenfold in 2011, stepping into one of metal's most emotionally charged drum chairs after the tragic 2009 death of founding drummer Jimmy "The Rev" Sullivan. His one studio album with the band, "Hail to the King" (2013), debuted at No. 1 on the Billboard 200 and multiple international charts, and his direct, powerful playing suited the record's back-to-basics classic heavy metal approach rather than trying to replicate The Rev's technical flourishes. Jay Weinberg, son of E Street Band drummer Max Weinberg, joined Slipknot in 2014 to fill the chair vacated by founding drummer Joey Jordison, spending nine years driving the band's masked, maximalist stage show across ".5: The Gray Chapter," "We Are Not Your Kind," and "The End, So Far" before departing in 2023 to join Suicidal Tendencies, a tenure that lasted until his departure from that band in January 2026.
 
 ## Technique
 
@@ -38,7 +38,7 @@ Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snar
 
 ## Influence & Legacy
 
-Ilejay's tenure proved brief — just one album before his 2015 departure — but "Hail to the King" remains a commercial high point for Avenged Sevenfold, and his willingness to play in service of the songs rather than chase his predecessor's technical legacy earned him respect from fans wary of any replacement drummer. Weinberg spent nearly a decade proving a legacy chair could be filled with distinction, earning acclaim across three Slipknot albums before a high-profile move to Suicidal Tendencies and a spot on Metallica's M72 World Stadium Tour.
+Ilejay's tenure proved brief — just one album before his 2015 departure — but "Hail to the King" remains a commercial high point for Avenged Sevenfold, and his willingness to play in service of the songs rather than chase his predecessor's technical legacy earned him respect from fans wary of any replacement drummer. Weinberg spent nearly a decade proving a legacy chair could be filled with distinction, earning acclaim across three Slipknot albums before a high-profile move to Suicidal Tendencies that included a spot on Metallica's M72 World Stadium Tour, before departing that band in January 2026.
 
 ## Verdict
 
@@ -53,10 +53,10 @@ A: Both drummers replaced a legendary predecessor in a massive metal band. Arin 
 A: Arin Ilejay played a DW Collector's Series kit with a DW Collector's Series snare and Zildjian A Custom cymbals, powered by a DW 9000 Series double pedal. Jay Weinberg plays an SJC Custom Drums kit with his signature SJC "The Crucible" brass snare and Zildjian cymbals, also powered by a DW 9000 Series double pedal.
 
 **Q: What bands are Arin Ilejay and Jay Weinberg known for?**
-A: Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King" (2013). Jay Weinberg drummed for Slipknot from 2014 to 2023 before joining Suicidal Tendencies in 2023.
+A: Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King" (2013). Jay Weinberg drummed for Slipknot from 2014 to 2023 before joining Suicidal Tendencies in 2024, departing that band in January 2026.
 
 **Q: How long did Arin Ilejay and Jay Weinberg each hold their replacement drum chair?**
-A: Arin Ilejay held Avenged Sevenfold's drum chair for about four years (2011-2015), recording one studio album. Jay Weinberg held Slipknot's drum chair for nine years (2014-2023), recording three studio albums before departing to join Suicidal Tendencies.
+A: Arin Ilejay held Avenged Sevenfold's drum chair for about four years (2011-2015), recording one studio album. Jay Weinberg held Slipknot's drum chair for nine years (2014-2023), recording three studio albums before departing to join Suicidal Tendencies (2024–2026).
 
 ---
 
@@ -67,4 +67,4 @@ A: Arin Ilejay held Avenged Sevenfold's drum chair for about four years (2011-20
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

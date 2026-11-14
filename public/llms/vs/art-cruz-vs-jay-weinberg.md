@@ -26,7 +26,7 @@ Lamb of God's Art Cruz vs former Slipknot drummer Jay Weinberg. Two modern metal
 
 ## Playing Style
 
-Art Cruz became Lamb of God's drummer in 2019, stepping into one of groove metal's most demanding drum chairs after Chris Adler's departure — a transition that began when Cruz filled in for Adler on Lamb of God's 2018 tour supporting Slayer's farewell run. Before that, Cruz built his reputation across Winds of Plague and Prong, developing a reputation as a hard-hitting, reliable drummer capable of handling diverse metal styles. Jay Weinberg joined Slipknot in 2014, replacing founding drummer Joey Jordison and spending nine years (2014–2023) as the band's drummer #1, honoring Jordison's blast-beat-driven legacy on ".5: The Gray Chapter," "We Are Not Your Kind," and "The End, So Far" before departing in November 2023 and joining Suicidal Tendencies in 2024.
+Art Cruz became Lamb of God's drummer in 2019, stepping into one of groove metal's most demanding drum chairs after Chris Adler's departure — a transition that began when Cruz filled in for Adler on Lamb of God's 2018 tour supporting Slayer's farewell run. Before that, Cruz built his reputation across Winds of Plague and Prong, developing a reputation as a hard-hitting, reliable drummer capable of handling diverse metal styles. Jay Weinberg joined Slipknot in 2014, replacing founding drummer Joey Jordison and spending nine years (2014–2023) as the band's drummer #1, honoring Jordison's blast-beat-driven legacy on ".5: The Gray Chapter," "We Are Not Your Kind," and "The End, So Far" before departing in November 2023 and joining Suicidal Tendencies in 2024, a tenure that ended with his departure in January 2026.
 
 ## Technique
 
@@ -59,7 +59,7 @@ A: Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zil
 A: Art Cruz played with Winds of Plague (2010–2012) and Prong (2012–2019) before joining Lamb of God in 2019, building his reputation as a versatile, hard-hitting touring and session drummer.
 
 **Q: Is Jay Weinberg still in Slipknot?**
-A: No — Jay Weinberg departed Slipknot in November 2023 after nine years as the band's drummer. He joined Suicidal Tendencies in 2024 and has toured with them, including dates on Metallica's M72 World Stadium Tour.
+A: No — Jay Weinberg departed Slipknot in November 2023 after nine years as the band's drummer. He joined Suicidal Tendencies in 2024, touring with them including dates on Metallica's M72 World Stadium Tour, before departing that band in January 2026.
 
 ---
 
@@ -70,4 +70,4 @@ A: No — Jay Weinberg departed Slipknot in November 2023 after nine years as th
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

@@ -38,7 +38,7 @@ Joey Jordison played Pearl Reference Series drums with his signature Pearl Joey 
 
 ## Influence & Legacy
 
-Jordison created the rhythmic template for Slipknot drumming that defined a generation of nu-metal and extreme metal players, and his influence extended through Murderdolls, Scar the Martyr, and Sinsaenum before his death in July 2021. Weinberg has carved his own legacy while respecting the foundation Jordison built, proving himself a worthy successor across nine years and the band's most commercially successful modern era before departing in November 2023 to join Suicidal Tendencies.
+Jordison created the rhythmic template for Slipknot drumming that defined a generation of nu-metal and extreme metal players, and his influence extended through Murderdolls, Scar the Martyr, and Sinsaenum before his death in July 2021. Weinberg has carved his own legacy while respecting the foundation Jordison built, proving himself a worthy successor across nine years and the band's most commercially successful modern era before departing in November 2023 to join Suicidal Tendencies, where he drummed until departing that band as well in January 2026.
 
 ## Verdict
 
@@ -47,7 +47,7 @@ The Slipknot succession represents two eras of metal drumming excellence. Joey J
 ## FAQ
 
 **Q: Who replaced Joey Jordison in Slipknot?**
-A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in 2014 after Jordison's departure from the band. Weinberg made his studio debut on ".5: The Gray Chapter" (2014) and remained Slipknot's drummer until November 2023, when he departed and subsequently joined Suicidal Tendencies.
+A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in 2014 after Jordison's departure from the band. Weinberg made his studio debut on ".5: The Gray Chapter" (2014) and remained Slipknot's drummer until November 2023, when he departed and subsequently joined Suicidal Tendencies, drumming with that band until his departure in January 2026.
 
 **Q: Why did Joey Jordison leave Slipknot?**
 A: Joey Jordison's December 2013 departure from Slipknot was initially described as a mutual decision, but Jordison later revealed he had been fired while battling transverse myelitis, an autoimmune condition that temporarily left him unable to walk and significantly affected his ability to drum at the level Slipknot required.
@@ -67,4 +67,4 @@ A: Joey Jordison played Pearl Reference Series drums with a signature 13"×6.5" 
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

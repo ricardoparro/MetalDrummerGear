@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Pearl Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
 
 ---
 
@@ -30,9 +30,9 @@ Full drummer profile: [Joey Jordison on MetalForge](https://metalforge.io/drumme
 
 **Band:** Death / Testament / Dethklok
 **Highlight:** "The Atomic Clock" — Pearl Reference Pure since 2018
-**Why ranked here:** Gene Hoglan is a Pearl Drums endorser, running a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" brass snare and Pearl Demon Drive double pedal, having moved to Pearl in 2018 after 35 years on Tama spanning his 1983 debut through Death, Testament, Dark Angel, and Dethklok. That cross-band history, spanning more bands and subgenres than almost any other drummer's brand history in MetalForge's database, is why Hoglan earns rank #2 on this Pearl list despite the endorsement itself being comparatively recent.
+**Why ranked here:** Gene Hoglan is a Pearl Drums endorser, running a Pearl Reference Pure kit with a Pearl snare and Pearl Demon Drive double pedal, having moved to Pearl in 2018 after 35 years on Tama spanning his 1983 debut through Death, Testament, Dark Angel, and Dethklok. That cross-band history, spanning more bands and subgenres than almost any other drummer's brand history in MetalForge's database, is why Hoglan earns rank #2 on this Pearl list despite the endorsement itself being comparatively recent.
 
-Gene Hoglan (Death / Testament / Dethklok) earns rank #2 for: "the atomic clock" — pearl reference pure since 2018. Gene Hoglan is a Pearl Drums endorser, running a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" brass snare and Pearl Demon Drive double pedal, having moved to Pearl in 2018 after 35 years on Tama spanning his 1983 debut through Death, Testament, Dark Angel, and Dethklok. That cross-band history, spanning more bands and subgenres than almost any other drummer's brand history in MetalForge's database, is why Hoglan earns rank #2 on this Pearl list despite the endorsement itself being comparatively recent..
+Gene Hoglan (Death / Testament / Dethklok) earns rank #2 for: "the atomic clock" — pearl reference pure since 2018. Gene Hoglan is a Pearl Drums endorser, running a Pearl Reference Pure kit with a Pearl snare and Pearl Demon Drive double pedal, having moved to Pearl in 2018 after 35 years on Tama spanning his 1983 debut through Death, Testament, Dark Angel, and Dethklok. That cross-band history, spanning more bands and subgenres than almost any other drummer's brand history in MetalForge's database, is why Hoglan earns rank #2 on this Pearl list despite the endorsement itself being comparatively recent..
 
 Full drummer profile: [Gene Hoglan on MetalForge](https://metalforge.io/drummer/gene-hoglan)
 
@@ -40,9 +40,9 @@ Full drummer profile: [Gene Hoglan on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Korn
 **Highlight:** Pearl Reference Maple — Korn's versatile groove engine
-**Why ranked here:** Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Maple kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands.
+**Why ranked here:** Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Maple kit in custom finishes with a Pearl snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands.
 
-Ray Luzier (Korn) earns rank #3 for: pearl reference maple — korn's versatile groove engine. Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Maple kit in custom finishes with a Pearl Reference 14"x5" brass or steel snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands..
+Ray Luzier (Korn) earns rank #3 for: pearl reference maple — korn's versatile groove engine. Ray Luzier is a Pearl Drums and Sabian Cymbals endorser, running a Pearl Reference Maple kit in custom finishes with a Pearl snare, versatile enough to handle Korn's complex, downtuned grooves and heavy moments with equal precision. Luzier earns rank #3 for bringing a fully documented Pearl setup into one of nu-metal's most influential and longest-running bands..
 
 Full drummer profile: [Ray Luzier on MetalForge](https://metalforge.io/drummer/ray-luzier)
 
@@ -116,7 +116,7 @@ A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Ange
 
 - [Top 10 Metal Drummers Playing Tama Kits](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-tama-kits.md)
 - [Top 9 Metal Drummers Playing Sabian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-sabian-cymbals.md)
-- [Top 10 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
+- [Top 7 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 
 ## More Resources
 
@@ -127,4 +127,4 @@ A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Ange
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 9 Metal Drummers Playing Sabian Cymbals — Complete Ranked Guide
 
-> **Last updated:** 2026-11-13 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals)
 
 ---
 
@@ -125,7 +125,7 @@ A: Paul Bostaph played Paiste cymbals for most of his career across Slayer, Test
 ## Related Lists
 
 - [Top 7 Metal Drummers Playing Zildjian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-zildjian-cymbals.md)
-- [Top 10 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
+- [Top 7 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 - [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers) — [LLM Reference](https://metalforge.io/llms/lists/thrash-metal-drummers.md)
 
 ## More Resources
@@ -137,4 +137,4 @@ A: Paul Bostaph played Paiste cymbals for most of his career across Slayer, Test
 
 ---
 
-*Last updated: 2026-11-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

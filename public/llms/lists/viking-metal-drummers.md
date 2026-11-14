@@ -1,6 +1,6 @@
 # Top 10 Viking Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/viking-metal-drummers)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/viking-metal-drummers)
 
 ---
 
@@ -40,9 +40,9 @@ Full drummer profile: [Hellhammer on MetalForge](https://metalforge.io/drummer/h
 
 **Band:** Arch Enemy
 **Highlight:** Arch Enemy and the Gothenburg scene Amon Amarth shares
-**Why ranked here:** Daniel Erlandsson joined Arch Enemy in 1996 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his Scandinavian death metal intensity and technical precision reflecting the same rhythmic tradition Viking metal draws its melodic backbone from
+**Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his Scandinavian death metal intensity and technical precision reflecting the same rhythmic tradition Viking metal draws its melodic backbone from
 
-Daniel Erlandsson (Arch Enemy) earns rank #3 for: arch enemy and the gothenburg scene amon amarth shares. Daniel Erlandsson joined Arch Enemy in 1996 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his Scandinavian death metal intensity and technical precision reflecting the same rhythmic tradition Viking metal draws its melodic backbone from.
+Daniel Erlandsson (Arch Enemy) earns rank #3 for: arch enemy and the gothenburg scene amon amarth shares. Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his Scandinavian death metal intensity and technical precision reflecting the same rhythmic tradition Viking metal draws its melodic backbone from.
 
 Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
@@ -150,4 +150,4 @@ A: Jocke Wallgren's Pearl Reference Pure kit with Zildjian A Custom and K Custom
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

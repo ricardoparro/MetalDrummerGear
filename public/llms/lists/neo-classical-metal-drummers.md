@@ -1,6 +1,6 @@
 # Top 10 Neo-Classical Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/neo-classical-metal-drummers)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/neo-classical-metal-drummers)
 
 ---
 
@@ -40,9 +40,9 @@ Full drummer profile: [Jaska Raatikainen on MetalForge](https://metalforge.io/dr
 
 **Band:** Arch Enemy
 **Highlight:** Arch Enemy's neo-classical-informed melodic death metal engine
-**Why ranked here:** Daniel Erlandsson joined Arch Enemy in 1996 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone
+**Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone
 
-Daniel Erlandsson (Arch Enemy) earns rank #3 for: arch enemy's neo-classical-informed melodic death metal engine. Daniel Erlandsson joined Arch Enemy in 1996 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone.
+Daniel Erlandsson (Arch Enemy) earns rank #3 for: arch enemy's neo-classical-informed melodic death metal engine. Daniel Erlandsson co-founded Arch Enemy in 1995 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone.
 
 Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
@@ -148,4 +148,4 @@ A: Neo-classical metal drummers favor gear built for both technical precision an
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 9 Metal Drummers' Signature & Notable Drumhead Models — Complete Ranked Guide
 
-> **Last updated:** 2026-11-13 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumhead-models)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumhead-models)
 
 ---
 
@@ -131,7 +131,7 @@ A: At blast-beat and 200+ BPM tempos, a head that loses tension or wears unevenl
 
 - [Top 9 Metal Drummers' Signature Drumstick Models](https://metalforge.io/lists/metal-drummers-signature-drumstick-models) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-drumstick-models.md)
 - [Top 10 Metal Drummers' Signature & Standout Pedal Lines](https://metalforge.io/lists/metal-drummers-signature-pedal-lines) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-pedal-lines.md)
-- [Top 10 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
+- [Top 7 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 
 ## More Resources
 
@@ -142,4 +142,4 @@ A: At blast-beat and 200+ BPM tempos, a head that loses tension or wears unevenl
 
 ---
 
-*Last updated: 2026-11-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

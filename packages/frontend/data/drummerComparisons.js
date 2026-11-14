@@ -1213,7 +1213,7 @@ export const drummerComparisons = {
     faqs: [
       { q: 'Who is heavier — Chris Adler or Ray Luzier?', a: 'Chris Adler (Lamb of God) plays in a heavier sonic context — groove metal with down-tuned guitars and aggressive double bass work. Ray Luzier (KoRn) operates in nu-metal which prioritizes groove and feel over sheer heaviness. Adler\'s drumming is more technically extreme; Luzier\'s is more dynamically nuanced.' },
       { q: 'What drums does Chris Adler play vs Ray Luzier?', a: 'Chris Adler plays Mapex Saturn in Satin Black Maple Burl drums with Meinl Byzance cymbals. Ray Luzier plays Pearl Reference Series drums with Sabian cymbals.' },
-      { q: 'Did Chris Adler leave Lamb of God?', a: 'Yes — Chris Adler departed Lamb of God in 2019 after a period of reduced touring activity. Art Cruz joined as the band\'s full-time drummer. Adler\'s recorded legacy with Lamb of God (2000–2017) remains the benchmark for groove metal drumming.' },
+      { q: 'Did Chris Adler leave Lamb of God?', a: 'Yes — Chris Adler departed Lamb of God in 2019 after a period of reduced touring activity. Art Cruz joined as the band\'s full-time drummer. Adler\'s recorded legacy with Lamb of God (1994–2019) remains the benchmark for groove metal drumming.' },
       { q: 'Where did Ray Luzier study drumming?', a: 'Ray Luzier studied at the Musicians Institute (MI) in Los Angeles, California, where he later taught. His formal training in jazz and rock drumming is evident in his technical vocabulary and adaptability — skills that earned him the KoRn drum chair in 2007.' },
     ],
   },

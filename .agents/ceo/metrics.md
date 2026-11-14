@@ -1,48 +1,93 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-13 19:03 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-14 00:18 UTC*
 *Lookback: last 7 days*
 
 ---
 
 ## GA4 — Audience
-> ⚠️ **GA4 data unavailable:** GA4 error: 4 DEADLINE_EXCEEDED: Deadline exceeded after 60.009s,name resolution: 0.033s,metadata filters: 0.001s,LB pick: 0.051s,remote_addr=172.217.116.4:443
+| Metric | Last 7d |
+| --- | --- |
+| Active users | 458 |
+| Sessions | 516 |
+| Page views | 738 |
+| Engagement rate | 63.76% |
+| Avg session (s) | 122 |
+
+### Top pages (by page views, last 7d)
+| Page | Views | Users |
+| --- | --- | --- |
+| / | 32 | 21 |
+| /guides | 16 | 4 |
+| /bpm | 15 | 6 |
+| /drummer/mario-duplantier | 14 | 11 |
+| /drummer/eloy-casagrande | 13 | 7 |
+| /articles/john-otto-drum-setup | 12 | 11 |
+| /drummer/bill-ward | 12 | 11 |
+| /drummer/flo-mounier | 11 | 8 |
+| /drummers | 9 | 5 |
+| /drummers/bill-ward/evolution | 9 | 3 |
+
+### Traffic sources
+| Channel | Sessions | Users |
+| --- | --- | --- |
+| Organic Search | 380 | 329 |
+| Direct | 124 | 117 |
+| Unassigned | 8 | 7 |
+| Cross-network | 4 | 4 |
+| Organic Social | 3 | 3 |
+| Referral | 3 | 3 |
+| AI Assistant | 1 | 1 |
+
+### Top countries (sessions, last 7d)
+| Country | Sessions | Users |
+| --- | --- | --- |
+| United States | 185 | 160 |
+| Singapore | 38 | 38 |
+| Portugal | 28 | 27 |
+| United Kingdom | 27 | 23 |
+| Germany | 21 | 18 |
+| Canada | 20 | 16 |
+| Sweden | 17 | 14 |
+| China | 11 | 11 |
+| Russia | 10 | 9 |
+| Netherlands | 9 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 12,090 |
-| Clicks | 291 |
-| CTR | 2.41% |
-| Avg position | 7.9 |
+| Impressions | 9,593 |
+| Clicks | 242 |
+| CTR | 2.52% |
+| Avg position | 7.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| bill ward drum kit | 36 | 2 | 5.56% | 5.3 |
-| iggor cavalera drum kit | 2 | 2 | 100.00% | 1.0 |
-| joey jordison self titled drum kit | 3 | 2 | 66.67% | 1.0 |
-| mario duplantier cymbals | 10 | 2 | 20.00% | 3.8 |
+| bill ward drum kit | 29 | 2 | 6.90% | 5.5 |
+| mario duplantier cymbals | 9 | 2 | 22.22% | 3.9 |
 | best china cymbals for metal | 1 | 1 | 100.00% | 4.0 |
 | best cymbals for metal | 4 | 1 | 25.00% | 10.0 |
-| bill ward drum set | 7 | 1 | 14.29% | 5.4 |
-| death metal drum kit | 9 | 1 | 11.11% | 3.3 |
-| does mario duplantier use triggers | 13 | 1 | 7.69% | 3.5 |
-| does tomas haake use triggers | 8 | 1 | 12.50% | 3.6 |
+| bill ward drum set | 5 | 1 | 20.00% | 5.4 |
+| death metal drum kit | 7 | 1 | 14.29% | 3.3 |
+| does tomas haake use triggers | 7 | 1 | 14.29% | 3.6 |
+| eloy casagrande drum set | 8 | 1 | 12.50% | 7.9 |
+| eloy casagrande drumkit | 4 | 1 | 25.00% | 3.5 |
+| eloy casagrande pedals | 5 | 1 | 20.00% | 6.4 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,068 | 105 | 2.58% | 8.1 |
-| deu | 450 | 16 | 3.56% | 6.7 |
-| gbr | 762 | 16 | 2.10% | 8.6 |
-| aus | 466 | 11 | 2.36% | 6.8 |
-| swe | 214 | 10 | 4.67% | 6.4 |
-| can | 535 | 9 | 1.68% | 7.8 |
-| pol | 173 | 8 | 4.62% | 6.1 |
-| bra | 965 | 7 | 0.73% | 10.2 |
-| fra | 279 | 7 | 2.51% | 8.2 |
-| jpn | 104 | 7 | 6.73% | 7.5 |
+| usa | 3,180 | 88 | 2.77% | 8.2 |
+| deu | 369 | 15 | 4.07% | 6.4 |
+| gbr | 606 | 13 | 2.15% | 8.9 |
+| swe | 185 | 9 | 4.86% | 6.3 |
+| can | 426 | 8 | 1.88% | 8.2 |
+| nld | 140 | 7 | 5.00% | 6.6 |
+| bra | 820 | 6 | 0.73% | 9.9 |
+| fra | 212 | 6 | 2.83% | 8.3 |
+| jpn | 80 | 6 | 7.50% | 7.5 |
+| rus | 154 | 6 | 3.90% | 7.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

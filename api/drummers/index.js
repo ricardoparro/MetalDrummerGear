@@ -1912,7 +1912,7 @@ const drummers = [
     name: 'Bill Ward',
     band: 'Black Sabbath',
     bands: [
-      { name: 'Black Sabbath', period: '1968–1983, 1997–2006', current: false }
+      { name: 'Black Sabbath', period: '1968-1980, 1983-1984, 1997-1998, 2011-2012', current: false }
     ],
     genre: 'Heavy Metal / Hard Rock / Blues Rock',
     country: 'UK',

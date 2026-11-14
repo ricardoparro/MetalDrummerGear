@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/bill-ward"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-14"
 ---
 
 # Bill Ward — Drum Kit & Gear Setup
@@ -96,7 +96,7 @@ Bill Ward's drumming style is characterized by jazz-influenced swing, dynamic ra
 
 ## Band History
 
-- **Black Sabbath** — 1968–1983, 1997–2006
+- **Black Sabbath** — 1968-1980, 1983-1984, 1997-1998, 2011-2012
 
 ## Gear
 
@@ -284,4 +284,4 @@ Dated brand-endorsement timeline: [Bill Ward's endorsement history](https://meta
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

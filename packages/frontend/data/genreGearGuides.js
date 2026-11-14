@@ -121,7 +121,7 @@ This guide breaks down exactly what you need from a pedal for death metal, recom
           
           description: `The Pearl Demon Drive has become the gold standard for extreme metal. Its NiNjA bearing system provides virtually frictionless action, while the interchangeable cams let you dial in exactly the feel you want. The Click-Lock spring tension makes adjustments precise and reliable.
 
-Countless death metal drummers trust the Demon Drive for their most demanding performances, and George Kollias took it a step further, co-designing his own signature Demon XR variant. The direct drive action delivers instant, linear response—essential when you're playing 260 BPM 16th notes.`,
+Countless death metal drummers trust the Demon Drive for their most demanding performances, and George Kollias took it a step further, co-designing his own signature Demon XR variant. The direct drive action delivers instant, linear response—essential when you're playing 240+ BPM 16th notes.`,
           
           pros: [
             "NiNjA bearing system for ultimate smoothness",
@@ -13865,7 +13865,7 @@ The Acrolite's character — light, fast, sensitive — suits technical death me
     faq: [
       {
         question: "What snare drum does George Kollias use?",
-        answer: "George Kollias is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model. At 280 BPM blast beats, free-floating snare designs offer a real sensitivity and response advantage — eliminating the lug dampening that can affect how consistently each stroke fires — which is why many extreme-speed drummers gravitate toward that mounting system."
+        answer: "George Kollias is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model. At 240+ BPM blast beats, free-floating snare designs offer a real sensitivity and response advantage — eliminating the lug dampening that can affect how consistently each stroke fires — which is why many extreme-speed drummers gravitate toward that mounting system."
       },
       {
         question: "What snare drum does Flo Mounier use?",

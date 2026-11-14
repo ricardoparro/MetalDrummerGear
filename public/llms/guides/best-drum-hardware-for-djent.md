@@ -11,7 +11,7 @@
 
 Djent kits routinely carry more hardware load than almost any other metal subgenre — not because the playing itself is heavier, but because the arrangements demand it. Wide, layered cymbal spreads for polyrhythmic accents, extra toms for odd-meter fills, and increasingly, electronic trigger pads and sample modules bolted directly onto the kit all add up to a hardware footprint that a standard 5-stand setup simply can't support without turning into a forest of individually-tensioned tripods.
 
-Tomas Haake of Meshuggah, the drummer most responsible for djent's rhythmic vocabulary, builds his rig around a Sonor SQ2 Heavy Beech kit anchored by a Sonor Giant Step double pedal and Sonor Drummer Throne — hardware chosen for the rock-solid stability his mechanically precise, extremely low-tuned polyrhythms demand. Matt Halpern of Periphery, whose Mapex Saturn V kit needs to carry a wide Meinl Byzance cymbal array across Periphery's dense, electronically-tinged arrangements, relies on a Mapex Falcon double pedal and Mapex T865 throne built for exactly that kind of extended-kit stability. Matt Garstka of Animals as Leaders, whose instrumental, deeply polyrhythmic parts routinely span an extended, multi-piece rack setup, depends on Tama's Speed Cobra 910 double pedal to anchor a rig built around technical precision at speed.
+Tomas Haake of Meshuggah, the drummer most responsible for djent's rhythmic vocabulary, builds his rig around a Sonor SQ2 Heavy Beech kit anchored by two independent single Tama Speed Cobra pedals and a Sonor Drummer Throne — hardware chosen for the rock-solid stability his mechanically precise, extremely low-tuned polyrhythms demand. Matt Halpern of Periphery, whose Mapex Saturn V kit needs to carry a wide Meinl Byzance cymbal array across Periphery's dense, electronically-tinged arrangements, relies on a Mapex Falcon double pedal and Mapex T865 throne built for exactly that kind of extended-kit stability. Matt Garstka of Animals as Leaders, whose instrumental, deeply polyrhythmic parts routinely span an extended, multi-piece rack setup, depends on Tama's Speed Cobra 910 double pedal to anchor a rig built around technical precision at speed.
 
 This guide breaks down what actually separates hardware that can carry a genuine djent-scale rig — wide cymbal spreads, extra toms, and often electronic pads — from stands that only work on a standard 5-piece kit, which specific hardware the genre's most influential drummers actually rely on, and where to spend versus where to save.
 
@@ -19,7 +19,7 @@ This guide breaks down what actually separates hardware that can carry a genuine
 
 - Djent's wide cymbal spreads, extra toms, and increasingly common electronic pads push hardware demands well past a standard metal kit
 - Rack systems dominate serious djent rigs because they consolidate a large, complex layout onto one rigid frame instead of a dozen stands
-- Tomas Haake's Sonor hardware is chosen for rock-solid stability under his extremely low-tuned, mechanically precise polyrhythms
+- Tomas Haake's Sonor kit and throne are chosen for rock-solid stability under his extremely low-tuned, mechanically precise polyrhythms
 - Matt Halpern and Matt Garstka both prove that extended, technically complex djent kits need hardware engineered for load, not just looks
 
 ---
@@ -286,7 +286,7 @@ Whether to build a rack-based setup or stick with standalone stands comes down t
 ## FAQ
 
 **What hardware do djent drummers use?**
-Djent drummers favor hardware that can carry an extended, often hybrid acoustic-electronic rig — Tomas Haake relies on a Sonor Giant Step double pedal and Sonor Drummer Throne, Matt Halpern uses Mapex hardware anchored by a Mapex T865 throne, and Matt Garstka runs Tama Speed Cobra hardware. Rack systems from Gibraltar and Mapex are common once the kit grows beyond a standard 5-piece setup.
+Djent drummers favor hardware that can carry an extended, often hybrid acoustic-electronic rig — Tomas Haake relies on two independent single Tama Speed Cobra pedals and a Sonor Drummer Throne, Matt Halpern uses Mapex hardware anchored by a Mapex T865 throne, and Matt Garstka runs Tama Speed Cobra hardware. Rack systems from Gibraltar and Mapex are common once the kit grows beyond a standard 5-piece setup.
 
 **Do I need a rack system for djent?**
 It depends on kit complexity. A rack system like Gibraltar's Road Series makes sense once you're running 6+ cymbals, extra toms, or electronic pads bolted onto the kit. For a standard-size acoustic djent kit, heavy-duty standalone stands from DW or Tama are simpler, more portable, and just as stable.
@@ -323,13 +323,13 @@ Whatever you choose, prioritize precise memory locks and double-braced construct
 
 ## Related Drummers
 
-- [Tomas Haake](https://metalforge.io/drummer/tomas-haake) — Sonor Giant Step and Drummer Throne for low-tuned polyrhythmic stability
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake) — Two independent single Tama Speed Cobra pedals and Sonor Drummer Throne for low-tuned polyrhythmic stability
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Mapex hardware anchoring an extended, electronically-augmented rig
 - [Matt Garstka](https://metalforge.io/drummer/matt-garstka) — Tama hardware for deeply polyrhythmic technical precision
 
 ## Featured Drummers
 
-- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Sonor hardware — the blueprint for djent stability
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Sonor kit and throne — the blueprint for djent stability
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Pearl-based hardware for extended, hybrid kits
 - [Matt Garstka](https://metalforge.io/drummer/matt-garstka): Tama precision hardware for polyrhythmic technical playing
 

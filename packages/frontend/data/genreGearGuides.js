@@ -9039,7 +9039,7 @@ Whichever path you choose, tune lower than other metal subgenres would suggest, 
       title: "Why the Snare Is the Most Critical Metal Drum",
       content: `The snare drum is the backbone of every metal performance. It cuts through the mix on the backbeat, drives the energy of your fills, and — in metal — must crack with enough authority to slice through dense guitar walls and high-gain amplification. A weak snare sounds buried; a great metal snare sounds like a gunshot.
 
-Metal's most recognizable snare sounds are inseparable from the drummers who created them. Lars Ulrich's cracking Tama snare defined thrash metal's punch across Metallica's catalog. Joey Jordison's Pearl signature snare — a 13"x6.5" steel shell with a blood-splatter finish — was central to Slipknot's aggressive nu-metal attack. Gene Hoglan's precisely tuned Pearl delivered The Atomic Clock's metronomic precision. Tomas Haake anchors Meshuggah's polyrhythmic djent patterns with his Sonor Tomas Haake Signature 14x6.5" snare.
+Metal's most recognizable snare sounds are inseparable from the drummers who created them. Lars Ulrich's cracking Tama snare defined thrash metal's punch across Metallica's catalog. Joey Jordison's Pearl signature snare — a 13"x6.5" shell with a blood-splatter finish — was central to Slipknot's aggressive nu-metal attack. Gene Hoglan's precisely tuned Pearl delivered The Atomic Clock's metronomic precision. Tomas Haake anchors Meshuggah's polyrhythmic djent patterns with his Sonor Tomas Haake Signature 14x6.5" snare.
 
 The right metal snare depends on your subgenre, tuning preference, and whether you need cutting brightness or thunderous depth. This guide breaks down the key choices across all price ranges, citing the exact snares used by the genre's top players.`,
       keyPoints: [
@@ -9145,25 +9145,21 @@ The steel shell delivers a brighter, harder-edged attack than brass alternatives
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€400-500",
           tier: "pro",
-          material: "Steel",
 
-          description: `The Pearl Joey Jordison Signature Snare is Jordison's actual signature model — a 13"x6.5" steel shell finished in his distinctive blood-splatter graphic. The smaller 13" diameter (versus the standard 14") gives faster response and a tighter, more aggressive crack, built for the sustained blast beats and rapid-fire fills that defined Slipknot's attack.
+          description: `The Pearl Joey Jordison Signature Snare is Jordison's actual signature model — a 13"x6.5" shell finished in his distinctive blood-splatter graphic. The smaller 13" diameter (versus the standard 14") gives faster response and a tighter, more aggressive crack, built for the sustained blast beats and rapid-fire fills that defined Slipknot's attack.
 
 Jordison was a Pearl Drums endorser for most of his career, and this signature snare anchored his sound from the "Vol. 3" era onward — a compact shell built to cut through Slipknot's wall-of-sound production at extreme tempos.`,
 
           pros: [
             "Joey Jordison's actual signature model — Slipknot's defining snare attack",
             "13\" diameter delivers faster response than standard 14\" snares",
-            "Steel shell — bright, cutting, and aggressive",
             "Distinctive blood-splatter finish"
           ],
           cons: [
             "Smaller 13\" diameter has less body than standard 14\" snares",
-            "Steel can be harsh at very low tunings",
             "Signature model pricing"
           ],
           specs: {
-            shell: "Steel",
             diameter: "13\"",
             depth: "6.5\"",
             throwOff: "Pearl Uni-Lock",
@@ -9172,7 +9168,7 @@ Jordison was a Pearl Drums endorser for most of his career, and this signature s
           usedBy: [
             { name: "Joey Jordison", band: "Slipknot", note: "Actual signature snare since the Vol. 3 era; blood-splatter finish" }
           ],
-          verdict: "The authentic Slipknot snare. Joey Jordison's real signature model — 13\" steel shell built for speed and aggression.",
+          verdict: "The authentic Slipknot snare. Joey Jordison's real signature model — 13\" shell built for speed and aggression.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/pearl_joey_jordison_signature_snare.htm?partner_id=metalforge"
         },
@@ -9336,10 +9332,10 @@ This is the snare for metal drummers who need one drum to work across multiple s
       title: "Steel vs Brass vs Aluminum for Metal Snares",
       content: `Shell material is the single most important snare decision for metal drummers. Here's how each choice sounds:
 
-**Steel (Tama LU1465, Pearl Joey Jordison Signature, DW Collector's Steel):**
+**Steel (Tama LU1465, DW Collector's Steel):**
 - Bright, cutting, aggressive attack
 - Less warmth than brass but more projection
-- Preferred by: Lars Ulrich, Joey Jordison
+- Preferred by: Lars Ulrich
 - Best for: Thrash metal, technical metal, djent, nu-metal, extreme metal
 
 **Brass (Ludwig Black Beauty):**
@@ -9354,7 +9350,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
 - Preferred by: Studio specialists and versatile players
 - Best for: Recording, mixed genres, technical applications
 
-**The Truth:** Material preference is personal. Lars Ulrich gets his defining Metallica snare tone from the steel Tama LU1465. Joey Jordison anchors Slipknot's aggressive attack with steel too, on his Pearl Joey Jordison Signature snare. Both prove steel's cutting power at the highest level. Brass remains a strong alternative for drummers chasing extra warmth and complexity in groove metal and metalcore.
+**The Truth:** Material preference is personal. Lars Ulrich gets his defining Metallica snare tone from the steel Tama LU1465, proving steel's cutting power at the highest level. Joey Jordison anchors Slipknot's aggressive attack on his Pearl Joey Jordison Signature snare, a 13" shell built for speed regardless of material. Brass remains a strong alternative for drummers chasing extra warmth and complexity in groove metal and metalcore.
 
 **Our Recommendation:** Start with steel (Pearl Sensitone or Ludwig Black Beauty) for maximum versatility in metal. Add a brass option when your budget and needs expand.`,
       comparisonTable: [
@@ -9378,7 +9374,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
         {
           category: "Best for Extreme Metal",
           pedal: "Pearl Joey Jordison Signature Snare",
-          reason: "Joey Jordison's actual signature snare. 13\" steel shell delivers speed and cutting brightness."
+          reason: "Joey Jordison's actual signature snare. 13\" shell delivers speed and cutting brightness."
         },
         {
           category: "Best for Technical Precision",
@@ -9425,7 +9421,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
       },
       {
         question: "Is steel or brass better for metal snare drums?",
-        answer: "Both work at the highest levels of metal — Lars Ulrich (steel Tama LU1465) and Joey Jordison (steel Pearl Joey Jordison Signature) prove steel's cutting power at the top level. Steel gives brighter, more cutting attack — preferred in thrash, technical metal, djent, and extreme metal. Brass delivers warmer, more complex crack — a strong choice in groove metal and metalcore. Steel is more common across modern metal; brass remains the pick for drummers chasing extra warmth."
+        answer: "Both work at the highest levels of metal — Lars Ulrich's steel Tama LU1465 proves steel's cutting power at the top level, while Joey Jordison's Pearl Joey Jordison Signature shows speed and attack matter as much as shell material. Steel gives brighter, more cutting attack — preferred in thrash, technical metal, djent, and extreme metal. Brass delivers warmer, more complex crack — a strong choice in groove metal and metalcore. Steel is more common across modern metal; brass remains the pick for drummers chasing extra warmth."
       },
       {
         question: "What is a free-floating snare drum?",
@@ -9444,9 +9440,9 @@ This is the snare for metal drummers who need one drum to work across multiple s
     // Conclusion
     conclusion: {
       title: "Find Your Metal Snare Voice",
-      content: `Every great metal drummer has found their snare voice — the specific crack that audiences recognize and that defines their sound in the mix. Lars Ulrich found it in the Tama LU1465. Joey Jordison found it in his own signature Pearl steel snare. Tomas Haake found it in Sonor's signature engineering precision.
+      content: `Every great metal drummer has found their snare voice — the specific crack that audiences recognize and that defines their sound in the mix. Lars Ulrich found it in the Tama LU1465. Joey Jordison found it in his own signature Pearl snare. Tomas Haake found it in Sonor's signature engineering precision.
 
-Your snare voice is out there. Start with steel for versatility and budget efficiency — the Pearl Sensitone or Ludwig Acrolite give you genuine professional response without flagship pricing. Upgrade to the Black Beauty when you're chasing that brass thunder, or to the Pearl Joey Jordison Signature when you need the ultimate in steel precision.
+Your snare voice is out there. Start with steel for versatility and budget efficiency — the Pearl Sensitone or Ludwig Acrolite give you genuine professional response without flagship pricing. Upgrade to the Black Beauty when you're chasing that brass thunder, or to the Pearl Joey Jordison Signature when you need Jordison's signature 13" speed and attack.
 
 One overlooked factor: tuning and head selection will transform any good snare drum. A Pearl Joey Jordison Signature with Evans HD Dry and proper tuning will outlast and outperform a Black Beauty with worn heads and improper tension. Invest time in learning to tune your snare before investing in a more expensive model.
 
@@ -81586,11 +81582,11 @@ Start with whichever approach matches your material's demands — groove and fee
       title: "Why the Snare Anchors Nu-Metal's Syncopated Backbeat",
       content: `Nu-metal's rhythm section lives and dies on the backbeat. The genre's hip-hop-influenced groove needs a snare that cracks with authority on the 2 and 4 while staying sensitive enough for the ghost-note work that gives nu-metal its syncopated, pocket-heavy feel — a very different demand from the pure speed and blast-beat endurance other metal subgenres chase.
 
-Joey Jordison's Pearl Joey Jordison Signature snare — a 13"x6.5" steel shell with a blood-splatter finish — was central to Slipknot's aggressive nu-metal attack, engineered for faster, machine-gun-style fill work alongside his Pearl Reference Series kit. John Otto anchored Limp Bizkit's groove-first sound on a custom OCDP 14"x6.5" snare tuned to medium-high tension, delivering punch for heavy passages and sensitivity for his jazz-trained ghost-note work. Ray Luzier is a longtime Pearl endorser who drives Korn's dense grooves on a Pearl Reference Series kit, though Pearl hasn't publicly documented his specific snare model — a brass snare from Pearl's Reference line is the natural complement.
+Joey Jordison's Pearl Joey Jordison Signature snare — a 13"x6.5" shell with a blood-splatter finish — was central to Slipknot's aggressive nu-metal attack, engineered for faster, machine-gun-style fill work alongside his Pearl Reference Series kit. John Otto anchored Limp Bizkit's groove-first sound on a custom OCDP 14"x6.5" snare tuned to medium-high tension, delivering punch for heavy passages and sensitivity for his jazz-trained ghost-note work. Ray Luzier is a longtime Pearl endorser who drives Korn's dense grooves on a Pearl Reference Series kit, though Pearl hasn't publicly documented his specific snare model — a brass snare from Pearl's Reference line is the natural complement.
 
 This guide breaks down what actually makes a snare work for nu-metal — shell material, depth, and tuning — and which specific snares the genre's most influential drummers rely on, from budget starter options to the professional setups behind nu-metal's biggest records.`,
       keyPoints: [
-        "Joey Jordison's Pearl Signature 13\"x6.5\" steel snare defined Slipknot's aggressive, cutting nu-metal attack",
+        "Joey Jordison's Pearl Signature 13\"x6.5\" snare defined Slipknot's aggressive, cutting nu-metal attack",
         "John Otto's OCDP custom 14\"x6.5\" snare balances heavy-passage punch with ghost-note sensitivity",
         "Ray Luzier's specific snare model isn't publicly documented, but a brass Pearl Reference snare delivers the full-bodied crack his Korn productions demand",
         "14\"x6\"-6.5\" is the nu-metal standard depth for a heavy, punchy backbeat"
@@ -81604,7 +81600,7 @@ This guide breaks down what actually makes a snare work for nu-metal — shell m
         {
           name: "Shell Material for Cutting Crack",
           icon: "⚙️",
-          description: "Steel (Joey Jordison's Pearl Signature) delivers the brightest, most cutting crack for aggressive nu-metal attack. Brass (a Pearl Reference option, pairing naturally with Ray Luzier's kit) adds warmth and full-bodied punch. Maple/ash custom shells (John Otto's OCDP) balance punch with tonal sensitivity.",
+          description: "Steel (Pearl Free-Floating) delivers the brightest, most cutting crack for aggressive nu-metal attack. Brass (a Pearl Reference option, pairing naturally with Ray Luzier's kit) adds warmth and full-bodied punch. Maple/ash custom shells (John Otto's OCDP) balance punch with tonal sensitivity.",
           recommendation: "Steel for maximum cutting brightness; brass for full-bodied warmth; maple/ash for balanced punch and sensitivity"
         },
         {
@@ -81703,7 +81699,7 @@ That configuration remained Otto's confirmed snare through Limp Bizkit's 2020s r
           ],
           cons: [
             "Custom builds carry premium pricing and lead times",
-            "Less bright/aggressive than Jordison's steel signature snare",
+            "Less bright/aggressive than Jordison's signature snare",
             "OCDP has narrower retail availability than Pearl"
           ],
           specs: {
@@ -81730,7 +81726,7 @@ That configuration remained Otto's confirmed snare through Limp Bizkit's 2020s r
           tier: "pro",
           material: "Brass",
 
-          description: `Ray Luzier is a longtime Pearl drums endorser who has played a Pearl Reference Series kit with Korn since 2013, though Pearl hasn't publicly documented his specific snare model. A brass snare from Pearl's Reference line is the natural complement to that kit, adding warmth and body to the backbeat compared to Jordison's pure steel setup, while still delivering the cutting authority Korn's down-tuned, processed guitar layers demand.
+          description: `Ray Luzier is a longtime Pearl drums endorser who has played a Pearl Reference Series kit with Korn since 2013, though Pearl hasn't publicly documented his specific snare model. A brass snare from Pearl's Reference line is the natural complement to that kit, adding warmth and body to the backbeat compared to brighter, more cutting-focused alternatives, while still delivering the cutting authority Korn's down-tuned, processed guitar layers demand.
 
 For nu-metal drummers who want a fuller, warmer snare voice than steel without sacrificing cut, Pearl's Reference brass line offers a proven middle ground that pairs naturally with a Reference Series kit.`,
 
@@ -81742,7 +81738,7 @@ For nu-metal drummers who want a fuller, warmer snare voice than steel without s
           ],
           cons: [
             "Luzier's specific snare model isn't independently confirmed",
-            "Less bright/aggressive than Jordison's steel signature snare",
+            "Less bright/aggressive than Jordison's signature snare",
             "Premium Pearl Reference pricing"
           ],
           specs: {
@@ -81764,7 +81760,6 @@ For nu-metal drummers who want a fuller, warmer snare voice than steel without s
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€300-420",
           tier: "pro",
-          material: "Steel",
 
           description: `Joey Jordison's signature Pearl 13"x6.5" snare — smaller in diameter than the standard 14" — was configured for faster, more machine-gun-style fill work alongside his Pearl Reference Series kit, giving him rapid articulation for Slipknot's most percussion-dense arrangements.
 
@@ -81782,7 +81777,6 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
             "Signature pricing premium"
           ],
           specs: {
-            shell: "Steel",
             diameter: "13\"",
             depth: "6.5\"",
             throwOff: "Pearl UltraGrip",
@@ -81810,10 +81804,10 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
           priceRange: "€90-140",
           tier: "budget",
           material: "Steel",
-          description: "A budget steel snare that approximates the bright, cutting character of Joey Jordison's Pearl Signature snare at a fraction of the price, making it a solid starting point for developing nu-metal drummers.",
+          description: "A budget steel snare that approximates the bright, cutting fill speed of Joey Jordison's Pearl Signature snare at a fraction of the price, making it a solid starting point for developing nu-metal drummers.",
           pros: ["Budget entry into the Pearl steel snare family", "Bright, cutting crack for the price", "Widely available and affordable"],
           cons: ["Standard lug mount lacks Free-Floating's resonance", "Less sensitive ghost-note response than pro-tier options"],
-          verdict: "Best budget path toward Joey Jordison's steel snare sound.",
+          verdict: "Best budget path toward Joey Jordison's fast, cutting snare attack.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/pearl_export_steel_snare.htm?partner_id=metalforge"
         },
@@ -81839,10 +81833,10 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
       title: "Steel vs Maple/Ash vs Brass Snares for Nu-Metal",
       content: `Shell material shapes both the tone and character of your nu-metal snare setup:
 
-**Steel (Pearl Joey Jordison Signature 13x6.5, Joey Jordison's choice):**
+**Steel (Pearl Free-Floating Steel, Pearl Export Steel):**
 - Bright, cutting, aggressive crack
-- Signature 13" shell speeds up fill turnaround and cutting attack
-- The defining sound of Slipknot's most aggressive nu-metal attack
+- Free-floating design maximizes resonance and ghost-note response
+- The classic choice for cutting, aggression-forward nu-metal attack
 - Best for: Maximum cutting brightness and aggression
 
 **Maple/Ash Hybrid (OCDP custom, John Otto's choice):**
@@ -81857,7 +81851,7 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
 - A natural complement to a Pearl Reference Series kit
 - Best for: Full-bodied warmth without sacrificing cut
 
-**Nu-Metal Recommendation:** Start with a budget steel snare (Pearl Export) for reliable, versatile crack. Choose the Pearl Joey Jordison Signature if you want Jordison's cutting aggression, a custom maple/ash build if you want Otto's balanced groove sensitivity, or Pearl Reference brass if you want a full-bodied warmth that complements a Reference Series kit like Luzier's.`,
+**Nu-Metal Recommendation:** Start with a budget steel snare (Pearl Export) for reliable, versatile crack. Choose the Pearl Joey Jordison Signature if you want Jordison's fast-fill aggression, a custom maple/ash build if you want Otto's balanced groove sensitivity, or Pearl Reference brass if you want a full-bodied warmth that complements a Reference Series kit like Luzier's.`,
       comparisonTable: [
         { feature: "Cutting Brightness", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Ghost-Note Sensitivity", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -81929,18 +81923,18 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
       },
       {
         question: "Steel, brass, or maple/ash for a nu-metal snare?",
-        answer: "Steel (Joey Jordison's Pearl Signature) delivers the brightest, most cutting crack for aggressive nu-metal. Brass (a Pearl Reference option that pairs with Ray Luzier's kit, though his specific snare model is unconfirmed) adds warmth and full-bodied punch for dense productions. Maple/ash hybrid (John Otto's OCDP custom) balances punch with ghost-note sensitivity for groove-first playing. All three work — choose based on your material's balance of aggression versus groove."
+        answer: "Steel (Pearl Free-Floating Steel) delivers the brightest, most cutting crack for aggressive nu-metal. Brass (a Pearl Reference option that pairs with Ray Luzier's kit, though his specific snare model is unconfirmed) adds warmth and full-bodied punch for dense productions. Maple/ash hybrid (John Otto's OCDP custom) balances punch with ghost-note sensitivity for groove-first playing. All three work — choose based on your material's balance of aggression versus groove."
       },
       {
         question: "Do I need an expensive snare to play nu-metal?",
-        answer: "No — a budget Pearl Export steel snare approximates the bright, cutting character of Jordison's signature setup at a fraction of the price, and a Tama Imperialstar snare will teach real groove and ghost-note technique. Upgrade to a signature or custom-tuned snare once your playing and budget catch up."
+        answer: "No — a budget Pearl Export steel snare approximates the bright, cutting fill speed of Jordison's signature setup at a fraction of the price, and a Tama Imperialstar snare will teach real groove and ghost-note technique. Upgrade to a signature or custom-tuned snare once your playing and budget catch up."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Nu-Metal Snare Voice",
-      content: `Nu-metal snare choice comes down to how your material balances aggression against groove. Joey Jordison found his answer in his own Pearl signature steel snare, delivering the cutting brightness and fast-fill speed that defined Slipknot's most aggressive attack. John Otto found his in a custom-tuned OCDP maple/ash shell, balancing heavy-passage punch with the ghost-note sensitivity his jazz-trained groove demands. Ray Luzier pairs his verified Pearl Reference Series kit with a brass snare from the same line — a full-bodied crack built for Korn's dense, syncopated productions — though Pearl hasn't publicly documented his exact snare model.
+      content: `Nu-metal snare choice comes down to how your material balances aggression against groove. Joey Jordison found his answer in his own Pearl signature snare, delivering the cutting brightness and fast-fill speed that defined Slipknot's most aggressive attack. John Otto found his in a custom-tuned OCDP maple/ash shell, balancing heavy-passage punch with the ghost-note sensitivity his jazz-trained groove demands. Ray Luzier pairs his verified Pearl Reference Series kit with a brass snare from the same line — a full-bodied crack built for Korn's dense, syncopated productions — though Pearl hasn't publicly documented his exact snare model.
 
 None of these approaches is more "correct" for the genre — all three have driven some of nu-metal's most commercially significant records. See our nu-metal drum kit guide and the full top 10 nu-metal drummers list to see how these snares fit into each drummer's complete setup.
 

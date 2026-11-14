@@ -17081,3 +17081,42 @@ Not due this run (today is Saturday 2026-11-14; next due Monday 2026-11-16, grou
 3. Possible minor depth-enrichment candidate (not filed, low priority): Shannon Larkin's `api/drummers/index.js` `bands` array is missing verified pre-Godsmack stints (Souls at Zero 1992-94, Amen 1998-2002) — externally confirmed true via Wikipedia/Modern Drummer/Loudwire this run, just incomplete, not a fabrication. Low citation value since well-documented elsewhere; only worth doing if the bank runs dry with nothing better.
 4. GSC content-gap: zero rows this week (9,593 impr/242 clicks/2.52% CTR/pos 7.8).
 5. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-14 ~07:0x UTC (SEO Agent run — 8/8 proposals filed #10621-10628: drummerComparisons.js + genreGearGuides.js fabrication sweep)
+
+### Bank check
+At run start: 8 open `seo-proposal` (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 2 fresh #10616-10617 from the ~01:0x UTC run earlier today) — untriaged fresh bank effectively 2. Well under the 45 floor → cleared to file up to 8 net-new. GSC content-gap: zero rows this week (9,593 impr/242 clicks/2.52% CTR/pos 7.8, metrics.md 07:02 UTC). Today is Saturday — drum-chair watch not due (next due Monday 2026-11-16, group 3). robots.txt/llms endpoints unchanged (all 8 AI crawlers allowed, 2,028 `/llms/*.md` files live).
+
+### Method
+Dispatched 3 parallel research agents continuing the fabrication-sweep pattern on different files/drummers:
+1. **top10Lists.js** — audited 13 previously-unchecked niche-genre chapters (goregrind, rap-metal, polyrhythmic, horror-metal, melodic-black-metal, progressive-thrash, blackgaze, crust-metal, funeral-doom, post-black-metal, deathgrind, djent, war-metal, viking-metal). **Clean audit, zero findings** — this hedged-chapter cohort already bakes in the sweep's lessons (explicitly flags absent flagship artists instead of fabricating). One near-miss (Travis Orbin Periphery start-year 2006-vs-2008) correctly NOT filed — it's a known internal ambiguity (2-against-1 file split, no clear authoritative source) already tracked via open #5957, matching the "needs founder judgment, not a mechanical fix" exclusion criteria.
+2. **drummerComparisons.js** — checked 5 high-frequency, not-recently-swept drummers (Brann Dailor, Chris Adler, Dave Lombardo, Jay Weinberg, Charlie Benante). 4/5 produced confirmed, non-duplicate findings; Charlie Benante's tenure/gear/chronology in this file checked out clean. Filed **#10621** (Dailor kit-wood + pedal), **#10622** (Chris Adler fabricated 2000-2017 LoG tenure), **#10623** (Lombardo "two tenures" undercounts three Slayer stints), **#10624** (Jay Weinberg stale current-Suicidal-Tendencies framing, 19 locations — departed Jan 2026 per `bands.js`, replaced by Xavier Ware).
+3. **genreGearGuides.js** — checked 5 high-frequency drummers (Chris Adler, Dirk Verbeuren, Charlie Benante, Dave Lombardo, Tomas Haake). Dirk Verbeuren clean; other 4 produced confirmed findings. Filed **#10625** (Chris Adler ride cymbal fabricated as 22" Meinl Byzance Dark Ride vs verified 21" Transition Ride), **#10626** (Charlie Benante misattributed as Zildjian A Custom user in the cymbal product-listing chapter — closed #10072 fixed a different chapter of this same file, never touched this one), **#10627** (Lombardo's "Reign in Blood" era kit misattributed as Tama Starclassic across 6 pedal/bass-drum-guide locations — verified Pearl Maxwin era; same bug class as 7+ prior closed issues but in a sibling chapter never swept), **#10628** (Haake's pedal fabricated as "Sonor Giant Step double pedal" at 9 hardware-guide locations — his kit, Sonor SQ2 Heavy Beech, IS correctly verified; only the pedal claim is wrong, apparently cross-contaminated from Danny Carey's actual Sonor Giant Step pedal).
+
+Live-verified every finding myself via direct `grep`/`sed` against the cited ground truth before filing (not just trusting subagent claims) — in Haake's case this caught the subagent's initial framing error (it suspected the whole Sonor SQ2 kit was fabricated/cross-contaminated; direct verification against `api/drummers/index.js:547,557` showed the kit is genuinely his own verified gear and only the pedal half of the claim was wrong — narrowed the issue scope accordingly before filing).
+
+All 8 dedup-checked via `gh issue list --state all --search` (per-drummer/topic keyword) before filing — zero exact-match duplicates; several related-but-distinct closed issues found and cited inline (e.g. #10072, #7451/#7822/#8598/#8989/#9791/#10156 for the Lombardo Reign-in-Blood bug class in *other* files).
+
+Filed all 8 of the 8 ceiling — a fuller batch than the prior run's 2, reflecting a richer unswept surface in `drummerComparisons.js`/`genreGearGuides.js` this pass.
+
+### GSC / metrics
+Metrics 07:02 UTC: GA4 586u/658s/905v 7d; GSC 9,593 impr/242 clicks/2.52% CTR/pos 7.8. Zero content-gap rows — no CTR-fix proposals filed.
+
+### Drum-chair watch
+Not due this run (today is Saturday 2026-11-14; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10616-10617 (prior run today, pending Roadie/CEO)
+- #10621-10628 (this run, 8 fresh)
+
+### Next run
+1. Watch #10621-10628 pick up via Roadie/CEO triage; #10624 (Jay Weinberg, 19 locations) is the largest and most judgment-call-heavy — confirm the Slipknot-departure framing (already correct) isn't accidentally touched.
+2. `drummerComparisons.js`/`genreGearGuides.js` sweep: 9 total high-frequency drummers checked today across both files (5 + 5, with 1 overlap... actually distinct sets); still-unswept high-frequency names worth a future pass: Danny Carey, Mike Portnoy, Flo Mounier (careful: #10032 human-hold on his kit brand), George Kollias, Igor Cavalera, Joey Jordison.
+3. GSC content-gap: zero rows this week (9,593 impr/242 clicks/2.52% CTR/pos 7.8).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

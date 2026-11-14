@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-14 08:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-14 12:09 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 595 |
-| Sessions | 667 |
-| Page views | 917 |
-| Engagement rate | 61.47% |
-| Avg session (s) | 117 |
+| Active users | 602 |
+| Sessions | 674 |
+| Page views | 924 |
+| Engagement rate | 61.42% |
+| Avg session (s) | 116 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -25,14 +25,14 @@
 | /articles/john-otto-drum-setup | 15 | 14 |
 | /drummer/bill-ward | 14 | 13 |
 | /drummers | 12 | 6 |
+| /articles/slipknot-self-titled-drum-setup | 11 | 10 |
 | /articles/whats-in-lars-ulrichs-kit | 11 | 9 |
-| /drummer/flo-mounier | 11 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 476 | 413 |
-| Direct | 176 | 169 |
+| Organic Search | 481 | 418 |
+| Direct | 178 | 171 |
 | Unassigned | 11 | 9 |
 | Cross-network | 4 | 4 |
 | Organic Social | 3 | 3 |
@@ -42,7 +42,7 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 226 | 190 |
+| United States | 229 | 193 |
 | Singapore | 85 | 85 |
 | United Kingdom | 30 | 26 |
 | Portugal | 29 | 28 |

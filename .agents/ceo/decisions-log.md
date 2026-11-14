@@ -1030,3 +1030,44 @@ Daily deep run (first after 07:00 UTC). Metrics 12:11 UTC (555u/620s/849v 7d; GS
 - Blockers unchanged: #10174 (11 days, 0 comments, no trigger) · #7981/#10099/#10032 held · #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam
 - Actions: live-verified #10616 (top10Lists.js, 10 locations still say Daniel Erlandsson "joined Arch Enemy in 1996" vs. bands.js:2291 canonical 1995 founding-drummer record) and #10617 (extendedBios.js:2780 structured bands array period "1996-present" self-contradicts same file's own prose/timeline/FAQ, all saying 1995) against bands.js ground truth; checked prior closed Erlandsson-class issues (#9787/#9679/#9637/#9148/#5652) — neither touched these exact fields → both promoted ai-fix, no dupes found
 - Next check: first run after 07:00 UTC is the daily deep run; L1/L2/L3 weekly refresh due ~2026-11-16 (snapshots dated 11-09)
+
+---
+
+---
+
+## 2026-11-14 12:09 (deep run — 8/8 proposals verified+promoted #10621-10628)
+
+### Context (≤3 lines)
+Daily deep run (first after 07:00 UTC). Metrics 12:09 UTC (602u/674s/924v 7d; GSC 9,593 impr/242 clicks/2.52% CTR/pos 7.8, zero content-gap rows). At run start: eligible `ai-fix` backlog **0** (#10616/10617 confirmed merged, commits `7cf6dabb0`/`54d8ecade`), 0 open PRs, 8 fresh untriaged `seo-proposal` (#10621-10628, filed 07:09-07:10 UTC) — an unusually large single batch, all genreGearGuides.js/drummerComparisons.js fabrication-relapse and self-contradiction fixes.
+
+### Actions taken
+- **Live-verified all 8 directly** via grep/sed against cited ground truth, zero dupes (`gh issue list --search` per topic, cross-checked against prior closed sibling issues):
+  - #10621 Brann Dailor: confirmed `drummerComparisons.js:3937` says "maple kit" + "single...pedal" vs. canonical `api/drummers/index.js:1293` birch/bubinga shells + double pedal. Confirmed.
+  - #10622 Chris Adler: confirmed `drummerComparisons.js:1216` FAQ says Lamb of God "(2000–2017)" vs. `bands.js:1361` canonical 1994-2019; same file's lines 2239/3110 already correct. Confirmed.
+  - #10623 Dave Lombardo: confirmed `drummerComparisons.js:2018` FAQ says "two tenures" but its own album list + `bands.js:335`/`api/drummers/index.js:418` show three Slayer stints (1981–86, 1987–92, 2001–13). Confirmed.
+  - #10624 Jay Weinberg: confirmed 19 live "Suicidal Tendencies" hits in `drummerComparisons.js` all present-tense/no-departure vs. `bands.js:1008` canonical 2024-2026 (departed Jan 2026). Judgment-call sweep, not single find-replace — flagged for Roadie accordingly. Confirmed.
+  - #10625 Chris Adler ride: confirmed `genreGearGuides.js:37404,37509` say "22\" Meinl Byzance Dark Ride" vs. same file's lines 64367/1351 correct "21\" Transition Ride". Confirmed.
+  - #10626 Charlie Benante: confirmed `genreGearGuides.js:5437,5645` list him as Zildjian A Custom vs. 8+ other locations in the same file (e.g. 7200) + `api/drummers/index.js:938` verified Paiste RUDE/2002. Confirmed.
+  - #10627 Dave Lombardo Reign in Blood: confirmed 6 `genreGearGuides.js` locations (12616 etc.) attribute "Reign in Blood" to Tama Starclassic vs. same file's lines 7586/103487-adjacent correct Pearl-era statements + `extendedBios.js:538` Pearl Maxwin early career. Confirmed.
+  - #10628 Tomas Haake: confirmed djent-hardware chapter (`genreGearGuides.js:108484` etc., 9 locations) says "Sonor Giant Step double pedal" (that's Danny Carey's gear) vs. 15+ other locations in the same file + `api/drummers/index.js:547,557` verified two single Tama Speed Cobra pedals. Confirmed.
+  - All 8 promoted to `ai-fix` with verification comments. All are existing-page data-rot/self-contradiction fixes, compliant with the new-page freeze.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: zero rows (metrics.md self-reports none). **Human-founder blockers**: #10174 now 11 days unanswered, 0 comments — no new concrete trigger, holding. #5141/#5100/#4892/#875/#529/#526/#525 all checked via `updatedAt` — zero change, no re-spam. Held proposals #7981/#10099/#10032 unchanged (`updatedAt` confirmed stale).
+- **L1/L2/L3**: snapshots still dated 2026-11-09 (gsc-watch 08:15, indexation 09:30); next weekly refresh due ~2026-11-16 — not due this run.
+- **Starvation check**: post-triage backlog 0→8 (<15), bank 8→0 (≤2, excl. held/umbrella) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady, Roadie draining same-day). Not escalated.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 8 just-promoted (fresh, <1hr old). The 20 `hold`-labeled roster/bands splits (#4932-#5108) remain intentionally paused under the new-page freeze — no action needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10621-10628 promoted)
+- seo-proposal bank (untriaged, excl. held #7981/#10099/#10032, umbrellas #2211/#3810/#3819): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: zero rows. ✅ L1/L2/L3: refreshed 11-09, not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10621-10628 pick up via Roadie; #10624 (Jay Weinberg, 19 locations, judgment-call not find-replace) is the highest-risk atomicity-wise — watch it doesn't stall >3 days without a PR, split if it does. #10628 (Haake, 9 locations across one chapter) is the easiest mirror-regen to miss.
+2. First run after 13:00 UTC is the mid-day pulse — check Roadie progress on the 8-issue batch.
+3. #10174 now 11 days old — still no concrete trigger to escalate on. #7981/#10099/#10032 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---

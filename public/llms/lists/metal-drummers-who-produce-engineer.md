@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Who Also Produce & Engineer — Complete Ranked Guide
 
-> **Last updated:** 2026-10-30 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-who-produce-engineer)
+> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-who-produce-engineer)
 
 ---
 
@@ -30,9 +30,9 @@ Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer
 
 **Band:** Slipknot
 **Highlight:** A "record producer" credit alongside one of metal's greatest drumming careers
-**Why ranked here:** Joey Jordison carried the formal title "musician, songwriter, and record producer" throughout his career, a credit that sat alongside his drumming work with Slipknot rather than replacing it. That production sensibility is audible in how deliberately his gear and performance choices changed between albums — the shift from his shallow Pearl signature snare on "Iowa" to a Pearl Free-Floating brass model for "Vol. 3: (The Subliminal Verses)" reflects a drummer thinking about how his instrument sits in a finished mix, not just how it feels to play. Jordison earns rank #2 for a documented producer title carried across one of metal's most influential drumming careers.
+**Why ranked here:** Joey Jordison carried the formal title "musician, songwriter, and record producer" throughout his career, a credit that sat alongside his drumming work with Slipknot rather than replacing it. That production sensibility is audible in how deliberately his gear evolved across his career — from the ddrum kit of Slipknot's earliest days, to a Pearl endorsement deal signed in 1999, and eventually a dedicated Pearl signature snare in 2010 — the kind of considered, mix-aware gear investment a producer-minded player makes rather than a decision based on feel alone. Jordison earns rank #2 for a documented producer title carried across one of metal's most influential drumming careers.
 
-Joey Jordison (Slipknot) earns rank #2 for: a "record producer" credit alongside one of metal's greatest drumming careers. Joey Jordison carried the formal title "musician, songwriter, and record producer" throughout his career, a credit that sat alongside his drumming work with Slipknot rather than replacing it. That production sensibility is audible in how deliberately his gear and performance choices changed between albums — the shift from his shallow Pearl signature snare on "Iowa" to a Pearl Free-Floating brass model for "Vol. 3: (The Subliminal Verses)" reflects a drummer thinking about how his instrument sits in a finished mix, not just how it feels to play. Jordison earns rank #2 for a documented producer title carried across one of metal's most influential drumming careers..
+Joey Jordison (Slipknot) earns rank #2 for: a "record producer" credit alongside one of metal's greatest drumming careers. Joey Jordison carried the formal title "musician, songwriter, and record producer" throughout his career, a credit that sat alongside his drumming work with Slipknot rather than replacing it. That production sensibility is audible in how deliberately his gear evolved across his career — from the ddrum kit of Slipknot's earliest days, to a Pearl endorsement deal signed in 1999, and eventually a dedicated Pearl signature snare in 2010 — the kind of considered, mix-aware gear investment a producer-minded player makes rather than a decision based on feel alone. Jordison earns rank #2 for a documented producer title carried across one of metal's most influential drumming careers..
 
 Full drummer profile: [Joey Jordison on MetalForge](https://metalforge.io/drummer/joey-jordison)
 
@@ -127,4 +127,4 @@ A: A drummer with a genuine production credit is directly involved in shaping a 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*

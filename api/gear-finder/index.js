@@ -247,7 +247,7 @@ const drummers = [
       drums: 'Mapex Black Panther Design Lab',
       snare: 'Mapex Chris Adler Signature 14x5.5" Walnut/Maple',
       cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)',
-      hardware: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
+      hardware: 'Trick Pro V Double Pedal',
       sticks: 'Promark TX5AXW Chris Adler Signature'
     }
   },

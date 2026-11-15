@@ -2610,7 +2610,7 @@ const drummers = [
     band: 'Megadeth',
     bands: [
       { name: 'Megadeth', period: '2016–present', current: true },
-      { name: 'Soilwork', period: '2004–2016', current: false }
+      { name: 'Soilwork', period: '1998–2016', current: false }
     ],
     genre: 'Thrash Metal / Melodic Death Metal',
     country: 'Belgium',

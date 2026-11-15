@@ -6,7 +6,7 @@ country: "Belgium"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dirk-verbeuren"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-15"
 ---
 
 # Dirk Verbeuren — Drum Kit & Gear Setup
@@ -92,7 +92,7 @@ Dirk Verbeuren's drumming style bridges melodic death metal technicality with th
 ## Band History
 
 - **Megadeth** — 2016–present (current)
-- **Soilwork** — 2004–2016
+- **Soilwork** — 1998–2016
 
 ## Gear
 
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Dirk Verbeuren's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-15 · Source: [MetalForge.io](https://metalforge.io)*

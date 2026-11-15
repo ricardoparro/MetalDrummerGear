@@ -17254,3 +17254,50 @@ Not due this run (today is Sunday 2026-11-15; next due Monday 2026-11-16, group 
 3. The jay-weinberg `drums`-category false-positive (separate documented snare brand vs. single-bucket ground truth) is a recurring shape (same root cause flagged for `electronics` category per the script's own code comments) — if this keeps surfacing on future runs, worth proposing a `snare`-as-separate-category enhancement to the detector itself rather than re-deciding case-by-case each time.
 4. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
 5. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-15 ~13:0x UTC (SEO Agent run — 3/8 proposals filed #10681-10683: cymbalSetups.js + gearComparisons.js fabrication sweep)
+
+### Bank check
+16 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 2 human-held #10655/#10656, 3 standing umbrellas #2211/#3810/#3819, 8 already `ai-fix`-promoted #10667-10674 per 12:10 CEO deep run). Well under the 45 floor → cleared to file up to 8 net-new. Today is Sunday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- `node scripts/verify-gear-consistency.cjs`: re-ran directly — all 14 raw mismatches it reports exactly match the already-filed #10667-10674 (no new findings; detector fully covered for now).
+- Content-gap queries (impr≥50, CTR<2%): 1 row — `jaska raatikainen` (106 impr/0.94% CTR/pos 10.4). Already the repeatedly-confirmed class-2 bare-name query (checked `learned-patterns.md` + CEO log precedent). No new issue.
+
+### Method
+Since the automated detector is now fully drained, picked a fresh angle: dispatched 2 parallel research agents on previously-unswept hand-authored files — `cymbalSetups.js` (835 lines) and `gearComparisons.js` (1072 lines) — against ground truth (`api/drummers/index.js`, `endorsementNews.js`, `bands.js`, `snares.js`, `signatureGear.js`). Personally re-verified every candidate via direct grep/sed before filing, and for `cymbalSetups.js` wrote a one-off mechanical check (the file's own header documents an explicit invariant: `model` text must be "copied verbatim...from summary, never invented") that scanned every entry's `pieces[].model` against its own `summary` string — this caught a 3rd fabricated field (Dirk Verbeuren's "HH Ride"/"HH China") the subagent's manual read missed, and correctly ruled out a false-positive (John Otto's "FX Oriental Crash of Doom," which IS verbatim in his summary, just spans the generic "Crash" token).
+
+One subagent candidate (Igor Cavalera's "Cavalera Conspiracy era starting with 'Inflikted'" cymbal-switch framing) was checked and found to be **not** a bug — it matches `endorsementNews.js:2024`'s own timeline entry verbatim (dated 2006, same phrasing). Dropped.
+
+Filed 3 of the 8 ceiling — stopped at 3 high-confidence, independently re-verified findings rather than padding weaker candidates; both files are now thoroughly swept (`drummerGearCategoryPages.js` also checked and confirmed clean/structural, no per-drummer facts — same shape as `battles.js`).
+
+- **#10681** Nick Menza cymbalSetups.js: 3 fabricated `pieces[].model` descriptors ("Regular"/"Rock"/"Medium") not present in his own summary — same bug class already fixed in this exact file for Art Cruz (#10205) and Bill Ward (#10204).
+- **#10682** Dirk Verbeuren cymbalSetups.js: 3 fabricated `pieces[].model` descriptors ("Medium"/"HH"×2) — same bug class.
+- **#10683** Charlie Benante gearComparisons.js: misattributed to the Tama Iron Cobra 900 Power Glide pedal's `usedBy` array (cross-contaminated from Lars Ulrich/Eloy Casagrande, who genuinely use it) — verified gear is the Tama Speed Cobra per `api/drummers/index.js` kitOverview.
+
+All 3 dedup-checked via `gh issue list --state all --search` before filing — found many related-but-distinct closed issues (cited inline in each body), zero exact-match duplicates.
+
+### GSC / metrics
+Metrics 13:02 UTC: GSC 14,854 impr/348 clicks/2.34% CTR/pos 7.8. Content-gap: 1 row (`jaska raatikainen`, already-ruled class-2, no action).
+
+### Drum-chair watch
+Not due this run (today is Sunday 2026-11-15; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10667-10674 (promoted `ai-fix` per 12:10 CEO deep run)
+- #10681-10683 (this run, 3 fresh)
+
+### Next run
+1. Watch #10681-10683 pick up via CEO triage/Roadie.
+2. `cymbalSetups.js` and `gearComparisons.js` now thoroughly swept (mechanical model-vs-summary check run across the full `cymbalSetups.js` file, confirmed no 4th instance). `drummerGearCategoryPages.js` confirmed clean/structural. Remaining unswept hand-authored files worth a future pass if the bank runs dry: `evolutionTimeline.js` and `signatureGear.js` (both only partially checked, single-fact fixes so far, not full sweeps), `drummersByKit.js`, `cymbalReferencePages.js`/`pedalReferencePages.js`/`snareReferencePages.js`/`drumstickReferencePages.js` (reference pages, likely more generated than hand-authored — lower priority).
+3. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

@@ -99,8 +99,7 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
         brand: 'Pearl',
         model: 'Joey Jordison Signature Snare',
         size: '13" x 6.5"',
-        shell: 'Steel with custom Joey Jordison lugs',
-        description: "Joey's signature snare was all about crack and cut. The steel shell and deep 6.5\" shell gave it extra body and punch alongside the bright, aggressive attack that defined his sound. He tuned it high for maximum projection.",
+        description: "Joey's signature snare was all about crack and cut. The deep 6.5\" shell gave it extra body and punch alongside the bright, aggressive attack that defined his sound. He tuned it high for maximum projection.",
         alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for similar crack"
       },
       cymbals: {
@@ -151,7 +150,7 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
       snare: {
         tension: "High (cranked)",
         muffling: "Minimal—maybe one Moongel for recording",
-        description: "Joey's snare was tuned high for crack and cut. The steel shell already provides brightness, so high tuning adds projection. Snare wires should be medium-tight for crisp response.",
+        description: "Joey's snare was tuned high for crack and cut. High tuning adds brightness and projection. Snare wires should be medium-tight for crisp response.",
         tip: "Tune the batter head 2-3 turns higher than finger-tight. Bottom head slightly higher than top for sensitivity."
       },
       toms: {

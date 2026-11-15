@@ -172,7 +172,7 @@ export const gearComparisons = {
           footboard: 'Speed Cobra-style',
           case: 'Included hard case',
         },
-        usedBy: ['Lars Ulrich', 'Eloy Casagrande', 'Charlie Benante'],
+        usedBy: ['Lars Ulrich', 'Eloy Casagrande'],
         bestFor: 'Thrash metal, consistent speed runs',
         rating: 4.7,
       },

@@ -78886,7 +78886,7 @@ The Power Glide cam trades a bit of raw speed for a smoother, more powerful stro
           tier: "pro",
           driveType: "Chain Drive (Power Glide)",
 
-          description: `Igor Cavalera's Tama Iron Cobra double pedal provides the reliable, controlled response behind Sepultura's punishing, down-tuned "Roots Bloody Roots" era — a parallel philosophy to doom metal's own tonnage-first foundation. The Power Glide cam lets him dial in a heavier, more powerful stroke for a single crushing hit or a brief tribal-influenced double-kick fill.
+          description: `Igor Cavalera's Tama Iron Cobra double pedal, adopted in 2018 alongside his Yamaha kit switch, provides the reliable, controlled response behind his punishing, down-tuned Cavalera Conspiracy-era playing — a parallel philosophy to doom metal's own tonnage-first foundation. The Power Glide cam lets him dial in a heavier, more powerful stroke for a single crushing hit or a brief tribal-influenced double-kick fill.
 
 For doom-adjacent drummers who want a genuinely capable double pedal without chasing extreme-metal speed specs, the Iron Cobra 900 delivers Tama's proven durability and smooth cam feel at a dependable, mid-pro price point.`,
 
@@ -79258,7 +79258,7 @@ This guide breaks down drive systems, spring tension, and beater mass for sludge
           tier: "pro",
           driveType: "Chain Drive (Power Glide)",
 
-          description: `Igor Cavalera's Tama Iron Cobra double pedal anchors the punishing, down-tuned groove behind Sepultura's "Roots Bloody Roots" era — a crushing, tribal-influenced weight that sits at sludge metal's grittier, more aggressive end. The Power Glide cam lets him shift between maximum power for the heaviest riffs and a touch more speed for sludge's occasional hardcore-influenced bursts.
+          description: `Igor Cavalera's Tama Iron Cobra double pedal, his hardware setup since 2018, anchors the punishing, down-tuned groove behind his Cavalera Conspiracy-era playing — a crushing, tribal-influenced weight that sits at sludge metal's grittier, more aggressive end. The Power Glide cam lets him shift between maximum power for the heaviest riffs and a touch more speed for sludge's occasional hardcore-influenced bursts.
 
 For sludge drummers who need reliable, controlled response across both crushing slow sections and grittier, faster passages, the Iron Cobra 900 delivers Tama's proven durability and smooth cam feel without chasing extreme-metal speed specs the genre doesn't need.`,
 

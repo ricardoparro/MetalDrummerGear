@@ -17206,3 +17206,51 @@ Not due this run (today is Sunday 2026-11-15; next due Monday 2026-11-16, group 
 2. `battles.js` confirmed clean/structural — remove from future sweep candidate lists. `soundLikeGuides.js` had one richer pass today (George Kollias + Joey Jordison blocks); other drummers' guide blocks in this ~1.3MB file are still largely unchecked — worth a second pass if the bank runs dry again.
 3. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-15 ~07:0x UTC (SEO Agent run — 8/8 proposals filed #10667-10674: ran `verify-gear-consistency.cjs` directly, swept its 14 raw mismatches + 1 self-found contradiction)
+
+### Bank check
+12 open `seo-proposal` at run start (4 already `ai-fix`-promoted #10659-10662 per 06:12 CEO pulse, 2 human-held #10655/#10656, 3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819) — untriaged fresh bank effectively 0. Well under the 45 floor → cleared to file up to 8 net-new. Today is Sunday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present (GPTBot/ChatGPT-User/ClaudeBot/Claude-Web/anthropic-ai/PerplexityBot/Applebot-Extended/cohere-ai + Google-Extended) — unchanged.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): 1 row — `jaska raatikainen` (106 impr/0.94% CTR/pos 10.4). Re-checked `learned-patterns.md` and the 06:12/00:21 CEO log entries: already the repeatedly-confirmed class-2 bare-name query (bio-intent SERP, unfixable via title/meta). No new issue — consistent with established precedent.
+
+### Method
+Different approach this run: instead of dispatching research agents to manually diff hand-authored files, ran the repo's own automated drift detector directly — `node scripts/verify-gear-consistency.cjs` — which as of #10553/#10561 (merged 2026-11-11) now also scans `api/gear-finder/index.js`, a file never previously swept for any of these facts. It surfaced 14 raw `MISMATCH` lines across 7 drummers in 2 files. Personally verified every single one against `endorsementNews.js` ground truth (not just trusting the script) before filing:
+- **mikkey-dee** (`licks/mikkey-dee.js`, 3 locations): "Tama Artstar II/Swingstar Kit" — traced the full history here since #6847 (closed Sept) had *set* this file to Tama, matching the ground truth *at the time*; #10203 + #10445 (closed Nov) later flipped ground truth back to Sonor SQ2. This file just never got re-synced after the flip — not a re-litigation, a resync. Filed **#10667**.
+- **chris-adler** hardware (`api/gear-finder/index.js`): "Mapex Falcon" pedal — classic drums-brand-bleeding-into-hardware-field bug, already fixed in 9 sibling locations, reused the exact phrasing already live in `api/drummers/index.js:1352`. Filed **#10668**.
+- **pete-sandoval** sticks: "Ahead Lars Ulrich Signature" — literally a different drummer's signature stick model (confirmed verbatim against this same file's own Lars Ulrich id-1 entry); same bug already fixed elsewhere for Sandoval via #8027/#5433, never swept here. Filed **#10669**.
+- **arin-ilejay** (4 fields: drums/hardware/sticks/heads) — entire rig replaced with an unrelated Mapex/Vic-Firth/Evans setup; only `cymbals` was correct. Reused `api/drummers/index.js`'s own already-correct id-23 block (DW/DW/Promark/Remo) verbatim. Filed **#10670**.
+- **bill-ward** (cymbals+sticks): "Paiste 2002"/"Vic Firth" — same fabrication class closed 6+ times elsewhere (#8481/#9495/#9929/#9734/#7420/#10287), never swept here. Filed **#10671**.
+- **nick-augusto** sticks: "Vic Firth American Classic 5B" — this file's own `hardware` field for the same drummer was already fixed by #9100, but that issue's scope didn't include `sticks`; same Vic Firth fabrication closed 5+ times elsewhere. Filed **#10672**.
+- **flo-mounier** hardware: "Pearl Demon Drive Double Pedal" — confirmed this is a **distinct fact** from the open, human-held #10032 (which is about the `drums`/kit-brand field, where Pearl is a legitimate 1992-2005 own-history brand). Pearl has *never* been Flo Mounier's hardware/pedal brand at any point in his documented timeline — zero ambiguity, not a source conflict. Called this out explicitly in the issue body so it isn't wrongly bundled into #10032's hold (the 2026-11-11 18:08 CEO log shows this exact conflation almost happened once already, when the detector-extension test run saw this same mismatch and attributed it to #10032 without checking which *field* it was). Filed **#10673**.
+- **jay-weinberg** drums (NOT filed): script flagged a "Tama" snare-brand substring inside the `drums`-category check in `albumArticles/jay-weinberg.js` (his well-documented separate Tama SLP snare vs. SJC Custom Drums shell pack). Ground truth's single `drums` bucket doesn't model a separate snare sub-brand, and the album article's prose is detailed/specific, not boilerplate — read as a likely detector false-positive (ground-truth-bucket gap, not fabrication) rather than a confirmed bug. Skipped per verified-only/omit-if-unsure rather than filing a shaky 8th from the script output.
+- **Arin Ilejay endorsements array** (self-found, not from the script): while pulling `api/drummers/index.js`'s id-23 block as the reference text for #10670, noticed its own `endorsements` array (lines 1626-1631, a few lines below the correct `gear` object) still lists Mapex Drums/Vic Firth Sticks/Evans Drumheads — a within-file self-contradiction against the record's own verified `gear` object. Filed **#10674** as the 8th.
+
+All 8 dedup-checked via `gh issue list --state all --search` (per-drummer + per-file) before filing — found many related-but-distinct closed issues (cited inline in each body), zero exact-match duplicates. Hit the 8/8 ceiling this run — quality bar was high throughout (automated-detector-sourced + manually re-verified against ground truth + dedup'd), no padding needed to reach it.
+
+### GSC / metrics
+Metrics 07:02 UTC (refreshed by `fetch-metrics.cjs`): GA4 578u/634s/797v 7d, engagement 52.68%. GSC 14,854 impr/348 clicks/2.34% CTR/pos 7.8. Content-gap: 1 row (`jaska raatikainen`, already-ruled class-2, no action — see above).
+
+### Drum-chair watch
+Not due this run (today is Sunday 2026-11-15; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold — do not conflate with #10673's hardware-field fix, see note above)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10659-10662 (promoted `ai-fix` per 06:12 CEO pulse)
+- #10667-10674 (this run, 8 fresh)
+
+### Next run
+1. Watch #10667-10674 pick up via CEO triage/Roadie. #10670 (4 fields) and #10674 (brand-URL replacements, needs a 200-check before merge) are the ones to confirm land cleanly.
+2. `api/gear-finder/index.js` has 36 entries total; this pass only touched the 6 the detector flagged. Now that #10561 has it under continuous detection, re-run `node scripts/verify-gear-consistency.cjs` each future sweep to catch fresh drift here automatically instead of hand-grepping — it should report clean for these 6 drummers after #10667-10674 ship.
+3. The jay-weinberg `drums`-category false-positive (separate documented snare brand vs. single-bucket ground truth) is a recurring shape (same root cause flagged for `electronics` category per the script's own code comments) — if this keeps surfacing on future runs, worth proposing a `snare`-as-separate-category enhancement to the detector itself rather than re-deciding case-by-case each time.
+4. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
+5. Drum-chair watch: next due Monday 2026-11-16, group 3.

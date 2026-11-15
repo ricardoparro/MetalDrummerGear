@@ -304,7 +304,7 @@ const drummers = [
       snare: 'ddrum Dios 14x6.5" Maple',
       cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)',
       hardware: 'ddrum Mercury Double Pedal, ddrum Throne',
-      sticks: 'Ahead Lars Ulrich Signature'
+      sticks: 'Pro-Mark (historical endorsement — current sticks unverified)'
     }
   },
   {

@@ -2893,7 +2893,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         finish: 'Custom Nile configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl George Kollias Signature Snare',
+          snare: '14" x 6.5" Pearl Masterworks Series Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
@@ -2902,10 +2902,10 @@ This guide breaks down Kollias's technique, the endurance training behind his st
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl George Kollias Signature Snare',
+        model: 'Pearl Masterworks Series Snare',
         size: '14" x 6.5"',
-        shell: 'Maple/Steel',
-        description: "The Kollias signature snare is designed for maximum articulation at extreme speed. Every note needs to speak clearly at 200+ BPM — the shell and tuning are optimized for precise, cutting attack.",
+        shell: 'Not independently verified',
+        description: "George's Masterworks snare is built for maximum articulation at extreme speed. Every note needs to speak clearly at 200+ BPM — tight tuning is key to precise, cutting attack.",
         alternative: "Pearl Free-Floating Steel or Ludwig Supraphonic for similar articulation"
       },
       cymbals: {
@@ -2928,9 +2928,9 @@ This guide breaks down Kollias's technique, the endurance training behind his st
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth George Kollias Signature',
+        model: 'Model not independently verified',
         specs: 'Medium length, barrel tip for consistent cymbal definition',
-        description: "George's signature stick balances weight and speed. Heavier than typical death metal sticks for power, but balanced for sustained extreme playing.",
+        description: "George's stick choice balances weight and speed. Heavier than typical death metal sticks for power, but balanced for sustained extreme playing.",
         alternative: "Vic Firth 5B or American Classic for similar weight"
       },
       heads: {
@@ -3019,7 +3019,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         kit: "Pearl Masters Maple ($1,800)",
         cymbals: "Meinl Classics Custom Dark Set ($900)",
         pedals: "Pearl Eliminator Redline ($350)",
-        sticks: "Vic Firth George Kollias ($15)",
+        sticks: "Vic Firth 5B ($15)",
         notes: "Getting close to Kollias's tone with Masters Maple shells."
       },
       pro: {
@@ -3028,7 +3028,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         kit: "Pearl Reference Pure ($3,000+)",
         cymbals: "Meinl Byzance Custom ($1,800+)",
         pedals: "Pearl Demon XR ($600)",
-        snare: "Pearl George Kollias Signature ($350)",
+        snare: "Pearl Masterworks Series Snare ($350)",
         heads: "Full Evans setup ($180)",
         notes: "Recording and touring-ready Kollias sound."
       }
@@ -3051,8 +3051,8 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         answer: "Kollias is largely self-taught but has extensively studied drumming technique and has become an educator himself through his 'Intense Metal Drumming' instructional series."
       },
       {
-        question: "What makes the George Kollias signature snare special?",
-        answer: "The Pearl George Kollias Signature Snare is optimized for extreme articulation — every note speaks cleanly at 200+ BPM. The shell construction and tuning characteristics prioritize attack definition over sustain."
+        question: "What snare does George Kollias use?",
+        answer: "Kollias plays a Pearl Masterworks series snare as part of his Pearl kit. The specific model is not independently verified; the tuning is kept tight so every note speaks cleanly at 200+ BPM."
       }
     ],
     related: {

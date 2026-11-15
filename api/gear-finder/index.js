@@ -435,9 +435,9 @@ const drummers = [
     gear: {
       drums: 'Ludwig Classic Maple',
       snare: 'Ludwig Supraphonic 14x6.5" LM402',
-      cymbals: 'Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China)',
+      cymbals: 'Zildjian Avedis Series',
       hardware: 'Ludwig Atlas Pro Double Pedal, Ludwig Throne',
-      sticks: 'Vic Firth American Classic 2B',
+      sticks: 'Pro-Mark Standard 5A/5B equivalent',
       heads: 'Remo'
     }
   },

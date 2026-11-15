@@ -526,7 +526,7 @@ const drummers = [
       drums: 'Pearl Reference Series',
       snare: 'Pearl Reference 14x5.5" Brass',
       cymbals: 'Sabian (14" HHX Evolution Hi-Hats, 18" & 19" HHX Evolution Crashes, 21" HHX Evolution Ride, 18" AAX Chinese)',
-      hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
+      hardware: 'Tama Speed Cobra 910 Twin Pedal',
       sticks: 'Vic Firth Extreme 5B',
       heads: 'Evans'
     }

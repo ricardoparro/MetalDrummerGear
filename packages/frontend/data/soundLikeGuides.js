@@ -84,8 +84,7 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
       title: "Joey's Signature Gear Setup",
       drumKit: {
         brand: 'Pearl',
-        model: 'Pearl Joey Jordison Signature Kit',
-        shells: 'Birch/Basswood',
+        model: 'Pearl Reference Series',
         finish: 'Slipknot Tribal Black',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
@@ -93,7 +92,7 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '14" x 12" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Joey's signature Pearl kit was designed for maximum attack and projection. The birch/basswood hybrid shells provided the punch needed to cut through Slipknot's wall of sound while maintaining warmth.",
+        description: "Joey played a Pearl Reference Series kit, built for maximum attack and projection, paired with his signature Pearl snare to cut through Slipknot's wall of sound.",
         affiliateNote: "Pearl Masters series or Export series are great alternatives if the signature kit is unavailable."
       },
       snare: {

@@ -13,53 +13,43 @@
  */
 
 // Last updated timestamp (for debugging/freshness)
-export const TRENDING_LAST_UPDATED = '2026-03-08T10:00:00Z';
+export const TRENDING_LAST_UPDATED = '2026-11-15T12:00:00Z';
 
 // Trending period (for display)
 export const TRENDING_PERIOD = {
-  start: '2026-03-01',
-  end: '2026-03-07',
+  start: '2026-11-08',
+  end: '2026-11-14',
 };
 
 /**
- * Top 5 trending drummers this week
+ * Trending drummers this week, from GA4 "Top pages" (.agents/ceo/metrics.md,
+ * last-7d snapshot refreshed 2026-11-14 19:07 UTC vs the 2026-11-07 06:10 UTC
+ * snapshot). Only drummers with a verified page-view number in both weeks get
+ * a change %; drummers absent from the prior week's top-10 are marked NEW
+ * rather than guessing a previousViews figure.
  * Ordered by page views (descending)
  */
 export const TRENDING_DRUMMERS = [
   {
-    id: 5,  // Tomas Haake
-    views: 1847,
-    previousViews: 812,
-    change: 127, // +127%
+    id: 7,  // Eloy Casagrande
+    views: 17,
+    previousViews: 14,
+    change: 21, // +21%
     isNew: false,
   },
   {
     id: 15, // Mario Duplantier
-    views: 1523,
-    previousViews: 1102,
-    change: 38, // +38%
-    isNew: false,
-  },
-  {
-    id: 6,  // George Kollias
-    views: 1289,
+    views: 16,
     previousViews: 0,
     change: null, // NEW
     isNew: true,
   },
   {
-    id: 4,  // Dave Lombardo
-    views: 1156,
-    previousViews: 892,
-    change: 30, // +30%
-    isNew: false,
-  },
-  {
-    id: 14, // Danny Carey
-    views: 1089,
-    previousViews: 756,
-    change: 44, // +44%
-    isNew: false,
+    id: 30, // Bill Ward
+    views: 14,
+    previousViews: 0,
+    change: null, // NEW
+    isNew: true,
   },
 ];
 
@@ -116,13 +106,17 @@ export function getTrendingColor(change) {
   return '#ef4444'; // Red for decline
 }
 
+// This data is refreshed manually from GA4, not by a live cron — 24h would make
+// the section permanently "stale" between manual refreshes.
+const STALE_THRESHOLD_HOURS = 24 * 14; // 2 weeks
+
 /**
- * Check if trending data is stale (older than 24 hours)
+ * Check if trending data is stale (older than STALE_THRESHOLD_HOURS)
  * @returns {boolean}
  */
 export function isTrendingStale() {
   const lastUpdated = new Date(TRENDING_LAST_UPDATED);
   const now = new Date();
   const hoursDiff = (now - lastUpdated) / (1000 * 60 * 60);
-  return hoursDiff > 24;
+  return hoursDiff > STALE_THRESHOLD_HOURS;
 }

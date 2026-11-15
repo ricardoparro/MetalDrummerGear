@@ -125,6 +125,7 @@ import {
   getTrendingDrummers,
   formatTrendingChange,
   getTrendingColor,
+  isTrendingStale,
   TRENDING_PERIOD,
 } from './data/trendingDrummers';
 
@@ -2611,6 +2612,11 @@ function TrendingThisWeek({ theme, drummers, onSelectDrummer, excludeDrummerId }
 
   // Don't render if no trending data or drummers not loaded
   if (!trendingDrummers || trendingDrummers.length === 0) {
+    return null;
+  }
+
+  // Don't render stale "this week" claims if the data hasn't been refreshed
+  if (isTrendingStale()) {
     return null;
   }
 

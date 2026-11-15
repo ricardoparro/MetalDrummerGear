@@ -787,10 +787,10 @@ export const CYMBAL_SETUPS = [
     summary: 'Sabian AA / Signature Series (14" AA Hi-Hats, 16" AA & 18" Signature Crash, 20" AA Ride, 18" AA China)',
     brands: ['Sabian'],
     pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'AA', model: 'Regular Hi-Hats' },
-      { type: 'crash', sizeIn: 16, series: 'AA', model: 'Rock Crash' },
+      { type: 'hi-hat', sizeIn: 14, series: 'AA', model: 'Hi-Hats' },
+      { type: 'crash', sizeIn: 16, series: 'AA', model: 'Signature Crash' },
       { type: 'crash', sizeIn: 18, series: 'Signature', model: 'Crash' },
-      { type: 'ride', sizeIn: 20, series: 'AA', model: 'Medium Ride' },
+      { type: 'ride', sizeIn: 20, series: 'AA', model: 'Ride' },
       { type: 'china', sizeIn: 18, series: 'AA', model: 'China' },
     ],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',

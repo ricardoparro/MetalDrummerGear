@@ -39,7 +39,7 @@ export const licks = {
       "description": "Isolated drum track of Mikkey Dee's 2008 re-recording, showing his driving high-tempo groove"
     },
     "gearUsed": [
-      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Sonor SQ2", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
       { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }
@@ -100,7 +100,7 @@ export const licks = {
       "description": "Isolated drum track of Mikkey Dee's 2008 re-recording, showing the iconic double-bass drive"
     },
     "gearUsed": [
-      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Sonor SQ2", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
       { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }
@@ -161,7 +161,7 @@ export const licks = {
       "description": "Isolated drum track of Mikkey Dee's 2008 re-recording, showing his powerful in-the-pocket groove"
     },
     "gearUsed": [
-      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Sonor SQ2", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
       { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }

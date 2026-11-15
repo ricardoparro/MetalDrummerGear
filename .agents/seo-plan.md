@@ -17159,3 +17159,50 @@ Danny Carey came back clean in both files (no fabrications found — correctly n
 2. `drummerComparisons.js`/`genreGearGuides.js` sweep: Danny Carey now confirmed clean in both files. Remaining untried high-frequency names from the running list: Flo Mounier (careful: #10032 human-hold), George Kollias/Igor Cavalera/Joey Jordison/Mike Portnoy now swept in these 2 files — pick a fresh file pairing (e.g. `soundLikeGuides.js`, `battles.js`) or fresh names (e.g. Chris Adler/Dave Lombardo/Charlie Benante, already partially swept 2026-11-14 07:0x — check which chapters remain) if the bank runs dry again before a GSC-gap signal.
 3. GSC content-gap: zero rows this week (9,593 impr/242 clicks/2.52% CTR/pos 7.8).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-15 ~01:0x UTC (SEO Agent run — 4/8 proposals filed #10659-10662: soundLikeGuides.js Kollias/Jordison fabrication sweep + root-file Verbeuren tenure self-contradiction)
+
+### Bank check
+11 open `seo-proposal` at run start (3 human-held #7981/#10032/#10099, 3 standing umbrellas #2211/#3810/#3819, 2 held-human #10655/#10656, 3 already `ai-fix` #10651/10653/10654 per overnight CEO log) — untriaged fresh bank effectively 0. Well under the 45 floor → cleared to file up to 8 net-new. `ai-fix` backlog 23, 0 open PRs. Today is Sunday — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): 1 row — `jaska raatikainen` (98 impr/1.02% CTR/pos 10.2). Checked `learned-patterns.md` and CEO decisions-log 2026-11-15 00:21 entry: this is the already-ruled, repeatedly-confirmed class-2 bare-name query (bio-intent SERP dominated by Wikipedia/metal-archives-tier authority, unfixable via title/meta copy). No new issue filed — consistent with established precedent.
+
+### Method
+Dispatched 2 parallel research agents on previously-unswept files per the 13:0x-run's next-run note (pick a fresh file pairing): `soundLikeGuides.js` and `battles.js`.
+- **battles.js**: came back clean — purely structural (voting-feature data model: week calc, localStorage, share-URL builders, GA4 tracking). No hand-authored gear/tenure/BPM prose to drift. Marking swept/clean.
+- **soundLikeGuides.js**: 5 candidate findings, personally re-verified every one via direct grep/sed against ground truth before filing:
+  1. **#10659** George Kollias fabricated "Pearl George Kollias Signature" snare + "Vic Firth George Kollias Signature" stick model (soundLikeGuides.js ~2904-2934) — confirmed against `snares.js:35-37` (explicit #10577 exclusion note) and `endorsementNews.js:431-440` (plain endorsements, no signature model, sticks field lacks the `signature:true` flag present on the pedal field). #10577/#7817 fixed the root record + genreGearGuides.js; soundLikeGuides.js never swept. Filed.
+  2. **#10660** Joey Jordison kit fabricated as "Pearl Joey Jordison Signature Kit" with invented "Birch/Basswood" shells (soundLikeGuides.js ~85-97) — confirmed against `api/drummers/index.js:144-152`: only the **snare** is signature (`'Pearl Joey Jordison Signature 13x6.5"'`); the kit itself is plain `'Pearl Reference Series'`, no shell material documented anywhere. Distinct from closed #8956 (different file, different invented model name — "Masters Premium Maple" in drummerComparisons.js). Filed.
+  3. **#10661** Joey Jordison snare shell material fabricated as "Steel" in soundLikeGuides.js (3 locations: ~101, 103, 156) — identical bug class to **#10636** (closed one day prior, 2026-11-14) but that fix was explicitly scoped to `genreGearGuides.js` only; these soundLikeGuides.js instances were never touched. Confirmed `snares.js:71`'s deliberate `shellMaterial: null`. Filed.
+  4. (Dropped, not filed) George Kollias snare `description`/`alternative` sub-fields and a 5th weaker Jordison candidate (Abe Cunningham tenure framing) — subagent itself flagged these as not solid enough on verification; did not file.
+  5. **Dirk Verbeuren Soilwork tenure** — subagent's initial framing (soundLikeGuides.js states "18 years/1998-2016" vs `api/drummers/index.js`'s bands array "2004-2016") led me to trace the real bug: this is NOT a soundLikeGuides.js error — soundLikeGuides.js is actually *correct*. The bug is `api/drummers/index.js`'s own `bands` array (`:2613`, "2004–2016") self-contradicting its own `bio`/`kitOverview` prose in the same record ("1998 to 2016", "eighteen years"). Cross-checked closed **#5608** (extendedBios.js, resolved an equivalent conflict in favor of 1998 via 3-way internal agreement: bands array + careerHighlights + trivia) — net tally is 4 fields agreeing on 1998 vs. 1 outlier field (this file's own bands-array period) agreeing on 2004. Filed **#10662** as a root-file fix (highest-value of the batch — this file feeds live meta/JSON-LD).
+
+All 4 dedup-checked via `gh issue list --state all --search` before filing (per-drummer/topic + per-file keyword) — zero exact-match duplicates; multiple related-but-distinct closed issues found and cited inline in each body.
+
+Filed 4 of the 8 ceiling — stopped at 4 high-confidence, independently-verified findings rather than padding a weaker 5th/6th, consistent with quality-over-volume.
+
+### GSC / metrics
+Metrics 01:02 UTC (refreshed by fetch-metrics.cjs): GA4 533u/586s/746v 7d, engagement 54.95%. GSC 12,334 impr/298 clicks/2.42% CTR/pos 7.8. Content-gap: 1 row (`jaska raatikainen`, already-ruled class-2, no action — see above).
+
+### Drum-chair watch
+Not due this run (today is Sunday 2026-11-15; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10651/#10653/#10654 (promoted `ai-fix` per overnight CEO run)
+- #10659-10662 (this run, 4 fresh)
+
+### Next run
+1. Watch #10659-10662 pick up via CEO triage/Roadie. #10662 is the highest-value (root `api/drummers/index.js` record, feeds live meta/JSON-LD) — confirm only the `bands` array period changes, not the already-correct bio/kitOverview prose.
+2. `battles.js` confirmed clean/structural — remove from future sweep candidate lists. `soundLikeGuides.js` had one richer pass today (George Kollias + Joey Jordison blocks); other drummers' guide blocks in this ~1.3MB file are still largely unchecked — worth a second pass if the bank runs dry again.
+3. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

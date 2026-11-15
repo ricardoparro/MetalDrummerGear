@@ -17301,3 +17301,48 @@ Not due this run (today is Sunday 2026-11-15; next due Monday 2026-11-16, group 
 2. `cymbalSetups.js` and `gearComparisons.js` now thoroughly swept (mechanical model-vs-summary check run across the full `cymbalSetups.js` file, confirmed no 4th instance). `drummerGearCategoryPages.js` confirmed clean/structural. Remaining unswept hand-authored files worth a future pass if the bank runs dry: `evolutionTimeline.js` and `signatureGear.js` (both only partially checked, single-fact fixes so far, not full sweeps), `drummersByKit.js`, `cymbalReferencePages.js`/`pedalReferencePages.js`/`snareReferencePages.js`/`drumstickReferencePages.js` (reference pages, likely more generated than hand-authored — lower priority).
 3. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-15 ~19:1x UTC (SEO Agent run — 4/8 proposals filed #10692/10694/10695/10697: evolutionTimeline.js + signatureGear.js fabrication sweep)
+
+### Bank check
+8 open `seo-proposal` at run start: 4 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656 — wait, 5; recount: #7981, #10032, #10099, #10655, #10656) plus 3 standing umbrellas (#2211/#3810/#3819). Zero fresh untriaged proposals. Well under the 45 floor → cleared to file up to 8 net-new. Today is Sunday 2026-11-15 — drum-chair watch not due (next due Monday 2026-11-16, group 3).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Metrics 19:02 UTC: GA4 718u/789s/1022v 7d; GSC 14,854 impr/348 clicks/2.34% CTR/pos 7.8.
+- Content-gap queries (impr≥50, CTR<2%): 1 row — `jaska raatikainen` (106 impr/0.94% CTR/pos 10.4). Already the repeatedly-confirmed class-2 bare-name query (checked `learned-patterns.md` + CEO log precedent through 11-15 06:12 run). No new issue.
+
+### Method
+Per last run's note, picked up the two flagged-but-not-fully-swept hand-authored files: `evolutionTimeline.js` (1070 lines) and `signatureGear.js` (1817 lines). Dispatched 2 parallel research agents against ground truth (`bands.js`, `api/drummers/index.js`, `endorsementNews.js`, `snares.js`, `metalSongsBpm.js`, `extendedBios.js`). Personally re-verified all 4 surviving candidates via direct grep/sed before filing, and ran dedup search (`gh issue list --state all --search`) on each — zero exact-match duplicates, though 3 of the 4 had closed siblings that touched the *same entry* but a *different field* (gearNotes, not year/shell), confirming these are previously-unswept, not re-litigated facts.
+
+- **#10692** `evolutionTimeline.js` Tomas Haake/Meshuggah: `year: 1993` for "Contradictions Collapse" vs. `bands.js`'s 4 independently-agreeing fields (1990 join, 1991 album). Closed #7544 touched this exact entry's `gearNotes` only, left `year` untouched.
+- **#10694** `evolutionTimeline.js` Hellhammer/Mayhem: `album: 'Deathcrush / Early recordings'` misattributes the 1987 Deathcrush EP to Hellhammer, who joined Mayhem in 1988 per `api/drummers/index.js` bio — same bug class as closed #10221 (identical fix already shipped in sibling file `licks/hellhammer.js`), never swept here.
+- **#10695** `evolutionTimeline.js` Vinnie Paul/Pantera: `year: 1991` matches neither named album (Cowboys from Hell 1990, Vulgar Display of Power 1992 per `bands.js`) — self-contradiction, same shape as already-fixed Gene Hoglan #10560. Closed #7017/#8597 touched this entry's `gearNotes`/brand only.
+- **#10697** `signatureGear.js` Tomas Haake snare: fabricated `shell: 'Sonor Signature Steel/Beech Hybrid'` — zero ground-truth support anywhere in the repo (`grep` for the phrase returns only this one hit); contradicts the only material fact that exists (`snares.js`'s `shellMaterial: 'Bronze'`).
+
+Subagents also investigated and correctly dropped as false positives: Joey Jordison 1999 ddrum gearNotes (corroborated, not fabricated), Nicko McBrain/Danny Carey/Gene Hoglan evolutionTimeline entries already fixed by prior closed issues, Gene Hoglan Reference Pure all-maple-vs-hybrid framing in signatureGear.js (genuinely ambiguous across ground-truth files themselves — correctly held per the conservative-drop rule rather than filed on uncertain footing).
+
+Stopped at 4 of the 8 ceiling — both files are now more thoroughly swept; remaining untouched surfaces are lower-priority reference-page generators (see below).
+
+### GSC / metrics
+Metrics 19:02 UTC: GSC 14,854 impr/348 clicks/2.34% CTR/pos 7.8. Content-gap: 1 row (`jaska raatikainen`, already-ruled class-2, no action).
+
+### Drum-chair watch
+Not due this run (today is Sunday 2026-11-15; next due Monday 2026-11-16, group 3).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10692/#10694/#10695/#10697 (this run, 4 fresh)
+
+### Next run
+1. Watch #10692/#10694/#10695/#10697 pick up via CEO triage/Roadie.
+2. `evolutionTimeline.js` and `signatureGear.js` now substantially swept (full-file reads, ground-truth cross-checked). Remaining unswept hand-authored files worth a future pass if the bank runs dry: `drummersByKit.js` (152 lines, small), `cymbalReferencePages.js`/`pedalReferencePages.js`/`snareReferencePages.js`/`drumstickReferencePages.js` (reference pages, likely more generated than hand-authored — lower priority, check generator-vs-hand-authored shape first before a manual sweep).
+3. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
+4. Drum-chair watch: next due Monday 2026-11-16, group 3.

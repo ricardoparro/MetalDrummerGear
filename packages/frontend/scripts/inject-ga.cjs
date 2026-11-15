@@ -135,9 +135,18 @@ const spotlightPreload = `
 // placeholder H1/paragraph for the list's real title/description — served
 // from the same source of truth (top10Lists.js) via that endpoint, not a
 // duplicated copy. No-ops on every other route (regex match fails first).
+// Issue #10666 (L4 perf: this page still chronically slow despite #7148):
+// React mounts TopListPage's "Loading list..." spinner into #root well
+// before this fetch resolves on a throttled connection, and heroCleanupScript
+// below tore down #critical-hero the moment *any* child appeared there — so
+// the swap below usually ran against an already-removed node (a silent
+// no-op, since every DOM read here is null-guarded) and Lighthouse credited
+// the real, chunk-gated render many seconds later as the LCP element instead
+// of this fast static one. window.__mfHeroPending makes the cleanup wait for
+// this fetch to settle before honoring the "React mounted" removal signal.
 const listPreviewHeroSwap = `
-    <!-- LCP: Top-10 list hero swap (#7148) -->
-    <script>(function(){var m=location.pathname.match(/^\\/lists\\/([a-z0-9-]+)\\/?$/);if(!m)return;fetch('/api/list-preview/'+m[1]).then(function(r){return r.ok?r.json():null}).then(function(d){if(!d)return;function apply(){var h=document.querySelector('#critical-hero h1'),p=document.querySelector('#critical-hero p');if(h)h.textContent=(d.emoji?d.emoji+' ':'')+d.title;if(p){p.textContent=d.description;p.style.fontSize='16px';p.style.lineHeight='24px';p.style.maxWidth='600px'}}if(document.getElementById('critical-hero'))apply();else document.addEventListener('DOMContentLoaded',apply,{once:true})}).catch(function(){})})();</script>`;
+    <!-- LCP: Top-10 list hero swap (#7148, race fixed #10666) -->
+    <script>(function(){var m=location.pathname.match(/^\\/lists\\/([a-z0-9-]+)\\/?$/);if(!m)return;window.__mfHeroPending=(window.__mfHeroPending||0)+1;function done(){window.__mfHeroPending--;window.__mfHeroCheckRemove&&window.__mfHeroCheckRemove()}fetch('/api/list-preview/'+m[1]).then(function(r){return r.ok?r.json():null}).then(function(d){if(!d)return;function apply(){var h=document.querySelector('#critical-hero h1'),p=document.querySelector('#critical-hero p');if(h)h.textContent=(d.emoji?d.emoji+' ':'')+d.title;if(p){p.textContent=d.description;p.style.fontSize='16px';p.style.lineHeight='24px';p.style.maxWidth='600px'}}if(document.getElementById('critical-hero'))apply();else document.addEventListener('DOMContentLoaded',apply,{once:true})}).catch(function(){}).then(done)})();</script>`;
 
 // LCP Optimization (Issue #8452): /articles/:slug shares TopListPage with
 // /lists/:slug (see App.js), but the #7148 hero swap only matched the /lists/
@@ -146,9 +155,13 @@ const listPreviewHeroSwap = `
 // kept crediting the late, fully-hydrated article body. Same technique, same
 // swap target, sourced from /api/article-preview/:slug (the already-committed
 // lightweight catalog from #7149 — no duplicated data).
+// Issue #10666: same hero-removal race as listPreviewHeroSwap above (album
+// articles share TopListPage's "Loading..." spinner) — same __mfHeroPending
+// guard so this fetch gets a chance to paint before React's slower,
+// chunk-gated real render replaces critical-hero.
 const articlePreviewHeroSwap = `
-    <!-- LCP: Album article hero swap (#8452) -->
-    <script>(function(){var m=location.pathname.match(/^\\/articles\\/([a-z0-9-]+)\\/?$/);if(!m)return;fetch('/api/article-preview/'+m[1]).then(function(r){return r.ok?r.json():null}).then(function(d){if(!d)return;function apply(){var h=document.querySelector('#critical-hero h1'),p=document.querySelector('#critical-hero p');if(h)h.textContent=d.title;if(p){p.textContent=d.description;p.style.fontSize='16px';p.style.lineHeight='24px';p.style.maxWidth='600px'}}if(document.getElementById('critical-hero'))apply();else document.addEventListener('DOMContentLoaded',apply,{once:true})}).catch(function(){})})();</script>`;
+    <!-- LCP: Album article hero swap (#8452, race fixed #10666) -->
+    <script>(function(){var m=location.pathname.match(/^\\/articles\\/([a-z0-9-]+)\\/?$/);if(!m)return;window.__mfHeroPending=(window.__mfHeroPending||0)+1;function done(){window.__mfHeroPending--;window.__mfHeroCheckRemove&&window.__mfHeroCheckRemove()}fetch('/api/article-preview/'+m[1]).then(function(r){return r.ok?r.json():null}).then(function(d){if(!d)return;function apply(){var h=document.querySelector('#critical-hero h1'),p=document.querySelector('#critical-hero p');if(h)h.textContent=d.title;if(p){p.textContent=d.description;p.style.fontSize='16px';p.style.lineHeight='24px';p.style.maxWidth='600px'}}if(document.getElementById('critical-hero'))apply();else document.addEventListener('DOMContentLoaded',apply,{once:true})}).catch(function(){}).then(done)})();</script>`;
 
 // LCP Optimization (Issue #10050): /cymbals and /drumsticks hero swap. Same
 // critical-hero swap target as the article/list scripts above, but no fetch
@@ -216,11 +229,22 @@ const criticalHeroHTML = `
 // Script to remove critical hero after React hydrates
 const heroCleanupScript = `
     <script>
-      // Remove static content once React mounts (#752)
-      var observer = new MutationObserver(function(m) {
+      // Remove static content once React mounts (#752). Issue #10666: also
+      // wait for any in-flight hero-swap fetch (__mfHeroPending, set by the
+      // list/article scripts above) to settle first — React's "Loading..."
+      // state mounts into #root well before that same-origin fetch resolves
+      // on a throttled connection, so removing on the first mutation tore
+      // down critical-hero before the fast swap ever got to paint, handing
+      // Lighthouse's LCP to the slow, chunk-gated real render instead.
+      function mfTryRemoveHero() {
         var h = document.getElementById('critical-hero');
-        if (h && h.parentElement.childElementCount > 1) { h.remove(); observer.disconnect(); }
-      });
+        if (h && h.parentElement.childElementCount > 1 && !window.__mfHeroPending) {
+          h.remove();
+          observer.disconnect();
+        }
+      }
+      window.__mfHeroCheckRemove = mfTryRemoveHero;
+      var observer = new MutationObserver(mfTryRemoveHero);
       observer.observe(document.getElementById('root'), { childList: true });
     </script>`;
 

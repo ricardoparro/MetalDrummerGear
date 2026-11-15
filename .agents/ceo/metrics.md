@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-15 08:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-15 12:09 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,47 +8,48 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 582 |
-| Sessions | 639 |
-| Page views | 800 |
-| Engagement rate | 52.43% |
-| Avg session (s) | 96 |
+| Active users | 686 |
+| Sessions | 756 |
+| Page views | 979 |
+| Engagement rate | 52.65% |
+| Avg session (s) | 99 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /bpm | 19 | 10 |
-| / | 15 | 12 |
+| / | 29 | 16 |
+| /bpm | 23 | 14 |
+| /drummer/eloy-casagrande | 19 | 12 |
+| /drummer/mario-duplantier | 17 | 14 |
+| /guides | 16 | 4 |
 | /drummer/bill-ward | 15 | 15 |
-| /drummer/mario-duplantier | 14 | 12 |
-| /drummer/eloy-casagrande | 13 | 10 |
-| /articles/slipknot-self-titled-drum-setup | 11 | 10 |
-| /articles/john-otto-drum-setup | 10 | 10 |
-| /drummer/shannon-larkin | 10 | 7 |
-| /guides | 10 | 3 |
-| /articles/white-pony-drum-setup | 9 | 9 |
+| /articles/slipknot-self-titled-drum-setup | 13 | 12 |
+| /articles/john-otto-drum-setup | 11 | 11 |
+| /drummer/igor-cavalera | 11 | 11 |
+| /drummers | 11 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 398 | 348 |
-| Direct | 230 | 226 |
-| Unassigned | 30 | 26 |
+| Organic Search | 471 | 408 |
+| Direct | 273 | 269 |
+| Unassigned | 36 | 32 |
+| Organic Social | 3 | 3 |
 | Referral | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 223 | 192 |
-| Singapore | 67 | 67 |
+| United States | 264 | 228 |
+| Singapore | 88 | 88 |
+| United Kingdom | 33 | 29 |
+| Germany | 30 | 27 |
 | Portugal | 30 | 29 |
-| United Kingdom | 30 | 26 |
-| Canada | 25 | 21 |
-| Germany | 24 | 24 |
-| Brazil | 17 | 17 |
-| Netherlands | 12 | 9 |
-| Australia | 11 | 10 |
-| Indonesia | 11 | 11 |
+| Canada | 27 | 23 |
+| Brazil | 18 | 18 |
+| Sweden | 14 | 11 |
+| China | 13 | 13 |
+| Australia | 12 | 11 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

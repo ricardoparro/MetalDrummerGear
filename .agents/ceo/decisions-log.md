@@ -1022,3 +1022,48 @@ Daily deep run (first after 07:00 UTC). Metrics 12:09 UTC (602u/674s/924v 7d; GS
 
 ---
 
+
+---
+
+---
+
+---
+
+## 2026-11-15 12:10 (deep run — 8/8 proposals verified+promoted #10667-10674)
+
+### Context (≤3 lines)
+Daily deep run (first after 07:00 UTC). Metrics 12:09 UTC (686u/756s/979v 7d; GSC 14,854 impr/348 clicks/2.34% CTR/pos 7.8, 1 content-gap row: `jaska raatikainen`). At run start: eligible `ai-fix` backlog **0** (06:12 batch #10659-10662 confirmed merged, commits `e30ef284c`/`59478e2fa`/`1327e5a83`/`dd5a4db22`, plus unrelated #10680 hero-swap race fix), 0 open PRs, 8 fresh untriaged `seo-proposal` (#10667-10674, filed 07:09-07:10 UTC) — all `api/gear-finder/index.js` cross-contamination/fabrication fixes (this file only got detector coverage via #10553/#10561 merged 11-11, so it's a backlog of misses) plus one `licks/mikkey-dee.js` resync and one `api/drummers/index.js` within-record self-contradiction.
+
+### Actions taken
+- **Live-verified all 8 directly** via grep against cited ground truth, zero dupes (`gh issue list --state closed --search` per topic):
+  - #10667 Mikkey Dee: confirmed `licks/mikkey-dee.js` still says "Tama Artstar II/Swingstar Kit" vs. `endorsementNews.js:1332/1360` verified Sonor SQ2 continuous (ground truth flipped by #10203/#10445, postdating the pre-flip #6847 fix to this file). **Caught a scope gap**: issue cites 3 locations (42/103/164) but grep found 6 (+220/275/330) — commented the correction so Roadie fixes all 6, not just 3.
+  - #10668 Chris Adler: confirmed `api/gear-finder/index.js:250` hardware field still says "Mapex Falcon Double Pedal" vs. verified Trick Pro V (`api/drummers/index.js:1352` already correct). Confirmed.
+  - #10669 Pete Sandoval: confirmed `api/gear-finder/index.js:307` sticks field says "Ahead Lars Ulrich Signature" (a different drummer's own signature model, same file's id-1 entry) vs. verified Pro-Mark hedge phrasing. Confirmed.
+  - #10670 Arin Ilejay: confirmed `api/gear-finder/index.js` id-23 block has 4 of 5 gear fields (drums/snare/hardware/sticks/heads) still wrong (Mapex/Vic Firth/Evans) vs. `api/drummers/index.js:1619-1625`'s already-correct DW/Promark/Remo A7X-era record. Confirmed.
+  - #10671 Bill Ward: confirmed `api/gear-finder/index.js:436-441` cymbals+sticks fields say Paiste 2002/Vic Firth vs. verified Zildjian Avedis/Pro-Mark (`api/drummers/index.js:1930-1932` already correct). Confirmed.
+  - #10672 Nick Augusto: confirmed `api/gear-finder/index.js:455` sticks field says "Vic Firth American Classic 5B" vs. verified Pro-Mark Nylon Tip 5B (`api/drummers/index.js:1974` already correct; distinct field from #9100 which only fixed `hardware` in this file). Confirmed.
+  - #10673 Flo Mounier: confirmed `api/gear-finder/index.js:529` hardware field says "Pearl Demon Drive Double Pedal" vs. verified Tama Speed Cobra 910 (zero Pearl-hardware basis anywhere in his timeline); correctly scoped distinct from the held #10032 (`drums`-brand question, legitimately unresolved). Confirmed.
+  - #10674 Arin Ilejay (2nd angle): confirmed `api/drummers/index.js`'s `endorsements` array (lines 1626-1631) self-contradicts the SAME record's own `gear` object 4 lines above — 3 of 4 badges (Mapex/Vic Firth/Evans) wrong vs. the correct `gear` object. Within-file contradiction, not just cross-file drift. Confirmed.
+  - All 8 promoted to `ai-fix` with verification comments (one flagging the #10667 scope correction). All are existing-page data-rot/self-contradiction fixes, compliant with the new-page freeze.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: 1 row (`jaska raatikainen`, 106 impr/0.94% CTR/pos 10.4) — re-confirmed as the established class-2 bare-name query (`learned-patterns.md:217`, 5+ data points, zero exceptions), held again, no new issue. **Human-founder blockers**: #10174 now 12 days unanswered (0 comments), no new trigger. #5141/#5100/#4892/#875/#529/#526/#525 — `updatedAt` unchanged, no re-spam. Held proposals #7981/#10099/#10032/#10655/#10656 — `updatedAt` unchanged, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-11-09 (gsc-watch 08:15, indexation 09:29, llm-citations 07:38); weekly refresh due ~2026-11-16 — not due this run, nothing new to close the loop on.
+- **Starvation check**: post-triage backlog 0→8 (<15), bank 8→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent cadence steady, Roadie draining same-day); not genuine starvation.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 8 just-promoted (fresh, <1hr old). The 20 `hold`-labeled roster/bands splits (#4932-#5108) remain intentionally paused under the freeze.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10667-10674 promoted)
+- seo-proposal bank (untriaged fresh, excl. held): 8 → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 1 row, reasoned against established class-2 ruling, no new issue. ✅ L1/L2/L3: refreshed 11-09, not due until ~11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10667-10674 pick up via Roadie; #10670 (Arin Ilejay 4-field rig) and #10667 (mikkey-dee, now 6 locations not 3 per my comment) are the highest atomicity-risk — watch they don't stall >3 days without a PR.
+2. L1/L2/L3 weekly refresh due ~2026-11-16 — run the full close-the-loop pass once snapshots land (first run after that refresh).
+3. First run after 13:00 UTC is the mid-day pulse — check Roadie progress on this 8-issue batch. #10174 now 12 days old, still no concrete trigger to escalate on. #7981/#10099/#10032/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
+
+---

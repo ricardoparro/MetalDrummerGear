@@ -1624,10 +1624,10 @@ const drummers = [
       '/images/drummers/arin-ilejay.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/b/b9/Arin.1280.jpg
     ],
     endorsements: [
-      { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Remo Drumheads', url: 'https://www.remo.com' }
     ],
     videos: [
       { title: 'Arin Ilejay Drum Solo + Band Jam @ Avenged Sevenfold Barcelona', youtubeId: 'ao-U54ohWa8', year: 2013 },

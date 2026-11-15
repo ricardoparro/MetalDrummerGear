@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-15 13:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-15 18:07 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,20 +8,20 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 692 |
-| Sessions | 763 |
-| Page views | 986 |
-| Engagement rate | 52.56% |
-| Avg session (s) | 98 |
+| Active users | 713 |
+| Sessions | 784 |
+| Page views | 1,015 |
+| Engagement rate | 52.17% |
+| Avg session (s) | 96 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 29 | 16 |
+| / | 30 | 17 |
 | /bpm | 23 | 14 |
-| /drummer/eloy-casagrande | 19 | 12 |
+| /drummer/eloy-casagrande | 20 | 13 |
+| /guides | 20 | 5 |
 | /drummer/mario-duplantier | 17 | 14 |
-| /guides | 16 | 4 |
 | /drummer/bill-ward | 15 | 15 |
 | /articles/slipknot-self-titled-drum-setup | 13 | 12 |
 | /articles/john-otto-drum-setup | 11 | 11 |
@@ -31,25 +31,25 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 475 | 411 |
-| Direct | 276 | 272 |
-| Unassigned | 36 | 32 |
+| Organic Search | 485 | 421 |
+| Direct | 287 | 283 |
+| Unassigned | 38 | 34 |
 | Organic Social | 3 | 3 |
 | Referral | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 265 | 228 |
+| United States | 271 | 234 |
 | Singapore | 88 | 88 |
-| United Kingdom | 33 | 29 |
-| Germany | 30 | 27 |
+| United Kingdom | 34 | 30 |
+| Germany | 33 | 30 |
 | Portugal | 30 | 29 |
 | Canada | 27 | 23 |
-| Brazil | 19 | 19 |
+| Brazil | 21 | 21 |
 | Sweden | 14 | 11 |
 | China | 13 | 13 |
-| Australia | 12 | 11 |
+| Indonesia | 13 | 13 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -1067,3 +1067,13 @@ Daily deep run (first after 07:00 UTC). Metrics 12:09 UTC (686u/756s/979v 7d; GS
 ---
 
 ---
+
+---
+
+## 2026-11-15 18:09 (cheap pulse — 3/3 proposals verified+promoted #10681-10683)
+- Backlog: 3 ai-fix (#10681-10683, just promoted) · 0 PRs open · proposals untriaged: 0
+- Org/Sessions/Views (7d): 713 / 784 / 1,015 · GSC 14,854 impr / 348 clicks / 2.34% CTR / pos 7.8, 1 content-gap row (`jaska raatikainen`, already-ruled class-2, held)
+- Confirmed 12:10 batch (#10667-10674) merged clean, 8 commits since. Blockers unchanged: #10174 (12 days, no trigger) · #7981/#10099/#10032/#10655/#10656 held · #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam
+- Actions: live-verified #10681 (Nick Menza cymbalSetups.js invented "Regular"/"Rock"/"Medium" descriptors not in his summary), #10682 (Dirk Verbeuren same bug class, "Medium"/"HH" tokens), #10683 (Charlie Benante gearComparisons.js:175 wrongly in Iron Cobra 900 `usedBy` array vs. verified Speed Cobra) against ground truth — zero dupes among closed sibling issues → all 3 promoted ai-fix
+- L1/L2/L3 snapshots still dated 2026-11-09; weekly refresh due ~2026-11-16, not due yet
+- Next check: first run after 19:00 UTC is evening review; watch for the L1/L2/L3 refresh to land

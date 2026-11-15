@@ -7,19 +7,19 @@
 
 ## Overview
 
-George Kollias is renowned for sustaining blast beats at 200-260+ BPM throughout full-length live performances with Nile — a feat of endurance and control that few drummers can match. What makes Kollias genuinely exceptional isn't a single burst of speed: it's that he can sustain near-elite tempos for the duration of a full Nile performance without audible loss of control or power. As Nile's drummer since 2004, Kollias has been the engine behind some of technical death metal's most demanding music — albums like "Annihilation of the Wicked," "Ithyphallic," and "What Should Not Be Unearthed" that demand sustained blast beats at 200+ BPM for minutes at a time. He achieves this through systematic physical conditioning documented in his instructional series "Intense Metal Drumming." His Pearl signature snare and direct-drive pedal setup are engineered for maximum articulation at extreme speed.
+George Kollias is renowned for sustaining blast beats at 200-260+ BPM throughout full-length live performances with Nile — a feat of endurance and control that few drummers can match. What makes Kollias genuinely exceptional isn't a single burst of speed: it's that he can sustain near-elite tempos for the duration of a full Nile performance without audible loss of control or power. As Nile's drummer since 2004, Kollias has been the engine behind some of technical death metal's most demanding music — albums like "Annihilation of the Wicked," "Ithyphallic," and "What Should Not Be Unearthed" that demand sustained blast beats at 200+ BPM for minutes at a time. He achieves this through systematic physical conditioning documented in his instructional series "Intense Metal Drumming." His Pearl Masterworks snare and direct-drive pedal setup are engineered for maximum articulation at extreme speed.
 
 ## Kit Setup
 
 George plays **Pearl Reference Pure** drums with a setup optimized for sustained extreme performance:
 
 - **Kick Drums:** 22" x 18" (x2) with Pearl Demon XR Pedals
-- **Snare:** 14" x 6.5" Pearl George Kollias Signature Snare
+- **Snare:** 14" x 6.5" Pearl Masterworks Series Snare
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Tom:** 16" x 16"
 - **Cymbals:** Zildjian A Custom Series — clarity and fast attack response
 - **Pedals:** Pearl Demon XR Pedals (direct drive for zero-lag precision)
-- **Sticks:** Vic Firth George Kollias Signature
+- **Sticks:** Vic Firth
 - **Heads:** Remo Powerstroke P4 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
 
 ## Tuning & Setup
@@ -47,10 +47,10 @@ George uses **matched grip** with a highly refined wrist technique. His approach
 | Item | Kollias's Spec | Budget Alternative |
 |------|---------------|-------------------|
 | Drum Kit | Pearl Reference Pure | Pearl Export Series (~$700) |
-| Snare | Pearl George Kollias Signature 14" x 6.5" | Pearl Free-Floating Steel or Ludwig Supraphonic |
+| Snare | Pearl Masterworks Series 14" x 6.5" | Pearl Free-Floating Steel or Ludwig Supraphonic |
 | Cymbals | Zildjian A Custom Series | Meinl HCS Set (~$250) |
 | Pedal | Pearl Demon XR ($600) | Pearl P930 Double (~$150) |
-| Sticks | Vic Firth George Kollias Signature | Vic Firth 5B |
+| Sticks | Vic Firth | Vic Firth 5B |
 | Kick Head | Remo Powerstroke P4 Clear | Evans EMAD Clear |
 
 **Starter budget path (~$1,100):** Pearl Export + Meinl HCS + Pearl P930 Double. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/meinl](https://metalforge.io/brands/meinl).
@@ -77,8 +77,8 @@ A: George Kollias uses the Pearl Demon XR double pedal — a model he co-designe
 **Q: Is George Kollias self-taught?**  
 A: Kollias is largely self-taught but has extensively studied drumming technique and has become an educator himself through his "Intense Metal Drumming" instructional series.
 
-**Q: What makes the George Kollias signature snare special?**  
-A: The Pearl George Kollias Signature Snare is optimized for extreme articulation — every note speaks cleanly at 200+ BPM. The shell construction and tuning characteristics prioritize attack definition over sustain.
+**Q: What snare does George Kollias use?**  
+A: Kollias plays a Pearl Masterworks Series snare tuned for extreme articulation — every note speaks cleanly at 200+ BPM, with tuning characteristics that prioritize attack definition over sustain.
 
 ---
 

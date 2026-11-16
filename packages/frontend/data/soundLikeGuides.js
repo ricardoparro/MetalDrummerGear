@@ -935,7 +935,7 @@ What makes Dave exceptional isn't just speed—it's musicality. His playing brea
         tension: "High",
         muffling: "Minimal—one Moongel max",
         description: "Crackling snare that cuts through. High tension for projection and articulation.",
-        tip: "Tune high for maximum cut. The aluminum shell adds brightness."
+        tip: "Tune high for maximum cut. The maple shell adds warmth and attack."
       },
       toms: {
         tension: "Medium-high",

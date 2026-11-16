@@ -42,6 +42,7 @@ export const GEAR_DATABASE = {
     { id: 'tama-metalworks', name: 'Tama Metalworks 14x5.5"', brand: 'tama', category: 'snare', tier: 'budget', price: 200, keywords: ['metalworks', 'tama', 'steel'] },
     { id: 'tama-charlie-benante-signature', name: 'Tama Charlie Benante Signature 14x6.5"', brand: 'tama', category: 'snare', tier: 'pro', price: 650, keywords: ['charlie', 'benante', 'signature', 'tama'] },
     { id: 'pearl-sensitone', name: 'Pearl Sensitone Elite 14x5"', brand: 'pearl', category: 'snare', tier: 'mid', price: 400, keywords: ['sensitone', 'elite', 'pearl'] },
+    { id: 'pearl-halpern', name: 'Pearl Matt Halpern Signature 14x6" Brass (MH1460/B)', brand: 'pearl', category: 'snare', tier: 'mid', price: 450, keywords: ['halpern', 'mh1460', 'pearl'] },
     { id: 'pearl-joey', name: 'Pearl Joey Jordison Signature 13x6.5"', brand: 'pearl', category: 'snare', tier: 'mid', price: 480, keywords: ['joey', 'jordison', 'signature', 'pearl'] },
     { id: 'pearl-unverified-kollias', name: 'Pearl (model unverified)', brand: 'pearl', category: 'snare', tier: 'mid', price: 450, keywords: ['george', 'kollias', 'pearl'] },
     { id: 'sonor-haake', name: 'Sonor Tomas Haake Signature 14x6.5"', brand: 'sonor', category: 'snare', tier: 'pro', price: 700, keywords: ['tomas', 'haake', 'signature', 'sonor'] },
@@ -231,7 +232,7 @@ export const DRUMMER_GEAR = {
   },
   'matt-halpern': {
     drums: ['pearl-masters'],
-    snare: ['pearl-sensitone'],
+    snare: ['pearl-halpern'],
     cymbals: ['meinl-byzance'],
     hardware: ['pearl-eliminator'],
     sticks: ['promark-halpern'],

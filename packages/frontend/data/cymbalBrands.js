@@ -80,7 +80,7 @@ export const CYMBAL_BRANDS = [
     notableLines: [
       { name: 'Byzance (incl. Dark, Extra Dry, Traditional)', description: 'Hand-hammered B20 bronze, prized for complex, dark overtones — the most common Meinl series across the verified metal roster, especially for progressive and technical metal setups.' },
       { name: 'Mb20', description: 'A line built specifically for heavy, high-volume metal playing, sitting alongside Byzance in some verified setups (e.g. paired hi-hats/crashes from one line with a ride from the other).' },
-      { name: 'Classics Custom Dark', description: 'A more affordable dark-toned line extending the Byzance-style tonal identity to a lower price point — not yet present in a verified roster setup, but a common recommendation for metal drummers on a budget.' },
+      { name: 'Classics Custom Dark', description: 'A more affordable dark-toned line extending the Byzance-style tonal identity to a lower price point — used in verified roster setups and a common recommendation for metal drummers on a budget.' },
     ],
     source: { label: 'Meinl Cymbals — Wiki (company background & Byzance manufacturing)', url: 'https://meinlcymbals.com/en/Wiki' },
   },

@@ -7935,7 +7935,7 @@ This guide covers Portnoy's core technique — odd-time navigation, orchestral d
         brand: 'Tama',
         model: 'Tama Mike Portnoy Signature Melody Master',
         size: '14" x 5.5"',
-        shell: 'Maple',
+        shell: 'Steel',
         description: "Portnoy plays his signature Tama Mike Portnoy Melody Master snare. It's built to be heard across Dream Theater's wide dynamic range, where the snare must cut through both whisper-quiet and maximum-volume sections.",
         alternative: "Tama Starclassic Maple 14\" x 5.5\" or Ludwig Supraphonic for comparable articulation"
       },

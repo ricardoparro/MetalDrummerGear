@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-16 07:07 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-16 08:27 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 710 |
-| Sessions | 777 |
-| Page views | 1,005 |
-| Engagement rate | 50.32% |
-| Avg session (s) | 84 |
+| Active users | 714 |
+| Sessions | 781 |
+| Page views | 1,012 |
+| Engagement rate | 50.45% |
+| Avg session (s) | 83 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -32,21 +32,21 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 462 | 398 |
-| Direct | 308 | 304 |
-| Unassigned | 42 | 37 |
+| Direct | 312 | 308 |
+| Unassigned | 44 | 39 |
 | Organic Social | 3 | 3 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 275 | 240 |
+| United States | 276 | 241 |
 | Singapore | 88 | 88 |
 | United Kingdom | 34 | 29 |
 | Germany | 31 | 28 |
 | Portugal | 29 | 28 |
 | Canada | 25 | 21 |
-| Brazil | 20 | 19 |
+| Brazil | 21 | 20 |
 | Australia | 13 | 12 |
 | China | 13 | 13 |
 | Sweden | 13 | 11 |
@@ -54,9 +54,9 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 12,549 |
-| Clicks | 289 |
-| CTR | 2.30% |
+| Impressions | 14,938 |
+| Clicks | 332 |
+| CTR | 2.22% |
 | Avg position | 7.9 |
 
 ### Top queries
@@ -66,31 +66,31 @@
 | mario duplantier cymbals | 8 | 2 | 25.00% | 4.3 |
 | abe cunningham cymbal setup | 5 | 1 | 20.00% | 6.4 |
 | best china cymbals for metal | 1 | 1 | 100.00% | 4.0 |
-| best cymbals for metal | 5 | 1 | 20.00% | 9.2 |
+| best cymbals for metal | 6 | 1 | 16.67% | 8.5 |
+| best drum kits for metal | 3 | 1 | 33.33% | 8.0 |
 | bill ward drum kit | 26 | 1 | 3.85% | 5.2 |
 | bill ward drumming style | 1 | 1 | 100.00% | 8.0 |
+| bill ward drumset | 5 | 1 | 20.00% | 2.6 |
 | bill ward kit | 7 | 1 | 14.29% | 3.4 |
-| does tomas haake use triggers | 10 | 1 | 10.00% | 3.7 |
-| eloy casagrande drum kit slipknot | 2 | 1 | 50.00% | 1.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,203 | 111 | 2.64% | 8.1 |
-| can | 554 | 15 | 2.71% | 7.8 |
-| deu | 449 | 15 | 3.34% | 7.0 |
-| gbr | 756 | 14 | 1.85% | 9.1 |
-| rus | 189 | 9 | 4.76% | 6.8 |
-| fra | 253 | 8 | 3.16% | 7.7 |
-| idn | 234 | 8 | 3.42% | 6.7 |
-| ita | 145 | 7 | 4.83% | 6.5 |
-| bra | 970 | 6 | 0.62% | 9.2 |
-| nld | 205 | 6 | 2.93% | 7.2 |
+| usa | 4,980 | 129 | 2.59% | 8.0 |
+| deu | 526 | 19 | 3.61% | 7.0 |
+| can | 666 | 18 | 2.70% | 7.7 |
+| gbr | 895 | 16 | 1.79% | 8.9 |
+| fra | 291 | 11 | 3.78% | 7.6 |
+| idn | 275 | 9 | 3.27% | 6.6 |
+| rus | 256 | 9 | 3.52% | 6.9 |
+| ita | 181 | 7 | 3.87% | 7.1 |
+| arg | 112 | 6 | 5.36% | 9.3 |
+| aus | 578 | 6 | 1.04% | 6.8 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| jaska raatikainen | 95 | 1.05% | 10.4 | open issue to answer better |
+| jaska raatikainen | 97 | 1.03% | 10.4 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -130,7 +130,7 @@ export const DRUMMER_GEAR = {
     sticks: ['promark-hoglan'],
   },
   'dave-lombardo': {
-    drums: ['tama-starclassic-maple'],
+    drums: ['tama-starclassic-walnut-birch'],
     snare: ['tama-slp'],
     cymbals: ['paiste-rude'],
     hardware: ['tama-iron-cobra'],

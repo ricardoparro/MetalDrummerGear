@@ -446,7 +446,7 @@ export const EVOLUTION_TIMELINE = [
   },
   {
     id: 'timeline-1993-meshuggah-contradictions',
-    year: 1993,
+    year: 1991,
     month: 10,
     decade: '1990s',
     title: 'Meshuggah: Tomas Haake Begins His Legacy',

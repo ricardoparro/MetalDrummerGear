@@ -1410,7 +1410,7 @@ More than two decades after its introduction, the Sonor Tomas Haake Signature sn
       dimensions: {
         diameter: '14"',
         depth: '6.5"',
-        shell: 'Sonor Signature Steel/Beech Hybrid',
+        shell: 'Bronze',
         finish: 'Chrome Hardware',
       },
       features: [

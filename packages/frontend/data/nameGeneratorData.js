@@ -603,7 +603,7 @@ export const DRUMMER_MATCHES = [
   {
     id: 'eloy-casagrande',
     name: 'Eloy Casagrande',
-    band: 'Sepultura / Slipknot',
+    band: 'Slipknot (ex-Sepultura)',
     image: '/images/drummers/eloy-casagrande.webp',
     traits: ['brazilian', 'diverse', 'rising'],
     matchQuote: 'Your rise to greatness is unstoppable!'

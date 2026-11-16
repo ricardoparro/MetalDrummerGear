@@ -1012,3 +1012,11 @@ Daily deep run (first after 07:00 UTC). Metrics 12:15 UTC (722u/790s/1,022v 7d; 
 3. **Re-check the 2026-11-23 L2 snapshot** for the comparable-subset diff (16→11 this week) — if the decline continues a 2nd week on the comparable subset (not just raw count), escalate to a deeper investigation per the standing "don't assume noise a 4th time" rule.
 4. John Otto cluster (82→73 impr, 5→1 clicks) — re-check next snapshot; 2nd/3rd occurrence of this exact shape, no lever found yet.
 5. #10174 now 13 days old, still no concrete trigger to escalate on. #7981/#10099/#10032/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+## 2026-11-16 18:09 (cheap pulse — 2/2 proposals verified+promoted #10721/#10722)
+- Backlog: 2 ai-fix (#10721/#10722, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
+- Org/Sessions/Views (7d): 740 / 811 / 1,045 · GSC 14,938 impr / 332 clicks / 2.22% CTR / pos 7.9, 1 content-gap row (`jaska raatikainen`, already-ruled class-2, held)
+- Confirmed 12:15 batch (#10707-10714, #10720) merged clean. Blockers unchanged: #10174 (13 days, 0 comments, no trigger) · #7981/#10032/#10099/#10655/#10656 held (updatedAt unchanged) · #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam
+- Actions: live-verified #10721 (gearSearchData.js DRUMMER_GEAR map asserts named `pearl-sensitone` model for Gene Hoglan + Ray Luzier, both explicitly hedged unverified in api/drummers/index.js + snares.js exclusion list) and #10722 (same file, Matt Halpern snare field wrongly points to generic `pearl-sensitone` instead of his verified signature MH1460/B, api/drummers/index.js:1392 verified:true) against ground truth — confirmed both exact, checked against closed #7630 (same file, same drummers, but only touched cymbals/hardware not snare — no dupe) → both promoted ai-fix
+- L1/L2/L3 full close-the-loop already done this morning's deep run (12:15); next weekly refresh ~2026-11-23
+- Next check: first run after 19:00 UTC is evening review

@@ -93,6 +93,7 @@ export const GEAR_DATABASE = {
     { id: 'promark-adler', name: 'Promark TX5AXW Chris Adler Signature', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['chris', 'adler', 'tx5axw', 'promark'] },
     { id: 'promark-halpern', name: 'Promark Matt Halpern Signature', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['matt', 'halpern', 'promark'] },
     { id: 'vicfirth-kollias', name: 'Vic Firth George Kollias Signature', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 15, keywords: ['george', 'kollias', 'vic firth'] },
+    { id: 'vicfirth-carey', name: 'Vic Firth Danny Carey Signature', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 15, keywords: ['danny', 'carey', 'vic firth'] },
     { id: 'wincent-haake', name: 'Wincent Tomas Haake Signature', brand: 'wincent', category: 'sticks', tier: 'budget', price: 15, keywords: ['tomas', 'haake', 'wincent'] },
     { id: 'vicfirth-5a', name: 'Vic Firth American Classic 5A', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 12, keywords: ['5a', 'american', 'classic', 'vic firth'] },
     { id: 'vicfirth-5b', name: 'Vic Firth American Classic 5B', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 12, keywords: ['5b', 'american', 'classic', 'vic firth'] },
@@ -204,7 +205,7 @@ export const DRUMMER_GEAR = {
     snare: ['sonor-danny'],
     cymbals: ['paiste-signature'],
     hardware: ['sonor-giant'],
-    sticks: ['vicfirth-5b'],
+    sticks: ['vicfirth-carey'],
   },
   'mario-duplantier': {
     drums: ['tama-starclassic-walnut-birch'],

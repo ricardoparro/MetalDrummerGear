@@ -17346,3 +17346,46 @@ Not due this run (today is Sunday 2026-11-15; next due Monday 2026-11-16, group 
 2. `evolutionTimeline.js` and `signatureGear.js` now substantially swept (full-file reads, ground-truth cross-checked). Remaining unswept hand-authored files worth a future pass if the bank runs dry: `drummersByKit.js` (152 lines, small), `cymbalReferencePages.js`/`pedalReferencePages.js`/`snareReferencePages.js`/`drumstickReferencePages.js` (reference pages, likely more generated than hand-authored — lower priority, check generator-vs-hand-authored shape first before a manual sweep).
 3. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
 4. Drum-chair watch: next due Monday 2026-11-16, group 3.
+
+---
+
+## 2026-11-16 ~UTC (SEO Agent run — 4/8 proposals filed #10699-10702: drummersByKit.js / nameGeneratorData.js / top10Lists.js source-sync / cymbalBrands.js self-contradiction)
+
+### Bank check
+12 open `seo-proposal` at run start (human-held + standing umbrellas + the 4 fresh #10692/10694/10695/10697 awaiting/just promoted per 00:23 CEO pulse). Well under the 45 floor → cleared to file up to 8 net-new. Today is Monday 2026-11-16 — drum-chair watch IS due (group 3).
+
+### Drum-chair watch (group 3, due this week)
+Group 3 bands (alphabetical rotation, ISO-week%4): pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto. Searched all 11 via web search (last-14-days framing, but queries surfaced some older-but-relevant context too). Candidates surfaced: Suicidal Tendencies/Xavier Ware (Jan 2026), Testament/Chris Dovas, Vader/Michał Andrzejczyk, Pantera/Charlie Benante (+ temporary injury fill-in Darby Todd, out of scope — not a permanent stand-in), Sepultura/Nekrutman, Slipknot/Eloy Casagrande. **All 6 already correctly reflected in `bands.js`** (verified via direct grep — drummerHistory arrays, FAQ answers, and source URLs all current). Zero new changes to file. Darby Todd's injury fill-in for Benante explicitly judged out of scope (temporary, not a permanent touring stand-in per the watch's own definition) — log-and-skip, not worth tracking unless it becomes permanent.
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- Content-gap queries (impr≥50, CTR<2%): 1 row — `jaska raatikainen` (95 impr/1.05% CTR/pos 10.4). Already the repeatedly-confirmed class-2 bare-name query (checked `learned-patterns.md` + CEO log precedent through 11-16 00:23 run). No new issue.
+- `node scripts/verify-gear-consistency.cjs`: re-ran directly — only the already-known jay-weinberg `drums`-category false-positive (single-bucket ground-truth gap, not fabrication, per 11-15 07:0x run's note). Nothing new.
+
+### Method
+Last run's notes flagged `drummersByKit.js` (152 lines, small, never swept) and the 4 reference-page generator files as candidates. Dispatched parallel research agents:
+- `drummersByKit.js`: 12/13 entries already settled by prior closed issues (checked each against `gh issue list`); 1 fresh finding (Mario Duplantier mis-keyed under `tama/star-classic-maple` instead of `tama/star-classic-bubinga` — ground truth `api/drummers/index.js:1177/1185`, reconfirmed by 10+ other closed issues on other files, just never swept here).
+- `cymbalReferencePages.js`/`pedalReferencePages.js`/`snareReferencePages.js`/`drumstickReferencePages.js`: confirmed generic buying-guide content, not fact-dense — deprioritized for a full sweep, consistent with last run's hypothesis.
+- Picked up 2 more underswept small files (`nameGeneratorData.js`, `gearSeriesPages.js`) and a larger one with surprisingly few prior fixes (`top10ListsCatalog.js`, only 3 closed issues vs. its heavily-mined sibling `top10Lists.js`'s 50+): found Eloy Casagrande's `nameGeneratorData.js` entry missed the "ex-Sepultura" convention applied to 2 sibling entries (#10065/#10518), and found that #10654's Travis Orbin tenure fix only touched the *generated* `top10ListsCatalog.js`, not its source `top10Lists.js` (6 untouched instances) — next `build.sh` regen would silently revert it.
+- Also swept `cymbalBrands.js`/`drumstickBrands.js`/`gearNews.js` (brand-hub pages, previously unswept): found a self-contradiction in `cymbalBrands.js:83` (claims Meinl Classics Custom Dark "not yet present in a verified roster setup" while the file's own live-computed drummer-matching mechanism already has 2 verified matches in `cymbalSetups.js`). `drumstickBrands.js`/`gearNews.js`/`quizData.js`/`gearSeriesPages.js` confirmed clean.
+
+Personally re-verified all 4 filed findings via direct grep/sed against cited ground truth before filing (not just trusting subagent reports) — file:line citations in each issue body are first-hand confirmed. All 4 dedup-checked via `gh issue list --state all --search`, zero exact-match duplicates (closest precedents cited inline in each body: #7655 for drummersByKit.js touched different drummers; #10065/#10518 established the nameGeneratorData.js convention this extends; #10654 fixed the Travis Orbin fact in the wrong file; #10682 fixed a different Classics Custom Dark fact in a different file).
+
+Stopped at 4 of the 8 ceiling — both the reference-page files and 2 of the 3 brand-hub files came back clean, no padding with weak findings.
+
+### GSC / metrics
+Metrics 01:04 UTC: GA4 684u/747s/972v 7d, engagement 50.74%. GSC 12,549 impr/289 clicks/2.30% CTR/pos 7.9. Content-gap: 1 row (`jaska raatikainen`, already-ruled class-2, no action).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10699-10702 (this run, 4 fresh)
+
+### Next run
+1. Watch #10699-10702 pick up via CEO triage/Roadie. #10701 (top10Lists.js) has a regen step (`node scripts/generate-top10-lists-catalog.mjs`) that must run and be committed alongside the source edit — confirm the PR includes both.
+2. `drummersByKit.js`, `nameGeneratorData.js`, `gearSeriesPages.js`, `cymbalBrands.js`/`drumstickBrands.js`/`gearNews.js`/`quizData.js` now swept. Remaining smaller underswept files if the bank runs dry again: `gearSearchData.js` (17 closed), `genres.js` (14 closed), `top10ListsCatalog.js` (now has 1 cross-reference issue open but the file itself wasn't independently re-read beyond the Orbin check — low priority given it's auto-generated), `nameGeneratorData.js`'s other sections (only the `DRUMMER_MATCHES` array was checked this run; nickname-generation logic untouched but likely structural).
+3. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
+4. Drum-chair watch: this week (group 3) done, zero new changes. Next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

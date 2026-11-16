@@ -154,7 +154,7 @@ export const DRUMMER_GEAR = {
     drums: ['tama-starclassic-bubinga'],
     snare: ['tama-bell-brass'],
     cymbals: ['paiste-2002'],
-    hardware: ['tama-speed-cobra'],
+    hardware: ['tama-iron-cobra'],
     sticks: ['vicfirth-5a'],
   },
   'ray-luzier': {
@@ -189,7 +189,7 @@ export const DRUMMER_GEAR = {
     drums: ['tama-starclassic-maple'],
     snare: ['tama-charlie-benante-signature'],
     cymbals: ['paiste-rude'],
-    hardware: ['tama-iron-cobra'],
+    hardware: ['tama-speed-cobra'],
     sticks: ['vicfirth-5a'],
   },
   'mike-portnoy': {

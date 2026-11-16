@@ -173,7 +173,7 @@ George Kollias (Nile) holds recognized world records for single-foot bass drum s
 - **Raw production** – Deliberately lo-fi drum sounds in traditional black metal
 
 **Gear Preferences:**
-Traditional black metal drummers often use smaller, simpler kits. Modern black metal drummers like Inferno (Behemoth) and Hellhammer (Mayhem) use larger professional setups. Pearl, Ludwig, and Tama are common. Cymbals vary from thin and washy to heavy and dark.
+Traditional black metal drummers often use smaller, simpler kits. Modern black metal drummers like Inferno (Behemoth) and Hellhammer (Mayhem) use larger professional setups. Pearl and Sonor are common among this group. Cymbals vary from thin and washy to heavy and dark.
 
 **Evolution:**
 From the raw recordings of early Mayhem and Darkthrone to the technical precision of modern Behemoth and Dimmu Borgir, black metal drumming has diversified while maintaining its core identity of atmosphere and intensity.`,

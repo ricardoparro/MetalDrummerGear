@@ -408,7 +408,7 @@ export const EVOLUTION_TIMELINE = [
   },
   {
     id: 'timeline-1991-vinnie-paul-cowboys',
-    year: 1991,
+    year: 1990,
     month: 2,
     decade: '1990s',
     title: 'Vinnie Paul: Groove Metal Revolution',

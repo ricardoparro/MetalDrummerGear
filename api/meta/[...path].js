@@ -1371,6 +1371,16 @@ export function getMetaForPath(pathname) {
     const genreGuide = GENRE_GEAR_GUIDES[slug];
     if (genreGuide) {
       const genreGuideHowTo = generateGenreGuideHowToSchema(genreGuide);
+      // Issue #10720: intro.content, whatToLookFor.features, comparison.content and
+      // the pro/budget picks were fully authored (and already fed the HowTo/Article
+      // JSON-LD above) but never reached the visible body — bots saw only the meta
+      // description + FAQ, a few hundred words against a declared ~1800 wordCount.
+      // That crawled-but-thin body is the likely cause of the long-tail members of
+      // this 278-page combinatorial family flipping to "crawled - currently not
+      // indexed" (see docs/seo-l2-l3-recovery.md). contentSections renders the same
+      // authored prose as real <h2>/<p>/<ul> body copy for every page in the family.
+      const genreGuidePicks = genreGuide.proRecommendations?.pedals || genreGuide.proRecommendations?.snares || [];
+      const genreGuideBudgetPicks = genreGuide.budgetOptions?.pedals || genreGuide.budgetOptions?.snares || [];
       return {
         title: genreGuide.metaTitle,
         description: genreGuide.description,
@@ -1403,12 +1413,40 @@ export function getMetaForPath(pathname) {
         // Issue #4833: SpeakableSpecification for voice search / AI assistants.
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        // Issue #10720: real body copy — see contentSections comment above.
+        contentSections: [
+          genreGuide.intro && {
+            heading: genreGuide.intro.title,
+            content: genreGuide.intro.content,
+            items: genreGuide.intro.keyPoints || [],
+          },
+          genreGuide.whatToLookFor && {
+            heading: genreGuide.whatToLookFor.title,
+            items: (genreGuide.whatToLookFor.features || []).map(f => `${f.name}: ${f.description}`),
+          },
+          genreGuidePicks.length > 0 && {
+            heading: genreGuide.proRecommendations.title,
+            items: genreGuidePicks.map(p => `${p.name} (${p.priceRange}) — ${p.verdict || p.description}`),
+          },
+          genreGuideBudgetPicks.length > 0 && {
+            heading: genreGuide.budgetOptions.title,
+            items: genreGuideBudgetPicks.map(p => `${p.name} (${p.priceRange}) — ${p.verdict || p.description}`),
+          },
+          genreGuide.comparison && {
+            heading: genreGuide.comparison.title,
+            content: genreGuide.comparison.content,
+          },
+          genreGuide.conclusion && {
+            heading: genreGuide.conclusion.title,
+            content: genreGuide.conclusion.content,
+          },
+        ].filter(Boolean),
         // Issue #6079: genreGuide.description and proRecommendations[].verdict
         // already fed the JSON-LD articleSchema/HowToStep text above but were
         // never rendered as visible body copy — ssrLinks prints them under the h1.
         ssrLinks: [
           { href: '/guides', label: 'All Guides', description: genreGuide.description },
-          ...(genreGuide.proRecommendations?.pedals?.length ? genreGuide.proRecommendations.pedals.slice(0, 2).map(r => ({
+          ...(genreGuidePicks.length ? genreGuidePicks.slice(0, 2).map(r => ({
             href: `/guides/${genreGuide.slug}`, label: r.name || r.title, description: r.verdict || r.description,
           })) : []),
         ],

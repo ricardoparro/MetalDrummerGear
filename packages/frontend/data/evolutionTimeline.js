@@ -357,7 +357,7 @@ export const EVOLUTION_TIMELINE = [
     drummerSlug: null,
     drummerName: 'Hellhammer (Jan Axel Blomberg)',
     band: 'Mayhem',
-    album: 'Deathcrush / Early recordings',
+    album: 'Early Mayhem recordings (post-1988)',
     type: TIMELINE_EVENT_TYPES.TECHNIQUE_PIONEER,
     subgenre: METAL_SUBGENRES.BLACK,
     gearNotes: 'Raw, cold production - blast beats dominate',

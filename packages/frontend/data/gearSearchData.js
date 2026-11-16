@@ -44,6 +44,8 @@ export const GEAR_DATABASE = {
     { id: 'pearl-sensitone', name: 'Pearl Sensitone Elite 14x5"', brand: 'pearl', category: 'snare', tier: 'mid', price: 400, keywords: ['sensitone', 'elite', 'pearl'] },
     { id: 'pearl-joey', name: 'Pearl Joey Jordison Signature 13x6.5"', brand: 'pearl', category: 'snare', tier: 'mid', price: 480, keywords: ['joey', 'jordison', 'signature', 'pearl'] },
     { id: 'pearl-unverified-kollias', name: 'Pearl (model unverified)', brand: 'pearl', category: 'snare', tier: 'mid', price: 450, keywords: ['george', 'kollias', 'pearl'] },
+    { id: 'pearl-unverified-hoglan', name: 'Pearl (model unverified)', brand: 'pearl', category: 'snare', tier: 'mid', price: 450, keywords: ['gene', 'hoglan', 'pearl'] },
+    { id: 'pearl-unverified-luzier', name: 'Pearl (model unverified)', brand: 'pearl', category: 'snare', tier: 'mid', price: 450, keywords: ['ray', 'luzier', 'pearl'] },
     { id: 'sonor-haake', name: 'Sonor Tomas Haake Signature 14x6.5"', brand: 'sonor', category: 'snare', tier: 'pro', price: 700, keywords: ['tomas', 'haake', 'signature', 'sonor'] },
     { id: 'sonor-danny', name: 'Sonor Danny Carey Signature 14x8" Bronze', brand: 'sonor', category: 'snare', tier: 'pro', price: 750, keywords: ['danny', 'carey', 'signature', 'bronze', 'sonor'] },
     { id: 'ludwig-black-beauty', name: 'Ludwig Black Beauty 14x6.5"', brand: 'ludwig', category: 'snare', tier: 'pro', price: 900, keywords: ['black', 'beauty', 'ludwig', 'brass'] },
@@ -126,7 +128,7 @@ export const DRUMMER_GEAR = {
   },
   'gene-hoglan': {
     drums: ['pearl-reference-pure'],
-    snare: ['pearl-sensitone'],
+    snare: ['pearl-unverified-hoglan'],
     cymbals: ['sabian-aax'],
     hardware: ['pearl-demon-drive'],
     sticks: ['promark-hoglan'],
@@ -161,7 +163,7 @@ export const DRUMMER_GEAR = {
   },
   'ray-luzier': {
     drums: ['pearl-reference-series'],
-    snare: ['pearl-sensitone'],
+    snare: ['pearl-unverified-luzier'],
     cymbals: ['sabian-aax'],
     hardware: ['dw-9000'],
     sticks: ['vicfirth-5a'],

@@ -17437,3 +17437,50 @@ Already done this week (Monday 2026-11-16, group 3) per the 01:04 UTC run today 
 1. Watch #10707-10714 pick up via CEO triage/Roadie. #10710/#10711 each require a new `GEAR_DATABASE.sticks` entry, not just a repoint — confirm Roadie adds the entry correctly rather than reusing a wrong generic ID. #10709 leaves the exact replacement text to implementer discretion — confirm it lands on a genuinely unbranded/generic representation, not a different fabricated model.
 2. gearSearchData.js still has 2 more candidates queued (Hoglan/Luzier shared "pearl-sensitone" named-model-for-unverified-snare bug, Matt Halpern drums/hardware) if the bank runs dry again.
 3. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
+
+---
+
+## 2026-11-16 ~13:1x UTC (SEO Agent run — 2/8 proposals filed #10721/10722: gearSearchData.js Hoglan/Luzier/Halpern snare field sweep)
+
+### Bank check
+16 open `seo-proposal` at run start: 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819), 8 already `ai-fix`-promoted earlier today (#10707-10714). Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Drum-chair watch already done this week (Monday 2026-11-16, group 3, logged in the 01:04 run) — not repeated.
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- `node scripts/verify-gear-consistency.cjs`: only the already-known jay-weinberg `drums`-category false positive. Nothing new.
+- Content-gap queries (impr≥50, CTR<2%): 1 row — `jaska raatikainen` (97 impr/1.03% CTR/pos 10.4 per 13:10 UTC metrics). Already the repeatedly-confirmed class-2 bare-name query. No new issue.
+
+### Method
+Picked up last run's queued candidates: `gearSearchData.js` DRUMMER_GEAR snare fields for Gene Hoglan, Ray Luzier (shared `pearl-sensitone` fabrication — ground truth hedges both as unverified in `api/drummers/index.js` + `snares.js`'s own exclusion-list comment), and Matt Halpern (points to the same generic `pearl-sensitone`, but his real snare is a *different*, verified, sourced signature model — MH1460/B, `verified: true`/`verifiedAt: '2026-10-21'` — so this is a wrong-model bug, not an over-specificity bug). Personally verified all three via direct `node -e`/grep reads of `api/drummers/index.js`, `snares.js`, and `gearSearchData.js` before filing. Dedup-checked via `gh issue list --state all --search` (per drummer + "DRUMMER_GEAR gearSearchData") — zero exact-match duplicates; closest precedents (#10458/#10429/#9441 etc.) all touch different files (`drummerComparisons.js`, `gearComparisons.js`, root record) not this file's `DRUMMER_GEAR` map.
+
+- **#10721** gearSearchData.js Gene Hoglan + Ray Luzier: bundled one issue (same file, same fix pattern, same map) — same class as already-queued #10709 (Kollias), left remediation to match whatever #10709's PR lands on for the generic-vs-named decision.
+- **#10722** gearSearchData.js Matt Halpern: separate issue — needs a *new* `GEAR_DATABASE` entry for his real signature snare (same shape as queued #10710/#10711's new-signature-entry pattern), not a removal/genericization.
+
+**Dropped candidate (freeze conflict, correctly not filed):** considered proposing Matt Halpern's missing `snares.js` SNARES-array entry (his root record went `verified: true` on 2026-10-21 per closed #5394, but `snares.js`'s header comment still lists him on the "unverified, never guessed" exclusion list — a genuinely stale, verified-fact-not-surfaced gap). Ruled out: `snares.js` entries with `isSignature: true` auto-generate a `/snares/signature/<drummer>` page (10 exist per closed #4578) — adding him would create an 11th, which is explicitly "just one more of an existing family," forbidden under the 2026-07-28 new-page freeze. Not filed. Flagging here in case the freeze lifts and this becomes actionable — the underlying verified fact (MH1460/B, sourced, dated 2026-10-21) won't go stale.
+
+**Progressive-metal `genres.js` brand-dominance line investigated and dropped:** line 225 ("Tama, DW, Pearl, Sonor dominate" alongside Portnoy/Mangini/Carey) initially looked like the same class as the already-fixed #10712 (black metal Ludwig/Tama fabrication). Checked whether DW has zero roster support in this genre the way Ludwig/Tama did for black metal — found DW-brand drummers do exist in the Progressive Metal/Djent genre bucket (e.g. Matt Garstka/Animals as Leaders), so the brand-dominance claim isn't a clean zero-support fabrication like the black metal case, just a genre-level claim not pinned to the 3 named drummers specifically. Weaker signal than the bar for filing — dropped rather than filed on uncertain footing.
+
+Stopped at 2 of the 8 ceiling — `gearSearchData.js`'s last 2 queued candidates are now resolved; no further padding with weak findings this run.
+
+### GSC / metrics
+Metrics 13:10 UTC: GSC 14,938 impr/332 clicks/2.22% CTR/pos 7.9. Content-gap: 1 row (`jaska raatikainen`, already-ruled class-2, no action).
+
+### Drum-chair watch
+Already done this week (Monday 2026-11-16, group 3) per the 01:04 UTC run today — not repeated.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10707-10714 (promoted `ai-fix` earlier today)
+- #10721/#10722 (this run, 2 fresh)
+
+### Next run
+1. Watch #10721/#10722 pick up via CEO triage/Roadie. #10721's exact replacement value depends on how #10709 (Kollias, same generic-vs-named decision) resolves — check that PR first if both are still open.
+2. `gearSearchData.js` DRUMMER_GEAR map is now thoroughly swept (Lombardo/Casagrande/Benante/Kollias/Portnoy/Carey/Hoglan/Luzier/Halpern all touched across this and prior runs). Remaining untouched: brand metadata / BRAND_DATABASE section below the DRUMMER_GEAR map, not yet read this run.
+3. If the new-page freeze lifts: Matt Halpern's `snares.js` signature-snare gap (verified MH1460/B, sourced 2026-10-21, not yet in the SNARES array) becomes an immediate, clean, zero-ambiguity candidate.
+4. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
+5. Drum-chair watch: this week (group 3) done. Next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

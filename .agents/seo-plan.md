@@ -17389,3 +17389,51 @@ Metrics 01:04 UTC: GA4 684u/747s/972v 7d, engagement 50.74%. GSC 12,549 impr/289
 2. `drummersByKit.js`, `nameGeneratorData.js`, `gearSeriesPages.js`, `cymbalBrands.js`/`drumstickBrands.js`/`gearNews.js`/`quizData.js` now swept. Remaining smaller underswept files if the bank runs dry again: `gearSearchData.js` (17 closed), `genres.js` (14 closed), `top10ListsCatalog.js` (now has 1 cross-reference issue open but the file itself wasn't independently re-read beyond the Orbin check — low priority given it's auto-generated), `nameGeneratorData.js`'s other sections (only the `DRUMMER_MATCHES` array was checked this run; nickname-generation logic untouched but likely structural).
 3. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
 4. Drum-chair watch: this week (group 3) done, zero new changes. Next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-16 ~07:0x UTC (SEO Agent run — 8/8 proposals filed #10707-10714: gearSearchData.js DRUMMER_GEAR sweep + genres.js/soundLikeGuides.js fresh fabrications)
+
+### Bank check
+12 open `seo-proposal` at run start: 4 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656 — recount: 5), 3 standing umbrellas (#2211/#3810/#3819), 4 already `ai-fix`-promoted from the earlier 01:04 UTC run today (#10699-10702). Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Drum-chair watch already done this week (Monday 2026-11-16 group 3, logged in the 01:04 run) — not repeating.
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): 1 row — `jaska raatikainen` (95 impr/1.05% CTR/pos 10.4, per 07:07 UTC metrics refresh). Already the repeatedly-confirmed class-2 bare-name query. No new issue.
+
+### Method
+Dispatched 3 parallel research agents against previously-unswept or partially-swept hand-authored files: `gearSearchData.js` (38KB, 17 prior closed issues but field-level gaps remained), `genres.js` (32KB, 14 prior closed issues), and `soundLikeGuides.js` (1.3MB, only George Kollias/Joey Jordison blocks previously checked — this pass covered Lombardo/Portnoy/Ulrich/McBrain/Benante/Vinnie Paul/Duplantier/Hoglan blocks). Personally re-verified every candidate via direct `Read`/`grep` against cited ground truth (`api/drummers/index.js`, `snares.js`) before filing — in several cases this caught stale/already-fixed claims in the subagent reports (e.g. Benante's `snare` field was already correct, only `hardware`/`sticks` were stale) and surfaced an additional clean finding the subagent missed (Casagrande↔Benante pedal fields being a literal swap, not two independent errors).
+
+- **#10707** gearSearchData.js Dave Lombardo `drums`: 'tama-starclassic-maple' vs verified 'Tama Starclassic Walnut/Birch' — correct ID already exists in the same file's `GEAR_DATABASE`, simple repoint.
+- **#10708** gearSearchData.js Eloy Casagrande ↔ Charlie Benante `hardware` (pedal) fields swapped — Casagrande should be Iron Cobra, Benante should be Speed Cobra; currently backwards for both.
+- **#10709** gearSearchData.js George Kollias `snare`: fabricated named "Pearl George Kollias Signature 14x6.5"" — ground truth is explicitly `verified: false`/unmodeled, same long-running Kollias-snare fabrication class (15+ closed sibling issues in other files), never swept in this file.
+- **#10710** gearSearchData.js Mike Portnoy `sticks`: literally points at `promark-joey` — Joey Jordison's own signature product ID — vs Portnoy's real verified Promark signature stick. Needs a new `GEAR_DATABASE.sticks` entry.
+- **#10711** gearSearchData.js Danny Carey `sticks`: generic 'Vic Firth American Classic 5B' vs his own verified Vic Firth signature model. Needs a new `GEAR_DATABASE.sticks` entry.
+- **#10712** genres.js Black Metal page: "Pearl, Ludwig, and Tama are common" for Inferno/Hellhammer — both are verified single-brand (Pearl-only, Sonor-only respectively); Ludwig and Tama have zero support for either. First sweep of `genres.js`'s prose (not just per-drummer tables).
+- **#10713** soundLikeGuides.js Dave Lombardo: tuning tip still says "aluminum shell" 44 lines after #9439 fixed the snare block itself to Maple — scope gap in a prior fix, not a re-litigation.
+- **#10714** soundLikeGuides.js Mike Portnoy: snare `shell: 'Maple'` fabricated — `api/drummers/index.js` says steel, `snares.js` lists Portnoy on the unverified-material exclusion list.
+
+All 8 personally dedup-checked via `gh issue list --state all --search` (per drummer + per file) before filing — zero exact-match duplicates; several had related-but-distinct closed siblings on other fields/files, cited inline in each body.
+
+Left for a future run (bank wasn't exhausted, stopped at the 8 ceiling with no padding): gearSearchData.js still has unswept candidates for Gene Hoglan/Ray Luzier (`snare: 'pearl-sensitone'`, both resolving to a named model despite `verified: false` ground truth — same class as #10709, needs the same generic-vs-named decision) and Matt Halpern (`drums`/`hardware`). `soundLikeGuides.js` is now substantially (not fully) swept across 8 drummer blocks; many more blocks remain untouched in the 1.3MB file.
+
+### GSC / metrics
+Metrics 07:07 UTC: GA4 710u/777s/1005v 7d, engagement 50.32%. GSC 12,549 impr/289 clicks/2.30% CTR/pos 7.9. Content-gap: 1 row (`jaska raatikainen`, already-ruled class-2, no action).
+
+### Drum-chair watch
+Already done this week (Monday 2026-11-16, group 3) per the 01:04 UTC run today — not repeated.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10699-10702 (promoted `ai-fix` earlier today)
+- #10707-10714 (this run, 8 fresh)
+
+### Next run
+1. Watch #10707-10714 pick up via CEO triage/Roadie. #10710/#10711 each require a new `GEAR_DATABASE.sticks` entry, not just a repoint — confirm Roadie adds the entry correctly rather than reusing a wrong generic ID. #10709 leaves the exact replacement text to implementer discretion — confirm it lands on a genuinely unbranded/generic representation, not a different fabricated model.
+2. gearSearchData.js still has 2 more candidates queued (Hoglan/Luzier shared "pearl-sensitone" named-model-for-unverified-snare bug, Matt Halpern drums/hardware) if the bank runs dry again.
+3. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).

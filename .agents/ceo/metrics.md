@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-15 19:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-16 00:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,89 +8,89 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 718 |
-| Sessions | 789 |
-| Page views | 1,022 |
-| Engagement rate | 52.34% |
-| Avg session (s) | 96 |
+| Active users | 683 |
+| Sessions | 746 |
+| Page views | 971 |
+| Engagement rate | 50.80% |
+| Avg session (s) | 86 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 30 | 17 |
+| / | 29 | 16 |
 | /bpm | 23 | 14 |
-| /drummer/eloy-casagrande | 20 | 13 |
 | /guides | 20 | 5 |
-| /drummer/mario-duplantier | 18 | 15 |
-| /drummer/bill-ward | 15 | 15 |
+| /drummer/eloy-casagrande | 18 | 12 |
+| /drummer/mario-duplantier | 15 | 13 |
 | /articles/slipknot-self-titled-drum-setup | 13 | 12 |
+| /drummers | 13 | 6 |
+| /articles/white-pony-drum-setup | 12 | 12 |
+| /drummer/bill-ward | 12 | 12 |
 | /articles/john-otto-drum-setup | 11 | 11 |
-| /drummer/igor-cavalera | 11 | 11 |
-| /drummers | 11 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 488 | 424 |
-| Direct | 289 | 285 |
-| Unassigned | 38 | 34 |
+| Organic Search | 445 | 386 |
+| Direct | 292 | 289 |
+| Unassigned | 40 | 35 |
 | Organic Social | 3 | 3 |
-| Referral | 2 | 2 |
+| Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 273 | 236 |
-| Singapore | 88 | 88 |
-| United Kingdom | 35 | 31 |
-| Germany | 33 | 30 |
-| Portugal | 30 | 29 |
-| Canada | 27 | 23 |
-| Brazil | 21 | 21 |
-| Sweden | 14 | 11 |
+| United States | 264 | 229 |
+| Singapore | 85 | 85 |
+| Germany | 31 | 28 |
+| United Kingdom | 31 | 27 |
+| Portugal | 29 | 28 |
+| Canada | 23 | 20 |
+| Brazil | 20 | 19 |
 | China | 13 | 13 |
-| Indonesia | 13 | 13 |
+| Sweden | 13 | 11 |
+| Australia | 12 | 11 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 14,854 |
-| Clicks | 348 |
-| CTR | 2.34% |
-| Avg position | 7.8 |
+| Impressions | 12,549 |
+| Clicks | 289 |
+| CTR | 2.30% |
+| Avg position | 7.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| bill ward drum kit | 36 | 2 | 5.56% | 5.5 |
-| flo mounier drum kit | 8 | 2 | 25.00% | 1.6 |
-| john otto drum set | 7 | 2 | 28.57% | 6.4 |
-| mario duplantier cymbals | 10 | 2 | 20.00% | 4.0 |
+| john otto drum set | 6 | 2 | 33.33% | 6.8 |
+| mario duplantier cymbals | 8 | 2 | 25.00% | 4.3 |
 | abe cunningham cymbal setup | 5 | 1 | 20.00% | 6.4 |
 | best china cymbals for metal | 1 | 1 | 100.00% | 4.0 |
 | best cymbals for metal | 5 | 1 | 20.00% | 9.2 |
-| bill ward drum set | 9 | 1 | 11.11% | 6.0 |
-| bill ward drumming style | 2 | 1 | 50.00% | 8.5 |
-| bill ward kit | 11 | 1 | 9.09% | 3.5 |
+| bill ward drum kit | 26 | 1 | 3.85% | 5.2 |
+| bill ward drumming style | 1 | 1 | 100.00% | 8.0 |
+| bill ward kit | 7 | 1 | 14.29% | 3.4 |
+| does tomas haake use triggers | 10 | 1 | 10.00% | 3.7 |
+| eloy casagrande drum kit slipknot | 2 | 1 | 50.00% | 1.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,977 | 129 | 2.59% | 8.1 |
-| gbr | 903 | 20 | 2.21% | 8.9 |
-| can | 668 | 19 | 2.84% | 7.6 |
-| deu | 535 | 18 | 3.36% | 7.0 |
-| nld | 251 | 11 | 4.38% | 7.0 |
-| rus | 235 | 11 | 4.68% | 7.0 |
-| fra | 297 | 10 | 3.37% | 7.9 |
-| idn | 267 | 9 | 3.37% | 6.9 |
-| bra | 1,126 | 8 | 0.71% | 9.3 |
-| ita | 170 | 7 | 4.12% | 6.6 |
+| usa | 4,203 | 111 | 2.64% | 8.1 |
+| can | 554 | 15 | 2.71% | 7.8 |
+| deu | 449 | 15 | 3.34% | 7.0 |
+| gbr | 756 | 14 | 1.85% | 9.1 |
+| rus | 189 | 9 | 4.76% | 6.8 |
+| fra | 253 | 8 | 3.16% | 7.7 |
+| idn | 234 | 8 | 3.42% | 6.7 |
+| ita | 145 | 7 | 4.83% | 6.5 |
+| bra | 970 | 6 | 0.62% | 9.2 |
+| nld | 205 | 6 | 2.93% | 7.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| jaska raatikainen | 106 | 0.94% | 10.4 | open issue to answer better |
+| jaska raatikainen | 95 | 1.05% | 10.4 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

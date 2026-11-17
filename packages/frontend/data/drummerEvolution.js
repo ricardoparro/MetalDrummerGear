@@ -2922,7 +2922,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2008-2018',
         startYear: 2008,
         endYear: 2018,
-        description: 'Post-SYL renaissance — Gene simultaneously driving Testament, Dethklok, and Devin Townsend Project on his Tama kit, capped by his first signature snare, cementing his legacy as extreme metal\'s most in-demand drummer.',
+        description: 'Post-SYL renaissance — Gene simultaneously driving Testament, Dethklok, and Devin Townsend Project on his Tama kit, cementing his legacy as extreme metal\'s most in-demand drummer.',
         albums: ['The Formation of Damnation (2008)', 'Dark Roots of Earth (2012)', 'Brotherhood of the Snake (2016)', 'Epicloud (2012)'],
         tours: ['Testament World Tours', 'Dethklok/Metalocalypse Tour', 'Devin Townsend Project Tours'],
         image: null,
@@ -2935,10 +2935,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           snare: {
-            item: 'Tama Gene Hoglan Signature Snare 14"x8"',
-            details: 'Exceptionally deep 14"x8" signature model',
-            notes: 'First signature snare (2008) — built for thunderous power during his Testament and Dethklok era',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Pearl (specific model not independently verified)',
+            details: 'No independently verified snare model for this era',
+            notes: 'Pearl endorsement confirmed; the specific snare model is not documented by any cited source.',
+            change: null,
           },
           cymbals: {
             item: 'Sabian AAX Series',
@@ -2975,7 +2975,6 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Joined Testament (2007) — career milestone',
           'Dethklok/Metalocalypse drum recordings (2006-2013)',
-          'Tama Gene Hoglan Signature Snare launched (2008)',
           'Sabian AAX series adoption',
         ],
 

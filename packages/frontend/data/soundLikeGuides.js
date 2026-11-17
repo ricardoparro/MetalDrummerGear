@@ -4915,13 +4915,13 @@ This guide covers Nicko's core gallop technique, his British Drum Co. current se
     readingTime: '10 min',
     intro: {
       title: "The Tribal Pioneer Who Expanded Metal's Rhythmic Vocabulary",
-      content: `Igor Cavalera (born 1970) co-founded Sepultura with his brother Max in Brazil in 1984 and went on to record some of the most influential albums in extreme metal history. What distinguishes Igor from his Big Four thrash contemporaries is his evolution: while other thrash drummers refined their speed and precision, Igor began incorporating Brazilian and indigenous tribal rhythmic elements into metal — most completely on Roots (1996), where he recorded with Brazilian Xavante tribe musicians and fundamentally expanded what metal drumming could be.
+      content: `Igor Cavalera (born 1970) co-founded Sepultura with his brother Max in Brazil in 1984 and went on to record some of the most influential albums in extreme metal history. What distinguishes Igor from his Big Four thrash contemporaries is his evolution: while other thrash drummers refined their speed and precision, Igor began incorporating Brazilian and indigenous tribal rhythmic elements into metal — most completely on Roots (1996), where he recorded with Brazilian Xavante tribe musicians and fundamentally expanded what metal drumming could be. He remained Sepultura's drummer for a decade after Roots, recording four more studio albums (Against, Nation, Roorback, Dante XXI) before departing in 2006.
 
 The result was a style that felt simultaneously ancient and aggressive. On "Roots Bloody Roots", the mid-tempo tribal stomp is heavier than any blast beat because of its inevitability — it hits like a wall moving toward you rather than a blur of speed. On "Refuse/Resist" and "Territory" from Chaos A.D. (1993), he bridged pure thrash aggression with groove and tribal elements in a way that no one had done before.
 
 This guide covers Igor's core technique across both the thrash period (Beneath the Remains, Arise) and the tribal groove era (Chaos A.D., Roots), his Tama gear setup, and how to practice both dimensions of his approach.`,
       keyPoints: [
-        "Igor co-founded Sepultura in 1984 and played on every album through Roots (1996)",
+        "Igor co-founded Sepultura in 1984 and played on every Sepultura album from Morbid Visions (1986) through Dante XXI (2006)",
         "His incorporation of Brazilian tribal rhythms on Chaos A.D. and Roots permanently expanded metal's rhythmic vocabulary",
         "The Roots Bloody Roots tribal stomp is studied as a masterclass in groove and power over pure speed",
         "He combines thrash blast-beat capability with deeply felt mid-tempo groove — few metal drummers do both convincingly"

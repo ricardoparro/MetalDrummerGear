@@ -1646,7 +1646,7 @@ export const ENDORSEMENT_TIMELINE = {
       cymbals: { brand: 'Paiste', model: '2002 & Signature Series', since: '1980s' },
       sticks: { brand: 'Vic Firth', model: 'Nicko McBrain Signature SNM', since: '2000s' },
       heads: { brand: 'Remo', since: '1984' },
-      hardware: { brand: 'unconfirmed', model: 'Single Pedal (not double bass)', since: '1984' },
+      hardware: { brand: 'DW', model: '5000 Series Single Pedal', since: '1984' },
     },
     timeline: [
       {

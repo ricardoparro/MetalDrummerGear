@@ -2435,7 +2435,7 @@ const drummers = [
       drums: 'British Drum Co.',
       snare: 'Sonor Nicko McBrain Signature 14x6.5"',
       cymbals: 'Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)',
-      hardware: 'Sonor 600 Series Hardware, Single Bass Drum Pedal',
+      hardware: 'DW 5000 Series Single Pedal',
       sticks: 'Vic Firth Nicko McBrain Signature',
       heads: 'Remo Emperor',
       verified: true,

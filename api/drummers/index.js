@@ -1728,9 +1728,9 @@ const drummers = [
   {
     id: 26,
     name: 'Shannon Larkin',
-    band: 'Godsmack / Ugly Kid Joe / Wrathchild America',
+    band: 'ex-Godsmack / Ugly Kid Joe / Wrathchild America',
     bands: [
-      { name: 'Godsmack', period: '2002–present', current: true },
+      { name: 'Godsmack', period: '2002–2024', current: false },
       { name: 'Ugly Kid Joe', period: '1991–1997', current: false },
       { name: 'Wrathchild America', period: '1989–1991', current: false }
     ],

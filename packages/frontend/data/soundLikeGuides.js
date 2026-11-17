@@ -8318,8 +8318,8 @@ This guide covers Larkin's groove-focused technique, his physical approach to ha
     },
     faq: [
       {
-        question: "What drum kit does Shannon Larkin play?",
-        answer: "Shannon Larkin plays Ddrum Dios Series drums as his primary kit with Godsmack. Ddrum's Dios line features basswood/poplar shells with a punchy, dry attack suited to hard rock arena environments. His configuration runs double 22\" bass drums and four toms (10\", 12\", 14\", 16\"). Larkin has been a Ddrum endorser for much of his tenure with Godsmack since 2002."
+        question: "What drum kit did Shannon Larkin play?",
+        answer: "Shannon Larkin played Ddrum Dios Series drums as his primary kit during his 2002-2024 tenure with Godsmack. Ddrum's Dios line features basswood/poplar shells with a punchy, dry attack suited to hard rock arena environments. His configuration ran double 22\" bass drums and four toms (10\", 12\", 14\", 16\"). Larkin was a Ddrum endorser for most of his 22 years with Godsmack."
       },
       {
         question: "What cymbals does Shannon Larkin use?",

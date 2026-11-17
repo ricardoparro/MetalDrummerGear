@@ -17537,3 +17537,57 @@ Not due this run (last done Monday 2026-11-16, group 3, zero changes found). Nex
 3. Dropped (not filed, needs no action unless someone reconciles `snares.js`'s stale exclusion-list comment against root `verified` flags): Danny Carey's signature snare is actually correctly verified-and-sourced at the root — `snares.js`'s header comment is the stale artifact, not the fact. Mike Portnoy's signature snare claim is baked into 10+ files including the root record itself — a foundational verification question, not a simple relapse; needs someone to check Tama's own artist page before any fix is attempted.
 4. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
 5. Drum-chair watch: next due Monday 2026-11-23, group 0.
+
+
+---
+
+## 2026-11-17 ~mid-day UTC (SEO Agent run — 8/8 proposals filed #10763-10770: top10ListsCatalog/beginnerGuides/endorsementNews/drummerEvolution fabrication sweep + McBrain root-field correction)
+
+### Bank check
+15 open `seo-proposal` at run start: 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819), 7 already `ai-fix`-promoted from the earlier 01:1x run today (#10742-10748; #10749 was closed, not promoted). Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Tuesday 2026-11-17 — drum-chair watch not due (last done Monday 2026-11-16, group 3; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): 2 rows this run — `raymond herrera` (166 impr/1.20% CTR/pos 11.2) and `jaska raatikainen` (88 impr/1.14% CTR/pos 10.5). Both already named, repeatedly-confirmed class-2 bare-name queries per `learned-patterns.md` (lines 254/258/262/276) — structurally losing the SERP to Wikipedia/ModernDrummer, not a code/copy fixable gap. No new issue.
+
+### Method
+Dispatched 4 parallel research agents against files with zero or minimal prior `seo-proposal` sweep history (checked via `gh issue list --search "<filename>"` hit counts first — `quizData.js`/`genreGearGuides-summary.js` had 0 ever, `top10ListsCatalog.js`/`nameGeneratorData.js`/`gearSeriesPages.js`/`beginnerGuides.js` had 4-10 vs. 30+ for heavily-swept files like `gearComparisons.js`/`drummerEvolution.js`/`cymbalSetups.js`): (1) quizData.js + genreGearGuides-summary.js — both came back structurally clean (pure UI-copy/routing-index files, no fact-bearing content); (2) top10ListsCatalog.js + nameGeneratorData.js + gearSeriesPages.js — 1 finding (Benante); (3) beginnerGuides.js — 2 findings (Adler/Kollias triggers); (4) endorsementNews.js (flagged by agent 1 as never dedicated-audited despite being cited everywhere as a source) — 6 findings, personally narrowed to the 4 highest-confidence. A 5th targeted sweep of genreGearGuides.js/drummerEvolution.js (explicitly steered away from the ~15 already-exhausted drummers) surfaced 4 more, personally narrowed to 1 (Augusto).
+
+Personally re-verified every candidate via direct `grep`/`sed`/`Read` against cited ground truth before filing — caught one case where a candidate's framing was backwards:
+- **Nicko McBrain hardware (filed as #10768):** the subagent initially framed this as "endorsementNews.js's 1984 DW claim contradicts root's verified Sonor hardware." Before filing, traced 4 already-closed issues (#7415/#7769/#7770/#10595) that independently established DW as the verified pedal brand and shipped fixes to `top10Lists.js`/`genreGearGuides.js` away from Sonor/Tama/Ludwig claims toward DW — meaning root's `hardware: 'Sonor 600 Series Hardware...'` field is itself the stale leftover, never updated during the 2019 Sonor→British Drum Co. kit-brand migration (#5461/#5467, confirmed via `git log -p`). Re-framed the issue around the real bug: `endorsementNews.js`'s own summary field says "unconfirmed" while its own timeline says "DW... kept exclusively," AND root's hardware field still says unsourced "Sonor," inconsistent with 4 already-shipped downstream fixes. Filing the original (backwards) framing would have asked Roadie to revert 4 correct fixes — the lesson from this run: when a "ground truth contradicts a derived file" finding surfaces, check whether OTHER already-closed issues already litigated which side is actually correct before trusting the first file read.
+
+Filed all 8 of the ceiling, all personally verified:
+- **#10763** `snares.js`/`top10ListsCatalog.js` — Charlie Benante's signature snare still excluded as "unverified" in both files; root has carried `verified: true` + 2 sourced URLs since 2026-08-08 (#5395), predating the #10597 fix (2026-11-13) that authored the current exclusion wording. #10597 trusted `snares.js`'s stale header comment instead of cross-checking root directly.
+- **#10764** `beginnerGuides.js` Chris Adler — "uses triggers" hardware claim (line 802) unsupported by either of his two verified/sourced ground-truth files; neither mentions triggers anywhere.
+- **#10765** `beginnerGuides.js` George Kollias — "...triggers" trailing clause (line 3057) survived closed #7073's brand-name fix untouched; root `gear.verified: false` with an explicit snare-model hedge, no trigger mention anywhere.
+- **#10766** `endorsementNews.js` Gene Hoglan — fabricated 2008 "Tama Gene Hoglan Signature Snare 14x8\"" timeline entry; #7928 already fixed this exact fabricated product name in a different file, never touched the dated timeline entry other pages cite as source.
+- **#10767** `endorsementNews.js` Matt Greiner — fabricated 2017 "Pearl released a Matt Greiner signature snare" timeline entry, chronologically backwards against his verified 2016 switch to Mapex (5 other closed issues already fixed this fact in other files; this file's own timeline was never swept).
+- **#10768** Nicko McBrain — see Method section above; files both `endorsementNews.js`'s self-contradiction and the stale root `hardware` field in one issue.
+- **#10769** `endorsementNews.js` Mikkey Dee — 1987 Paiste note says "carried from his early Motörhead years" but he was in King Diamond until 1989; Motörhead didn't start until 1992. Pure chronology bug, no brand-direction ambiguity.
+- **#10770** `drummerEvolution.js` Nick Augusto — "Pearl Reference 14x6.5\" Brass" snare stated as fact in 3 locations; #10398 (root record) and #10443 (soundLikeGuides.js) already fixed this exact fabrication for this exact drummer in other files, never swept here.
+
+All 8 personally dedup-checked via `gh issue list --state all --search` (per drummer/file) before filing — the Benante, McBrain, and Augusto searches surfaced extensive related-but-distinct closed history (cited inline in each issue body) confirming no exact-match duplicate exists for any of the 8 specific claims being corrected.
+
+Left for a future run (bank wasn't exhausted, stopped at the 8 ceiling): endorsementNews.js sweep surfaced 2 more candidates not filed this round — Martin Axenrot (2006 DW hardware signing, root marks hardware 'Unverified') and Igor Cavalera (ddrum/Zildjian switch dated 2006 tied to Cavalera Conspiracy, but band formed 2007/Inflikted released 2008 per bands.js). drummerEvolution.js sweep surfaced 3 more: Jocke Wallgren (residual fabricated snare size self-contradicting its own `notes` field, narrower remainder of closed #8999), George Kollias (a second, distinct "Pearl Free-Floating Steel 14x6.5\"" snare fabrication in the *current-era* block — different text from the beginnerGuides.js "triggers" issue filed this run), and Gene Hoglan (the same "Tama Gene Hoglan Signature Snare" fabrication filed this run for endorsementNews.js also appears separately in drummerEvolution.js at different line numbers — same fact, different file, needs its own atomic issue).
+
+### GSC / metrics
+Metrics 07:02 UTC: GA4 748u/817s/1042v 7d, engagement 48.35%. GSC 14,920 impr/326 clicks/2.18% CTR/pos 7.9. Content-gap: 2 rows (`raymond herrera`, `jaska raatikainen`, both already-ruled class-2, no action).
+
+### Drum-chair watch
+Not due this run (last done Monday 2026-11-16, group 3, zero changes found). Next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10742-10748 (promoted `ai-fix`, earlier run today)
+- #10763-10770 (this run, 8 fresh)
+
+### Next run
+1. Watch #10763-10770 pick up via CEO triage/Roadie. #10763 (Benante) step 5 explicitly flags a possible new-page-freeze conflict (the `isSignature:true` SNARES-array addition would generate an 11th `/snares/signature/<drummer>` page) — confirm Roadie/CEO catch this and either hold that sub-part or confirm freeze-compliance before implementing; the `top10ListsCatalog.js` text fix is freeze-safe regardless. #10768 (McBrain) is a re-framed finding — confirm the implementer doesn't accidentally "fix" it back toward Sonor by re-trusting root's old value instead of the issue's cited 4-fix precedent.
+2. Queued candidates if the bank runs dry again: endorsementNews.js Martin Axenrot (DW hardware 2006) + Igor Cavalera (ddrum/Zildjian date vs. Cavalera Conspiracy formation); drummerEvolution.js Jocke Wallgren (residual snare-size self-contradiction), George Kollias (second, distinct current-era snare fabrication), Gene Hoglan (same Tama-signature-snare fact, different file/lines than #10766).
+3. GSC content-gap: 2 rows this week (`raymond herrera`, `jaska raatikainen`, both already-ruled, no action).
+4. Drum-chair watch: next due Monday 2026-11-23, group 0.

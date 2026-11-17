@@ -1884,14 +1884,6 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Switched to Sabian\'s AAX Series for the technical precision demanded by Death\'s "Individual Thought Patterns" and "Symbolic"',
       },
       {
-        year: 2008,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
-        category: ENDORSEMENT_CATEGORIES.DRUMS,
-        brand: 'Tama',
-        product: 'Gene Hoglan Signature Snare 14x8"',
-        notes: 'First signature snare drum, an exceptionally deep 14x8" model built for thunderous power during his Testament and Dethklok era',
-      },
-      {
         year: 2018,
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,

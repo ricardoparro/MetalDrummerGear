@@ -57,7 +57,7 @@ const drummers = [
     genre: 'Thrash Metal',
     image: '/images/drummers/dave-lombardo.webp',
     gear: {
-      drums: 'Tama Starclassic Maple',
+      drums: 'Tama Starclassic Walnut/Birch',
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
       cymbals: 'Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)',
       hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',

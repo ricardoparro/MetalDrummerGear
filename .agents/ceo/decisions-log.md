@@ -996,3 +996,33 @@ Daily deep run (first after 07:00 UTC). Metrics 12:15 UTC (722u/790s/1,022v 7d; 
 
 ---
 
+
+## 2026-11-17 06:12 (cheap pulse — 7/8 proposals verified+promoted #10742-10748, 1 rejected #10749)
+
+### Context (≤3 lines)
+Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos 7.9, 2 content-gap rows: `raymond herrera`, `jaska raatikainen`, both already-ruled class-2). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#10742-10749, filed 01:12-01:14 UTC) — 1 soundLikeGuides.js drummerId↔drummerName batch mismatch (28/72 entries), 3 soundLikeGuides.js fabrication/hedge fixes, 2 api/drummers/index.js root-record fixes, 1 Igor Cavalera tenure-undercount, 1 gearPriceHistory.js Vinnie Paul brand claim.
+
+### Actions taken
+- Live-verified #10742 by extracting the full `id→name` map from `api/drummers/index.js` and spot-checking 24 of the 28 claimed mismatches — all 24 confirmed exact. Confirmed no dupe (searched issue history for "soundLikeGuides drummerId"). Promoted.
+- Live-verified #10743 (Haake snare 14x6"/Steel vs verified 14x6.5"/Bronze in `snares.js:89-98`, confirmed at `soundLikeGuides.js:1379/1390-1391`), #10744 (Menza snare `shell: 'Maple'` at `soundLikeGuides.js:4471` vs `snares.js:669` `shellMaterial: null` deliberately unverified), #10745 (Hoglan `shells: 'Maple/Birch Hybrid'` at `soundLikeGuides.js:1625` vs root kitOverview's verified "maple/mahogany hybrid"), #10746 (Mario Duplantier root kitOverview self-contradicts "forgoing the double pedal" then "double pedal... completes the rig" 2 sentences later, `gear.hardware` compounds it — confirmed `soundLikeGuides.js`'s own pedals block, already fixed by #9433, is untouched/correct), #10747 (Shannon Larkin root record still `{Godsmack, 2002–present, current: true}` vs `bands.js`'s verified `2002-2024`/retired-2024 FAQ, and vs Mike Mangini's own already-correct `2026–present` record for the same chair) — all exact, all promoted.
+- Live-verified #10748 (Igor Cavalera `soundLikeGuides.js` intro/keyPoints frame Roots 1996 as tenure-ending; `bands.js` Sepultura discography confirms 1984-2006 tenure through 4 more albums incl. Dante XXI 2006) — exact, promoted.
+- **#10749 (Vinnie Paul 1990 Tama snare "fabrication") — REJECTED, not promoted.** The proposal's premise doesn't hold: `endorsementNews.js`'s `vinnie-paul` timeline explicitly documents 1990 SIGNED-Tama → 1996 SWITCHED-Pearl → 2008 SIGNED-ddrum, sourced "Played Tama drums during Pantera's major-label breakthrough on Cowboys from Hell." `gearPriceHistory.js`'s entry is explicitly era-scoped (`iconicYear: 1990, era: 'Cowboys from Hell Era'`) and its own summary narrates the identical Tama→Pearl→ddrum arc — it agrees with the project's authoritative endorsement-timeline source, it doesn't contradict it. This is NOT the same bug class as closed #10531 (which was an un-era-scoped blanket "Tama" claim in `genreGearGuides.js` contradicting the root ddrum framing — a real fabrication). Applying #10531's ddrum-replacement remedy here would introduce a real anachronism (ddrum's deal started 2008, 18 years after Cowboys from Hell). Closed with full reasoning in the issue comment; did not re-file a narrower version speculatively.
+- **GSC content-gap** (2 rows: `raymond herrera` 166impr/1.20%CTR/pos11.2, `jaska raatikainen` 88impr/1.14%CTR/pos10.5) — both long-established class-2 bare-name queries (`learned-patterns.md:219/254+`), re-confirmed, held, no new issue.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 now exactly 14 days unanswered (0 comments) — no new trigger. #5141/#5100/#4892/#875/#529/#526/#525 — `updatedAt` unchanged, no re-spam. Held proposals #7981/#10099/#10032/#10655/#10656 — `updatedAt` unchanged, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-11-16 (gsc-watch 08:26, llm-citations 07:50, indexation 09:30); weekly refresh due ~2026-11-23 — not due this run, already closed the loop on the 11-16 refresh in that day's 12:15 deep run.
+- **Starvation check**: post-triage backlog 0→7 (<15), bank 8→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month; not genuine starvation, not escalated.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 7 just-promoted (fresh, <1hr old). No sweep needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 7 (#10742-10748 promoted)
+- seo-proposal bank (untriaged fresh, excl. held/umbrella): 8 fresh → 0 (7 promoted, 1 rejected)
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, 7 promoted + 1 rejected with reasoning. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 2 rows, both already-ruled class-2, no new issue. ✅ L1/L2/L3: not due until ~11-23. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10742-10748 pick up via Roadie; #10742 (28-entry batch) and #10746 (root-record + propagation sweep) are the highest atomicity-risk — watch they don't stall >3 days without a PR.
+2. First run after 07:00 UTC is the daily deep run — full metrics/GSC-gap/L1/L2/L3 pass (L1/L2/L3 not due, last refresh 11-16).
+3. #10174 now 14 days old, still no concrete trigger to escalate on. #7981/#10099/#10032/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---

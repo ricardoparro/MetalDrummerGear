@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-17 00:19 UTC*
 
 ---
+## 2026-11-17 18:09 (mid-day pulse — 5/5 proposals verified+promoted #10774-10778)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 18:09 UTC (770u/838s/1,080v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos 7.9, 2 content-gap rows: `raymond herrera`/`jaska raatikainen`, both already-ruled class-2). At run start: the 12:10 deep-run batch (#10763-10770) had already fully drained — eligible `ai-fix` backlog **0**, 0 open PRs (confirmed via `git log`: commits for #10766/#10767/#10768/#10769/#10770 all merged). 5 fresh untriaged `seo-proposal` (#10774-10778, filed 13:08-13:09 UTC) — drummerEvolution.js snare fabrications (3) + 1 endorsementNews.js/pedals.js hardware-hedge violation + 1 endorsementNews.js date error.
+
+### Actions taken
+- **Live-verified all 5 directly** against root ground truth (`api/drummers/index.js`, `bands.js`), zero dupes (`gh issue list --search` per topic, all prior hits CLOSED or the issue's own self-flagged #7466 exception):
+  - #10774 Gene Hoglan: confirmed `drummerEvolution.js:2938/2978` fabricated "Tama Gene Hoglan Signature Snare 14x8\"" vs root `gear.snare` unverified-Pearl hedge. Confirmed, promoted.
+  - #10775 George Kollias: confirmed fabricated "Pearl Free-Floating Steel 14\"×6.5\"" snare spec vs root unverified hedge — **but found 3 locations within the george-kollias block (lines 5441/5512/5589), not the 2 the issue cites**; commented the correction so Roadie fixes all 3. Also checked the same exact string's other file-wide hits (dave-lombardo/paul-mazurkiewicz blocks) — Mazurkiewicz's is root-verified correct, Lombardo's sits in a historical-era sub-block not necessarily contradicting his current-era root record; neither is in scope for this issue, left untouched.
+  - #10776 Jocke Wallgren: confirmed `drummerEvolution.js` snare.item fields (~20523/20589) self-contradict their own notes field's unverified hedge, residual of closed #8999. Confirmed, promoted.
+  - #10777 Martin Axenrot: confirmed root `gear.hardware: 'Unverified'` + kitOverview hedge vs `endorsementNews.js` currentEndorsements/timeline asserting DW hardware as fact, propagated into `pedals.js`'s `dw-martin-axenrot` entry via a prior fix (#7351) that conflated the record's overall verified:true with the hardware field specifically. Confirmed, promoted.
+  - #10778 Igor Cavalera: confirmed `endorsementNews.js` dates 3 Cavalera Conspiracy gear switches to 2006 vs `bands.js` verified formed:2007/Inflikted:2008; sibling files (drummerEvolution.js, extendedBios.js) already date correctly, confirming endorsementNews.js as the outlier. Also respected the issue's note not to touch open #7466 (which repeats the same wrong premise) in this fix. Confirmed, promoted.
+  - All 5 promoted to `ai-fix` with verification comments. All existing-page data-rot/fabrication/self-contradiction fixes, freeze-compliant.
+- **GSC content-gap**: 2 rows, both already-ruled class-2 bare-name queries, held, no new issue. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 now 14 days unanswered (0 comments), no new trigger. #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam. Held proposals #7981/#10099/#10032/#10655/#10656 (`human` label) — unchanged, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-11-16, full close-the-loop pass already done in the 12:15 (11-16) and 12:10 (11-17) deep runs; next weekly refresh due ~2026-11-23 — not due this run.
+- **Starvation check**: post-triage backlog 0→5, bank 5→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month; not genuine starvation.
+- **Roadie progress check** (per mid-day pulse routine): 12:10 batch (#10763-10770) confirmed fully merged (8 commits, `git log` verified) within the same pulse window — fleet draining same-day as usual, nothing to unblock.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 5 (#10774-10778 promoted)
+- seo-proposal bank (untriaged fresh, excl. held/umbrella): 5 → 0
+
+### Quota check
+✅ SEO proposals: 5/5 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 2 rows, already-ruled class-2, no new issue. ✅ L1/L2/L3: not due until ~11-23. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible (all open ai-fix issues fresh, <1hr old). ✅ Decisions logged.
+
+### Next Run
+1. Watch #10774-10778 pick up via Roadie; #10775 (George Kollias, now 3 locations not 2 per my comment) is the highest atomicity-risk — watch it doesn't stall >3 days without a PR.
+2. L1/L2/L3 weekly refresh due ~2026-11-23 — run the full close-the-loop pass once new snapshots land.
+3. First run after 19:00 UTC is the evening review. #10174 now 14 days old, still no concrete trigger to escalate on. #7981/#10099/#10032/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
 ## 2026-11-17 12:10 (deep run — 8/8 proposals verified+promoted #10763-10770; L1/L2/L3 not due this run)
 
 ### Context (≤3 lines)

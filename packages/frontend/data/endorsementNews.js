@@ -2206,7 +2206,7 @@ export const ENDORSEMENT_TIMELINE = {
       cymbals: { brand: 'Zildjian', model: 'A Custom / K Custom hybrid', since: '2022' },
       sticks: { brand: 'Pro-Mark', since: '1997' },
       heads: { brand: 'Remo', model: 'Powerstroke P3 / Pinstripe / Ambassador', since: '1997' },
-      hardware: { brand: 'Tama', model: 'Iron Cobra 900 Rolling Glide', since: '1997' },
+      hardware: { brand: 'Tama', model: 'Iron Cobra Power Glide Twin Pedal (HP900PTW)', since: '1997' },
     },
     timeline: [
       {

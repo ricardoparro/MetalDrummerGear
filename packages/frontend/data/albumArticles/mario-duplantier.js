@@ -900,15 +900,15 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Mario Duplantier use on From Mars to Sirius?",
-        "answer": "Mario Duplantier recorded Gojira's From Mars to Sirius in 2005 on a Tama Starclassic Performer kit. The setup featured dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms, all built with birch and bubinga hybrid shells. This shell combination gave the kit a punchy, controlled low end that complemented Gojira's groove-heavy, rhythmically precise approach to technical death metal."
+        "answer": "No endorsed drum kit is documented for Mario Duplantier on Gojira's From Mars to Sirius (2005) — his first-ever drum brand signing, with Tama, didn't happen until 2010, five years after this album was recorded. The specific kit used during these sessions is unconfirmed. Period photographs suggest a dual 22\" x 18\" bass drum configuration with two rack toms (10\" and 12\") and two floor toms (14\" and 16\"), the same footprint Mario carried into his later, confirmed Tama years, but the brand and shell material of the 2005 kit itself are not documented with confidence."
       },
       {
         "question": "What cymbals did Mario Duplantier use on From Mars to Sirius?",
-        "answer": "Mario Duplantier used Zildjian K Custom and K series cymbals on From Mars to Sirius. His setup included K Custom 14 inch Dark hi-hats, K Custom crashes ranging from 17 to 20 inches, a K Custom 22 inch Dark Ride, and an A Custom 18 inch China. The K Custom Dark series is known for its warm, dry, and complex tonal character, which suits the atmospheric and groove-driven dynamics that define Gojira's sound on this landmark album."
+        "answer": "No documented cymbal endorsement existed for Mario Duplantier on From Mars to Sirius (2005) either — his Zildjian relationship, like his Tama drum deal, dates to the 2010s, beginning with The Way of All Flesh touring cycle. The specific cymbals Mario played during the swimming pool sessions are unconfirmed."
       },
       {
         "question": "How much did Mario Duplantier's From Mars to Sirius drum kit cost?",
-        "answer": "At the time of recording in 2005, the Tama Starclassic Performer kit was estimated at $3,000 to $4,500, with the Tama S.L.P. G-Maple snare adding $300 to $400. The Zildjian K Custom cymbal setup would have run approximately $1,500 to $2,500. Today, used Starclassic Performer kits from that era can be found for $1,500 to $2,500 on the vintage market, making this a more accessible setup to replicate."
+        "answer": "Because no endorsed Tama or Zildjian gear is documented for the 2005 sessions, a precise cost can't be attached to the actual kit and cymbals Mario played on From Mars to Sirius. Based on period photographs, a mid-tier working-drummer kit of that era — the configuration reconstructed in the drum kit breakdown above — would have run roughly $1,200 to $2,000. The confirmed Tama Starclassic Bubinga and Zildjian K Custom / A Custom / Z Custom rig Mario uses today, which he only adopted after signing with Tama in 2010, costs considerably more to replicate — in the $11,000 to $17,000 range."
       }
     ],
     "conclusion": {

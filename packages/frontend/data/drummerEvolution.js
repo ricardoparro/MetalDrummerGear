@@ -5438,10 +5438,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Free-floating shell for maximum resonance',
-            notes: 'Explosive snare attack essential for Kollias\'s ultra-fast snare work between blast beat patterns.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Pearl (specific model not independently verified)',
+            details: 'No independently verified snare model',
+            notes: 'Pearl endorsement confirmed; the specific snare model is not documented by any cited source.',
+            change: null,
           },
           cymbals: {
             item: 'Zildjian A Custom Series',
@@ -5509,9 +5509,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Continued Free-Floating steel preference',
-            notes: 'Consistent snare approach across multiple album cycles.',
+            item: 'Pearl (specific model not independently verified)',
+            details: 'No independently verified snare model',
+            notes: 'Pearl endorsement confirmed; the specific snare model is not documented by any cited source.',
             change: null,
           },
           cymbals: {
@@ -5586,9 +5586,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Current snare — consistent across multiple album cycles',
-            notes: 'Free-Floating design maximizes resonance and attack from the thin steel shell.',
+            item: 'Pearl (specific model not independently verified)',
+            details: 'No independently verified snare model',
+            notes: 'Pearl endorsement confirmed; the specific snare model is not documented by any cited source.',
             change: null,
           },
           cymbals: {

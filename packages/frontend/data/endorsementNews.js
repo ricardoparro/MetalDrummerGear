@@ -1314,14 +1314,6 @@ export const ENDORSEMENT_TIMELINE = {
         product: 'Matt Greiner Signature Drumsticks',
         notes: 'Received a Vic Firth signature stick model with a custom taper and bead',
       },
-      {
-        year: 2017,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
-        category: ENDORSEMENT_CATEGORIES.DRUMS,
-        brand: 'Pearl',
-        product: 'Matt Greiner Signature Snare',
-        notes: 'Pearl released a Matt Greiner signature snare drum, part of the Reference Pure era setup',
-      },
     ],
   },
   'mikkey-dee': {

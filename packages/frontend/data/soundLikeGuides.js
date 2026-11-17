@@ -1622,7 +1622,7 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
       drumKit: {
         brand: 'Pearl',
         model: 'Pearl Reference Pure',
-        shells: 'Maple/Birch Hybrid',
+        shells: 'Maple/Mahogany Hybrid',
         finish: 'Various custom',
         config: {
           kick: '24" x 16" Bass Drums (x2)',

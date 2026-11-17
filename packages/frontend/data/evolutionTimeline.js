@@ -426,9 +426,8 @@ export const EVOLUTION_TIMELINE = [
     relatedDrummers: [],
   },
   {
-    id: 'timeline-1991-gene-hoglan-death',
-    year: 1992,
-    month: 12,
+    id: 'timeline-1993-gene-hoglan-individual-thought-patterns',
+    year: 1993,
     decade: '1990s',
     title: 'Gene Hoglan Joins Death for Individual Thought Patterns',
     description: 'Gene Hoglan\'s drumming on Death\'s "Individual Thought Patterns" elevates death metal to progressive heights with technical precision.',

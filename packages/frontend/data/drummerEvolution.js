@@ -20520,7 +20520,7 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'Pearl Reference Pure 14x6.5"',
+            item: 'Pearl (specific model not independently verified)',
             details: 'Matching shell from the Pearl Reference Pure kit',
             notes: 'No separate snare model independently verified.',
             change: CHANGE_TYPES.NEW,
@@ -20586,7 +20586,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           snare: {
-            item: 'Pearl Reference Pure 14x6.5"',
+            item: 'Pearl (specific model not independently verified)',
             details: 'Unchanged',
             notes: 'No change from the previous era.',
             change: null,

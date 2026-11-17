@@ -3054,7 +3054,7 @@ The strategy at this tier is to buy each piece at near-pro quality: a maple/birc
             id: 'george-kollias',
             name: 'George Kollias',
             band: 'Nile',
-            signatureGear: 'Pearl Masterworks, Demon XR pedals, triggers',
+            signatureGear: 'Pearl Masterworks, Demon XR pedals',
             whyStudy: 'Where the $2000 double-bass build leads at the extreme end',
             link: '/drummer/george-kollias'
           },

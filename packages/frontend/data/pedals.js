@@ -145,10 +145,10 @@ export const PEDALS = [
   {
     id: 'tama-iron-cobra-900-power-glide-mario-duplantier',
     drummerSlug: 'mario-duplantier',
-    summary: 'Tama Iron Cobra 900 Power Glide Double Pedal',
+    summary: 'Tama Iron Cobra 900 Power Glide Single Pedal (x2)',
     brand: 'Tama',
     model: 'Iron Cobra 900 Power Glide',
-    configuration: 'double',
+    configuration: 'single',
     driveType: 'chain',
     source: 'roster gear.hardware (verified: true; sources on the drummer record)',
     retailerUrls: {},

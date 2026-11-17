@@ -244,7 +244,7 @@ const drummers = [
     genre: 'Groove Metal',
     image: '/images/drummers/chris-adler.webp',
     gear: {
-      drums: 'Mapex Black Panther Design Lab',
+      drums: 'Mapex Saturn in Satin Black Maple Burl',
       snare: 'Mapex Chris Adler Signature 14x5.5" Walnut/Maple',
       cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)',
       hardware: 'Trick Pro V Double Pedal',

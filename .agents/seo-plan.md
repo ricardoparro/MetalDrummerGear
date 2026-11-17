@@ -17484,3 +17484,56 @@ Already done this week (Monday 2026-11-16, group 3) per the 01:04 UTC run today 
 3. If the new-page freeze lifts: Matt Halpern's `snares.js` signature-snare gap (verified MH1460/B, sourced 2026-10-21, not yet in the SNARES array) becomes an immediate, clean, zero-ambiguity candidate.
 4. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
 5. Drum-chair watch: this week (group 3) done. Next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-17 ~UTC (SEO Agent run — 8/8 proposals filed #10742-10749: soundLikeGuides.js drummerId integrity bug + fresh fabrication/regression sweep)
+
+### Bank check
+16 open `seo-proposal` at run start (5 human-held source-conflicts #7981/#10032/#10099/#10655/#10656, 3 standing umbrellas #2211/#3810/#3819, 8 already `ai-fix`-promoted #10734-10741 per the 00:19 CEO pulse). Well under the 45 floor → cleared to file up to 8 net-new. Today is Tuesday 2026-11-17 — drum-chair watch not due (last done Monday 2026-11-16, group 3; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- `/llms/*.md` endpoints: stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%): 1 row — `jaska raatikainen` (81 impr/1.23% CTR/pos 10.4). Already the repeatedly-confirmed class-2 bare-name query (checked `learned-patterns.md` + CEO log precedent through 11-17 00:19 run). No new issue.
+
+### Method
+Dispatched 3 parallel research agents against previously-unswept or partially-swept hand-authored surfaces: `gearSearchData.js`'s `BRAND_SEO_DATA`/`QUICK_TAGS`/`TOP_BRAND_SLUGS` sections (came back clean — the one real landmine near there, unverified signature-snare models, is already correctly reflected via the `pearl-unverified-*` placeholders), `soundLikeGuides.js`'s remaining ~20 not-yet-swept drummer blocks, and `extendedBios.js`/`gearPriceHistory.js` (5 drummers).
+
+Personally re-verified every candidate via direct `grep`/`sed`/`node` against cited ground truth before filing — this caught **2 false positives from the subagents** that would have been wrong fixes:
+- **Danny Carey's "fabricated signature snare"** (extendedBios.js) — subagent flagged this against `snares.js`'s header comment listing him as "unverified and excluded," but his root `api/drummers/index.js` record actually has `verified: true`, `verifiedAt: '2026-08-08'`, with sourced URLs (sonor.com, paiste.com official artist pages) confirming the exact model. The *fact* is correct; `snares.js`'s own exclusion-list comment is the stale artifact here. Not filed — flagging for whoever eventually reconciles `snares.js`'s header against root `verified` flags (out of scope today: fixing it means adding him to the SNARES array as `isSignature: true`, which auto-generates a new `/snares/signature/danny-carey` page — "one more of an existing family," blocked by the new-page freeze, same reasoning as the dropped Matt Halpern candidate noted in the 11-16 13:1x run).
+- **Mike Portnoy's "fabricated signature snare"** — same `snares.js` exclusion-list trigger, but unlike Danny Carey his root record has **no** `verified: true` flag, yet the identical unhedged claim is already baked into 10+ files including the root `api/drummers/index.js` kitOverview itself. Fixing one derived file (extendedBios.js) in isolation would just create a new self-contradiction against the root record rather than resolve anything — this is a foundational verification question (does Tama's own site confirm "Melody Master" as the name?), not a simple data-rot relapse. Dropped, not filed.
+
+Both drops are the conservative-drop rule working as intended — catching subagent findings that don't hold up against full ground-truth context, not just the single file the subagent happened to check.
+
+Filed all 8 of the ceiling, all personally verified:
+- **#10742** (batch) `soundLikeGuides.js` `drummerId` field disagrees with `drummerName` in **28 of 72 entries** — mechanically verified via a one-off Node script cross-referencing every entry against `api/drummers/index.js`'s id→name map. Not cosmetic: `SoundLikeGuides.js:781-782` uses `guide.drummerId` for live `onSelectDrummer` navigation, so 28 guide pages currently click through to the wrong drummer's profile. Highest-value finding this run — a real functional bug, not just an SEO nicety, caught by moving from case-by-case grep to a full-file mechanical sweep.
+- **#10743** Tomas Haake soundLikeGuides.js snare wrong depth (14x6" vs verified 14x6.5") + wrong shell (Steel vs verified Bronze) — sibling file `drummerComparisons.js` already has it right, this one was never swept.
+- **#10744** Nick Menza soundLikeGuides.js snare shell fabricated as "Maple" vs `snares.js`'s deliberate `shellMaterial: null`.
+- **#10745** Gene Hoglan soundLikeGuides.js kit shell "Maple/Birch Hybrid" vs root kitOverview's verified "maple/mahogany hybrid" — closed #9346 fixed this entry's snare-model field and explicitly declared "all other fields clean," but never checked this specific field against the root kitOverview text.
+- **#10746** Mario Duplantier — found a **regression**, not a fresh bug: `api/drummers/index.js` root kitOverview now self-contradicts within one paragraph ("forgoing the double pedal approach" ... then ... "a Tama Iron Cobra 900 Power Glide double pedal... complete the rig"), and `gear.hardware` flatly states the double pedal — reintroducing the exact fabrication closed #9433 (2026-10-21) removed from `soundLikeGuides.js`. The derived file is still correct; the root ground-truth file drifted backward. Worth flagging to whoever owns root-record edits: this is the second root-level regression-of-a-shipped-fix caught this month (first was the Travis Orbin top10Lists.js source-vs-generated-catalog gap, #10701).
+- **#10747** Shannon Larkin — root record still shows Godsmack `period: '2002–present', current: true`, while `bands.js` (authoritative) and his own successor's record (Mike Mangini, already correctly updated to `'2026–present'`) both confirm his 2024 retirement. Asymmetric gap: incoming drummer's record updated, outgoing drummer's never closed out. Same bug class as closed #10624 (Jay Weinberg), different drummer, never swept.
+- **#10748** Igor Cavalera soundLikeGuides.js intro frames Roots (1996) as the end of his tenure/discography scope — verified he stayed through Dante XXI (2006), 4 more albums. Same fact already fixed in a sibling file by closed #10198 (`public/llms/gear-history.md`), never propagated to this file.
+- **#10749** Vinnie Paul gearPriceHistory.js 1990-era entry fabricates a specific "Tama Steel Snare" sourced only to a generic, undated "Tama catalog 1990" — same wrong-brand fabrication class as closed #10531 (genreGearGuides.js, ~50 locations fixed), verified gear is ddrum, never swept in this file.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 713u/781s/985v 7d, engagement 48.66%. GSC 12,582 impr/274 clicks/2.18% CTR/pos 7.9. Content-gap: 1 row (`jaska raatikainen`, already-ruled class-2, no action).
+
+### Drum-chair watch
+Not due this run (last done Monday 2026-11-16, group 3, zero changes found). Next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10734-10741 (promoted `ai-fix` per 00:19 CEO pulse today)
+- #10742-10749 (this run, 8 fresh)
+
+### Next run
+1. Watch #10742-10749 pick up via CEO triage/Roadie. #10742 (drummerId batch) is the highest-value — confirm Roadie's fix script catches all 28, not just a subset, and re-verify with the same mechanical cross-check rather than spot-checking a few.
+2. #10746 and (per the 11-13 log) #10701 are now two confirmed cases of a *root-record regression of an already-shipped fix* — if a third surfaces, consider proposing a lightweight regression-guard (e.g. a CI check asserting specific previously-fixed phrases/fields don't reappear) rather than relying on manual re-discovery each time.
+3. Dropped (not filed, needs no action unless someone reconciles `snares.js`'s stale exclusion-list comment against root `verified` flags): Danny Carey's signature snare is actually correctly verified-and-sourced at the root — `snares.js`'s header comment is the stale artifact, not the fact. Mike Portnoy's signature snare claim is baked into 10+ files including the root record itself — a foundational verification question, not a simple relapse; needs someone to check Tama's own artist page before any fix is attempted.
+4. GSC content-gap: 1 row this week (`jaska raatikainen`, already-ruled, no action).
+5. Drum-chair watch: next due Monday 2026-11-23, group 0.

@@ -1376,7 +1376,7 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
         finish: 'Black Piano Lacquer',
         config: {
           kick: '22" x 18" Bass Drum',
-          snare: '14" x 6" Tomas Haake Signature Snare',
+          snare: '14" x 6.5" Tomas Haake Signature Snare',
           toms: ['10" x 8" Tom', '12" x 9" Tom'],
           floorToms: ['14" x 12" Floor Tom', '16" x 14" Floor Tom']
         },
@@ -1386,9 +1386,9 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
       snare: {
         brand: 'Sonor',
         model: 'Tomas Haake Signature Snare',
-        size: '14" x 6"',
-        shell: 'Steel',
-        description: "Tomas's signature snare is designed for maximum cut and articulation. The steel shell provides brightness that penetrates Meshuggah's eight-string guitar wall.",
+        size: '14" x 6.5"',
+        shell: 'Bronze',
+        description: "Tomas's signature snare is designed for maximum cut and articulation. The bronze shell provides warmth and strong low-mid presence with a cutting crack that penetrates Meshuggah's eight-string guitar wall.",
         alternative: "Sonor SQ1 Snare or Ludwig Supraphonic"
       },
       cymbals: {

@@ -34,15 +34,17 @@
  *     retailerUrls: {},          // intentionally empty until affiliate links are added
  *   }
  *
- * Only roster drummers with `gear.verified: true` are parsed here (56 of 67),
+ * Only roster drummers with `gear.verified: true` are parsed here (55 of 67),
  * matching the snares.js (#4308) and cymbalSetups.js (#4303) audit exactly.
  * Unverified drummers (wait for a research pass before their pedals are added;
  * never guessed): ray-luzier, vinnie-paul, charlie-benante, mike-portnoy,
  * danny-carey, brann-dailor, matt-halpern, pete-sandoval, arin-ilejay,
- * nick-augusto, isaac-lamb.
+ * nick-augusto, isaac-lamb. Martin Axenrot's overall `gear.verified` is true
+ * but `gear.hardware` itself is explicitly 'Unverified' (#10777), so no pedal
+ * entry exists for him either.
  *
- * Of the 56 verified hardware strings, 55 name an unambiguous pedal brand/model;
- * the 56th (Jon Dette: "DW 9000 or Tama Iron Cobra Double Pedal") lists two
+ * Of the 55 verified hardware strings, 54 name an unambiguous pedal brand/model;
+ * the other (Jon Dette: "DW 9000 or Tama Iron Cobra Double Pedal") lists two
  * alternative brands with no way to pick one, so per the conservative rule
  * below it is kept (never dropped) with brand/model left null.
  *
@@ -588,17 +590,6 @@ export const PEDALS = [
     summary: 'Pearl Eliminator Double Pedal',
     brand: 'Pearl',
     model: 'Eliminator',
-    configuration: 'double',
-    driveType: null,
-    source: 'roster gear.hardware (verified: true; sources on the drummer record)',
-    retailerUrls: {},
-  },
-  {
-    id: 'dw-martin-axenrot',
-    drummerSlug: 'martin-axenrot',
-    summary: 'DW Double Pedal',
-    brand: 'DW',
-    model: null,
     configuration: 'double',
     driveType: null,
     source: 'roster gear.hardware (verified: true; sources on the drummer record)',

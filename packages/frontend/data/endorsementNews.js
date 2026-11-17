@@ -3636,7 +3636,6 @@ export const ENDORSEMENT_TIMELINE = {
       cymbals: { brand: 'Sabian', model: 'HHX / AAX Series', since: '2006' },
       sticks: { brand: 'Pro-Mark', since: '2006' },
       heads: { brand: 'Evans', since: '2006' },
-      hardware: { brand: 'DW', since: '2006' },
     },
     timeline: [
       {
@@ -3654,14 +3653,6 @@ export const ENDORSEMENT_TIMELINE = {
         from: null,
         to: 'Sabian',
         notes: 'SABIAN artist endorsing HHX / AAX Series cymbals since joining Opeth in 2006, per SABIAN\'s own artist page',
-      },
-      {
-        year: 2006,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
-        category: ENDORSEMENT_CATEGORIES.HARDWARE,
-        from: null,
-        to: 'DW',
-        notes: 'DW hardware paired with his custom DW kit since joining Opeth in 2006',
       },
       {
         year: 2006,

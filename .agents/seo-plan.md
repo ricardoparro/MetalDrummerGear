@@ -17591,3 +17591,50 @@ Not due this run (last done Monday 2026-11-16, group 3, zero changes found). Nex
 2. Queued candidates if the bank runs dry again: endorsementNews.js Martin Axenrot (DW hardware 2006) + Igor Cavalera (ddrum/Zildjian date vs. Cavalera Conspiracy formation); drummerEvolution.js Jocke Wallgren (residual snare-size self-contradiction), George Kollias (second, distinct current-era snare fabrication), Gene Hoglan (same Tama-signature-snare fact, different file/lines than #10766).
 3. GSC content-gap: 2 rows this week (`raymond herrera`, `jaska raatikainen`, both already-ruled, no action).
 4. Drum-chair watch: next due Monday 2026-11-23, group 0.
+
+---
+
+## 2026-11-17 13:0x UTC (SEO Agent run — 5 proposals filed #10774-10778: drummerEvolution.js/endorsementNews.js fabrication sweep + a date-correction catching a flawed premise in held #7466)
+
+### Bank check
+16 open `seo-proposal` at run start (5 human-held source-conflicts #7981/#10032/#10099/#10655/#10656, 3 standing umbrellas #2211/#3810/#3819, 8 already `ai-fix`-promoted #10763-10770 per the 12:10 UTC CEO deep run). Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Tuesday — drum-chair watch not due (last done Monday 2026-11-16, group 3; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%) per 13:02 UTC metrics: `raymond herrera` (166 impr/1.20% CTR/pos 11.2), `jaska raatikainen` (88 impr/1.14% CTR/pos 10.5) — both already the repeatedly-confirmed class-2 bare-name queries. No new issue.
+
+### Method
+Picked up the 5 candidates the mid-day run explicitly queued (drummerEvolution.js Jocke Wallgren/George Kollias/Gene Hoglan, endorsementNews.js Martin Axenrot/Igor Cavalera) rather than opening a fresh file sweep — all 5 personally verified via direct grep/sed against root `api/drummers/index.js` and `bands.js` before filing; zero dupes (`gh issue list --state all --search` per drummer/file).
+
+- **#10774** Gene Hoglan `drummerEvolution.js` 2008-2018 era: confirmed `item: 'Tama Gene Hoglan Signature Snare 14"x8"'` vs root's `snare: 'Pearl (specific model not independently verified)'`. Same fabricated fact as #10766 (filed this morning for `endorsementNews.js`) but a different file — not a dupe, not covered by that fix.
+- **#10775** George Kollias `drummerEvolution.js`: confirmed `'Pearl Free-Floating Steel 14"×6.5"'` fabricated at 2 locations (2005-2008 era + modern era) vs root's explicit unverified-model hedge. Distinct from closed #10577 (root record, different fabricated model name) and from #10765 (beginnerGuides.js "triggers" claim, different claim entirely).
+- **#10776** Jocke Wallgren `drummerEvolution.js`: confirmed a residual self-contradiction left by closed #8999 — `snare.item` still names "Pearl Reference Pure 14x6.5\"" while the same block's own `notes` field says "No separate snare model independently verified." #8999 fixed the worse "...Brass" fabrication but left this narrower item/notes mismatch untouched, exactly as queued.
+- **#10777** Martin Axenrot `endorsementNews.js` + `pedals.js`: confirmed root's `gear.hardware: 'Unverified'` (explicit, plus a kitOverview sentence saying hardware "has not been independently verified") is contradicted by `endorsementNews.js`'s confident `hardware: { brand: 'DW', since: '2006' }` — and traced that this unverified claim already propagated into closed #7351's fix to `pedals.js`, whose source comment now incorrectly cites "roster gear.hardware (verified: true...)", conflating the record's overall `verified` flag with the one field root explicitly flags unverified.
+- **#10778** Igor Cavalera `endorsementNews.js`: confirmed 3 timeline entries (ddrum, Zildjian, Remo) all dated 2006 for "Cavalera Conspiracy" events, but `bands.js` (authoritative) gives `formed: 2007` and `discography: [{Inflikted, 2008}]` — 2006 was only the year Igor left Sepultura, not the band's formation or debut. Two sibling files (`drummerEvolution.js`, `extendedBios.js`) already correctly use 2008.
+
+**Caught a flawed premise in an already-held issue while verifying #10778:** open #7466 (`hold`-labeled since 2026-09-13, not promoted) treats `endorsementNews.js`'s "2006" Zildjian-switch date as ground truth — both its original filing and its own hold comment repeat "verified 2006" without cross-checking `bands.js`. Since #10778 corrects that exact date to 2008, left a comment on #7466 (no label change needed — it's already `hold`ed and not claimable) flagging that any future narrower re-file of it must use 2008, not 2006, or it will re-propagate the same error into `albumArticles/igor-cavalera.js`.
+
+Stopped at 5 rather than padding to 8 — the queued list was exhausted and a fresh scan of this depth (tracing propagation through 2+ closed issues per candidate, cross-checking `bands.js`) takes real verification time per candidate; preferred 5 high-confidence, fully-traced findings over diluting with a shallow 6th-8th.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 763u/831s/1,060v 7d, engagement 48.74%. GSC 14,920 impr/326 clicks/2.18% CTR/pos 7.9. Content-gap: 2 rows (`raymond herrera`, `jaska raatikainen`), both already-ruled class-2, no action.
+
+### Drum-chair watch
+Not due this run (last done Monday 2026-11-16, group 3, zero changes found). Next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10763-10770 (promoted `ai-fix` per 12:10 UTC CEO deep run today)
+- #10774-10778 (this run, 5 fresh)
+- #7466 (Igor Cavalera albumArticles.js cymbal-date fix, `hold` — now flagged with a date correction; do not promote until #10778 lands and the re-file uses 2008)
+
+### Next run
+1. Watch #10774-10778 pick up via CEO triage/Roadie. #10777 (Axenrot hardware) touches 2 files (`endorsementNews.js` + `pedals.js`) — confirm the implementer updates both, not just the one named first.
+2. #7466 remains `hold`ed; revisit only after #10778 merges, and only with the corrected 2008 date — do not let it get promoted with the stale "2006" premise.
+3. GSC content-gap: 2 rows this week (`raymond herrera`, `jaska raatikainen`), both already-ruled, no action.
+4. Drum-chair watch: next due Monday 2026-11-23, group 0.

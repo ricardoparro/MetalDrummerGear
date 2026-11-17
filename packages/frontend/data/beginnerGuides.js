@@ -799,8 +799,8 @@ This guide is specifically designed for beginners with a total budget around $1,
           why: 'For recording or live sound reinforcement. Start with kick trigger.',
           recommendation: 'Roland RT-30K (kick), ddrum Pro triggers',
           proReference: {
-            text: 'See how Chris Adler uses triggers',
-            drummerId: 'chris-adler',
+            text: 'See how John Longstreth uses triggers',
+            drummerId: 'john-longstreth',
             category: 'hardware'
           }
         },

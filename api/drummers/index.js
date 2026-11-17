@@ -1174,7 +1174,7 @@ const drummers = [
     country: 'France',
     image: '/images/drummers/mario-duplantier.webp',
     bio: 'Mario Duplantier, born in 1981 in Bayonne, France, is the drummer and co-founder of the critically acclaimed progressive death metal band Gojira, which he formed with his brother Joe Duplantier in 1996. Known for his powerful, precise, and incredibly intense drumming style, Mario combines crushing double bass patterns with complex rhythmic structures that complement Gojira\'s unique blend of death metal and progressive elements. His drumming on albums like "From Mars to Sirius," "The Way of All Flesh," and "Magma" has been praised for its technical excellence and raw energy. Beyond his drumming prowess, Mario is also a talented visual artist who has created artwork for Gojira\'s albums and merchandise. His approach to drumming emphasizes dynamics, groove, and an almost tribal quality that has helped define Gojira\'s distinctive sound.',
-    kitOverview: 'Mario Duplantier plays a Tama Starclassic Bubinga drum kit with dual 22"×18" bass drums — forgoing the double pedal approach for a more organic, powerful feel that has defined Gojira\'s progressive death metal sound since From Mars to Sirius. The centerpiece of the Mario Duplantier drum set is the Tama S.L.P. 14×6.5" G-Maple snare, tuned for the punishing crack that cuts through Gojira\'s layered guitar walls on Magma and Fortitude.\n\nZildjian cymbals form a sprawling array across the Mario Duplantier drum kit: 14" K Sweet Hi-Hats and 14" A Custom Hi-Hats for flexible hi-hat textures; 18" K Custom Hybrid Crash, 19" A Custom Crash, and 20" K Sweet Crash for rapid accent layering; a 21" Z Custom Mega Bell Ride for powerful, cutting rhythmic articulation; and dual 18" and 20" Chinas for tribal, aggressive punctuation. Remo Emperor heads on toms and Remo Powerstroke 3 on bass drums deliver the full, resonant tone heard across Gojira\'s Grammy-nominated catalog. A Tama Iron Cobra 900 Power Glide double pedal and Tama Mario Duplantier Signature sticks complete the rig — the configuration carried from Magma (2016) through Fortitude (2021) and beyond.',
+    kitOverview: 'Mario Duplantier plays a Tama Starclassic Bubinga drum kit with dual 22"×18" bass drums — forgoing the double pedal approach for a more organic, powerful feel that has defined Gojira\'s progressive death metal sound since From Mars to Sirius. The centerpiece of the Mario Duplantier drum set is the Tama S.L.P. 14×6.5" G-Maple snare, tuned for the punishing crack that cuts through Gojira\'s layered guitar walls on Magma and Fortitude.\n\nZildjian cymbals form a sprawling array across the Mario Duplantier drum kit: 14" K Sweet Hi-Hats and 14" A Custom Hi-Hats for flexible hi-hat textures; 18" K Custom Hybrid Crash, 19" A Custom Crash, and 20" K Sweet Crash for rapid accent layering; a 21" Z Custom Mega Bell Ride for powerful, cutting rhythmic articulation; and dual 18" and 20" Chinas for tribal, aggressive punctuation. Remo Emperor heads on toms and Remo Powerstroke 3 on bass drums deliver the full, resonant tone heard across Gojira\'s Grammy-nominated catalog. Twin Tama Iron Cobra 900 Power Glide single pedals and Tama Mario Duplantier Signature sticks complete the rig — the configuration carried from Magma (2016) through Fortitude (2021) and beyond.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mario_Duplantier',
       'https://www.instagram.com/mario_duplantier/',
@@ -1185,7 +1185,7 @@ const drummers = [
       drums: 'Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom)',
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
       cymbals: 'Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas)',
-      hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
+      hardware: 'Tama Iron Cobra 900 Power Glide Single Pedal (x2 — one per bass drum), Tama 1st Chair Ergo-Rider Throne',
       sticks: 'Tama Mario Duplantier Signature',
       heads: 'Remo Emperor (toms), Remo Powerstroke 3 (bass drums)',
       verified: true,
@@ -1247,7 +1247,7 @@ const drummers = [
           drums: 'Tama Starclassic Maple (22" Bass x2, 10", 12", 13" Toms, 16" Floor)',
           snare: 'Tama S.L.P. 14x6.5" G-Maple',
           cymbals: 'Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" A Custom Ride, 18" China)',
-          hardware: 'Tama Iron Cobra 900 Double Pedal, Tama 1st Chair Throne',
+          hardware: 'Tama Iron Cobra 900 Single Pedal (x2 — one per bass drum), Tama 1st Chair Throne',
           sticks: 'Tama 5B Oak'
         },
         notes: 'Flying Whales became his signature song, showcasing his ability to build massive grooves.'
@@ -1261,7 +1261,7 @@ const drummers = [
           drums: 'Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom)',
           snare: 'Tama S.L.P. 14x6.5" G-Maple',
           cymbals: 'Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas)',
-          hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
+          hardware: 'Tama Iron Cobra 900 Power Glide Single Pedal (x2 — one per bass drum), Tama 1st Chair Ergo-Rider Throne',
           sticks: 'Tama Mario Duplantier Signature'
         },
         notes: 'Mario received his own Tama signature drumstick model, cementing his status as a drumming legend.'

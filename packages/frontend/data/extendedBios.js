@@ -1234,7 +1234,7 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
     metaTitle: 'Mario Duplantier Drum Kit & Gear Setup — Gojira Drummer | MetalForge',
     // Issue #5493: CTR-gap fix — title is gear-intent-matched but this description
     // was a biography blurb, contradicting it; rewritten gear-first to match.
-    metaDescription: 'Mario Duplantier\'s complete Tama & Zildjian drum kit breakdown: dual 22" Starclassic Bubinga bass drums, S.L.P. G-Maple snare, K Custom/A Custom cymbals & Iron Cobra double pedal — Gojira\'s full gear setup.',
+    metaDescription: 'Mario Duplantier\'s complete Tama & Zildjian drum kit breakdown: dual 22" Starclassic Bubinga bass drums, S.L.P. G-Maple snare, K Custom/A Custom cymbals & twin Iron Cobra single pedals — Gojira\'s full gear setup.',
     ogImage: '/images/drummers/mario-duplantier.webp',
     keywords: ['gojira', 'french drummer', 'tama drums', 'progressive death metal', 'visual artist', 'flying whales', 'environmental'],
     relatedDrummers: ['tomas-haake', 'danny-carey', 'dave-lombardo', 'eloy-casagrande'],
@@ -1298,13 +1298,13 @@ Mario's drumming combines crushing power with technical precision, featuring com
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Mario Duplantier is a Tama Drums and Zildjian Cymbals endorser. He uses dual bass drums, driven by a Tama Iron Cobra 900 Power Glide double pedal, for visual impact and tonal reasons.
+        content: `Mario Duplantier is a Tama Drums and Zildjian Cymbals endorser. He uses dual bass drums, driven by twin Tama Iron Cobra 900 Power Glide single pedals (one per kick) instead of a double pedal, for visual impact and tonal reasons.
 
 **Current Setup:**
 - **Drums**: Tama Starclassic Bubinga (dual 22"x18" bass drums)
 - **Snare**: Tama S.L.P. 14"x6.5" G-Maple
 - **Cymbals**: Zildjian (14" K Sweet Hi-Hats, various K Custom and A Custom crashes, 21" Z Custom Mega Bell Ride)
-- **Hardware**: Tama Iron Cobra 900 Power Glide Double Pedal
+- **Hardware**: Tama Iron Cobra 900 Power Glide Single Pedal (x2 — one per bass drum)
 - **Throne**: Tama 1st Chair Ergo-Rider
 - **Sticks**: Tama Mario Duplantier Signature
 - **Heads**: Remo
@@ -1337,10 +1337,10 @@ Mario's drumming combines crushing power with technical precision, featuring com
           { q: 'Where is Mario Duplantier from?', a: 'Mario was born in Ondres, France and grew up in the Basque region.' },
           { q: 'What song is Mario Duplantier most famous for?', a: '"Flying Whales" features some of Mario\'s most recognized and celebrated drum work.' },
           { q: 'What drum set does Mario Duplantier use?', a: 'Mario Duplantier\'s drum set is a Tama Starclassic Bubinga configuration with dual 22"x18" bass drums, chosen for both visual impact and tonal weight. It\'s built around a Tama S.L.P. 14"x6.5" G-Maple snare and Zildjian cymbals, played from a Tama 1st Chair Ergo-Rider throne.' },
-          { q: 'What drum kit does Mario Duplantier use?', a: 'Mario Duplantier\'s drum kit is a Tama Starclassic Bubinga setup with dual 22"x18" bass drums and a Tama S.L.P. 14"x6.5" G-Maple snare, driven by a Tama Iron Cobra 900 Power Glide double pedal. Zildjian cymbals and Remo heads complete the kit he uses across Gojira\'s catalog.' },
+          { q: 'What drum kit does Mario Duplantier use?', a: 'Mario Duplantier\'s drum kit is a Tama Starclassic Bubinga setup with dual 22"x18" bass drums and a Tama S.L.P. 14"x6.5" G-Maple snare, driven by twin Tama Iron Cobra 900 Power Glide single pedals instead of a double pedal. Zildjian cymbals and Remo heads complete the kit he uses across Gojira\'s catalog.' },
           { q: 'What cymbals does Mario Duplantier use?', a: 'Mario Duplantier uses Zildjian cymbals: 14" K Sweet Hi-Hats, various K Custom and A Custom crashes, and a 21" Z Custom Mega Bell Ride.' },
           { q: 'What snare drum does Mario Duplantier use?', a: 'Mario Duplantier plays a Tama S.L.P. 14"x6.5" G-Maple snare drum.' },
-          { q: 'What pedals does Mario Duplantier use?', a: 'Mario Duplantier drives his dual-bass-drum setup with a Tama Iron Cobra 900 Power Glide double pedal.' },
+          { q: 'What pedals does Mario Duplantier use?', a: 'Mario Duplantier drives his dual-bass-drum setup with twin Tama Iron Cobra 900 Power Glide single pedals — one per bass drum — rather than a double pedal.' },
           { q: 'Does Mario Duplantier use triggers?', a: "Mario Duplantier uses a trigger on his kick drum. He's explained in interviews that triggering raises the stakes on precision — every kick hit becomes clearly audible, leaving no room for timing mistakes. No source documents him using a snare trigger." }
         ]
       },

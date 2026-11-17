@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-17 08:14 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-17 12:10 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 752 |
-| Sessions | 821 |
-| Page views | 1,046 |
-| Engagement rate | 48.23% |
-| Avg session (s) | 89 |
+| Active users | 762 |
+| Sessions | 830 |
+| Page views | 1,059 |
+| Engagement rate | 48.80% |
+| Avg session (s) | 194 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -23,7 +23,7 @@
 | /drummer/eloy-casagrande | 16 | 11 |
 | /articles/white-pony-drum-setup | 15 | 13 |
 | /drummers | 14 | 7 |
-| /drummer/ben-koller | 13 | 10 |
+| /drummer/ben-koller | 13 | 9 |
 | /bpm | 12 | 12 |
 | /drummer/igor-cavalera | 12 | 12 |
 | /articles/slipknot-self-titled-drum-setup | 11 | 10 |
@@ -31,22 +31,22 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 465 | 399 |
-| Direct | 347 | 346 |
-| Unassigned | 37 | 34 |
+| Organic Search | 468 | 401 |
+| Direct | 354 | 354 |
+| Unassigned | 14 | 12 |
 | Organic Social | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 308 | 272 |
+| United States | 313 | 278 |
 | Singapore | 84 | 84 |
-| Brazil | 32 | 31 |
+| Brazil | 34 | 33 |
 | United Kingdom | 32 | 27 |
 | Germany | 31 | 28 |
 | Canada | 26 | 24 |
-| Australia | 17 | 14 |
-| France | 17 | 15 |
+| Australia | 18 | 15 |
+| France | 18 | 15 |
 | Colombia | 14 | 14 |
 | Indonesia | 13 | 13 |
 

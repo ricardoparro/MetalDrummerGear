@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-16 19:09 UTC · Window: last 12h*
+*Generated 2026-11-17 08:14 UTC · Window: last 12h*
 
 ---
 
@@ -8,26 +8,26 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **22** |
-| Open `seo-proposal` issues | 10 |
+| Open `ai-fix` issues | **20** |
+| Open `seo-proposal` issues | 16 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 2 |
-| PRs merged in window | **14** |
-| Issues closed in window | 13 |
-| Commits to `main` in window | 24 |
+| Open PRs | 0 |
+| PRs merged in window | **16** |
+| Issues closed in window | 16 |
+| Commits to `main` in window | 20 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **743** |
-| Sessions | 814 |
-| Page views | 1,049 |
-| Engagement rate | 50.86% |
-| GSC impressions | 14,938 |
-| GSC clicks | 332 |
-| GSC CTR | 2.22% |
+| Active users | **752** |
+| Sessions | 821 |
+| Page views | 1,046 |
+| Engagement rate | 48.23% |
+| GSC impressions | 14,920 |
+| GSC clicks | 326 |
+| GSC CTR | 2.18% |
 | GSC avg position | 7.9 |
 
 ## 💰 Revenue trajectory (estimate)
@@ -36,8 +36,8 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~4,496 |
-| Est. ad revenue / mo | **~€13.49** |
+| Est. pageviews / mo | ~4,483 |
+| Est. ad revenue / mo | **~€13.45** |
 | Progress to €1000/mo | 1.3% |
 | Pageviews/mo needed for €1000 | ~333,333 (74× current) |
 
@@ -65,67 +65,67 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 7d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 11d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 40d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 6d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 10d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 39d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
 | PR Merger | 27 | 27 | 0 |
-| Verify YouTube Videos | 15 | 7 | 6 |
-| Verify Data Modules | 14 | 7 | 5 |
-| Check Sitemap Drift | 14 | 7 | 5 |
-| Perf Budget Gate | 7 | 0 | 5 |
-| Check llms freshness | 7 | 0 | 5 |
-| Health Check | 2 | 2 | 0 |
-| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
-| Verify API Modules | 2 | 1 | 1 |
-| Check Video SEO | 2 | 0 | 2 |
-| Check Vercel Bot Rewrites | 2 | 1 | 1 |
+| Verify YouTube Videos | 16 | 8 | 8 |
+| Check Sitemap Drift | 15 | 7 | 8 |
+| Verify Data Modules | 14 | 7 | 7 |
+| Check llms freshness | 9 | 0 | 9 |
+| Perf Budget Gate | 7 | 0 | 7 |
+| Verify API Modules | 4 | 2 | 2 |
 | Daily Digest | 1 | 0 | 0 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
-| Roadie Night Fleet | 1 | 1 | 0 |
-| SEO Agent | 1 | 0 | 0 |
+| SEO Agent | 1 | 1 | 0 |
+| Prune Proposals | 1 | 1 | 0 |
+| Health Check | 1 | 1 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| X Agent | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-17 00:19 (cheap pulse — 8/8 proposals verified+promoted #10734-10741)
 - 2026-11-16 00:23 (cheap pulse — 4/4 proposals verified+promoted #10692/10694/10695/10697)
-- 2026-11-15 06:12 (cheap pulse — 4/4 proposals verified+promoted #10659-10662)
-- 2026-11-15 00:21 — overnight pulse: 3/3 promotable proposals verified+promoted #10651/10653/10654, GSC content-gap row r
-- 2026-11-15 12:10 (deep run — 8/8 proposals verified+promoted #10667-10674)
-- 2026-11-15 18:09 (cheap pulse — 3/3 proposals verified+promoted #10681-10683)
 - 2026-11-16 06:18 (cheap pulse — 4/4 proposals verified+promoted #10699-10702)
+- 2026-11-16 12:15 (deep run — 8/8 proposals verified+promoted #10707-10714; L1/L2/L3 full close-the-loop; 1 L3 regression
+- 2026-11-16 18:09 (cheap pulse — 2/2 proposals verified+promoted #10721/#10722)
+- 2026-11-17 06:12 (cheap pulse — 7/8 proposals verified+promoted #10742-10748, 1 rejected #10749)
 
-## 📦 Shipped to main (14)
+## 📦 Shipped to main (16)
 
-- #10731 fix: #10720 Indexation regression: /guides/best-*-for-* template — 9 sentinel URLs flipped indexed→crawled-not-indexed, same lastCrawlTime
-- #10730 fix: #10714 SEO: soundLikeGuides.js Mike Portnoy snare shell fabricated as 'Maple' — ground truth says steel, snares.js lists him unverified
-- #10729 fix: #10713 SEO: soundLikeGuides.js Dave Lombardo tuning tip still says 'aluminum shell' after #9439 fixed the snare to Maple
-- #10728 fix: #10712 SEO: genres.js Black Metal page fabricates Ludwig/Tama as common brands for Inferno and Hellhammer — both are single-brand (Pearl/Sonor)
-- #10727 fix: #10711 SEO: gearSearchData.js Danny Carey sticks field defaults to generic 'Vic Firth 5B' — verified field is his own signature model
-- #10726 fix: #10710 SEO: gearSearchData.js Mike Portnoy sticks field points to Joey Jordison's signature product ID
-- #10725 fix: #10709 SEO: gearSearchData.js George Kollias snare fabricated as 'Pearl George Kollias Signature' — verified field is 'not independently verified'
-- #10724 fix: #10708 SEO: gearSearchData.js Eloy Casagrande ↔ Charlie Benante pedal (hardware) fields swapped
-- #10723 fix: #10707 SEO: gearSearchData.js Dave Lombardo drums field wrong wood — 'Tama Starclassic Maple' vs verified Walnut/Birch
-- #10719 fix: #10702 SEO: cymbalBrands.js claims Meinl Classics Custom Dark 'not yet present in a verified roster setup' — contradicted by 2 verified cymbalSetups.js entries
-- #10718 fix: #10701 SEO: Travis Orbin's Periphery tenure still '2006-2009' in top10Lists.js source (6 locations) — prior #10654 fix only patched the generated catalog, will drift back on rebuild
-- #10717 fix: #10701 SEO: Travis Orbin's Periphery tenure still '2006-2009' in top10Lists.js source (6 locations) — prior #10654 fix only patched the generated catalog, will drift back on rebuild
-- #10716 fix: #10700 SEO: Eloy Casagrande shown as concurrent 'Sepultura / Slipknot' in nameGeneratorData.js, missing ex- qualifier
-- #10715 fix: #10699 SEO: Mario Duplantier mis-keyed under Tama STAR Classic Maple instead of Bubinga in drummersByKit.js
+- #10773 fix: #10748 SEO: Igor Cavalera soundLikeGuides.js undercounts Sepultura tenure as ending at Roots (1996) — verified through Dante XXI (2006)
+- #10772 fix: #10747 SEO: Shannon Larkin's api/drummers/index.js root record still shows Godsmack '2002–present, current: true' — verified retired 2024
+- #10771 fix: #10746 SEO: Mario Duplantier api/drummers/index.js root record self-contradicts on double pedal — regresses #9433's already-shipped fix
+- #10761 fix: #10744 SEO: Nick Menza snare shell material fabricated as 'Maple' in soundLikeGuides.js — snares.js deliberately leaves it unverified
+- #10762 fix: #10745 SEO: Gene Hoglan kit shell material wrong 'Maple/Birch Hybrid' in soundLikeGuides.js — verified kitOverview says maple/mahogany hybrid
+- #10760 fix: #10743 SEO: Tomas Haake snare wrong depth (14x6" vs verified 14x6.5") + wrong shell material (Steel vs verified Bronze) in soundLikeGuides.js
+- #10759 fix: #10742 SEO batch: soundLikeGuides.js drummerId mismatches drummerName in 28/72 entries — breaks live navigation
+- #10758 fix: #10741 SEO: snares.js Abe Cunningham fabricates a specific 'Maple/Bubinga 14x6.5" ' snare model — root ground truth says no separate model is documented
+- #10757 fix: #10741 SEO: snares.js Abe Cunningham fabricates a specific 'Maple/Bubinga 14x6.5" ' snare model — root ground truth says no separate model is documented
+- #10756 fix: #10739 SEO: api/gear-finder/index.js Dave Lombardo drums field wrong wood — 'Tama Starclassic Maple' vs verified Walnut/Birch
+- #10755 fix: #10740 SEO: api/gear-finder/index.js Chris Adler drums field wrong model — 'Mapex Black Panther Design Lab' vs verified Mapex Saturn — #10668's verify step incorrectly assumed this field was already correct
+- #10754 fix: #10738 SEO: albumArticles/mario-duplantier.js FAQ block restates the pre-endorsement Tama fabrication that #9719 fixed everywhere else in the same file
+- #10753 fix: #10737 SEO: evolutionTimeline.js Gene Hoglan/Death entry uses his 1992 join date as the year for an album-release-type event — Individual Thought Patterns released 1993
+- #10752 fix: #10736 SEO: evolutionTimeline.js dates Matt Halpern/Periphery to 2008 — he didn't join until 2009, band formed 2005
+- #10751 fix: #10734 SEO: pedals.js + endorsementNews.js state a fabricated 'Iron Cobra 900 Rolling Glide' model for Abe Cunningham — root ground truth renamed to Power Glide Twin Pedal (HP900PTW) in Aug 2026
+- _+1 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 318h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2628h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2724h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2901h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3986h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 331h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2641h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2737h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2914h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 3999h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

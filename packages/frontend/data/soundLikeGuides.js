@@ -4469,7 +4469,7 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
         brand: 'Pearl',
         model: 'Reference Custom',
         size: '14" x 5.5"',
-        shell: 'Maple',
+        shell: 'Not independently verified',
         description: "Nick's final-era Pearl Reference Custom snare delivered the sharp, high-pitched crack central to Megadeth's thrash sound. Tuned tight with rimshot technique, it cut through Dave Mustaine's heavily-amplified guitar wall with authority.",
         alternative: "Pearl Sensitone Steel or Pearl Session Studio Select for a similar crack and projection"
       },

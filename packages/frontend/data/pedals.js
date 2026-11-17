@@ -453,9 +453,9 @@ export const PEDALS = [
   {
     id: 'tama-iron-cobra-900-abe-cunningham',
     drummerSlug: 'abe-cunningham',
-    summary: 'Tama Iron Cobra 900 Rolling Glide Double Pedal',
+    summary: 'Tama Iron Cobra Power Glide Twin Pedal (HP900PTW)',
     brand: 'Tama',
-    model: 'Iron Cobra 900 Rolling Glide',
+    model: 'Iron Cobra Power Glide Twin Pedal (HP900PTW)',
     configuration: 'double',
     driveType: 'chain',
     source: 'roster gear.hardware (verified: true; sources on the drummer record)',

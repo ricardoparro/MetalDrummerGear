@@ -17493,8 +17493,8 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'Pearl Reference 14"x6.5" Brass',
-            details: 'Brass shell',
+            item: 'Pearl snare (specific model not independently verified)',
+            details: 'Model not independently verified',
             notes: 'Delivered the crack and cut needed to compete with Trivium\'s dual-guitar attack.',
             change: CHANGE_TYPES.NEW,
           },
@@ -17559,7 +17559,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           snare: {
-            item: 'Pearl Reference 14"x6.5" Brass',
+            item: 'Pearl snare (specific model not independently verified)',
             details: 'Unchanged',
             notes: 'No change from the In Waves era.',
             change: null,
@@ -17684,7 +17684,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit did Nick Augusto use in Trivium?',
-        a: 'Nick Augusto played a Pearl Reference Pure kit throughout his Trivium tenure, paired with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX cymbals, and a DW 9000 Series double pedal — a rig established for his 2011 studio debut In Waves and carried unchanged through Vengeance Falls (2013).',
+        a: 'Nick Augusto played a Pearl Reference Pure kit throughout his Trivium tenure, paired with a Pearl snare (specific model not independently verified), Sabian AAX cymbals, and a DW 9000 Series double pedal — a rig established for his 2011 studio debut In Waves and carried unchanged through Vengeance Falls (2013).',
       },
       {
         q: 'Why did Nick Augusto leave Trivium?',

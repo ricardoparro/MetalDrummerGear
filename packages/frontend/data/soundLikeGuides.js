@@ -2548,7 +2548,7 @@ This guide explores how to capture Chris's powerful groove metal style.`,
 
   'how-to-sound-like-matt-greiner': {
     slug: 'how-to-sound-like-matt-greiner',
-    drummerId: 28,
+    drummerId: 32,
     drummerName: 'Matt Greiner',
     band: 'August Burns Red',
     genre: 'Metalcore / Progressive Metalcore',
@@ -3067,7 +3067,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
 
   'how-to-sound-like-travis-orbin': {
     slug: 'how-to-sound-like-travis-orbin',
-    drummerId: 21,
+    drummerId: 39,
     drummerName: 'Travis Orbin',
     band: 'Periphery',
     genre: 'Djent / Progressive Metal',
@@ -3320,7 +3320,7 @@ Orbin left Periphery in February 2009, replaced by Matt Halpern, who has recorde
 
   'how-to-sound-like-flo-mounier': {
     slug: 'how-to-sound-like-flo-mounier',
-    drummerId: 18,
+    drummerId: 35,
     drummerName: 'Flo Mounier',
     band: 'Cryptopsy',
     genre: 'Technical Death Metal / Brutal Death Metal',
@@ -3581,7 +3581,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
 
   'how-to-sound-like-jay-weinberg': {
     slug: 'how-to-sound-like-jay-weinberg',
-    drummerId: 50,
+    drummerId: 10,
     drummerName: 'Jay Weinberg',
     band: 'Former Slipknot / Former Suicidal Tendencies',
     genre: 'Nu-Metal / Alternative Metal',
@@ -3846,7 +3846,7 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
 
   'how-to-sound-like-mike-mangini': {
     slug: 'how-to-sound-like-mike-mangini',
-    drummerId: 51,
+    drummerId: 52,
     drummerName: 'Mike Mangini',
     band: 'Dream Theater (2010-2023) / Godsmack (touring, 2026-present)',
     genre: 'Progressive Metal / Prog Rock',
@@ -4107,7 +4107,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
 
   'how-to-sound-like-gavin-harrison': {
     slug: 'how-to-sound-like-gavin-harrison',
-    drummerId: 52,
+    drummerId: 47,
     drummerName: 'Gavin Harrison',
     band: 'Porcupine Tree',
     genre: 'Progressive Rock / Prog Metal',
@@ -4371,7 +4371,7 @@ His dynamic contrast ranges from near-inaudible snare brush textures to enormous
 
   'how-to-sound-like-nick-menza': {
     slug: 'how-to-sound-like-nick-menza',
-    drummerId: 53,
+    drummerId: 65,
     drummerName: 'Nick Menza',
     band: 'Megadeth',
     genre: 'Thrash Metal / Big Four',
@@ -4635,7 +4635,7 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
 
   'how-to-sound-like-nicko-mcbrain': {
     slug: 'how-to-sound-like-nicko-mcbrain',
-    drummerId: 54,
+    drummerId: 41,
     drummerName: 'Nicko McBrain',
     band: 'Iron Maiden',
     genre: 'Heavy Metal / NWOBHM',
@@ -4899,7 +4899,7 @@ This guide covers Nicko's core gallop technique, his British Drum Co. current se
 
   'how-to-sound-like-igor-cavalera': {
     slug: 'how-to-sound-like-igor-cavalera',
-    drummerId: 55,
+    drummerId: 29,
     drummerName: 'Igor Cavalera',
     band: 'Sepultura / Cavalera Conspiracy',
     genre: 'Thrash Metal / Groove Metal',
@@ -5714,7 +5714,7 @@ This guide covers Eloy's core technique — double-bass drive, dynamic control, 
   'how-to-sound-like-charlie-benante': {
     slug: 'how-to-sound-like-charlie-benante',
     drummerSlug: 'charlie-benante',
-    drummerId: 56,
+    drummerId: 12,
     drummerName: 'Charlie Benante',
     band: 'Anthrax',
     name: 'Charlie Benante',
@@ -5980,7 +5980,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
   'how-to-sound-like-matt-garstka': {
     slug: 'how-to-sound-like-matt-garstka',
     drummerSlug: 'matt-garstka',
-    drummerId: 57,
+    drummerId: 53,
     drummerName: 'Matt Garstka',
     band: 'Animals as Leaders',
     name: 'Matt Garstka',
@@ -6243,7 +6243,7 @@ His signature approach involves treating each limb as an independent rhythmic vo
   'how-to-sound-like-mikkey-dee': {
     slug: 'how-to-sound-like-mikkey-dee',
     drummerSlug: 'mikkey-dee',
-    drummerId: 58,
+    drummerId: 43,
     drummerName: 'Mikkey Dee',
     band: 'Motörhead / Scorpions',
     name: 'Mikkey Dee',
@@ -6509,7 +6509,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
   'how-to-sound-like-sean-reinert': {
     slug: 'how-to-sound-like-sean-reinert',
     drummerSlug: 'sean-reinert',
-    drummerId: 59,
+    drummerId: 64,
     drummerName: 'Sean Reinert',
     band: 'Death / Cynic',
     name: 'Sean Reinert',
@@ -7044,7 +7044,7 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
   'how-to-sound-like-adrian-erlandsson': {
     slug: 'how-to-sound-like-adrian-erlandsson',
     drummerSlug: 'adrian-erlandsson',
-    drummerId: 64,
+    drummerId: 66,
     drummerName: 'Adrian Erlandsson',
     band: 'At the Gates / Paradise Lost',
     genre: 'Melodic Death Metal',
@@ -7298,7 +7298,7 @@ This guide breaks down the technique, gear, and practice approach behind Erlands
   'how-to-sound-like-paul-bostaph': {
     slug: 'how-to-sound-like-paul-bostaph',
     drummerSlug: 'paul-bostaph',
-    drummerId: 27,
+    drummerId: 63,
     drummerName: 'Paul Bostaph',
     band: 'Slayer',
     genre: 'Thrash Metal',
@@ -8620,7 +8620,7 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
 
   'how-to-sound-like-inferno': {
     slug: 'how-to-sound-like-inferno',
-    drummerId: 21,
+    drummerId: 19,
     drummerName: 'Inferno',
     band: 'Behemoth',
     genre: 'Black Metal / Blackened Death Metal',
@@ -8877,7 +8877,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
 
   'how-to-sound-like-pete-sandoval': {
     slug: 'how-to-sound-like-pete-sandoval',
-    drummerId: 18,
+    drummerId: 21,
     drummerName: 'Pete Sandoval',
     band: 'Morbid Angel',
     genre: 'Death Metal',
@@ -10105,7 +10105,7 @@ This guide breaks down the technique, gear, and practice approach behind Christy
   // Issue #2950: SEO batch 33 — Ben Koller, Vinnie Paul, Blake Richardson
   'how-to-sound-like-ben-koller': {
     slug: 'how-to-sound-like-ben-koller',
-    drummerId: 30,
+    drummerId: 34,
     drummerName: 'Ben Koller',
     band: 'Converge',
     genre: 'Metalcore / Hardcore',
@@ -10352,7 +10352,7 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
 
   'how-to-sound-like-vinnie-paul': {
     slug: 'how-to-sound-like-vinnie-paul',
-    drummerId: 21,
+    drummerId: 11,
     drummerName: 'Vinnie Paul',
     band: 'Pantera',
     genre: 'Groove Metal / Heavy Metal',
@@ -10599,7 +10599,7 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
 
   'how-to-sound-like-blake-richardson': {
     slug: 'how-to-sound-like-blake-richardson',
-    drummerId: 29,
+    drummerId: 33,
     drummerName: 'Blake Richardson',
     band: 'Between the Buried and Me',
     genre: 'Progressive Metal / Technical Metal',
@@ -12069,7 +12069,7 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
   // Issue #2848: SEO batch 27 — Bill Ward, Martin Lopez, Derek Roddy
   'how-to-sound-like-bill-ward': {
     slug: 'how-to-sound-like-bill-ward',
-    drummerId: 22,
+    drummerId: 30,
     drummerName: 'Bill Ward',
     band: 'Black Sabbath',
     genre: 'Doom Metal / Heavy Metal',
@@ -12314,7 +12314,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
   },
   'how-to-sound-like-martin-lopez': {
     slug: 'how-to-sound-like-martin-lopez',
-    drummerId: 20,
+    drummerId: 38,
     drummerName: 'Martin Lopez',
     band: 'Opeth',
     genre: 'Progressive Death Metal',
@@ -12550,7 +12550,7 @@ This guide breaks down the technique, gear, and practice approach behind Lopez's
   },
   'how-to-sound-like-derek-roddy': {
     slug: 'how-to-sound-like-derek-roddy',
-    drummerId: 21,
+    drummerId: 44,
     drummerName: 'Derek Roddy',
     band: 'Hate Eternal',
     genre: 'Technical Death Metal',
@@ -13781,7 +13781,7 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
 
   'how-to-sound-like-nick-augusto': {
     slug: 'how-to-sound-like-nick-augusto',
-    drummerId: 26,
+    drummerId: 31,
     drummerName: 'Nick Augusto',
     band: 'Trivium',
     genre: 'Thrash Metal / Metalcore',
@@ -14017,7 +14017,7 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
 
   'how-to-sound-like-jon-dette': {
     slug: 'how-to-sound-like-jon-dette',
-    drummerId: 60,
+    drummerId: 67,
     drummerName: 'Jon Dette',
     band: 'Slayer / Testament',
     genre: 'Thrash Metal',
@@ -14262,7 +14262,7 @@ This guide breaks down the technique, gear, and practice approach behind Dette's
   // Issue #2675: SEO batch 21 (re-scoped) — Raymond Herrera, Navene Koperweis
   'how-to-sound-like-raymond-herrera': {
     slug: 'how-to-sound-like-raymond-herrera',
-    drummerId: 23,
+    drummerId: 27,
     drummerName: 'Raymond Herrera',
     band: 'Fear Factory',
     genre: 'Industrial Metal / Groove Metal',
@@ -14510,7 +14510,7 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
   },
   'how-to-sound-like-navene-koperweis': {
     slug: 'how-to-sound-like-navene-koperweis',
-    drummerId: 63,
+    drummerId: 24,
     drummerName: 'Navene Koperweis',
     band: 'Entheos',
     genre: 'Progressive Metal / Djent / Technical Death Metal',
@@ -14995,7 +14995,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
   },
   'how-to-sound-like-jason-bittner': {
     slug: 'how-to-sound-like-jason-bittner',
-    drummerId: 19,
+    drummerId: 37,
     drummerName: 'Jason Bittner',
     band: 'Shadows Fall / Overkill',
     genre: 'NWOAHM / Thrash Metal',

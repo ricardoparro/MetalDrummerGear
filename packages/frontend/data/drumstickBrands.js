@@ -71,9 +71,7 @@ export const DRUMSTICK_BRANDS = [
     parent: 'Distributed by Big Bang Distribution (USA); independent brand',
     positioning:
       "Ahead pioneered aluminum-core drumsticks with a replaceable outer sleeve — when the sleeve wears out you replace the sleeve, not the whole stick, and the aluminum core essentially can't break the way wood can. That durability pitch (the brand markets a multiple-times-longer lifespan than wood) is why it has a strong following among touring hard-rock and metal drummers who go through sticks fast.",
-    notableLines: [
-      { name: 'Speed Metal (JJ1 / MT)', description: "Originally released as Joey Jordison's signature model; kept the same specs and renamed \"Speed Metal\" after his departure from the endorsement." },
-    ],
+    notableLines: [],
     source: { label: 'Ahead Drumsticks — About', url: 'http://www.aheaddrumsticks.com/about.html' },
   },
   {

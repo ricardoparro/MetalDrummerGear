@@ -1,10 +1,9 @@
 // Best Bass Drum Pedals for Metal — Issue #4433 (split 2/3 of #4394)
 // Buying-guide content for /pedals/best-for-metal. High commercial-intent
 // page: double-bass focus, then a drive-type recommendation matrix by
-// playing style and budget tier (roughly €150-900, the range the verified
-// roster's pedals actually occupy). `retailerUrls` stays empty until
-// affiliate links are added — every recommendation card is CTA-ready and
-// falls back to a link to the drummer's pedal setup page until then.
+// playing style. pedals.js has no price field, so this guide makes no price
+// claims (#10824) — every recommendation card is CTA-ready and falls back
+// to a link to the drummer's pedal setup page until affiliate links exist.
 //
 // Style/drive-type/example rows are grounded in data/pedals.js (PEDALS,
 // #4391) — never hardcoded speculation — so the guide can't drift out of
@@ -17,60 +16,60 @@ export const BEST_FOR_METAL_PAGE = {
   slug: 'best-for-metal',
   title: 'Best Bass Drum Pedals for Metal: Drive Type & Budget Guide | MetalForge',
   description:
-    'Chain vs direct drive, matched to your playing style and budget from roughly €150 to €900 — plus the verified double bass pedals legendary metal drummers actually play.',
-  keywords: 'best bass drum pedal for metal, best double bass pedal, direct drive vs chain pedal for metal, double bass pedal budget guide, metal drummer pedal recommendations',
+    'Chain vs direct drive, matched to your playing style — plus the verified double bass pedals legendary metal drummers actually play.',
+  keywords: 'best bass drum pedal for metal, best double bass pedal, direct drive vs chain pedal for metal, metal drummer pedal recommendations',
   h1: 'Best Bass Drum Pedals for Metal',
   intro:
-    'There is no single "correct" metal pedal — playing style and budget both push toward different answers. But the verified roster shows a clear pattern once you split it by those two variables: how fast and sustained your footwork needs to be decides the drive type worth paying for, and that decision maps fairly cleanly onto the roughly €150-900 range double bass pedals actually occupy. This guide covers double bass as the metal default, then matches drive type to playing style and budget tier, all anchored to the confirmed pedals below.',
+    'There is no single "correct" metal pedal — playing style pushes toward different answers. But the verified roster shows a clear pattern: how fast and sustained your footwork needs to be decides the drive type worth paying for. This guide covers double bass as the metal default, then matches drive type to playing style, all anchored to the confirmed pedals below.',
   doubleBassDefault: {
     heading: 'Double bass is the default — but not universal',
     body:
-      'Of the 56 verified pedal records in our database, 50 are double-pedal setups (a second, slave-driven beater on the same head) and only 3 are confirmed single pedals. See the /pedals/single-vs-double guide for the full mechanism and when a single pedal still makes sense — Nicko McBrain\'s "Single Bass Drum Pedal" (Iron Maiden\'s galloping traditional heavy metal) is the clearest example on the roster of a top metal drummer who never needed a second beater.',
+      'Of the 55 verified pedal records in our database, 47 are double-pedal setups (a second, slave-driven beater on the same head), 5 are confirmed single pedals, and 3 have an unconfirmed configuration. See the /pedals/single-vs-double guide for the full mechanism and when a single pedal still makes sense — Nicko McBrain\'s "Single Bass Drum Pedal" (Iron Maiden\'s galloping traditional heavy metal) is the clearest example on the roster of a top metal drummer who never needed a second beater.',
   },
   matchingDriveToStyle: {
     heading: 'Matching drive type to playing style',
     body:
-      'See the /pedals/drive-types guide for the full chain-vs-belt-vs-direct-drive breakdown. Chain drive covers 22 of the 56 verified roster pedals — it\'s the metal default, with a small amount of natural give most drummers find comfortable at any tempo. Direct drive covers 13 of the 56, concentrated among drummers who chase sustained, extreme-speed footwork; belt drive doesn\'t appear in any confirmed roster driveType, staying a niche option relative to the other two. The remaining 21 records name a specific pedal but don\'t confirm a drive type in the source material — those are left unspecified rather than guessed.',
+      'See the /pedals/drive-types guide for the full chain-vs-belt-vs-direct-drive breakdown. Chain drive covers 22 of the 55 verified roster pedals — it\'s the metal default, with a small amount of natural give most drummers find comfortable at any tempo. Direct drive covers 12 of the 55, concentrated among drummers who chase sustained, extreme-speed footwork; belt drive doesn\'t appear in any confirmed roster driveType, staying a niche option relative to the other two. The remaining 20 records name a specific pedal but don\'t confirm a drive type in the source material — those are left unspecified rather than guessed.',
   },
   matrix: [
     {
       style: 'Doom / traditional heavy metal',
       driveType: 'Chain drive or single pedal',
-      budgetTier: 'Entry (~€150-300)',
+      budgetTier: 'Entry',
       example: 'Nicko McBrain (Iron Maiden) — single bass drum pedal',
     },
     {
       style: 'Groove metal / thrash / classic double bass',
       driveType: 'Chain drive, double pedal',
-      budgetTier: 'Mid (~€300-550)',
+      budgetTier: 'Mid',
       example: 'Lars Ulrich (Metallica) — Tama Iron Cobra 900 Power Glide, chain drive',
     },
     {
       style: 'Progressive / technical / djent',
       driveType: 'Chain drive, longboard',
-      budgetTier: 'Upper-mid (~€400-650)',
+      budgetTier: 'Upper-mid',
       example: 'Tomas Haake (Meshuggah) — Tama Speed Cobra, chain drive',
     },
     {
       style: 'Extreme, blast-beat-driven metal (black, death, brutal tech-death)',
       driveType: 'Direct drive',
-      budgetTier: 'Pro / flagship (~€600-900)',
+      budgetTier: 'Pro / flagship',
       example: 'Hellhammer (Mayhem) — Axis double pedal, direct drive',
     },
   ],
   budgetTiers: [
     {
-      heading: 'Entry (~€150-300)',
+      heading: 'Entry',
       body:
         'A chain-drive single or double pedal at this tier covers doom, traditional heavy metal, and most groove metal without needing direct drive\'s zero-slack response. Chain drive\'s slight natural flex is a genuine feature at moderate tempos, not just a budget compromise.',
     },
     {
-      heading: 'Mid / gigging (~€300-650)',
+      heading: 'Mid / gigging',
       body:
         'This is where most of the verified roster\'s double pedals actually sit: chain-drive workhorses like the Tama Iron Cobra and DW 9000 Series, plus longboard chain-drive models like the Tama Speed Cobra for drummers who want more footboard length for complex, odd-grouping footwork.',
     },
     {
-      heading: 'Pro / flagship (~€600-900)',
+      heading: 'Pro / flagship',
       body:
         'Direct-drive pedals — Axis (the direct-drive specialist brand, no chain or belt at all), Pearl\'s Demon Drive and Demon XR, and boutique CNC-machined pedals like the Trick Pro1-V — remove all slack between footboard and beater for the fastest, most consistent response. This tier is concentrated among drummers chasing sustained, extreme-speed blast beats rather than a general upgrade every metal drummer needs.',
     },
@@ -84,17 +83,17 @@ export const BEST_FOR_METAL_PAGE = {
     {
       question: 'Do I need direct drive for metal, or is chain drive enough?',
       answer:
-        'Chain drive is enough for the large majority of metal styles — it covers 22 of the 56 verified roster pedals, including thrash, groove, and progressive metal drummers. Direct drive (13 of 56) is concentrated among drummers specifically chasing sustained, extreme-speed footwork, like Hellhammer\'s blast-beat-driven black metal. See the /pedals/drive-types guide for the full comparison.',
+        'Chain drive is enough for the large majority of metal styles — it covers 22 of the 55 verified roster pedals, including thrash, groove, and progressive metal drummers. Direct drive (12 of 55) is concentrated among drummers specifically chasing sustained, extreme-speed footwork, like Hellhammer\'s blast-beat-driven black metal. See the /pedals/drive-types guide for the full comparison.',
     },
     {
       question: 'How much should I budget for a metal double bass pedal?',
       answer:
-        'Verified roster pedals span roughly €150 for an entry-level chain-drive single or double pedal up to €900 for a boutique direct-drive flagship. Most gigging metal drummers land in the €300-650 mid tier with a chain-drive workhorse like the Tama Iron Cobra or DW 9000 Series.',
+        'It depends on drive type: chain-drive pedals like the Tama Iron Cobra and DW 9000 Series cover most gigging metal drummers\' needs, while direct-drive flagships like the Axis and Pearl Demon Drive sit at the top end for drummers chasing sustained, extreme-speed footwork. Check current pricing at your preferred retailer — we don\'t track pricing data.',
     },
     {
       question: 'Do I need a double bass pedal for metal?',
       answer:
-        'For most metal styles, yes — 50 of the 56 verified roster pedals are double-pedal setups. Doom, traditional heavy metal, and some groove metal are the main exceptions; Nicko McBrain\'s single pedal setup with Iron Maiden is a confirmed example. See the /pedals/single-vs-double guide for the full breakdown.',
+        'For most metal styles, yes — 47 of the 55 verified roster pedals are double-pedal setups. Doom, traditional heavy metal, and some groove metal are the main exceptions; Nicko McBrain\'s single pedal setup with Iron Maiden is a confirmed example. See the /pedals/single-vs-double guide for the full breakdown.',
     },
   ],
   sources: [

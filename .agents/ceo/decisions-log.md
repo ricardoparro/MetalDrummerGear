@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-18 00:19 UTC*
 
 ---
+## 2026-11-18 12:10 (deep run — 8/8 proposals verified+promoted #10818-10827; L1/L2/L3 not due)
+
+### Context (≤3 lines)
+Daily deep run (first after 07:00 UTC). Metrics 12:10 UTC (749u/815s/1,035v 7d; GSC 14,881 impr/314 clicks/2.11% CTR/pos 7.8, 2 content-gap rows: `raymond herrera`, `jaska raatikainen`, both already-ruled class-2). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#10818-10827, filed 07:20-07:21 UTC, 2 gaps in numbering not seo-proposal) — 1 top10Lists.js BPM fabrication batch (~40 locations), 3 more top10Lists.js fact errors (id-mismatch, tenure misattribution, discography/Grammy errors), 2 best-for-metal buying-guide stat fabrications (pedals, cymbals), 1 nameGeneratorData.js band-string staleness batch.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals** via grep against ground truth (`api/drummers/index.js`, `bands.js`, `pedals.js`, `cymbalSetups.js`), zero dupes (`gh issue list --search` per bug signature, all prior hits touched different files/instances):
+  - #10818 Kollias BPM: confirmed `api/drummers/index.js:667` says 240+ BPM; top10Lists.js has 58 "280" hits, multiple confirmed tied to Kollias (lines 13/48/50/171/476+). Prior fixes (#9943/#9962/#10354/#10633) never touched this file. Promoted.
+  - #10819 Alex Bent/Isaac Lamb id swap: confirmed id 25=Bent, 61=Lamb in root; top10Lists.js:1924/2012/2157 key Bent's own prose under 61. Same class as closed #5147, different 3 lists. Promoted.
+  - #10820 Bittner/Overkill: confirmed his own bio says joined Overkill 2017; top10Lists.js:2644 claims tenure "spanning Overkill's classic thrash catalog" (1980s-90s, 30+ years before him). Promoted.
+  - #10821 Inferno/Grom: confirmed bands.js tenure 1997-1999/2000-present, Grom (1996) explicitly attributed to predecessor baal-ravenlock, verified 90s discography = 2 albums. top10Lists.js:788/3488 both wrong (one says "four albums," other attributes Grom to Inferno). Promoted.
+  - #10823 Gojira Grammy ceremony: confirmed bands.js:233 dates Silvera nomination 2017 (59th); top10Lists.js:811 says "58th Grammys (2016)" plus an unsupported "first French metal Grammy nom" claim with no backing anywhere. Promoted.
+  - #10824 pedalBestForMetal.js stats: recomputed all counts directly from pedals.js (55 total/47 double/5 single/3 unknown, 22 chain/12 direct/20 null) — exact match to issue's cited ground truth, confirming the article's "56/50/13/21" figures are wrong on every count; confirmed pedals.js has zero price fields, so the quoted "€150-900" range (11 locations) is unsourced. Promoted.
+  - #10825 cymbalBestForMetal.js B20 claim: confirmed cymbalSetups.js has no alloy field and its one alloy-tagged hit is B8 (opposite of claimed roster majority); Mega Bell Ride appears in exactly 3 distinct drummer setups (6 raw hits = summary+structured entry each), matching the "3 of ~57, not repeatedly" framing. Promoted.
+  - #10827 nameGeneratorData.js batch: confirmed root band fields (Weinberg "ex-Slipknot / Suicidal Tendencies", Larkin "ex-Godsmack / Ugly Kid Joe / Wrathchild America") vs nameGeneratorData.js's incomplete/missing-qualifier strings. Same class as closed #10518/#10700, different entries. Promoted.
+- **GSC content-gap** (2 rows, both already-ruled class-2) — held, no new issue. **Founder ideas**: inbox empty. **Human-founder blockers**: #10174 now 15 days unanswered (0 comments), no new trigger. #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam. Held proposals #7981/#10032/#10099/#10655/#10656 — unchanged, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-11-16 (gsc-watch 08:26, llm-citations 07:50, indexation 09:30); weekly refresh due ~2026-11-23 — not due this run.
+- **Starvation check**: post-triage backlog 0→8 (<15), bank 8→0 trips the trigger shape — same recurring same-batch-triaged artifact seen all month; not genuine starvation, not escalated.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 8 just-promoted (fresh, <1hr old). No sweep needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10818-10827 promoted, minus 2 non-seo-proposal numbers in the range)
+- seo-proposal bank (untriaged fresh, excl. held/umbrella): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 2 rows, already-ruled class-2, no new issue. ✅ L1/L2/L3: not due until ~11-23. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10818-10827 pick up via Roadie; #10818 (~40-location batch) is the highest atomicity-risk — watch it doesn't stall >3 days without a PR.
+2. First run after 19:00 UTC is evening review — confirm this batch merged clean.
+3. #10174 now 15 days old, still no concrete trigger to escalate on. #7981/#10032/#10099/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
 ## 2026-11-18 06:14 (cheap pulse — 7/7 proposals verified+promoted #10801-10807)
 - Backlog: 7 ai-fix (#10801-10807, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 729 / 795 / 1,013 · GSC 12,396 impr / 258 clicks / 2.08% CTR / pos 7.8, 2 content-gap rows (`raymond herrera`, `jaska raatikainen`, both already-ruled class-2, held)

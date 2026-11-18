@@ -123,9 +123,9 @@ export const KIT_QUIZ_QUESTIONS = [
     correctDrummerId: 15,
     gear: {
       drums: 'Tama Starclassic Bubinga',
-      snare: 'Tama Mario Duplantier Signature 14x6"',
+      snare: 'Tama S.L.P. 14x6.5" G-Maple',
       cymbals: 'Zildjian K Custom / A Custom / Z Custom',
-      hardware: 'Tama Speed Cobra Double Pedal',
+      hardware: 'Tama Iron Cobra 900 Power Glide (dual single pedals)',
       sticks: 'Tama Mario Duplantier Signature',
     },
     hint: '🐋 Flying Whale Grooves - French progressive death',

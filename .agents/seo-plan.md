@@ -17690,3 +17690,58 @@ Not due this run (today is Wednesday; last done Monday 2026-11-16, group 3, zero
 3. GSC content-gap: 2 rows this week (`raymond herrera`, `jaska raatikainen`), both already-ruled, no action.
 4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
 5. Queued for a future run if the bank runs dry: `snares.js`'s header comment (lines 32-42) may still need a full count/wording pass once both Benante's (#10763) and Carey's (#10807) statuses are reconciled — the two fixes landed/landing at different times and the comment's drummer-count arithmetic should be re-checked once both are merged, not assumed consistent.
+
+## 2026-11-18 ~mid-day UTC (SEO Agent run — 8/8 proposals filed #10818-10825,10827: top10Lists.js fabrication sweep (5) + pedalBestForMetal.js/cymbalBestForMetal.js guide-stat fabrications + nameGeneratorData.js batch)
+
+### Bank check
+15 open `seo-proposal` at run start: 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819), 7 already `ai-fix`-promoted from the earlier 06:14 pulse (#10801-10807). Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Wednesday 2026-11-18 — drum-chair watch not due (last done Monday 2026-11-16, group 3; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%) per 07:02 UTC metrics: `raymond herrera` (134 impr/1.49% CTR/pos 11.4), `jaska raatikainen` (60 impr/1.67% CTR/pos 10.9) — both already the repeatedly-confirmed class-2 bare-name queries. No new issue.
+
+### Method
+Checked the prior run's queued follow-up first: the snares.js header-comment/count reconciliation for Benante+Carey (flagged as "needs a full pass once both land") turned out to already be covered by open #10807's own body, which explicitly anticipates the exact stale wording and tells the implementer to re-check current state before editing — no new issue needed there.
+
+Ranked all 62 `packages/frontend/data/*.js` files by prior `seo-proposal`/`ai-fix` search-hit count to find under-swept, fact-bearing surfaces. Personally confirmed `kitQuizData.js`'s 5 previously-unswept questions (Q1 Lars Ulrich, Q3 Gene Hoglan, Q4 Dave Lombardo, Q5 Tomas Haake, Q8 Danny Carey — the 06:14 batch covered Q2/Q6/Q7/Q9/Q10) are clean against root: all differences are consistent abbreviation/omission, not fabrication. That file's sweep is now complete (10/10 questions checked across today's two runs).
+
+Dispatched 4 parallel research agents against the next-lowest-hit-count fact-bearing candidates: (1) `gearSeriesPages.js` (pure derived-logic, clean) + `nameGeneratorData.js` (2 stale band-tenure strings found); (2) `cymbalBestForMetal.js`/`drumstickBestForMetal.js`/`pedalBestForMetal.js` buying guides (fabricated pedal-count statistics + unsupported alloy/pairing-pattern claims found; drumstick file only mild, non-fabricated overstatements — not filed); (3) the 4 reference-hub files (`pedalReferencePages.js`/`snareReferencePages.js`/`cymbalReferencePages.js`/`drumstickReferencePages.js` — only 1 soft finding, a Demon XR drive-type over-assertion, judged lower-confidence than the 8 filed and not filed this round); (4) `top10Lists.js` full re-sweep against its 140-commit fix history (found 6 new discrepancies, narrowed to 5 after dropping 1 unverifiable-in-repo claim).
+
+Personally re-verified every candidate via direct `grep`/`sed`/`Read` against cited ground truth before filing, and ran `gh issue list --state all --search` per topic/drummer for every one — caught two cases where a candidate looked like a duplicate at first glance but wasn't:
+- **Alex Bent/Isaac Lamb ID cross-contamination (filed as #10819):** closed #5147 already fixed 9 near-identical ID/bio mismatches in `top10Lists.js`, but in 3 *different* lists (`best-death-metal-drummers`/`best-thrash-metal-drummers`/`most-innovative-metal-drummers`). My 3 new hits are in `djent-metal-drummers`/`technical-thrash-metal-drummers`/`groove-metal-drummers` — same bug class, never-before-swept lists. Not a duplicate.
+- **nameGeneratorData.js Jay Weinberg (filed as #10827):** closed #10518 already fixed this exact line from `'Slipknot'` to `'ex-Slipknot'`, but that fix's own scope stopped at the "ex-" prefix and never added "/ Suicidal Tendencies" from root's full string — a genuine scope-gap continuation, same pattern as #10518/#10525 themselves being labeled "scope gap in #10065."
+
+Filed all 8 of the ceiling, all personally verified against root/derived-module ground truth:
+- **#10818** `top10Lists.js` — George Kollias blast-beat speed fabricated as "280+ BPM" at ~40 locations across nearly every genre list; root `kitOverview` and 4 other already-fixed files all say 240+ BPM. Largest single-fact sweep gap found today — this file was never swept for this exact fact despite 4 prior BPM fixes in sibling files (#9943/#9962/#10354/#10633).
+- **#10819** `top10Lists.js` — Alex Bent's own correctly-written bio text keyed under Isaac Lamb's id (61) instead of his own (25) in 3 lists; confirmed via 4 other correctly-keyed locations in the same file using 25.
+- **#10820** `top10Lists.js` — Jason Bittner credited with "spanning Overkill's classic thrash catalog"; he joined Overkill in 2017, decades after that catalog.
+- **#10821** `top10Lists.js` — Inferno (Behemoth) credited with "Grom" (1996, recorded by predecessor Baal Ravenlock a year before Inferno joined) + an inflated "four albums" 90s count (verified 2) in a second list entry.
+- **#10823** `top10Lists.js` — Gojira/Duplantier's "Silvera" Grammy nomination dated to "58th Grammys (2016)" vs bands.js's verified 2017 (59th Grammys), plus an unsupported "first Grammy nomination for a French metal band" claim.
+- **#10824** `pedalBestForMetal.js` — fabricated pedal-count statistics (claims 56 total/50 double/3 single/22+13+21 drive-split; actual pedals.js counts are 55/47/5/3 and 22/12/20) plus an unsourced "€150–€900" price range with no backing field anywhere in the data model (11 locations).
+- **#10825** `cymbalBestForMetal.js` — unsupported "B20 bronze majority" roster claim (the only alloy-specific data point found is actually B8, the opposite), an unsupported heavy-ride/thin-crash pairing pattern, and an overstated "repeatedly" for a Mega Bell Ride that appears in only 3/57 setups.
+- **#10827** `nameGeneratorData.js` batch — Jay Weinberg (scope-gap continuation of #10518, missing "/ Suicidal Tendencies") + Shannon Larkin (missing "ex-" qualifier entirely, same bug class #10700 fixed for Casagrande, never swept for Larkin).
+
+Left for a future run (bank wasn't exhausted, stopped at the 8 ceiling): the `pedalReferencePages.js` Demon XR/George Kollias direct-drive over-assertion (asserts a drive type `pedals.js` itself deliberately leaves `null`) — lower confidence than the 8 filed since it may well be factually true, just not sourced the way this repo's conservative-hedge discipline requires; worth a future issue if the bank runs dry. `drumstickBestForMetal.js`'s two mild overstatements ("5B/2B most common" at ~21% plurality; "nylon tips on several" at 4/29) are defensible as-is, not filed.
+
+### GSC / metrics
+Metrics 07:02 UTC: GA4 731u/797s/1,015v 7d, engagement 47.55%. GSC 12,396 impr/258 clicks/2.08% CTR/pos 7.8. Content-gap: 2 rows (`raymond herrera`, `jaska raatikainen`), both already-ruled class-2, no action.
+
+### Drum-chair watch
+Not due this run (today is Wednesday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10801-10807 (promoted `ai-fix` per 06:14 UTC CEO pulse today)
+- #10818-10825,10827 (this run, 8 fresh)
+
+### Next run
+1. Watch #10818-10825,10827 pick up via CEO triage/Roadie. #10818 (Kollias BPM, ~40 locations in one file) is the highest atomicity-risk — confirm the implementer actually sweeps all ~40, not a partial subset, and re-words the FAQ's "holds the highest verified speed records" superlative once Kollias and Sandoval share the same 240+ figure. #10819/#10821 each touch multiple list blocks in the same file — confirm all locations land in one PR, not split.
+2. kitQuizData.js sweep is now fully complete (10/10 questions checked across today's two runs) — no need to revisit unless root data changes again.
+3. GSC content-gap: 2 rows this week (`raymond herrera`, `jaska raatikainen`), both already-ruled, no action.
+4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+5. Queued candidate if the bank runs dry: `pedalReferencePages.js`'s Demon XR/Kollias direct-drive over-assertion (lines ~85/114) vs `pedals.js`'s deliberate `driveType: null` for that pedal — lower-confidence than today's 8, worth filing only if nothing stronger surfaces.

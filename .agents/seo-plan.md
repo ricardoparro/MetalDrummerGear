@@ -17638,3 +17638,55 @@ Not due this run (last done Monday 2026-11-16, group 3, zero changes found). Nex
 2. #7466 remains `hold`ed; revisit only after #10778 merges, and only with the corrected 2008 date — do not let it get promoted with the stale "2006" premise.
 3. GSC content-gap: 2 rows this week (`raymond herrera`, `jaska raatikainen`), both already-ruled, no action.
 4. Drum-chair watch: next due Monday 2026-11-23, group 0.
+
+---
+
+## 2026-11-18 ~01:0x UTC (SEO Agent run — 7 proposals filed #10801-10807: kitQuizData.js fabrication sweep + 2 Joey Jordison kit-name-drift fixes + Danny Carey stale-unverified classification)
+
+### Bank check
+16 open `seo-proposal` at run start (5 human-held source-conflicts #7981/#10032/#10099/#10655/#10656, 3 standing umbrellas #2211/#3810/#3819, 8 already `ai-fix`-promoted #10793-10800 per the 00:19 CEO pulse). Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Wednesday 2026-11-18 — drum-chair watch not due (not Monday).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%) per 01:02 UTC metrics: `raymond herrera` (134 impr/1.49% CTR/pos 11.4), `jaska raatikainen` (60 impr/1.67% CTR/pos 10.9) — both already the repeatedly-confirmed class-2 bare-name queries. No new issue.
+
+### Method
+Ranked all 62 files in `packages/frontend/data/` by prior `seo-proposal`/`ai-fix` issue-search hit count (`gh issue list --state all --search "<filename>"`) to find under-swept, fact-bearing surfaces. Dispatched 4 parallel research agents against the lowest-hit-count candidates that still carry per-drummer factual claims: `kitQuizData.js` (17 hits but file-wide, not question-by-question — asked for a full mechanical sweep of all 10 questions), `battles.js` (4 hits — mechanical id/slug integrity check, same bug class as the 28/72 `soundLikeGuides.js` id-mismatch bug), `snareBestForMetal.js` + `gearNews.js` (6/11 hits), `gearSeriesPages.js` + `top10ListsCatalog.js` (5 hits, continuing past the Benante-only fix in #10763).
+
+Personally re-verified every candidate via direct `grep`/`sed` against `api/drummers/index.js` before filing (dumped exact root `gear` blocks for ids 2/6/11/13/15 to cross-check line-by-line) — caught 2 cases the subagents missed by not comparing across questions, and ruled out 3 false leads:
+- `battles.js`: **clean** — 25/25 id references (17 pool + 8 curated matchups) resolve correctly, no drift bug here (unlike soundLikeGuides.js).
+- `snareBestForMetal.js` / `gearNews.js` / `gearSeriesPages.js`: **clean** — no contradictions found; one pre-existing `snares.js` internal inconsistency noted (shellMaterial field reverses token order vs its own summary field) but not this page's defect, not filed.
+- `top10ListsCatalog.js` Danny Carey: subagent found the file's line 555 still calls him "unverified," I independently confirmed via direct root read that his `verified: true`/`verifiedAt: '2026-08-08'` status is real and matches Benante's already-fixed case exactly — filed as #10807, explicitly scoped text-only (no SNARES array addition, freeze-compliant, mirrors the #10763 step-5 caveat).
+- `kitQuizData.js`: did a full line-by-line dump of all 10 questions' `gear` blocks against root for 5 drummers (Jordison/Kollias/Portnoy/Duplantier/Vinnie Paul) rather than trusting the subagent's first pass — found the subagent missed two real bugs because it checked each question in isolation rather than comparing against sibling questions: Portnoy's `drums` field is an exact copy-paste of Lombardo's string (Q4), and Duplantier's `hardware` field names a wrong pedal line/configuration the subagent didn't flag. Also caught that Jordison's `drums` field (fixed once by closed #10038 on 2026-11-01) had gone stale again because root's own truth moved to 'Pearl Reference Series' *before* #10038 shipped (via #8956, 2026-10-12) — #10038 trusted a since-correct-elsewhere-but-still-stale `extendedBios.js` read. That same extendedBios.js block now self-contradicts its own FAQ (one answer says Reference Series, another still says Masters Premium Maple) — filed as a second, separate atomic issue (#10802) rather than bundling into the kitQuizData.js fix, since it's a different file/implementer-unit.
+
+Filed all 7, all personally verified line-by-line against root:
+- **#10801** kitQuizData.js Q2 Jordison `drums` re-drifted to stale 'Pearl Masters Premium Maple' (root now 'Pearl Reference Series', 2 sibling files already corrected).
+- **#10802** extendedBios.js Jordison self-contradiction (metaTitle/metaDescription/1 FAQ answer vs. the other FAQ answer).
+- **#10803** kitQuizData.js Q6 Kollias — fabricated signature snare model, wrong pedal name ('Demon Drive Direct' → 'Demon XR'), unverified stick model asserted as fact.
+- **#10804** kitQuizData.js Q7 Portnoy — `drums` field copy-pasted from Lombardo's Q4 entry; fabricated 'Rolling Glide' pedal name (same invented term already fixed for a different drummer in #10734).
+- **#10805** kitQuizData.js Q9 Duplantier — fabricated signature snare model/size + wrong pedal line/configuration (Speed Cobra double → Iron Cobra dual singles). Fields #7022 didn't touch (that fix covered cymbals/sticks only).
+- **#10806** kitQuizData.js Q10 Vinnie Paul — drums/cymbals/hardware assert specific models root explicitly hedges as unverified; hardware is a flat wrong-brand claim (DW vs ddrum). Sticks field explicitly left on root's generic hedge, not corrected to a specific model, since the exact same fact is pending founder-hold #10656 in a different file — avoids pre-empting that resolution.
+- **#10807** snares.js + top10ListsCatalog.js — Danny Carey wrongly classified unverified; root `verified: true` since 2026-08-08, identical bug class to #10763 (Benante) which didn't cover him. Scoped text-only, explicitly not adding him to the SNARES array (freeze-blocked new page).
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 711u/775s/989v 7d, engagement 47.10%. GSC 12,396 impr/258 clicks/2.08% CTR/pos 7.8. Content-gap: 2 rows (`raymond herrera`, `jaska raatikainen`), both already-ruled class-2, no action.
+
+### Drum-chair watch
+Not due this run (today is Wednesday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10793-10800 (promoted `ai-fix` per 00:19 CEO pulse today)
+- #10801-10807 (this run, 7 fresh)
+
+### Next run
+1. Watch #10801-10807 pick up via CEO triage/Roadie. #10806 (Vinnie Paul) explicitly depends on #10656's resolution for the sticks field — confirm the implementer doesn't assert a specific model there before #10656 resolves. #10807 (Danny Carey) carries the same freeze caveat as #10763 — confirm Roadie doesn't add him to the SNARES array.
+2. #10802 (extendedBios.js) and #10801 (kitQuizData.js) both fix the same underlying Jordison kit-name fact in different files — watch both land, not just one.
+3. GSC content-gap: 2 rows this week (`raymond herrera`, `jaska raatikainen`), both already-ruled, no action.
+4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+5. Queued for a future run if the bank runs dry: `snares.js`'s header comment (lines 32-42) may still need a full count/wording pass once both Benante's (#10763) and Carey's (#10807) statuses are reconciled — the two fixes landed/landing at different times and the comment's drummer-count arithmetic should be re-checked once both are merged, not assumed consistent.

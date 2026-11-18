@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-18 08:14 UTC · Window: last 12h*
+*Generated 2026-11-18 19:08 UTC · Window: last 12h*
 
 ---
 
@@ -8,26 +8,26 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 16 |
+| Open `ai-fix` issues | **22** |
+| Open `seo-proposal` issues | 10 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
+| Open PRs | 2 |
 | PRs merged in window | **16** |
 | Issues closed in window | 15 |
-| Commits to `main` in window | 20 |
+| Commits to `main` in window | 21 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **738** |
-| Sessions | 804 |
-| Page views | 1,023 |
-| Engagement rate | 47.26% |
-| GSC impressions | 12,396 |
-| GSC clicks | 258 |
-| GSC CTR | 2.08% |
+| Active users | **762** |
+| Sessions | 832 |
+| Page views | 1,054 |
+| Engagement rate | 47.12% |
+| GSC impressions | 14,881 |
+| GSC clicks | 314 |
+| GSC CTR | 2.11% |
 | GSC avg position | 7.8 |
 
 ## 💰 Revenue trajectory (estimate)
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~4,384 |
-| Est. ad revenue / mo | **~€13.15** |
-| Progress to €1000/mo | 1.3% |
-| Pageviews/mo needed for €1000 | ~333,333 (76× current) |
+| Est. pageviews / mo | ~4,517 |
+| Est. ad revenue / mo | **~€13.55** |
+| Progress to €1000/mo | 1.4% |
+| Pageviews/mo needed for €1000 | ~333,333 (74× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -74,32 +74,40 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 26 | 26 | 0 |
-| Verify YouTube Videos | 17 | 9 | 8 |
-| Verify Data Modules | 16 | 8 | 8 |
-| Check Sitemap Drift | 16 | 8 | 8 |
-| Check llms freshness | 9 | 0 | 9 |
-| Perf Budget Gate | 8 | 0 | 8 |
+| PR Merger | 31 | 31 | 0 |
+| Verify Data Modules | 15 | 7 | 6 |
+| Check Sitemap Drift | 15 | 7 | 6 |
+| Verify YouTube Videos | 14 | 7 | 5 |
+| Perf Budget Gate | 8 | 0 | 6 |
+| Check llms freshness | 7 | 0 | 5 |
+| Health Check | 2 | 2 | 0 |
+| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 1 | 0 |
+| SEO Agent | 1 | 0 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-18 12:10 (deep run — 8/8 proposals verified+promoted #10818-10827; L1/L2/L3 not due)
 - 2026-11-18 06:14 (cheap pulse — 7/7 proposals verified+promoted #10801-10807)
 - 2026-11-18 00:19 (cheap pulse — 8/8 proposals verified+promoted #10793-10800)
 - 2026-11-17 18:09 (mid-day pulse — 5/5 proposals verified+promoted #10774-10778)
 - 2026-11-17 12:10 (deep run — 8/8 proposals verified+promoted #10763-10770; L1/L2/L3 not due this run)
 - 2026-11-17 00:19 (cheap pulse — 8/8 proposals verified+promoted #10734-10741)
-- 2026-11-17 06:12 (cheap pulse — 7/8 proposals verified+promoted #10742-10748, 1 rejected #10749)
 
 ## 📦 Shipped to main (16)
 
+- #10841 fix: #10827 SEO batch: nameGeneratorData.js Jay Weinberg + Shannon Larkin band strings stale vs root (2 entries)
+- #10840 fix: #10825 SEO: cymbalBestForMetal.js asserts a B20-alloy majority and a ride/crash pairing pattern not supported by cymbalSetups.js
+- #10839 fix: #10818 SEO batch: top10Lists.js fabricates George Kollias blast-beat speed as '280+ BPM' across ~40 locations — verified figure is 240+ BPM
+- #10838 fix: #10824 SEO: pedalBestForMetal.js fabricates pedal-count statistics and cites a price range not present in any data field
+- #10837 fix: #10823 SEO: top10Lists.js dates Gojira's 'Silvera' Grammy nomination to the wrong ceremony (58th/2016 vs verified 59th/2017) + unsupported 'first' claim
+- #10836 fix: #10821 SEO: top10Lists.js credits Inferno with Behemoth's 'Grom' (1996, recorded by predecessor) + inflates his 90s output to 'four albums'
+- #10835 fix: #10820 SEO: top10Lists.js credits Jason Bittner with 'Overkill's classic thrash catalog' — he joined in 2017, decades after it
+- #10834 fix: #10819 SEO: top10Lists.js keys Alex Bent's bio text under Isaac Lamb's drummer ID (61 instead of 25) in 3 lists
 - #10831 fix: #10807 SEO: snares.js header comment + top10ListsCatalog.js signature-snare list still classify Danny Carey as unverified — root has verified:true since 2026-08-08 (same bug class as #10763, which only fixed Charlie Benante)
 - #10830 fix: #10806 SEO: kitQuizData.js Question 10 (Vinnie Paul) asserts specific drums/cymbals/hardware models that root explicitly hedges as unverified — hardware brand is flat-out wrong (DW vs ddrum)
 - #10829 fix: #10805 SEO: kitQuizData.js Question 9 (Mario Duplantier) fabricates signature snare model + wrong pedal line/configuration
@@ -107,25 +115,17 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - #10826 fix: #10804 SEO: kitQuizData.js Question 7 (Mike Portnoy) drums field copy-pasted from Dave Lombardo's entry + fabricated 'Rolling Glide' pedal name
 - #10822 fix: #10803 SEO: kitQuizData.js Question 6 (George Kollias) fabricates a signature snare model + wrong pedal name — root marks snare unverified, pedal is Demon XR not 'Demon Drive Direct'
 - #10817 fix: #10802 SEO: extendedBios.js Joey Jordison self-contradicts its own FAQ — metaTitle/metaDescription + one FAQ answer still say 'Pearl Masters Premium Maple', another FAQ answer already says 'Pearl Reference Series'
-- #10816 fix: #10801 SEO: kitQuizData.js Joey Jordison quiz drums field re-drifted to stale 'Pearl Masters Premium Maple' — root is now 'Pearl Reference Series'
-- #10815 fix: #10798 SEO batch: snares.js fabricates 'Pearl Reference 14x6.5" Brass' as verified fact for 2 drummers whose root records were already corrected to unverified (Ryan Van Poederooyen, Jocke Wallgren) — residual of closed #10398 (~2 entries)
-- #10814 fix: #10800 SEO: Shannon Larkin root api/drummers/index.js still says Sabian 'HHX' ride — cymbalSetups.js/drummerComparisons.js/top10Lists.js already fixed to AAX-only by #8974, root never touched
-- #10813 fix: #10799 SEO: Sean Reinert cymbalSetups.js fabricates a piece-level A/K breakdown from his superseded pre-2008 era — root (#7648) corrected gear.cymbals to final K Custom Series
-- #10812 fix: #10797 SEO: Daray's snares.js entry fabricates 'Pearl Reference 14x5.5" Brass' — verified snare is Tama S.L.P. Black Brass LBR1465 (George Kollias cross-contamination pattern)
-- #10811 fix: #10796 SEO: Jaska Raatikainen root kitOverview calls Pearl Eliminator 'direct-drive' — pedalBrands.js/pedalReferencePages.js classify Eliminator as chain-drive, pedals.js itself leaves it unspecified
-- #10810 fix: #10793 SEO: Adrian Erlandsson's Vic Firth sticks called an 'official signature model' in root + endorsementNews.js, but drumsticks.js's own sourced note denies it
-- #10809 fix: #10795 SEO: Nicko McBrain pedals.js single-pedal entry still has brand:null/model:null — root's #10768 fix identified it as DW 5000 Series
 - _+1 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 355h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2665h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2761h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2938h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4023h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 366h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2676h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2772h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2949h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4034h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

@@ -378,9 +378,9 @@ export const PEDALS = [
   {
     id: 'single-bass-drum-pedal-nicko-mcbrain',
     drummerSlug: 'nicko-mcbrain',
-    summary: 'Single Bass Drum Pedal',
-    brand: null,
-    model: null,
+    summary: 'DW 5000 Series Single Pedal',
+    brand: 'DW',
+    model: '5000 Series',
     configuration: 'single',
     driveType: null,
     source: 'roster gear.hardware (verified: true; sources on the drummer record)',

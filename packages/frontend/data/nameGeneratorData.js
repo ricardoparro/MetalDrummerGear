@@ -619,7 +619,7 @@ export const DRUMMER_MATCHES = [
   {
     id: 'jay-weinberg',
     name: 'Jay Weinberg',
-    band: 'ex-Slipknot',
+    band: 'ex-Slipknot / Suicidal Tendencies',
     image: '/images/drummers/jay-weinberg.webp',
     traits: ['legacy', 'chaotic', 'energy'],
     matchQuote: 'You carry the torch with honor!'
@@ -635,7 +635,7 @@ export const DRUMMER_MATCHES = [
   {
     id: 'shannon-larkin',
     name: 'Shannon Larkin',
-    band: 'Godsmack',
+    band: 'ex-Godsmack',
     image: '/images/drummers/shannon-larkin.webp',
     traits: ['rock', 'hard-hitting', 'tribal'],
     matchQuote: 'You bring tribal power to metal!'

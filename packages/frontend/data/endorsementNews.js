@@ -4083,7 +4083,7 @@ export const ENDORSEMENT_TIMELINE = {
     currentEndorsements: {
       drums: { brand: 'Tama', model: 'Starclassic Bubinga', since: '2014' },
       cymbals: { brand: 'Sabian', model: 'AAX/HHX Series', since: '2014' },
-      sticks: { brand: 'Vic Firth', model: 'Rock Nylon Tip (At the Gates Signature)', since: '2014', signature: true },
+      sticks: { brand: 'Vic Firth', model: 'American Classic Rock Nylon Tip (ROCKN)', since: '2014', signature: false },
       heads: { brand: 'Evans', model: 'EMAD Onyx / EC Reverse Dot', since: '2014' },
       hardware: { brand: 'Monolit', model: 'Czarcie Kopyto Double Pedal', since: '2014' },
     },
@@ -4130,11 +4130,11 @@ export const ENDORSEMENT_TIMELINE = {
       },
       {
         year: 2014,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.STICKS,
         brand: 'Vic Firth',
-        product: 'Vic Firth Rock Nylon Tip (At the Gates Signature)',
-        notes: 'His long-running Vic Firth stick relationship was formalized into an official At the Gates-branded signature model, documented alongside the "At War with Reality" (2014) sessions',
+        product: 'Vic Firth American Classic Rock Nylon Tip (ROCKN)',
+        notes: 'Received the stock Rock Nylon Tip model in artist-only custom-printed batches alongside the "At War with Reality" (2014) sessions — an artist-endorsement perk, not a retail Signature Series model',
       },
       {
         year: 2014,

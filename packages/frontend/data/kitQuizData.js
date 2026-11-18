@@ -81,10 +81,10 @@ export const KIT_QUIZ_QUESTIONS = [
     correctDrummerId: 6,
     gear: {
       drums: 'Pearl Masterworks',
-      snare: 'Pearl George Kollias Signature 14x6.5"',
+      snare: 'Pearl (specific model not independently verified)',
       cymbals: 'Zildjian A Custom Series',
-      hardware: 'Pearl Demon Drive Direct Double Pedal',
-      sticks: 'Vic Firth George Kollias Signature',
+      hardware: 'Pearl Demon XR Double Pedal',
+      sticks: 'Vic Firth',
     },
     hint: '💀 Fastest Feet in Metal - Ancient gods of death',
     options: [6, 21, 3, 19], // George, Pete Sandoval, Gene, Inferno

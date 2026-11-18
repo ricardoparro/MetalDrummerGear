@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-17 19:09 UTC · Window: last 12h*
+*Generated 2026-11-18 08:14 UTC · Window: last 12h*
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **25** |
-| Open `seo-proposal` issues | 13 |
+| Open `ai-fix` issues | **20** |
+| Open `seo-proposal` issues | 16 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 4 |
-| PRs merged in window | **15** |
+| Open PRs | 0 |
+| PRs merged in window | **16** |
 | Issues closed in window | 15 |
 | Commits to `main` in window | 20 |
 
@@ -21,14 +21,14 @@
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **775** |
-| Sessions | 843 |
-| Page views | 1,086 |
-| Engagement rate | 48.99% |
-| GSC impressions | 14,920 |
-| GSC clicks | 326 |
-| GSC CTR | 2.18% |
-| GSC avg position | 7.9 |
+| Active users | **738** |
+| Sessions | 804 |
+| Page views | 1,023 |
+| Engagement rate | 47.26% |
+| GSC impressions | 12,396 |
+| GSC clicks | 258 |
+| GSC CTR | 2.08% |
+| GSC avg position | 7.8 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~4,654 |
-| Est. ad revenue / mo | **~€13.96** |
-| Progress to €1000/mo | 1.4% |
-| Pageviews/mo needed for €1000 | ~333,333 (72× current) |
+| Est. pageviews / mo | ~4,384 |
+| Est. ad revenue / mo | **~€13.15** |
+| Progress to €1000/mo | 1.3% |
+| Pageviews/mo needed for €1000 | ~333,333 (76× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,66 +65,67 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 6d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 10d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 39d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 5d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 9d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 38d | _awaiting scanner run_ |
+| Sean Reinert — 7 anos | 67d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 31 | 29 | 1 |
-| Check Sitemap Drift | 14 | 7 | 3 |
-| Verify YouTube Videos | 14 | 7 | 3 |
-| Verify Data Modules | 14 | 7 | 3 |
-| Check llms freshness | 8 | 0 | 4 |
-| Perf Budget Gate | 7 | 0 | 3 |
-| Health Check | 2 | 2 | 0 |
-| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
-| Verify API Modules | 2 | 1 | 1 |
+| PR Merger | 26 | 26 | 0 |
+| Verify YouTube Videos | 17 | 9 | 8 |
+| Verify Data Modules | 16 | 8 | 8 |
+| Check Sitemap Drift | 16 | 8 | 8 |
+| Check llms freshness | 9 | 0 | 9 |
+| Perf Budget Gate | 8 | 0 | 8 |
 | Daily Digest | 1 | 0 | 0 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
-| Roadie Night Fleet | 1 | 0 | 0 |
-| SEO Agent | 1 | 0 | 0 |
+| SEO Agent | 1 | 1 | 0 |
+| Prune Proposals | 1 | 1 | 0 |
+| Health Check | 1 | 1 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| X Agent | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-18 06:14 (cheap pulse — 7/7 proposals verified+promoted #10801-10807)
+- 2026-11-18 00:19 (cheap pulse — 8/8 proposals verified+promoted #10793-10800)
 - 2026-11-17 18:09 (mid-day pulse — 5/5 proposals verified+promoted #10774-10778)
 - 2026-11-17 12:10 (deep run — 8/8 proposals verified+promoted #10763-10770; L1/L2/L3 not due this run)
 - 2026-11-17 00:19 (cheap pulse — 8/8 proposals verified+promoted #10734-10741)
-- 2026-11-16 00:23 (cheap pulse — 4/4 proposals verified+promoted #10692/10694/10695/10697)
-- 2026-11-16 06:18 (cheap pulse — 4/4 proposals verified+promoted #10699-10702)
-- 2026-11-16 12:15 (deep run — 8/8 proposals verified+promoted #10707-10714; L1/L2/L3 full close-the-loop; 1 L3 regression
+- 2026-11-17 06:12 (cheap pulse — 7/8 proposals verified+promoted #10742-10748, 1 rejected #10749)
 
-## 📦 Shipped to main (15)
+## 📦 Shipped to main (16)
 
-- #10786 fix: #10770 SEO: drummerEvolution.js Nick Augusto still fabricates 'Pearl Reference 14x6.5" Brass' snare (3 locations) — fixed in api/drummers/index.js by #10398 and soundLikeGuides.js by #10443, never swept here
-- #10785 fix: #10768 SEO: Nicko McBrain pedal/hardware brand self-contradicts (endorsementNews.js says 'unconfirmed' AND 'DW since 1984'; root record says stale unsourced 'Sonor') — 4 already-shipped fixes assumed DW, root never updated
-- #10784 fix: #10769 SEO: endorsementNews.js Mikkey Dee 1987 Paiste note wrongly says 'early Motörhead years' — he was in King Diamond until 1989, Motörhead didn't start until 1992
-- #10783 fix: #10767 SEO: endorsementNews.js Matt Greiner fabricates a 2017 'Pearl signature snare' timeline entry — verified gear is Mapex since 2016
-- #10782 fix: #10766 SEO: endorsementNews.js Gene Hoglan fabricates a nonexistent 'Tama Gene Hoglan Signature Snare 14x8"' (2008) — never touched despite #7928 fixing the same fabrication elsewhere
-- #10781 fix: #10765 SEO: beginnerGuides.js George Kollias 'triggers' claim unsupported — survived #7073's brand fix, still unverified
-- #10780 fix: #10764 SEO: beginnerGuides.js fabricates Chris Adler 'uses triggers' claim — unsupported by verified gear record
-- #10779 fix: #10763 SEO: snares.js/top10ListsCatalog.js still exclude Charlie Benante's signature snare as 'unverified' — root record has been verified:true with sources since Aug 2026
-- #10773 fix: #10748 SEO: Igor Cavalera soundLikeGuides.js undercounts Sepultura tenure as ending at Roots (1996) — verified through Dante XXI (2006)
-- #10772 fix: #10747 SEO: Shannon Larkin's api/drummers/index.js root record still shows Godsmack '2002–present, current: true' — verified retired 2024
-- #10771 fix: #10746 SEO: Mario Duplantier api/drummers/index.js root record self-contradicts on double pedal — regresses #9433's already-shipped fix
-- #10761 fix: #10744 SEO: Nick Menza snare shell material fabricated as 'Maple' in soundLikeGuides.js — snares.js deliberately leaves it unverified
-- #10762 fix: #10745 SEO: Gene Hoglan kit shell material wrong 'Maple/Birch Hybrid' in soundLikeGuides.js — verified kitOverview says maple/mahogany hybrid
-- #10760 fix: #10743 SEO: Tomas Haake snare wrong depth (14x6" vs verified 14x6.5") + wrong shell material (Steel vs verified Bronze) in soundLikeGuides.js
-- #10759 fix: #10742 SEO batch: soundLikeGuides.js drummerId mismatches drummerName in 28/72 entries — breaks live navigation
+- #10831 fix: #10807 SEO: snares.js header comment + top10ListsCatalog.js signature-snare list still classify Danny Carey as unverified — root has verified:true since 2026-08-08 (same bug class as #10763, which only fixed Charlie Benante)
+- #10830 fix: #10806 SEO: kitQuizData.js Question 10 (Vinnie Paul) asserts specific drums/cymbals/hardware models that root explicitly hedges as unverified — hardware brand is flat-out wrong (DW vs ddrum)
+- #10829 fix: #10805 SEO: kitQuizData.js Question 9 (Mario Duplantier) fabricates signature snare model + wrong pedal line/configuration
+- #10828 fix: #10805 SEO: kitQuizData.js Question 9 (Mario Duplantier) fabricates signature snare model + wrong pedal line/configuration
+- #10826 fix: #10804 SEO: kitQuizData.js Question 7 (Mike Portnoy) drums field copy-pasted from Dave Lombardo's entry + fabricated 'Rolling Glide' pedal name
+- #10822 fix: #10803 SEO: kitQuizData.js Question 6 (George Kollias) fabricates a signature snare model + wrong pedal name — root marks snare unverified, pedal is Demon XR not 'Demon Drive Direct'
+- #10817 fix: #10802 SEO: extendedBios.js Joey Jordison self-contradicts its own FAQ — metaTitle/metaDescription + one FAQ answer still say 'Pearl Masters Premium Maple', another FAQ answer already says 'Pearl Reference Series'
+- #10816 fix: #10801 SEO: kitQuizData.js Joey Jordison quiz drums field re-drifted to stale 'Pearl Masters Premium Maple' — root is now 'Pearl Reference Series'
+- #10815 fix: #10798 SEO batch: snares.js fabricates 'Pearl Reference 14x6.5" Brass' as verified fact for 2 drummers whose root records were already corrected to unverified (Ryan Van Poederooyen, Jocke Wallgren) — residual of closed #10398 (~2 entries)
+- #10814 fix: #10800 SEO: Shannon Larkin root api/drummers/index.js still says Sabian 'HHX' ride — cymbalSetups.js/drummerComparisons.js/top10Lists.js already fixed to AAX-only by #8974, root never touched
+- #10813 fix: #10799 SEO: Sean Reinert cymbalSetups.js fabricates a piece-level A/K breakdown from his superseded pre-2008 era — root (#7648) corrected gear.cymbals to final K Custom Series
+- #10812 fix: #10797 SEO: Daray's snares.js entry fabricates 'Pearl Reference 14x5.5" Brass' — verified snare is Tama S.L.P. Black Brass LBR1465 (George Kollias cross-contamination pattern)
+- #10811 fix: #10796 SEO: Jaska Raatikainen root kitOverview calls Pearl Eliminator 'direct-drive' — pedalBrands.js/pedalReferencePages.js classify Eliminator as chain-drive, pedals.js itself leaves it unspecified
+- #10810 fix: #10793 SEO: Adrian Erlandsson's Vic Firth sticks called an 'official signature model' in root + endorsementNews.js, but drumsticks.js's own sourced note denies it
+- #10809 fix: #10795 SEO: Nicko McBrain pedals.js single-pedal entry still has brand:null/model:null — root's #10768 fix identified it as DW 5000 Series
+- _+1 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 342h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2652h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2748h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2925h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4010h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 355h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2665h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2761h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2938h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4023h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

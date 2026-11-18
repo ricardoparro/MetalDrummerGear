@@ -769,16 +769,9 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'sean-reinert',
-    summary: 'Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)',
+    summary: 'Zildjian K Custom Series',
     brands: ['Zildjian'],
-    pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'A', model: 'Quick Beat Hi-Hats' },
-      { type: 'crash', sizeIn: 16, series: 'A', model: 'Crash' },
-      { type: 'crash', sizeIn: 18, series: 'A', model: 'Crash' },
-      { type: 'ride', sizeIn: 20, series: 'K Custom', model: 'Dry Ride' },
-      { type: 'china', sizeIn: 16, series: 'A/K', model: 'China' },
-      { type: 'splash', sizeIn: 10, series: 'A', model: 'Splash' },
-    ],
+    pieces: [],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
     retailerUrls: {},
   },

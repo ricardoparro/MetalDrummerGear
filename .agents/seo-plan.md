@@ -17745,3 +17745,49 @@ Not due this run (today is Wednesday; last done Monday 2026-11-16, group 3, zero
 3. GSC content-gap: 2 rows this week (`raymond herrera`, `jaska raatikainen`), both already-ruled, no action.
 4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
 5. Queued candidate if the bank runs dry: `pedalReferencePages.js`'s Demon XR/Kollias direct-drive over-assertion (lines ~85/114) vs `pedals.js`'s deliberate `driveType: null` for that pedal — lower-confidence than today's 8, worth filing only if nothing stronger surfaces.
+
+---
+
+## 2026-11-18 ~13:0x UTC (SEO Agent run — 2 proposals filed #10832/#10833: brand-hub fabrication sweep)
+
+### Bank check
+16 open `seo-proposal` at run start: 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819), 8 already `ai-fix`-promoted #10818-10827 (minus 2 non-seo-proposal numbers) per the 12:10 UTC CEO deep run. Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Wednesday 2026-11-18 — drum-chair watch not due (last done Monday 2026-11-16, group 3; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%) per 13:02 UTC metrics: `raymond herrera` (156 impr/1.28% CTR/pos 11.4), `jaska raatikainen` (72 impr/1.39% CTR/pos 11.1) — both already the repeatedly-confirmed class-2 bare-name queries (`learned-patterns.md` lines 254/258/262/276). No new issue.
+
+### Method
+Ranked `packages/frontend/data/*.js` by prior `seo-proposal`/`ai-fix` search-hit count to find under-swept, fact-bearing surfaces not already exhausted by today's two earlier runs (which cleared `kitQuizData.js`, `top10Lists.js`, `nameGeneratorData.js`, `pedalBestForMetal.js`, `cymbalBestForMetal.js`). Targeted the 4 brand-hub modules (`snareBrands.js`/`cymbalBrands.js`/`pedalBrands.js`/`drumstickBrands.js`, 11-16 hits each) — hand-authored `positioning`/`notableLines` prose that names specific drummers alongside signature-model claims, the same shape as the already-known #7090/#8635 bug class in this file family (brand-hub prose asserting a drummer↔model link the live data module doesn't support). Dispatched 1 agent per 3 files, personally re-verified every candidate via direct `grep`/`Read` against `snares.js`/`drumsticks.js`/`pedals.js`/`cymbalSetups.js`/`api/drummers/index.js` before filing.
+
+Also checked a second pass (`birthdays.js`, `drummersByKit.js`, `gearIndex.js`, `featuredDrummer.js`) — all came back clean (dates match, the 4 historically-contested kit-brand drummers either absent or correct, `gearIndex.js` is a generated file, `featuredDrummer.js` has no hardcoded facts). No issue filed from that pass.
+
+Filed 2, both personally verified line-by-line against ground truth:
+- **#10832** `snareBrands.js` Pearl block (lines 49/53) states "George Kollias's 14x6.5\" snares" as a Pearl artist-signature model — `snares.js`'s own header comment (lines 34-37) explicitly documents this exact fact as fabricated and removed per #10577, and confirmed he has zero `SNARES` entries. This file was never swept when #10577 shipped. Scoped the fix to leave Joey Jordison's (correct) half of the same sentence/line untouched, and explicitly told the implementer not to touch the Daniel Erlandsson mention in the same `notableLines` string — that's the subject of the still-open founder-hold #10655, out of scope here.
+- **#10833** `drumstickBrands.js` Ahead block `notableLines` ("Speed Metal (JJ1/MT)") attributes the model to Joey Jordison — `drumsticks.js` has zero Ahead records for him (his only stick record is ProMark TX515W) and Ahead's one verified roster endorser is Lars Ulrich. Live `getConfirmedSticksForBrand()` linker would never generate this pairing; it only exists in hand-authored prose that bypasses the mechanical safeguard.
+
+Checked `cymbalBrands.js` and `pedalBrands.js` fully (cymbal brand↔drummer links are 100% computed live, never hardcoded, structurally can't fabricate; pedal brand file's ~15 named drummer/model pairs all matched `pedals.js` exactly, including George Kollias's Demon XR *pedal co-design* credit, which is verified — a different fact from his *snare*). Stopped at 2 rather than padding toward 8 — both are high-confidence, independently-verified, and the two sweep passes (brand-hub + birthdays/kit-brand/gearIndex/featured) didn't surface further candidates without diluting into the deliberately-queued lower-confidence item below.
+
+Re-confirmed the still-queued, not-yet-filed candidate from the mid-day run: `pedalReferencePages.js`'s Demon XR/Kollias "(direct drive)" assertion vs. `pedals.js`'s own deliberate `driveType: null` for that exact pedal record — same lower-confidence judgment holds (a real product's drive type is plausibly true, just not sourced to this repo's hedge-discipline standard); left queued again, not filed.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 750u/816s/1,036v 7d, engagement 47.06%. GSC 14,881 impr/314 clicks/2.11% CTR/pos 7.8. Content-gap: 2 rows (`raymond herrera`, `jaska raatikainen`), both already-ruled class-2, no action.
+
+### Drum-chair watch
+Not due this run (today is Wednesday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10818-10827 (promoted `ai-fix` per 12:10 UTC CEO deep run today)
+- #10832/#10833 (this run, 2 fresh)
+
+### Next run
+1. Watch #10832/#10833 pick up via CEO triage/Roadie. #10832 explicitly must NOT touch the Daniel Erlandsson clause in the same `notableLines` string (held by #10655) — confirm the implementer's diff is scoped to only the Kollias text.
+2. Queued candidate if the bank runs dry: `pedalReferencePages.js` Demon XR/Kollias direct-drive over-assertion (lines ~85/114) vs `pedals.js`'s deliberate `driveType: null` — still lower-confidence, unfiled by two consecutive runs now.
+3. GSC content-gap: 2 rows this week (`raymond herrera`, `jaska raatikainen`), both already-ruled, no action.
+4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

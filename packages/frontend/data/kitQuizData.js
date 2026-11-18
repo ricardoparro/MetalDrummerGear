@@ -94,10 +94,10 @@ export const KIT_QUIZ_QUESTIONS = [
     // Mike Portnoy
     correctDrummerId: 13,
     gear: {
-      drums: 'Tama Starclassic Walnut/Birch',
+      drums: 'Tama Starclassic Maple + Starclassic Bubinga',
       snare: 'Tama Mike Portnoy Signature 14x5.5"',
       cymbals: 'Sabian HHX & AAX Series',
-      hardware: 'Tama Iron Cobra 900 Rolling Glide',
+      hardware: 'Tama Iron Cobra Power Glide Twin Pedal',
       sticks: 'Promark Mike Portnoy Signature',
     },
     hint: '🌀 Prog Metal Pioneer - Dream on, prog fans!',

@@ -30,19 +30,24 @@
  * Only roster drummers with `gear.verified: true` are parsed here (54 of 67),
  * matching the cymbalSetups.js (#4303) audit exactly.
  * Unverified drummers (wait for a research pass before their snares are added;
- * never guessed): ray-luzier, vinnie-paul, charlie-benante, mike-portnoy,
- * danny-carey, brann-dailor, matt-halpern, pete-sandoval, arin-ilejay,
- * nick-augusto, isaac-lamb, gene-hoglan, george-kollias (#10577: fabricated
- * "George Kollias Signature" snare removed from the roster record — no
- * verified signature snare model exists), ryan-van-poederooyen, jocke-wallgren
- * (#10798: fabricated "Pearl Reference 14x6.5\" Brass" removed — the roster
- * record's snare model is not independently verified for either drummer).
+ * never guessed): ray-luzier, vinnie-paul, mike-portnoy, brann-dailor,
+ * matt-halpern, pete-sandoval, arin-ilejay, nick-augusto, isaac-lamb,
+ * gene-hoglan, george-kollias (#10577: fabricated "George Kollias Signature"
+ * snare removed from the roster record — no verified signature snare model
+ * exists), ryan-van-poederooyen, jocke-wallgren (#10798: fabricated "Pearl
+ * Reference 14x6.5\" Brass" removed — the roster record's snare model is not
+ * independently verified for either drummer).
  *
- * 13 roster drummers have a literal "Signature" snare model, but 4 of them
- * (Vinnie Paul, Charlie Benante, Mike Portnoy, Danny Carey) are unverified and
- * excluded above — so 9 signature snares are flagged (`isSignature: true`)
- * in this module. The flagship /snares/signature/<drummer> pages (phase 3)
- * read from this subset.
+ * 13 roster drummers have a literal "Signature" snare model. Of those, Vinnie
+ * Paul and Mike Portnoy are genuinely unverified and excluded above. Charlie
+ * Benante and Danny Carey both carry `verified: true` signature-snare records
+ * in the roster (since 2026-08-08, #10763/#10807) but are deliberately left
+ * out of the SNARES array below — adding either would create a new
+ * /snares/signature/<drummer> page, which conflicts with the active new-page
+ * freeze. So 9 signature snares are flagged (`isSignature: true`) in this
+ * module; Benante and Carey are a freeze-blocked follow-up for whoever lifts
+ * it. The flagship /snares/signature/<drummer> pages (phase 3) read from
+ * this subset.
  *
  * Parsing is conservative: size is only recorded for the first size mentioned
  * when a summary lists more than one snare (e.g. a rack/piccolo pairing), and

@@ -34,7 +34,9 @@
  * danny-carey, brann-dailor, matt-halpern, pete-sandoval, arin-ilejay,
  * nick-augusto, isaac-lamb, gene-hoglan, george-kollias (#10577: fabricated
  * "George Kollias Signature" snare removed from the roster record — no
- * verified signature snare model exists).
+ * verified signature snare model exists), ryan-van-poederooyen, jocke-wallgren
+ * (#10798: fabricated "Pearl Reference 14x6.5\" Brass" removed — the roster
+ * record's snare model is not independently verified for either drummer).
  *
  * 13 roster drummers have a literal "Signature" snare model, but 4 of them
  * (Vinnie Paul, Charlie Benante, Mike Portnoy, Danny Carey) are unverified and
@@ -374,18 +376,6 @@ export const SNARES = [
     retailerUrls: {},
   },
   {
-    drummerSlug: 'ryan-van-poederooyen',
-    summary: 'Pearl Reference 14x6.5" Brass',
-    brand: 'Pearl',
-    model: 'Reference Brass',
-    sizeIn: 14,
-    depthIn: 6.5,
-    shellMaterial: 'Brass',
-    isSignature: false,
-    source: 'roster gear.snare (verified: true; sources on the drummer record)',
-    retailerUrls: {},
-  },
-  {
     drummerSlug: 'nicko-mcbrain',
     summary: 'Sonor Nicko McBrain Signature 14x6.5"',
     brand: 'Sonor',
@@ -582,18 +572,6 @@ export const SNARES = [
     model: 'Reference Brass',
     sizeIn: 14,
     depthIn: 5.5,
-    shellMaterial: 'Brass',
-    isSignature: false,
-    source: 'roster gear.snare (verified: true; sources on the drummer record)',
-    retailerUrls: {},
-  },
-  {
-    drummerSlug: 'jocke-wallgren',
-    summary: 'Pearl Reference 14x6.5" Brass',
-    brand: 'Pearl',
-    model: 'Reference Brass',
-    sizeIn: 14,
-    depthIn: 6.5,
     shellMaterial: 'Brass',
     isSignature: false,
     source: 'roster gear.snare (verified: true; sources on the drummer record)',

@@ -5,6 +5,17 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-18 00:19 UTC*
 
 ---
+## 2026-11-18 06:14 (cheap pulse — 7/7 proposals verified+promoted #10801-10807)
+- Backlog: 7 ai-fix (#10801-10807, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
+- Org/Sessions/Views (7d): 729 / 795 / 1,013 · GSC 12,396 impr / 258 clicks / 2.08% CTR / pos 7.8, 2 content-gap rows (`raymond herrera`, `jaska raatikainen`, both already-ruled class-2, held)
+- Confirmed 00:19 batch (#10793-10800) merged clean (0 open PRs, 0 eligible backlog at run start besides the 20 intentionally-held roster/bands splits). Blockers unchanged: #10174 (15 days, 0 comments, no trigger) · #7981/#10032/#10099/#10655/#10656 held (updatedAt/comments unchanged) · #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam
+- Actions: live-verified all 7 fresh proposals against `api/drummers/index.js` ground truth — #10801 (Joey Jordison kitQuizData.js drums field re-drifted to stale 'Pearl Masters Premium Maple', root is 'Pearl Reference Series'), #10802 (extendedBios.js Joey Jordison FAQ self-contradiction, confirmed 2 of 3 stale FAQ answers, flagged a 3rd the issue missed), #10803 (George Kollias kitQuizData.js fabricated signature snare + wrong pedal name, confirmed vs root's hedged/unverified record), #10804 (Mike Portnoy kitQuizData.js drums field copy-pasted from Lombardo's entry + fabricated 'Rolling Glide' pedal), #10805 (Mario Duplantier kitQuizData.js fabricated signature snare + wrong pedal config), #10806 (Vinnie Paul kitQuizData.js asserting fabricated specific models incl. wrong hardware brand DW vs ddrum), #10807 (snares.js/top10ListsCatalog.js still classify Danny Carey as unverified despite root's verified:true since 2026-08-08, same bug class as closed #10763/#10597) — zero dupes vs closed sibling issues, all 7 promoted with verification comments
+- L1/L2/L3 snapshots still dated 2026-11-16 (gsc-watch 08:26, indexation 09:30); weekly refresh due ~2026-11-23 — not due this run
+- Next check: first run after 07:00 UTC is the daily deep run — full metrics/GSC-gap/L1/L2/L3 pass (not due until ~11-23)
+
+---
+
+---
 ## 2026-11-18 00:19 (cheap pulse — 8/8 proposals verified+promoted #10793-10800)
 
 ### Context (≤3 lines)

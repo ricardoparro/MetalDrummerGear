@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-19 01:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-19 06:13 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,86 +8,88 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 712 |
-| Sessions | 778 |
-| Page views | 1,017 |
-| Engagement rate | 47.43% |
-| Avg session (s) | 181 |
+| Active users | 760 |
+| Sessions | 828 |
+| Page views | 1,088 |
+| Engagement rate | 46.74% |
+| Avg session (s) | 171 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 33 | 21 |
-| /drummer/eloy-casagrande | 18 | 10 |
+| / | 36 | 23 |
+| /drummer/eloy-casagrande | 20 | 12 |
+| /drummers | 18 | 11 |
 | /guides | 18 | 4 |
-| /drummer/mario-duplantier | 15 | 12 |
-| /drummers | 15 | 9 |
+| /drummer/mario-duplantier | 16 | 13 |
 | /articles/white-pony-drum-setup | 12 | 10 |
 | /drummer/ben-koller | 12 | 8 |
+| /drummer/igor-cavalera | 12 | 10 |
 | /drummer/jaska-raatikainen | 12 | 8 |
-| /drummer/igor-cavalera | 11 | 9 |
 | /techniques/gravity-blast | 11 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 418 | 349 |
-| Direct | 356 | 357 |
-| Unassigned | 12 | 10 |
+| Organic Search | 428 | 358 |
+| Direct | 395 | 395 |
+| Unassigned | 21 | 18 |
 | Organic Social | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 302 | 266 |
+| United States | 320 | 283 |
+| Brazil | 45 | 44 |
 | Singapore | 44 | 44 |
-| Brazil | 39 | 38 |
-| United Kingdom | 33 | 28 |
-| Germany | 30 | 27 |
-| Canada | 24 | 22 |
-| France | 20 | 17 |
+| United Kingdom | 34 | 29 |
+| Germany | 31 | 28 |
+| Canada | 25 | 23 |
+| France | 21 | 18 |
+| Colombia | 17 | 17 |
+| Australia | 16 | 13 |
 | Vietnam | 16 | 16 |
-| Australia | 15 | 12 |
-| Colombia | 14 | 14 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 12,364 |
-| Clicks | 260 |
-| CTR | 2.10% |
+| Impressions | 14,926 |
+| Clicks | 305 |
+| CTR | 2.04% |
 | Avg position | 7.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
+| jaska raatikainen drum set | 10 | 3 | 30.00% | 1.0 |
 | best drum kits for metal | 4 | 2 | 50.00% | 5.8 |
-| jaska raatikainen drum set | 9 | 2 | 22.22% | 1.0 |
+| joey jordison 1999 drum kit | 4 | 2 | 50.00% | 1.3 |
 | abe cunningham cymbal setup | 5 | 1 | 20.00% | 6.8 |
 | best china cymbals for metal | 3 | 1 | 33.33% | 3.3 |
 | best death metal drummers of all time | 9 | 1 | 11.11% | 4.8 |
-| best extreme metal drummers | 3 | 1 | 33.33% | 2.3 |
+| best extreme metal drummers | 4 | 1 | 25.00% | 2.8 |
+| bill ward drum kit | 16 | 1 | 6.25% | 4.1 |
+| bill ward drum setup 1970 | 2 | 1 | 50.00% | 2.0 |
 | bill ward drumset | 4 | 1 | 25.00% | 3.0 |
-| death metal drummers | 6 | 1 | 16.67% | 7.8 |
-| deathcore drum kit | 3 | 1 | 33.33% | 5.3 |
-| eloy casagrande drum kit slipknot | 2 | 1 | 50.00% | 1.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,089 | 86 | 2.10% | 8.0 |
-| can | 598 | 18 | 3.01% | 7.3 |
-| deu | 422 | 17 | 4.03% | 7.4 |
-| gbr | 752 | 14 | 1.86% | 8.2 |
-| fra | 206 | 10 | 4.85% | 7.3 |
-| bra | 602 | 9 | 1.50% | 9.4 |
-| idn | 227 | 9 | 3.96% | 6.9 |
-| ita | 161 | 8 | 4.97% | 7.6 |
-| fin | 213 | 7 | 3.29% | 6.3 |
-| pol | 230 | 6 | 2.61% | 6.5 |
+| usa | 4,967 | 106 | 2.13% | 8.0 |
+| can | 719 | 20 | 2.78% | 7.4 |
+| deu | 501 | 19 | 3.79% | 7.4 |
+| gbr | 903 | 18 | 1.99% | 8.3 |
+| fra | 252 | 12 | 4.76% | 7.2 |
+| bra | 722 | 11 | 1.52% | 9.5 |
+| fin | 244 | 9 | 3.69% | 6.4 |
+| idn | 282 | 9 | 3.19% | 7.3 |
+| ita | 212 | 8 | 3.77% | 7.2 |
+| arg | 121 | 6 | 4.96% | 9.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-_no significant gaps detected — all queries with traction have decent CTR_
+| Query | Impr | CTR | Pos | Action |
+| --- | --- | --- | --- | --- |
+| jaska raatikainen | 54 | 1.85% | 12.1 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -16403,7 +16403,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'Who is the fastest death metal drummer?',
-        a: 'Tim Yeung is widely cited among the fastest death metal drummers, documented sustaining blast beat tempos of 200-280 BPM with consistent precision across full Hate Eternal and Morbid Angel sets — a range that places him at the top tier of extreme metal speed drumming.',
+        a: 'Tim Yeung is widely cited among the fastest death metal drummers, known for sustaining blast beats at extreme tempos with consistent precision across full Hate Eternal and Morbid Angel sets — a reputation that places him at the top tier of extreme metal speed drumming.',
       },
       {
         q: 'What bands has Tim Yeung played with?',
@@ -16419,7 +16419,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What pedal does Tim Yeung use for his double bass technique?',
-        a: 'Tim Yeung uses the Tama Speed Cobra 910 double bass pedal, prized for its smooth, direct-drive cam action that supports his relaxed, rebound-efficient technique at 200-280 BPM. He has used the same pedal since signing with Tama on Divine Heresy\'s Bringer of Plagues (2009).',
+        a: 'Tim Yeung uses the Tama Speed Cobra 910 double bass pedal, prized for its smooth, direct-drive cam action that supports his relaxed, rebound-efficient technique at extreme tempos. He has used the same pedal since signing with Tama on Divine Heresy\'s Bringer of Plagues (2009).',
       },
     ],
 

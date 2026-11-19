@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-19 07:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-19 08:14 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 764 |
-| Sessions | 832 |
-| Page views | 1,094 |
-| Engagement rate | 46.75% |
-| Avg session (s) | 171 |
+| Active users | 772 |
+| Sessions | 840 |
+| Page views | 1,107 |
+| Engagement rate | 46.67% |
+| Avg session (s) | 170 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -22,8 +22,8 @@
 | /drummers | 18 | 11 |
 | /guides | 18 | 4 |
 | /drummer/mario-duplantier | 16 | 13 |
+| /drummer/ben-koller | 14 | 9 |
 | /articles/white-pony-drum-setup | 12 | 10 |
-| /drummer/ben-koller | 12 | 8 |
 | /drummer/igor-cavalera | 12 | 10 |
 | /drummer/jaska-raatikainen | 12 | 8 |
 | /techniques/gravity-blast | 11 | 6 |
@@ -31,24 +31,24 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 431 | 361 |
-| Direct | 397 | 397 |
-| Unassigned | 21 | 18 |
+| Organic Search | 434 | 364 |
+| Direct | 402 | 402 |
+| Unassigned | 24 | 21 |
 | Organic Social | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 324 | 287 |
-| Brazil | 45 | 44 |
+| United States | 328 | 291 |
+| Brazil | 46 | 45 |
 | Singapore | 44 | 44 |
 | United Kingdom | 34 | 29 |
 | Germany | 31 | 28 |
 | Canada | 25 | 23 |
-| France | 21 | 18 |
+| France | 22 | 19 |
 | Colombia | 17 | 17 |
+| Vietnam | 17 | 17 |
 | Australia | 16 | 13 |
-| Vietnam | 16 | 16 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

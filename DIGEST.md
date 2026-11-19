@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-18 19:08 UTC · Window: last 12h*
+*Generated 2026-11-19 08:14 UTC · Window: last 12h*
 
 ---
 
@@ -8,27 +8,27 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **22** |
-| Open `seo-proposal` issues | 10 |
+| Open `ai-fix` issues | **20** |
+| Open `seo-proposal` issues | 13 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 2 |
-| PRs merged in window | **16** |
-| Issues closed in window | 15 |
-| Commits to `main` in window | 21 |
+| Open PRs | 0 |
+| PRs merged in window | **12** |
+| Issues closed in window | 12 |
+| Commits to `main` in window | 16 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **762** |
-| Sessions | 832 |
-| Page views | 1,054 |
-| Engagement rate | 47.12% |
-| GSC impressions | 14,881 |
-| GSC clicks | 314 |
-| GSC CTR | 2.11% |
-| GSC avg position | 7.8 |
+| Active users | **772** |
+| Sessions | 840 |
+| Page views | 1,107 |
+| Engagement rate | 46.67% |
+| GSC impressions | 14,926 |
+| GSC clicks | 305 |
+| GSC CTR | 2.04% |
+| GSC avg position | 7.9 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~4,517 |
-| Est. ad revenue / mo | **~€13.55** |
+| Est. pageviews / mo | ~4,744 |
+| Est. ad revenue / mo | **~€14.23** |
 | Progress to €1000/mo | 1.4% |
-| Pageviews/mo needed for €1000 | ~333,333 (74× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (70× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,67 +65,63 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 5d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 9d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 38d | _awaiting scanner run_ |
-| Sean Reinert — 7 anos | 67d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 4d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 8d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 37d | _awaiting scanner run_ |
+| Sean Reinert — 7 anos | 66d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 31 | 31 | 0 |
-| Verify Data Modules | 15 | 7 | 6 |
-| Check Sitemap Drift | 15 | 7 | 6 |
-| Verify YouTube Videos | 14 | 7 | 5 |
-| Perf Budget Gate | 8 | 0 | 6 |
-| Check llms freshness | 7 | 0 | 5 |
-| Health Check | 2 | 2 | 0 |
-| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
+| PR Merger | 27 | 27 | 0 |
+| Verify YouTube Videos | 17 | 9 | 8 |
+| Check Sitemap Drift | 16 | 8 | 8 |
+| Verify Data Modules | 15 | 7 | 8 |
+| Check llms freshness | 9 | 0 | 9 |
+| Perf Budget Gate | 8 | 0 | 8 |
 | Daily Digest | 1 | 0 | 0 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
-| Roadie Night Fleet | 1 | 1 | 0 |
-| SEO Agent | 1 | 0 | 0 |
+| SEO Agent | 1 | 1 | 0 |
+| Prune Proposals | 1 | 1 | 0 |
+| Health Check | 1 | 1 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| X Agent | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
 - 2026-11-18 12:10 (deep run — 8/8 proposals verified+promoted #10818-10827; L1/L2/L3 not due)
 - 2026-11-18 06:14 (cheap pulse — 7/7 proposals verified+promoted #10801-10807)
 - 2026-11-18 00:19 (cheap pulse — 8/8 proposals verified+promoted #10793-10800)
-- 2026-11-17 18:09 (mid-day pulse — 5/5 proposals verified+promoted #10774-10778)
-- 2026-11-17 12:10 (deep run — 8/8 proposals verified+promoted #10763-10770; L1/L2/L3 not due this run)
-- 2026-11-17 00:19 (cheap pulse — 8/8 proposals verified+promoted #10734-10741)
+- 2026-11-18 18:08 (cheap pulse — 2/2 proposals verified+promoted #10832/#10833)
+- 2026-11-19 00:19 (cheap pulse — 5/5 proposals verified+promoted #10844-10848)
+- 2026-11-19 06:15 (cheap pulse — 7/7 proposals verified+promoted #10849-10855)
 
-## 📦 Shipped to main (16)
+## 📦 Shipped to main (12)
 
-- #10841 fix: #10827 SEO batch: nameGeneratorData.js Jay Weinberg + Shannon Larkin band strings stale vs root (2 entries)
-- #10840 fix: #10825 SEO: cymbalBestForMetal.js asserts a B20-alloy majority and a ride/crash pairing pattern not supported by cymbalSetups.js
-- #10839 fix: #10818 SEO batch: top10Lists.js fabricates George Kollias blast-beat speed as '280+ BPM' across ~40 locations — verified figure is 240+ BPM
-- #10838 fix: #10824 SEO: pedalBestForMetal.js fabricates pedal-count statistics and cites a price range not present in any data field
-- #10837 fix: #10823 SEO: top10Lists.js dates Gojira's 'Silvera' Grammy nomination to the wrong ceremony (58th/2016 vs verified 59th/2017) + unsupported 'first' claim
-- #10836 fix: #10821 SEO: top10Lists.js credits Inferno with Behemoth's 'Grom' (1996, recorded by predecessor) + inflates his 90s output to 'four albums'
-- #10835 fix: #10820 SEO: top10Lists.js credits Jason Bittner with 'Overkill's classic thrash catalog' — he joined in 2017, decades after it
-- #10834 fix: #10819 SEO: top10Lists.js keys Alex Bent's bio text under Isaac Lamb's drummer ID (61 instead of 25) in 3 lists
-- #10831 fix: #10807 SEO: snares.js header comment + top10ListsCatalog.js signature-snare list still classify Danny Carey as unverified — root has verified:true since 2026-08-08 (same bug class as #10763, which only fixed Charlie Benante)
-- #10830 fix: #10806 SEO: kitQuizData.js Question 10 (Vinnie Paul) asserts specific drums/cymbals/hardware models that root explicitly hedges as unverified — hardware brand is flat-out wrong (DW vs ddrum)
-- #10829 fix: #10805 SEO: kitQuizData.js Question 9 (Mario Duplantier) fabricates signature snare model + wrong pedal line/configuration
-- #10828 fix: #10805 SEO: kitQuizData.js Question 9 (Mario Duplantier) fabricates signature snare model + wrong pedal line/configuration
-- #10826 fix: #10804 SEO: kitQuizData.js Question 7 (Mike Portnoy) drums field copy-pasted from Dave Lombardo's entry + fabricated 'Rolling Glide' pedal name
-- #10822 fix: #10803 SEO: kitQuizData.js Question 6 (George Kollias) fabricates a signature snare model + wrong pedal name — root marks snare unverified, pedal is Demon XR not 'Demon Drive Direct'
-- #10817 fix: #10802 SEO: extendedBios.js Joey Jordison self-contradicts its own FAQ — metaTitle/metaDescription + one FAQ answer still say 'Pearl Masters Premium Maple', another FAQ answer already says 'Pearl Reference Series'
-- _+1 more_
+- #10873 fix: #10855 SEO: gearPriceHistory.js fabricates Tim Yeung '200-280 BPM' speed-per-dollar framing as documented fact (3 locations)
+- #10872 fix: #10854 SEO: drummerEvolution.js fabricates Tim Yeung '200-280 BPM' as documented fact (2 FAQ locations)
+- #10871 fix: #10853 SEO batch: soundLikeGuides.js 'how-to-sound-like-pete-sandoval' guide fabricates '300+ BPM' as verified fact (6 factual-claim locations)
+- #10870 fix: #10852 SEO batch: soundLikeGuides.js 'how-to-sound-like-tim-yeung' guide fabricates '280 BPM' as verified/documented fact (~13 locations in one guide)
+- #10869 fix: #10851 SEO: drummerComparisons.js fabricates Tim Yeung '280 BPM' blast speed as 'verified'/'documented' fact (4 locations)
+- #10868 fix: #10850 SEO: top10Lists.js fabricates Derek Roddy '260 BPM swivel' + unsourced Sandoval/Mounier BPM figures as verified fact (6 locations)
+- #10867 fix: #10849 SEO batch: genreGearGuides.js fabricates Derek Roddy '260 BPM swivel technique' as verified fact (~15 locations) — root has zero BPM figure for him
+- #10861 fix: #10848 SEO: gearSearchData.js John Otto snare still 'pearl-sensitone' — root now has a verified OCDP snare model (#7021 deliberately deferred this)
+- #10860 fix: #10847 SEO: licks/george-kollias.js fabricates 280+/255 BPM blast-beat claims — verified ceiling is 240+ BPM
+- #10859 fix: #10846 SEO: drummerComparisons.js states Vinnie Paul's unverified Tama-era snare as flat '14x6.5 Tama steel' fact — self-contradicts the file's own FAQ hedge (5 locations, 2 entries)
+- #10858 fix: #10844 SEO: pedalReferencePages.js asserts George Kollias's Demon XR as 'direct drive' — pedals.js itself leaves driveType null
+- #10856 fix: #10845 SEO: gearCategoryPages.js editorialIntro fabricates 4 drummer-gear pairings (Jordison/Tama, Ulrich/Ludwig, Hoglan/Pearl Free-Floating, McBrain/Tama)
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 366h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2676h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2772h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2949h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4034h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 379h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2689h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2785h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2962h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4047h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

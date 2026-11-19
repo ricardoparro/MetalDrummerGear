@@ -291,7 +291,7 @@ export const DRUMMER_SLUG_MAP = {
   'lars-ulrich': 1,
   'dave-lombardo': 4,
   'george-kollias': 6,
-  'mario-duplantier': 21,
+  'mario-duplantier': 15,
 };
 
 // ==========================================

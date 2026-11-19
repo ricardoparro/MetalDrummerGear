@@ -213,8 +213,8 @@ This ranking considers documented BPM records, sustained speed over full perform
       35: { 
         rank: 3, 
         highlight: 'Cryptopsy\'s inhuman machine', 
-        reason: 'Flo Mounier\'s work on "None So Vile" redefined what was physically possible. His gravity blasts and sustained speed are still studied by drummers worldwide.', 
-        bpm: '250+',
+        reason: 'Flo Mounier\'s work on "None So Vile" redefined what was physically possible. His gravity blasts and sustained speed are still studied by drummers worldwide.',
+        bpm: '280+',
         gearHighlight: 'Pearl kit era, minimal triggering for organic sound',
         technique: 'Gravity blast innovator — uses rebound for one-handed blast beats',
         funFacts: [

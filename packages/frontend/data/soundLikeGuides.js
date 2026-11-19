@@ -3336,7 +3336,7 @@ Orbin left Periphery in February 2009, replaced by Matt Halpern, who has recorde
     readingTime: '10 min',
     intro: {
       title: "The Death Metal Benchmark That Redefined the Ceiling",
-      content: `Flo Mounier's blast beats on "Who Was Called?" — Cryptopsy's closing track on the 1996 death metal landmark "None So Vile" — became a canonical benchmark: a moment that demonstrated where the technical ceiling of death metal drumming sat. The song opens with unrelenting blasts at 220+ BPM and doesn't apologize. In death metal circles, playing through "Who Was Called?" correctly has long been a rite of passage.
+      content: `Flo Mounier's blast beats on "Who Was Called?" — Cryptopsy's closing track on the 1996 death metal landmark "None So Vile" — became a canonical benchmark: a moment that demonstrated where the technical ceiling of death metal drumming sat. The song opens with unrelenting blasts in the 280+ BPM range and doesn't apologize. In death metal circles, playing through "Who Was Called?" correctly has long been a rite of passage.
 
 But Mounier's legacy extends well beyond a single track. As Cryptopsy's only constant member since joining in 1992, he has been the technical engine behind every phase of the band's evolution — from the raw brutality of "Blasphemy Made Flesh" through the chaotic avant-garde of "Lord Worm" era material to the progressive complexity of later work. His drumming on "None So Vile" and "Whisper Supremacy" is simply some of the most technically demanding music ever committed to tape.
 
@@ -3364,7 +3364,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
         {
           name: "The 'None So Vile' Blast",
           description: "Mounier's blast on the NSV album uses a traditional alternating hand pattern over a steady double bass. What distinguishes it is the slight dynamic swell within the blast itself — the snare hand accents every 4th stroke, creating a micro-groove within the brutal wash.",
-          tempo: "210-240 BPM",
+          tempo: "280+ BPM",
           difficulty: "Expert",
           practiceHint: "Start the blast at 180 BPM and add the 4th-stroke accent consciously. Speed up only when the accent pattern is automatic. The accent is what separates a Mounier blast from generic blasting."
         },
@@ -3412,7 +3412,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
         model: 'Tama Starclassic Maple Snare',
         size: '14" x 5.5"',
         shell: 'Maple',
-        description: "Flo's snare must perform at 220+ BPM with audible clarity. The Starclassic Maple shell provides the crack and projection needed to compete with technical death metal's extreme guitar and bass frequencies.",
+        description: "Flo's snare must perform in the 280+ BPM range with audible clarity. The Starclassic Maple shell provides the crack and projection needed to compete with technical death metal's extreme guitar and bass frequencies.",
         alternative: "Tama S.L.P. Big Black Steel or Ludwig Supraphonic for similar bright, cutting projection"
       },
       cymbals: {
@@ -3430,7 +3430,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
       pedals: {
         brand: 'Tama',
         model: 'Tama Speed Cobra 910 Twin Pedal',
-        description: "Tama's Speed Cobra system gives Flo the responsive, lag-free feel needed for sustained blast work at 220+ BPM. The direct-drive linkage is essential for the precision his technique demands.",
+        description: "Tama's Speed Cobra system gives Flo the responsive, lag-free feel needed for sustained blast work in the 280+ BPM range. The direct-drive linkage is essential for the precision his technique demands.",
         alternative: "Axis Longboard or DW 9000 direct drive for similar response"
       },
       sticks: {
@@ -3449,7 +3449,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
     },
     tuning: {
       title: "Tuning for Brutal Death Metal Projection",
-      overview: "Flo tunes for maximum attack and minimum sustain — every note in a 220 BPM blast must be heard as an individual event, not a wash of drum sound.",
+      overview: "Flo tunes for maximum attack and minimum sustain — every note in a 280+ BPM blast must be heard as an individual event, not a wash of drum sound.",
       kickDrum: {
         tension: "Tight",
         muffling: "Heavy — full pillow contact with both heads",
@@ -3459,7 +3459,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
       snare: {
         tension: "Very high",
         muffling: "None — or one thin strip of tape",
-        description: "Extreme high tension for maximum crack and projection at 220+ BPM. The snare is competing with all other blast components simultaneously — it must cut through without any help from muffling.",
+        description: "Extreme high tension for maximum crack and projection in the 280+ BPM range. The snare is competing with all other blast components simultaneously — it must cut through without any help from muffling.",
         tip: "Tune the batter head as tight as it will go without warping. The snare should crack like a rifle shot at high tension."
       },
       toms: {
@@ -3474,10 +3474,10 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
       exercises: [
         {
           name: "None So Vile Tempo Progression",
-          description: "Systematically build toward the 220+ BPM benchmark",
+          description: "Systematically build toward the 280+ BPM benchmark",
           instructions: "Set metronome to 160 BPM. Play a single-stroke blast for 1 minute solid. Rest 2 minutes. Increase to 170 BPM. Repeat. Add 10 BPM per week only when the lower tempo is effortless. Log your sessions — progress is slow and systematic.",
           duration: "30 minutes, 4x per week",
-          goal: "Sustained 220+ BPM blast for 60 seconds"
+          goal: "Sustained 280+ BPM blast for 60 seconds"
         },
         {
           name: "Dynamic Blast Control",
@@ -3546,11 +3546,11 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
     faq: [
       {
         question: "What is 'Who Was Called?' and why is it significant?",
-        answer: "'Who Was Called?' is the closing track on Cryptopsy's 1996 album 'None So Vile.' It's significant as a canonical death metal drumming benchmark — the track features sustained blast beats at 220+ BPM with technical complexity that set a new ceiling for the genre. In death metal circles, playing it correctly is a recognized achievement."
+        answer: "'Who Was Called?' is the closing track on Cryptopsy's 1996 album 'None So Vile.' It's significant as a canonical death metal drumming benchmark — the track features sustained blast beats in the 280+ BPM range with technical complexity that set a new ceiling for the genre. In death metal circles, playing it correctly is a recognized achievement."
       },
       {
         question: "How fast does Flo Mounier play?",
-        answer: "Flo Mounier sustains blast beats at 210-240 BPM during Cryptopsy performances. On 'None So Vile,' blast sections hover around 215-225 BPM. Unlike some speed records, these tempos are maintained across full-length songs in live performance."
+        answer: "Flo Mounier is known for sustained blast beats in the 280+ BPM range during Cryptopsy performances, including on 'None So Vile.' Unlike some speed records, these tempos are maintained across full-length songs in live performance."
       },
       {
         question: "What makes Flo Mounier's blasts different from other death metal drummers?",

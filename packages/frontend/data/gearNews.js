@@ -141,19 +141,6 @@ export const GEAR_NEWS = [
     gearName: 'Tama S.L.P. Snare',
     note: 'Refined attack for the Flying Whales.',
   },
-  {
-    id: 'gear-matt-halpern-001',
-    date: '2026-02-22',
-    type: CHANGE_TYPES.ADDED,
-    title: 'Matt Halpern adds Meinl Classics Custom Dark stack',
-    description: 'Periphery\'s Matt Halpern incorporates Meinl Classics Custom Dark cymbals for studio work.',
-    drummerId: 18,
-    drummerName: 'Matt Halpern',
-    drummerSlug: 'matt-halpern',
-    gearName: 'Meinl Classics Custom Dark Cymbals',
-    note: 'Expanding the djent palette.',
-  },
-
   // More brand launches
   {
     id: 'brand-pearl-001',

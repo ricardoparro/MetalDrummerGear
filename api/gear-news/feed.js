@@ -103,14 +103,6 @@ const GEAR_NEWS = [
     drummerSlug: 'george-kollias',
   },
   {
-    id: 'gear-matt-halpern-001',
-    date: '2026-02-22',
-    type: 'added',
-    title: 'Matt Halpern adds Meinl Classics Custom Dark stack',
-    description: 'Periphery\'s Matt Halpern incorporates Meinl Classics Custom Dark cymbals for studio work.',
-    drummerSlug: 'matt-halpern',
-  },
-  {
     id: 'brand-pearl-001',
     date: '2026-02-20',
     type: 'brand_launch',

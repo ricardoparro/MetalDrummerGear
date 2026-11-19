@@ -22284,7 +22284,7 @@ Over a decade of continuous touring on the same platform speaks to its reliabili
           tier: "pro",
           material: "Bubinga, 22\"x18\"",
 
-          description: `Derek Roddy — who recorded with both Hate Eternal and Nile and pushed blast beat speed past 260 BPM with his swivel technique — built his reputation for speed and endurance on a dense Tama Starclassic Bubinga bass drum. Bubinga's dense hardwood construction delivers a punchy, focused low end with real projection, even at Roddy's extreme tempos.
+          description: `Derek Roddy — who recorded with both Hate Eternal and Nile and built his blast beat speed around his self-invented swivel technique — built his reputation for speed and endurance on a dense Tama Starclassic Bubinga bass drum. Bubinga's dense hardwood construction delivers a punchy, focused low end with real projection, even at Roddy's extreme tempos.
 
 Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier, denser shell can still serve blistering speed when the head selection and pedal action are dialed in correctly.`,
 
@@ -22292,7 +22292,7 @@ Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier
             "Derek Roddy's proven Hate Eternal/Nile setup",
             "Bubinga's dense hardwood delivers punchy, focused low end",
             "22\"x18\" balances speed and low-end projection",
-            "Proven at sustained tempos past 260 BPM",
+            "Built to handle blistering, sustained blast beat tempos",
             "Pairs well with reinforced Powerstroke 3 or EMAD heads"
           ],
           cons: [
@@ -22365,7 +22365,7 @@ Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier
 
 **Bubinga (Derek Roddy):**
 - Denser, punchier low end with real projection at extreme tempo
-- Proven at sustained speeds past 260 BPM
+- Built to handle blistering, sustained blast beat speeds
 - Adds weight and slightly less articulation than thinner maple shells
 
 **Verdict:** Start with a 22"x18" maple shell like George Kollias's Pearl Masterworks or Flo Mounier's Tama Starclassic Maple — it's the proven foundation for the fast, articulate response tech-death's odd-meter runs demand. Consider a bubinga shell like Derek Roddy's Tama Starclassic if maximum low-end density matters as much as raw speed to you.`,
@@ -22442,7 +22442,7 @@ Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier
       },
       {
         question: "Maple or bubinga bass drum for technical death metal?",
-        answer: "Maple (George Kollias's Pearl Masterworks, Hannes Grossmann's DW Collector's Series, Flo Mounier's Tama Starclassic Maple) is the dominant choice, prized for fast, articulate response that keeps odd-meter runs legible. Bubinga (Derek Roddy) delivers a denser, punchier low end proven at sustained speeds past 260 BPM, at a small cost to articulation."
+        answer: "Maple (George Kollias's Pearl Masterworks, Hannes Grossmann's DW Collector's Series, Flo Mounier's Tama Starclassic Maple) is the dominant choice, prized for fast, articulate response that keeps odd-meter runs legible. Bubinga (Derek Roddy) delivers a denser, punchier low end built to handle blistering blast beat speed, at a small cost to articulation."
       },
       {
         question: "What bass drum head is best for technical death metal?",
@@ -51310,7 +51310,7 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Why Deathcore's Blast-to-Breakdown Structure Demands Trigger Reinforcement",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Deathcore's split identity puts an unusual demand on this kind of reinforcement: a single song can swing from an extreme-speed blast beat verse straight into a slower, syncopated breakdown built for moshing, and a studio engineer needs both sections to sound like the same kit playing at the same consistent attack, even though the drummer's actual technique changes completely between them.
 
-Tim Yeung, who brought technical death metal speed directly into deathcore-leaning act Divine Heresy, runs a trigger-assisted double pedal setup built for exactly this kind of clarity at extreme tempo — the same reinforcement principle that keeps a blast beat verse sounding as tight as the breakdown that follows it. George Kollias of Nile, whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's fastest sections measure themselves against, and Flo Mounier of Cryptopsy, whose technical death metal vocabulary fed directly into deathcore's development, both represent the extreme-tempo lineage that makes trigger reinforcement worth having in the studio in the first place. Derek Roddy's swivel technique, which pushed blast beat speed past 260 BPM, shows just how far past ordinary human consistency the genre's demands can go.
+Tim Yeung, who brought technical death metal speed directly into deathcore-leaning act Divine Heresy, runs a trigger-assisted double pedal setup built for exactly this kind of clarity at extreme tempo — the same reinforcement principle that keeps a blast beat verse sounding as tight as the breakdown that follows it. George Kollias of Nile, whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's fastest sections measure themselves against, and Flo Mounier of Cryptopsy, whose technical death metal vocabulary fed directly into deathcore's development, both represent the extreme-tempo lineage that makes trigger reinforcement worth having in the studio in the first place. Derek Roddy's self-invented swivel technique, built to handle blistering blast beat speed, shows just how far past ordinary human consistency the genre's demands can go.
 
 This guide covers what actually matters when choosing drum triggers for deathcore — mounting type, dual-zone sensing, and crosstalk rejection across a blast-to-breakdown transition — with specific recommendations across every budget, from a first single kick trigger to a full acoustic reinforcement rig.`,
       keyPoints: [
@@ -51650,7 +51650,7 @@ For deathcore drummers who've already invested in triggers from multiple brands,
       { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Trigger-assisted double pedal clarity across Hate Eternal and Divine Heresy' },
       { slug: 'george-kollias', name: 'George Kollias', reason: '240+ BPM blast beats setting the extreme-speed benchmark deathcore chases' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Technical death metal vocabulary that fed directly into deathcore\'s development' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Swivel technique pushing blast beat speed past 260 BPM' }
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Swivel technique built for blistering blast beat speed' }
     ],
     relatedComparisons: [],
 
@@ -53427,13 +53427,13 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Why Technical Death Metal Drummers Weigh Triggers Carefully",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Triggers are common in technical death metal for consistent bass drum attack, but the genre has a distinctive tension around them: many players, particularly those focused on single-foot technique, deliberately minimize reliance on triggers to preserve natural dynamics.
 
-George Kollias of Nile has documented 240+ BPM blast beats sustained across entire instructional materials, among the fastest single-foot bass drum speed in the genre — a level of raw foot technique where minimizing trigger dependence is itself part of the achievement. Derek Roddy's swivel technique pushed blast beat speed past 260 BPM, another benchmark built on natural technique rather than electronic assistance. Tim Yeung, by contrast, runs a trigger-assisted double-pedal setup built for the extreme-tempo session and touring work he's done with Hate Eternal, Morbid Angel, and Divine Heresy — showing that reinforcement remains a legitimate studio tool even at the genre's technical extremes.
+George Kollias of Nile has documented 240+ BPM blast beats sustained across entire instructional materials, among the fastest single-foot bass drum speed in the genre — a level of raw foot technique where minimizing trigger dependence is itself part of the achievement. Derek Roddy's swivel technique is another benchmark built on natural technique rather than electronic assistance. Tim Yeung, by contrast, runs a trigger-assisted double-pedal setup built for the extreme-tempo session and touring work he's done with Hate Eternal, Morbid Angel, and Divine Heresy — showing that reinforcement remains a legitimate studio tool even at the genre's technical extremes.
 
 This guide covers what actually matters when choosing drum triggers for technical death metal — mounting type, dual-zone sensing, and crosstalk rejection at odd-meter blast tempo — with specific recommendations for drummers reinforcing takes and for those minimizing reliance to showcase natural single-foot speed.`,
       keyPoints: [
         "Triggers are common for consistent bass drum attack, but many technical death metal players minimize reliance to preserve natural dynamics",
         "George Kollias's documented 240+ BPM single-foot bass drum speed was built without relying on trigger assistance",
-        "Derek Roddy's swivel technique pushed blast beat speed past 260 BPM through natural foot technique",
+        "Derek Roddy's swivel technique drives blast beat speed through natural foot technique",
         "Tim Yeung's trigger-assisted double-pedal setup shows reinforcement remains a legitimate studio tool at the genre's technical extremes"
       ]
     },
@@ -53715,7 +53715,7 @@ For technical death metal drummers who've already invested in triggers from mult
 - Keeps the acoustic kit's exact feel and tuning — the trigger only adds a clean, parallel signal for the engineer
 
 **Minimal-Reliance Natural Technique (George Kollias, Derek Roddy):**
-- George Kollias's 240+ BPM single-foot bass drum speed and Derek Roddy's swivel technique past 260 BPM showcase raw technique with light or no trigger dependence
+- George Kollias's 240+ BPM single-foot bass drum speed and Derek Roddy's swivel technique showcase raw technique with light or no trigger dependence
 - Preserves natural dynamics as part of the technical achievement itself
 - No hardware cost, but demands significantly more physical development
 
@@ -53766,7 +53766,7 @@ For technical death metal drummers who've already invested in triggers from mult
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: '240+ BPM single-foot bass drum speed, minimizing trigger reliance to preserve natural dynamics' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Swivel technique pushing blast beat speed past 260 BPM through natural foot technique' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Swivel technique driving blast beat speed through natural foot technique' },
       { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Trigger-assisted double pedal setup across Hate Eternal, Morbid Angel, and Divine Heresy' }
     ],
     relatedComparisons: [],
@@ -53779,7 +53779,7 @@ For technical death metal drummers who've already invested in triggers from mult
       },
       {
         question: "Why would a drummer avoid triggers if they help with consistency?",
-        answer: "For drummers whose technical identity is built around raw foot speed — George Kollias's 240+ BPM single-foot bass drum speed and Derek Roddy's swivel technique past 260 BPM are the genre's clearest examples — minimizing trigger reliance preserves natural dynamics as part of the showcase itself. It's a deliberate artistic and technical choice, not an oversight."
+        answer: "For drummers whose technical identity is built around raw foot speed — George Kollias's 240+ BPM single-foot bass drum speed and Derek Roddy's swivel technique are the genre's clearest examples — minimizing trigger reliance preserves natural dynamics as part of the showcase itself. It's a deliberate artistic and technical choice, not an oversight."
       },
       {
         question: "What drum triggers does Tim Yeung use?",
@@ -66019,7 +66019,7 @@ Budget shouldn't stop you either. A Pearl Export, Ludwig Acrolite, or Mapex Stor
       title: "What Bass Drum Setup Handles Deathcore's Blast-Into-Breakdown Structure?",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on a bass drum setup. A single song can alternate between extreme-speed blast beat verses and slower, syncopated breakdown sections built for moshing, meaning the kick has to deliver both rapid, high-headroom double bass response and punchy, controlled low-end thump within the same track.
 
-George Kollias of Nile — whose documented 240+ BPM blast beats and instructional materials set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Pearl Masterworks 22"x18" bass drum paired with his co-designed Pearl Demon XR double pedal for sustained, linear-action speed. Flo Mounier of Cryptopsy, whose technical death metal vocabulary fed directly into deathcore's development (Cryptopsy's own 2008 album "The Unspoken King" took an explicitly deathcore-leaning direction), runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra double pedal built for rapid, precise response. Derek Roddy, whose swivel technique pushed blast beat speed past 260 BPM, pairs a dense Tama Starclassic Bubinga bass drum with a Tama Speed Cobra 910 double pedal for maximum speed with minimal fatigue. Tim Yeung, who brought technical death metal speed directly into deathcore-leaning act Divine Heresy, has run a Tama Starclassic Bubinga bass drum with a Tama Speed Cobra 910 Double Pedal continuously since 2005, leaning on trigger-assisted bass drums for clarity at extreme tempos.
+George Kollias of Nile — whose documented 240+ BPM blast beats and instructional materials set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Pearl Masterworks 22"x18" bass drum paired with his co-designed Pearl Demon XR double pedal for sustained, linear-action speed. Flo Mounier of Cryptopsy, whose technical death metal vocabulary fed directly into deathcore's development (Cryptopsy's own 2008 album "The Unspoken King" took an explicitly deathcore-leaning direction), runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra double pedal built for rapid, precise response. Derek Roddy, whose self-invented swivel technique is built for blistering blast beat speed, pairs a dense Tama Starclassic Bubinga bass drum with a Tama Speed Cobra 910 double pedal for maximum speed with minimal fatigue. Tim Yeung, who brought technical death metal speed directly into deathcore-leaning act Divine Heresy, has run a Tama Starclassic Bubinga bass drum with a Tama Speed Cobra 910 Double Pedal continuously since 2005, leaning on trigger-assisted bass drums for clarity at extreme tempos.
 
 This guide breaks down shell size, head selection, and pedal choice for deathcore bass drums — comparing rapid, high-headroom setups across four drummers whose technical death metal and hardcore-adjacent lineages fed directly into the genre, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -66055,7 +66055,7 @@ This guide breaks down shell size, head selection, and pedal choice for deathcor
         {
           name: "Swivel or Heel-Toe Technique Support",
           icon: "⚡",
-          description: "Derek Roddy's swivel technique, which pushed blast beat speed past 260 BPM, depends on a pedal and beater setup that responds consistently to unconventional footwork — a consideration deathcore drummers borrow directly from technical death metal.",
+          description: "Derek Roddy's swivel technique, built for blistering blast beat speed, depends on a pedal and beater setup that responds consistently to unconventional footwork — a consideration deathcore drummers borrow directly from technical death metal.",
           recommendation: "A pedal with adjustable beater angle and spring tension to support advanced footwork techniques"
         },
         {
@@ -66166,7 +66166,7 @@ Mounier's setup emphasizes speed and response over raw power, an approach that t
           tier: "pro",
           material: "Bubinga, 22\"x18\" + chain-drive double pedal",
 
-          description: `Derek Roddy's dense Tama Starclassic Bubinga bass drum, run with a Tama Speed Cobra 910 double pedal, is built around the swivel technique that pushed blast beat speed past 260 BPM — a benchmark deathcore's most extreme blast sections still measure themselves against.
+          description: `Derek Roddy's dense Tama Starclassic Bubinga bass drum, run with a Tama Speed Cobra 910 double pedal, is built around the swivel technique he uses to drive blistering blast beat speed — a benchmark deathcore's most extreme blast sections still measure themselves against.
 
 Roddy has emphasized pedal setup and technique over gear choice throughout his career, and his Speed Cobra preference reflects a broader deathcore-relevant principle: efficient, low-fatigue footwork matters as much as raw shell size when a song demands both blast-beat endurance and breakdown-section power in the same four minutes.`,
 
@@ -66292,7 +66292,7 @@ Yeung's longevity across Vital Remains, Morbid Angel, and Divine Heresy on the s
 
 **Tama Speed Cobra 910 (Derek Roddy):**
 - Supports advanced swivel and heel-toe footwork techniques
-- Built around the technique that pushed blast beats past 260 BPM
+- Built around the swivel technique used to drive blistering blast beat speed
 - Best for drummers developing advanced, low-fatigue footwork
 
 **Our Recommendation:** Start with a Pearl Export shell and a Tama Iron Cobra double pedal if you're building deathcore technique on a budget. Choose the Tama Speed Cobra if your priority is rapid, precise response. Go with the Pearl Demon XR if you need to sustain deathcore's absolute fastest blast sections.`,

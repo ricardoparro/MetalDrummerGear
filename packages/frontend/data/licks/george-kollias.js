@@ -17,10 +17,10 @@ export const licks = {
     "style": "death-metal",
     "difficulty": "expert",
     "difficultyRating": 5,
-    "bpm": 280,
-    "bpmDisplay": "280+ BPM",
+    "bpm": 240,
+    "bpmDisplay": "240+ BPM",
     "timeSignature": "4/4",
-    "description": "George Kollias is widely regarded as one of the fastest and most technically sophisticated drummers in extreme metal, and his gravity blast technique is the defining example of why. The gravity blast — also called the one-handed roll or rebound blast — involves using a single stick's natural rebound off the snare or hi-hat rim to generate a rapid-fire burst of strokes that would be impossible to match with traditional alternating strokes. Where a conventional blast beat interleaves left and right hands to produce a continuous stream of notes, the gravity blast allows a single hand to produce the same density at even higher speed, while the other hand maintains a ride or hi-hat pattern on top. At 280+ BPM this becomes one of the most demanding techniques in all of drumming: the motion has to be completely relaxed, letting gravity and the stick's own bounce do the work, because any muscular tension will kill both speed and consistency. Kollias has demonstrated this technique in hundreds of live performances and clinic settings, showing how the physics of the bounce — not raw arm strength — is what makes the extreme velocity possible. The title track from Nile's 2007 album Ithyphallic, Kollias's second full-length with the band, is one of the clearest studio showcases of this approach, and his own breakdown footage of the part remains essential viewing for any serious student of extreme metal drumming. For drummers approaching this technique, the first priority is internalising the rebound mechanics away from the kit entirely, feeling how gravity returns the stick before any muscle pull is needed. The technique rewards patience: rushing the speed before the mechanics are solid produces a messy, uneven result, while trusting the rebound produces something genuinely remarkable.",
+    "description": "George Kollias is widely regarded as one of the fastest and most technically sophisticated drummers in extreme metal, and his gravity blast technique is the defining example of why. The gravity blast — also called the one-handed roll or rebound blast — involves using a single stick's natural rebound off the snare or hi-hat rim to generate a rapid-fire burst of strokes that would be impossible to match with traditional alternating strokes. Where a conventional blast beat interleaves left and right hands to produce a continuous stream of notes, the gravity blast allows a single hand to produce the same density at even higher speed, while the other hand maintains a ride or hi-hat pattern on top. At 240+ BPM this becomes one of the most demanding techniques in all of drumming: the motion has to be completely relaxed, letting gravity and the stick's own bounce do the work, because any muscular tension will kill both speed and consistency. Kollias has demonstrated this technique in hundreds of live performances and clinic settings, showing how the physics of the bounce — not raw arm strength — is what makes the extreme velocity possible. The title track from Nile's 2007 album Ithyphallic, Kollias's second full-length with the band, is one of the clearest studio showcases of this approach, and his own breakdown footage of the part remains essential viewing for any serious student of extreme metal drumming. For drummers approaching this technique, the first priority is internalising the rebound mechanics away from the kit entirely, feeling how gravity returns the stick before any muscle pull is needed. The technique rewards patience: rushing the speed before the mechanics are solid produces a messy, uneven result, while trusting the rebound produces something genuinely remarkable.",
     "techniques": [
       "gravity-blast",
       "one-handed-roll",
@@ -149,7 +149,7 @@ export const licks = {
   },
   "george-kollias-sustained-blast": {
     "slug": "george-kollias-sustained-blast",
-    "name": "Sustained 250+ BPM Blast",
+    "name": "Sustained 240+ BPM Blast",
     "shortName": "Sustained Blast",
     "drummerId": 6,
     "drummerName": "George Kollias",
@@ -161,17 +161,17 @@ export const licks = {
     "style": "death-metal",
     "difficulty": "expert",
     "difficultyRating": 5,
-    "bpm": 255,
-    "bpmDisplay": "255 BPM",
+    "bpm": 240,
+    "bpmDisplay": "240+ BPM",
     "timeSignature": "4/4",
-    "description": "\"Sacrifice Unto Sebek\" from Nile's 2009 album Those Whom the Gods Detest is one of the benchmark examples of sustained extreme-tempo drumming in recorded metal. George Kollias performs the track at around 255 BPM, maintaining not just individual blast patterns but extended sections of that intensity without the kind of fatigue-driven degradation in timing or articulation that would afflict most drummers at that speed. His ability to sustain blast beats at 250+ BPM for long passages is a product of the same principle that underpins his gravity blast: total relaxation. Tension in the arms, wrists or hands is the enemy of both speed and endurance, and at these tempos it will cause fatigue within seconds. Kollias has described his approach in clinics as one of learning to remove effort rather than to add it — the motion becomes more efficient with practice until it feels as natural as a slower pattern. The alternating-foot double bass that underpins the blast adds another layer of demand: both feet must run in precise alternation at extreme speed, and the coordination between upper and lower body has to be so ingrained that it is effectively unconscious. \"Sacrifice Unto Sebek\" is the proof-of-concept for this approach — the track is intense from beginning to end, and Kollias plays it with a consistency that makes 255 BPM sound achievable even as it remains one of the hardest drumming feats on record. For drummers, the track is a master-class in stamina training: it teaches that building endurance for extreme tempos is a physiological process that happens over months and years, not weeks, and that injury prevention — regular rest, proper technique, avoiding tension — is not optional but foundational. Work the alternating-foot double bass and the blast coordination separately, incrementally raise the tempo on a metronome, and never sacrifice technique consistency for speed.",
+    "description": "\"Sacrifice Unto Sebek\" from Nile's 2009 album Those Whom the Gods Detest is one of the benchmark examples of sustained extreme-tempo drumming in recorded metal. George Kollias performs the track at around 240+ BPM, maintaining not just individual blast patterns but extended sections of that intensity without the kind of fatigue-driven degradation in timing or articulation that would afflict most drummers at that speed. His ability to sustain blast beats at 240+ BPM for long passages is a product of the same principle that underpins his gravity blast: total relaxation. Tension in the arms, wrists or hands is the enemy of both speed and endurance, and at these tempos it will cause fatigue within seconds. Kollias has described his approach in clinics as one of learning to remove effort rather than to add it — the motion becomes more efficient with practice until it feels as natural as a slower pattern. The alternating-foot double bass that underpins the blast adds another layer of demand: both feet must run in precise alternation at extreme speed, and the coordination between upper and lower body has to be so ingrained that it is effectively unconscious. \"Sacrifice Unto Sebek\" is the proof-of-concept for this approach — the track is intense from beginning to end, and Kollias plays it with a consistency that makes 240+ BPM sound achievable even as it remains one of the hardest drumming feats on record. For drummers, the track is a master-class in stamina training: it teaches that building endurance for extreme tempos is a physiological process that happens over months and years, not weeks, and that injury prevention — regular rest, proper technique, avoiding tension — is not optional but foundational. Work the alternating-foot double bass and the blast coordination separately, incrementally raise the tempo on a metronome, and never sacrifice technique consistency for speed.",
     "techniques": [
       "blast-beat",
       "stamina",
       "double-bass"
     ],
     "techniqueDetails": [
-      "Maintain a traditional blast pattern at 255 BPM through full sections — articulation must stay even, never smeared",
+      "Maintain a traditional blast pattern at 240+ BPM through full sections — articulation must stay even, never smeared",
       "Keep the wrists, forearms and shoulders completely relaxed; tension is the primary enemy at these tempos",
       "Drive alternating-foot double bass in precise coordination underneath the blast — both feet must be fully independent",
       "Breathe regularly and consciously during extended blasting sections to maintain oxygen flow and prevent early fatigue",
@@ -181,7 +181,7 @@ export const licks = {
       "youtubeId": "1LR3woj1mjI",
       "startTime": 0,
       "title": "Nile - Sacrifice Unto Sebek (drum cover)",
-      "description": "Drum cover demonstrating George Kollias's sustained 250+ BPM blast technique on Sacrifice Unto Sebek"
+      "description": "Drum cover demonstrating George Kollias's sustained 240+ BPM blast technique on Sacrifice Unto Sebek"
     },
     "gearUsed": [
       {

@@ -1,6 +1,6 @@
 # Metal Tempo by Subgenre: How Fast Is Death Metal, Really?
 
-> **Last updated:** 2026-11-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-tempo-by-subgenre)
+> **Last updated:** 2026-11-19 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-tempo-by-subgenre)
 
 ---
 
@@ -62,7 +62,7 @@ Across the 254 songs in MetalForge's tempo database, death metal averages 176.9 
 | 14 | Raining Blood (1986) | Slayer | 216 | Thrash Metal | Dave Lombardo |
 | 15 | Angel of Death (1986) | Slayer | 212 | Thrash Metal | Dave Lombardo |
 | 16 | Master of Puppets (1986) | Metallica | 212 | Thrash Metal | Lars Ulrich |
-| 17 | Black Seeds of Vengeance (2000) | Nile | 210 | Death Metal | Pat Harrington |
+| 17 | Black Seeds of Vengeance (2000) | Nile | 210 | Death Metal | Derek Roddy |
 | 18 | Flattening of Emotions (1991) | Death | 210 | Technical Death Metal | Sean Reinert |
 | 19 | Necrophobic (1986) | Slayer | 210 | Thrash Metal | Dave Lombardo |
 | 20 | Painkiller (1990) | Judas Priest | 210 | Heavy Metal | Scott Travis |
@@ -86,4 +86,4 @@ Dataset: 254 songs in MetalForge's tempo database, snapshot dated 2026-07-25. Ov
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-19 · Source: [MetalForge.io](https://metalforge.io)*

@@ -79,7 +79,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Inferno",
           "slug": "inferno",
           "band": "Behemoth",
-          "configString": "Vic Firth 5B"
+          "configString": "Vic Firth American Classic Extreme 5B"
         },
         {
           "id": 20,
@@ -113,7 +113,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "id": 26,
           "name": "Shannon Larkin",
           "slug": "shannon-larkin",
-          "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
+          "band": "ex-Godsmack / Ugly Kid Joe / Wrathchild America",
           "configString": "Vic Firth American Classic 5B"
         },
         {
@@ -289,7 +289,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Adrian Erlandsson",
           "slug": "adrian-erlandsson",
           "band": "At the Gates",
-          "configString": "Vic Firth Rock Nylon Tip (At the Gates Signature)"
+          "configString": "Vic Firth American Classic Rock Nylon Tip (ROCKN)"
         }
       ]
     },
@@ -351,7 +351,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "Mario Duplantier",
           "slug": "mario-duplantier",
           "band": "Gojira",
-          "configString": "Tama Iron Cobra 900 Power Glide Double Pedal"
+          "configString": "Tama Iron Cobra 900 Power Glide Single Pedal (x2 — one per bass drum)"
         },
         {
           "id": 16,
@@ -535,8 +535,8 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "id": 26,
           "name": "Shannon Larkin",
           "slug": "shannon-larkin",
-          "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
-          "configString": "Sabian AAX & HHX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 21\" HHX Raw Bell Dry Ride, 10\" AAX Splash, 18\" AAX Chinese)"
+          "band": "ex-Godsmack / Ugly Kid Joe / Wrathchild America",
+          "configString": "Sabian AAX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 21\" AAX Raw Bell Dry Ride, 10\" AAX Splash, 18\" AAX Chinese)"
         },
         {
           "id": 31,
@@ -673,7 +673,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "George Kollias",
           "slug": "george-kollias",
           "band": "Nile",
-          "configString": "Zildjian (14\" K Mastersound Hi-Hats, 17\" & 18\" K Custom Dark Crashes, 21\" A Custom Mega Bell Ride, 18\" China)"
+          "configString": "Zildjian A Custom Series"
         },
         {
           "id": 9,
@@ -1121,8 +1121,8 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     },
     {
       "brand": "DW",
-      "count": 17,
-      "percent": 23.6,
+      "count": 18,
+      "percent": 25,
       "categories": [
         "kits",
         "snares",
@@ -1161,7 +1161,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "id": 26,
           "name": "Shannon Larkin",
           "slug": "shannon-larkin",
-          "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
+          "band": "ex-Godsmack / Ugly Kid Joe / Wrathchild America",
           "configString": "DW 9000 Series Double Pedal"
         },
         {
@@ -1191,6 +1191,13 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "slug": "travis-orbin",
           "band": "Darkest Hour / ex-Periphery",
           "configString": "DW 9000 Series Double Pedal"
+        },
+        {
+          "id": 41,
+          "name": "Nicko McBrain",
+          "slug": "nicko-mcbrain",
+          "band": "Iron Maiden",
+          "configString": "DW 5000 Series Single Pedal"
         },
         {
           "id": 42,
@@ -1645,7 +1652,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "id": 26,
           "name": "Shannon Larkin",
           "slug": "shannon-larkin",
-          "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
+          "band": "ex-Godsmack / Ugly Kid Joe / Wrathchild America",
           "configString": "ddrum Dios 14x6.5\" Maple"
         },
         {
@@ -2180,8 +2187,8 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     },
     "snares": {
       "signature": {
-        "totalModels": 55,
-        "endorsedModelCount": 10,
+        "totalModels": 52,
+        "endorsedModelCount": 9,
         "byBrand": [
           {
             "brand": "Sonor",
@@ -2219,7 +2226,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           },
           {
             "brand": "Pearl",
-            "modelCount": 3,
+            "modelCount": 2,
             "drummers": [
               {
                 "id": 2,
@@ -2227,13 +2234,6 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
                 "slug": "joey-jordison",
                 "band": "Slipknot",
                 "genre": "Nu Metal / Death Metal"
-              },
-              {
-                "id": 6,
-                "name": "George Kollias",
-                "slug": "george-kollias",
-                "band": "Nile",
-                "genre": "Technical Death Metal"
               },
               {
                 "id": 54,

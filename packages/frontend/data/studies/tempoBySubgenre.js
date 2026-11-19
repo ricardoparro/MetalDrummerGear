@@ -606,9 +606,9 @@ export const TEMPO_BY_SUBGENRE = {
       "genre": "death-metal",
       "genreLabel": "Death Metal",
       "drummer": {
-        "slug": "pat-harrington",
-        "name": "Pat Harrington",
-        "inRoster": false
+        "slug": "derek-roddy",
+        "name": "Derek Roddy",
+        "inRoster": true
       }
     },
     {

@@ -846,7 +846,7 @@ Both companies have earned their place on the world's biggest stages. You can't 
           manufacturing: 'Hand-hammered (HHX) / Machine (AAX)',
           origin: 'Canada',
         },
-        usedBy: ['Tomas Haake', 'Mike Portnoy', 'Vinnie Paul'],
+        usedBy: ['Tomas Haake', 'Mike Portnoy'],
         bestFor: 'Djent, progressive metal, groove metal',
         rating: 4.7,
       },

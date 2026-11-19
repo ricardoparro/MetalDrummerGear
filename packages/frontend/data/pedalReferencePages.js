@@ -48,7 +48,7 @@ export const PILLAR_PAGE = {
   ],
   brands: [
     { name: 'Tama', note: 'The single most common pedal brand across the verified metal roster — Iron Cobra (chain) and Speed Cobra (chain, longboard) cover most of the double-pedal roster.' },
-    { name: 'Pearl', note: 'Demon Drive and Demon XR (direct drive) and Eliminator (chain) are the extreme-metal and technical-metal standard, from Gene Hoglan to George Kollias.' },
+    { name: 'Pearl', note: 'Demon Drive (direct drive), Eliminator (chain), and Demon XR are the extreme-metal and technical-metal standard, from Gene Hoglan to George Kollias.' },
     { name: 'DW', note: '5000 and 9000 Series chain-drive pedals appear throughout the roster, prized for precision and touring reliability.' },
     { name: 'Axis', note: 'The direct-drive specialist brand — no chain or belt at all — used by drummers who prioritize instant, zero-slack response above everything else.' },
     { name: 'Mapex', note: 'The Falcon double pedal shows up across several roster drummers.' },
@@ -82,7 +82,7 @@ export const PILLAR_PAGE = {
 export const DRIVE_TYPES_TABLE = [
   { driveType: 'Chain drive', feel: 'Slight flex/give — a natural, slightly cushioned feel most drummers find comfortable.', response: 'A small amount of lag exists (every chain link is a point of contact), though it\'s effectively imperceptible in normal play.', examples: 'Tama Iron Cobra, Tama Speed Cobra, DW 5000/9000 Series, Pearl Eliminator' },
   { driveType: 'Belt drive', feel: 'Lighter and more responsive underfoot than chain — nylon or composite belts add strength without chain weight.', response: 'Faster than chain, won\'t "collapse" on the upstroke during rapid double strokes the way a slack chain can.', examples: 'Select Axis and boutique pedal models' },
-  { driveType: 'Direct drive', feel: 'Rigid rod, zero slack — the most immediate, "cam-less" connection between footboard and beater.', response: 'The fastest and most consistent response of the three, with the least unaccounted-for sideways flex.', examples: 'Axis (all models), Pearl Demon Drive, Pearl Demon XR, Trick Pro1-V, Trick Bigfoot, DW MDD' },
+  { driveType: 'Direct drive', feel: 'Rigid rod, zero slack — the most immediate, "cam-less" connection between footboard and beater.', response: 'The fastest and most consistent response of the three, with the least unaccounted-for sideways flex.', examples: 'Axis (all models), Pearl Demon Drive, Trick Pro1-V, Trick Bigfoot, DW MDD' },
 ];
 
 export const DRIVE_TYPES_PAGE = {
@@ -111,7 +111,7 @@ export const DRIVE_TYPES_PAGE = {
     {
       heading: 'Why extreme metal gravitates to direct drive',
       body:
-        'Direct drive\'s biggest advantage — instant, zero-lag transfer from foot to beater — matters most exactly where extreme metal lives: sustained, maximum-speed single-stroke and blast-beat patterns where even microscopic response lag compounds over hundreds of strokes per minute. That\'s why Axis, a brand built entirely around direct drive, and Pearl\'s direct-drive Demon line (Gene Hoglan\'s Demon Drive, George Kollias\'s co-designed signature Demon XR, and several black and death metal specialists on both) are the go-to choice for drummers chasing raw, sustained top-end speed, while chain drive remains the comfortable, versatile default for every other style of metal.',
+        'Direct drive\'s biggest advantage — instant, zero-lag transfer from foot to beater — matters most exactly where extreme metal lives: sustained, maximum-speed single-stroke and blast-beat patterns where even microscopic response lag compounds over hundreds of strokes per minute. That\'s why Axis, a brand built entirely around direct drive, and Pearl\'s direct-drive Demon Drive (Gene Hoglan\'s signature pedal, also used by several black and death metal specialists) — alongside George Kollias\'s co-designed Demon XR — are the go-to choice for drummers chasing raw, sustained top-end speed, while chain drive remains the comfortable, versatile default for every other style of metal.',
     },
   ],
   table: DRIVE_TYPES_TABLE,

@@ -8883,7 +8883,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
     genre: 'Death Metal',
     priority: 33,
     title: "How to Sound Like Pete Sandoval: Complete Gear & Technique Guide",
-    description: "Master Pete Sandoval's death metal blast beat technique. Learn his alternating double bass approach, Morbid Angel hyper-precision style, ddrum setup, and the practice system behind 300+ BPM capability.",
+    description: "Master Pete Sandoval's death metal blast beat technique. Learn his alternating double bass approach, Morbid Angel hyper-precision style, ddrum setup, and the practice system behind his legendary double bass speed and endurance.",
     seoKeywords: ['pete sandoval drums', 'how to sound like pete sandoval', 'morbid angel drummer', 'pete sandoval technique', 'death metal blast beats', 'pete sandoval gear'],
     ogImage: '/images/guides/pete-sandoval-guide.webp',
     datePublished: '2026-06-26',
@@ -8895,19 +8895,19 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
       title: "The Godfather of Death Metal Blast Beats",
       content: `Pete Sandoval (born May 21, 1964) is widely recognized as the godfather of death metal drumming — the musician who defined the technical template for an entire genre. As the original drummer of Morbid Angel from 1988 to 2010 — before spinal disc surgery sidelined him permanently — Sandoval was the rhythmic architect behind landmark albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" — recordings that established death metal's sonic identity and technical standard.
 
-What set Sandoval apart was not just his speed — though his double bass capability at 300+ BPM was genuinely unprecedented in the late 1980s — but his hyper-precision. Every note in a Sandoval blast beat has the same volume, the same timing, the same attack. At 260 BPM across a 6-minute song, there is no accommodation, no drift. He set the standard that every subsequent death metal drummer has been measured against.
+What set Sandoval apart was not just his speed — though his double bass capability was exceptional for the late 1980s — but his hyper-precision. Every note in a Sandoval blast beat has the same volume, the same timing, the same attack. Across a full-length song, there is no accommodation, no drift. He set the standard that every subsequent death metal drummer has been measured against.
 
 This guide breaks down the technique, gear, and practice approach that built one of heavy music's most influential drum sounds. Whether you're approaching death metal for the first time or seeking to refine technical precision at extreme tempos, Sandoval's approach remains the essential reference.`,
       keyPoints: [
         "Pete Sandoval defined the technical template for death metal drumming in the late 1980s",
-        "His double bass technique at 300+ BPM remained the benchmark for a generation",
+        "His double bass technique and hyper-precision remained the benchmark for a generation",
         "Hyper-precision — every note identical in volume and timing — is his defining characteristic",
         "Albums like Altars of Madness established the sonic vocabulary every death metal drummer builds on"
       ]
     },
     technique: {
       title: "Pete Sandoval's Signature Playing Style",
-      overview: `Sandoval's technique is built on two foundational principles: alternating double bass foot technique and hand-to-hand single-stroke blast beats. His alternating blast — where each hand alternates between snare and kick regardless of which foot is playing — achieves a different rhythmic feel than the traditional blast. The kick is more subdivided, creating a denser low-end attack. At 300 BPM, this approach sounds more like a mechanical device than a human being.`,
+      overview: `Sandoval's technique is built on two foundational principles: alternating double bass foot technique and hand-to-hand single-stroke blast beats. His alternating blast — where each hand alternates between snare and kick regardless of which foot is playing — achieves a different rhythmic feel than the traditional blast. The kick is more subdivided, creating a denser low-end attack. At extreme tempo, this approach sounds more like a mechanical device than a human being.`,
       stickGrip: {
         type: 'Matched Grip',
         description: "Sandoval uses matched grip with a controlled wrist technique. His sticks are held at medium tension — enough to maintain control at high velocity, loose enough to allow the rebound to assist each stroke. His wrists drive the primary motion; fingers cushion and guide rather than clutch.",
@@ -8934,7 +8934,7 @@ This guide breaks down the technique, gear, and practice approach that built one
         },
         {
           name: "Double Bass Speed Bursts",
-          description: "Sandoval frequently inserts brief speed bursts — 4-8 bars of double bass at 280-300+ BPM — within otherwise moderate sections. These bursts are engineered for maximum impact: the sudden jump to extreme tempo is part of the composition, not just a display of speed.",
+          description: "Sandoval frequently inserts brief speed bursts — 4-8 bars of double bass at his top speed — within otherwise moderate sections. These bursts are engineered for maximum impact: the sudden jump to extreme tempo is part of the composition, not just a display of speed.",
           tempo: "280-320 BPM",
           difficulty: "Expert",
           practiceHint: "Practice the transition specifically: 4 bars at 160 BPM, then immediately 4 bars at 240 BPM, then back to 160. The transition must be instantaneous. If it's gradual, practice the switch point separately."
@@ -8975,7 +8975,7 @@ This guide breaks down the technique, gear, and practice approach that built one
         brand: 'Vic Firth',
         model: '5B/2B',
         specs: '5B/2B length, wood tip',
-        description: "Sandoval uses heavier 5B/2B sticks — suited to the raw power and stamina his technique demands for sustained 300+ BPM blast beat passages, where extra stick mass helps drive volume and rebound through extended alternating double bass work.",
+        description: "Sandoval uses heavier 5B/2B sticks — suited to the raw power and stamina his technique demands for sustained extreme-tempo blast beat passages, where extra stick mass helps drive volume and rebound through extended alternating double bass work.",
         alternative: "Promark 5B/2B or Vater 5B/2B for comparable weight and feel"
       },
       heads: 'Remo — reportedly Pinstripe or Emperor (specific per-position models not publicly confirmed)'
@@ -9078,7 +9078,7 @@ This guide breaks down the technique, gear, and practice approach that built one
       },
       {
         question: "How fast does Pete Sandoval play double bass?",
-        answer: "At his peak, Pete Sandoval demonstrated double bass capability at 300+ BPM in controlled settings. In live Morbid Angel performances and recordings, sustained blast beats typically run 240-270 BPM. His landmark work on Altars of Madness (1989) and Covenant (1993) features sustained extreme tempos that remained the technical benchmark for years."
+        answer: "Pete Sandoval was known for exceptional double bass speed, precision, and endurance that set the standard for death metal drumming. His landmark work on Altars of Madness (1989) and Covenant (1993) features sustained extreme tempos that remained the technical benchmark for years. No independently verified BPM figure for his playing has been published."
       },
       {
         question: "What pedals does Pete Sandoval use?",

@@ -56,6 +56,7 @@ export const GEAR_DATABASE = {
     { id: 'ddrum-vinnie-paul-snare', name: 'ddrum Vinnie Paul Signature 14x8"', brand: 'ddrum', category: 'snare', tier: 'mid', price: 450, keywords: ['vinnie', 'paul', 'signature', 'ddrum'] },
     { id: 'sjc-jay-weinberg-snare', name: 'SJC Jay Weinberg "The Crucible" 48-ply Brass 14x6.5"', brand: 'sjc', category: 'snare', tier: 'pro', price: 650, keywords: ['jay', 'weinberg', 'crucible', 'signature', 'sjc', 'brass'] },
     { id: 'tama-mike-portnoy-signature-melody-master', name: 'Tama Mike Portnoy Signature Melody Master 14x5.5"', brand: 'tama', category: 'snare', tier: 'pro', price: 650, keywords: ['mike', 'portnoy', 'melody', 'master', 'signature', 'tama'] },
+    { id: 'ocdp-40ply-vented', name: 'OCDP 14x6.5" 40-ply Vented', brand: 'ocdp', category: 'snare', tier: 'pro', price: 550, keywords: ['ocdp', 'vented', '40-ply', 'orange county'] },
   ],
   cymbals: [
     { id: 'zildjian-a-custom', name: 'Zildjian A Custom Series', brand: 'zildjian', category: 'cymbals', tier: 'pro', price: 2200, keywords: ['a custom', 'zildjian', 'brilliant'] },
@@ -171,7 +172,7 @@ export const DRUMMER_GEAR = {
   },
   'john-otto': {
     drums: ['ocdp-custom-kit'],
-    snare: ['pearl-sensitone'],
+    snare: ['ocdp-40ply-vented'],
     cymbals: ['zildjian-a-custom'],
     hardware: ['gibraltar-professional'],
     sticks: ['zildjian-drumsticks'],

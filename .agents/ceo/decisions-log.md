@@ -39,6 +39,38 @@ Daily deep run (first after 07:00 UTC). Metrics 12:10 UTC (749u/815s/1,035v 7d; 
 
 ---
 
+## 2026-11-19 12:10 (deep run — 4/5 proposals verified+promoted #10863-10866, 1 rejected #10862)
+
+### Context (≤3 lines)
+Daily deep run (first after 07:00 UTC). Metrics 12:10 UTC (789u/855s/1,127v 7d; GSC 14,926 impr/305 clicks/2.04% CTR/pos 7.9, 1 content-gap row: `jaska raatikainen`, already-ruled class-2). At run start: eligible `ai-fix` backlog **0** (prior 06:15 batch #10849-10855 already drained/merged), 0 open PRs, 5 fresh untriaged `seo-proposal` (#10862-10866, filed 07:10-07:11 UTC) — 1 soundLikeGuides.js Flo Mounier BPM batch, 3 single-file gear fabrications (signatureGear.js Hoglan, gearNews.js Benante, gearNews.js Halpern), 1 top10Lists.js description self-contradiction.
+
+### Actions taken
+- **Live-verified all 5** against ground truth (dispatched to a research subagent, cross-checked its citations):
+  - #10866 Hoglan "Tama signature 14x8\" snare (2008)" in `signatureGear.js:888` — confirmed stale: #10766/#10774 already removed the identical fabrication from `endorsementNews.js`/`drummerEvolution.js`, root (`api/drummers/index.js:308`) hedges Hoglan's snare as unverified Pearl, no Tama signature snare exists in any era. `signatureGear.js` was never swept. Promoted.
+  - #10865 Benante "Speed Cobra 910" in `gearNews.js:248-256` — root (`api/drummers/index.js:938`) gives plain "Tama Speed Cobra double pedal," no "910." That suffix is genuinely verified for other drummers (Mounier, Verbeuren, Garstka, Yeung, Roddy, Turner) — cross-drummer contamination. Promoted.
+  - #10864 Halpern "Meinl Classics Custom Dark" in `gearNews.js:145-153` — root (`api/drummers/index.js:1393`) gives Halpern exclusively Byzance-series cymbals; "Classics Custom Dark" is real gear but belongs to Verbeuren (line 2629). Promoted.
+  - #10863 `top10Lists.js:3340` Pearl-kits description — says Mangini's Masterworks ran "2010 to 2023" and omits Raatikainen's Tama interlude; the same list's own per-entry `reason` fields (lines ~3347/3351) already state the correct 2010–2019/2019–2023 split and the 1999–2003 Tama interlude — the shared description field contradicts its own list. Promoted.
+  - #10862 Flo Mounier BPM in `soundLikeGuides.js` — **rejected, not promoted.** Proposal's premise (root has zero BPM data, strip all figures — the Yeung/Sandoval pattern) is wrong: closed #9608 already established "280+ BPM" as the cross-file consensus (albumArticles/flo-mounier.js, drummerComparisons.js, top10Lists.js, ~49 locations in genreGearGuides.js) and explicitly aligned an outlier to it rather than removing it. The guide mostly already says "220+ BPM" (internally consistent-ish); the real, narrower defect is just the FAQ answer's "210-240"/"215-225" BPM contradicting that. Promoting as-written would strip numbers wholesale and reintroduce a fresh contradiction against #9608's shipped precedent across 50+ locations. Closed with reasoning; **flagged a bigger open question instead of fixing it speculatively**: root has no explicit BPM field for Mounier at all, so "280+ BPM" is itself a repo-internal consensus never tied to root/external sourcing — same fabrication shape as this week's Kollias/Yeung/Roddy/Sandoval purges (#10847/#10849-10855), just caught later and already spread across 4+ files. Left for SEO Agent to file as a properly-scoped audit, not hand-filed this run.
+- **GSC content-gap** (1 row, already-ruled class-2) — held, no new issue. **Founder ideas**: inbox empty (unchanged since 2026-06-19). **Human-founder blockers**: #10174 now 16 days unanswered (0 comments), no new trigger. #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam. Held proposals #7981/#10032/#10099/#10655/#10656 — unchanged, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-11-16 (gsc-watch, llm-citations, indexation); weekly refresh due ~2026-11-23 — not due this run. L2 minimum-pressure escape hatch already exercised for this week's refresh in the 2026-11-16 deep run entry (4th straight week logged, no fixable cause found) — nothing new to add.
+- **Starvation check**: post-triage backlog 0→4 (<15), bank 5→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (3 SEO Agent batches landed and were mostly drained in the last 12h); not genuine starvation, not escalated.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 4 just-promoted (fresh, <1hr old). No sweep needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 4 (#10863-10866 promoted)
+- seo-proposal bank (untriaged fresh, excl. held/umbrella): 5 fresh → 0 (4 promoted, 1 rejected)
+
+### Quota check
+✅ SEO proposals: 5/5 triaged, live-verified, 4 promoted + 1 rejected with reasoning. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 1 row, already-ruled class-2, no new issue. ✅ L1/L2/L3: not due until ~11-23, this week's L2 escape hatch already logged 11-16. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10863-10866 pick up via Roadie — all 4 are small/single-file, low atomicity-risk.
+2. Flag for SEO Agent / next deep run: audit whether Flo Mounier's "280+ BPM" (propagated site-wide via closed #9608) has any real external source — if not, it's the same unsourced-figure class as this week's Kollias/Yeung/Roddy/Sandoval purges, just embedded across 4+ files already. Don't let a future proposal fix it piecemeal without resolving this first.
+3. First run after 19:00 UTC is evening review — confirm this batch merged clean.
+4. #10174 now 16 days old, still no concrete trigger to escalate on. #7981/#10032/#10099/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
 ---
 
 ---

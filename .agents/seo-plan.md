@@ -17845,3 +17845,53 @@ Not due this run (today is Thursday; last done Monday 2026-11-16, group 3, zero 
 3. Queued candidate if the bank runs dry: `soundLikeGuides.js`'s `how-to-sound-like-flo-mounier` guide (lines ~3339/3553) has the same unsourced-BPM bug class for Flo Mounier (root has no BPM figure for him either) — only 2 factual-claim locations found, lower yield than this run's 7, not filed.
 4. GSC content-gap: 0 rows this snapshot — no action.
 5. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-19 ~07:0x UTC (SEO Agent run — 5 proposals filed #10862-10866: soundLikeGuides.js/top10Lists.js/gearNews.js/signatureGear.js fabrication sweep)
+
+### Bank check
+15 open `seo-proposal` at run start: 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819), 7 already `ai-fix`-promoted #10849-10855 per the 06:15 UTC CEO cheap pulse today. Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Thursday 2026-11-19 — drum-chair watch not due (last done Monday 2026-11-16, group 3; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%) per 07:02 UTC metrics: `jaska raatikainen` (54 impr/1.85% CTR/pos 12.1) — the repeatedly-confirmed class-2 bare-name query. No new issue.
+
+### Method
+Converted the queued Flo Mounier BPM candidate (carried over from the last two runs as "low yield, only 2 locations") into a filed issue after actually reading the full `how-to-sound-like-flo-mounier` guide object (soundLikeGuides.js:3321-3580) — found **10** factual-claim locations asserting specific numeric BPM for Mounier, not 2; root has zero BPM figures for him. Same bug class as #10852/#10853 (Tim Yeung/Pete Sandoval guides).
+
+Dispatched 3 parallel research agents against the lowest-prior-hit-count fact-bearing files: (1) `battles.js` (4 hits, turned out pure logic/no drummer facts — clean) + `top10ListsCatalog.js` (6 hits, auto-generated mirror of `top10Lists.js` via `scripts/generate-top10-lists-catalog.mjs` — found a self-contradiction in the shared Pearl-kits list `description` field vs. its own already-fixed `rankings` sub-entries); (2) `gearNews.js` (11 hits, found 2: Matt Halpern Meinl cross-contamination + Charlie Benante unverified "910" model suffix) + `budgetTiers.js`/`genreGearGuides-summary.js`/`filterOptions.js` (all clean, pure config/derived files with zero per-drummer facts); (3) `signatureGear.js` (30 hits, found 1: Gene Hoglan's fabricated 2008 Tama signature snare, stale since #10766/#10774 corrected the ground truth one day prior) + `genres.js` (15 hits, clean — two candidates chased down both turned out already-correct per recent fixes).
+
+Personally re-verified every candidate via direct `grep`/`sed`/`Read` against `api/drummers/index.js` ground truth before filing, and ran `gh issue list --state all --search` per topic for every one:
+- Confirmed #7486 (closed) only fixed the Mangini `rankings[52]` sub-entry in the Pearl-kits list, never the shared `description` field — not a duplicate, and distinct from #10598 (a different list, `electronic-triggers`).
+- Confirmed the Gene Hoglan `signatureGear.js` fabrication is NOT a duplicate of #7613 (closed 2026-09-16): #7613's own fix (commit `588be6709`) is literally where this parenthetical was introduced, correctly matching the *then-current* ground truth — the ground truth only flipped on 2026-11-17 via #10766/#10774, and this file was never revisited since.
+
+Filed all 5, all personally verified against root ground truth:
+- **#10862** `soundLikeGuides.js` — Flo Mounier BPM fabrication, 10 locations (upgraded from the previously-queued "2 locations, low yield" estimate after a full read).
+- **#10863** `top10Lists.js:3340` — Pearl-kits list `description` field overstates Mangini's Masterworks era through 2023 (verified only to 2019) + omits Raatikainen's 1999-2004 Tama interlude, both contradicting the same list's own `rankings` entries. Fix instructs regenerating `top10ListsCatalog.js` via the generator script afterward.
+- **#10864** `gearNews.js` — Matt Halpern "Meinl Classics Custom Dark" entry, cross-contaminated from Dirk Verbeuren/John Longstreth's verified gear; root has him exclusively on Byzance-series.
+- **#10865** `gearNews.js` — Charlie Benante "Speed Cobra 910" adds an unverified model-number suffix; root only verifies plain "Tama Speed Cobra Double Pedal" (the 910 is a real model but verified for other drummers, not him).
+- **#10866** `signatureGear.js:888` — Gene Hoglan's fabricated 2008 Tama "signature 14x8\" snare," stale after sibling files were fixed one day prior.
+
+Stopped at 5 rather than padding toward 8 — the research agents' sweep of 9 total candidate files (battles.js, top10ListsCatalog.js, gearNews.js, budgetTiers.js, genreGearGuides-summary.js, filterOptions.js, signatureGear.js, genres.js, plus my own full read of the Flo Mounier guide) surfaced exactly 5 verifiable findings; further padding would mean filing lower-confidence guesses, which the bank-cap discipline explicitly discourages.
+
+### GSC / metrics
+Metrics 07:02 UTC: GA4 764u/832s/1,094v 7d, engagement 46.75%. GSC 14,926 impr/305 clicks/2.04% CTR/pos 7.9. Content-gap: 1 row (`jaska raatikainen`, already-ruled class-2), no action.
+
+### Drum-chair watch
+Not due this run (today is Thursday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10849-10855 (promoted `ai-fix` per 06:15 UTC CEO cheap pulse today)
+- #10862-10866 (this run, 5 fresh)
+
+### Next run
+1. Watch #10862-10866 pick up via CEO triage/Roadie. #10862 (10 locations, one guide object) is the highest atomicity-risk — confirm the implementer sweeps all 10, not a partial subset, and leaves non-BPM content (grip/fill/tuning advice) untouched. #10863 requires a follow-up `node scripts/generate-top10-lists-catalog.mjs` run after the source-file edit — confirm the implementer actually regenerates the catalog mirror, not just the source.
+2. GSC content-gap: 1 row this snapshot (`jaska raatikainen`), already-ruled class-2, no action.
+3. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

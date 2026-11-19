@@ -1,6 +1,6 @@
 # The Drum Endorsement Landscape in Metal
 
-> **Last updated:** 2026-11-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/drum-endorsement-landscape)
+> **Last updated:** 2026-11-19 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ---
 
@@ -26,7 +26,7 @@ Vic Firth reaches more metal drummers than any other brand tracked by MetalForge
 | 4 | Zildjian | 22 | 30.6% | Cymbals, Sticks |
 | 5 | Pearl | 21 | 29.2% | Kits, Snares, Pedals |
 | 6 | Promark | 19 | 26.4% | Sticks |
-| 7 | DW | 17 | 23.6% | Kits, Snares, Pedals |
+| 7 | DW | 18 | 25% | Kits, Snares, Pedals |
 | 8 | Paiste | 14 | 19.4% | Cymbals |
 
 ### Signature Drumsticks by Brand
@@ -45,7 +45,7 @@ Vic Firth reaches more metal drummers than any other brand tracked by MetalForge
 | Brand | Signature Models | Example Drummer |
 | --- | --- | --- |
 | Sonor | 4 | Tomas Haake |
-| Pearl | 3 | Joey Jordison |
+| Pearl | 2 | Joey Jordison |
 | ddrum | 1 | Scott Travis |
 | Mapex | 1 | Chris Adler |
 | Tama | 1 | Lars Ulrich |
@@ -82,4 +82,4 @@ Dataset: 72 documented drummers, snapshot dated 2026-07-25. Brand reach counts a
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-19 · Source: [MetalForge.io](https://metalforge.io)*

@@ -186,7 +186,7 @@ export const STUDY_MEMBERSHIP = {
           },
           {
             "brand": "DW",
-            "percent": 20.8
+            "percent": 22.2
           },
           {
             "brand": "Pearl",
@@ -312,7 +312,7 @@ export const STUDY_MEMBERSHIP = {
       },
       {
         "brand": "DW",
-        "percent": 23.6
+        "percent": 25
       },
       {
         "brand": "Paiste",

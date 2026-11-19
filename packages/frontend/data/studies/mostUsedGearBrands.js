@@ -455,7 +455,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "id": 26,
               "name": "Shannon Larkin",
               "slug": "shannon-larkin",
-              "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
+              "band": "ex-Godsmack / Ugly Kid Joe / Wrathchild America",
               "configString": "ddrum Dios Series"
             },
             {
@@ -782,7 +782,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "George Kollias",
               "slug": "george-kollias",
               "band": "Nile",
-              "configString": "Pearl George Kollias Signature 14x6.5\""
+              "configString": "Pearl (specific model not independently verified)"
             },
             {
               "id": 8,
@@ -1012,7 +1012,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "id": 26,
               "name": "Shannon Larkin",
               "slug": "shannon-larkin",
-              "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
+              "band": "ex-Godsmack / Ugly Kid Joe / Wrathchild America",
               "configString": "ddrum Dios 14x6.5\" Maple"
             },
             {
@@ -1228,8 +1228,8 @@ export const MOST_USED_GEAR_BRANDS = {
               "id": 26,
               "name": "Shannon Larkin",
               "slug": "shannon-larkin",
-              "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
-              "configString": "Sabian AAX & HHX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 21\" HHX Raw Bell Dry Ride, 10\" AAX Splash, 18\" AAX Chinese)"
+              "band": "ex-Godsmack / Ugly Kid Joe / Wrathchild America",
+              "configString": "Sabian AAX Series (14\" AAX Stage Hi-Hats, 18\" & 19\" AAX X-Plosion Crashes, 21\" AAX Raw Bell Dry Ride, 10\" AAX Splash, 18\" AAX Chinese)"
             },
             {
               "id": 31,
@@ -1362,7 +1362,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "George Kollias",
               "slug": "george-kollias",
               "band": "Nile",
-              "configString": "Zildjian (14\" K Mastersound Hi-Hats, 17\" & 18\" K Custom Dark Crashes, 21\" A Custom Mega Bell Ride, 18\" China)"
+              "configString": "Zildjian A Custom Series"
             },
             {
               "id": 9,
@@ -1770,7 +1770,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Inferno",
               "slug": "inferno",
               "band": "Behemoth",
-              "configString": "Vic Firth 5B"
+              "configString": "Vic Firth American Classic Extreme 5B"
             },
             {
               "id": 20,
@@ -1804,7 +1804,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "id": 26,
               "name": "Shannon Larkin",
               "slug": "shannon-larkin",
-              "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
+              "band": "ex-Godsmack / Ugly Kid Joe / Wrathchild America",
               "configString": "Vic Firth American Classic 5B"
             },
             {
@@ -1980,7 +1980,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Adrian Erlandsson",
               "slug": "adrian-erlandsson",
               "band": "At the Gates",
-              "configString": "Vic Firth Rock Nylon Tip (At the Gates Signature)"
+              "configString": "Vic Firth American Classic Rock Nylon Tip (ROCKN)"
             }
           ]
         },
@@ -2337,7 +2337,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "Mario Duplantier",
               "slug": "mario-duplantier",
               "band": "Gojira",
-              "configString": "Tama Iron Cobra 900 Power Glide Double Pedal"
+              "configString": "Tama Iron Cobra 900 Power Glide Single Pedal (x2 — one per bass drum)"
             },
             {
               "id": 16,
@@ -2448,8 +2448,8 @@ export const MOST_USED_GEAR_BRANDS = {
         },
         {
           "brand": "DW",
-          "count": 15,
-          "percent": 20.8,
+          "count": 16,
+          "percent": 22.2,
           "drummers": [
             {
               "id": 8,
@@ -2483,7 +2483,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "id": 26,
               "name": "Shannon Larkin",
               "slug": "shannon-larkin",
-              "band": "Godsmack / Ugly Kid Joe / Wrathchild America",
+              "band": "ex-Godsmack / Ugly Kid Joe / Wrathchild America",
               "configString": "DW 9000 Series Double Pedal"
             },
             {
@@ -2513,6 +2513,13 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "travis-orbin",
               "band": "Darkest Hour / ex-Periphery",
               "configString": "DW 9000 Series Double Pedal"
+            },
+            {
+              "id": 41,
+              "name": "Nicko McBrain",
+              "slug": "nicko-mcbrain",
+              "band": "Iron Maiden",
+              "configString": "DW 5000 Series Single Pedal"
             },
             {
               "id": 42,
@@ -2811,13 +2818,8 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         }
       ],
-      "skippedCount": 2,
+      "skippedCount": 1,
       "skipped": [
-        {
-          "slug": "nicko-mcbrain",
-          "name": "Nicko McBrain",
-          "raw": "Single Bass Drum Pedal"
-        },
         {
           "slug": "john-longstreth",
           "name": "John Longstreth",

@@ -151,7 +151,7 @@ export const KIT_CONFIGURATIONS = {
   },
   "cymbalSetupSize": {
     "datasetSize": 56,
-    "avgPieces": 5.1,
+    "avgPieces": 4.9,
     "medianPieces": 5,
     "minPieces": 0,
     "maxPieces": 9,
@@ -202,8 +202,8 @@ export const KIT_CONFIGURATIONS = {
       {
         "genre": "Technical Death Metal",
         "datasetSize": 3,
-        "avgPieces": 4.7,
-        "medianPieces": 5
+        "avgPieces": 3,
+        "medianPieces": 4
       },
       {
         "genre": "Groove Metal",
@@ -220,16 +220,16 @@ export const KIT_CONFIGURATIONS = {
       {
         "genre": "Progressive Death Metal",
         "datasetSize": 2,
-        "avgPieces": 7,
-        "medianPieces": 7
+        "avgPieces": 4,
+        "medianPieces": 4
       }
     ],
     "pieceTypeCounts": {
-      "hi-hat": 55,
-      "crash": 116,
-      "ride": 52,
-      "china": 48,
-      "splash": 9,
+      "hi-hat": 53,
+      "crash": 112,
+      "ride": 50,
+      "china": 46,
+      "splash": 8,
       "stack": 0,
       "other": 5
     }

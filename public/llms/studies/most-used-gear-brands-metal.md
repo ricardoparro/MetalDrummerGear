@@ -1,6 +1,6 @@
 # Most-Used Drum & Cymbal Brands in Metal
 
-> **Last updated:** 2026-11-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/most-used-gear-brands-metal)
+> **Last updated:** 2026-11-19 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/most-used-gear-brands-metal)
 
 ---
 
@@ -60,7 +60,7 @@ Tama is the most-used drum kit brand in metal, played by 21 of the 72 drummers d
 | Rank | Brand | Drummers | % of 72 | Example |
 | --- | --- | --- | --- | --- |
 | 1 | Tama | 22 | 30.6% | Lars Ulrich |
-| 2 | DW | 15 | 20.8% | Ray Luzier |
+| 2 | DW | 16 | 22.2% | Ray Luzier |
 | 3 | Pearl | 13 | 18.1% | Joey Jordison |
 | 4 | Axis | 4 | 5.6% | Hellhammer |
 | 5 | Sonor | 3 | 4.2% | Danny Carey |
@@ -80,4 +80,4 @@ Dataset: 72 verified drummer profiles documented on MetalForge, snapshot dated 2
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-19 · Source: [MetalForge.io](https://metalforge.io)*

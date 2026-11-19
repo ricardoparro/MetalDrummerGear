@@ -5363,7 +5363,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Hate Eternal - signed with Tama/Sabian (2005)',
     profileImage: '/images/drummers/tim-yeung.webp',
 
-    summary: "Tim Yeung's 2005 setup, assembled after signing with Tama and Sabian, documents one of technical death metal's fastest and most cited drum rigs — a Tama Starclassic Bubinga kit, Sabian AAX cymbals, and a Tama Speed Cobra double bass pedal assembled to sustain 200-280 BPM blast beats without the technique degrading over a full set. Established at the height of Yeung's run as one of the genre's most technically studied drummers, the complete rig cost approximately $4,377 in 2005 dollars, equivalent to roughly $7,342 in 2026 after CPI adjustment — a professional-tier extreme metal setup rather than a boutique custom build.\n\nYeung's technique — relaxed, rebound-based footwork rather than tension-based power striking — is the reason his gear history reads as a study in speed-per-dollar rather than raw investment: the Tama Speed Cobra pedal's smooth, lightweight double-pedal action mattered more to his output than shell tier or custom finishes. That same Tama/Sabian combination, established in 2005, carried unchanged through his 2011 arrival in Morbid Angel for Illud Divinum Insanus and into 2017's Kingdoms Disdained — a rig locked in at the start of his recorded career and never revisited, in service of some of the fastest documented BPMs in recorded death metal.",
+    summary: "Tim Yeung's 2005 setup, assembled after signing with Tama and Sabian, documents one of technical death metal's fastest and most cited drum rigs — a Tama Starclassic Bubinga kit, Sabian AAX cymbals, and a Tama Speed Cobra double bass pedal assembled to sustain extreme blast-beat tempos without the technique degrading over a full set. Established at the height of Yeung's run as one of the genre's most technically studied drummers, the complete rig cost approximately $4,377 in 2005 dollars, equivalent to roughly $7,342 in 2026 after CPI adjustment — a professional-tier extreme metal setup rather than a boutique custom build.\n\nYeung's technique — relaxed, rebound-based footwork rather than tension-based power striking — is the reason his gear history reads as a study in speed-per-dollar rather than raw investment: the Tama Speed Cobra pedal's smooth, lightweight double-pedal action mattered more to his output than shell tier or custom finishes. That same Tama/Sabian combination, established in 2005, carried unchanged through his 2011 arrival in Morbid Angel for Illud Divinum Insanus and into 2017's Kingdoms Disdained — a rig locked in at the start of his recorded career and never revisited, in service of some of the fastest blast-beat tempos in recorded death metal.",
 
     setup: {
       drums: {
@@ -5373,7 +5373,7 @@ export const GEAR_PRICE_HISTORY = {
         originalPrice: 2600,
         year: 2005,
         source: 'Tama Starclassic Bubinga catalog pricing 2005',
-        notes: "The twin 22\" kicks gave Yeung's double bass patterns the sub-bass mass needed to sustain 200+ BPM without individual strokes blurring into a wash — foundational to his fastest documented performances.",
+        notes: "The twin 22\" kicks gave Yeung's double bass patterns the sub-bass mass needed to sustain extreme blast-beat tempos without individual strokes blurring into a wash — foundational to his fastest performances.",
         vintageValue2026: 3400,
         modernEquivalent: {
           item: 'Tama Starclassic Bubinga (current Yeung kit)',
@@ -5403,7 +5403,7 @@ export const GEAR_PRICE_HISTORY = {
         originalPrice: 1100,
         year: 2005,
         source: 'Sabian AAX catalog pricing 2005',
-        notes: "Fast-attacking, controlled-decay cymbals that articulate cleanly at Yeung's 250+ BPM hi-hat pulse without blurring into overlapping sustain.",
+        notes: "Fast-attacking, controlled-decay cymbals that articulate cleanly at Yeung's rapid hi-hat pulse without blurring into overlapping sustain.",
         vintageValue2026: 1350,
         modernEquivalent: {
           item: 'Sabian AAX & HHX Series (current)',

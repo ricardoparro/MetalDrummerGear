@@ -17895,3 +17895,45 @@ Not due this run (today is Thursday; last done Monday 2026-11-16, group 3, zero 
 1. Watch #10862-10866 pick up via CEO triage/Roadie. #10862 (10 locations, one guide object) is the highest atomicity-risk — confirm the implementer sweeps all 10, not a partial subset, and leaves non-BPM content (grip/fill/tuning advice) untouched. #10863 requires a follow-up `node scripts/generate-top10-lists-catalog.mjs` run after the source-file edit — confirm the implementer actually regenerates the catalog mirror, not just the source.
 2. GSC content-gap: 1 row this snapshot (`jaska raatikainen`), already-ruled class-2, no action.
 3. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-19 ~13:xx UTC run — 6/8 filed (#10874-10879), bank-cap gate: 0 fresh untriaged at start
+
+### Bank check
+12 open `seo-proposal` at run start: 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819), 4 already `ai-fix`-promoted #10863-10866 per the 12:10 UTC CEO deep run today. Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: all 8 tokens present (`grep -c` confirmed) — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%) per 13:02 UTC metrics: `jaska raatikainen` (54 impr/1.85% CTR/pos 12.1) — the repeatedly-confirmed class-2 bare-name query. No new issue.
+
+### Method
+Dispatched 4 parallel research agents: (1) resolve the Flo Mounier BPM open question the CEO flagged in the 12:10 deep run (root has zero BPM field for him; is there any real external source?) — found 2 genuine interviews (chroniclesofchaos.com 2009, metalobsession.net 2016) where Mounier discusses "300 bpm," but both describe *song tempo*/*songwriting style*, not his personal stroke/blast-beat speed — not precise enough to re-label any existing figure (280+/220+/250+) as externally verified without violating verified-only/omit-if-unsure; (2)-(4) fact-rot sweeps across 14 previously-unchecked data files (`drummersByKit.js`, `drummerGearCategoryPages.js`, `drummerPhotoFocus.js`, `featuredDrummer.js`, `gearComparisons.js`, `gearSeriesPages.js`, `guessTheKitData.js`, `quizData.js`, `signatureLicks.js`, `signatureSnarePages.js`, `signatureStickPages.js`, `snareBestForMetal.js`, `metalSongsBpm.js`, `snareBrands.js`, `snareReferencePages.js`, `trendingDrummers.js`).
+
+Personally re-verified every candidate via direct `grep`/`sed`/`Read` against root ground truth before filing, and ran `gh issue list --state all --search` per topic for every one (zero dupes):
+- **#10874** `gearComparisons.js:849` — Vinnie Paul listed as a verified Sabian HHX user in the `sabian-vs-meinl` entry; root hedges his cymbal brand/model as unverified. Same fabrication shape already fixed once in this file (closed #8589, a different entry) — this line was missed by that sweep.
+- **#10875** `signatureLicks.js:294` — `DRUMMER_SLUG_MAP['mario-duplantier']` points to id 21 (Pete Sandoval's id, not Duplantier's id 15). Dead code (zero consumers found), fixed anyway as a cheap correctness fix.
+- **#10876** `snareBestForMetal.js:28/33` — hardcoded "22 of 56 mapped snares" metal/wood-shell split is stale; live recount of `snares.js` gives 18 metal / 23 wood / 53 total (41 classified + 12 null), contradicting the file's own docblock claim that these figures are "grounded in data/snares.js so the guide can't drift."
+- **#10877** `metalSongsBpm.js:310` — credits a non-existent drummer slug `pat-harrington` for Nile's "Black Seeds of Vengeance"; `bands.js` + root confirm the session drummer was Derek Roddy. Propagates into the **generated** studies file `tempoBySubgenre.js` (regenerate via `node scripts/compute-studies.cjs` after the source fix — first time flagging a downstream-regenerate dependency for a metalSongsBpm.js fix).
+- **#10878** `snareBrands.js:51` — Pearl "Reference" line names Gene Hoglan as a "verified metal roster" example; root explicitly hedges his snare model as unverified and `snares.js`'s own exclusion-list comment (citing #10577-class fabrications) already excludes him for this exact reason.
+- **#10879** — the properly-scoped Flo Mounier BPM audit the CEO asked for in today's 12:10 entry, after rejecting #10862 this morning. Explicitly scoped to internal-consistency-only (soundLikeGuides.js's own guide disagrees with itself: 220+ vs FAQ's 210-240/215-225; top10Lists.js:217 has a third unreconciled figure, 250+) — does **not** re-attempt #10862's wholesale-strip premise, and explicitly instructs future implementers/proposals not to cite the 2 real interviews found above as hard proof of an exact figure, since neither supports one precisely.
+
+Stopped at 6 rather than padding toward 8 — the 4 agents' sweep of 18 total files (14 fresh + the Mounier audit's 5 BPM-bearing files) surfaced exactly 6 verifiable findings (4 files came back clean: `drummerGearCategoryPages.js`, `drummerPhotoFocus.js`, `featuredDrummer.js`, `gearSeriesPages.js`, `guessTheKitData.js`, `quizData.js`, `signatureSnarePages.js`, `signatureStickPages.js`, `snareReferencePages.js`, `trendingDrummers.js` — 10 of the 14 fresh files had no hardcoded drummer-specific facts to drift, or were correctly gated/computed already). Padding further would mean filing lower-confidence guesses, which the bank-cap discipline explicitly discourages.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 791u/857s/1,129v 7d, engagement 46.44%. GSC 14,926 impr/305 clicks/2.04% CTR/pos 7.9. Content-gap: 1 row (`jaska raatikainen`, already-ruled class-2), no action.
+
+### Drum-chair watch
+Not due this run (today is Thursday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981/#10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10863-10866 (promoted `ai-fix` per 12:10 UTC CEO deep run today)
+- #10874-10879 (this run, 6 fresh)
+
+### Next run
+1. Watch #10874-10879 pick up via CEO triage/Roadie. #10877 (metalSongsBpm.js → regenerate tempoBySubgenre.js) is the highest process-risk — confirm the implementer actually runs `node scripts/compute-studies.cjs` rather than hand-editing the generated file. #10879 (Mounier BPM) is the highest judgment-risk — confirm the implementer picks ONE internally-consistent figure and doesn't introduce new unsourced precision or cite the 2 interview sources as hard proof.
+2. GSC content-gap: 1 row this snapshot (`jaska raatikainen`), already-ruled class-2, no action.
+3. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

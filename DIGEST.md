@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-19 08:14 UTC · Window: last 12h*
+*Generated 2026-11-19 19:08 UTC · Window: last 12h*
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 13 |
+| Open `ai-fix` issues | **26** |
+| Open `seo-proposal` issues | 17 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **12** |
+| Open PRs | 5 |
+| PRs merged in window | **11** |
 | Issues closed in window | 12 |
 | Commits to `main` in window | 16 |
 
@@ -21,10 +21,10 @@
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **772** |
-| Sessions | 840 |
-| Page views | 1,107 |
-| Engagement rate | 46.67% |
+| Active users | **813** |
+| Sessions | 881 |
+| Page views | 1,159 |
+| Engagement rate | 46.31% |
 | GSC impressions | 14,926 |
 | GSC clicks | 305 |
 | GSC CTR | 2.04% |
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~4,744 |
-| Est. ad revenue / mo | **~€14.23** |
-| Progress to €1000/mo | 1.4% |
-| Pageviews/mo needed for €1000 | ~333,333 (70× current) |
+| Est. pageviews / mo | ~4,967 |
+| Est. ad revenue / mo | **~€14.90** |
+| Progress to €1000/mo | 1.5% |
+| Pageviews/mo needed for €1000 | ~333,333 (67× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -74,32 +74,38 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 27 | 27 | 0 |
-| Verify YouTube Videos | 17 | 9 | 8 |
-| Check Sitemap Drift | 16 | 8 | 8 |
-| Verify Data Modules | 15 | 7 | 8 |
-| Check llms freshness | 9 | 0 | 9 |
-| Perf Budget Gate | 8 | 0 | 8 |
+| PR Merger | 30 | 29 | 0 |
+| Verify YouTube Videos | 15 | 6 | 3 |
+| Check Sitemap Drift | 15 | 7 | 3 |
+| Verify Data Modules | 14 | 6 | 3 |
+| Check llms freshness | 7 | 0 | 3 |
+| Perf Budget Gate | 6 | 0 | 3 |
+| Check Video SEO | 2 | 0 | 1 |
+| Health Check | 2 | 2 | 0 |
+| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
-| SEO Agent | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Health Check | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 0 | 0 |
+| SEO Agent | 1 | 0 | 0 |
 | CEO Agent | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| X Agent | 1 | 1 | 0 |
+| Verify API Modules | 1 | 0 | 1 |
 
 ## 🧠 Today's CEO decisions
 
 - 2026-11-18 12:10 (deep run — 8/8 proposals verified+promoted #10818-10827; L1/L2/L3 not due)
+- 2026-11-19 12:10 (deep run — 4/5 proposals verified+promoted #10863-10866, 1 rejected #10862)
 - 2026-11-18 06:14 (cheap pulse — 7/7 proposals verified+promoted #10801-10807)
 - 2026-11-18 00:19 (cheap pulse — 8/8 proposals verified+promoted #10793-10800)
 - 2026-11-18 18:08 (cheap pulse — 2/2 proposals verified+promoted #10832/#10833)
 - 2026-11-19 00:19 (cheap pulse — 5/5 proposals verified+promoted #10844-10848)
-- 2026-11-19 06:15 (cheap pulse — 7/7 proposals verified+promoted #10849-10855)
 
-## 📦 Shipped to main (12)
+## 📦 Shipped to main (11)
 
+- #10883 fix: #10866 SEO: signatureGear.js still fabricates Gene Hoglan's 'Tama signature 14x8" snare (2008)' — stale after #10766/#10774 corrected the ground truth
+- #10882 fix: #10865 SEO: gearNews.js adds unverified 'Speed Cobra 910' model suffix to Charlie Benante's pedal — root only verifies plain 'Tama Speed Cobra Double Pedal'
+- #10881 fix: #10864 SEO: gearNews.js fabricates Matt Halpern 'Meinl Classics Custom Dark' cymbal addition — cross-contaminated from Dirk Verbeuren/John Longstreth's gear
+- #10880 fix: #10863 SEO: top10Lists.js Pearl-kits list description field overstates Mangini's Masterworks era through 2023 + omits Raatikainen's Tama interlude (contradicts its own rankings)
 - #10873 fix: #10855 SEO: gearPriceHistory.js fabricates Tim Yeung '200-280 BPM' speed-per-dollar framing as documented fact (3 locations)
 - #10872 fix: #10854 SEO: drummerEvolution.js fabricates Tim Yeung '200-280 BPM' as documented fact (2 FAQ locations)
 - #10871 fix: #10853 SEO batch: soundLikeGuides.js 'how-to-sound-like-pete-sandoval' guide fabricates '300+ BPM' as verified fact (6 factual-claim locations)
@@ -107,21 +113,16 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - #10869 fix: #10851 SEO: drummerComparisons.js fabricates Tim Yeung '280 BPM' blast speed as 'verified'/'documented' fact (4 locations)
 - #10868 fix: #10850 SEO: top10Lists.js fabricates Derek Roddy '260 BPM swivel' + unsourced Sandoval/Mounier BPM figures as verified fact (6 locations)
 - #10867 fix: #10849 SEO batch: genreGearGuides.js fabricates Derek Roddy '260 BPM swivel technique' as verified fact (~15 locations) — root has zero BPM figure for him
-- #10861 fix: #10848 SEO: gearSearchData.js John Otto snare still 'pearl-sensitone' — root now has a verified OCDP snare model (#7021 deliberately deferred this)
-- #10860 fix: #10847 SEO: licks/george-kollias.js fabricates 280+/255 BPM blast-beat claims — verified ceiling is 240+ BPM
-- #10859 fix: #10846 SEO: drummerComparisons.js states Vinnie Paul's unverified Tama-era snare as flat '14x6.5 Tama steel' fact — self-contradicts the file's own FAQ hedge (5 locations, 2 entries)
-- #10858 fix: #10844 SEO: pedalReferencePages.js asserts George Kollias's Demon XR as 'direct drive' — pedals.js itself leaves driveType null
-- #10856 fix: #10845 SEO: gearCategoryPages.js editorialIntro fabricates 4 drummer-gear pairings (Jordison/Tama, Ulrich/Ludwig, Hoglan/Pearl Free-Floating, McBrain/Tama)
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 379h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2689h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2785h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2962h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4047h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 390h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2700h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2796h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2973h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4058h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

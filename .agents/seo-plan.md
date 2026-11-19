@@ -17791,3 +17791,57 @@ Not due this run (today is Wednesday; last done Monday 2026-11-16, group 3, zero
 2. Queued candidate if the bank runs dry: `pedalReferencePages.js` Demon XR/Kollias direct-drive over-assertion (lines ~85/114) vs `pedals.js`'s deliberate `driveType: null` — still lower-confidence, unfiled by two consecutive runs now.
 3. GSC content-gap: 2 rows this week (`raymond herrera`, `jaska raatikainen`), both already-ruled, no action.
 4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-19 ~01:0x UTC (SEO Agent run — 7 proposals filed #10849-10855: unsourced blast-beat BPM superlatives for Roddy/Yeung/Sandoval)
+
+### Bank check
+13 open `seo-proposal` at run start: 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819), 5 already `ai-fix`-promoted #10844-10848 per the 00:19 UTC CEO cheap pulse. Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Thursday 2026-11-19 — drum-chair watch not due (last done Monday 2026-11-16, group 3; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- `api/robots.js`: all 8 AI crawler tokens present — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%) per 01:02 UTC metrics: none this snapshot (table empty — first zero-row snapshot in several runs).
+
+### Method
+Ranked all 59 `packages/frontend/data/*.js` files by prior `seo-proposal`/`ai-fix` search-hit count. Dispatched 3 parallel research agents against the 9 lowest-hit-count fact-bearing candidates (`guessTheKitData.js`, `quizData.js`, `trendingDrummers.js`, `cymbalSetupPages.js`, `signatureSnarePages.js`, `signatureStickPages.js`, `drummerGearCategoryPages.js`, `drummerPhotoFocus.js`, `pedalSetupPages.js`) — all 9 came back clean (pure template/presentation/config files with no hardcoded per-drummer gear facts; the one finding, a stale dev comment in `pedalSetupPages.js`, doesn't reach any rendered output and wasn't filed per the agent's own correct call).
+
+Pivoted to the `licks/` directory (49 per-drummer files) since #10847 (filed 00:19 UTC pulse, this morning) had just found a George Kollias blast-beat BPM fabrication there. Grepped all licks files for BPM mentions, then narrowed to superlative/record-style claims (not per-song tempo metadata) above the verified 240+ BPM Kollias ceiling. Found `mikkey-dee.js`/`derek-roddy.js` `bpmDisplay` fields that turned out to be legitimate per-song tempo metadata (not drummer-ability claims) — correctly ruled those out after reading context, no issue filed on `licks/`.
+
+That pivot led to a much bigger, previously-unswept fabrication class: specific "verified"/"documented" blast-beat BPM **superlative numbers** asserted for Derek Roddy ("260 BPM swivel technique"), Tim Yeung ("280 BPM"), and Pete Sandoval ("300+ BPM") spread across 7 different data files. Unlike the already-fixed George Kollias BPM saga (#9943/#10633/#10818/#10847 — an inflation of his real root figure of 240+ BPM), **none of these three drummers has any BPM number in root at all** — `api/drummers/index.js` and `extendedBios.js` were checked line-by-line for all three and contain zero numeric speed figures. These are inventions, not inflations — a stricter violation of the verified-only rule than the Kollias case. Confirmed via `gh issue list --state all --search` on 7 different query combinations that none of this specific pattern (260/280/300 BPM BPM-superlative claims for these 3 drummers) has been filed or fixed before — all historical hits were tenure/gear/brand fabrications, a different bug class.
+
+Filed all 7, all personally verified via direct grep/read against `api/drummers/index.js` + `extendedBios.js`:
+- **#10849** `genreGearGuides.js` — Derek Roddy "260 BPM swivel technique" at 15 locations.
+- **#10850** `top10Lists.js` — Derek Roddy "260 BPM" (5 locations) + bundled unsourced Sandoval "240+ BPM"/Mounier "220-260 BPM" in the same FAQ answer (1 location) — 6 total.
+- **#10851** `drummerComparisons.js` — Tim Yeung "verified at over 280 BPM" (4 locations).
+- **#10852** `soundLikeGuides.js` — the entire `how-to-sound-like-tim-yeung` guide object built around "280 BPM" (~13 locations in one guide).
+- **#10853** `soundLikeGuides.js` — the entire `how-to-sound-like-pete-sandoval` guide object built around "300+ BPM" (6 factual-claim locations; explicitly scoped to exclude the guide's many legitimate reader-facing practice-tempo instructions, which are pedagogical, not claims about Sandoval).
+- **#10854** `drummerEvolution.js` — Tim Yeung "200-280 BPM" in 2 FAQ answers.
+- **#10855** `gearPriceHistory.js` — Tim Yeung "200-280 BPM"/"250+ BPM" in 3 locations.
+
+Deliberately did NOT file an 8th on Flo Mounier's own `how-to-sound-like-flo-mounier` guide (soundLikeGuides.js, lines ~3339/3553) — same bug class exists there (root has no BPM figure for him either) but only 2 factual-claim locations found, lower yield than the 7 filed; queued below for a future run if the bank runs dry.
+
+Each issue explicitly instructs the implementer to **omit** the unsourced number rather than invent a replacement, per the binding verified-only rule, and explicitly carves out legitimate practice-tempo instructional content (in #10853) from the sweep so Roadie doesn't over-scope the diff.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 706u/772s/1,008v 7d, engagement (not computed this run, see metrics.md). GSC 12,364 impr/260 clicks/2.10% CTR/pos 7.9. Content-gap: 0 rows this snapshot.
+
+### Drum-chair watch
+Not due this run (today is Thursday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy snare, human-hold)
+- #10032 (Flo Mounier Tama-vs-Pearl kit brand, human-hold)
+- #10099 (Richard Christy kit brand, human-hold)
+- #10655/#10656 (Daniel Erlandsson snare / Vinnie Paul stick, human-hold)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10844-10848 (promoted `ai-fix` per 00:19 UTC CEO pulse today)
+- #10849-10855 (this run, 7 fresh)
+
+### Next run
+1. Watch #10849-10855 pick up via CEO triage/Roadie. #10849 (15 locations, one file) and #10852/#10853 (whole-guide-object batches) are the highest atomicity-risk — confirm the implementer sweeps all locations in each, not a partial subset. #10853 explicitly must NOT touch the guide's practice-tempo instructional lines — confirm the diff is scoped only to Sandoval's-own-speed factual claims.
+2. #10850 explicitly touches 3 different drummers' claims on one line (944) — confirm the implementer only removes Roddy/Sandoval/Mounier's unsourced numbers and leaves Kollias's correct 240+ BPM untouched in the same answer.
+3. Queued candidate if the bank runs dry: `soundLikeGuides.js`'s `how-to-sound-like-flo-mounier` guide (lines ~3339/3553) has the same unsourced-BPM bug class for Flo Mounier (root has no BPM figure for him either) — only 2 factual-claim locations found, lower yield than this run's 7, not filed.
+4. GSC content-gap: 0 rows this snapshot — no action.
+5. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

@@ -11831,7 +11831,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
     genre: 'Death Metal / Technical Death Metal',
     priority: 45,
     title: "How to Sound Like Tim Yeung: Complete Gear & Technique Guide",
-    description: "Master Tim Yeung's blast beats at 280+ BPM. Learn the Morbid Angel drummer's relaxed, rebound-efficient technique, Tama Starclassic Bubinga kit, Sabian cymbal setup, and Tama Speed Cobra 910 double bass pedal approach.",
+    description: "Master Tim Yeung's extremely fast blast beats. Learn the Morbid Angel drummer's relaxed, rebound-efficient technique, Tama Starclassic Bubinga kit, Sabian cymbal setup, and Tama Speed Cobra 910 double bass pedal approach.",
     seoKeywords: ['tim yeung drums', 'how to play like tim yeung', 'tim yeung blast beat', 'morbid angel drummer', 'tim yeung technique', 'tim yeung gear'],
     ogImage: '/images/guides/tim-yeung-guide.webp',
     datePublished: '2026-07-01',
@@ -11843,12 +11843,12 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
       title: "Death Metal's Speed Engineer",
       content: `Tim Yeung is one of death metal's most technically accomplished drummers, known for extreme blast beat tempos and precision double bass technique across Morbid Angel, Hate Eternal, and Divine Heresy. He joined Morbid Angel in 2010 and recorded all drums on Illud Divinum Insanus (2011) before departing in 2015, helping sustain the legacy of a band that helped invent technical death metal.
 
-What makes Yeung's speed sustainable rather than just impressive is that it's built on relaxation and rebound efficiency, not muscular tension. At 250 BPM, 16th-note patterns arrive faster than muscle strength alone can sustain across a full set — the solution is letting the stick or beater return via its own momentum before applying the next stroke, a principle borrowed from rudiment-based technique training and scaled to extreme tempos.
+What makes Yeung's speed sustainable rather than just impressive is that it's built on relaxation and rebound efficiency, not muscular tension. At extreme blast beat tempos, 16th-note patterns arrive faster than muscle strength alone can sustain across a full set — the solution is letting the stick or beater return via its own momentum before applying the next stroke, a principle borrowed from rudiment-based technique training and scaled to extreme tempos.
 
 This guide breaks down the technique, gear, and practice approach behind Yeung's blast beat speed and double bass architecture — essential study for any drummer chasing extreme tempos without burning out mid-song.`,
       keyPoints: [
         "Morbid Angel's drummer from 2010-2015, recording Illud Divinum Insanus (2011)",
-        "Blast beats documented in the 200-280 BPM range — among the fastest in death metal",
+        "Among the fastest blast beat tempos in death metal, built on rebound efficiency rather than raw power",
         "Speed built on rebound efficiency and relaxation, not muscular power striking",
         "Also recorded with Hate Eternal and Divine Heresy across Erik Rutan's extreme metal universe"
       ]
@@ -11868,15 +11868,15 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
       signaturePatterns: [
         {
           name: "Relaxed High-Speed Blast",
-          description: "Yeung's 250-280 BPM blast beats are achieved by eliminating wasted motion rather than trying to hit harder or faster through muscular effort — rebound efficiency scales to extreme tempos in a way pure power striking cannot.",
-          tempo: "250-280 BPM",
+          description: "Yeung's extremely fast blast beats are achieved by eliminating wasted motion rather than trying to hit harder or faster through muscular effort — rebound efficiency scales to extreme tempos in a way pure power striking cannot.",
+          tempo: "Extremely Fast",
           difficulty: "Advanced",
           practiceHint: "Play a blast beat at a comfortable tempo and consciously relax your grip and shoulders while maintaining the pattern. Only increase tempo once tension-free playing is stable."
         },
         {
           name: "Rebound-Driven Double Bass",
-          description: "Yeung's double bass patterns rely on the pedal's own mechanical rebound rather than driving each stroke with leg force, keeping beater acceleration consistent across long double-kick runs at 200-240 BPM.",
-          tempo: "200-240 BPM",
+          description: "Yeung's double bass patterns rely on the pedal's own mechanical rebound rather than driving each stroke with leg force, keeping beater acceleration consistent across long, fast double-kick runs.",
+          tempo: "Fast",
           difficulty: "Advanced",
           practiceHint: "Practice single strokes on a double pedal at a moderate tempo, consciously letting the beater return on its own spring/rebound rather than pulling your foot back."
         },
@@ -11907,7 +11907,7 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "The Starclassic Bubinga series uses Tama's dense bubinga wood shells for a high-mass, focused low end that translates identically from studio to stage. Two 22\" x 18\" kick drums provide the sub-bass mass that makes Yeung's double-kick patterns felt as well as heard, with each stroke articulating cleanly even at 200+ BPM.",
+        description: "The Starclassic Bubinga series uses Tama's dense bubinga wood shells for a high-mass, focused low end that translates identically from studio to stage. Two 22\" x 18\" kick drums provide the sub-bass mass that makes Yeung's double-kick patterns felt as well as heard, with each stroke articulating cleanly even at extreme blast tempos.",
         affiliateNote: "Tama Imperialstar or Tama Superstar Custom offer similar high-mass shell attack character at a lower price point."
       },
       snare: {
@@ -11915,20 +11915,20 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
         model: 'S.L.P. Big Black Steel Snare',
         size: '14" x 6.5"',
         shell: 'Steel',
-        description: "A bright, focused snare tuning ensures every stroke articulates as a discrete event even when alternating with the kick at 200-280 strokes per minute — a challenge that eliminates lower-tension or thicker-shell snares that blur at extreme tempo.",
+        description: "A bright, focused snare tuning ensures every stroke articulates as a discrete event even when alternating with the kick at extreme blast tempo — a challenge that eliminates lower-tension or thicker-shell snares that blur at extreme tempo.",
         alternative: "Any steel-shell snare tuned medium-bright with minimal muffling will approximate the cut."
       },
       cymbals: {
         brand: 'Sabian',
         series: 'Sabian AAX / HHX Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Sabian 14" AAX Hi-Hats', notes: 'Fast, aggressive response for 200+ BPM hi-hat pulse' },
+          { type: 'Hi-Hats', model: 'Sabian 14" AAX Hi-Hats', notes: 'Fast, aggressive response for extreme-tempo hi-hat pulse' },
           { type: 'Crash', model: 'Sabian 16" AAX Crash', notes: 'Quick decay for rapid accents within blast passages' },
           { type: 'Crash', model: 'Sabian 18" AAX Crash', notes: 'Fuller crash for section endings' },
           { type: 'Ride', model: 'Sabian 20" HHX Ride', notes: 'Clear bell for ride patterns between blast sections' },
           { type: 'China', model: 'Sabian 18" AAX China', notes: 'Aggressive trash accent for the most extreme passages' }
         ],
-        description: "Sabian's AAX series delivers focused, bright voices with fast attack and controlled decay — essential at Yeung's tempos, where hi-hats must open and close 250 times per minute and still articulate each stroke distinctly before the next arrives."
+        description: "Sabian's AAX series delivers focused, bright voices with fast attack and controlled decay — essential at Yeung's tempos, where hi-hats must open and close rapidly and still articulate each stroke distinctly before the next arrives."
       },
       pedals: {
         brand: 'Tama',
@@ -11952,11 +11952,11 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
     },
     tuning: {
       title: "Tuning for Yeung's Extreme Speed Sound",
-      overview: "Yeung tunes for clean articulation at extreme tempo — every kick, snare, and hi-hat stroke needs to register as a discrete event even when strokes arrive 250+ times per minute.",
+      overview: "Yeung tunes for clean articulation at extreme tempo — every kick, snare, and hi-hat stroke needs to register as a discrete event even when strokes arrive at extremely high speed.",
       kickDrum: {
         tension: "Medium-firm",
         muffling: "Ported resonant, minimal internal dampening",
-        description: "A focused Powerstroke 3 attack keeps double-kick strokes distinct at 200+ BPM without the boom that would blur fast alternating patterns into a low-frequency wash.",
+        description: "A focused Powerstroke 3 attack keeps double-kick strokes distinct at extreme tempo without the boom that would blur fast alternating patterns into a low-frequency wash.",
         tip: "Prioritize a tight, controlled decay on the kick — sustain that lingers past the next stroke destroys the articulation extreme tempos demand."
       },
       snare: {
@@ -12030,7 +12030,7 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
         cymbals: "Full Sabian AAX/HHX selection ($1,800+)",
         pedals: "Tama Speed Cobra 910 Double Pedal ($600)",
         heads: "Full Remo setup ($400)",
-        notes: "Touring-ready setup matching Yeung's Morbid Angel rig for sustained 200-280 BPM performance."
+        notes: "Touring-ready setup matching Yeung's Morbid Angel rig for sustained extreme-tempo performance."
       }
     },
     faq: [
@@ -12040,14 +12040,14 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
       },
       {
         question: "How fast does Tim Yeung play?",
-        answer: "Yeung's blast beats are documented in the 200-280 BPM range, among the fastest in death metal. That speed is built on relaxed, rebound-efficient technique rather than muscular power striking — at tempos above 250 BPM, the body's muscular system can't sustain tension-based striking across a full set, so rebound efficiency becomes the only sustainable approach."
+        answer: "Yeung's blast beats are among the fastest in death metal. That speed is built on relaxed, rebound-efficient technique rather than muscular power striking — at extreme blast tempos, the body's muscular system can't sustain tension-based striking across a full set, so rebound efficiency becomes the only sustainable approach."
       },
       {
         question: "What kit and cymbals does Tim Yeung use?",
         answer: "Yeung plays a Tama Starclassic Bubinga kit with bubinga wood shells, built around a double 22\" x 18\" bass drum configuration. His cymbals are Sabian AAX and HHX series, including 14\" AAX hi-hats, 16\" and 18\" AAX crashes, a 20\" HHX ride, and an 18\" AAX china. He uses a Tama Speed Cobra 910 double bass pedal and Vic Firth 5B sticks."
       },
       {
-        question: "How to play blast beats at 280+ BPM like Tim Yeung?",
+        question: "How does Tim Yeung play blast beats so fast?",
         answer: "Start with the Relaxation-Under-Speed drill: play a blast beat at a comfortable tempo while consciously releasing tension in your grip and shoulders, then increase tempo only once you can stay relaxed. Extreme blast speed comes from eliminating wasted motion and letting the stick rebound naturally, not from hitting harder."
       },
       {

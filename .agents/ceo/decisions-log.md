@@ -911,3 +911,14 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 
 ---
 
+## 2026-11-20 06:12 (cheap pulse — 2/2 proposals verified+promoted #10893/#10894)
+- Backlog: 3 ai-fix (#10887 pre-existing + #10893/#10894 just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
+- Org/Sessions/Views (7d): 783 / 842 / 1,103 · GSC 12,294 impr / 246 clicks / 2.00% CTR / pos 8.0, 1 content-gap row (`raymond herrera`, already-ruled class-2, held)
+- Confirmed prior 00:19 batch: #10888/#10890 merged clean (bd46de9f3/5f553769c); #10887 (studies regen) still eligible, not yet picked up by Roadie (~11h old, under the 3-day atomic-split threshold). Blockers unchanged: #10174 (~18 days, 0 comments, no trigger) · #7981/#10032/#10099/#10655/#10656 held (updatedAt unchanged) · #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam
+- Actions: live-verified #10894 (pedalReferencePages.js:114 "Why extreme metal gravitates to direct drive" section still bundles George Kollias's Demon XR into the direct-drive-advantage claim; confirmed pedals.js's `pearl-demon-xr-george-kollias` entry has no `driveType` field — closed #10844 only fixed lines 51/85, missed this 3rd location) and #10893 (gearCategoryPages.js:90 sticks editorialIntro names Benny Greb, who has zero hits anywhere in the roster, and implies Lars Ulrich's namesake stick is Vic Firth/Promark/Zildjian when drumsticks.js confirms it's Ahead LT; Dave Lombardo's ProMark pairing confirmed correct) — both exact against ground truth, zero dupes (checked issue history for both) → both promoted ai-fix
+- Starvation check: post-triage backlog 1→3 (<15), bank 2→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation
+- L1/L2/L3 snapshots still dated 2026-11-16; weekly refresh due ~2026-11-23, not due yet. Founder ideas: `founder-ideas.md` does not exist in the repo (unchanged)
+- Next check: first run after 07:00 UTC is the daily deep run
+
+---
+

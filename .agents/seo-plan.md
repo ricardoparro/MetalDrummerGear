@@ -18021,3 +18021,46 @@ Not due this run (today is Friday; last done Monday 2026-11-16, group 3, zero ch
 2. Under-swept files still remaining from this run's ranking that weren't dispatched yet (lower priority, higher hit-count = likely already clean): `pedalBrands.js` (26 hits), `brands.js` (44 hits) — candidates for a future run if the bank runs dry.
 3. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2, no action.
 4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-20 ~13:xx UTC (SEO Agent run — 5 proposals filed #10901-10905)
+
+### Bank check
+10 open `seo-proposal` at run start: 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819), 2 already `ai-fix`-promoted #10897/#10898. Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Friday — drum-chair watch not due (last done Monday 2026-11-16, group 3; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- AI crawler robots.txt: all 8 tokens present (`grep -c` confirmed) — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%) per 13:02 UTC metrics: `raymond herrera` (145 impr/0.69% CTR/pos 12.5) — confirmed via `learned-patterns.md` (lines 254/262/276) as the long-established class-2 bare-name query, 30+ prior fabrication-fix issues already cover every file on this entity. No new issue.
+
+### Method
+Ranked under-swept `packages/frontend/data/*.js` files by prior `gh issue list --state all --search <filename>` hit count (capped at 50 by the search API, so high counts just mean "heavily hit already" and were deprioritized): `drumstickBrands.js` (11), `pedalBrands.js` (26), `gearSearchData.js` (27) stood out as the 3 lowest-hit files not yet touched by this week's ongoing fact-rot sweep.
+
+Dispatched 3 parallel research agents, one per file, each tasked to cross-check every per-drummer brand/model claim against `api/drummers/index.js` plus the relevant category-specific ground-truth module (`drumsticks.js`/`pedals.js`), and to flag only citable factual contradictions (not missing content/style). Personally re-verified every candidate via direct `grep`/`sed`/`Read` before filing, and ran `gh issue list --state all --search` per topic (zero dupes):
+
+- **#10901** `drumstickBrands.js:43,133` — Vater and Wincent both marked `dataBrandNames: []` ("no confirmed drummer mapping," per the file's own header), but `drumsticks.js` gained verified entries for both since: Vater (Brann Dailor #251, Jay Weinberg #268, added by #4165 after this file was authored) and Wincent (Tomas Haake signature WTHS, #233-236). The brand pages mechanically under-report real endorsements. Filed as one batch (same file, same root cause).
+- **#10902** `pedalBrands.js:51,54` — Demon XR characterized as "direct-drive" twice; `pedals.js:110` (george-kollias record) explicitly leaves `driveType: null`. Same fabrication class just fixed twice in sibling file `pedalReferencePages.js` (#10844, #10894 — merged this morning per commit `1be344b51`), never swept here.
+- **#10903** `pedalBrands.js:83` — Alex Bent tagged "(Trivium)" with no ex- qualifier; root (`:1685-1687`) confirms his Trivium tenure ended 2024 (`current: false`). Same class as closed #9569, which fixed the identical framing in a different file (`genreGearGuides.js`), never touched this one.
+- **#10904** `gearSearchData.js:164` — Eloy Casagrande's `sticks` field still points at `vicfirth-5a`; root (`:724`, resolved via #8390/#8506/#9315/#9808) confirms Promark Eloy Casagrande Signature. This file was edited the wrong direction by #7020 (09-06, before the Promark resolution) and never re-synced.
+- **#10905** `gearSearchData.js:188,190` — Vinnie Paul's `drums`/`cymbals` fields assert specific models (`ddrum-vinnie`, `sabian-aax`) where root (`:919,921`) explicitly hedges both to brand-only, unverified-model. Scoped the fix to exclude `snare` (root confirms a specific model there) and `sticks` (already under founder-hold #10656, flip-flopped across 4 prior issues) — bundled drums+cymbals as one issue since both share the same root-cause/fix-shape for one drummer in one file.
+
+Stopped at 5 rather than padding toward 8 — all 3 agents' sweeps came back exhaustive for their assigned file (pedalBrands.js's remaining ~10 brand entries and gearSearchData.js's other ~15 drummer entries were spot-checked clean by the agents, per their reports). Padding further would mean filing lower-confidence guesses, which the bank-cap discipline explicitly discourages.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 811u/874s/1,133v 7d, engagement 44.74%. GSC 14,865 impr/293 clicks/1.97% CTR/pos 7.9. Content-gap: 1 row (`raymond herrera`), already-ruled class-2, no action.
+
+### Drum-chair watch
+Not due this run (today is Friday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981/#10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10897/#10898 (promoted `ai-fix` per prior pulse today)
+- #10901-10905 (this run, 5 fresh)
+
+### Next run
+1. Watch #10901-10905 pick up via CEO triage/Roadie. All 5 are single/dual-file, low atomicity-risk; #10905 explicitly carves out `sticks`/`snare` from scope — confirm the implementer only touches `drums`/`cymbals`.
+2. Under-swept files still remaining for a future run if the bank runs dry: `brands.js` (44 hits), `techniques.js` (47 hits), `genreGearGuides.js` (50 hits) — all high-hit-count, likely lower yield per the established heuristic, but not yet re-verified this cycle.
+3. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2, no action.
+4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

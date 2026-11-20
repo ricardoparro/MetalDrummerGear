@@ -80,7 +80,7 @@ export const PEDAL_BRANDS = [
     positioning:
       "Axis is the direct-drive specialist: founded in 1990 by drummer and machinist Darrell Johnston specifically to eliminate the flex and lag of chain-drive designs, every Axis pedal connects footboard to beater with a rigid rod and an adjustable cam — no chain, no belt, at any price point. That rigid, zero-lag feel has made Axis an extreme-metal icon, built into the setups of drummers chasing maximum, sustained blast-beat speed.",
     notableLines: [
-      { name: 'AXiS A / AXiS A Longboard', description: "Axis's flagship direct-drive double pedal, with a Longboard variant offering an extended footboard for more leverage — used by Alex Bent (Trivium)." },
+      { name: 'AXiS A / AXiS A Longboard', description: "Axis's flagship direct-drive double pedal, with a Longboard variant offering an extended footboard for more leverage — used by Alex Bent (ex-Trivium)." },
       { name: 'AXiS Percussion Double Pedal', description: 'Direct-drive double pedal built for zero-lag speed and consistency — used by Martin Lopez (ex-Opeth, Soen).' },
     ],
     source: { label: 'Axis Percussion — About Axis', url: 'https://axispdc.com/pages/about-axis' },

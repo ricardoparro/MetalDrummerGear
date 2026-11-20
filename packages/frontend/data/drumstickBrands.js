@@ -6,8 +6,8 @@
 // by matching each brand's `dataBrandNames` against each stick's `brand` field —
 // never hardcoded here. That keeps the "no fabricated endorsements" rule
 // mechanical: a brand page can only ever show a drummer that already has a
-// verified entry in the drumsticks data module. Several of these brands (Vater,
-// Zildjian, Los Cabos, Regal Tip, Meinl, Wincent) currently have no confirmed
+// verified entry in the drumsticks data module. Several of these brands
+// (Zildjian, Los Cabos, Regal Tip, Meinl) currently have no confirmed
 // drummer mapping — their pages stay substantive on positioning + notable-line
 // content alone rather than naming an unverified endorsement.
 //
@@ -40,7 +40,7 @@ export const DRUMSTICK_BRANDS = [
   {
     slug: 'vater',
     name: 'Vater Percussion',
-    dataBrandNames: [],
+    dataBrandNames: ['Vater'],
     founded: '1990 (roots to a 1956 family drumstick shop), Holbrook, Massachusetts, USA',
     parent: 'Independent, family-owned — not part of a larger drum/cymbal conglomerate',
     positioning:
@@ -130,7 +130,7 @@ export const DRUMSTICK_BRANDS = [
   {
     slug: 'wincent',
     name: 'Wincent',
-    dataBrandNames: [],
+    dataBrandNames: ['Wincent'],
     founded: '1992, founded by Dan Nylén, Gränna, Sweden',
     parent: 'Independent Swedish company',
     positioning:

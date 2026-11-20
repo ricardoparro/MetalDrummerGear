@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-19 19:08 UTC · Window: last 12h*
+*Generated 2026-11-20 08:14 UTC · Window: last 12h*
 
 ---
 
@@ -8,26 +8,26 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **26** |
-| Open `seo-proposal` issues | 17 |
+| Open `ai-fix` issues | **21** |
+| Open `seo-proposal` issues | 10 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 5 |
-| PRs merged in window | **11** |
-| Issues closed in window | 12 |
-| Commits to `main` in window | 16 |
+| Open PRs | 0 |
+| PRs merged in window | **4** |
+| Issues closed in window | 4 |
+| Commits to `main` in window | 8 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **813** |
-| Sessions | 881 |
-| Page views | 1,159 |
-| Engagement rate | 46.31% |
-| GSC impressions | 14,926 |
-| GSC clicks | 305 |
-| GSC CTR | 2.04% |
+| Active users | **788** |
+| Sessions | 847 |
+| Page views | 1,108 |
+| Engagement rate | 45.10% |
+| GSC impressions | 14,865 |
+| GSC clicks | 293 |
+| GSC CTR | 1.97% |
 | GSC avg position | 7.9 |
 
 ## 💰 Revenue trajectory (estimate)
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~4,967 |
-| Est. ad revenue / mo | **~€14.90** |
-| Progress to €1000/mo | 1.5% |
-| Pageviews/mo needed for €1000 | ~333,333 (67× current) |
+| Est. pageviews / mo | ~4,749 |
+| Est. ad revenue / mo | **~€14.25** |
+| Progress to €1000/mo | 1.4% |
+| Pageviews/mo needed for €1000 | ~333,333 (70× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,64 +65,57 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 4d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 8d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 37d | _awaiting scanner run_ |
-| Sean Reinert — 7 anos | 66d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 3d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 7d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 36d | _awaiting scanner run_ |
+| Sean Reinert — 7 anos | 65d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 30 | 29 | 0 |
-| Verify YouTube Videos | 15 | 6 | 3 |
-| Check Sitemap Drift | 15 | 7 | 3 |
-| Verify Data Modules | 14 | 6 | 3 |
-| Check llms freshness | 7 | 0 | 3 |
-| Perf Budget Gate | 6 | 0 | 3 |
-| Check Video SEO | 2 | 0 | 1 |
-| Health Check | 2 | 2 | 0 |
-| Roadie (Watcher + Implementer) | 2 | 2 | 0 |
+| PR Merger | 49 | 49 | 0 |
+| Verify YouTube Videos | 9 | 5 | 4 |
+| Verify Data Modules | 8 | 4 | 4 |
+| Check Sitemap Drift | 8 | 4 | 4 |
+| Check llms freshness | 5 | 0 | 5 |
+| Perf Budget Gate | 4 | 0 | 4 |
+| Health Check | 4 | 4 | 0 |
+| SEO Agent | 2 | 2 | 0 |
+| CEO Agent | 2 | 2 | 0 |
+| Check Video SEO | 2 | 0 | 2 |
+| Roadie Night Fleet | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
 | Loop Watchdog | 1 | 1 | 0 |
-| Roadie Night Fleet | 1 | 0 | 0 |
-| SEO Agent | 1 | 0 | 0 |
-| CEO Agent | 1 | 1 | 0 |
-| X Agent | 1 | 1 | 0 |
-| Verify API Modules | 1 | 0 | 1 |
+| Prune Proposals | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
-- 2026-11-18 12:10 (deep run — 8/8 proposals verified+promoted #10818-10827; L1/L2/L3 not due)
 - 2026-11-19 12:10 (deep run — 4/5 proposals verified+promoted #10863-10866, 1 rejected #10862)
-- 2026-11-18 06:14 (cheap pulse — 7/7 proposals verified+promoted #10801-10807)
-- 2026-11-18 00:19 (cheap pulse — 8/8 proposals verified+promoted #10793-10800)
-- 2026-11-18 18:08 (cheap pulse — 2/2 proposals verified+promoted #10832/#10833)
 - 2026-11-19 00:19 (cheap pulse — 5/5 proposals verified+promoted #10844-10848)
+- 2026-11-19 06:15 (cheap pulse — 7/7 proposals verified+promoted #10849-10855)
+- 2026-11-19 18:09 (mid-day pulse — 6/6 proposals verified+promoted #10874-10879)
+- 2026-11-20 00:19 (cheap pulse — 3/3 proposals verified+promoted #10887/10888/10890)
+- 2026-11-20 06:12 (cheap pulse — 2/2 proposals verified+promoted #10893/#10894)
 
-## 📦 Shipped to main (11)
+## 📦 Shipped to main (4)
 
-- #10883 fix: #10866 SEO: signatureGear.js still fabricates Gene Hoglan's 'Tama signature 14x8" snare (2008)' — stale after #10766/#10774 corrected the ground truth
-- #10882 fix: #10865 SEO: gearNews.js adds unverified 'Speed Cobra 910' model suffix to Charlie Benante's pedal — root only verifies plain 'Tama Speed Cobra Double Pedal'
-- #10881 fix: #10864 SEO: gearNews.js fabricates Matt Halpern 'Meinl Classics Custom Dark' cymbal addition — cross-contaminated from Dirk Verbeuren/John Longstreth's gear
-- #10880 fix: #10863 SEO: top10Lists.js Pearl-kits list description field overstates Mangini's Masterworks era through 2023 + omits Raatikainen's Tama interlude (contradicts its own rankings)
-- #10873 fix: #10855 SEO: gearPriceHistory.js fabricates Tim Yeung '200-280 BPM' speed-per-dollar framing as documented fact (3 locations)
-- #10872 fix: #10854 SEO: drummerEvolution.js fabricates Tim Yeung '200-280 BPM' as documented fact (2 FAQ locations)
-- #10871 fix: #10853 SEO batch: soundLikeGuides.js 'how-to-sound-like-pete-sandoval' guide fabricates '300+ BPM' as verified fact (6 factual-claim locations)
-- #10870 fix: #10852 SEO batch: soundLikeGuides.js 'how-to-sound-like-tim-yeung' guide fabricates '280 BPM' as verified/documented fact (~13 locations in one guide)
-- #10869 fix: #10851 SEO: drummerComparisons.js fabricates Tim Yeung '280 BPM' blast speed as 'verified'/'documented' fact (4 locations)
-- #10868 fix: #10850 SEO: top10Lists.js fabricates Derek Roddy '260 BPM swivel' + unsourced Sandoval/Mounier BPM figures as verified fact (6 locations)
-- #10867 fix: #10849 SEO batch: genreGearGuides.js fabricates Derek Roddy '260 BPM swivel technique' as verified fact (~15 locations) — root has zero BPM figure for him
+- #10900 fix: #10894 SEO: pedalReferencePages.js still implies George Kollias's Demon XR benefits from direct drive — #10844's fix was incomplete
+- #10899 fix: #10893 SEO: gearCategoryPages.js sticks editorialIntro fabricates Benny Greb roster claim + mismatches Lars Ulrich's stick brand
+- #10896 fix: #10890 SEO: licks/pete-sandoval.js frames unsourced BPM figures as his personal speed record (same class as closed #10850/#10853)
+- #10895 fix: #10888 SEO: gearCategoryPages.js drums+hardware editorialIntro fabricate Gene Hoglan/Chris Adler gear pairings (sibling to #10845's snare-section fix)
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 390h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2700h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2796h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2973h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4058h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 403h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2713h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2809h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2986h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4071h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

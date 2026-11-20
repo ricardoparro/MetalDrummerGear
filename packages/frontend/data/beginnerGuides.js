@@ -108,7 +108,7 @@ This guide is specifically designed for beginners with a total budget around $1,
         "Proper setup matters more than expensive gear",
         "This guide covers drums, cymbals, hardware, and accessories for under $1000"
       ],
-      whyTrustUs: "MetalForge has analyzed gear from 500+ professional metal drummers. We know what works at every price point."
+      whyTrustUs: "MetalForge has analyzed gear from 70+ professional metal drummers. We know what works at every price point."
     },
 
     // Budget breakdown section - Updated for Issue #801 (CEO-008)
@@ -1095,7 +1095,7 @@ This guide is the entry tier of our budget series. When you're ready to step up,
         "Stock cymbals are fine to start—replace them as you grow",
         "Single pedal first; learn technique before buying a double"
       ],
-      whyTrustUs: "MetalForge has analyzed gear from 500+ professional metal drummers—and most of them started on exactly this kind of budget kit."
+      whyTrustUs: "MetalForge has analyzed gear from 70+ professional metal drummers—and most of them started on exactly this kind of budget kit."
     },
 
     budgetBreakdown: {
@@ -1789,7 +1789,7 @@ At $1000 the strategy flips from \"buy everything in one box\" to \"buy each pie
         "A double bass pedal becomes viable at this tier",
         "Spend on cymbals and a pedal; they outlast every shell pack"
       ],
-      whyTrustUs: "MetalForge has analyzed gear from 500+ professional metal drummers—the $1000 tier is where most of them bought their first kit worth keeping."
+      whyTrustUs: "MetalForge has analyzed gear from 70+ professional metal drummers—the $1000 tier is where most of them bought their first kit worth keeping."
     },
 
     budgetBreakdown: {
@@ -2499,7 +2499,7 @@ The strategy at this tier is to buy each piece at near-pro quality: a maple/birc
         "A serious double bass pedal is a core part of the build, not an add-on",
         "Add a dedicated metal snare—the single biggest sound upgrade per dollar"
       ],
-      whyTrustUs: "MetalForge has analyzed gear from 500+ professional metal drummers—the $2000 tier mirrors the working-pro setups in our database, minus the signature-model markup."
+      whyTrustUs: "MetalForge has analyzed gear from 70+ professional metal drummers—the $2000 tier mirrors the working-pro setups in our database, minus the signature-model markup."
     },
 
     budgetBreakdown: {

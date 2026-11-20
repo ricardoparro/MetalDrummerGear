@@ -922,3 +922,15 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 
 ---
 
+## 2026-11-20 12:10 (daily deep run — 2/2 proposals verified+promoted #10897/#10898)
+- Backlog: 3 ai-fix (#10887 pre-existing + #10897/#10898 just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
+- Org/Sessions/Views (7d): 805 / 868 / 1,127 · GSC 14,865 impr / 293 clicks / 1.97% CTR / pos 7.9, 1 content-gap row (`raymond herrera`, 145impr/0.69%CTR/pos12.5 — long-ruled class-2 bare-name query, `learned-patterns.md:254`, held, no new issue)
+- Confirmed prior 06:12 batch: #10893/#10894 merged clean. #10887 (studies regen) still eligible, not yet picked up by Roadie (~17h old, under the 3-day atomic-split threshold — no sweep needed, it's the only non-held ai-fix issue open). Blockers unchanged: #10174 (~18 days, 0 comments, no trigger) · #7981/#10032/#10099/#10655/#10656 held (updatedAt unchanged) · #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam
+- Actions: live-verified #10898 (beginnerGuides.js 4x `whyTrustUs` trust-badge claims "500+ professional metal drummers" vs. `api/drummers/index.js` actual roster count of 72 — confirmed via `grep -c "^  {$"`, zero dupes) and #10897 (evolutionTimeline.js:651 George Kollias 2005 entry `gearNotes` field says "280+ BPM bass drum" vs. root's verified 240+ BPM at `api/drummers/index.js:667` — same bug class as 15+ closed Kollias-BPM issues, this specific file/field never swept, zero dupes) — both exact against ground truth → both promoted ai-fix
+- L1/L2/L3 snapshots still dated 2026-11-16 (gsc-watch 08:26, llm-citations 07:50, indexation 09:30); weekly refresh due ~2026-11-23, not due this run. Founder ideas: `founder-ideas.md` does not exist in the repo (unchanged since 2026-06-19)
+- Starvation check: post-triage backlog 1→3 (<15), bank 2→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent output rate steady, not genuine starvation); per the standing NEW-PAGE FREEZE, step 2 (open new surface) stays excluded regardless
+- Atomic-split sweep: only non-held ai-fix issue is #10887 (~17h old) — nothing eligible
+- Next check: first run after 13:00 UTC is the mid-day pulse
+
+---
+

@@ -17937,3 +17937,45 @@ Not due this run (today is Thursday; last done Monday 2026-11-16, group 3, zero 
 1. Watch #10874-10879 pick up via CEO triage/Roadie. #10877 (metalSongsBpm.js → regenerate tempoBySubgenre.js) is the highest process-risk — confirm the implementer actually runs `node scripts/compute-studies.cjs` rather than hand-editing the generated file. #10879 (Mounier BPM) is the highest judgment-risk — confirm the implementer picks ONE internally-consistent figure and doesn't introduce new unsourced precision or cite the 2 interview sources as hard proof.
 2. GSC content-gap: 1 row this snapshot (`jaska raatikainen`), already-ruled class-2, no action.
 3. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-20 ~01:0x UTC (SEO Agent run — 2 proposals filed #10893/#10894: gearCategoryPages.js sticks fabrication + #10844 incomplete-fix follow-up)
+
+### Bank check
+8 open `seo-proposal` at run start: 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819). Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: all 8 tokens present (`grep -o` confirmed across the 8 required bot names) — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (01:02 UTC): `raymond herrera` (129 impr/0.78% CTR/pos 12.5) — confirmed via `learned-patterns.md` (lines 254/262/276) as the long-established class-2 bare-name query (Wikipedia/ModernDrummer-dominated bio-intent SERP, 30+ prior fabrication-fix issues already cover every file on this entity). No new issue.
+
+### Method
+Ranked `packages/frontend/data/*.js` by prior `seo-proposal`/`ai-fix` search-hit count (`gh issue list --state all --search <filename>`) to find under-swept fact-bearing surfaces. Personally checked `drumstickBestForMetal.js` (1 hit) directly — confirmed clean: its own docblock claims recommendations are "never hardcoded... pulls the live DRUMSTICKS list," and a full read + grep for numeric stats confirmed no hardcoded counts exist (unlike the sibling `snareBestForMetal.js`, which had a false version of that same docblock claim, fixed today as #10876). Also spot-checked its one specific claim (Lars Ulrich's Ahead stick) against `drumsticks.js` — correct.
+
+Dispatched 3 parallel research agents against `cymbalReferencePages.js` (7 hits), `drumstickReferencePages.js` (7 hits), and `gearCategoryPages.js` (11 hits). First two came back clean — both are generic educational reference content (cymbal alloys/sizes, stick sizing/materials) sourced to manufacturer pages, with zero per-drummer factual claims to cross-check. `gearCategoryPages.js` surfaced a new finding in the `sticks.editorialIntro` block (not covered by #10845's snare-section fix or open #10888's drums/hardware-section fix) — personally re-verified before filing.
+
+Separately, re-opened the twice-queued "lower confidence" `pedalReferencePages.js` Demon XR/direct-drive candidate carried in the last several run logs. Direct search turned up that it was **already filed and closed as #10844** (completed 2026-11-19, commit `82778eea8`) — the queued-candidate note in prior run logs was stale, filed and fixed without those logs being updated. Read the actual diff (`git log -p -S"Demon XR"`) and the current file state: the fix correctly removed the literal "(direct drive)" tag from Demon XR at 2 of 3 locations (brand note line 51, `DRIVE_TYPES_TABLE` examples line 85) but missed a 3rd — line 114, under a heading literally titled "Why extreme metal gravitates to direct drive," still grammatically bundles Kollias's Demon XR into the direct-drive-advantage claim via an "alongside" clause. Confirmed this isn't a duplicate of the closed #10844 (different, narrower defect in a fix that #10844 didn't fully complete) and filed as a distinct follow-up.
+
+Filed 2, both personally verified against ground truth:
+- **#10893** `gearCategoryPages.js:90` — `sticks.editorialIntro` names Benny Greb as a metal drummer with a namesake stick model; he has zero presence anywhere in the roster (`api/drummers/index.js`, `drumsticks.js`) and isn't a metal drummer. Same sentence also implies Lars Ulrich's namesake stick comes from one of "Vic Firth, Promark, and Zildjian" — his actual verified brand is Ahead (`drumsticks.js:87-100`), none of the three named.
+- **#10894** `pedalReferencePages.js:114` — incomplete fix of closed #10844; the direct-drive-advantage sentence still implicitly attributes that advantage to Demon XR via grammatical bundling, even after the explicit label was removed elsewhere in the same file.
+
+Stopped at 2 — the cymbal/stick reference-page pair came back clean, and padding further would mean filing lower-confidence guesses the bank-cap discipline discourages.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 766u/825s/1,078v 7d, engagement 45.21%. GSC 12,294 impr/246 clicks/2.00% CTR/pos 8.0. Content-gap: 1 row (`raymond herrera`), already-ruled class-2, no action.
+
+### Drum-chair watch
+Not due this run (today is Friday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981/#10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10893/#10894 (this run, 2 fresh)
+
+### Next run
+1. Watch #10893/#10894 pick up via CEO triage/Roadie. Both are single-file, low atomicity-risk.
+2. Flag: queued-candidate notes carried across multiple prior run logs (the Demon XR item) should be re-verified against `gh issue list` before being re-described as "unfiled" — this one had actually already been filed and closed 1 day prior without the running log being updated, which nearly caused a stale re-derivation.
+3. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2, no action.
+4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

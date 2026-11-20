@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-20 00:17 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-20 01:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 760 |
-| Sessions | 819 |
-| Page views | 1,071 |
-| Engagement rate | 45.18% |
-| Avg session (s) | 168 |
+| Active users | 766 |
+| Sessions | 825 |
+| Page views | 1,078 |
+| Engagement rate | 45.21% |
+| Avg session (s) | 167 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -20,7 +20,7 @@
 | / | 24 | 21 |
 | /drummer/eloy-casagrande | 18 | 12 |
 | /guides | 18 | 4 |
-| /drummer/ben-koller | 14 | 9 |
+| /drummer/ben-koller | 15 | 10 |
 | /drummer/mario-duplantier | 13 | 11 |
 | /articles/white-pony-drum-setup | 12 | 10 |
 | /drummers | 11 | 8 |
@@ -31,16 +31,16 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 417 | 418 |
-| Organic Search | 400 | 340 |
+| Direct | 419 | 420 |
+| Organic Search | 404 | 344 |
 | Unassigned | 25 | 22 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 323 | 290 |
+| United States | 324 | 291 |
 | Brazil | 52 | 51 |
-| United Kingdom | 33 | 28 |
+| United Kingdom | 34 | 29 |
 | Singapore | 29 | 29 |
 | Germany | 27 | 27 |
 | Canada | 23 | 21 |

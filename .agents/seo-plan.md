@@ -17979,3 +17979,45 @@ Not due this run (today is Friday; last done Monday 2026-11-16, group 3, zero ch
 2. Flag: queued-candidate notes carried across multiple prior run logs (the Demon XR item) should be re-verified against `gh issue list` before being re-described as "unfiled" — this one had actually already been filed and closed 1 day prior without the running log being updated, which nearly caused a stale re-derivation.
 3. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2, no action.
 4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-20 ~07:0x UTC (SEO Agent run — 2 proposals filed #10897/#10898)
+
+### Bank check
+10 open `seo-proposal` at run start: 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819), 2 already `ai-fix`-promoted #10893/#10894. Zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Friday — drum-chair watch not due (last done Monday 2026-11-16, group 3; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- AI crawler robots.txt: all 8 tokens present (`grep -c` confirmed) — unchanged, healthy.
+- `/llms/*.md` endpoints: stable, unchanged (not recounted this run).
+- Content-gap queries (impr≥50, CTR<2%) per 07:03 UTC metrics: `raymond herrera` (129 impr/0.78% CTR/pos 12.5) — confirmed via `learned-patterns.md` as the long-established class-2 bare-name query. No new issue.
+- ai-fix backlog: 23 open, 0 PRs open.
+
+### Method
+Ranked under-swept `packages/frontend/data/*.js` files by prior `gh issue list --state all --search <filename>` hit count to find candidates the ongoing fact-rot sweep hadn't reached: `pedalSetupPages.js` (1), `cymbalSetupPages.js` (2), `pedalBestForMetal.js` (2), `cymbalBestForMetal.js` (4), `nameGeneratorData.js` (7, skipped after a direct read confirmed it's a pure name-mashup tool with zero factual claims), `cymbalBrands.js` (10), `kitQuizData.js` (22), `beginnerGuides.js` (25), `pedalBrands.js` (26), `evolutionTimeline.js` (37), `gearIndex.js` (38), `birthdays.js` (44), `brands.js` (44).
+
+Dispatched 3 parallel research agents: (1) `pedalSetupPages.js`/`cymbalSetupPages.js`/`pedalBestForMetal.js`/`cymbalBestForMetal.js`/`cymbalBrands.js` — all 5 came back clean (pure templating/generic buying-guide content, or per-drummer gear claims that verified exact-match against `api/drummers/index.js`); (2) `birthdays.js`/`evolutionTimeline.js`/`kitQuizData.js` — `birthdays.js` and `kitQuizData.js` clean, `evolutionTimeline.js` surfaced 1 finding; (3) `beginnerGuides.js`/`gearIndex.js` — `gearIndex.js` clean (auto-generated from root), `beginnerGuides.js` surfaced 1 finding.
+
+Personally re-verified both findings directly against ground truth before filing (not just trusting the agent reports), and ran `gh issue list --state all --search` for each (zero dupes):
+- **#10897** `evolutionTimeline.js:651` — George Kollias 2005 Nile-debut entry's `gearNotes` field states "280+ BPM bass drum"; `api/drummers/index.js:667` verified figure is "240+ BPM". Same bug class already fixed in 15+ other files for this drummer (#10818/#9962/#9943/#10847 etc.) — this file's own `gearNotes` field at this specific line was never swept despite 11 other closed Kollias/timeline issues against this file, none touching line 651.
+- **#10898** `beginnerGuides.js` — 4 identical `whyTrustUs` trust-badge fields (lines 111/1098/1792/2502) claim "analyzed gear from 500+ professional metal drummers"; `api/drummers/index.js` has exactly 72 entries (`grep -c "^  {$"`, max `id`=72) — a ~7x overstatement on a live, high-intent budget-guide surface. Confirmed not a dupe of the 6 prior `beginnerGuides.js` closures (#7073/#7088/#10764/#10765/#7529/#5528), all of which concern different fields.
+
+Stopped at 2 rather than padding toward 8 — the 3 agents' sweep of 10 total files surfaced exactly 2 verifiable findings (8 files came back clean: `pedalSetupPages.js`, `cymbalSetupPages.js`, `pedalBestForMetal.js`, `cymbalBestForMetal.js`, `cymbalBrands.js`, `birthdays.js`, `kitQuizData.js`, `gearIndex.js`). Padding further would mean filing lower-confidence guesses, which the bank-cap discipline explicitly discourages.
+
+### GSC / metrics
+Metrics 07:03 UTC: GA4 786u/845s/1,106v 7d, engagement 45.21%. GSC 12,294 impr/246 clicks/2.00% CTR/pos 8.0. Content-gap: 1 row (`raymond herrera`), already-ruled class-2, no action.
+
+### Drum-chair watch
+Not due this run (today is Friday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981/#10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10893/#10894 (promoted `ai-fix` per prior pulse today)
+- #10897/#10898 (this run, 2 fresh)
+
+### Next run
+1. Watch #10897/#10898 pick up via CEO triage/Roadie. Both are single-file, low atomicity-risk (one single-line BPM fix, one 4-location substring swap).
+2. Under-swept files still remaining from this run's ranking that weren't dispatched yet (lower priority, higher hit-count = likely already clean): `pedalBrands.js` (26 hits), `brands.js` (44 hits) — candidates for a future run if the bank runs dry.
+3. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2, no action.
+4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

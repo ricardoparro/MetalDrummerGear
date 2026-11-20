@@ -648,7 +648,7 @@ export const EVOLUTION_TIMELINE = [
     album: 'Annihilation of the Wicked',
     type: TIMELINE_EVENT_TYPES.DRUMMER_DEBUT,
     subgenre: METAL_SUBGENRES.DEATH,
-    gearNotes: 'Pearl drums, precision triggers, 280+ BPM bass drum',
+    gearNotes: 'Pearl drums, precision triggers, 240+ BPM bass drum',
     significance: 'Redefined what\'s humanly possible in death metal drumming',
     videoEmbed: null,
     image: '/images/drummers/george-kollias.webp',

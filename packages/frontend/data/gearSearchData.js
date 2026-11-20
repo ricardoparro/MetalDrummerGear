@@ -97,6 +97,7 @@ export const GEAR_DATABASE = {
     { id: 'promark-adler', name: 'Promark TX5AXW Chris Adler Signature', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['chris', 'adler', 'tx5axw', 'promark'] },
     { id: 'promark-halpern', name: 'Promark Matt Halpern Signature', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['matt', 'halpern', 'promark'] },
     { id: 'promark-portnoy', name: 'Promark Mike Portnoy Signature TXMP420XW-AG', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['mike', 'portnoy', 'promark'] },
+    { id: 'promark-eloy-casagrande-signature', name: 'Promark Eloy Casagrande Signature', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['eloy', 'casagrande', 'promark'] },
     { id: 'vicfirth-kollias', name: 'Vic Firth George Kollias Signature', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 15, keywords: ['george', 'kollias', 'vic firth'] },
     { id: 'vicfirth-carey', name: 'Vic Firth Danny Carey Signature', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 15, keywords: ['danny', 'carey', 'vic firth'] },
     { id: 'wincent-haake', name: 'Wincent Tomas Haake Signature', brand: 'wincent', category: 'sticks', tier: 'budget', price: 15, keywords: ['tomas', 'haake', 'wincent'] },
@@ -161,7 +162,7 @@ export const DRUMMER_GEAR = {
     snare: ['tama-bell-brass'],
     cymbals: ['paiste-2002'],
     hardware: ['tama-iron-cobra'],
-    sticks: ['vicfirth-5a'],
+    sticks: ['promark-eloy-casagrande-signature'],
   },
   'ray-luzier': {
     drums: ['pearl-reference-series'],

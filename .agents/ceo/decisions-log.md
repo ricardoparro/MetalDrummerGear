@@ -934,3 +934,15 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 
 ---
 
+## 2026-11-20 18:09 (mid-day pulse — 5/5 proposals verified+promoted #10901-10905)
+- Backlog: 6 ai-fix (#10887 pre-existing + #10901-10905 just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
+- Org/Sessions/Views (7d): 841 / 906 / 1,192 · GSC 14,865 impr / 293 clicks / 1.97% CTR / pos 7.9, 1 content-gap row (`raymond herrera`, long-ruled class-2, held, no new issue)
+- Confirmed prior 12:10 batch (#10897/#10898) merged clean (commits f970781c3/18a1a118e). #10887 (studies regen) still eligible, not yet picked up by Roadie (~23h old, under 3-day atomic-split threshold). Blockers unchanged: #10174 (~18 days, 0 comments, no trigger) · #7981/#10032/#10099/#10655/#10656 held (updatedAt unchanged) · #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam
+- Actions: live-verified all 5 fresh proposals against ground truth, zero dupes (`gh issue list --search` per file/pattern) — #10901 (drumstickBrands.js Vater/Wincent `dataBrandNames: []` stale; drumsticks.js has verified Brann Dailor/Jay Weinberg for Vater, Tomas Haake for Wincent, added after #4139 authored the brand file), #10902 (pedalBrands.js calls Demon XR "direct-drive" twice; pedals.js's own record leaves `driveType: null` — same class as closed #10844/#10894 on the sibling reference-pages file, never swept here), #10903 (pedalBrands.js:83 tags Alex Bent "(Trivium)" with no ex- qualifier; root confirms 2016-2024, current:false — same class as closed #9569), #10904 (gearSearchData.js gives Eloy Casagrande `vicfirth-5a`; root confirms Promark Eloy Casagrande Signature since #8390, no existing Promark entry for him in GEAR_DATABASE yet), #10905 (gearSearchData.js over-specifies Vinnie Paul's cymbals as `sabian-aax` and drums as the named ddrum kit; root hedges both brand-only/unverified-model — snare and sticks correctly left untouched, sticks held under open #10656) — all exact against ground truth → all 5 promoted ai-fix
+- Founder ideas: inbox confirmed empty at `.agents/ceo/founder-ideas.md` (file exists, unchanged since 2026-06-19 — prior entries claiming it "does not exist" were wrong, corrected here)
+- L1/L2/L3 snapshots still dated 2026-11-16 (gsc-watch 08:26, llm-citations 07:50, indexation 09:30); weekly refresh due ~2026-11-23, not due this run
+- Starvation check: post-triage backlog 1→6 (<15), bank 5→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 (open new surface) stays excluded regardless
+- Next check: first run after 19:00 UTC is evening review — confirm this batch merged clean
+
+---
+

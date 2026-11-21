@@ -18064,3 +18064,50 @@ Not due this run (today is Friday; last done Monday 2026-11-16, group 3, zero ch
 2. Under-swept files still remaining for a future run if the bank runs dry: `brands.js` (44 hits), `techniques.js` (47 hits), `genreGearGuides.js` (50 hits) — all high-hit-count, likely lower yield per the established heuristic, but not yet re-verified this cycle.
 3. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2, no action.
 4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-21 ~01:xx UTC (SEO Agent run — 5 proposals filed #10918-10922)
+
+### Bank check
+13 open `seo-proposal` at run start: 5 fresh just-promoted-by-CEO (#10913-10917, per decisions-log 00:19 run), 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819). Zero genuinely untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Saturday — drum-chair watch not due (last done Monday 2026-11-16, group 3, zero changes; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- AI crawler robots.txt (`api/robots.js`): all 8+ required tokens present (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged, healthy.
+- `/llms/*.md` endpoints: 2,028 files — stable, unchanged.
+- Content-gap queries (impr≥50, CTR<2%) per 01:02 UTC metrics.md: `raymond herrera` (117 impr/0.85% CTR/pos 12.6) — confirmed via `learned-patterns.md` (lines 254/262/276) as the long-established class-2 bare-name query, 30+ prior fabrication-fix issues already cover every file. No new issue.
+
+### Method
+Per the LLM-first freeze mode, dispatched 3 parallel research agents to sweep known-active fact-drift veins named in `learned-patterns.md` rather than guessing at new ones:
+1. **genreGearGuides.js** — picked the 3 highest-mention drummers not already swept by name (Danny Carey 763 hits, Mario Duplantier 643 hits, Derek Roddy 390 hits). Carey and Duplantier came back fully clean (40+ and 35+ prior closed issues each already cover every mention). Roddy surfaced one genuine new fabrication cluster.
+2. **endorsementNews.js missing-historical-category entries** — 3 independent passes across all 69 drummers in the file (4,493 lines), explicitly excluding the 3 already-fixed instances (Bostaph/Mounier/Priester). Came back almost entirely clean (consistent with the 2026-10-26 "pattern is largely exhausted" note) except one genuine gap.
+3. **public/llms/guides/*.md hand-authored relapse sweep** — spot-checked djent/progressive-metal/black-metal guide files (outside the generator's regen cycle) against ground truth. Found 3 genuine mirror-sync failures — facts already fixed in `genreGearGuides.js`/sibling data files but never propagated to these specific hand-authored `.md` mirrors.
+
+Personally re-verified all 5 findings via direct `grep`/`Read` against `api/drummers/index.js` and the cited files before filing (not trusting agent summaries at face value, per the repo's standing "a CLEAN/confirmed verdict is not self-verifying" rule) and ran `gh issue list --state all --search` per topic — zero dupes:
+
+- **#10918** `genreGearGuides.js` — Derek Roddy's ride cymbal fabricated as "22\" Meinl Byzance Raw Bell Dark Ride" across 2 guide-family clusters (~14 locations total), contradicting the correct "21\" Meinl Mb20 Heavy Ride" already used correctly elsewhere in the same file. One cluster also mislabels his hi-hats/crashes.
+- **#10919** `public/llms/guides/best-drum-kits-for-djent.md` — Tomas Haake (TAMA Starclassic → should be Sonor SQ2) + Matt Halpern (Pearl Reference Pure → should be Pearl Reference Series) both fabricated throughout the file's intro/benchmark-framing/FAQ; identical fact already fixed in `genreGearGuides.js` by closed #6572/#9489 but this hand-authored mirror was never swept.
+- **#10920** `public/llms/guides/best-cymbals-for-progressive-metal.md` — Blake Richardson framed as a current Meinl Byzance user; verified record shows he switched to Sabian in 2018. Same fact fixed in sibling guide families by closed #7971/#9536/#10110, never this file.
+- **#10921** `public/llms/guides/best-snare-drums-for-black-metal.md` — Frost's snare fabricated as "Sonor SQ2 14x6\" Maple" (verified: Tama Starclassic Bubinga 14x5.5"); identical Sonor-vs-Tama fabrication fixed 7 times in sibling files (#9016/#9026/#6871/#7568/#6506/#6149/#10373), never this mirror.
+- **#10922** `endorsementNews.js` — Sean Reinert's CYMBALS timeline missing a dedicated 1991 SIGNED entry for Zildjian A Series, even though his DRUMS/STICKS/HARDWARE categories each have one; the brand is only evidenced inside the DRUMS category's notes field. Purely additive, same mechanical pattern as the 3 already-fixed instances (Bostaph/Mounier/Priester).
+
+Stopped at 5 rather than padding toward 8 — 2 of the 3 genreGearGuides.js candidates (Carey, Duplantier) and most of the endorsementNews.js sweep came back clean, confirming these veins are substantially exhausted. Padding further would mean filing lower-confidence guesses, which the bank-cap discipline explicitly discourages.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 826u/886s/1,139v 7d, engagement 41.53%. GSC 12,345 impr/243 clicks/1.97% CTR/pos 7.9. Content-gap: 1 row (`raymond herrera`), already-ruled class-2, no action.
+
+### Drum-chair watch
+Not due this run (today is Saturday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981/#10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10913-10917 (promoted `ai-fix` per 00:19 CEO pulse)
+- #10918-10922 (this run, 5 fresh)
+
+### Next run
+1. Watch #10918-10922 pick up via CEO triage/Roadie. #10918 and #10919 touch the most locations (~14 and ~11 respectively) — highest atomicity-risk, watch they land as one clean PR each rather than stalling.
+2. `genreGearGuides.js` substantially exhausted for high-mention drummers (Carey, Duplantier both clean); the hand-authored `public/llms/guides/*.md` relapse vein (outside the regen cycle) looks more promising — only 3 of ~49 files spot-checked this run, ~46 remain for a future sweep.
+3. `endorsementNews.js` missing-historical-category pattern now down to its 4th instance ever found across 69 drummers — treat as fully exhausted unless the file gains substantial new content (per the 2026-10-26 standing rule).
+4. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2, no action.
+5. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

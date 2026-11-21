@@ -7,21 +7,21 @@
 
 ## Overview
 
-Dirk Verbeuren has been Megadeth's drummer since 2016, stepping into one of thrash metal's most demanding chairs after nearly two decades anchoring Swedish melodic death metal band Soilwork. His Megadeth debut, "Dystopia" (2016), won the Grammy for Best Metal Performance — the band's first competitive Grammy win — and he followed it with 2022's "The Sick, the Dying... and the Dead!"
+Dirk Verbeuren has been Megadeth's drummer since 2016, stepping into one of thrash metal's most demanding chairs after nearly two decades anchoring Swedish melodic death metal band Soilwork. He joined during the touring cycle for "Dystopia" (2016) — the album that won the band's first competitive Grammy, Best Metal Performance, but was recorded entirely by Chris Adler (Lamb of God), who couldn't tour it. Verbeuren's actual studio debut with Megadeth came six years later with 2022's "The Sick, the Dying... and the Dead!"
 
 What makes Verbeuren's transition remarkable is how directly his melodic death metal background translates to thrash. Soilwork demanded technical precision, complex arrangements, and blast-beat stamina; Megadeth demands driving thrash grooves and tight, riff-locked aggression. Verbeuren brings both — a versatile hybrid player equally comfortable blasting at extreme tempo or locking into Dave Mustaine's mid-tempo gallops, succeeding a drum chair that already includes Nick Menza's classic power and Chris Adler's brief tenure.
 
 ## Kit Setup
 
-Verbeuren plays a **Tama Starclassic Walnut/Birch** kit:
+Verbeuren plays a **Tama Starclassic Maple** kit:
 
 - **Kick Drums:** 22" x 18" Bass Drums (x2, double bass configuration)
-- **Snare:** 14" x 6.5" Tama S.L.P. Big Black Steel Snare
+- **Snare:** 14" x 5.5" Tama S.L.P. Dynamic Bronze Snare
 - **Rack Toms:** 10", 12"
 - **Floor Toms:** 16", 18"
-- **Cymbals:** Zildjian A Custom & K Custom Series — 14" A Custom Hi-Hats, 17"/18"/19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K Custom China
+- **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series — 14" Byzance Brilliant Hi-Hats, 18"/19"/20"/21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China
 - **Pedal:** Tama Speed Cobra 910 Double Pedal
-- **Sticks:** Promark Shira Kashi Oak 5B
+- **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
 - **Heads:** Evans EQ3 Clear (kick), Evans Coated (snare), Evans G2 Coated (toms)
 
 ## Tuning & Setup
@@ -29,7 +29,7 @@ Verbeuren plays a **Tama Starclassic Walnut/Birch** kit:
 Verbeuren tunes for a balance of attack and body — bright enough to stay articulate at extreme blast tempo, but with enough body to carry weight in mid-tempo thrash grooves:
 
 - **Kick:** Medium-firm tension, moderate/focused attack muffling. Prioritizes clear front-end attack over deep boom for clarity at blast-beat speed.
-- **Snare:** Medium-bright tension, light muffling. Keeps the steel snare cutting through Megadeth's dense guitar mix at both extreme and mid-tempo sections.
+- **Snare:** Medium-bright tension, light muffling. Keeps the bronze snare cutting through Megadeth's dense guitar mix at both extreme and mid-tempo sections.
 - **Toms:** Medium tension, light muffling. Evans G2 Coated heads add durability while keeping toms responsive for fast transitional fills.
 
 ## Technique Tips
@@ -48,14 +48,14 @@ Verbeuren's signature is versatility — the same technical precision that power
 
 | Item | Verbeuren's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Tama Starclassic Walnut/Birch | Pearl Export (~$750) |
-| Snare | Tama S.L.P. Big Black Steel 14" x 6.5" | Any 14" steel-shell snare, medium-bright tuning |
-| Cymbals | Zildjian A Custom & K Custom Series | Zildjian ZBT hi-hats + crash (~$180) |
+| Drum Kit | Tama Starclassic Maple | Pearl Export (~$750) |
+| Snare | Tama S.L.P. Dynamic Bronze 14" x 5.5" | Any 14" bronze-shell snare, medium-bright tuning |
+| Cymbals | Meinl Byzance Brilliant & Classics Custom Dark Series | Meinl HCS Pack (~$200) |
 | Pedal | Tama Speed Cobra 910 Double Pedal | DW 3000 Double Pedal (~$150) |
-| Sticks | Promark Shira Kashi Oak 5B | Vic Firth 5B |
+| Sticks | Tama O-DVM2 Dirk Verbeuren Signature | Vic Firth 5B |
 | Heads | Evans EQ3 / Coated / G2 | Same, attack-focused |
 
-**Starter budget path (~$1,050):** Pearl Export + Zildjian ZBT pack + DW 3000 double pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
+**Starter budget path (~$1,050):** Pearl Export + Meinl HCS cymbal pack + DW 3000 double pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/meinl](https://metalforge.io/brands/meinl).
 
 ## Practice Routine
 
@@ -71,7 +71,7 @@ Verbeuren's signature is versatility — the same technical precision that power
 A: Verbeuren spent 18 years (1998-2016) as Soilwork's drummer, developing technical melodic death metal blast-beat precision. That foundation transfers directly to Megadeth — his extreme-tempo control now drives thrash-tempo blast passages, while the same discipline underlies his riff-locked groove work.
 
 **Q: What gear should I use to sound like Dirk Verbeuren?**  
-A: Verbeuren plays a Tama Starclassic Walnut/Birch kit with a double 22" x 18" bass drum configuration, a 14" x 6.5" Tama S.L.P. Big Black Steel snare, Zildjian A Custom and K Custom cymbals, a Tama Speed Cobra 910 double pedal, and Promark Shira Kashi Oak 5B sticks.
+A: Verbeuren plays a Tama Starclassic Maple kit with a double 22" x 18" bass drum configuration, a 14" x 5.5" Tama S.L.P. Dynamic Bronze snare, Meinl Byzance Brilliant & Classics Custom Dark cymbals, a Tama Speed Cobra 910 double pedal, and Tama O-DVM2 Dirk Verbeuren Signature sticks.
 
 **Q: What tempo should I practice at to sound like Dirk Verbeuren?**  
 A: Verbeuren's blast passages run 200-240 BPM, while his thrash gallop grooves sit in the 140-180 BPM range. Practice both separately, then work on transitioning cleanly between them.

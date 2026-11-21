@@ -36986,13 +36986,13 @@ Start with one dark, heavy ride in the 22" range, and add a second voicing — w
       title: "Why Extreme Metal Rides Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability demands on a ride cymbal that few other genres match. At 200-280 BPM sustained blast beats, a ride gets struck thousands of times a set, night after touring night, and has to keep responding accurately and staying articulate long after ordinary cymbals would develop keyholing or lose their voice.
 
-George Kollias of Nile rides a 21" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for the piercing accents that cut through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Derek Roddy of Hate Eternal and Nile plays a 22" Meinl Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface gives his one-footed blast technique a surface built to hold up over time. Gene Hoglan of Death and Testament rides a 22" Sabian AAX Ride, prized for the versatile, durable response it delivers under his metronomic "Atomic Clock" precision.
+George Kollias of Nile rides a 21" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for the piercing accents that cut through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Derek Roddy of Hate Eternal and Nile rides a 21" Meinl Mb20 Heavy Ride, its heavy-gauge construction built to cut through relentless double-kick runs at extreme tempo without losing control under his one-footed blast technique. Gene Hoglan of Death and Testament rides a 22" Sabian AAX Ride, prized for the versatile, durable response it delivers under his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a ride survive extreme metal's demands — durability, fast attack, and consistent response under sustained abuse — and recommends specific models across every budget, from a first touring-durable ride to the exact cymbals extreme metal's most demanding drummers ride.`,
       keyPoints: [
         "Extreme metal's sustained blast beats destroy rides that work fine in slower metal styles — durability is not optional",
         "George Kollias's Zildjian A Custom Mega Bell Ride delivers the fast attack and dry control extreme metal demands",
-        "Derek Roddy's move to Meinl Byzance Raw Bell Dark shows how touring durability drives ride choice at the highest level",
+        "Derek Roddy's Meinl Mb20 Heavy Ride shows how heavy-gauge construction drives ride choice at the highest level",
         "21\"-22\" rides dominate extreme metal, favoring quick response and a prominent bell over maximum wash"
       ]
     },
@@ -37004,7 +37004,7 @@ This guide breaks down what actually makes a ride survive extreme metal's demand
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Extreme metal's sustained blast beats put more cumulative stress on a ride than almost any other metal style. Derek Roddy's switch to Meinl Byzance Raw Bell Dark Ride reflects a career-long search for construction that survives one-footed blast technique night after night.",
+          description: "Extreme metal's sustained blast beats put more cumulative stress on a ride than almost any other metal style. Derek Roddy's Meinl Mb20 Heavy Ride reflects a career-long search for heavy-gauge construction that survives one-footed blast technique night after night.",
           recommendation: "Thick, hand-hammered B20 bronze built to survive sustained, high-velocity striking"
         },
         {
@@ -37028,7 +37028,7 @@ This guide breaks down what actually makes a ride survive extreme metal's demand
         {
           name: "Ride Size and Response",
           icon: "📏",
-          description: "21\"-22\" covers the extreme metal ride range. Kollias favors 21\" for the fastest response, while Roddy and Hoglan run 22\" for added body without sacrificing speed.",
+          description: "21\"-22\" covers the extreme metal ride range. Kollias and Roddy favor 21\" for the fastest response, while Hoglan runs 22\" for added body without sacrificing speed.",
           recommendation: "21\"-22\" rides, sized toward the larger end for added low-end body"
         },
         {
@@ -37117,40 +37117,40 @@ Sabian's B20 construction is built to survive the repeated, high-force striking 
         },
         {
           rank: 3,
-          name: "Meinl Byzance Raw Bell Dark Ride",
+          name: "Meinl Mb20 Heavy Ride",
           brand: "Meinl",
-          model: "22\" Byzance Raw Bell Dark Ride",
+          model: "21\" Mb20 Heavy Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
-          priceRange: "€300-360",
-          tier: "premium",
-          driveType: "B20 Bronze, Hand Hammered",
-          description: `Derek Roddy of Hate Eternal and Nile plays a 22" Meinl Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface reflects a career-long refinement of what actually survives one-footed blast technique night after night on tour.
+          priceRange: "€230-280",
+          tier: "pro",
+          driveType: "B20 Bronze, Heavy",
+          description: `Derek Roddy of Hate Eternal and Nile plays a 21" Meinl Mb20 Heavy Ride, its heavy-gauge construction built to cut through relentless double-kick runs at extreme tempo without losing control under his signature one-footed blast technique.
 
-Roddy's move to a hand-hammered B20 line at this weight shows that even a drummer known for speed prioritizes construction that holds its voicing across a demanding touring schedule.`,
+Roddy's long-running setup on this heavy-weight B20 line shows that even a drummer known for speed prioritizes construction that holds its voicing across a demanding touring schedule.`,
           pros: [
-            "Derek Roddy's current setup — refined over decades of extreme metal touring",
-            "Hand-hammered B20 bronze built for maximum durability under repeated impact",
-            "Raw bell cuts through dense, technical extreme metal mixes",
+            "Derek Roddy's current setup — proven across decades of extreme metal touring",
+            "Heavy-weight B20 bronze built for maximum durability under repeated impact",
+            "Cuts through dense, technical extreme metal mixes",
             "Proven across Hate Eternal and Nile's most demanding recordings"
           ],
           cons: [
             "Premium Meinl pricing above most other options in this guide",
             "Heavier weight trades some speed for durability and tone",
-            "Individual cymbal variation is significant in hand-hammered lines"
+            "Takes slightly more force to fully open up than lighter rides"
           ],
           specs: {
-            size: "22\"",
+            size: "21\"",
             alloy: "B20 Bronze",
-            finish: "Raw Bell, Hand Hammered",
-            bell: "Raw, unlathed",
+            finish: "Heavy",
+            bell: "Standard",
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "22\" Byzance Raw Bell Dark Ride for one-footed blast durability" }
+            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "21\" Mb20 Heavy Ride for one-footed blast durability" }
           ],
           verdict: "Best for drummers who prioritize long-term touring durability without sacrificing tonal complexity.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_raw_bell_dark_ride_22_roddy.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_mb20_heavy_ride_21_roddy.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -37257,12 +37257,12 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
 - Raw Bell Dry variant delivers dry control for gravity-blast technique
 - Best for gravity-blast and metronomically precise technique alike
 
-**Meinl Byzance Raw Bell Dark (Derek Roddy):**
-- Hand-hammered B20 bronze refined for maximum long-term touring durability
-- Complex, dark overtones cut through dense, technical mixes
-- Best for drummers who've cycled through other brands and prioritize durability above all
+**Meinl Mb20 Heavy Ride (Derek Roddy):**
+- Heavy-gauge B20 bronze built for maximum long-term touring durability
+- Cuts cleanly through dense, technical mixes under relentless double-kick runs
+- Best for drummers who prioritize durability under one-footed blast technique above all
 
-**Our Recommendation:** Start with a Sabian SBR or Zildjian ZBT ride if you're building extreme metal technique on a budget. Choose George Kollias's Mega Bell for maximum bell projection at the highest tempos, Gene Hoglan's Sabian AAX for proven mid-range durability, or Derek Roddy's Meinl Byzance Raw Bell Dark if long-term touring durability is your top priority.`,
+**Our Recommendation:** Start with a Sabian SBR or Zildjian ZBT ride if you're building extreme metal technique on a budget. Choose George Kollias's Mega Bell for maximum bell projection at the highest tempos, Gene Hoglan's Sabian AAX for proven mid-range durability, or Derek Roddy's Meinl Mb20 Heavy Ride if long-term touring durability is your top priority.`,
       comparisonTable: [
         { feature: "Bell Projection", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Touring Durability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -37287,8 +37287,8 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
         },
         {
           category: "Best for Long-Term Touring",
-          pedal: "Meinl Byzance Raw Bell Dark Ride",
-          reason: "Derek Roddy's current setup — refined over decades to survive one-footed blast technique."
+          pedal: "Meinl Mb20 Heavy Ride",
+          reason: "Derek Roddy's current setup — proven over decades to survive one-footed blast technique."
         },
         {
           category: "Best Budget",
@@ -37307,14 +37307,14 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Mega Bell Ride — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Raw Bell Dark Ride — one-footed blast durability' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Mb20 Heavy Ride — one-footed blast durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX Ride — The Atomic Clock\'s precision punch' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Mega Bell Ride — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Raw Bell Dark Ride — one-footed blast durability' }
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Mb20 Heavy Ride — one-footed blast durability' }
     ],
     relatedComparisons: [],
 
@@ -37326,7 +37326,7 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
       },
       {
         question: "What ride cymbal does Derek Roddy use?",
-        answer: "Derek Roddy of Hate Eternal and Nile currently plays a 22\" Meinl Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface reflects his search for maximum long-term touring durability under one-footed blast technique."
+        answer: "Derek Roddy of Hate Eternal and Nile currently plays a 21\" Meinl Mb20 Heavy Ride, its heavy-gauge construction built to cut through relentless double-kick runs under his one-footed blast technique."
       },
       {
         question: "What ride cymbal does Gene Hoglan use?",
@@ -37341,7 +37341,7 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
     // Conclusion
     conclusion: {
       title: "Build a Ride Setup That Survives the Blast Beat",
-      content: `Extreme metal's ride philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's bright, bell-forward Mega Bell Ride or Derek Roddy's hand-hammered Meinl Byzance Raw Bell Dark, the right extreme metal ride needs to sound the same on the last blast beat of a set as it did on the first.
+      content: `Extreme metal's ride philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's bright, bell-forward Mega Bell Ride or Derek Roddy's heavy-gauge Meinl Mb20 Heavy Ride, the right extreme metal ride needs to sound the same on the last blast beat of a set as it did on the first.
 
 Start with one durable, fast-attack ride in the 21"-22" range, and prioritize construction quality over tonal complexity until you know your kit can survive a full extreme metal set night after night.
 
@@ -112001,13 +112001,13 @@ Whatever you land on, don't overlook wood quality and weight-matching — a pair
       title: "What Cymbals Survive Extreme Metal's Blast Beats?",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality surrounding both — puts more sustained abuse on a full cymbal setup than almost any other style of drumming. At 200-280 BPM blast beats, hi-hats, crashes, and rides all get struck thousands of times a set, night after touring night, and have to keep responding accurately long after ordinary cymbals would develop keyholing or lose their voice entirely.
 
-George Kollias of Nile runs a full Zildjian A Custom setup — 14" hi-hats and 17"/19" crashes — paired with a 21" Zildjian A Custom Mega Bell Ride, giving his technical death metal drumming a dark, controlled voicing that stays articulate past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes with a 22" Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surfaces are built specifically for long-term touring durability. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion hi-hats and crash with a 22" AAX Ride, prized for the explosive, reliable punch that matches his metronomic "Atomic Clock" precision.
+George Kollias of Nile runs a full Zildjian A Custom setup — 14" hi-hats and 17"/19" crashes — paired with a 21" Zildjian A Custom Mega Bell Ride, giving his technical death metal drumming a dark, controlled voicing that stays articulate past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Heavy Hi-Hats and Mb20 Heavy Crashes with a 21" Mb20 Heavy Ride, built specifically to cut through relentless double-kick runs under his one-footed blast technique. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion hi-hats and crash with a 22" AAX Ride, prized for the explosive, reliable punch that matches his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a cymbal setup survive extreme metal's demands — durability, fast attack, and consistent response under sustained abuse — and recommends specific setups across every budget, from a first touring-durable pack to the exact cymbals extreme metal's most demanding drummers play.`,
       keyPoints: [
         "Zildjian A Custom defines George Kollias's dark, controlled voicing for 240+ BPM technical death metal",
         "Sabian AAX powers Gene Hoglan's explosive Atomic Clock precision",
-        "Derek Roddy's move to Meinl Byzance Brilliant Heavy Hammered shows how touring durability drives cymbal choice at the highest level",
+        "Derek Roddy's Meinl Byzance Heavy and Mb20 Heavy setup shows how touring durability drives cymbal choice at the highest level",
         "14\" hi-hats and 21\"-22\" rides dominate extreme metal, favoring fast response and a prominent bell over maximum wash"
       ]
     },
@@ -112019,7 +112019,7 @@ This guide breaks down what actually makes a cymbal setup survive extreme metal'
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Extreme metal's sustained blast beats put more cumulative stress on a full cymbal set than almost any other metal style. Derek Roddy's switch to Meinl Byzance Brilliant Heavy Hammered reflects a career-long search for construction that survives one-footed blast technique night after night on tour.",
+          description: "Extreme metal's sustained blast beats put more cumulative stress on a full cymbal set than almost any other metal style. Derek Roddy's Meinl Byzance Heavy and Mb20 Heavy setup reflects a career-long search for construction that survives one-footed blast technique night after night on tour.",
           recommendation: "Thick, hand-hammered B20 bronze across hi-hats, crashes, and ride for maximum long-term durability"
         },
         {
@@ -112138,43 +112138,43 @@ This setup reflects a philosophy shared across extreme metal's founding drummers
         },
         {
           rank: 3,
-          name: "Meinl Byzance Brilliant Heavy Hammered + Raw Bell Dark Ride",
+          name: "Meinl Byzance Heavy & Mb20 Heavy Series",
           brand: "Meinl",
-          model: "Byzance Brilliant Heavy Hammered / Raw Bell Dark Ride",
+          model: "Byzance Heavy Hi-Hats, Mb20 Heavy Crashes & Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
           priceRange: "€260-400 per cymbal",
           tier: "pro",
-          material: "B20 Bronze, Heavy Hammered",
+          material: "B20 Bronze, Heavy",
 
-          description: `Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes, paired with a 22" Byzance Raw Bell Dark Ride — a long-time Meinl loyalist since the mid-90s, whose hand-hammered surfaces are built specifically to maximize long-term durability under his distinctive one-footed blast technique.
+          description: `Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Heavy Hi-Hats and Mb20 Heavy Crashes, paired with a 21" Mb20 Heavy Ride — built specifically to maximize long-term durability under his distinctive one-footed blast technique while cutting through relentless double-kick runs.
 
-The heavy-hammered surface distributes stress differently than a machine-finished setup, giving Roddy a full cymbal rig built to hold its voicing over years of relentless touring and recording.`,
+The heavy-gauge construction distributes stress differently than a machine-finished setup, giving Roddy a full cymbal rig built to hold its voicing over years of relentless touring and recording.`,
 
           pros: [
             "Derek Roddy's current Hate Eternal/Nile setup — built for one-footed blast longevity",
-            "Heavy-hammered surface built for maximum long-term durability",
-            "Brilliant finish gives faster attack than fully dark alternatives",
+            "Heavy-gauge construction built for maximum long-term durability",
+            "Mb20 Heavy Ride cuts cleanly through dense double-kick runs",
             "Proven across a career-defining switch away from earlier signature lines"
           ],
           cons: [
-            "Premium hand-hammered pricing across the full setup",
-            "Individual cymbal variation is significant in hand-hammered lines",
+            "Premium pricing across the full setup",
+            "Heavier gauge takes slightly more force to fully open up",
             "Less widely available than mainline Zildjian or Sabian series"
           ],
           specs: {
             alloy: "B20 bronze",
-            finish: "Brilliant, Heavy Hammered",
-            treatment: "Hand-hammered",
+            finish: "Byzance Heavy / Mb20 Heavy",
+            treatment: "Heavy",
             hiHatRange: "14\"",
-            crashRange: "16\" - 18\"",
-            rideRange: "22\""
+            crashRange: "18\" - 19\"",
+            rideRange: "21\""
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", reason: "Byzance Brilliant Heavy Hammered + Raw Bell Dark Ride — one-footed blast durability" }
+            { name: "Derek Roddy", band: "Hate Eternal / Nile", reason: "Byzance Heavy Hi-Hats + Mb20 Heavy Crashes & Ride — one-footed blast durability" }
           ],
-          verdict: "Best for drummers chasing maximum long-term durability. Roddy's career-long switch to hand-hammered construction speaks for itself.",
+          verdict: "Best for drummers chasing maximum long-term durability. Roddy's career-long switch to heavy-gauge construction speaks for itself.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_brilliant_heavy_hammered.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_heavy_mb20_heavy_series.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -112270,12 +112270,12 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
 - Proven durability across decades of touring abuse
 - More accessible pricing than premium hand-hammered lines
 
-**Meinl Byzance Brilliant Heavy Hammered (Derek Roddy):**
-- Hand-hammered construction distributes stress for maximum long-term durability
-- Brilliant finish for faster attack than fully dark alternatives
+**Meinl Byzance Heavy & Mb20 Heavy (Derek Roddy):**
+- Heavy-gauge construction distributes stress for maximum long-term durability
+- Mb20 Heavy Ride cuts through relentless double-kick runs
 - The choice for drummers prioritizing career-long touring longevity
 
-**Extreme Metal Recommendation:** Choose Zildjian A Custom if you play technical, precision-focused extreme metal in the Nile tradition. Choose Sabian AAX if you want proven durability at accessible pricing. Choose Meinl Byzance Brilliant Heavy Hammered if long-term touring durability is your top priority.`,
+**Extreme Metal Recommendation:** Choose Zildjian A Custom if you play technical, precision-focused extreme metal in the Nile tradition. Choose Sabian AAX if you want proven durability at accessible pricing. Choose Meinl Byzance Heavy & Mb20 Heavy if long-term touring durability is your top priority.`,
       comparisonTable: [
         { feature: "Controlled Precision", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Blast-Beat Durability", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -112300,9 +112300,9 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
           reason: "Gene Hoglan's foundation, proven under decades of gravity-blast abuse."
         },
         {
-          category: "Best Hand-Hammered",
-          pedal: "Meinl Byzance Brilliant Heavy Hammered",
-          reason: "Derek Roddy's switch for maximum long-term one-footed blast durability."
+          category: "Best for Touring Durability",
+          pedal: "Meinl Byzance Heavy & Mb20 Heavy Series",
+          reason: "Derek Roddy's setup for maximum long-term one-footed blast durability."
         },
         {
           category: "Best Budget",
@@ -112321,14 +112321,14 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom + A Custom Mega Bell — Nile\'s 240+ BPM technical precision' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered — Hate Eternal/Nile\'s touring longevity' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Heavy & Mb20 Heavy — Hate Eternal/Nile\'s touring longevity' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX X-Plosion — Death/Testament\'s Atomic Clock precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom + A Custom Mega Bell Ride — Nile\'s technical death metal precision' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered — Hate Eternal/Nile\'s blast-beat longevity' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Heavy & Mb20 Heavy — Hate Eternal/Nile\'s blast-beat longevity' },
     ],
 
     // FAQ section for SEO
@@ -112339,7 +112339,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       },
       {
         question: "What cymbals does Derek Roddy use?",
-        answer: "Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes with a 22\" Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surfaces are built for maximum long-term touring durability."
+        answer: "Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Heavy Hi-Hats and Mb20 Heavy Crashes with a 21\" Mb20 Heavy Ride, built for maximum long-term touring durability under his one-footed blast technique."
       },
       {
         question: "What cymbals does Gene Hoglan use?",
@@ -112358,9 +112358,9 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
     // Conclusion
     conclusion: {
       title: "Build Your Extreme Metal Cymbal Setup",
-      content: `Extreme metal cymbals come down to a genuine choice between three proven philosophies: Zildjian A Custom's controlled, technical precision (George Kollias's sound), Sabian AAX's bright, accessible durability (Gene Hoglan's foundation), or Meinl Byzance Brilliant Heavy Hammered's hand-hammered, long-term touring durability (Derek Roddy's career-long choice).
+      content: `Extreme metal cymbals come down to a genuine choice between three proven philosophies: Zildjian A Custom's controlled, technical precision (George Kollias's sound), Sabian AAX's bright, accessible durability (Gene Hoglan's foundation), or Meinl Byzance Heavy & Mb20 Heavy's heavy-gauge, long-term touring durability (Derek Roddy's career-long choice).
 
-Start with whichever character matches your playing style and touring demands. If you want the most technically controlled, precision-focused sound, Zildjian A Custom is the benchmark. If you want proven, accessible durability under punishing technique, Sabian AAX is the safer investment. If you're chasing maximum long-term durability above all else, look at Meinl Byzance Brilliant Heavy Hammered.
+Start with whichever character matches your playing style and touring demands. If you want the most technically controlled, precision-focused sound, Zildjian A Custom is the benchmark. If you want proven, accessible durability under punishing technique, Sabian AAX is the safer investment. If you're chasing maximum long-term durability above all else, look at Meinl Byzance Heavy & Mb20 Heavy.
 
 Don't overlook the budget tier — Zildjian A Series and Sabian AAX Stage both provide genuine upgrade paths toward the pro-level sound without requiring a full investment up front. Whatever you choose, prioritize B20 bronze construction; extreme metal's sustained blast beats will find every weakness in a lesser alloy.
 

@@ -1,5 +1,5 @@
 # Metal Drummer Gear Statistics — MetalForge
-> Last Updated: 2026-10-30 · Source: https://metalforge.io/stats/gear-insights
+> Last Updated: 2026-11-21 · Source: https://metalforge.io/stats/gear-insights
 
 Gear-brand popularity data aggregated from 72 professional metal drummers in the MetalForge database. All percentages are calculated from verified gear records.
 
@@ -43,7 +43,7 @@ Based on 71 drummers with verified cymbal data (99% of roster).
 
 Based on 69 drummers with verified hardware/pedal data (96% of roster).
 
-**Double bass setup:** 52/72 drummers (72%) use a double bass pedal setup.
+**Double bass setup:** 51/72 drummers (71%) use a double bass pedal setup.
 
 **Most popular hardware brand:** Tama (23/72 drummers, 32%)
 
@@ -98,7 +98,7 @@ Based on 57 drummers with verified drumhead data (79% of roster).
 ## Key Facts
 
 - **Total drummers in database:** 72
-- **Double bass pedal setups:** 52/72 (72%)
+- **Double bass pedal setups:** 51/72 (71%)
 - **#1 drum kit brand:** Tama (29% of roster)
 - **#1 cymbal brand:** Zildjian (31% of roster)
 - **#1 pedal/hardware brand:** Tama (32% of roster)

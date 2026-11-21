@@ -59,16 +59,7 @@ export const DRUMMERS_BY_KIT = {
   ],
   'mapex/orion': [],
   // Issue #2405 (split 3/4 of #2215): Mapex Armory page (/gear/mapex/armory/)
-  'mapex/armory': [
-    {
-      slug: 'jason-bittner',
-      name: 'Jason Bittner',
-      band: 'Overkill / Shadows Fall',
-      yearsUsed: '1997–present',
-      config: 'Mapex Saturn V (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×16" Toms)',
-      endorsee: true,
-    },
-  ],
+  'mapex/armory': [],
   // Issue #2406 (split 4/4 of #2215): Ludwig Classic Maple page (/gear/ludwig/classic-maple/)
   'ludwig/classic-maple': [
     {

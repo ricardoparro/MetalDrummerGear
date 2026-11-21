@@ -13,14 +13,14 @@ Richard Christy is one of the most versatile and technically gifted drummers fro
 
 Christy favors Pearl maple kits that balance warmth with attack across genres:
 
-- **Kick Drums:** 22" x 18" (x2) with Pearl Eliminator Double Pedal
+- **Kick Drums:** 22" x 18" (x2) with Axis A Longboard Double Pedal
 - **Snare:** 14" x 6.5" Maple — balanced crack with body
 - **Rack Toms:** 10" x 8", 12" x 9", 13" x 10"
 - **Floor Toms:** 16" x 16", 18" x 16"
-- **Cymbals:** Sabian AAX / HHX — bright, articulate, defined ride bell
-- **Pedals:** Pearl Eliminator Double Pedal (smooth, adjustable cams)
+- **Cymbals:** Sabian AA/AAX — bright, articulate, defined ride bell
+- **Pedals:** Axis A Longboard Double Pedal (fast, precise cam-driven action)
 - **Sticks:** Vic Firth 5B
-- **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)
+- **Heads:** Evans
 
 ## Tuning & Setup
 
@@ -48,10 +48,10 @@ Christy plays **matched grip** with a powerful, fluid technique. His relaxed ful
 |------|----------------|--------------------|
 | Drum Kit | Pearl Masters Maple | Pearl Export Series (~$700) |
 | Snare | Maple 14" x 6.5" | Pearl Sensitone Maple |
-| Cymbals | Sabian AAX / HHX | Sabian B8X Pack (~$250) |
-| Pedal | Pearl Eliminator Double | Pearl P930 Double (~$130) |
+| Cymbals | Sabian AA/AAX | Sabian B8X Pack (~$250) |
+| Pedal | Axis A Longboard Double | Pearl P930 Double (~$130) |
 | Sticks | Vic Firth 5B | Promark 5B |
-| Kick Head | Remo Powerstroke P3 Clear | Evans EMAD Clear |
+| Kick Head | Evans | Evans EMAD Clear |
 
 **Starter budget path (~$1,000):** Pearl Export + Sabian B8X + Pearl P930. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/sabian](https://metalforge.io/brands/sabian).
 
@@ -72,7 +72,7 @@ A: He is best known as the drummer on Death's final album, The Sound of Persever
 A: It is famously smooth and even — every kick note sounds identical, so fast 16th-note runs read as a continuous flowing wash rather than individual hits. That evenness, plus weaving double bass through complex arrangements, defines his style.
 
 **Q: What drums and pedals does he use?**  
-A: Pearl maple kits with bright Sabian cymbals and Pearl Eliminator pedals. The Eliminator's adjustable cams support his even double bass, and the maple shells cover both technical death metal and power metal.
+A: Pearl maple kits with bright Sabian cymbals and an Axis A Longboard double pedal. The Longboard's cam-driven linkage supports his even double bass, and the maple shells cover both technical death metal and power metal.
 
 **Q: How did Christy adapt from Death to Iced Earth?**  
 A: He shifted from dense, technical, blast-driven drumming to the driving, anthemic, more restrained grooves of power metal — applying dynamics and restraint, locking galloping double bass to the guitars and serving epic song structures rather than showcasing technicality.

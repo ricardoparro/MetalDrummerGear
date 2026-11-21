@@ -16,7 +16,7 @@ What makes him a benchmark rather than just a technician is that his complexity 
 Ågren plays a **Sonor SQ2 Beech** kit — Sonor's top-tier custom shell pack, built to individual specification:
 
 - **Kick Drum:** 22" Bass Drum (single kick)
-- **Snare:** 14" x 5.5" Sonor Designer Maple Snare
+- **Snare:** 14" x 5.5" Sonor SQ2 Beech Snare
 - **Rack Toms:** 10", 12"
 - **Floor Toms:** 14", 16"
 - **Cymbals:** Paiste Signature & 2002 Series — 14" Signature Heavy Hi-Hats, Signature Fast Crash 18"/20", Signature Dry Heavy Ride 22", 2002 China 18"
@@ -49,7 +49,7 @@ What makes him a benchmark rather than just a technician is that his complexity 
 | Item | Ågren's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Sonor SQ2 Beech | Pearl Export or Mapex Mars (~$700) |
-| Snare | Sonor Designer Maple 14" x 5.5" | Pearl Reference or DW Performance |
+| Snare | Sonor SQ2 Beech 14" x 5.5" | Pearl Reference or DW Performance |
 | Cymbals | Paiste Signature & 2002 Series | Paiste PST 5 Pack (~$200) |
 | Pedal | Sonor Giant Step Double Pedal | DW 3000 Single Pedal (~$100) |
 | Sticks | Vic Firth American Classic 5A | Vater Fusion or Promark 5A |
@@ -68,7 +68,7 @@ What makes him a benchmark rather than just a technician is that his complexity 
 ## FAQ
 
 **Q: What kit does Morgan Ågren use?**  
-A: Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier custom shell pack. His configuration typically runs 10" and 12" rack toms, 14" and 16" floor toms, and a single 22" bass drum, with a 14"x5.5" Sonor Designer Maple snare.
+A: Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier custom shell pack. His configuration typically runs 10" and 12" rack toms, 14" and 16" floor toms, and a single 22" bass drum, with a 14"x5.5" Sonor SQ2 Beech snare.
 
 **Q: How do I develop Morgan Ågren's polyrhythm independence?**  
 A: Start with his four-over-three foundation: hands playing four evenly spaced strokes while feet play three, looped slowly until neither limb drifts. Only add melodic tom variation once the base polyrhythm is completely stable.

@@ -250,9 +250,9 @@ export const SNARES = [
   },
   {
     drummerSlug: 'morgan-agren',
-    summary: 'Sonor Designer 14x5.5" Maple',
+    summary: 'Sonor SQ2 Beech 14x5.5" Maple',
     brand: 'Sonor',
-    model: 'Designer Maple',
+    model: 'SQ2 Beech',
     sizeIn: 14,
     depthIn: 5.5,
     shellMaterial: 'Maple',

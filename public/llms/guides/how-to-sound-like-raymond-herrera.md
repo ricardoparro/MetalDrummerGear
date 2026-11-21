@@ -13,16 +13,16 @@ What makes Herrera's approach distinct isn't the electronics alone — it's that
 
 ## Kit Setup
 
-Herrera plays a **Pearl Reference Series** kit with maple shells, fully triggered:
+Herrera plays a **Tama Starclassic** kit with maple shells, fully triggered:
 
 - **Kick Drums:** 22" Bass Drums (x2, double kick), each fitted with a ddrum trigger
-- **Snare:** 14" x 6.5" Pearl Custom Snare (triggered)
+- **Snare:** Tama 14" x 6.5" Brass (triggered)
 - **Rack Toms:** 10", 12" (triggered)
 - **Floor Toms:** 16", 18" (triggered)
-- **Cymbals:** Zildjian Z Custom Series — 14" hi-hats, 16"/18" crashes, 20" ride, china
-- **Pedals:** Pearl Eliminator Double Pedal
+- **Cymbals:** Zildjian A Custom and Z Custom — 14" A Custom Hi-Hats, 18"/19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China
+- **Pedals:** DW 5000 Series Double Pedal
 - **Trigger System:** ddrum / Roland triggers, full kit
-- **Sticks:** Vater Power 5B
+- **Sticks:** Pro-Mark 5A Oak Nylon Tip
 - **Heads:** Remo Pinstripe (kick, batter), Remo Ambassador (toms), Remo Pinstripe/Ambassador Coated (snare)
 
 ## Tuning & Setup
@@ -39,7 +39,7 @@ Herrera's technique is built on the idea that the electronics serve the performa
 
 **Signature patterns:**
 
-- **Machine-Gun Double-Kick (160–190 BPM, Advanced):** Drives entire songs as a rhythmic foundation, powered by the Pearl Eliminator's cam-adjustable action and reinforced by dedicated ddrum triggers on each kick for absolute timing consistency between both feet.
+- **Machine-Gun Double-Kick (160–190 BPM, Advanced):** Drives entire songs as a rhythmic foundation, powered by the DW 5000 Series' cam-adjustable action and reinforced by dedicated ddrum triggers on each kick for absolute timing consistency between both feet.
 - **Full-Kit Trigger Consistency (Variable, Intermediate):** Running triggers on every drum means every stroke across the kit needs to land with the same committed force to keep the acoustic-plus-electronic blend uniform.
 - **Sequencer-Like Groove Foundation (100–140 BPM, Intermediate):** On tracks like "Zero Signal," the kick pattern functions as the song's rhythmic backbone in the way a sequencer defines an industrial track's pulse — locked and unwavering.
 
@@ -49,12 +49,12 @@ Herrera's technique is built on the idea that the electronics serve the performa
 
 | Item | Herrera's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Pearl Reference Series | Pearl Export (~$750) |
-| Snare | Pearl Custom 14" x 6.5" | Any steel-shell snare, medium-high tuning |
-| Cymbals | Zildjian Z Custom Series | Zildjian ZBT pack (~$250) |
-| Pedal | Pearl Eliminator Double Pedal | Pearl P2000C Double (~$150) |
+| Drum Kit | Tama Starclassic | Pearl Export (~$750) |
+| Snare | Tama 14" x 6.5" Brass | Any steel-shell snare, medium-high tuning |
+| Cymbals | Zildjian A Custom and Z Custom | Zildjian ZBT pack (~$250) |
+| Pedal | DW 5000 Series Double Pedal | Pearl P2000C Double (~$150) |
 | Trigger | ddrum / Roland full-kit trigger system | Single ddrum Red Shot kick trigger (~$100) |
-| Sticks | Vater Power 5B | Promark 5B or Vic Firth American Classic 5B |
+| Sticks | Pro-Mark 5A Oak Nylon Tip | Vic Firth American Classic 5A or Regal Tip 5A Nylon Tip |
 
 **Starter budget path (~$1,300):** Pearl Export + Zildjian ZBT pack + Pearl P2000C double pedal + a single ddrum kick trigger. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
 
@@ -72,7 +72,7 @@ Herrera's technique is built on the idea that the electronics serve the performa
 A: Herrera pioneered the industrial metal hybrid drum sound — a fully acoustic performance layered with electronic triggers on every drum. The result is simultaneously raw and mechanical: real acoustic impact reinforced by processed samples fired in sync with each stroke, a template developed on Fear Factory's Demanufacture (1995).
 
 **Q: What gear should I use to sound like Raymond Herrera?**  
-A: Herrera plays a Pearl Reference Series kit with a double 22" bass drum configuration, a Pearl Custom 14" x 6.5" snare, and two rack toms plus two floor toms — every drum fitted with a ddrum trigger feeding a Roland module. His cymbals are Zildjian Z Custom, his double pedal is the Pearl Eliminator, and he plays Vater Power 5B sticks.
+A: Herrera plays a Tama Starclassic kit with a double 22" bass drum configuration, a Tama 14" x 6.5" Brass snare, and two rack toms plus two floor toms — every drum fitted with a ddrum trigger feeding a Roland module. His cymbals are Zildjian A Custom and Z Custom, his double pedal is the DW 5000 Series, and he plays Pro-Mark 5A Oak Nylon Tip sticks.
 
 **Q: How do I achieve the Fear Factory drum trigger sound?**  
 A: Fit a drum trigger (ddrum or a Roland-compatible pad trigger) to your kick and snare, set the module's attack response to react instantly to impact, and blend the triggered sample underneath your acoustic mic signal rather than replacing it entirely.

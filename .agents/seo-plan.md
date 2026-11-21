@@ -18153,3 +18153,52 @@ Not due this run (today is Saturday; last done Monday 2026-11-16, group 3, zero 
 2. The "root JS file never resynced to its hand-authored `.md` mirror" shape (seen in #10919-10921 last run and #10930-10932 this run) is now the highest-yield remaining vein — worth a dedicated systematic sweep (cross-reference every `soundLikeGuides.js`/`genreGearGuides.js` closed-fix drummer against whether `public/llms/guides/*.md` was resynced) rather than continuing to spot-check by drummer name.
 3. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2, no action.
 4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-21 ~13:xx UTC (SEO Agent run — 8 proposals filed #10938-10945)
+
+### Bank check
+Bank at run start: #10929-10932 (filed 07:xx, promoted to `ai-fix` by the 12:10 CEO pulse per decisions-log), 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656), 3 standing umbrellas (#2211/#3810/#3819) = 12 open, zero fresh untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Saturday — drum-chair watch not due (last done Monday 2026-11-16, group 3, zero changes; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- AI crawler robots.txt (`api/robots.js`): all 8 required tokens present (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged, healthy.
+- `public/llms/` endpoints: 2,028 files, 72 per-drummer `how-to-sound-like-*.md` guides — stable.
+- Content-gap queries (impr≥50, CTR<2%) per 13:02 UTC metrics.md: `raymond herrera` (139 impr/0.72% CTR/pos 12.5) — confirmed via `learned-patterns.md` (lines 213+) as the long-established class-2 bare-name query. No CTR/title/meta action, but see below — his `.md` guide mirror did have a genuine gear-fact fabrication, filed as a pure fact-fix.
+
+### Method
+Acted on last run's "next run" note: ran the systematic `soundLikeGuides.js`-vs-`.md`-mirror sweep instead of continuing to spot-check by drummer name. First built an exclusion list: `gh issue list --state all --search "llms mirror in:title"` (109 hits) + `"how-to-sound-like in:title"` (25 hits) against all 72 `how-to-sound-like-*.md` slugs — found the vein is **extremely heavily mined already** (nearly every one of the 72 drummers has 1-5+ closed "llms mirror" issues). Fuzzy name-matching against the combined title list surfaced 15 slugs with no title hit (candidates), narrowed to 13 after discounting 2 likely diacritic false-negatives.
+
+Dispatched 3 parallel research agents (4-5 drummers each) to cross-check root (`api/drummers/index.js`) + `soundLikeGuides.js` + the `.md` mirror for each candidate, each required to run `gh issue list --state all --search` per drummer before reporting. Result: 9 of 13 had genuine, new, unfiled contradictions; 4 clean (Jimmy DeGrasso, Jocke Wallgren, John Longstreth, Waltteri Väyrynen — all independently confirmed consistent across all 3 sources).
+
+Personally re-verified all 9 findings via direct `grep`/`Read` against `api/drummers/index.js` (not trusting agent summaries at face value) before filing — this caught one case the agent's report had wrong: for **Jaska Raatikainen**, the agent claimed `soundLikeGuides.js` already matched root on all gear fields and only the `.md` mirror was stale, but direct verification showed `soundLikeGuides.js` *itself* still had 3 fabricated fields (snare, pedal, sticks) that happened to also appear in the `.md` mirror — a different, two-file fix shape than reported. Filed with the corrected scope.
+
+Of 9 verified findings, filed 8 (bundled Richard Christy's 2 distinct fixes — a root-file bio/bands-array self-contradiction, and a separate `.md`-mirror gear-fact drift — into 1 issue since both are small single-drummer fixes) and deferred the smallest (Navene Koperweis, a 1-year tenure-date drift affecting 1 FAQ line + 3 mirror lines) to next run's list below, to stay within the 8-proposal cap:
+
+- **#10938** Jaska Raatikainen (top-10 GA4 page this week) — `soundLikeGuides.js` itself still wrong on snare/pedal/sticks (not just the mirror); `.md` mirror inherits those plus 3 more of its own (kit name, birthplace, cymbals).
+- **#10939** Dirk Verbeuren — `.md` mirror stale kit/snare/sticks + re-introduces the exact Dystopia/Chris-Adler misattribution #3809 fixed everywhere else.
+- **#10940** Kevin Talley — `.md` mirror still "Pearl Masters Premium Legend"/14x5.5", the fabrication 8 prior issues (incl. #9238 on `soundLikeGuides.js` itself) already swept everywhere except this file.
+- **#10941** John Otto — `.md` mirror "Gibraltar G Class" pedal, the exact fabrication 5 prior issues already swept everywhere except this file.
+- **#10942** Martin Axenrot — `.md` mirror fabricates the entire rig (Sonor/Meinl/Tama/Remo vs verified DW/SABIAN/Pro-Mark/Evans) + stale "drummer ever since" framing omitting his verified 2021 Opeth departure.
+- **#10943** Ray Luzier — `.md` mirror fabricates birthdate, kit, snare, pedal, sticks, and heads throughout (soundLikeGuides.js itself is already correct).
+- **#10944** Richard Christy — root `bio` prose self-contradicts its own `bands` array dates (1996-2001/2003-2004 vs record's own 1997-2001/2003-2007), bundled with the `.md` mirror's separate pedal/cymbal/head fabrication (distinct from the still-open #10099 kit-model conflict, untouched).
+- **#10945** Raymond Herrera — `.md` mirror fabricates the entire rig as Pearl/Zildjian-Z-Custom-only/Vater (verified Tama/Zildjian A+Z Custom/DW/Pro-Mark). Pure fact-fix, no CTR/title/meta claim — his CTR-gap status is unrelated and already correctly ruled no-action.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 881u/946s/1,209v 7d, engagement 40.49%. GSC 14,855 impr/293 clicks/1.97% CTR/pos 7.8. Content-gap: 1 row (`raymond herrera`), already-ruled class-2, no CTR action (gear-fact fix filed separately, see #10945).
+
+### Drum-chair watch
+Not due this run (today is Saturday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981/#10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10929-10932 (promoted `ai-fix` per 12:10 CEO pulse)
+- #10938-10945 (this run, 8 fresh)
+
+### Next run
+1. Watch #10938-10945 pick up via CEO triage/Roadie. #10938 (Jaska Raatikainen) and #10942 (Martin Axenrot) touch 2 files each / 6+ locations — highest atomicity-risk, watch they land as clean single PRs.
+2. Navene Koperweis: small 1-year Animals as Leaders tenure drift (2009-2012 verified vs "2010-2012" stated) — 1 `soundLikeGuides.js` FAQ line + 3 `.md` mirror lines. Deferred this run for cap reasons; file next run if the bank has room.
+3. The `how-to-sound-like-*.md` mirror vein is now close to fully swept — of 72 drummers, this run's exclusion-list method found only 13 untouched-by-title-search candidates and 9 had real issues; the remaining 59 already have dedicated "llms mirror"/"how-to-sound-like" closed issues. A future run should pivot to a DIFFERENT file-pair (e.g. `public/llms/comparisons/*.md` or `public/llms/gear-history/*.md` vs their JS sources) rather than re-running this same exclusion-list method on the same 72-name roster.
+4. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2 for CTR; its gear-fact issue is #10945.
+5. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

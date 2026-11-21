@@ -20,7 +20,7 @@ Otto plays an **OCDP Custom Type 5 Acrylic** kit:
 - **Rack Toms:** 10", 12"
 - **Floor Tom:** 16"
 - **Cymbals:** Zildjian A Custom Series — 13" Mastersound Hi-Hats, 16"/17" Projection Crashes, 20" EFX, 20" FX Oriental Crash of Doom
-- **Pedal:** Gibraltar G Class Bass Drum Pedal
+- **Pedal:** Gibraltar Professional Series Bass Drum Pedal
 - **Sticks:** Zildjian Artist Series
 - **Heads:** Remo Powerstroke 3 (kick), Remo Emperor Coated (snare, toms)
 
@@ -51,7 +51,7 @@ Otto's playing is built on pocket, not speed. His hands stay locked into a deep,
 | Drum Kit | OCDP Custom Type 5 Acrylic | Pearl Export (~$700) |
 | Snare | OCDP 14" x 6.5" 40-ply Vented | Any 14"x6.5" maple/ash snare, deep punchy tuning |
 | Cymbals | Zildjian A Custom Series | Zildjian ZBT hi-hats + crash (~$180) |
-| Pedal | Gibraltar G Class (single pedal) | PDP 400 Single Pedal (~$60) |
+| Pedal | Gibraltar Professional Series (single pedal) | PDP 400 Single Pedal (~$60) |
 | Sticks | Zildjian Artist Series | Vic Firth 5A or 5B |
 | Snare Head | Remo Emperor Coated | Same, punchy tuning |
 
@@ -71,7 +71,7 @@ Otto's playing is built on pocket, not speed. His hands stay locked into a deep,
 A: Otto studied jazz drumming at the Douglas Anderson School of the Arts before co-founding Limp Bizkit, and that formal training shows up as groove sophistication rather than raw power. Modern Drummer described his playing as "grounded in metal, jazz, and hip-hop."
 
 **Q: What gear should I use to sound like John Otto?**  
-A: Otto plays an OCDP Custom Type 5 Acrylic kit with a 14" x 6.5" 40-ply vented OCDP snare, Zildjian A Custom cymbals, a single Gibraltar G Class bass drum pedal, Zildjian Artist Series sticks, and Remo heads.
+A: Otto plays an OCDP Custom Type 5 Acrylic kit with a 14" x 6.5" 40-ply vented OCDP snare, Zildjian A Custom cymbals, a single Gibraltar Professional Series bass drum pedal, Zildjian Artist Series sticks, and Remo heads.
 
 **Q: Does John Otto use a double bass pedal?**  
 A: Otto plays a single-pedal setup rather than the double-kick configuration common among his nu-metal peers, and adds double-pedal bursts sparingly and musically under specific riff accents.

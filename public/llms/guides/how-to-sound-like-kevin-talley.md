@@ -15,10 +15,10 @@ This guide covers the blast beat and double bass technique behind Talley's sound
 
 ## Kit Setup
 
-The Pearl Masters Premium Legend's all-maple shells give Talley the fast attack and note definition needed for blast beats to stay articulate at extreme tempo, without the muddiness that heavier, more resonant shells would introduce:
+The Pearl Masters Custom / Reference Series' maple shells give Talley the fast attack and note definition needed for blast beats to stay articulate at extreme tempo, without the muddiness that heavier, more resonant shells would introduce:
 
 - **Kick Drums:** 22" x 18" (x2)
-- **Snare:** 14" x 5.5" Pearl Masters Maple
+- **Snare:** 14" x 6.5" Pearl Steel
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16"
 - **Cymbals:** Sabian AAX Series — 14" AAX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crash, 20" AAX Stage Ride
@@ -50,8 +50,8 @@ Talley's technique centers on separating his hands and feet rhythmically — his
 
 | Item | Kevin's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Pearl Masters Premium Legend (Maple) | Pearl Export Series (~$650) |
-| Snare | Pearl Masters Maple 14" x 5.5" | Pearl Sensitone Steel or Ludwig Supraphonic |
+| Drum Kit | Pearl Masters Custom / Reference Series (Maple) | Pearl Export Series (~$650) |
+| Snare | Pearl Steel 14" x 6.5" | Pearl Sensitone Steel or Ludwig Supraphonic |
 | Cymbals | Sabian AAX Series | Sabian SBR or B8X Pack (~$200) |
 | Double Pedal | Pearl Eliminator | Pearl P930 Double Pedal (~$130) |
 | Sticks | Vic Firth American Classic 5B | Vic Firth American Classic 5A |
@@ -74,7 +74,7 @@ Talley's technique centers on separating his hands and feet rhythmically — his
 A: Talley layered a polyrhythmic, triplet-grouped kick pattern under a straight 16th-note snare pulse, giving his blasts a rhythmic complexity and groove that most straight-16th blast beats lack. This technique, showcased on Dying Fetus's Destroy the Opposition, became a reference point for technical brutal death metal drumming.
 
 **Q: What gear does Kevin Talley use?**  
-A: Talley plays a Pearl Masters Premium Legend kit with all-maple shells, a 14" x 5.5" Pearl Masters Maple snare, Sabian AAX cymbals, a Pearl Eliminator double pedal, and Vic Firth American Classic 5B sticks — a setup built for fast attack and articulation at extreme tempo.
+A: Talley plays a Pearl Masters Custom / Reference Series kit with maple shells, a 14" x 6.5" Pearl Steel snare, Sabian AAX cymbals, a Pearl Eliminator double pedal, and Vic Firth American Classic 5B sticks — a setup built for fast attack and articulation at extreme tempo.
 
 **Q: How fast are Kevin Talley's blast beats?**  
 A: Talley's blast beats regularly exceed 200 BPM, with some passages pushing past 240 BPM, sustained across full songs rather than short bursts — a combination of raw speed and endurance.

@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-20 19:08 UTC · Window: last 12h*
+*Generated 2026-11-21 08:12 UTC · Window: last 12h*
 
 ---
 
@@ -8,27 +8,27 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **26** |
-| Open `seo-proposal` issues | 13 |
+| Open `ai-fix` issues | **20** |
+| Open `seo-proposal` issues | 12 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 3 |
-| PRs merged in window | **4** |
-| Issues closed in window | 4 |
-| Commits to `main` in window | 8 |
+| Open PRs | 0 |
+| PRs merged in window | **11** |
+| Issues closed in window | 11 |
+| Commits to `main` in window | 15 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **847** |
-| Sessions | 912 |
-| Page views | 1,198 |
-| Engagement rate | 44.19% |
-| GSC impressions | 14,865 |
+| Active users | **870** |
+| Sessions | 933 |
+| Page views | 1,186 |
+| Engagement rate | 40.30% |
+| GSC impressions | 14,855 |
 | GSC clicks | 293 |
 | GSC CTR | 1.97% |
-| GSC avg position | 7.9 |
+| GSC avg position | 7.8 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~5,134 |
-| Est. ad revenue / mo | **~€15.40** |
+| Est. pageviews / mo | ~5,083 |
+| Est. ad revenue / mo | **~€15.25** |
 | Progress to €1000/mo | 1.5% |
-| Pageviews/mo needed for €1000 | ~333,333 (65× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (66× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,55 +65,63 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 3d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 7d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 36d | _awaiting scanner run_ |
-| Sean Reinert — 7 anos | 65d | _awaiting scanner run_ |
+| Chris Adler — 54º aniversário | 2d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 6d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 35d | _awaiting scanner run_ |
+| Sean Reinert — 7 anos | 64d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 44 | 43 | 0 |
-| Check Sitemap Drift | 10 | 4 | 2 |
-| Verify YouTube Videos | 10 | 4 | 2 |
-| Verify Data Modules | 10 | 4 | 2 |
-| Check llms freshness | 5 | 0 | 2 |
-| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
-| Perf Budget Gate | 4 | 0 | 2 |
-| Health Check | 3 | 3 | 0 |
-| Loop Watchdog | 2 | 2 | 0 |
-| SEO Agent | 2 | 1 | 0 |
-| CEO Agent | 2 | 2 | 0 |
+| PR Merger | 31 | 30 | 1 |
+| Verify YouTube Videos | 14 | 7 | 7 |
+| Check Sitemap Drift | 13 | 6 | 7 |
+| Verify Data Modules | 12 | 6 | 6 |
+| Check llms freshness | 11 | 0 | 11 |
+| Perf Budget Gate | 6 | 0 | 6 |
+| Check Video SEO | 4 | 0 | 4 |
+| Health Check | 2 | 2 | 0 |
 | Daily Digest | 1 | 0 | 0 |
-| Roadie Night Fleet | 1 | 0 | 0 |
-| X Agent | 1 | 1 | 0 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
+| Loop Watchdog | 1 | 1 | 0 |
+| SEO Agent | 1 | 1 | 0 |
+| Prune Proposals | 1 | 1 | 0 |
+| CEO Agent | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
-- 2026-11-19 12:10 (deep run — 4/5 proposals verified+promoted #10863-10866, 1 rejected #10862)
-- 2026-11-19 00:19 (cheap pulse — 5/5 proposals verified+promoted #10844-10848)
-- 2026-11-19 06:15 (cheap pulse — 7/7 proposals verified+promoted #10849-10855)
-- 2026-11-19 18:09 (mid-day pulse — 6/6 proposals verified+promoted #10874-10879)
+- 2026-11-21 06:11 (cheap pulse — 5/5 proposals verified+promoted #10918-10922)
+- 2026-11-21 00:19 (cheap pulse — 5/5 proposals verified+promoted #10913-10917)
 - 2026-11-20 00:19 (cheap pulse — 3/3 proposals verified+promoted #10887/10888/10890)
 - 2026-11-20 06:12 (cheap pulse — 2/2 proposals verified+promoted #10893/#10894)
+- 2026-11-20 12:10 (daily deep run — 2/2 proposals verified+promoted #10897/#10898)
+- 2026-11-20 18:09 (mid-day pulse — 5/5 proposals verified+promoted #10901-10905)
 
-## 📦 Shipped to main (4)
+## 📦 Shipped to main (11)
 
-- #10907 fix: #10898 SEO: beginnerGuides.js 'whyTrustUs' claims '500+ professional metal drummers' — roster has 72
-- #10906 fix: #10897 SEO: evolutionTimeline.js George Kollias 2005 entry fabricates '280+ BPM' — verified figure is 240+ BPM
-- #10900 fix: #10894 SEO: pedalReferencePages.js still implies George Kollias's Demon XR benefits from direct drive — #10844's fix was incomplete
-- #10899 fix: #10893 SEO: gearCategoryPages.js sticks editorialIntro fabricates Benny Greb roster claim + mismatches Lars Ulrich's stick brand
+- #10937 fix: #10922 SEO: endorsementNews.js missing 1991 CYMBALS timeline entry for Sean Reinert — Zildjian A series origin only documented in the DRUMS category's notes
+- #10936 fix: #10921 SEO: public/llms/guides/best-snare-drums-for-black-metal.md fabricates Frost's snare as 'Sonor SQ2 14x6" Maple' — verified Tama Starclassic Bubinga 14x5.5"
+- #10935 fix: #10920 SEO: public/llms/guides/best-cymbals-for-progressive-metal.md says Blake Richardson 'trusts Meinl Byzance cymbals' — he switched to Sabian in 2018
+- #10934 fix: #10919 SEO: public/llms/guides/best-drum-kits-for-djent.md fabricates Tomas Haake (TAMA Starclassic) + Matt Halpern (Pearl Reference Pure) — verified Sonor SQ2 / Pearl Reference Series
+- #10933 fix: #10918 SEO: genreGearGuides.js fabricates Derek Roddy's ride cymbal as '22" Meinl Byzance Raw Bell Dark Ride' in 2 guide families — verified 21" Meinl Mb20 Heavy Ride
+- #10928 fix: #10917 SEO: drummersByKit.js still files Jason Bittner under the wrong top-level kit key (mapex/armory) after #7655's data-only fix
+- #10927 fix: #10887 SEO: regenerate /studies data files — 27 source-data commits of drift since last regen (#10512, 2026-11-10)
+- #10926 fix: #10916 SEO: drummersByKit.js Tomas Haake entry fabricates a second bass drum + wrong tom sizes
+- #10925 fix: #10915 SEO: licks/mikkey-dee.js still has 3 more 'Tama Artstar II/Swingstar Kit' entries — closed #10667 only fixed 3 of 6
+- #10924 fix: #10914 SEO batch: licks/*.js drummerId doesn't match drummerName in 20 files — internal self-contradiction, likely wrong profile links
+- #10923 fix: #10913 SEO CRITICAL: api/drummers/index.js has a duplicate 'bands' key in Igor Cavalera's record — second array silently overwrites his real bands
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 414h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2724h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2820h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 2997h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4082h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 427h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2737h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2833h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 3010h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4095h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

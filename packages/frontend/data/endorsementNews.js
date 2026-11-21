@@ -3833,6 +3833,14 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Upgraded to a DW Collector\'s Series maple shell kit for Cynic\'s reunion album "Traced in Air" (2008), his first recording in 15 years since "Focus" — maple\'s warmer resonance suited the self-produced, atmospheric sound',
       },
       {
+        year: 1991,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: null,
+        to: 'Zildjian A/K Series',
+        notes: 'Played Zildjian A/K series cymbals on his recording debut, Death\'s "Human" (1991), tracked at Morrisound Recording with Scott Burns',
+      },
+      {
         year: 2008,
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.CYMBALS,

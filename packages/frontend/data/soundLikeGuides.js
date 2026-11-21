@@ -9189,7 +9189,7 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
         finish: 'Various professional configurations',
         config: {
           kick: '22" x 16" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Free-Floating Snare',
+          snare: '14x5.5" Pearl Masters Maple Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
@@ -9198,11 +9198,11 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
       },
       snare: {
         brand: 'Pearl',
-        model: 'Pearl Free-Floating Steel 14" x 6.5"',
-        size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "Raatikainen used Pearl Free-Floating snares for their consistent response and isolation from the snare basket. The steel shell provides a cutting, bright crack that projects through Children of Bodom's keyboard and guitar arrangements. The 6.5\" depth adds body and volume essential for live performance at arena volumes.",
-        alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for comparable bright, cutting steel character"
+        model: 'Pearl Masters 14x5.5" Maple',
+        size: '14x5.5"',
+        shell: 'Maple',
+        description: "Raatikainen used the Pearl Masters Maple snare for its warm, full-bodied crack that complements his Masters Premium Maple kit. The maple shell provides a round, musical tone that projects through Children of Bodom's keyboard and guitar arrangements without the harsher overtones of a metal shell. The 5.5\" depth balances crack and body for both studio and live performance.",
+        alternative: "Pearl Masters Maple or Tama Starclassic Maple for comparable warm, cutting maple character"
       },
       cymbals: {
         brand: 'Zildjian',
@@ -9218,16 +9218,16 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
       },
       pedals: {
         brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Pedal',
-        description: "Raatikainen used Pearl double pedals — primarily the Demon Drive for its direct-drive precision. Children of Bodom's double bass patterns require both speed (for blast sections) and musical precision (for guitar-synchronized patterns) — the Demon Drive's adjustable footboard and direct linkage provided both qualities in one pedal.",
-        alternative: "Axis A Longboard or DW 9000 Direct Drive for comparable direct-feel response"
+        model: 'Pearl Eliminator Double Pedal',
+        description: "Raatikainen used the Pearl Eliminator double pedal for Children of Bodom's double bass patterns, which require both speed (for blast sections) and musical precision (for guitar-synchronized patterns). The Eliminator's adjustable footboard and smooth cam action provided both qualities in one pedal.",
+        alternative: "Axis A Longboard or DW 5000 Series for comparable feel and response"
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5B',
-        specs: '5B weight and length, wood tip',
-        description: "Raatikainen used heavier 5B sticks for the power demands of Children of Bodom's live performances. The additional mass of the 5B drives power stroke accents with authority and projects the snare over heavy stage volume. The wood tip provides warm articulation on ride and hi-hat patterns.",
-        alternative: "Promark 5B or Vater 5B for comparable weight and balance"
+        model: 'Vic Firth American Classic 5A',
+        specs: '5A weight and length, wood tip',
+        description: "Raatikainen used Vic Firth American Classic 5A sticks for the balance of control and power needed across Children of Bodom's demanding sets. The 5A's weight drives power stroke accents with authority while keeping enough speed for guitar-synchronized triplet patterns. The wood tip provides warm articulation on ride and hi-hat patterns.",
+        alternative: "Promark 5A or Vater 5A for comparable weight and balance"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear',
@@ -9305,7 +9305,7 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
         kit: "Pearl Export Series ($650) — Pearl family, road-proven construction",
         cymbals: "Zildjian ZHT or Planet Z set ($250) — Zildjian entry-level A character",
         pedals: "Pearl P930 Double Pedal ($150)",
-        sticks: "Vic Firth 5B ($10)",
+        sticks: "Vic Firth American Classic 5A ($10)",
         notes: "Pearl Export gives you the Pearl maple feel at accessible price. Zildjian entry-level introduces the A series bright character for Finnish melodic metal tone."
       },
       mid: {
@@ -9313,8 +9313,8 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
         label: "Intermediate Setup",
         kit: "Pearl Masters Premium Maple ($1,800) — Jaska's kit line since 2004",
         cymbals: "Zildjian A Custom and K Custom selection ($1,200)",
-        pedals: "Pearl Demon Drive Double ($350) — Pearl's direct-drive option",
-        sticks: "Vic Firth 5B ($10)",
+        pedals: "Pearl Eliminator Double ($350)",
+        sticks: "Vic Firth American Classic 5A ($10)",
         notes: "Pearl Masters Premium Maple is Jaska's kit line since 2004. Zildjian A Custom and K Custom gives you the bright, cutting character of the Children of Bodom recording catalog."
       },
       pro: {
@@ -9322,10 +9322,10 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
         label: "Professional Setup",
         kit: "Pearl Masters Premium Maple or Reference ($3,000+) — Jaska's touring configuration",
         cymbals: "Full Zildjian A Custom and K Custom selection ($2,000+)",
-        pedals: "Pearl Demon Drive Double ($350)",
-        snare: "Pearl Free-Floating Steel 14\" x 6.5\" ($400)",
+        pedals: "Pearl Eliminator Double ($350)",
+        snare: "Pearl Masters 14\"x5.5\" Maple ($400)",
         heads: "Full Remo Powerstroke / Emperor set ($200)",
-        notes: "Pearl Masters Premium Maple with full Zildjian A Custom and K Custom selection and Pearl Free-Floating Steel snare recreates Raatikainen's complete professional configuration."
+        notes: "Pearl Masters Premium Maple with full Zildjian A Custom and K Custom selection and Pearl Masters Maple snare recreates Raatikainen's complete professional configuration."
       }
     },
     faq: [

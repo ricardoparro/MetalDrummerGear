@@ -217,7 +217,7 @@ export const licks = {
     ],
     "tutorial": null,
     "gearUsed": [
-      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Sonor SQ2", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Sonor Double Pedal", "type": "hardware", "link": null },
       { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }
@@ -272,7 +272,7 @@ export const licks = {
     ],
     "tutorial": null,
     "gearUsed": [
-      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Sonor SQ2", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
       { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }
@@ -327,7 +327,7 @@ export const licks = {
     ],
     "tutorial": null,
     "gearUsed": [
-      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Sonor SQ2", "type": "drums", "link": null },
       { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
       { "name": "Wincent Mikkey Dee Signature", "type": "sticks", "link": null }

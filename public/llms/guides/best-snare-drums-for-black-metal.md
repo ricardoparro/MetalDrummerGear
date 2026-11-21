@@ -4,7 +4,7 @@
 
 ## Who This Guide Is For
 
-Black metal drummers who want to know which snare drums deliver a dry, cutting crack through raw production — and what Hellhammer and Frost (Sonor SQ2 Maple) and Inferno and Daray (Pearl Reference Steel/Brass) actually play. Covers maple vs steel vs brass and clear recommendations from budget to pro.
+Black metal drummers who want to know which snare drums deliver a dry, cutting crack through raw production — and what Hellhammer (Sonor SQ2 Maple), Frost (Tama Starclassic Bubinga), and Inferno and Daray (Pearl Reference Steel/Brass) actually play. Covers maple vs bubinga vs steel vs brass and clear recommendations from budget to pro.
 
 ---
 
@@ -12,7 +12,7 @@ Black metal drummers who want to know which snare drums deliver a dry, cutting c
 
 Black metal's snare drum has to do something contradictory: cut through raw, deliberately harsh production while sitting inside a mix that's often intentionally lo-fi. Unlike death metal's punchy, tight snare crack or thrash's bright backbeat, black metal snares need a sharp, dry attack that survives both blast beat tempo and the genre's traditionally rough recording standards.
 
-Hellhammer of Mayhem and Frost of Satyricon and 1349 both anchor their kits with Sonor SQ2 maple snares — Hellhammer's 14x5.5" and Frost's slightly deeper 14x6" — delivering the dry, cutting crack that defined "De Mysteriis Dom Sathanas." Inferno of Behemoth and Daray of Dimmu Borgir and Vader both trust Pearl Reference snares instead: Inferno's 14x5" steel shell for maximum brightness, and Daray's 14x5.5" brass shell for a warmer crack that cuts through Dimmu Borgir's full symphonic orchestration.
+Hellhammer of Mayhem anchors his kit with a Sonor SQ2 14x5.5" maple snare, delivering the dry, cutting crack that defined "De Mysteriis Dom Sathanas." Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga 14x5.5" snare instead, its dense bubinga shell driving Satyricon's Nordic black metal precision. Inferno of Behemoth and Daray of Dimmu Borgir and Vader both trust Pearl Reference snares: Inferno's 14x5" steel shell for maximum brightness, and Daray's 14x5.5" brass shell for a warmer crack that cuts through Dimmu Borgir's full symphonic orchestration.
 
 ---
 
@@ -26,13 +26,25 @@ Hellhammer of Mayhem and Frost of Satyricon and 1349 both anchor their kits with
 
 **Who uses it:**
 - **Hellhammer** ([/drummer/hellhammer](https://metalforge.io/drummer/hellhammer)) — 14x5.5" Sonor SQ2 Maple; foundational black metal snare crack
-- **Frost** ([/drummer/frost](https://metalforge.io/drummer/frost)) — 14x6" Sonor SQ2 Maple; dry, cutting Nordic black metal precision
 
-Sonor's custom shell configurator lets each drummer dial in exact ply count, bearing edge, and hardware to match precise tonal goals. The maple shell's warm, dry character prioritizes focused crack over ringing sustain.
+Sonor's custom shell configurator lets a drummer dial in exact ply count, bearing edge, and hardware to match precise tonal goals. The maple shell's warm, dry character prioritizes focused crack over ringing sustain.
 
 ---
 
-### 2. Pearl Reference Steel — Best for Modern/Technical Black Metal
+### 2. Tama Starclassic Bubinga — Best for Hyperspeed Blast Beats
+
+- **Shell material:** 100% Bubinga
+- **Price range:** €400–€600
+- **Best for:** Nordic black metal, hyperspeed blast beat playing
+
+**Who uses it:**
+- **Frost** ([/drummer/frost](https://metalforge.io/drummer/frost)) — 14x5.5" Tama Starclassic Bubinga; dense, dry attack for Nordic black metal precision
+
+Bubinga is roughly 53% harder than maple, giving the shell extra density and cut that drives Satyricon's Nordic black metal precision at hyperspeed blast beat tempos. That added shell mass holds tuning through sustained blast passages while still delivering a dry, focused attack — a different route to black metal's dry-crack tradition than Hellhammer's maple SQ2, but built for the same demand.
+
+---
+
+### 3. Pearl Reference Steel — Best for Modern/Technical Black Metal
 
 - **Shell material:** Steel
 - **Price range:** €350–€550
@@ -45,7 +57,7 @@ The steel shell's bright, cutting attack projects more aggressively than maple a
 
 ---
 
-### 3. Pearl Reference Brass — Best for Symphonic Black Metal
+### 4. Pearl Reference Brass — Best for Symphonic Black Metal
 
 - **Shell material:** Brass
 - **Price range:** €400–€600
@@ -58,7 +70,7 @@ Brass shells add musical overtone complexity that pure steel lacks — valuable 
 
 ---
 
-### 4. Pearl Sensitone Steel — Best Mid-Range
+### 5. Pearl Sensitone Steel — Best Mid-Range
 
 - **Shell material:** Thin Steel
 - **Price range:** €200–€320
@@ -68,11 +80,15 @@ The thin-gauge steel shell delivers excellent sensitivity and a bright, cutting 
 
 ---
 
-## Maple vs Steel vs Brass for Black Metal Snares
+## Maple vs Bubinga vs Steel vs Brass for Black Metal Snares
 
-**Maple (Sonor SQ2 — Hellhammer, Frost):**
+**Maple (Sonor SQ2 — Hellhammer):**
 - Warm, dry, focused crack with minimal excess ring
 - The historically foundational black metal snare tone
+
+**Bubinga (Tama Starclassic Bubinga — Frost):**
+- Denser shell for extra cut and low-end mass, dry and focused attack
+- Holds tuning well through sustained hyperspeed blast beat passages
 
 **Steel (Pearl Reference — Inferno):**
 - Brighter, more cutting attack with maximum projection
@@ -82,7 +98,7 @@ The thin-gauge steel shell delivers excellent sensitivity and a bright, cutting 
 - Warmer, more complex crack with musical overtones
 - Best for symphonic black metal competing against orchestration
 
-**Verdict:** Hellhammer and Frost prove maple's dry, foundational crack still works at the highest level of black metal. Inferno and Daray show steel and brass both have a place when the mix gets more complex. Start with maple for the classic dry crack, steel for modern technicality, or brass for symphonic arrangements.
+**Verdict:** Hellhammer's maple SQ2 and Frost's bubinga Starclassic both prove a dense, dry-crack snare still works at the highest level of black metal. Inferno and Daray show steel and brass both have a place when the mix gets more complex. Start with maple for the classic dry crack, bubinga for extra density at hyperspeed tempos, steel for modern technicality, or brass for symphonic arrangements.
 
 ---
 
@@ -92,10 +108,10 @@ The thin-gauge steel shell delivers excellent sensitivity and a bright, cutting 
 Hellhammer of Mayhem uses a Sonor SQ2 14x5.5" Maple snare, tuned for the dry, cutting crack heard throughout "De Mysteriis Dom Sathanas."
 
 **What snare drum does Frost use?**
-Frost of Satyricon and 1349 uses a Sonor SQ2 14x6" Maple snare — a slightly deeper version of the same platform Hellhammer plays.
+Frost of Satyricon and 1349 uses a Tama Starclassic Bubinga 14x5.5" snare, matched to his Starclassic Bubinga kit — the dense bubinga shell adds cut and low-end mass for the hyperspeed blast beats Nordic black metal demands.
 
 **Maple or steel — which is better for black metal snares?**
-Both work at the highest level. Maple (Hellhammer, Frost) gives a warm, dry, foundational crack. Steel (Inferno) gives a brighter, more cutting attack for modern, technical styles.
+Both work at the highest level. Maple (Hellhammer) gives a warm, dry, foundational crack. Steel (Inferno) gives a brighter, more cutting attack for modern, technical styles.
 
 **What snare drum does Inferno use?**
 Inferno of Behemoth uses a Pearl Reference 14x5" Steel snare, chosen for its bright, cutting projection through Behemoth's dense modern arrangements.
@@ -104,7 +120,7 @@ Inferno of Behemoth uses a Pearl Reference 14x5" Steel snare, chosen for its bri
 No — a Pearl Export snare (€120-180) mirrors the steel-shell approach behind Inferno's Reference setup at true entry-level pricing.
 
 **What snare size is best for black metal?**
-14" diameter is universal across Hellhammer, Frost, Inferno, and Daray's setups. Depth varies from 5" (Inferno, for speed) to 6" (Frost, for body).
+14" diameter is universal across Hellhammer, Frost, Inferno, and Daray's setups. Depth varies from 5" (Inferno, for speed) to 5.5" (Hellhammer and Frost, for body) — 14x5.5" is the versatile middle ground most black metal drummers should start with.
 
 ---
 

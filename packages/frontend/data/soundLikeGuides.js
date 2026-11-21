@@ -11660,7 +11660,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
         finish: 'Various custom configurations',
         config: {
           kick: '22" Bass Drum (single kick)',
-          snare: '14" x 5.5" Sonor Designer Maple Snare',
+          snare: '14" x 5.5" Sonor SQ2 Beech Snare',
           toms: ['10" Rack Tom', '12" Rack Tom'],
           floorToms: ['14" Floor Tom', '16" Floor Tom']
         },
@@ -11669,10 +11669,10 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
       },
       snare: {
         brand: 'Sonor',
-        model: 'Sonor Designer Maple',
+        model: 'Sonor SQ2 Beech',
         size: '14" x 5.5"',
         shell: 'Maple',
-        description: "Ågren's Sonor Designer snare is a 14\" x 5.5\" maple shell, balanced for both whisper-quiet ghost notes and full-force rimshots.",
+        description: "Ågren's Sonor SQ2 Beech snare is a 14\" x 5.5\" maple shell, balanced for both whisper-quiet ghost notes and full-force rimshots.",
         alternative: "Pearl Reference or DW Performance Series in a similar depth for comparable sensitivity and body."
       },
       cymbals: {
@@ -11793,7 +11793,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
     faq: [
       {
         question: "What kit does Morgan Ågren use?",
-        answer: "Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier fully customizable shell pack built in Germany to individual specification. His configuration typically runs 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a single 22\" bass drum, paired with a Sonor Designer 14\"x5.5\" Maple snare."
+        answer: "Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier fully customizable shell pack built in Germany to individual specification. His configuration typically runs 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a single 22\" bass drum, paired with a Sonor SQ2 Beech 14\"x5.5\" Maple snare."
       },
       {
         question: "How do I develop Morgan Ågren's polyrhythm independence?",

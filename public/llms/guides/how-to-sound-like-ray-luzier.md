@@ -7,30 +7,30 @@
 
 ## Overview
 
-Ray Luzier (born Raymond Luzier, February 11, 1970, in Pittsburgh, Pennsylvania) became Korn's drummer in 2007, stepping into one of nu-metal's most identity-defined drum chairs after founding member David Silveria's departure. Rather than simply replacing Silveria, Luzier brought a decade of professional session and touring experience — David Lee Roth's band, the supergroup Army of Anyone alongside members of Filter and Stone Temple Pilots — that elevated Korn's rhythmic foundation without sacrificing the raw, hypnotic groove the band built its identity on.
+Ray Luzier (born Raymond Luzier, in 1970) became Korn's drummer in 2007, stepping into one of nu-metal's most identity-defined drum chairs after founding member David Silveria's departure. Rather than simply replacing Silveria, Luzier brought a decade of professional session and touring experience — David Lee Roth's band, the supergroup Army of Anyone alongside members of Filter and Stone Temple Pilots — that elevated Korn's rhythmic foundation without sacrificing the raw, hypnotic groove the band built its identity on.
 
 His studio debut, *Korn III: Remember Who You Are* (2010), announced the new era immediately: producer Ross Robinson pushed the band back toward its aggressive early-2000s roots, and Luzier's lock with bassist Fieldy's percussive, syncopated low end became the rhythmic backbone of every Korn album since. Across *The Path of Totality* (2011), *The Paradigm Shift* (2013), *The Serenity of Suffering* (2016), and *Requiem* (2022), Luzier has proven himself Korn's most consistent, adaptable drummer.
 
 ## Kit Setup
 
-Luzier plays a **Pearl Masters Maple Complete** kit:
+Luzier plays a **Pearl Reference Series** kit:
 
 - **Kick Drums:** 22" x 18" Bass Drums (x2, double bass configuration)
-- **Snare:** Pearl Reference 14" x 6.5" Brass
+- **Snare:** Pearl snare (specific model not independently verified)
 - **Rack Toms:** 10", 12", 13"
 - **Floor Toms:** 16", 18"
 - **Cymbals:** Sabian AAX Series — 14" Stage Hi-Hats, 18"/19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China
-- **Pedal:** Pearl Demon Drive Double Pedal (direct drive)
-- **Sticks:** Promark Ray Luzier Signature TX420X
-- **Heads:** Evans EMAD2 / EQ3 Resonant (kick), Remo Coated Emperor / Hazy Ambassador (snare), Evans EC2 Coated / G1 Clear (toms)
+- **Pedal:** DW 9002 Double Pedal
+- **Sticks:** Vic Firth Ray Luzier Signature
+- **Heads:** Not independently verified
 
 ## Tuning & Setup
 
 Luzier tunes for a full, punchy attack that locks with Fieldy's bass without losing definition in Korn's dense, processed mix:
 
-- **Kick:** Medium tension, moderate muffling (EMAD2 built-in dampening plus resonant-head port). Balances attack and body to lock with the bass without turning into an undefined boom.
-- **Snare:** Medium to medium-high tension, minimal muffling. The brass Reference shell's natural brightness cuts through the mix without needing heavy muffling.
-- **Toms:** Medium tension, light muffling. Evans EC2 Coated heads stay responsive and durable across Korn's touring schedule.
+- **Kick:** Medium tension, moderate muffling. Balances attack and body to lock with the bass without turning into an undefined boom.
+- **Snare:** Medium to medium-high tension, minimal muffling. A bright, cutting crack that comes through the mix without needing heavy muffling.
+- **Toms:** Medium tension, light muffling, for a responsive, durable feel across Korn's touring schedule.
 
 ## Technique Tips
 
@@ -48,12 +48,12 @@ Luzier's playing is built on a session musician's core discipline: serve the poc
 
 | Item | Luzier's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Pearl Masters Maple Complete | Pearl Export (~$750) |
-| Snare | Pearl Reference 14" x 6.5" Brass | Any 14" brass-shell snare, medium tuning |
+| Drum Kit | Pearl Reference Series | Pearl Export (~$750) |
+| Snare | Pearl (specific model not independently verified) | Any 14" metal-shell snare, medium tuning |
 | Cymbals | Sabian AAX Series | Sabian B8X Pack (~$200) |
-| Pedal | Pearl Demon Drive (direct drive) | Pearl P-2000C Eliminator chain-drive (~$130) |
-| Sticks | Promark Ray Luzier Signature TX420X | Promark American Classic 5B |
-| Heads | Evans EMAD2 / Remo Coated Emperor / Evans EC2 | Same, medium tuning |
+| Pedal | DW 9002 Double Pedal | Pearl P-2000C Eliminator chain-drive (~$130) |
+| Sticks | Vic Firth Ray Luzier Signature | Vic Firth American Classic 5B |
+| Heads | Not independently verified | Standard coated heads, medium tuning |
 
 **Starter budget path (~$1,000):** Pearl Export + Sabian B8X pack + Pearl P-2000C Eliminator double pedal. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/sabian](https://metalforge.io/brands/sabian).
 
@@ -71,10 +71,10 @@ Luzier's playing is built on a session musician's core discipline: serve the poc
 A: Ray Luzier replaced David Silveria as Korn's drummer. A veteran session and touring player — previously with David Lee Roth's band and the supergroup Army of Anyone — Luzier joined Korn in 2007 and made his studio debut on Korn III: Remember Who You Are (2010), which debuted at #7 on the US Billboard 200.
 
 **Q: What drum kit does Ray Luzier play?**  
-A: Ray Luzier plays a Pearl Masters Maple Complete kit with double 22" x 18" bass drums, a five-tom spread (10", 12", 13" racks and 16", 18" floor toms), and a Pearl Reference 14" x 6.5" brass snare. His cymbals are Sabian AAX — 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
+A: Ray Luzier plays a Pearl Reference Series kit with double 22" x 18" bass drums, a five-tom spread (10", 12", 13" racks and 16", 18" floor toms), and a Pearl snare (the specific model has not been independently verified). His cymbals are Sabian AAX — 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
 
 **Q: What pedal and sticks does Ray Luzier use?**  
-A: Luzier uses the Pearl Demon Drive direct-drive double pedal and his own signature Promark Ray Luzier TX420X sticks, which feature a nylon tip for consistent cymbal articulation.
+A: Luzier uses a DW 9002 double bass pedal and his own signature Vic Firth Ray Luzier sticks.
 
 **Q: What songs best showcase Ray Luzier's technique?**  
 A: "Oildale (Leave Me Alone)" from Korn III (2010) shows his raw studio debut, "Never Never" from The Paradigm Shift (2013) and "Rotting in Vain" from The Serenity of Suffering (2016) show his confident, locked-in groove, and "Start the Healing" from Requiem (2022) shows his more restrained, atmospheric playing.

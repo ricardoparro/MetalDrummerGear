@@ -13,14 +13,14 @@ What makes Yeung's speed sustainable rather than just impressive is that it's bu
 
 ## Kit Setup
 
-Yeung plays a **Pearl Reference Masters** kit with maple/mahogany hybrid shells:
+Yeung plays a **Tama Starclassic Bubinga** kit with bubinga wood shells:
 
 - **Kick Drums:** 22" x 18" Bass Drums (x2, double kick)
-- **Snare:** 14" x 6.5" Pearl Free-Floating / Sensitone Snare
+- **Snare:** 14" x 6.5" Tama S.L.P. Big Black Steel Snare
 - **Rack Toms:** 10", 12"
 - **Floor Toms:** 16", 18"
 - **Cymbals:** Sabian AAX/HHX Series — 14" AAX hi-hats, 16"/18" AAX crashes, 20" HHX ride, 18" AAX china
-- **Pedals:** DW 9002 Double Bass Pedal
+- **Pedals:** Tama Speed Cobra 910 Double Pedal
 - **Sticks:** Vic Firth 5B
 - **Heads:** Remo Powerstroke 3 (kick), Remo Coated Ambassador (snare), Remo Emperor Coated (toms)
 
@@ -48,14 +48,14 @@ Yeung's approach differs from power-based blasters in a fundamental way: he gene
 
 | Item | Yeung's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Pearl Reference Masters | Pearl Export (~$750) |
-| Snare | Pearl Free-Floating/Sensitone 14" x 6.5" | Any steel-shell snare, medium-bright tuning |
+| Drum Kit | Tama Starclassic Bubinga | Tama Imperialstar (~$750) |
+| Snare | Tama S.L.P. Big Black Steel 14" x 6.5" | Any steel-shell snare, medium-bright tuning |
 | Cymbals | Sabian AAX/HHX Series | Sabian SBR Pack + extra crash (~$200) |
-| Pedal | DW 9002 Double Bass Pedal | DW 3000 Double Pedal (~$150) |
+| Pedal | Tama Speed Cobra 910 Double Pedal | DW 3000 Double Pedal (~$150) |
 | Sticks | Vic Firth 5B | Promark 5B or Vater Fatback |
 | Kick Head | Remo Powerstroke 3 | Same, ported resonant |
 
-**Starter budget path (~$1,100):** Pearl Export + Sabian SBR pack + DW 3000 double pedal. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/sabian](https://metalforge.io/brands/sabian).
+**Starter budget path (~$1,100):** Tama Imperialstar + Sabian SBR pack + DW 3000 double pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/sabian](https://metalforge.io/brands/sabian).
 
 ## Practice Routine
 
@@ -74,7 +74,7 @@ A: Tim Yeung has drummed for Morbid Angel since the lead-up to Illud Divinum Ins
 A: Yeung's blast beats are documented in the 200–280 BPM range, among the fastest in death metal, built on relaxed, rebound-efficient technique rather than muscular power striking.
 
 **Q: What kit and cymbals does Tim Yeung use?**  
-A: Yeung plays a Pearl Reference Masters kit with maple/mahogany hybrid shells and a double 22" x 18" bass drum configuration. His cymbals are Sabian AAX and HHX series. He uses a DW 9002 double bass pedal and Vic Firth 5B sticks.
+A: Yeung plays a Tama Starclassic Bubinga kit with bubinga wood shells and a double 22" x 18" bass drum configuration. His cymbals are Sabian AAX and HHX series. He uses a Tama Speed Cobra 910 double bass pedal and Vic Firth 5B sticks.
 
 **Q: How to play blast beats at 280+ BPM like Tim Yeung?**  
 A: Start with the Relaxation-Under-Speed drill — play a blast at comfortable tempo while releasing tension, then increase tempo only once relaxed. Extreme speed comes from eliminating wasted motion, not hitting harder.

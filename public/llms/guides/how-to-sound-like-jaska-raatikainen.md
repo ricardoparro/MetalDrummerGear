@@ -7,19 +7,19 @@
 
 ## Overview
 
-Jaska Raatikainen (born July 18, 1979, in Espoo, Finland) was the drummer and co-founder of Children of Bodom — one of the most technically accomplished melodic death metal bands in history. From the band's formation in 1993 through their dissolution in 2019, Raatikainen was the rhythmic backbone behind landmark albums like "Follow the Reaper," "Hate Crew Deathroll," and "Blooddrunk" that defined Finnish melodic death metal. What distinguishes Raatikainen from pure extreme metal drummers is his deep musicality within a demanding technical context. Children of Bodom required a drummer who could synchronize precisely with Alexi Laiho's neoclassical guitar runs, support complex keyboard harmonies, and execute death metal blast beats — all within compositions where every element served the musical picture. His Pearl Masters Custom setup, Zildjian A series cymbals, and guitar-synchronized triplet technique are the tools behind Children of Bodom's iconic drum sound.
+Jaska Raatikainen (born July 18, 1979, in Lappeenranta, Finland) was the drummer and co-founder of Children of Bodom — one of the most technically accomplished melodic death metal bands in history. From the band's formation in 1993 through their dissolution in 2019, Raatikainen was the rhythmic backbone behind landmark albums like "Follow the Reaper," "Hate Crew Deathroll," and "Blooddrunk" that defined Finnish melodic death metal. What distinguishes Raatikainen from pure extreme metal drummers is his deep musicality within a demanding technical context. Children of Bodom required a drummer who could synchronize precisely with Alexi Laiho's neoclassical guitar runs, support complex keyboard harmonies, and execute death metal blast beats — all within compositions where every element served the musical picture. His Pearl Masters Premium Maple setup, Zildjian A Custom & K Custom cymbals, and guitar-synchronized triplet technique are the tools behind Children of Bodom's iconic drum sound.
 
 ## Kit Setup
 
-Jaska Raatikainen plays **Pearl Masters Custom** drums with a setup balancing melodic versatility and extreme metal power:
+Jaska Raatikainen plays **Pearl Masters Premium Maple** drums with a setup balancing melodic versatility and extreme metal power:
 
-- **Kick Drums:** 22" x 16" (x2) with Pearl Demon Drive Double Pedal
-- **Snare:** 14" x 6.5" Pearl Free-Floating Steel
+- **Kick Drums:** 22" x 16" (x2) with Pearl Eliminator Double Pedal
+- **Snare:** Pearl Masters 14x5.5" Maple
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 14", 16" x 16"
-- **Cymbals:** Zildjian A Series — bright, musically versatile, cuts through keyboard-heavy mixes
-- **Pedals:** Pearl Demon Drive Double Pedal (direct drive)
-- **Sticks:** Vic Firth 5B
+- **Cymbals:** Zildjian A Custom & K Custom Series — 14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride — bright, musically versatile, cuts through keyboard-heavy mixes
+- **Pedals:** Pearl Eliminator Double Pedal
+- **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
 
 ## Tuning & Setup
@@ -27,7 +27,7 @@ Jaska Raatikainen plays **Pearl Masters Custom** drums with a setup balancing me
 Raatikainen tunes for musical balance — drums must serve both aggressive metal elements and melodic keyboard lines. This means more musical tom intervals and slightly less extreme muffling than pure death metal:
 
 - **Kick:** Medium tension, moderate muffling — small pillow touching batter head only, ported resonant head. Preserves some warm sustain for low-end presence alongside keyboard bass lines, while ensuring definition at double bass tempos.
-- **Snare:** Medium-high tension, one Moongel (removable for live). Pearl Free-Floating Steel provides a bright, cutting crack that projects through keyboards and two guitars without fighting for space. Remove Moongel live — natural ring helps project without extra force.
+- **Snare:** Medium-high tension, one Moongel (removable for live). Pearl Masters 14x5.5" Maple provides a warm, cutting crack that projects through keyboards and two guitars without fighting for space. Remove Moongel live — natural ring helps project without extra force.
 - **Toms:** Medium tension tuned to musical intervals — rack toms a perfect fourth apart, floor toms a major third below lowest rack tom. Melodic tom intervals that harmonize with keyboard parts rather than pure attack-differentiation tuning.
 
 ## Technique Tips
@@ -46,11 +46,11 @@ Raatikainen plays **matched grip** with full arm strokes on accent beats and wri
 
 | Item | Raatikainen's Spec | Budget Alternative |
 |------|-------------------|-------------------|
-| Drum Kit | Pearl Masters Custom | Pearl Export Series (~$650) |
-| Snare | Pearl Free-Floating Steel 14" x 6.5" | Pearl Sensitone Steel 14" x 5" |
-| Cymbals | Zildjian A Series | Zildjian ZHT Set (~$250) |
-| Pedal | Pearl Demon Drive Double | Pearl P930 Double (~$150) |
-| Sticks | Vic Firth 5B | Promark 5B |
+| Drum Kit | Pearl Masters Premium Maple | Pearl Export Series (~$650) |
+| Snare | Pearl Masters 14x5.5" Maple | Pearl Masters Maple (~$400) |
+| Cymbals | Zildjian A Custom & K Custom | Zildjian ZHT Set (~$250) |
+| Pedal | Pearl Eliminator Double | Pearl P930 Double (~$150) |
+| Sticks | Vic Firth American Classic 5A | Promark 5A |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EMAD Clear |
 
 **Starter budget path (~$900):** Pearl Export + Zildjian ZHT + Pearl P930 Double. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
@@ -66,10 +66,10 @@ Raatikainen plays **matched grip** with full arm strokes on accent beats and wri
 ## FAQ
 
 **Q: What drum kit did Jaska Raatikainen use?**  
-A: Jaska Raatikainen was a Pearl endorser throughout Children of Bodom's career, playing Pearl Masters Custom drums with maple or maple-birch shells. His setup featured double 22" bass drums, rack toms at 10" x 8" and 12" x 9", and floor toms at 14" x 14" and 16" x 16". Pearl Masters Custom maple shells provided the warm attack that suited Children of Bodom's melodic production context.
+A: Jaska Raatikainen was a Pearl endorser throughout Children of Bodom's career, playing Pearl Masters Premium Maple drums with maple shells. His setup featured double 22" bass drums, rack toms at 10" x 8" and 12" x 9", and floor toms at 14" x 14" and 16" x 16". Pearl Masters Premium Maple shells provided the warm attack that suited Children of Bodom's melodic production context.
 
 **Q: What cymbals did Jaska Raatikainen use?**  
-A: Jaska Raatikainen used Zildjian A series cymbals — known for their bright, cutting, and musically versatile character. His setup included 14" A New Beat hi-hats, 17" and 18" A crashes, a 20" A Medium Ride, and an 18" A China. The A series' clear, defined response suited Children of Bodom's melodic production context where cymbals needed to cut through keyboards and two guitars.
+A: Jaska Raatikainen used Zildjian A Custom & K Custom Series cymbals — known for their bright, cutting, and musically versatile character. His setup included 14" A Custom hi-hats, 17" and 18" A Custom crashes, and a 20" K Custom Ride. The clear, defined response suited Children of Bodom's melodic production context where cymbals needed to cut through keyboards and two guitars.
 
 **Q: What is the guitar synchronization technique in Children of Bodom?**  
 A: Raatikainen's guitar synchronization involves building drum patterns — particularly triplet and 16th-note patterns — that mirror Alexi Laiho's guitar picking rhythms. The kick drum lands on the same triplet subdivisions as the guitar's string attacks, creating a locked, unified feel. This requires learning the guitar part before constructing the drum pattern, rather than playing standard beats over the composition.

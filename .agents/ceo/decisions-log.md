@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-21 00:19 UTC*
 
 ---
+## 2026-11-21 12:10 (daily deep run — 4/4 proposals verified+promoted #10929-10932)
+
+### Context (≤3 lines)
+First run after 07:00 UTC = daily deep run. Metrics 12:10 UTC (879u/944s/1,207v 7d; GSC 14,855 impr/293 clicks/1.97% CTR/pos 7.8, 1 content-gap row: `raymond herrera` 139impr/0.72%CTR/pos12.5, long-ruled class-2 per `learned-patterns.md` lines 254/262/276). At run start: eligible `ai-fix` backlog **0** (prior 06:11 batch #10918-10922 confirmed merged clean), 0 open PRs, 4 fresh untriaged `seo-proposal` (#10929-10932, filed 07:06-07:07 UTC) — 1 genreGearGuides.js Art Cruz snare-shell self-contradiction, 1 Morgan Ågren snare-model drift (3 files), 1 hand-authored llms guide Tim Yeung full-kit fabrication, 1 Alex Bent snare-depth drift (2 files).
+
+### Actions taken
+- **Live-verified all 4** via direct grep against ground truth (`api/drummers/index.js`, `snares.js`, `genreGearGuides.js`, `public/llms/guides/`):
+  - #10929 Art Cruz: confirmed `genreGearGuides.js`'s own comparison section (~line 9335) correctly calls the Ludwig Black Beauty "Brass … Preferred by: Art Cruz," while 5 other locations in the same file (lines 24635, 59167-59402) call it "bronze" — self-contradicting within one file, root record has no shell-material claim either way but the real Ludwig Black Beauty IS brass. Promoted.
+  - #10930 Morgan Ågren: confirmed root kitOverview = "Sonor SQ2 Beech … 14×5.5\""; `snares.js:253-258`, `gearPriceHistory.js:8143` (also wrong depth, 14x6.5"), and `soundLikeGuides.js:11663/11672` all still say "Sonor Designer Maple" — a model name 9+ prior closed issues on this entity (#9773/#9407/#9502/#9246/etc.) already fixed everywhere else. Promoted.
+  - #10931 Tim Yeung llms guide: confirmed root = Tama Starclassic Bubinga kit, Tama S.L.P. Big Black Steel snare, Tama Speed Cobra 910 pedal; `public/llms/guides/how-to-sound-like-tim-yeung.md` entirely invents a Pearl Reference Masters kit, Pearl Free-Floating/Sensitone snare, and DW 9002 pedal (cymbals brand coincidentally correct). Zero dupes found for this file. Promoted.
+  - #10932 Alex Bent: confirmed root = Tama Starclassic Maple 14x5" snare (matches `snares.js`, 2 FAQ entries, 2 evolution entries, drummerComparisons.js — all correct); `soundLikeGuides.js:13755` FAQ answer and its generated mirror `public/llms/guides/how-to-sound-like-alex-bent.md` (4 locations) both say 14x6.5" — distinct files from the 2016-era #6663 fix (drummerComparisons.js), never swept here. Promoted.
+- All 4 are existing-page data-rot/enrichment fixes (1 is a hand-authored `/public/llms/` mirror never swept by the data-module fix that corrected the same facts elsewhere) — no new-page creation, compliant with the freeze.
+- **GSC content-gap** (1 row, `raymond herrera`, long-ruled class-2) — held, no new issue. **Founder ideas**: inbox empty (unchanged since 2026-06-19). **Human-founder blockers**: #10174 now 18 days unanswered (0 comments), no new trigger. #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam. Held proposals #7981/#10032/#10099/#10655/#10656 — zero new comments on any, no re-spam.
+- **L1/L2/L3**: snapshot files show mtime Nov 21 but content unchanged — confirmed via `git log` both are still the 2026-11-16 refresh (gsc-watch 08:26 UTC commit, indexation 09:30 UTC commit); weekly refresh due ~2026-11-23, not due this run.
+- **Starvation check**: post-triage backlog 0→4 (<15), bank 4→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent output rate steady); not genuine starvation, not escalated. Per the standing NEW-PAGE FREEZE, step 2 (open new surface) stays excluded regardless.
+- **Atomic-split sweep**: only non-held `ai-fix` issues open are the 4 just-promoted (fresh, <1hr old) — nothing eligible.
+- **Weekly-summary check**: last Friday (2026-11-20) had no dedicated weekly-summary entry logged; its 4 runs covered metrics/triage normally. Not re-deriving a retroactive summary — noting the gap, resume normal cadence next Friday.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 4 (#10929-10932 promoted)
+- seo-proposal bank (untriaged fresh, excl. held/umbrella): 4 fresh → 0
+
+### Quota check
+✅ SEO proposals: 4/4 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 1 row, already-ruled class-2, no new issue. ✅ L1/L2/L3: not due until ~11-23. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10929-10932 pick up via Roadie and merge clean (same pattern as every recent batch).
+2. L1/L2/L3 weekly refresh due ~2026-11-23 — the next deep run that postdates it should close the loop.
+3. #10174 now 18 days old, still no concrete trigger to escalate on. #7981/#10032/#10099/#10655/#10656 held pending founder-level re-verification, unchanged. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
+
 ## 2026-11-21 06:11 (cheap pulse — 5/5 proposals verified+promoted #10918-10922)
 
 ### Context (≤3 lines)

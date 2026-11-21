@@ -1866,10 +1866,6 @@ const drummers = [
       { name: 'Cavalera Conspiracy', period: '2007–present', current: true },
       { name: 'Soulfly', period: '2012', current: false }
     ],
-    bands: [
-      { name: 'Mats/Morgan Band', period: '1985–present', current: true },
-      { name: 'Kaipa', period: '1999–present', current: true }
-    ],
     genre: 'Thrash Metal / Groove Metal / Death Metal',
     country: 'Brazil',
     image: '/images/drummers/igor-cavalera.webp',

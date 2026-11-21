@@ -24632,7 +24632,7 @@ That sensitivity matters when metalcore switches between a weighted breakdown hi
 
           description: `Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig kit, delivering the weighted, punchy low end that anchors the band's breakdown-heavy riffing without losing focus at higher tempo.
 
-The same Ludwig setup is anchored by Cruz's signature 14x6.5" Black Beauty snare, whose dense bronze shell gives the kit's crack a cutting edge that holds up through Lamb of God's faster, groove-driven sections.`,
+The same Ludwig setup is anchored by Cruz's signature 14x6.5" Black Beauty snare, whose dense brass shell gives the kit's crack a cutting edge that holds up through Lamb of God's faster, groove-driven sections.`,
 
           pros: [
             "Art Cruz's Lamb of God bass drum - proven on breakdown-heavy groove-metalcore",
@@ -59164,15 +59164,15 @@ The kit's custom-build flexibility lets technical, djent-adjacent metalcore drum
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€2800-4500 (shell pack)",
           tier: "premium",
-          material: "Maple shells / bronze Black Beauty snare",
+          material: "Maple shells / brass Black Beauty snare",
 
-          description: `Art Cruz drives Lamb of God's explosive, groove-influenced metalcore hybrid attack on a Ludwig kit, anchored by his signature 14x6.5" Black Beauty snare for a sharp, cutting crack. The bronze snare's dense shell adds distinctive projection over the maple shell pack — exactly the breakdown heft Cruz needs behind Lamb of God's self-titled 2020 album and "Omens."
+          description: `Art Cruz drives Lamb of God's explosive, groove-influenced metalcore hybrid attack on a Ludwig kit, anchored by his signature 14x6.5" Black Beauty snare for a sharp, cutting crack. The brass snare's dense shell adds distinctive projection over the maple shell pack — exactly the breakdown heft Cruz needs behind Lamb of God's self-titled 2020 album and "Omens."
 
 Ludwig's decades of heritage engineering give the kit reliable tuning stability across relentless touring, while the Black Beauty's added density delivers punch that stands out even in dense, downtuned mixes.`,
 
           pros: [
             "Art Cruz's Lamb of God setup — modern groove-metalcore hybrid power",
-            "Anchored by the iconic bronze Ludwig Black Beauty snare",
+            "Anchored by the iconic brass Ludwig Black Beauty snare",
             "Paired naturally with a full maple Ludwig shell pack",
             "Reliable tuning stability for heavy touring",
             "Distinctive punch for breakdown-heavy sections"
@@ -59323,7 +59323,7 @@ For developing metalcore drummers building their first rig, the Imperialstar's i
 - Slightly less durable than heavier shells
 - The modern technical metalcore standard
 
-**Maple/Oak Hybrid (Ludwig Black Beauty, Art Cruz's choice):**
+**Brass (Ludwig Black Beauty, Art Cruz's choice):**
 - Extra low-end weight and projection for breakdowns
 - More durable under heavy, repeated playing
 - Slightly less sensitive for the fastest technical passages
@@ -59399,7 +59399,7 @@ For developing metalcore drummers building their first rig, the Imperialstar's i
       },
       {
         question: "What drum kit does Art Cruz use?",
-        answer: "Art Cruz of Lamb of God plays a Ludwig kit anchored by his signature 14x6.5\" Ludwig Black Beauty snare. The bronze Black Beauty's dense shell delivers the low-end weight and projection needed for Lamb of God's modern groove-metalcore hybrid sound on their self-titled 2020 album and \"Omens.\""
+        answer: "Art Cruz of Lamb of God plays a Ludwig kit anchored by his signature 14x6.5\" Ludwig Black Beauty snare. The brass Black Beauty's dense shell delivers the low-end weight and projection needed for Lamb of God's modern groove-metalcore hybrid sound on their self-titled 2020 album and \"Omens.\""
       },
       {
         question: "What drum kit does Travis Orbin use?",

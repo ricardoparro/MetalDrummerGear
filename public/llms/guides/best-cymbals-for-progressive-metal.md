@@ -4,7 +4,7 @@
 
 ## Who This Guide Is For
 
-Progressive metal drummers who want to know which cymbals handle the genre's extreme dynamic range — from acoustic-adjacent passages to full technical death metal density — and why Blake Richardson (BTBAM), Brann Dailor (Mastodon), and Matt Halpern (Periphery) each choose different lines. Covers Meinl Byzance vs Zildjian K Dark with clear recommendations from budget to pro.
+Progressive metal drummers who want to know which cymbals handle the genre's extreme dynamic range — from acoustic-adjacent passages to full technical death metal density — and why Blake Richardson (BTBAM), Brann Dailor (Mastodon), and Matt Halpern (Periphery) each choose different lines. Covers Meinl Byzance vs Zildjian K Dark vs Sabian HHX Evolution with clear recommendations from budget to pro.
 
 ---
 
@@ -12,7 +12,7 @@ Progressive metal drummers who want to know which cymbals handle the genre's ext
 
 Progressive metal places uniquely complex demands on cymbal selection. Unlike death metal (pure speed and endurance) or thrash (pure power and aggression), prog metal requires cymbals that can perform across extreme dynamic ranges — whisper-soft jazz-inflected passages and wall-of-sound polyrhythmic attacks, often within the same song.
 
-Blake Richardson of Between the Buried and Me — one of prog metal's most inventive drummers — trusts Meinl Byzance cymbals for their complex, dark tone that handles BTBAM's dramatic range from acoustic-adjacent passages to full technical death metal density. Brann Dailor (Mastodon) chose Zildjian K Dark cymbals to anchor Mastodon's sludge-prog heaviness while allowing his jazz-influenced melodic work to breathe. Matt Halpern (Periphery) relies on Meinl cymbals for the precise, controlled response that Periphery's djent-influenced prog demands.
+Blake Richardson of Between the Buried and Me — one of prog metal's most inventive drummers — plays a Sabian setup (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride) for the complex, musical tone that handles BTBAM's dramatic range from acoustic-adjacent passages to full technical death metal density. He played Meinl Byzance Extra Dry cymbals from his 2006 BTBAM signing through 2018, switching to Sabian for *Automata I & II*. Brann Dailor (Mastodon) chose Zildjian K Dark cymbals to anchor Mastodon's sludge-prog heaviness while allowing his jazz-influenced melodic work to breathe. Matt Halpern (Periphery) relies on Meinl cymbals for the precise, controlled response that Periphery's djent-influenced prog demands.
 
 ---
 
@@ -25,12 +25,11 @@ Blake Richardson of Between the Buried and Me — one of prog metal's most inven
 - **Best for:** Technical prog metal; djent-influenced prog; wide dynamic range
 
 **Who uses it:**
-- **Blake Richardson** ([/drummer/blake-richardson](https://metalforge.io/drummer/blake-richardson)) — Meinl Byzance Dark as primary setup; BTBAM's prog metal extremity from acoustic passages to brutal density
-- **Matt Halpern** ([/drummer/matt-halpern](https://metalforge.io/drummer/matt-halpern)) — Meinl endorser; Byzance Dark for Periphery's djent/prog precision
+- **Matt Halpern** ([/drummer/matt-halpern](https://metalforge.io/drummer/matt-halpern)) — Meinl endorser; Byzance Dark (including his signature 21" Byzance Dark Double Down Crash-Ride) for Periphery's djent/prog precision
 
-The Meinl Byzance Dark series is the primary choice for two of progressive metal's most influential drummers. Meinl's Turkish-tradition casting process uses genuine B20 bronze (80% copper, 20% tin) with hand hammering that creates complex overtone stacks. The dark finish eliminates the brilliant sheen, giving the cymbals raw, complex character that sits better under dense prog metal arrangements than brighter alternatives.
+The Meinl Byzance Dark series is the primary choice for one of progressive metal's most influential drummers. Meinl's Turkish-tradition casting process uses genuine B20 bronze (80% copper, 20% tin) with hand hammering that creates complex overtone stacks. The dark finish eliminates the brilliant sheen, giving the cymbals raw, complex character that sits better under dense prog metal arrangements than brighter alternatives.
 
-Blake Richardson's BTBAM drumming spans acoustic jazz passages and brutal death metal density — the Byzance Dark's wide dynamic range handles both extremes with authority.
+Halpern's djent-influenced Periphery drumming — which demands precisely controlled response across dense polyrhythmic arrangements — relies on exactly this character.
 
 ---
 
@@ -49,16 +48,16 @@ The K Dark's complex B20 construction with hand-hammering produces a sound that'
 
 ---
 
-### 3. Meinl Byzance Vintage — Best Expressive Choice
+### 3. Sabian HHX Evolution — Best Expressive Choice
 
-- **Alloy:** B20 Bronze (Vintage Dry)
+- **Alloy:** B20 Bronze
 - **Price range:** €220–€550 per cymbal
 - **Best for:** Expressive prog metal; jazz-metal fusion; complex dynamic passages
 
 **Who uses it:**
-- **Blake Richardson** ([/drummer/blake-richardson](https://metalforge.io/drummer/blake-richardson)) — Byzance Vintage elements in BTBAM setup for expressive passages requiring unique tonal character
+- **Blake Richardson** ([/drummer/blake-richardson](https://metalforge.io/drummer/blake-richardson)) — switched to Sabian in 2018 for *Automata I & II*; current setup is 14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime
 
-The Meinl Byzance Vintage delivers the most expressive character in prog metal cymbal selection. The vintage dry finish and irregular hammering produce cymbals with extremely complex, almost trashy character that adds texture to intricate musical passages. These cymbals respond differently to different stick types and angles — rewarding expressive playing with tonal variety that simpler cymbals can't match.
+The Sabian HHX Evolution series delivers the most expressive character in Blake Richardson's current rig. Hand-hammered B20 bronze produces complex, musical overtones that respond differently depending on stick type and angle — rewarding expressive playing with tonal variety that suits BTBAM's dramatic swings from acoustic-adjacent passages to full technical death metal density. Richardson played Meinl Byzance Extra Dry cymbals from his 2006 signing through 2018 before this switch.
 
 ---
 
@@ -96,18 +95,20 @@ Meinl's entry-level dark option brings the dark aesthetic to budget pricing. B8 
 
 ## Meinl Byzance Dark vs Zildjian K Dark for Progressive Metal
 
-**Meinl Byzance Dark (Blake Richardson, Matt Halpern):**
+**Meinl Byzance Dark (Matt Halpern):**
 - Darker, drier character — faster attack and quick decay
 - Better for technical patterns and extreme dynamic shifts
 - Turkish-tradition hand hammering
-- Best for: Technical prog, djent-influenced prog, BTBAM/Periphery styles
+- Best for: Technical prog, djent-influenced prog, Periphery styles
 
 **Zildjian K Dark (Brann Dailor):**
 - Slightly warmer — more sustain and musical wash
 - Better for melodic and jazz-influenced passages
 - Best for: Sludge-prog, melodic prog, Mastodon/Tool styles
 
-**Recommendation:** BTBAM/Periphery-style prog → Meinl Byzance Dark. Mastodon/Tool-style prog → Zildjian K Dark. Play both — individual variation in hand-hammered B20 is significant.
+Not every top prog metal drummer fits neatly into this split — Blake Richardson's own BTBAM setup takes a third path, Sabian HHX Evolution/AAX, after switching away from Meinl Byzance in 2018.
+
+**Recommendation:** Periphery-style prog → Meinl Byzance Dark. Mastodon/Tool-style prog → Zildjian K Dark. BTBAM-style genre-hopping prog → Sabian HHX Evolution. Play more than one before deciding — individual variation in hand-hammered B20 is significant.
 
 ---
 
@@ -127,7 +128,7 @@ Blake Richardson runs multiple crash sizes and effects cymbals to maximize accen
 ## FAQ
 
 **What cymbals does Blake Richardson use?**
-Blake Richardson of Between the Buried and Me uses Meinl Byzance cymbals, primarily from the Dark and Vintage lines. The Byzance Dark's complex, hand-hammered B20 bronze delivers the broad dynamic range BTBAM's music demands — from soft acoustic-adjacent passages to full brutal technical death metal density.
+Blake Richardson of Between the Buried and Me plays a Sabian setup: 14" HHX Evolution Hi-Hats, an 18" HHX Evolution Crash, 17" and 21" AAX Holy Chinas, a 21" HH Raw Bell Dry Ride, and a 10" HH Duo Splash plus 9" Radia Cup Chime. He played Meinl Byzance Extra Dry cymbals from his 2006 BTBAM signing through 2018, switching to the current Sabian rig for *Automata I & II*.
 
 **What cymbals does Brann Dailor use?**
 Brann Dailor of Mastodon uses Zildjian K Dark cymbals. The K Dark's dark, complex B20 tone anchors Mastodon's sludge-prog heaviness while giving Dailor's jazz-influenced melodic playing room to breathe. His GRAMMY-winning drumming on "Crack the Skye" demonstrates the K Dark's versatility in progressive metal contexts.
@@ -136,7 +137,7 @@ Brann Dailor of Mastodon uses Zildjian K Dark cymbals. The K Dark's dark, comple
 Matt Halpern of Periphery is a Meinl endorser using Byzance cymbals, primarily the Dark and Vintage lines. Halpern's djent-influenced prog metal requires precisely controlled cymbal response — the Byzance Dark's fast attack and controlled decay work well within Periphery's technically demanding arrangements.
 
 **Are Meinl or Zildjian cymbals better for progressive metal?**
-Both are excellent — the choice depends on subgenre. Meinl Byzance Dark suits technical prog metal and djent-influenced prog: darker, drier, faster attack (Blake Richardson, Matt Halpern). Zildjian K Dark suits melodic prog and sludge-prog: warmer with more sustain (Brann Dailor). Play both before deciding.
+Both are excellent — the choice depends on subgenre. Meinl Byzance Dark suits technical prog metal and djent-influenced prog: darker, drier, faster attack (Matt Halpern). Zildjian K Dark suits melodic prog and sludge-prog: warmer with more sustain (Brann Dailor). Blake Richardson's BTBAM rig takes a third path entirely — Sabian HHX Evolution/AAX, since switching away from Meinl in 2018. Play more than one before deciding.
 
 **What size cymbals for progressive metal?**
 Prog metal typically uses larger crashes (17"–18") for more tonal complexity than death metal's 16" focus. A 20"–22" ride provides definition and bell clarity for complex ride patterns. 14" hi-hats are standard. Dailor and Richardson use multiple crash sizes for dramatic dynamic variety.

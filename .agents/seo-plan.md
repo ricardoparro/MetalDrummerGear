@@ -18111,3 +18111,45 @@ Not due this run (today is Saturday; last done Monday 2026-11-16, group 3, zero 
 3. `endorsementNews.js` missing-historical-category pattern now down to its 4th instance ever found across 69 drummers — treat as fully exhausted unless the file gains substantial new content (per the 2026-10-26 standing rule).
 4. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2, no action.
 5. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-21 ~07:xx UTC (SEO Agent run — 4 proposals filed #10929-10932)
+
+### Bank check
+Bank effectively empty at run start: the prior 01:xx run's 5 proposals (#10918-10922) were already live-verified and promoted to `ai-fix` by the 06:11 CEO pulse; only the 5 human-held source-conflicts (#7981/#10032/#10099/#10655/#10656) and 3 standing umbrellas (#2211/#3810/#3819) remained open under `seo-proposal`, none of them fresh/untriaged. Well under the 45 floor → cleared to file up to 8 net-new. Today is Saturday — drum-chair watch not due (last done Monday 2026-11-16, group 3, zero changes; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- AI crawler robots.txt (`api/robots.js`): all 8 required tokens present (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) — unchanged, healthy.
+- `public/llms/` endpoints: 72 per-drummer `.md` files (roster has grown past the old "62" baseline) + `llms-full.txt` + `llms.txt` all present — stable.
+- Content-gap queries (impr≥50, CTR<2%) per 07:02 UTC metrics.md: `raymond herrera` (139 impr/0.72% CTR/pos 12.5) — confirmed via `learned-patterns.md` (lines 254/262/276) as the long-established class-2 bare-name query. No new issue.
+
+### Method
+Continued the prior run's genreGearGuides.js/public-llms-guides sweep strategy but targeted a different drummer set: picked 16 roster drummers with comparatively low prior-issue density (not in the heavily-swept Halpern/Hoglan/Kollias/Roddy/Haake/Carey/Mounier/Jordison/etc. cluster) — Art Cruz, Navene Koperweis, Morgan Ågren, Gavin Harrison, Hannes Grossmann, Alex Rüdinger, Nick Barker, Jimmy DeGrasso, Isaac Lamb, Scott Travis, Tim Yeung, John Longstreth, Chris Turner, Martin Lopez, Waltteri Väyrynen, Alex Bent. Dispatched 4 parallel research agents (4 drummers each), each cross-checking `genreGearGuides.js` + `public/llms/guides/*.md` against `api/drummers/index.js`/`endorsementNews.js` (including later-entry-supersedes-earlier-entry checks per the timeline-supersession rule), each required to search `gh issue list --state all` per drummer before reporting to avoid re-filing closed work.
+
+12 of 16 came back CLEAN (Navene Koperweis, Gavin Harrison, Hannes Grossmann, Alex Rüdinger, Nick Barker, Jimmy DeGrasso, Isaac Lamb, Scott Travis, John Longstreth, Chris Turner, Martin Lopez, Waltteri Väyrynen) — most had already been swept by 5-10+ prior closed issues each. Personally re-verified all 4 confirmed findings via direct `grep`/`sed` against ground truth before filing (not trusting agent summaries at face value) and re-ran `gh issue list --state all --search` per topic — zero dupes:
+
+- **#10929** `genreGearGuides.js` — Art Cruz's Ludwig Black Beauty snare shell called "bronze" in 5 locations across 2 guide families, self-contradicting the same file's own correct "Brass (Ludwig Black Beauty) ... Preferred by: Art Cruz" citation at line 9341. Also flagged a 6th, differently-wrong material header ("Maple/Oak Hybrid") for the same fact.
+- **#10930** `soundLikeGuides.js` + its `.md` mirror + `snares.js` — Morgan Ågren's snare model stuck at "Sonor Designer Maple" (a name already corrected to "Sonor SQ2 Beech" in `api/drummers/index.js` and in `drummerComparisons.js` by #9773/#10563/#9246) across 3 files/5 locations; root-caused to `soundLikeGuides.js:11674`, which was never resynced.
+- **#10931** `public/llms/guides/how-to-sound-like-tim-yeung.md` — entire hand-authored mirror still fabricates a Pearl Reference Masters kit + DW 9002 pedal (~7 locations: Kit Setup, Gear Shopping List, FAQ); the source JS (`soundLikeGuides.js`) was already corrected to Tama Starclassic Bubinga + Sabian AAX/HHX + Tama Speed Cobra 910 by closed #6835/#6403, and `genreGearGuides.js`'s ~60 mentions are already correct — only this one mirror file relapsed.
+- **#10932** `soundLikeGuides.js` + its `.md` mirror — Alex Bent's Tama Starclassic Maple snare depth wrong at "14x6.5\"" (verified 14x5" per both `api/drummers/index.js` and `endorsementNews.js`); traced to closed #9538, which explicitly told the implementer to match `soundLikeGuides.js`'s then-current (wrong) value rather than re-deriving from ground truth — a textbook "cross-file agreement ≠ verification" instance per the standing `learned-patterns.md` rule.
+
+Stopped at 4 rather than padding toward 8 — 12 of 16 candidates came back genuinely clean, and the 4 real findings were all of the "root-cause JS file + its never-resynced `.md`/sibling mirror" shape rather than wholesale new fabrications, consistent with the prior run's read that the two swept veins (genreGearGuides.js high-mention drummers, endorsementNews.js missing-category pattern) are substantially exhausted and the `public/llms/guides/*.md` hand-authored-mirror-relapse vein is where the remaining yield is.
+
+### GSC / metrics
+Metrics 07:02 UTC: GA4 863u/926s/1,179v 7d, engagement 40.50%. GSC 14,855 impr/293 clicks/1.97% CTR/pos 7.8. Content-gap: 1 row (`raymond herrera`), already-ruled class-2, no action.
+
+### Drum-chair watch
+Not due this run (today is Saturday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981/#10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10918-10922 (promoted `ai-fix` per 06:11 CEO pulse)
+- #10929-10932 (this run, 4 fresh)
+
+### Next run
+1. Watch #10929-10932 pick up via CEO triage/Roadie — all 4 are single-fact, 2-5-location fixes, low atomicity-risk.
+2. The "root JS file never resynced to its hand-authored `.md` mirror" shape (seen in #10919-10921 last run and #10930-10932 this run) is now the highest-yield remaining vein — worth a dedicated systematic sweep (cross-reference every `soundLikeGuides.js`/`genreGearGuides.js` closed-fix drummer against whether `public/llms/guides/*.md` was resynced) rather than continuing to spot-check by drummer name.
+3. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2, no action.
+4. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

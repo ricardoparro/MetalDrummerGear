@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-21 06:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-21 07:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 861 |
-| Sessions | 924 |
-| Page views | 1,177 |
-| Engagement rate | 40.48% |
+| Active users | 863 |
+| Sessions | 926 |
+| Page views | 1,179 |
+| Engagement rate | 40.50% |
 | Avg session (s) | 148 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /bpm | 50 | 50 |
+| /bpm | 51 | 51 |
 | / | 23 | 21 |
 | /drummer/eloy-casagrande | 22 | 16 |
 | /drummers | 14 | 10 |
@@ -31,15 +31,15 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 516 | 516 |
-| Organic Search | 405 | 342 |
+| Direct | 517 | 517 |
+| Organic Search | 406 | 343 |
 | Unassigned | 26 | 26 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 319 | 291 |
-| Singapore | 117 | 117 |
+| United States | 320 | 292 |
+| Singapore | 118 | 118 |
 | Brazil | 53 | 52 |
 | United Kingdom | 37 | 31 |
 | Germany | 27 | 27 |
@@ -52,43 +52,43 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 12,345 |
-| Clicks | 243 |
+| Impressions | 14,855 |
+| Clicks | 293 |
 | CTR | 1.97% |
-| Avg position | 7.9 |
+| Avg position | 7.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| jaska raatikainen drum set | 10 | 3 | 30.00% | 1.0 |
+| jaska raatikainen drum set | 11 | 3 | 27.27% | 1.0 |
 | best drum kits for metal | 4 | 2 | 50.00% | 3.5 |
 | joey jordison 1999 drum kit | 3 | 2 | 66.67% | 1.0 |
 | best china cymbals for metal | 3 | 1 | 33.33% | 3.3 |
 | best death metal drummers of all time | 7 | 1 | 14.29% | 4.7 |
-| best extreme metal drummers | 3 | 1 | 33.33% | 3.3 |
-| bill ward drum kit | 15 | 1 | 6.67% | 4.4 |
+| best extreme metal drummers | 4 | 1 | 25.00% | 2.8 |
+| bill ward drum kit | 19 | 1 | 5.26% | 4.6 |
 | bill ward drum setup 1970 | 2 | 1 | 50.00% | 2.0 |
 | bill ward drumset | 2 | 1 | 50.00% | 5.0 |
-| death metal drummers | 5 | 1 | 20.00% | 7.0 |
+| death metal drummers | 6 | 1 | 16.67% | 7.3 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 4,169 | 87 | 2.09% | 7.9 |
-| gbr | 717 | 15 | 2.09% | 8.2 |
-| deu | 405 | 13 | 3.21% | 6.7 |
-| fra | 231 | 13 | 5.63% | 6.9 |
-| can | 613 | 12 | 1.96% | 7.4 |
-| bra | 511 | 9 | 1.76% | 9.8 |
-| pol | 224 | 9 | 4.02% | 5.8 |
-| aus | 479 | 8 | 1.67% | 6.6 |
-| fin | 174 | 7 | 4.02% | 6.0 |
-| ita | 207 | 6 | 2.90% | 7.0 |
+| usa | 5,100 | 95 | 1.86% | 7.9 |
+| gbr | 862 | 18 | 2.09% | 7.8 |
+| deu | 480 | 16 | 3.33% | 6.8 |
+| can | 720 | 15 | 2.08% | 7.3 |
+| fra | 277 | 15 | 5.42% | 6.9 |
+| pol | 264 | 15 | 5.68% | 5.9 |
+| bra | 612 | 9 | 1.47% | 9.8 |
+| fin | 211 | 9 | 4.27% | 5.9 |
+| aus | 552 | 8 | 1.45% | 6.6 |
+| ita | 252 | 8 | 3.17% | 6.8 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| raymond herrera | 117 | 0.85% | 12.6 | open issue to answer better |
+| raymond herrera | 139 | 0.72% | 12.5 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

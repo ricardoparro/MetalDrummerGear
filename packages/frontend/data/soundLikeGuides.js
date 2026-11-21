@@ -13614,7 +13614,7 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
         finish: 'Matte Black',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" TAMA Starclassic Maple Snare',
+          snare: '14" x 5" TAMA Starclassic Maple Snare',
           toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -13623,8 +13623,8 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
       },
       snare: {
         brand: 'TAMA',
-        model: 'TAMA Starclassic Maple 14" x 6.5"',
-        size: '14" x 6.5"',
+        model: 'TAMA Starclassic Maple 14" x 5"',
+        size: '14" x 5"',
         shell: 'Maple',
         description: "The maple shell delivers a full, cutting crack with enough body to anchor both blast beat sections and Trivium's more melodic, mid-tempo passages.",
         alternative: "TAMA Superstar Maple or Pearl Masters Maple for similar shell tone"

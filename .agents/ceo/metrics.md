@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-21 01:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-21 06:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 826 |
-| Sessions | 886 |
-| Page views | 1,139 |
-| Engagement rate | 41.53% |
-| Avg session (s) | 152 |
+| Active users | 861 |
+| Sessions | 924 |
+| Page views | 1,177 |
+| Engagement rate | 40.48% |
+| Avg session (s) | 148 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /bpm | 35 | 35 |
+| /bpm | 50 | 50 |
 | / | 23 | 21 |
 | /drummer/eloy-casagrande | 22 | 16 |
 | /drummers | 14 | 10 |
@@ -31,21 +31,21 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 488 | 488 |
-| Organic Search | 395 | 335 |
-| Unassigned | 16 | 16 |
+| Direct | 516 | 516 |
+| Organic Search | 405 | 342 |
+| Unassigned | 26 | 26 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 312 | 285 |
-| Singapore | 92 | 92 |
+| United States | 319 | 291 |
+| Singapore | 117 | 117 |
 | Brazil | 53 | 52 |
-| United Kingdom | 36 | 31 |
-| Germany | 26 | 26 |
+| United Kingdom | 37 | 31 |
+| Germany | 27 | 27 |
 | France | 24 | 20 |
 | Colombia | 20 | 20 |
-| Australia | 18 | 15 |
+| Australia | 19 | 16 |
 | Vietnam | 18 | 18 |
 | Canada | 16 | 15 |
 

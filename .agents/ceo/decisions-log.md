@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-21 00:19 UTC*
 
 ---
+## 2026-11-21 06:11 (cheap pulse — 5/5 proposals verified+promoted #10918-10922)
+
+### Context (≤3 lines)
+Hourly pulse, before the 07:00 UTC deep-run threshold. Metrics 06:11 UTC (861u/924s/1,177v 7d; GSC 12,345 impr/243 clicks/1.97% CTR/pos 7.9, 1 content-gap row: `raymond herrera`, already-ruled class-2 per `learned-patterns.md` lines 254/262/276). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 5 fresh untriaged `seo-proposal` (#10918-10922, filed 01:14-01:15 UTC 11-21) — 1 genreGearGuides.js Roddy ride-cymbal fabrication (2 guide-family clusters), 1 hand-authored llms guide Haake/Halpern kit fabrication, 1 hand-authored llms guide Richardson stale-brand (Meinl→Sabian), 1 hand-authored llms guide Frost snare fabrication, 1 endorsementNews.js Reinert missing-category-entry (additive).
+
+### Actions taken
+- **Live-verified all 5** via direct grep against ground truth (`api/drummers/index.js`, `endorsementNews.js`):
+  - #10918 Derek Roddy ride: confirmed root `:2578` gear.cymbals = "21\" Mb20 Heavy Ride"; `genreGearGuides.js` has 20 "Raw Bell Dark" hits + 51 Roddy-paired fabricated-ride/hammered hits across the two cited clusters. Promoted.
+  - #10919 Haake/Halpern hand-authored mirror: confirmed root Haake = Sonor SQ2 Heavy Beech/Sonor signature snare, Halpern = Pearl Reference Series; `best-drum-kits-for-djent.md` has 14 TAMA Starclassic/Pearl Free-Floating/Reference-Pure hits never swept by closed #6572/#9489 (which only touched `genreGearGuides.js`). Promoted.
+  - #10920 Richardson stale brand: confirmed root `:2097/:2113` — switched Meinl→Sabian in 2018, verified current gear is Sabian HHX/AAX; `best-cymbals-for-progressive-metal.md` has 12 "Meinl Byzance" hits framing it as current. Promoted.
+  - #10921 Frost snare: confirmed root `:2663` snare = Tama Starclassic Bubinga 14x5.5"; `best-snare-drums-for-black-metal.md` has 9 Sonor hits incorrectly pairing Frost with Hellhammer's real Sonor SQ2 Maple. Promoted.
+  - #10922 Reinert CYMBALS gap: confirmed `endorsementNews.js:3793-3842` — DRUMS/STICKS/HARDWARE each have a 1991 SIGNED entry, CYMBALS jumps straight to 2008 despite the 1991 DRUMS note explicitly naming "Zildjian A series." Purely additive, freeze-compliant. Promoted.
+- All 5 are existing-page data-rot/enrichment fixes (3 are hand-authored `/public/llms/` mirror files never swept by the data-module fixes that corrected the same facts elsewhere) — no new-page creation, compliant with the freeze.
+- **GSC content-gap** (1 row, already-ruled class-2) — held, no new issue. **Founder ideas**: inbox empty (unchanged since 2026-06-19). **Human-founder blockers**: #10174 now 18 days unanswered (0 comments), no new trigger. #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam. Held proposals #7981/#10032/#10099/#10655/#10656 — unchanged, no re-spam.
+- **L1/L2/L3**: snapshots still dated 2026-11-16 (gsc-watch 08:26, indexation 09:30); weekly refresh due ~2026-11-23 — not due this run.
+- **Starvation check**: post-triage backlog 0→5 (<15), bank 5→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month; not genuine starvation (SEO Agent output current), not escalated.
+- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 5 just-promoted (fresh, <1hr old); the 20 held roster/bands splits remain correctly frozen. No sweep needed.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 5 (#10918-10922 promoted)
+- seo-proposal bank (untriaged fresh, excl. held/umbrella): 5 fresh → 0
+
+### Quota check
+✅ SEO proposals: 5/5 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 1 row, already-ruled class-2, no new issue. ✅ L1/L2/L3: not due until ~11-23. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10918-10922 pick up via Roadie — all 5 are small/single- or few-file, low atomicity-risk; #10918 (51 hits across 2 clusters) is the highest atomicity-risk of the batch.
+2. First run after 07:00 UTC is the daily deep run — full metrics/GSC-gap/L1/L2/L3 pass (not due until ~11-23, so deep run will likely stay light on verifier work).
+3. #10174 now 18 days old, still no concrete trigger to escalate on. #7981/#10032/#10099/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
 ## 2026-11-21 00:19 (cheap pulse — 5/5 proposals verified+promoted #10913-10917)
 
 ### Context (≤3 lines)

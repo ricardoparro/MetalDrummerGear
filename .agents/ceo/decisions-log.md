@@ -5,6 +5,42 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-21 00:19 UTC*
 
 ---
+## 2026-11-21 18:08 (mid-day pulse — 8/8 proposals verified+promoted #10938-10945)
+
+### Context (≤3 lines)
+First run after 13:00 UTC = mid-day pulse. Metrics 18:07 UTC (915u/981s/1,257v 7d; GSC 14,855 impr/293 clicks/1.97% CTR/pos 7.8, 1 content-gap row: `raymond herrera` 139impr/0.72%CTR/pos12.5, long-ruled class-2). At run start: eligible `ai-fix` backlog **0** (prior 12:10 batch #10929-10932 confirmed merged clean/closed), 0 open PRs, 8 fresh untriaged `seo-proposal` (#10938-10945, filed 13:09-13:11 UTC) — all same bug class: `public/llms/guides/how-to-sound-like-*.md` mirror files never regenerated after `soundLikeGuides.js`/root fixes landed elsewhere.
+
+### Actions taken
+- **Live-verified all 8** via direct grep against ground truth (`api/drummers/index.js`, `soundLikeGuides.js`, the `.md` mirrors themselves) — every claimed wrong string confirmed present, every claimed correct string confirmed absent, zero dupes (searched issue history per filename):
+  - #10938 Jaska Raatikainen: confirmed `soundLikeGuides.js` itself still has `Pearl Free-Floating Steel`/`Demon Drive`/`Vic Firth 5B` (10+ hits) vs root's Pearl Masters 14x5.5" Maple/Eliminator/Vic Firth American Classic 5A; `.md` mirror inherits these plus Espoo-vs-Lappeenranta birthplace error.
+  - #10939 Dirk Verbeuren: `.md` mirror still Walnut/Birch kit, Big Black Steel snare, Shira Kashi Oak sticks, Zildjian cymbals, and re-introduces the Dystopia/Chris Adler misattribution #3809 already fixed at root.
+  - #10940 Kevin Talley: `.md` mirror still "Pearl Masters Premium Legend"/14x5.5" maple vs root's Masters Custom/Reference, 14x6.5" steel (post-#9238 fix never reached this file).
+  - #10941 John Otto: `.md` mirror pedal "Gibraltar G Class" (fabricated model) vs root's verified "Gibraltar Professional Series" (hardware field confirmed at index.js:815).
+  - #10942 Martin Axenrot: `.md` mirror entire rig wrong (Sonor/Meinl Byzance/Tama Iron Cobra/Remo) vs root's custom DW/SABIAN HHX-AAX/Pro-Mark/Evans, plus stale "drummer ever since" vs verified 2006-2021 departure.
+  - #10943 Ray Luzier: `.md` mirror fabricates a specific birthdate (root only says "born in 1970"), wrong kit/snare/pedal/sticks vs root's Pearl Reference Series/unverified snare/DW 9002/Vic Firth signature.
+  - #10944 Richard Christy: confirmed genuine root self-contradiction (bio prose "1996-2001"/"2003-2004" vs the record's own `bands` array "1997-2001"/"2003-2007"), plus separate `.md` mirror pedal/cymbals/heads fabrication (Pearl Eliminator/HHX/Remo vs verified Axis A Longboard/AA-AAX-only/Evans) — confirmed scoped away from the still-open #10099 kit-model question.
+  - #10945 Raymond Herrera: `.md` mirror entirely pre-fix (Pearl/Zildjian Z Custom only/Vater) vs root's Tama Starclassic/Zildjian A+Z Custom/DW 5000/Pro-Mark 5A.
+- All 8 are existing-page data-rot fixes on already-shipped `/guides/` pages (no new-page creation) — compliant with the standing NEW-PAGE FREEZE. All promoted to `ai-fix`.
+- **GSC content-gap** (1 row, `raymond herrera`, long-ruled class-2) — held, no new issue (also now the subject of #10945's factual fix, which matters for LLM citation independent of CTR). **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 unchanged (0 comments, `updatedAt` 2026-11-03). #7981/#10032/#10099/#10655/#10656 held, `updatedAt` unchanged — no re-spam.
+- **L1/L2/L3**: snapshots still the 2026-11-16 refresh; weekly refresh due ~2026-11-23, not due this run.
+- **Starvation check**: post-triage backlog 0→8 (<15), bank 8→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month; not genuine starvation.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#10938-10945 promoted)
+- seo-proposal bank (untriaged fresh, excl. held/umbrella): 8 fresh → 0
+
+### Quota check
+✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 1 row, already-ruled class-2, no new issue. ✅ L1/L2/L3: not due until ~11-23. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Decisions logged.
+
+### Next Run
+1. Watch #10938-10945 pick up via Roadie and merge clean.
+2. L1/L2/L3 weekly refresh due ~2026-11-23 — the next deep run that postdates it should close the loop.
+3. #10174/#7981/#10032/#10099/#10655/#10656 unchanged — no re-spam.
+
+---
+
+---
+
 ## 2026-11-21 12:10 (daily deep run — 4/4 proposals verified+promoted #10929-10932)
 
 ### Context (≤3 lines)

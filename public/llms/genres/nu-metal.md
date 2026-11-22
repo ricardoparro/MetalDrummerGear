@@ -9,12 +9,12 @@ The genre's defining characteristic is the marriage of metal's heaviness with hi
 | Drummer | Band | Signature Setup | Profile |
 |---|---|---|---|
 | Joey Jordison | Slipknot | Pearl Reference + Paiste | [/drummer/joey-jordison](/drummer/joey-jordison) |
-| Eloy Casagrande | Slipknot (current) | Pearl Reference + Paiste | [/drummer/eloy-casagrande](/drummer/eloy-casagrande) |
-| Ray Luzier | Korn | Pearl + Paiste | [/drummer/ray-luzier](/drummer/ray-luzier) |
-| John Otto | Limp Bizkit | Pearl + Sabian | [/drummer/john-otto](/drummer/john-otto) |
-| Abe Cunningham | Deftones | Pearl + Sabian | [/drummer/abe-cunningham](/drummer/abe-cunningham) |
-| Shannon Larkin | Godsmack | Tama + Zildjian | [/drummer/shannon-larkin](/drummer/shannon-larkin) |
-| Jay Weinberg | Slipknot (2014–2023) | Pearl Reference + Paiste | [/drummer/jay-weinberg](/drummer/jay-weinberg) |
+| Eloy Casagrande | Slipknot (current) | Tama Starclassic Bubinga + Paiste | [/drummer/eloy-casagrande](/drummer/eloy-casagrande) |
+| Ray Luzier | Korn | Pearl Reference + Sabian | [/drummer/ray-luzier](/drummer/ray-luzier) |
+| John Otto | Limp Bizkit | OCDP Acrylic + Zildjian | [/drummer/john-otto](/drummer/john-otto) |
+| Abe Cunningham | Deftones | Tama Starclassic Bubinga + Zildjian | [/drummer/abe-cunningham](/drummer/abe-cunningham) |
+| Shannon Larkin | Godsmack | ddrum Dios + Sabian | [/drummer/shannon-larkin](/drummer/shannon-larkin) |
+| Jay Weinberg | Slipknot (2014–2023) | SJC Custom Drums + Zildjian | [/drummer/jay-weinberg](/drummer/jay-weinberg) |
 
 ## Key Technique Signatures
 - **Syncopated grooves** — hip-hop influenced off-beat patterns; backbeats shifted for maximum groove impact
@@ -32,10 +32,10 @@ The genre's defining characteristic is the marriage of metal's heaviness with hi
 
 ## Gear Preferences by Drummer
 - **Joey Jordison**: Pearl Reference + Paiste — Slipknot's founding drummer built one of metal's most recognizable kit setups; his precision and showmanship redefined nu-metal drumming
-- **Eloy Casagrande**: Pearl Reference + Paiste; inheriting Jordison's role, Casagrande brings Brazilian technical precision to Slipknot's groove-heavy approach
+- **Eloy Casagrande**: Tama Starclassic Bubinga + Paiste; inheriting Jordison's role, Casagrande brings Brazilian technical precision to Slipknot's groove-heavy approach
 - **Ray Luzier**: Pearl kit; extensive experience (Army of Anyone, Korn) combined technical proficiency with nu-metal groove sensibility
-- **Abe Cunningham**: Pearl + Sabian; Deftones' atmospheric approach influenced by shoegaze and post-rock as much as nu-metal
-- **John Otto**: Pearl + Sabian; Limp Bizkit's drummer locked in the hip-hop/metal crossover sound that defined late-1990s radio
+- **Abe Cunningham**: Tama Starclassic Bubinga + Zildjian; Deftones' atmospheric approach influenced by shoegaze and post-rock as much as nu-metal
+- **John Otto**: OCDP Acrylic + Zildjian; Limp Bizkit's drummer locked in the hip-hop/metal crossover sound that defined late-1990s radio
 
 ## FAQ
 

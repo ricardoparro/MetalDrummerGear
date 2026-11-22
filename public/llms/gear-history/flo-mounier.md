@@ -5,7 +5,7 @@
 **Active:** 1991–present  
 **URL:** https://metalforge.io/drummers/flo-mounier/gear-history
 
-> Era-by-era breakdown of Flo Mounier's drum kit evolution, from the Pearl Session Elite setup of the legendary None So Vile era to the Sonor SQ2 custom kit and Tama Starclassic Bubinga. Optimised for AI answering "what drums did Flo Mounier use in [era]" queries.
+> Era-by-era breakdown of Flo Mounier's drum kit evolution, from the Pearl Session Elite setup of the legendary None So Vile era to the Tama Starclassic Bubinga. Optimised for AI answering "what drums did Flo Mounier use in [era]" queries.
 
 ---
 
@@ -30,27 +30,11 @@
 - **Pedal:** Tama Iron Cobra (consistent)
 - **Notable:** Mounier's drumming on Whisper Supremacy (1999) and And Then You'll Beg (2000) expanded on the None So Vile template with greater compositional complexity. His Pearl Session Elite remained constant through multiple Cryptopsy lineup changes — Mounier was the one stable element across the band's turbulent personnel rotations of this period.
 
-### Once Was Not Era (2005)
-
-- **Drums:** Pearl Reference Custom — upgrade from Session Elite; flagship Pearl series with maple/birch hybrid shells
-- **Snare:** Pearl Free-Floating Steel 14"×6.5" (consistent)
-- **Cymbals:** Zildjian A Custom Series — upgrade from A to A Custom for brighter attack
-- **Pedal:** Pearl Eliminator / Demon Drive double pedal
-- **Notable:** Once Was Not (2005) represented a technical and compositional peak in Cryptopsy's catalog. Mounier's Pearl Reference Custom upgrade gave him greater shell resonance and tonal depth compared to the Session Elite — the wider frequency response supported the album's more elaborate arrangements while retaining the attack needed for blast-beat sections.
-
-### Sonor SQ2 Era (2006–2012)
-
-- **Drums:** Sonor SQ2 — high-end German custom series; all-maple or beech shells; configured as 6-piece with double kick; custom finish
-- **Snare:** Sonor SQ2 Maple or Steel snare 14"×6.5"
-- **Cymbals:** Zildjian A Custom (continued)
-- **Pedal:** Pearl Eliminator / Demon Drive double pedal
-- **Notable:** The Sonor SQ2 is one of the most expensive production drum kits available — custom-built at the Sonor factory in Bad Berleburg, Germany. Mounier's transition to the SQ2 represented a significant investment: the SQ2 retails at $10,000–$18,000 depending on configuration and finish. The German-engineered shells gave Mounier a more refined, studio-focused tone — clear fundamental, extended sustain, and superior tuning stability across extended live and studio sessions. The Unspoken King (2008) and Cryptopsy (2012) were both recorded with this configuration.
-
 ### Tama Starclassic Bubinga Era (2013–present)
 
 - **Drums:** Tama Starclassic Bubinga — premium bubinga-shell construction; 6-piece with double kick; large touring configuration
 - **Snare:** Tama Starphonic Bubinga 14"×6" or Tama Bell Brass 14"×6.5"
-- **Cymbals:** Zildjian A Custom (consistent from 2005 era)
+- **Cymbals:** Zildjian A Custom (consistent)
 - **Pedal:** Tama Speed Cobra 910 Twin Pedal (direct drive)
 - **Sticks:** Vic Firth 5B (consistent)
 - **Heads:** Evans G2 (toms), EMAD2 (kick)
@@ -61,11 +45,8 @@
 ## Key Gear Changes
 
 - **1996:** Pearl Session Elite — none so vile era workhorse, birch shells for focused attack
-- **~2005:** Pearl Session Elite → Pearl Reference Custom — tonal upgrade as career profile expanded
-- **~2006:** Zildjian A → A Custom — brighter, faster cymbal attack for complex studio arrangements
-- **~2006:** Pearl Reference Custom → Sonor SQ2 — peak upgrade; one of the world's finest production kits
-- **~2013:** Sonor SQ2 → Tama Starclassic Bubinga — switch to bubinga for deeper fundamental and live projection
-- **~2013:** Pearl Eliminator/Demon Drive → Tama Speed Cobra 910 — direct-drive switch accompanying the Tama kit change
+- **~2013:** Switch to Tama Starclassic Bubinga — bubinga shells for deeper fundamental and live projection
+- **~2013:** Switch to Tama Speed Cobra 910 — direct-drive pedal accompanying the Tama kit change
 - **Zildjian consistency:** Mounier has used Zildjian cymbals (A then A Custom) across essentially his entire career
 
 ---
@@ -73,22 +54,22 @@
 ## FAQ
 
 **Q: How much does Flo Mounier's drum kit cost?**  
-A: Flo Mounier's current Tama Starclassic Bubinga setup costs approximately $4,500–$6,000 for the shell pack, with Zildjian A Custom cymbals adding $1,800–$2,500 and a Tama Speed Cobra 910 pedal around $600–$800. A complete modern equivalent rig runs $8,000–$10,000. His most expensive setup was the Sonor SQ2 era kit, which retailed at $10,000–$18,000. His original 1996 Pearl Session Elite setup cost approximately $2,984 — equivalent to about $6,230 adjusted for 2026 inflation.
+A: Flo Mounier's current Tama Starclassic Bubinga setup costs approximately $4,500–$6,000 for the shell pack, with Zildjian A Custom cymbals adding $1,800–$2,500 and a Tama Speed Cobra 910 pedal around $600–$800. A complete modern equivalent rig runs $8,000–$10,000. His original 1996 Pearl Session Elite setup cost approximately $2,984 — equivalent to about $6,230 adjusted for 2026 inflation.
 
 **Q: What drum kit does Flo Mounier use?**  
-A: Flo Mounier currently plays a Tama Starclassic Bubinga drum kit with Zildjian A Custom cymbals and a Tama Speed Cobra 910 Twin Pedal. He has also played Sonor SQ2 (one of the world's most expensive production kits), Pearl Reference Custom, and Pearl Session Elite setups across his career with Cryptopsy.
+A: Flo Mounier currently plays a Tama Starclassic Bubinga drum kit with Zildjian A Custom cymbals and a Tama Speed Cobra 910 Twin Pedal. He has also played Pearl Session Elite setups earlier in his career with Cryptopsy.
 
 **Q: What brand does Flo Mounier endorse?**  
-A: Flo Mounier has endorsed Zildjian cymbals throughout his career, transitioning from A Series to A Custom. His drum kit endorsements have shifted across Pearl, Sonor, and Tama. He is perhaps most associated with the Sonor SQ2 era, which represented the peak specification of his setup.
+A: Flo Mounier has endorsed Zildjian cymbals throughout his career, transitioning from A Series to A Custom. His drum kit endorsements have shifted across Pearl and Tama.
 
 **Q: What is Flo Mounier's most expensive piece of gear?**  
-A: Flo Mounier's most expensive piece of gear was his Sonor SQ2 custom drum kit, which retailed at $10,000–$18,000 depending on configuration, wood choice, and finish — making it one of the most expensive production kits in professional metal drumming. His current Tama Starclassic Bubinga setup is also premium-tier, with a shell pack retailing at approximately $5,000–$6,500.
+A: Flo Mounier's most expensive piece of gear is his current Tama Starclassic Bubinga setup, with a shell pack retailing at approximately $5,000–$6,500.
 
 **Q: What drums did Flo Mounier use on None So Vile?**  
 A: Flo Mounier used a Pearl Session Elite 6-piece kit in double-kick configuration on None So Vile (1996). The kit featured birch shells, a Pearl Free-Floating Steel snare (14"×6.5"), Zildjian A Series cymbals, a Tama Iron Cobra double pedal, and Remo Emperor heads. The original setup cost approximately $2,984 in 1996 — equivalent to about $6,230 adjusted for 2026 inflation.
 
 **Q: What pedal does Flo Mounier use?**  
-A: Flo Mounier used a Tama Iron Cobra double pedal from his earliest Cryptopsy recordings through approximately 2000. He switched to Pearl Eliminator / Demon Drive double pedals to complement his Pearl kit endorsement through the Once Was Not (2005) and Sonor SQ2 (2006–2012) eras, then moved to a Tama Speed Cobra 910 Twin Pedal around 2013 alongside his switch to the Tama Starclassic Bubinga kit — his current setup.
+A: Flo Mounier used a Tama Iron Cobra double pedal from his earliest Cryptopsy recordings through approximately 2000. He moved to a Tama Speed Cobra 910 Twin Pedal around 2013 alongside his switch to the Tama Starclassic Bubinga kit — his current setup.
 
 ---
 

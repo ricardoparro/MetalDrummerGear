@@ -43,7 +43,7 @@
 
 ### Tama & Paiste Era (2001–2010)
 
-- **Drums:** Tama Starclassic Maple — maple shells; 24" kick, 10"/12"/14"/16" toms
+- **Drums:** Tama Starclassic Walnut/Birch — walnut/birch shells; 24" kick, 10"/12"/14"/16" toms
 - **Snare:** Tama S.L.P. 14"×6.5" G-Maple
 - **Cymbals:** Paiste Signature — full Signature setup
 - **Pedal:** Tama Iron Cobra 900 Double Pedal (one per bass drum, driving his double kick)
@@ -57,7 +57,7 @@
 ### Modern Era (2013–present)
 
 - **Context:** Dave left Slayer again in 2013 amid disputes over drummer pay; joined Suicidal Tendencies in 2016 (through 2021), and has also recorded with Dead Cross (2017–present) and the reunited Mr. Bungle (2019–present)
-- **Drums:** Tama Starclassic Maple — maple shell configuration favored since Slayer's recording peak
+- **Drums:** Tama Starclassic Walnut/Birch — walnut/birch shell configuration favored since Slayer's recording peak
 - **Snare:** Tama S.L.P. 14"×6.5" G-Maple — the same fat, responsive crack heard on Reign in Blood-era recordings
 - **Cymbals:** Paiste RUDE & 2002 Series — 15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China
 - **Pedal:** Tama Iron Cobra 900 Double Pedal
@@ -72,7 +72,7 @@
 
 - **1981 → 1986:** Pearl Maxwin to Pearl BLX — first full Pearl endorsement coinciding with Reign in Blood
 - **1992–2001:** First Slayer departure; played with Grip Inc. (with Gus G.) before returning to Slayer in 2001 — no verified gear documented for this interim period
-- **2001:** Full switch to Tama Starclassic Maple and Tama Iron Cobra hardware on return to Slayer; Promark signature stick partnership begins
+- **2001:** Full switch to Tama Starclassic Walnut/Birch and Tama Iron Cobra hardware on return to Slayer; Promark signature stick partnership begins
 - **2013:** Second Slayer departure; continued the same long-running Tama/Paiste endorsements through Suicidal Tendencies, Dead Cross, and Mr. Bungle
 - **Paiste RUDE:** Dave has used Paiste cymbals (RUDE, and later RUDE & 2002 Series) since Reign in Blood (1986) — one of the longest-running cymbal endorsements in metal history
 
@@ -87,13 +87,13 @@ A: Dave used a Pearl BLX Series kit on Reign in Blood (1986), with birch shells 
 A: Dave Lombardo has used Paiste cymbals since Reign in Blood (1986) — across Slayer, Suicidal Tendencies, and his other projects. His setup moved from Paiste RUDE in the Reign in Blood/South of Heaven/Seasons in the Abyss era to Paiste Signature during his 2001–2013 Slayer reunion tenure, and to a combined Paiste RUDE & 2002 Series configuration in his current setup.
 
 **Q: When did Dave Lombardo switch from Pearl to Tama?**  
-A: Dave used Pearl drums (Pearl Maxwin, then Pearl BLX) through his first Slayer tenure, ending with Seasons in the Abyss touring in 1992. He switched to Tama Starclassic Maple upon returning to Slayer in 2001, and has used Tama as his primary endorsement since — through his second Slayer tenure and his subsequent work with Suicidal Tendencies, Dead Cross, and Mr. Bungle.
+A: Dave used Pearl drums (Pearl Maxwin, then Pearl BLX) through his first Slayer tenure, ending with Seasons in the Abyss touring in 1992. He switched to Tama Starclassic Walnut/Birch upon returning to Slayer in 2001, and has used Tama as his primary endorsement since — through his second Slayer tenure and his subsequent work with Suicidal Tendencies, Dead Cross, and Mr. Bungle.
 
 **Q: What snare did Dave Lombardo use on Reign in Blood?**  
 A: Dave's snare on Reign in Blood was a Pearl Free-Floating Steel 14"×6.5". The free-floating lug design (where the shell and lug assembly are isolated) provides greater crack and attack — important for cutting through the dense, fast guitar work on that album. His current snare is a Tama S.L.P. 14"×6.5" G-Maple.
 
 **Q: What is Dave Lombardo's current drum kit?**  
-A: As of the 2020s, Dave plays a Tama Starclassic Maple kit with a Tama S.L.P. 14"×6.5" G-Maple snare, Paiste RUDE & 2002 Series cymbals, and a Tama Iron Cobra 900 Double Pedal. He has used his own Promark Dave Lombardo Signature 2Bx sticks since his 2001 return to Slayer.
+A: As of the 2020s, Dave plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"×6.5" G-Maple snare, Paiste RUDE & 2002 Series cymbals, and a Tama Iron Cobra 900 Double Pedal. He has used his own Promark Dave Lombardo Signature 2Bx sticks since his 2001 return to Slayer.
 
 ---
 

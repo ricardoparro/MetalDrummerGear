@@ -8,14 +8,14 @@ The genre diversified through the 1990s and 2000s into technical death metal (Cr
 ## Featured Death Metal Drummers
 | Drummer | Band | Signature Setup | Profile |
 |---|---|---|---|
-| Gene Hoglan | Death / Dark Angel / Testament | Pearl Reference Pure + Meinl | [/drummer/gene-hoglan](/drummer/gene-hoglan) |
-| Pete Sandoval | Morbid Angel | Pearl Reference + Paiste | [/drummer/pete-sandoval](/drummer/pete-sandoval) |
-| George Kollias | Nile | Pearl Reference Pure + Meinl Byzance | [/drummer/george-kollias](/drummer/george-kollias) |
-| Flo Mounier | Cryptopsy | Tama Starclassic + Meinl Byzance | [/drummer/flo-mounier](/drummer/flo-mounier) |
-| Paul Mazurkiewicz | Cannibal Corpse | Tama Starclassic + Zildjian | [/drummer/paul-mazurkiewicz](/drummer/paul-mazurkiewicz) |
-| Derek Roddy | Hate Eternal / Nile | Pearl + Meinl | [/drummer/derek-roddy](/drummer/derek-roddy) |
-| Kevin Talley | Dying Fetus / Misery Index | Pearl Reference + Paiste | [/drummer/kevin-talley](/drummer/kevin-talley) |
-| Richard Christy | Death / Iced Earth | Pearl + Zildjian | [/drummer/richard-christy](/drummer/richard-christy) |
+| Gene Hoglan | Death / Dark Angel / Testament | Pearl Reference Pure + Sabian AAX | [/drummer/gene-hoglan](/drummer/gene-hoglan) |
+| Pete Sandoval | Morbid Angel | ddrum (cymbal brand undocumented) | [/drummer/pete-sandoval](/drummer/pete-sandoval) |
+| George Kollias | Nile | Pearl Masterworks Stadium Exotic + Zildjian A Custom | [/drummer/george-kollias](/drummer/george-kollias) |
+| Flo Mounier | Cryptopsy | Tama Starclassic + Sabian AAX/HHX | [/drummer/flo-mounier](/drummer/flo-mounier) |
+| Paul Mazurkiewicz | Cannibal Corpse | Pearl Reference + Meinl Byzance | [/drummer/paul-mazurkiewicz](/drummer/paul-mazurkiewicz) |
+| Derek Roddy | Hate Eternal / Nile | Tama Starclassic Bubinga + Meinl Byzance | [/drummer/derek-roddy](/drummer/derek-roddy) |
+| Kevin Talley | Dying Fetus / Misery Index | Pearl Reference + Sabian AAX | [/drummer/kevin-talley](/drummer/kevin-talley) |
+| Richard Christy | Death / Iced Earth | Pearl Masters Custom + Sabian AA/AAX | [/drummer/richard-christy](/drummer/richard-christy) |
 
 ## Key Technique Signatures
 - **Blast beats** — alternating single strokes on snare and bass drum at 180–260 BPM, creating a machine-gun assault
@@ -33,10 +33,10 @@ The genre diversified through the 1990s and 2000s into technical death metal (Cr
 
 ## Gear Preferences by Drummer
 - **Gene Hoglan**: Pearl Reference Pure — "The Atomic Clock" prioritizes metronomic consistency over raw aggression
-- **George Kollias**: Pearl Reference Pure + Meinl Byzance; holds world records for single-foot bass drum speed
-- **Pete Sandoval**: Pearl Reference, Paiste cymbals; pioneer of extreme blast beat tempos on Morbid Angel's early albums
-- **Flo Mounier**: Tama Starclassic Bubinga, Meinl Byzance; technical death metal's most expressive kit
-- **Paul Mazurkiewicz**: Tama, Zildjian; reliable, punchy setup favoring groove within brutality
+- **George Kollias**: Pearl Masterworks Stadium Exotic + Zildjian A Custom; holds world records for single-foot bass drum speed
+- **Pete Sandoval**: ddrum (cymbal brand not publicly documented); pioneer of extreme blast beat tempos on Morbid Angel's early albums
+- **Flo Mounier**: Tama Starclassic Maple, Sabian AAX/HHX; technical death metal's most expressive kit
+- **Paul Mazurkiewicz**: Pearl Reference, Meinl Classics Custom/Byzance; reliable, punchy setup favoring groove within brutality
 
 ## FAQ
 

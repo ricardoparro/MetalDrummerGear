@@ -11,14 +11,14 @@
 
 ## Gear Timeline
 
-### Winds of Plague (2008–2012, 2015–2021) / Prong (2012–2018) Era
+### Winds of Plague (2010–2012) / Prong (2012–2019) Era
 
 - **Drums:** Entry-level maple/birch kits — various developing-years setups, 22" kick
 - **Snare:** Steel shell 14"x6.5"
 - **Cymbals:** Various brands (pre-Zildjian)
 - **Pedal:** Standard double pedal, mixed stands
 - **Sticks:** Vic Firth 5B hickory
-- **Estimated cost (2008–2021):** ~$2,200
+- **Estimated cost (2010–2019):** ~$2,200
 - **Notable:** Cruz spent a decade in the deathcore and industrial-metal trenches, powering Winds of Plague's symphonic deathcore assault and running a parallel stint with Tommy Victor's Prong. No fixed gear endorsements yet — this era built the touring stamina and double-bass endurance behind his later groove metal approach.
 
 ### Lamb of God Fill-In Era (2018–2019)

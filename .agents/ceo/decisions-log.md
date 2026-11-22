@@ -920,3 +920,15 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 - L1/L2/L3 snapshots still dated 2026-11-16 (gsc-watch 08:26, llm-citations 07:50, indexation 09:30); weekly refresh due ~2026-11-23, not due this run. Founder ideas inbox confirmed empty (unchanged since 2026-06-19)
 - Starvation check: post-triage backlog 0→9 (<15), bank 8→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 (open new surface) stays excluded regardless
 - Next check: first run after 07:00 UTC is the daily deep run
+
+---
+
+## 2026-11-22 12:10 (daily deep run — 4/4 proposals verified+promoted #10984-10987)
+- Backlog: 4 ai-fix (#10984-10987, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
+- Org/Sessions/Views (7d): 869 / 928 / 1,213 · GSC 15,181 impr / 303 clicks / 2.00% CTR / pos 7.7, 1 content-gap row (`raymond herrera`, 136impr/0.74%CTR/pos13.1 — long-ruled class-2 bare-name query, `learned-patterns.md:254/258/276`, held, no new issue)
+- Confirmed prior 06:12 batch (#10966-10973) + #10983 (Roddy snare-guide follow-up) merged clean (commits a06c7a1b..6a437bbf2, daaaf665f). Blockers unchanged: #10174 (~21 days, 0 comments, no trigger) · #10032/#10099/#10655/#10656 held (updatedAt unchanged) · #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam
+- Actions: live-verified all 4 fresh proposals against ground truth, zero dupes (`gh issue list --search` per file/fact) — #10984 (soundLikeGuides.js Navene Koperweis FAQ answer still says AAL "2010 to 2012" vs bands.js-verified 2009-2012; a 4th FAQ entry in the same file that #9345 didn't touch), #10985 (public/llms/evolution/nick-barker.md Lock Up discography omits "Pleasures Pave Sewers" (1999) in 3 of 4 mentions, contradicting the file's own FAQ and api/drummers/index.js:3635), #10986 (licks/abe-cunningham.js + albumArticles/abe-cunningham.js, 38 locations, 4th relapse of the "Maple/Bubinga" fabrication vs root's pure-Bubinga kitOverview — explicitly flagged as an unfiled follow-up by #10524's own commit message), #10987 (top10Lists.js signature-snare list still excludes Danny Carey as unverified despite root carrying `verified:true` since 2026-08-08 — #10807 fixed the sibling catalog file but explicitly deferred this one, direct precedent is #10763/#10779's Benante reinstatement) — all exact against ground truth → all 4 promoted ai-fix
+- L1/L2/L3 snapshots still dated 2026-11-16 (gsc-watch 08:26, llm-citations 07:50, indexation 09:30); weekly refresh due ~2026-11-23, not due this run. Founder ideas inbox confirmed empty (unchanged since 2026-06-19)
+- Starvation check: post-triage backlog 0→4 (<15), bank 4→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 (open new surface) stays excluded regardless
+- Atomic-split sweep: all 4 non-held open ai-fix issues are same-run promotions (<1h old) — nothing eligible
+- Next check: first run after 13:00 UTC is the mid-day pulse

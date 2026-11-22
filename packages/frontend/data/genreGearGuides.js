@@ -68093,14 +68093,14 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Modern Utility snar
       title: "Why Extreme Metal Snares Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability and speed demands on a snare drum that few other genres match. At 200-280 BPM sustained blast beats, a snare gets struck thousands of times a set, night after touring night, and has to keep firing instantly on every stroke long after ordinary snares would lose sensitivity or crack under the repeated impact.
 
-George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model — free-floating brass snares, prized for the cutting articulation that lets every stroke fire cleanly through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM, are what many extreme-tempo Pearl endorsers gravitate toward. Pete Sandoval of Morbid Angel built his gravity-blast sound on a ddrum maple snare (specific model unconfirmed) through his 2010 departure from the band — sidelined by back surgery, valuing the warm, controlled response that survived his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a Tama Starclassic Bubinga 14"x6.5" snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule.
+George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model — free-floating brass snares, prized for the cutting articulation that lets every stroke fire cleanly through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM, are what many extreme-tempo Pearl endorsers gravitate toward. Pete Sandoval of Morbid Angel built his gravity-blast sound on a ddrum maple snare (specific model unconfirmed) through his 2010 departure from the band — sidelined by back surgery, valuing the warm, controlled response that survived his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a Tama SLP Black Brass 14"x6.5" snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule.
 
 During his 2008-2018 Tama era (Testament, Dethklok), Gene Hoglan used his signature Gene Hoglan Signature 14"x8" steel snare, an exceptionally deep shell built for the thunderous power and cutting attack his metronomic "Atomic Clock" precision demands. Hoglan's current kit is Pearl Reference Pure (since 2018); no signature snare model is verified for that later era.
 
 This guide breaks down what actually makes a snare survive extreme metal's demands — durability, fast response, and consistent crack under sustained abuse — and recommends specific models across every budget, from a first touring-durable snare to the exact drums extreme metal's most demanding drummers play.`,
       keyPoints: [
         "Extreme metal's sustained blast beats destroy snares that work fine in slower metal styles — durability is not optional",
-        "Free-floating brass snares — the design many Pearl-endorsed drummers like George Kollias favor — and Derek Roddy's Tama Starclassic Bubinga snare both prioritize cutting crack under repeated impact",
+        "Free-floating brass snares — the design many Pearl-endorsed drummers like George Kollias favor — and Derek Roddy's Tama SLP Black Brass snare both prioritize cutting crack under repeated impact",
         "Gene Hoglan's unusually deep 14x8\" steel snare, used during his 2008-2018 Tama era, shows how depth can add thunderous power without sacrificing attack",
         "14x6.5\" is the most common depth across extreme metal's fastest drummers, balancing crack, body, and fast response"
       ]
@@ -68113,7 +68113,7 @@ This guide breaks down what actually makes a snare survive extreme metal's deman
         {
           name: "Instant, Cutting Attack",
           icon: "⚡",
-          description: "Free-floating brass snares — the design many Pearl-endorsed drummers like George Kollias favor — and Derek Roddy's bubinga snare are both voiced to speak instantly at 240+ BPM, so every stroke registers clearly instead of blurring into the wall of blast beats around it.",
+          description: "Free-floating brass snares — the design many Pearl-endorsed drummers like George Kollias favor — and Derek Roddy's Tama SLP Black Brass snare are both voiced to speak instantly at 240+ BPM, so every stroke registers clearly instead of blurring into the wall of blast beats around it.",
           recommendation: "Brass or dense wood shells for cutting attack that projects through dense, downtuned mixes"
         },
         {
@@ -68192,43 +68192,43 @@ The brass shell adds warmth to the crack, keeping the snare musical and legible 
         },
         {
           rank: 2,
-          name: "Tama Starclassic Bubinga Snare",
+          name: "Tama SLP Black Brass Snare",
           brand: "Tama",
-          model: "Starclassic Bubinga 14\"x6.5\"",
+          model: "SLP Black Brass 14\"x6.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€500-650",
           tier: "premium",
-          material: "Bubinga",
+          material: "Brass",
 
-          description: `Derek Roddy's Tama Starclassic Bubinga 14"x6.5" snare has carried "One Take" Roddy through decades of Hate Eternal and Nile sessions where he records entire drum tracks in a single pass. The dense bubinga shell delivers a dark, cutting crack with enough durability to survive relentless touring alongside his one-footed blast technique.
+          description: `Derek Roddy's Tama SLP Black Brass 14"x6.5" snare has carried "One Take" Roddy through decades of Hate Eternal and Nile sessions where he records entire drum tracks in a single pass. The dense brass shell delivers a dark, cutting crack with enough durability to survive relentless touring alongside his one-footed blast technique.
 
-Paired with Meinl Byzance cymbals and a Tama Speed Cobra 910 double pedal, the Starclassic Bubinga snare's reliability under pressure is exactly why Roddy has stuck with it across some of technical death metal's most demanding recording sessions.`,
+Paired with Meinl Byzance cymbals and a Tama Speed Cobra 910 double pedal, the SLP Black Brass snare's reliability under pressure is exactly why Roddy has stuck with it across some of technical death metal's most demanding recording sessions.`,
 
           pros: [
             "Derek Roddy's proven Hate Eternal/Nile setup — built for one-take recording pressure",
-            "Dense bubinga shell delivers dark, cutting crack with real durability",
+            "Dense brass shell delivers dark, cutting crack with real durability",
             "Holds tuning across relentless touring and one-footed blast technique",
             "14x6.5\" depth versatile across blast beats and heavier passages",
-            "Tama Starclassic build quality and consistency"
+            "Tama SLP build quality and consistency"
           ],
           cons: [
-            "Premium Starclassic pricing",
-            "Darker bubinga tone cuts less aggressively than brighter brass or steel",
+            "Premium SLP pricing",
+            "Shell-mounted lugs sound less open than Pearl's free-floating brass design",
             "Heavier than shallower speed-focused snares"
           ],
           specs: {
-            shell: "Bubinga",
+            shell: "Brass",
             size: "14\" x 6.5\"",
             hoops: "Die-cast",
-            lugs: "Tama Starclassic tube lugs",
+            lugs: "Tama SLP tube lugs",
             bestFor: "Dark, durable crack for touring and one-take recording pressure"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Tama Starclassic Bubinga 14\"x6.5\" — current setup" }
+            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Tama SLP Black Brass 14\"x6.5\" — current setup" }
           ],
-          verdict: "Best for touring durability and recording pressure. Roddy's bubinga Starclassic snare survives extreme metal's most demanding sessions.",
+          verdict: "Best for touring durability and recording pressure. Roddy's SLP Black Brass snare survives extreme metal's most demanding sessions.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_bubinga_snare.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_slp_black_brass_snare.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -68349,9 +68349,9 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
       ]
     },
 
-    // Brass vs bubinga vs steel vs maple comparison
+    // Brass vs black brass vs steel vs maple comparison
     comparison: {
-      title: "Brass vs Bubinga vs Steel vs Maple for Extreme Metal Snares",
+      title: "Brass vs Black Brass vs Steel vs Maple for Extreme Metal Snares",
       content: `Shell material splits extreme metal's fastest drummers into distinct camps. Here's how each compares:
 
 **Brass (free-floating Pearl designs favored by drummers like George Kollias):**
@@ -68359,7 +68359,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
 - Standard 14x6.5\" depth balances speed and body
 - Best for: Technical death metal demanding instant, warm-edged attack
 
-**Bubinga (Derek Roddy):**
+**Black Brass (Derek Roddy):**
 - Dark, durable crack built to survive touring and one-take recording pressure
 - 14x6.5\" depth versatile across blast beats and heavier sections
 - Best for: Drummers prioritizing durability and consistency under pressure
@@ -68374,7 +68374,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
 - 14x6.5\" depth for balanced crack and body
 - Best for: Drummers wanting warmth and control under demanding technique
 
-**Our Recommendation:** Choose brass if you need instant, cutting crack at extreme tempos. Choose bubinga if durability under sustained touring and recording pressure matters most. Choose steel if your playing leans on power and groove. Choose maple if you want warmth and control without sacrificing projection.`,
+**Our Recommendation:** Choose brass if you need instant, cutting crack at extreme tempos. Choose Tama's Black Brass if durability under sustained touring and recording pressure matters most. Choose steel if your playing leans on power and groove. Choose maple if you want warmth and control without sacrificing projection.`,
       comparisonTable: [
         { feature: "Attack Speed", brass: "⭐⭐⭐⭐⭐", bronze: "⭐⭐⭐⭐", steel: "⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Durability", brass: "⭐⭐⭐⭐", bronze: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐", maple: "⭐⭐⭐" },
@@ -68394,7 +68394,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
         },
         {
           category: "Best for Touring Durability",
-          pedal: "Tama Starclassic Bubinga Snare",
+          pedal: "Tama SLP Black Brass Snare",
           reason: "Derek Roddy's proven setup — built to survive one-take recording pressure and relentless touring."
         },
         {
@@ -68420,7 +68420,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks endorser — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum (career-long endorsement, model unconfirmed) — pioneer of the gravity blast technique' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording durability' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama SLP Black Brass 14x6.5\" — one-take recording durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel (2008-2018 era) — The Atomic Clock\'s thunderous power' }
     ],
 
@@ -68428,7 +68428,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks endorser — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum (career-long endorsement, model unconfirmed) — pioneer of the gravity blast technique' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording durability' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama SLP Black Brass 14x6.5\" — one-take recording durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel (2008-2018 era) — The Atomic Clock\'s thunderous power' }
     ],
 
@@ -68444,7 +68444,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
       },
       {
         question: "Steel, brass, bronze, or maple snare for extreme metal?",
-        answer: "All four work at the highest level. Free-floating brass snares, the design many Pearl-endorsed drummers like George Kollias favor, deliver cutting, musical attack; Derek Roddy's bubinga snare offers dark, durable crack; Gene Hoglan's deep steel snare, played during his 2008-2018 Tama era, provided thunderous power; and Pete Sandoval's maple ddrum snare gave warm, controlled response during his Morbid Angel career. Match the material to whether you prioritize speed, durability, power, or warmth."
+        answer: "All four work at the highest level. Free-floating brass snares, the design many Pearl-endorsed drummers like George Kollias favor, deliver cutting, musical attack; Derek Roddy's SLP Black Brass snare offers dark, durable crack; Gene Hoglan's deep steel snare, played during his 2008-2018 Tama era, provided thunderous power; and Pete Sandoval's maple ddrum snare gave warm, controlled response during his Morbid Angel career. Match the material to whether you prioritize speed, durability, power, or warmth."
       },
       {
         question: "What size snare is best for extreme metal?",
@@ -68459,7 +68459,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
     // Conclusion
     conclusion: {
       title: "Find Your Extreme Metal Snare Voice",
-      content: `Extreme metal snare choice comes down to how much instant, cutting crack your blast beats demand versus how much durability, power, or warmth you need to survive touring and recording. Pearl's free-floating brass line — the design many extreme-tempo Pearl endorsers like George Kollias favor — defines the cutting, musical standard for technical death metal speed. Derek Roddy's dense Tama bubinga snare proved durability under one-take recording pressure and relentless touring. Gene Hoglan's unusually deep steel signature snare, played during his 2008-2018 Tama era, shows how thunderous power can anchor groove-heavy extreme metal, while Pete Sandoval's maple ddrum snare showed that warmth and control could still cut through the genre's harshest sonic environment during his Morbid Angel career.
+      content: `Extreme metal snare choice comes down to how much instant, cutting crack your blast beats demand versus how much durability, power, or warmth you need to survive touring and recording. Pearl's free-floating brass line — the design many extreme-tempo Pearl endorsers like George Kollias favor — defines the cutting, musical standard for technical death metal speed. Derek Roddy's dense Tama SLP Black Brass snare proved durability under one-take recording pressure and relentless touring. Gene Hoglan's unusually deep steel signature snare, played during his 2008-2018 Tama era, shows how thunderous power can anchor groove-heavy extreme metal, while Pete Sandoval's maple ddrum snare showed that warmth and control could still cut through the genre's harshest sonic environment during his Morbid Angel career.
 
 None of these approaches is more "correct" — all four represent extreme metal's founding commitment to snares that survive sustained blast beat abuse without sacrificing crack. Start with whichever voicing matches your material's balance of speed, power, and durability.
 
@@ -68515,13 +68515,13 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Sensitone snare wil
       title: "Why Technical Death Metal Needs a Snare That Never Loses the Thread",
       content: `Technical death metal layers blast beats, odd-meter shifts, and dense ghost-note fills on top of each other, often within the same bar. A snare that can't respond instantly and consistently at every dynamic level doesn't just sound flat — it makes the genre's calculated rhythmic complexity unreadable, burying intricate patterns under an undifferentiated wall of noise.
 
-George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model — free-floating brass snares, prized for the cutting articulation that keeps every accent legible whether locked into a straight blast beat or threading a technical fill, are what many extreme-tempo Pearl endorsers gravitate toward past 240 BPM. Hannes Grossmann played a Tama S.L.P. G-Maple 14"x6" snare throughout Necrophagist and the Obscura years before switching to a DW Collectors 14"x5.5" maple snare in 2014 when he joined Alkaloid, a shallower shell chosen for the fast, precise response his classically-influenced odd-meter compositions demand. Flo Mounier of Cryptopsy plays a Tama Starclassic Maple 14"x5.5" snare, its focused, articulate attack built to keep Cryptopsy's dense, churning technical arrangements legible at machine-gun tempo. Derek Roddy of Hate Eternal plays a Tama Starclassic Bubinga 14"x6.5" snare, the same reliable setup that let him record entire drum tracks in a single take and earn the nickname "One Take."
+George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model — free-floating brass snares, prized for the cutting articulation that keeps every accent legible whether locked into a straight blast beat or threading a technical fill, are what many extreme-tempo Pearl endorsers gravitate toward past 240 BPM. Hannes Grossmann played a Tama S.L.P. G-Maple 14"x6" snare throughout Necrophagist and the Obscura years before switching to a DW Collectors 14"x5.5" maple snare in 2014 when he joined Alkaloid, a shallower shell chosen for the fast, precise response his classically-influenced odd-meter compositions demand. Flo Mounier of Cryptopsy plays a Tama Starclassic Maple 14"x5.5" snare, its focused, articulate attack built to keep Cryptopsy's dense, churning technical arrangements legible at machine-gun tempo. Derek Roddy of Hate Eternal plays a Tama SLP Black Brass 14"x6.5" snare, the same reliable setup that let him record entire drum tracks in a single take and earn the nickname "One Take."
 
 This guide breaks down what actually makes a snare work for technical death metal's precision demands — instant response, ghost-note sensitivity, and consistency across odd-meter complexity — and recommends specific models across every budget, from a first precision-capable snare to the exact drums the genre's most demanding drummers play.`,
       keyPoints: [
         "Technical death metal demands instant, legible response for both blast beats and dense, ghost-note-heavy fills within the same bar",
         "Hannes Grossmann's DW Collectors 14x5.5\" maple snare (since 2014, joining Alkaloid) and Flo Mounier's matching Tama Starclassic Maple both trade depth for faster, more precise response — a switch from the deeper 14x6\" Tama S.L.P. G-Maple Grossmann played through Necrophagist and Obscura",
-        "Free-floating brass snares and Derek Roddy's bubinga snare show that deeper, warmer shells can still deliver technical precision",
+        "Free-floating brass snares and Derek Roddy's Tama SLP Black Brass snare show that deeper shells can still deliver technical precision",
         "13\"-14\" diameters with 5.5\"-6.5\" depths dominate technical death metal, favoring speed and articulation over maximum body"
       ]
     },
@@ -68551,7 +68551,7 @@ This guide breaks down what actually makes a snare work for technical death meta
         {
           name: "Deeper Shells for Recording Consistency",
           icon: "🎙️",
-          description: "Derek Roddy's 14x6.5\" Tama Starclassic Bubinga snare provides the consistency and body that made his one-take recording sessions possible — a slightly deeper shell that still keeps up with technical demands.",
+          description: "Derek Roddy's 14x6.5\" Tama SLP Black Brass snare provides the consistency and body that made his one-take recording sessions possible — a slightly deeper shell that still keeps up with technical demands.",
           recommendation: "A 14x6.5\" depth if you need a balance of body and precision for studio-quality consistency"
         },
         {
@@ -68692,43 +68692,43 @@ Mounier has played Tama since 2012, and the Starclassic Maple's instant articula
         },
         {
           rank: 4,
-          name: "Tama Starclassic Bubinga Snare",
+          name: "Tama SLP Black Brass Snare",
           brand: "Tama",
-          model: "Starclassic Bubinga 14\"x6.5\"",
+          model: "SLP Black Brass 14\"x6.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€500-650",
           tier: "premium",
-          material: "Bubinga",
+          material: "Brass",
 
-          description: `Derek Roddy's Tama Starclassic Bubinga 14"x6.5" snare is the same reliable setup that let "One Take" Roddy record entire drum tracks for Hate Eternal's "King of All Kings" and "I, Monarch" in a single pass. Consistency under recording pressure is exactly what technical death metal's dense, unforgiving arrangements demand.
+          description: `Derek Roddy's Tama SLP Black Brass 14"x6.5" snare is the same reliable setup that let "One Take" Roddy record entire drum tracks for Hate Eternal's "King of All Kings" and "I, Monarch" in a single pass. Consistency under recording pressure is exactly what technical death metal's dense, unforgiving arrangements demand.
 
-The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked into a straight blast beat or navigating one of Hate Eternal's dense technical passages, proving reliability and technicality aren't mutually exclusive.`,
+The dense brass shell's dark, cutting crack holds up whether Roddy is locked into a straight blast beat or navigating one of Hate Eternal's dense technical passages, proving reliability and technicality aren't mutually exclusive.`,
 
           pros: [
             "Derek Roddy's proven Hate Eternal setup — built for one-take recording consistency",
-            "Dense bubinga shell delivers dark, cutting crack with real durability",
+            "Dense brass shell delivers dark, cutting crack with real durability",
             "Deeper 14x6.5\" shell balances precision with body",
             "Holds tuning across demanding technical passages and full-force accents",
-            "Tama Starclassic build quality and reliability"
+            "Tama SLP build quality and reliability"
           ],
           cons: [
-            "Premium Starclassic pricing",
-            "Darker bubinga tone cuts less aggressively than brighter brass or steel",
+            "Premium SLP pricing",
+            "Shell-mounted lugs sound less open than Pearl's free-floating brass design",
             "Deeper shell trades some response speed for body versus shallower alternatives"
           ],
           specs: {
-            shell: "Bubinga",
+            shell: "Brass",
             size: "14\" x 6.5\"",
             hoops: "Die-cast",
-            lugs: "Tama Starclassic tube lugs",
+            lugs: "Tama SLP tube lugs",
             bestFor: "Consistent, dark crack for one-take recording and dense technical passages"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal", note: "Tama Starclassic Bubinga 14\"x6.5\" — current setup" }
+            { name: "Derek Roddy", band: "Hate Eternal", note: "Tama SLP Black Brass 14\"x6.5\" — current setup" }
           ],
-          verdict: "Best for recording consistency under pressure. Roddy's bubinga Starclassic snare has proven itself across one-take sessions.",
+          verdict: "Best for recording consistency under pressure. Roddy's SLP Black Brass snare has proven itself across one-take sessions.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_bubinga_snare_2.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_slp_black_brass_snare_2.htm?partner_id=metalforge"
         }
       ]
     },
@@ -68771,7 +68771,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
 
     // Brass vs maple vs steel vs bronze comparison
     comparison: {
-      title: "Brass vs Maple vs Bubinga for Technical Death Metal Snares",
+      title: "Brass vs Maple vs Black Brass for Technical Death Metal Snares",
       content: `Shell material and depth split technical death metal's leading drummers into distinct camps. Here's how each compares:
 
 **Brass (Free-Floating Pearl):**
@@ -68784,12 +68784,12 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
 - Warmer tone suited to both classically-influenced odd-meter composition and machine-gun blast beat speed
 - Best for: Dense, rapid-fire technical fills demanding instant ghost-note response
 
-**Bubinga (Derek Roddy):**
+**Black Brass (Derek Roddy):**
 - Dark, durable crack proven across one-take recording sessions
 - Deeper 14x6.5\" shell balances precision with body
 - Best for: Studio consistency and dense technical passages under recording pressure
 
-**Our Recommendation:** Choose brass if you need one snare that handles both speed and technicality. Choose maple with a shallower depth if ghost-note precision and instant response matter most. Choose bubinga if recording consistency and durability are the priority.`,
+**Our Recommendation:** Choose brass if you need one snare that handles both speed and technicality. Choose maple with a shallower depth if ghost-note precision and instant response matter most. Choose Tama's Black Brass if recording consistency and durability are the priority.`,
       comparisonTable: [
         { feature: "Response Speed", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐⭐", bronze: "⭐⭐⭐" },
         { feature: "Ghost Note Sensitivity", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐", bronze: "⭐⭐⭐" },
@@ -68836,7 +68836,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Series endorser — Nile\'s technical speed-and-precision standard' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple since 2014 (Alkaloid) — classically-influenced odd-meter precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple 14x5.5\" — Cryptopsy\'s machine-gun blast beat speed' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording consistency' }
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama SLP Black Brass 14x6.5\" — one-take recording consistency' }
     ],
 
     // Featured drummers (issue template)
@@ -68844,7 +68844,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Series endorser — Nile\'s technical speed-and-precision standard' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple since 2014 (Alkaloid) — classically-influenced odd-meter precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple 14x5.5\" — Cryptopsy\'s machine-gun blast beat speed' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording consistency' }
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama SLP Black Brass 14x6.5\" — one-take recording consistency' }
     ],
 
     // FAQ section for SEO
@@ -68874,7 +68874,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
     // Conclusion
     conclusion: {
       title: "Find Your Technical Death Metal Snare Voice",
-      content: `Technical death metal snare choice comes down to how much instant, ghost-note-sensitive precision your fills demand versus how much body and durability you need for touring and recording. Free-floating brass snares — the design many extreme-tempo Pearl endorsers favor — prove that one shell can serve both raw blast-beat speed and refined technical articulation. Hannes Grossmann's and Flo Mounier's shallower maple snares both show how trading depth for speed sharpens ghost-note response on the genre's densest fills. Derek Roddy's bubinga Tama Starclassic snare demonstrates that consistency under one-take recording pressure doesn't have to come at the expense of technicality.
+      content: `Technical death metal snare choice comes down to how much instant, ghost-note-sensitive precision your fills demand versus how much body and durability you need for touring and recording. Free-floating brass snares — the design many extreme-tempo Pearl endorsers favor — prove that one shell can serve both raw blast-beat speed and refined technical articulation. Hannes Grossmann's and Flo Mounier's shallower maple snares both show how trading depth for speed sharpens ghost-note response on the genre's densest fills. Derek Roddy's Tama SLP Black Brass snare demonstrates that consistency under one-take recording pressure doesn't have to come at the expense of technicality.
 
 None of these approaches is more "correct" — all four represent technical death metal's founding commitment to snares that never lose the thread, no matter how dense the arrangement gets. Start with whichever voicing matches your material's balance of speed, precision, and body.
 

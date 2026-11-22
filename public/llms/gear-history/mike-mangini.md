@@ -17,11 +17,11 @@
 - **Snare:** Pearl Free-Floating Brass Snare 14"x6.5"
 - **Cymbals:** Sabian HHX/AAX Combination — 14" HHX Evolution hi-hats, 16" AAX X-Plosion crash, 18"/20" AAX X-Plosion crashes, 22" HHX Evolution ride, 18" HHX china, 10" AAX splash
 - **Pedals:** Pearl Eliminator Redline double bass pedal, Pearl hi-hat stand and boom stands, Pearl throne
-- **Sticks:** Vic Firth Mike Mangini Signature
+- **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Heads:** Remo Powerstroke 3 Clear (kick), Emperor Clear (toms), Coated Ambassador (snare)
 - **Original setup cost (2011):** ~$12,356
 - **Inflation-adjusted to 2026:** ~$17,999
-- **Notable:** Mangini won a highly publicized audition to replace founding drummer Mike Portnoy in 2010 and debuted on A Dramatic Turn of Events (2011) — an album built around his own technical vocabulary, with Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware adopted from day one. He briefly swapped in Ludwig Keystone X Maple shells for the band's 2013 self-titled album before returning to Pearl for The Astonishing (2016), keeping the same Sabian/Pearl-hardware combination throughout.
+- **Notable:** Mangini won a highly publicized audition to replace founding drummer Mike Portnoy in 2010 and debuted on A Dramatic Turn of Events (2011) — an album built around his own technical vocabulary, with Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware adopted from day one. He kept the same Pearl Masterworks Maple / Sabian / Pearl-hardware combination continuously through The Astonishing (2016).
 
 ### Distance Over Time / A View from the Top of the World Era (2019–present)
 
@@ -36,12 +36,11 @@
 
 ## Key Gear Changes
 
-- **2010–2011:** Joined Dream Theater, replacing founding drummer Mike Portnoy; assembled Pearl Masterworks shells with Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware
-- **2013:** Temporary switch to Ludwig Keystone X Maple shells for Dream Theater's self-titled album
-- **2016:** Returned to Pearl (Masterworks Maple) for The Astonishing; Sabian cymbals and Pearl Eliminator Redline hardware unchanged
+- **2010–2011:** Joined Dream Theater, replacing founding drummer Mike Portnoy; assembled Pearl Masterworks shells with Sabian HHX/AAX cymbals, Pearl Eliminator Redline hardware, and Vater Mike Mangini Wicked Piston (VHMMWP) sticks
+- **2016:** Continued with Pearl Masterworks Maple for The Astonishing; Sabian cymbals and Pearl Eliminator Redline hardware unchanged
 - **2019:** Major switch to Pearl Reference Pure shells — Sabian HHX/AAX cymbals and Pearl Eliminator Redline pedal continue unchanged since 2011
 - **2021:** Added Roland SPD-SX sampling pad for A View from the Top of the World's hybrid passages
-- **Career-long constant:** Vic Firth Mike Mangini Signature sticks across every era
+- **Career-long constant:** Vater Mike Mangini Wicked Piston (VHMMWP) sticks since his 2011 Dream Theater debut
 
 ---
 
@@ -57,7 +56,7 @@ A: Mike Mangini currently plays a Pearl Reference Pure kit with Sabian HHX/AAX c
 A: The original 2011 Pearl Masterworks Custom setup cost approximately $12,356. Adjusted for inflation to 2026 dollars, that's roughly $17,999 — reflecting general CPI inflation on the fully custom Masterworks shell pack, Sabian HHX/AAX cymbal set, and Pearl Eliminator Redline hardware Mangini used for his Dream Theater debut.
 
 **Q: Did Mike Mangini always use Pearl drums with Dream Theater?**  
-A: Almost — he used Pearl Masterworks kits from his 2011 debut through 2016, with one exception: a temporary switch to Ludwig Keystone X Maple shells for the band's 2013 self-titled album. Since 2019's Distance Over Time, he has played Pearl Reference Pure shells, with the same Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware he's used since 2011.
+A: Yes — he used Pearl Masterworks Maple kits from his 2011 debut through 2016. Since 2019's Distance Over Time, he has played Pearl Reference Pure shells, with the same Sabian HHX/AAX cymbals and Pearl Eliminator Redline hardware he's used since 2011.
 
 ---
 

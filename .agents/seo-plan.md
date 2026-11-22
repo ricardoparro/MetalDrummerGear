@@ -18202,3 +18202,53 @@ Not due this run (today is Saturday; last done Monday 2026-11-16, group 3, zero 
 3. The `how-to-sound-like-*.md` mirror vein is now close to fully swept — of 72 drummers, this run's exclusion-list method found only 13 untouched-by-title-search candidates and 9 had real issues; the remaining 59 already have dedicated "llms mirror"/"how-to-sound-like" closed issues. A future run should pivot to a DIFFERENT file-pair (e.g. `public/llms/comparisons/*.md` or `public/llms/gear-history/*.md` vs their JS sources) rather than re-running this same exclusion-list method on the same 72-name roster.
 4. GSC content-gap: 1 row this snapshot (`raymond herrera`), already-ruled class-2 for CTR; its gear-fact issue is #10945.
 5. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-22 ~01:xx UTC (SEO Agent run — 8 proposals filed #10966-10973)
+
+### Bank check
+Bank at run start: 16 open `seo-proposal` (5 human-held #7981/#10032/#10099/#10655/#10656, 3 standing umbrellas #2211/#3810/#3819, 8 fresh #10952/10953/10955-10960 — per decisions-log 00:20, already verified+promoted to `ai-fix` by the CEO's cheap pulse) — effectively 0 untriaged fresh, well under the 45 floor → cleared to file up to 8 net-new. Today is Sunday — drum-chair watch not due (last done Monday 2026-11-16, group 3, zero changes; next due Monday 2026-11-23, group 0). After filing, bank is 23.
+
+### Audit summary
+- AI crawler robots.txt (`api/robots.js`): all 8 required tokens present — unchanged, healthy.
+- `public/llms/` endpoints: stable; new-page freeze respected (zero new pages/files this run, only edits proposed to existing mirrors).
+- Content-gap queries (impr≥50, CTR<2%) per 01:02 UTC metrics.md: zero qualifying rows this snapshot (GSC 12,466 impr/250 clicks/2.01% CTR/pos 7.8) — no CTR-fix proposals needed.
+
+### Method
+Continued the `public/llms/gear-comparison/` and `gear-history/` mirror-vs-ground-truth sweep. First checked the 7 still-unswept `gear-comparison/drummers-using-*.md` files (14 total in the family, 7 already fixed by #10399-10404/#10413): `dw-performance-maple`, `gretsch-usa-custom`, `pearl-reference-pure`, `remo`, `sonor-vintage`, `tama-superstar-classic`, `yamaha-recording-custom`. 3 were already corrected by prior-run issues #10415/#10416/#10417 (zero-verified-endorser pages, flagged for founder review on sitemap removal — not re-touched). `dw-performance-maple`, `remo`, and `yamaha-recording-custom` came back CLEAN against `api/drummers/index.js`/`endorsementNews.js`. `pearl-reference-pure` surfaced one genuine new fabrication (Nick Augusto's pedal brand + invented shell sizes) — filed as #10973.
+
+Then pivoted to a precise-dedup pass of `public/llms/gear-history/*.md` (71 files): built an exclusion list via `gh issue list --search "\"gear-history/<name>.md\""` (exact path, not bare name, per the established lesson that bare-name search over-counts) against the 71 filenames, narrowing to candidates not yet covered by the just-filed #10952-10960 batch. Dispatched 3 parallel verification agents (5 drummers each) against 15 candidates (charlie-benante, chris-turner, gene-hoglan, hannes-grossmann, jay-weinberg, john-longstreth, mario-duplantier, martin-lopez, mike-mangini, mikkey-dee, nick-menza, paul-bostaph, paul-mazurkiewicz, ryan-van-poederooyen, tomas-haake), each required to cross-check root + `endorsementNews.js` and search `gh issue list --state all` per drummer before reporting.
+
+8 of 15 came back CLEAN (charlie-benante, chris-turner, hannes-grossmann, jay-weinberg, john-longstreth, mario-duplantier, martin-lopez, paul-bostaph) — most already covered by prior dedicated fixes. Personally re-verified all 7 confirmed findings via direct `grep`/`Read` against `api/drummers/index.js` and `endorsementNews.js` (not trusting agent summaries at face value) before filing — all 7 checked out:
+
+- **#10966** Gene Hoglan — fabricated "Pearl Eliminator"/"Eliminator Redline" pedal lineage (verified Pearl Demon Drive since 2018) + over-specific "Free-Floating Steel 14x6.5" snare (root hedges "not independently verified").
+- **#10967** Mike Mangini — sticks wrong brand (Vic Firth vs verified Vater Wicked Piston) + fabricated 2013 "Ludwig Keystone X Maple" detour (verified continuous Pearl Masterworks Maple 2010-2019).
+- **#10968** Mikkey Dee — stale "Tama 1993-2012" era, correct when #9788 wrote it but ground truth flipped by later #10203/#10445 to Sonor SQ2 continuous since 1992 (carried from King Diamond years); this file was never revisited after the flip.
+- **#10969** Nick Menza — fabricated "Tama Titan Hardware" pedal for the Rust in Peace era; the binding #9585 resolution for this era is to hedge hardware as not publicly documented, not assert any brand.
+- **#10970** Paul Mazurkiewicz — fabricated Sabian AA/AAX cymbals pervasively (verified Meinl Classics Custom & Byzance Series) + over-specific drum series naming.
+- **#10971** Ryan Van Poederooyen — fabricated specific snare model (root hedges "not independently verified") + wrong stick size (5A vs verified 5B); distinct from the tenure/album-credit facts #9815 already fixed in this same file.
+- **#10972** Tomas Haake — Sonor signature snare backdated-forward to a fabricated separate 2008 origin (verified: part of the original 2005 Sonor deal, per the binding #8583 resolution fixed in a sibling file but never applied here).
+- **#10973** Nick Augusto (`gear-comparison/drummers-using-pearl-reference-pure.md`) — pedal brand wrong (Pearl Demon Drive vs verified DW 9000 Series) + invented shell-size breakdown not in ground truth.
+
+### Significant discovery — a second, independently-fabricated `gear-history` surface
+While checking the above, found that `public/llms/gear-history.md` (singular, 198KB, regenerated by `scripts/generate-llms-gear-history.cjs` from `packages/frontend/data/gearPriceHistory.js`) is a **separate file from the hand-authored `public/llms/gear-history/<slug>.md` directory** that the last several weeks of sweeps have been targeting. Spot-checked its sections for all 6 of this run's non-Mikkey-Dee findings (Gene Hoglan, Mike Mangini, Nick Menza, Paul Mazurkiewicz, Ryan Van Poederooyen, Tomas Haake) and **every single one has its own, independent fact drift** — in some cases worse than the directory file (e.g. Tomas Haake's singular-file section fabricates an entire Tama/Sabian-B8/pre-Byzance-Meinl career with zero Sonor mentions; Gene Hoglan's section claims "Zildjian A Custom (consistent from SYL era)" for his current cymbals, contradicting verified Sabian AAX since 1991). Since this file is **generated**, the fix path is different: correct the source `gearPriceHistory.js` entries, then run `node scripts/generate-llms-gear-history.cjs` — not a hand-edit of the `.md` output. This is a CLAUDE.md Binding Rule #1 ("ONE data module per domain") tension worth flagging to the CEO/founder: two parallel gear-history mirror surfaces (one hand-authored, one generated) have independently drifted from the same root data and from each other. Did not file an issue for this yet — insufficient precision on exact `gearPriceHistory.js` line numbers for an atomic fix, and this run was already at the 8-proposal cap. Flagging for next run or a dedicated pass.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 832u/893s/1,164v 7d, engagement 40.20%. GSC 12,466 impr/250 clicks/2.01% CTR/pos 7.8. Zero content-gap rows this snapshot.
+
+### Drum-chair watch
+Not due this run (today is Sunday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #7981/#10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10952/10953/10955-10960 (promoted `ai-fix` per 00:20 CEO pulse)
+- #10966-10973 (this run, 8 fresh)
+
+### Next run
+1. Watch #10966-10973 pick up via CEO triage/Roadie — all 8 are single-file, 1-2-fact fixes, low atomicity-risk.
+2. **Highest-priority new lead**: `packages/frontend/data/gearPriceHistory.js` → `public/llms/gear-history.md` (generated, singular file) appears to have widespread, independent fact drift relative to current root ground truth — 6/6 drummers spot-checked this run had at least one real contradiction in their singular-file section. A future run should pick 1-2 of these (e.g. start with Tomas Haake's whole-career Tama/Sabian-B8 fabrication, the most severe found) and file atomic `gearPriceHistory.js`-source fixes (not direct `.md` edits — must regenerate via `node scripts/generate-llms-gear-history.cjs`). Treat this as a fresh, likely multi-week vein similar to the just-exhausted hand-authored `gear-history/` directory sweep.
+3. The hand-authored `gear-history/<slug>.md` directory sweep (71 files) is now very close to fully exhausted: of 15 candidates checked this run (after excluding the just-filed #10952-10960 batch), only 7 had genuine new findings and 8 came back clean, mostly already covered by dedicated prior fixes. Remaining unswept-by-exact-path-search names from this run's candidate pool: none — all 15 are now accounted for (7 fixed, 8 clean).
+4. GSC content-gap: zero rows this snapshot, no action.
+5. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

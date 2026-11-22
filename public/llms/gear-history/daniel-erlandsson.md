@@ -15,9 +15,9 @@
 
 - **Drums:** Pearl Masters Premium — 6-piece maple shell pack; 22"x18" kick, 10"x8" rack, 12"x9" rack, 14"x12" floor, 16"x14" floor
 - **Snare:** Pearl Free-Floating Steel 14"x5"
-- **Cymbals:** Meinl Byzance Traditional Series — 14" hi-hats, 16" crash, 18" crash, 20" ride, 18" china
+- **Cymbals:** Sabian AAX Series — 14" hi-hats, 16" crash, 18" crash, 20" ride, 18" AAX china
 - **Pedal:** Pearl Eliminator P-2002B double pedal
-- **Sticks:** Vic Firth 5B Hickory
+- **Sticks:** ProMark 5B Hickory
 - **Heads:** Remo Ambassador (toms), Coated Ambassador (snare), Powerstroke 3 (kick)
 - **Original setup cost (2001):** ~$5,188
 - **Inflation-adjusted to 2026:** ~$9,597
@@ -27,30 +27,30 @@
 
 - **Drums:** Pearl Masters Premium — same configuration, updated hardware
 - **Snare:** Pearl Free-Floating Steel 14"x5"
-- **Cymbals:** Meinl Byzance Series (expanded — added HH China for colour)
+- **Cymbals:** Sabian AAX / HHX Series (expanded — added HHX China for colour)
 - **Pedal:** Pearl Eliminator P-2002B double pedal
-- **Sticks:** Vic Firth 5B
+- **Sticks:** ProMark 5B
 - **Notable:** Through Anthems of Rebellion and Doomsday Machine, Erlandsson refined his approach within the same core rig. His double-kick work grew more complex — the Eliminator's cam-adjustable feel allowed fine-tuning for both the fast triplet bursts and the mid-tempo groove sections that characterise Arch Enemy's dynamic range.
 
 ### Rise of the Tyrant / Khaos Legions Era (2007–2011)
 
 - **Drums:** Pearl Reference — flagship Pearl shell pack (predecessor to Reference Pure)
 - **Snare:** Pearl Free-Floating Brass 14"x5.5"
-- **Cymbals:** Meinl Byzance Dark Series — 14" Byzance Dark Hi-Hats, 16" Byzance Dark Crash, 18" Byzance Dark Crash, 20" Byzance Dark Ride, 18" Byzance China
+- **Cymbals:** Sabian HHX Series — 14" HHX Evolution Hi-Hats, 16" HHX Evolution Crash, 18" HHX Evolution Crash, 20" HHX Evolution Ride, 18" HHX China
 - **Pedal:** Pearl Eliminator P-2002B double pedal
-- **Sticks:** Vic Firth 5B
+- **Sticks:** ProMark 5B
 - **Heads:** Evans G2 (toms), EMAD (kick), Evans Genera (snare)
 - **Original setup cost (2007):** ~$7,200
 - **Inflation-adjusted to 2026:** ~$11,400
-- **Notable:** The Pearl Reference was an endorsement upgrade matching Arch Enemy's stadium-level touring ambitions. Rise of the Tyrant (2007) saw the band headline Download Festival and major European arenas — the Reference's expanded shell construction delivered the projection required. Erlandsson's upgrade to the Byzance Dark series gave his cymbal work a richer, more layered character.
+- **Notable:** The Pearl Reference was an endorsement upgrade matching Arch Enemy's stadium-level touring ambitions. Rise of the Tyrant (2007) saw the band headline Download Festival and major European arenas — the Reference's expanded shell construction delivered the projection required. Erlandsson's upgrade to the Sabian HHX series gave his cymbal work a richer, more layered character.
 
 ### War Eternal / Will to Power Era (2014–2017)
 
 - **Drums:** Pearl Reference Pure — all-maple flagship shell pack
 - **Snare:** Pearl Free-Floating Steel 14"x5.5"
-- **Cymbals:** Meinl Byzance Dark and Extra Dry (mixed)
+- **Cymbals:** Sabian HHX and AAX (mixed)
 - **Pedal:** Pearl Eliminator Redline P-2002BL
-- **Sticks:** Vic Firth 5B American Classic
+- **Sticks:** ProMark 5B
 - **Heads:** Evans UV2 (toms), EMAD2 (kick), Evans Genera HD Dry (snare)
 - **Original setup cost (2014):** ~$9,500
 - **Inflation-adjusted to 2026:** ~$13,200
@@ -60,11 +60,11 @@
 
 - **Drums:** Pearl Reference Pure — latest configuration with additional rack toms
 - **Snare:** Pearl Free-Floating Steel 14"x5.5"
-- **Cymbals:** Meinl Byzance series (continually updated)
+- **Cymbals:** Sabian AAX / HHX series (continually updated)
 - **Pedal:** Pearl Eliminator Redline P-2002BL
-- **Sticks:** Vic Firth 5B American Classic
+- **Sticks:** ProMark 5B
 - **Heads:** Evans UV2 (toms), EMAD2 (kick), Genera HD Dry (snare)
-- **Notable:** Erlandsson's current rig represents 25 years of refinement within Pearl and Meinl endorsements — one of the longest-running brand combinations in modern melodic death metal. His consistency in tone and feel across Arch Enemy's lineup changes reflects a methodical approach to gear that prioritises reliability and repeatability.
+- **Notable:** Erlandsson's current rig represents 25 years of refinement within Pearl and Sabian endorsements — one of the longest-running brand combinations in modern melodic death metal. His consistency in tone and feel across Arch Enemy's lineup changes reflects a methodical approach to gear that prioritises reliability and repeatability.
 
 ---
 
@@ -72,7 +72,7 @@
 
 - **2001 → 2007:** Pearl Masters Premium to Pearl Reference — endorsement upgrade coinciding with Arch Enemy's stadium-level touring
 - **2007 → 2014:** Pearl Reference to Pearl Reference Pure — flagship upgrade for War Eternal's more polished production
-- **2001 onward:** Meinl Byzance endorsement maintained throughout career — consistent cymbal voice across all eras
+- **2001 onward:** Sabian cymbal endorsement maintained throughout career — consistent cymbal voice across all eras
 - **Pedal progression:** Pearl Eliminator P-2002B (2001) → Eliminator Redline P-2002BL (current) — upgraded within Pearl family
 
 ---
@@ -80,16 +80,16 @@
 ## FAQ
 
 **Q: What drum kit did Daniel Erlandsson use on Wages of Sin?**  
-A: Daniel Erlandsson used a Pearl Masters Premium on Wages of Sin (2001), with Meinl Byzance Traditional cymbals and Pearl Eliminator double pedals. The snare was a Pearl Free-Floating Steel 14"x5". The setup cost approximately $5,188 at the time, equivalent to about $9,597 adjusted for 2026 inflation.
+A: Daniel Erlandsson used a Pearl Masters Premium on Wages of Sin (2001), with Sabian AAX cymbals and Pearl Eliminator double pedals. The snare was a Pearl Free-Floating Steel 14"x5". The setup cost approximately $5,188 at the time, equivalent to about $9,597 adjusted for 2026 inflation.
 
 **Q: What drums does Daniel Erlandsson play now?**  
-A: Daniel Erlandsson currently plays a Pearl Reference Pure kit — Pearl's flagship all-maple shell pack. He pairs it with Meinl Byzance cymbals and Pearl Eliminator Redline double pedals, maintaining long-term endorsements with both Pearl and Meinl throughout his Arch Enemy career.
+A: Daniel Erlandsson currently plays a Pearl Reference Pure kit — Pearl's flagship all-maple shell pack. He pairs it with Sabian AAX / HHX cymbals and Pearl Eliminator Redline double pedals, maintaining long-term endorsements with both Pearl and Sabian throughout his Arch Enemy career.
 
 **Q: What cymbals does Daniel Erlandsson use?**  
-A: Erlandsson has been a Meinl Byzance endorsee since the early 2000s, making him one of the longest-running Meinl artists in metal. He started with Byzance Traditional, upgraded to Byzance Dark for richer overtones, and has since incorporated Extra Dry models for a drier, more controlled attack.
+A: Erlandsson has been a Sabian endorsee since the early 2000s, making him one of the longest-running Sabian artists in metal. He started with the AAX series, added HHX for richer overtones on the Rise of the Tyrant / Khaos Legions era, and now mixes AAX and HHX models across his current setup.
 
 **Q: How much does Daniel Erlandsson's drum kit cost?**  
-A: Erlandsson's 2001 Pearl Masters Premium setup cost approximately $5,188 new. His current Pearl Reference Pure configuration would cost $8,500–$10,000 new, including Meinl Byzance cymbals and Pearl hardware. The 2001 vintage kit trades for approximately $4,550 on the used market.
+A: Erlandsson's 2001 Pearl Masters Premium setup cost approximately $5,188 new. His current Pearl Reference Pure configuration would cost $8,500–$10,000 new, including Sabian AAX / HHX cymbals and Pearl hardware. The 2001 vintage kit trades for approximately $4,550 on the used market.
 
 **Q: What double bass pedal does Daniel Erlandsson use?**  
 A: Erlandsson has used Pearl Eliminator double pedals throughout his Arch Enemy career — starting with the P-2002B model from Wages of Sin (2001) and upgrading to the Eliminator Redline P-2002BL for later albums. The Eliminator's adjustable cam system allows precise feel calibration for melodic death metal's varied tempos.

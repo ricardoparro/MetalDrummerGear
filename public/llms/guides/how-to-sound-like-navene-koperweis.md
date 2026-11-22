@@ -7,7 +7,7 @@
 
 ## Overview
 
-Navene Koperweis occupies a unique corner of extreme metal: he's among the handful of drummers who helped invent djent's drumming language during his 2010–2012 run with Animals as Leaders, then kept developing it into something more compositionally sophisticated after founding Entheos in 2015 alongside vocalist Chaney Crabb. Across Entheos releases from the Primal EP (2015) through Time Will Take Us All (2023), Koperweis built a style that fuses technical death metal power with jazz-informed dynamics and math-metal precision.
+Navene Koperweis occupies a unique corner of extreme metal: he's among the handful of drummers who helped invent djent's drumming language during his 2009–2012 run with Animals as Leaders, then kept developing it into something more compositionally sophisticated after founding Entheos in 2015 alongside vocalist Chaney Crabb. Across Entheos releases from the Primal EP (2015) through Time Will Take Us All (2023), Koperweis built a style that fuses technical death metal power with jazz-informed dynamics and math-metal precision.
 
 What separates Koperweis from other technical drummers is how completely his drumming locks to the guitar riff rather than sitting on top of it. Where many djent drummers apply a fixed kick pattern under changing guitar parts, Koperweis rewrites the double-bass figure every time the riff changes — a compositional approach rooted in his background as an electronic producer under the name Navene K, where he thinks about drum parts as texture and arrangement rather than pure technical display.
 
@@ -69,7 +69,7 @@ Koperweis's defining skill is treating the kick drum as a compositional instrume
 ## FAQ
 
 **Q: What style does Navene Koperweis play?**  
-A: Koperweis plays at the intersection of djent, progressive metal, and technical death metal — riff-locked double bass developed during his 2010–2012 Animals as Leaders tenure, layered polyrhythmic precision, and a wide dynamic range refined across his own band Entheos, founded in 2015.
+A: Koperweis plays at the intersection of djent, progressive metal, and technical death metal — riff-locked double bass developed during his 2009–2012 Animals as Leaders tenure, layered polyrhythmic precision, and a wide dynamic range refined across his own band Entheos, founded in 2015.
 
 **Q: What drum kit does Navene Koperweis play?**  
 A: Koperweis currently plays a DW Performance Series kit with a double 22" x 18" bass drum configuration and a DW Performance 14" x 6.5" steel snare. His cymbals are Meinl Byzance — 15" Dual Hi-Hats, 18" and 19" Extra Dry crashes, a 21" Transition Ride, and an 18" Extra Dry China. He uses a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks.
@@ -78,7 +78,7 @@ A: Koperweis currently plays a DW Performance Series kit with a double 22" x 18"
 A: Riff-locked drumming, as Koperweis plays it, means rewriting the double-bass kick pattern to match the exact rhythm of each guitar riff rather than applying a fixed template underneath changing parts — a compositional approach first documented on Animals as Leaders' "Tooth and Claw."
 
 **Q: What bands has Navene Koperweis played in?**  
-A: Koperweis played with the grindcore band Animosity, then joined Animals as Leaders from 2010 to 2012 during the Weightless era that helped define djent drumming. He founded Entheos in 2015, and has also done session and touring work with Machine Head and Job for a Cowboy.
+A: Koperweis played with the grindcore band Animosity, then joined Animals as Leaders from 2009 to 2012 during the Weightless era that helped define djent drumming. He founded Entheos in 2015, and has also done session and touring work with Machine Head and Job for a Cowboy.
 
 **Q: What should I practice first to sound like Navene Koperweis?**  
 A: Start with the Riff-Lock Rebuild drill: take a single guitar riff, write a kick pattern that locks exactly to its rhythm, then change the riff and rebuild the pattern from scratch. That habit — treating the kick as compositional rather than templated — is the foundation everything else in his style is built on.

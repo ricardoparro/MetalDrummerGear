@@ -8,12 +8,12 @@ Hardcore's simplicity is deceptive — playing with maximum intensity, volume, a
 ## Featured Hardcore Drummers
 | Drummer | Band | Signature Setup | Profile |
 |---|---|---|---|
-| Ben Koller | Converge / Mutoid Man / Killer Be Killed | Pearl + various | [/drummer/ben-koller](/drummer/ben-koller) |
-| Jay Weinberg | Suicidal Tendencies / ex-Slipknot | Pearl Reference + Paiste | [/drummer/jay-weinberg](/drummer/jay-weinberg) |
-| Kevin Talley | Dying Fetus / Misery Index / Six Feet Under | Pearl Reference + Paiste | [/drummer/kevin-talley](/drummer/kevin-talley) |
-| Isaac Lamb | Kublai Khan TX | Pearl | [/drummer/isaac-lamb](/drummer/isaac-lamb) |
-| Dave Lombardo | Slayer (crossover thrash roots) | Pearl Reference + Zildjian | [/drummer/dave-lombardo](/drummer/dave-lombardo) |
-| Pete Sandoval | Morbid Angel (grindcore/hardcore roots) | Pearl Reference + Paiste | [/drummer/pete-sandoval](/drummer/pete-sandoval) |
+| Ben Koller | Converge / Mutoid Man / Killer Be Killed | Tama Starclassic + Zildjian | [/drummer/ben-koller](/drummer/ben-koller) |
+| Jay Weinberg | Suicidal Tendencies / ex-Slipknot | SJC Custom Drums + Zildjian | [/drummer/jay-weinberg](/drummer/jay-weinberg) |
+| Kevin Talley | Dying Fetus / Misery Index / Six Feet Under | Pearl Masters/Reference + Sabian AAX | [/drummer/kevin-talley](/drummer/kevin-talley) |
+| Isaac Lamb | Kublai Khan TX | Gear not publicly documented | [/drummer/isaac-lamb](/drummer/isaac-lamb) |
+| Dave Lombardo | Slayer (crossover thrash roots) | Tama Starclassic + Paiste | [/drummer/dave-lombardo](/drummer/dave-lombardo) |
+| Pete Sandoval | Morbid Angel (grindcore/hardcore roots) | ddrum (cymbal brand undocumented) | [/drummer/pete-sandoval](/drummer/pete-sandoval) |
 
 ## Key Technique Signatures
 - **D-beat** — the signature hardcore pattern (named after Discharge): bass-snare-bass-snare with constant hi-hat subdivision; creates propulsive, urgent momentum
@@ -31,9 +31,9 @@ Hardcore's simplicity is deceptive — playing with maximum intensity, volume, a
 
 ## Gear Preferences by Drummer
 - **Ben Koller**: Known for a straightforward, powerful setup; Converge's demanding technical-hardcore requires endurance and precision within an aggressive framework
-- **Jay Weinberg**: Pearl Reference + Paiste; crossover between hardcore roots (Suicidal Tendencies) and modern metal precision
-- **Kevin Talley**: Pearl Reference; one of extreme metal's most versatile drummers, moving between brutal death metal, grindcore, and hardcore-influenced contexts
-- **Isaac Lamb**: Pearl kit; Kublai Khan TX's beatdown hardcore demands physical power and rhythmic precision in breakdown-centric formats
+- **Jay Weinberg**: SJC Custom Drums + Zildjian; crossover between hardcore roots (Suicidal Tendencies) and modern metal precision
+- **Kevin Talley**: Pearl Masters Custom/Reference Series + Sabian AAX; one of extreme metal's most versatile drummers, moving between brutal death metal, grindcore, and hardcore-influenced contexts
+- **Isaac Lamb**: kit brand not publicly documented; Kublai Khan TX's beatdown hardcore demands physical power and rhythmic precision in breakdown-centric formats
 
 ## FAQ
 

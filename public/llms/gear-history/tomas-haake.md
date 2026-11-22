@@ -49,15 +49,14 @@
 - **Sticks:** Wincent Tomas Haake Signature — signature deal since 2010
 - **Heads:** Remo Coated Emperor
 - **Electronics:** Roland SPD-SX trigger pad for samples and click track
-- **Notable:** 2005 marked the full professionalisation of Haake's gear: a long-term Sonor drum deal, a move to Sabian HHX & AAX cymbals, and Tama Speed Cobra pedals, all still in use today. The Sonor signature snare followed in 2008 (the ÖBZen era), and the Wincent signature stick deal in 2010.
+- **Notable:** 2005 marked the full professionalisation of Haake's gear: a long-term Sonor drum deal, a move to Sabian HHX & AAX cymbals, and Tama Speed Cobra pedals, all still in use today. The Sonor Tomas Haake Signature snare was part of the original 2005 deal, debuting on *Catch Thirtythree* (2005) and still in use through *obZen* (2008), and the Wincent signature stick deal followed in 2010.
 
 ---
 
 ## Key Gear Changes
 
 - **1990–2004:** No publicly documented drum, cymbal, or stick endorsement — Haake played unendorsed gear through Meshuggah's first three studio albums
-- **2005:** Signed with Sonor (SQ2 series drums), Sabian (HHX & AAX cymbals), and switched to Tama Speed Cobra single pedals — the rig he has used ever since
-- **2008:** First Sonor Tomas Haake signature snare developed (ÖBZen era)
+- **2005:** Signed with Sonor (SQ2 series drums, including the Tomas Haake Signature snare), Sabian (HHX & AAX cymbals), and switched to Tama Speed Cobra single pedals — the rig he has used ever since
 - **2010:** First Wincent Tomas Haake signature stick
 - **Electronic integration:** Roland SPD-SX trigger pad added for sample layering and click track management — uncommon in extreme metal but consistent with Meshuggah's clinical rhythmic precision
 

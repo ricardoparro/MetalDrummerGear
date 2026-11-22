@@ -9,13 +9,13 @@ The genre demands exceptional endurance, speed, and the ability to maintain cont
 | Drummer | Band | Signature Setup | Profile |
 |---|---|---|---|
 | Lars Ulrich | Metallica | Tama Starclassic + Zildjian A Custom | [/drummer/lars-ulrich](/drummer/lars-ulrich) |
-| Dave Lombardo | Slayer | Pearl + Zildjian | [/drummer/dave-lombardo](/drummer/dave-lombardo) |
+| Dave Lombardo | Slayer | Tama Starclassic Walnut/Birch + Paiste | [/drummer/dave-lombardo](/drummer/dave-lombardo) |
 | Charlie Benante | Anthrax | Tama Starclassic + Paiste | [/drummer/charlie-benante](/drummer/charlie-benante) |
-| Dirk Verbeuren | Megadeth | Pearl Reference | [/drummer/dirk-verbeuren](/drummer/dirk-verbeuren) |
-| Gene Hoglan | Dark Angel / Death / Testament | Pearl Reference Pure + Meinl | [/drummer/gene-hoglan](/drummer/gene-hoglan) |
-| Igor Cavalera | Sepultura | Pearl Reference + Paiste | [/drummer/igor-cavalera](/drummer/igor-cavalera) |
-| Jason Bittner | Shadows Fall / Overkill | Pearl + Paiste | [/drummer/jason-bittner](/drummer/jason-bittner) |
-| Scott Travis | Judas Priest | Tama + Paiste | [/drummer/scott-travis](/drummer/scott-travis) |
+| Dirk Verbeuren | Megadeth | Tama Starclassic Maple + Meinl Byzance | [/drummer/dirk-verbeuren](/drummer/dirk-verbeuren) |
+| Gene Hoglan | Dark Angel / Death / Testament | Pearl Reference Pure + Sabian AAX | [/drummer/gene-hoglan](/drummer/gene-hoglan) |
+| Igor Cavalera | Sepultura | Yamaha Absolute Hybrid Maple + Zildjian | [/drummer/igor-cavalera](/drummer/igor-cavalera) |
+| Jason Bittner | Shadows Fall / Overkill | Mapex Saturn V + Zildjian | [/drummer/jason-bittner](/drummer/jason-bittner) |
+| Scott Travis | Judas Priest | ddrum Dominion Series + Paiste | [/drummer/scott-travis](/drummer/scott-travis) |
 
 ## Key Technique Signatures
 - **180+ BPM double-bass patterns** — continuous 16th-note bass drum runs using double pedal or twin kick
@@ -33,11 +33,11 @@ The genre demands exceptional endurance, speed, and the ability to maintain cont
 
 ## Gear Preferences by Drummer
 - **Lars Ulrich**: Tama Starclassic Maple, Zildjian A Custom cymbals, Remo heads
-- **Dave Lombardo**: Pearl Reference Pure, Zildjian cymbals, Pearl Demon Drive pedals
+- **Dave Lombardo**: Tama Starclassic Walnut/Birch, Paiste cymbals, Tama Iron Cobra 900 pedals
 - **Charlie Benante**: Tama Starclassic, Paiste cymbals, Tama Speed Cobra pedals
-- **Dirk Verbeuren**: Pearl Reference, Meinl Byzance, Pearl Demon Drive
+- **Dirk Verbeuren**: Tama Starclassic Maple, Meinl Byzance, Tama Speed Cobra 910
 - **Gene Hoglan**: Pearl Reference Pure — known as "The Atomic Clock" for metronomic precision
-- **Igor Cavalera**: Pearl Reference, Paiste cymbals; tribal influences blend with thrash aggression
+- **Igor Cavalera**: Yamaha Absolute Hybrid Maple, Zildjian A Custom cymbals; tribal influences blend with thrash aggression
 
 ## FAQ
 

@@ -8,14 +8,14 @@ Founded in the mid-1980s with influences from prog rock pioneers Rush and Yes, p
 ## Featured Progressive Metal Drummers
 | Drummer | Band | Signature Setup | Profile |
 |---|---|---|---|
-| Mike Portnoy | Dream Theater / Sons of Apollo | Tama Starclassic Maple + Bubinga + Meinl | [/drummer/mike-portnoy](/drummer/mike-portnoy) |
-| Danny Carey | Tool | Pearl Reference Pure + Paiste Giant Beat Gongs | [/drummer/danny-carey](/drummer/danny-carey) |
-| Tomas Haake | Meshuggah | Pearl Reference + Meinl Byzance | [/drummer/tomas-haake](/drummer/tomas-haake) |
-| Mike Mangini | Dream Theater | Pearl Reference + Meinl | [/drummer/mike-mangini](/drummer/mike-mangini) |
-| Matt Garstka | Animals as Leaders | Pearl Reference + Meinl Byzance | [/drummer/matt-garstka](/drummer/matt-garstka) |
+| Mike Portnoy | Dream Theater / Sons of Apollo | Tama Starclassic Maple + Bubinga + Sabian | [/drummer/mike-portnoy](/drummer/mike-portnoy) |
+| Danny Carey | Tool | Sonor SQ2 Heavy Beech + Paiste Signature | [/drummer/danny-carey](/drummer/danny-carey) |
+| Tomas Haake | Meshuggah | Sonor SQ2 + Sabian HHX/AAX | [/drummer/tomas-haake](/drummer/tomas-haake) |
+| Mike Mangini | Dream Theater | Pearl Reference Pure + Sabian | [/drummer/mike-mangini](/drummer/mike-mangini) |
+| Matt Garstka | Animals as Leaders | DW Collector's Series + Meinl Byzance | [/drummer/matt-garstka](/drummer/matt-garstka) |
 | Brann Dailor | Mastodon | Tama Starclassic + Meinl Byzance | [/drummer/brann-dailor](/drummer/brann-dailor) |
-| Gavin Harrison | Porcupine Tree / King Crimson | Tama + Meinl Byzance | [/drummer/gavin-harrison](/drummer/gavin-harrison) |
-| Mario Duplantier | Gojira | Tama Starclassic + Meinl Byzance | [/drummer/mario-duplantier](/drummer/mario-duplantier) |
+| Gavin Harrison | Porcupine Tree / King Crimson | Sonor SQ2 + Zildjian K Custom Special Dry | [/drummer/gavin-harrison](/drummer/gavin-harrison) |
+| Mario Duplantier | Gojira | Tama Starclassic Bubinga + Zildjian | [/drummer/mario-duplantier](/drummer/mario-duplantier) |
 
 ## Key Technique Signatures
 - **Odd time signatures** — 7/8, 5/4, 11/8, 13/16, and more complex meters; seamless transitions between signatures
@@ -29,14 +29,14 @@ Founded in the mid-1980s with influences from prog rock pioneers Rush and Yes, p
 - **Kick drum**: 22–24" bass drum; progressive players often use multiple toms (10", 12", 13", 14", 16") for melodic fill possibilities; Pearl Reference and Tama Starclassic dominate
 - **Cymbals**: Meinl Byzance series (warm, complex tone) and Paiste Signature (bright, cutting) popular; additional ride and crash cymbals for extended tonal palette; effect cymbals (stacks, chinas) common
 - **Snare**: Often multiple snares — main 14"x6.5" plus side snare; Mike Portnoy famously uses 3–4 snares for tonal variety
-- **Pedals**: Pearl Demon Drive (Danny Carey, Mario Duplantier) and DW 9000 series for precise control at varied tempos
+- **Pedals**: Sonor Giant Step (Danny Carey), Tama Iron Cobra (Mario Duplantier) and DW 9000 series for precise control at varied tempos
 - **Electronics**: Electronic pads and triggers common for additional sounds and samples; click tracks standard for tight synchronization with complex arrangements
 
 ## Gear Preferences by Drummer
-- **Mike Portnoy**: Tama Starclassic Maple + Bubinga, Meinl cymbals, enormous multi-snare setup; showmanship combined with musicality
-- **Danny Carey**: Pearl Reference Pure, Paiste Giant Beat Gongs, custom electronic triggers; tribal and jazz influences inform Tool's signature rhythmic approach
-- **Tomas Haake**: Pearl Reference, Meinl Byzance; mathematical precision for Meshuggah's polyrhythmic djent — widely considered one of drumming's most demanding recorded performances
-- **Mike Mangini**: Pearl Reference, Meinl; holds multiple Guinness World Records for speed; clinical execution for Dream Theater's post-Portnoy era
+- **Mike Portnoy**: Tama Starclassic Maple + Bubinga, Sabian cymbals, enormous multi-snare setup; showmanship combined with musicality
+- **Danny Carey**: Sonor SQ2 Heavy Beech, Paiste Signature cymbals, Mandala Drum electronic pads; tribal and jazz influences inform Tool's signature rhythmic approach
+- **Tomas Haake**: Sonor SQ2 Heavy Beech, Sabian HHX/AAX; mathematical precision for Meshuggah's polyrhythmic djent — widely considered one of drumming's most demanding recorded performances
+- **Mike Mangini**: Pearl Reference Pure, Sabian HHX/AAX; holds multiple Guinness World Records for speed; clinical execution for Dream Theater's post-Portnoy era
 - **Brann Dailor**: Tama Starclassic Bubinga, Meinl Byzance; melodic, jazz-influenced drumming within Mastodon's sludge/progressive framework
 
 ## FAQ
@@ -48,7 +48,7 @@ A: Progressive metal drummers need mastery of odd time signatures, polyrhythmic 
 A: This is highly subjective. Mike Portnoy (Dream Theater, Sons of Apollo) is frequently cited for his compositional drumming and showmanship. Danny Carey (Tool) brings extraordinary polyrhythmic complexity and tribal influences. Tomas Haake (Meshuggah) pioneered mathematical djent drumming. Mike Mangini holds world speed records. Each represents a different peak of progressive drumming.
 
 **Q: What drums does Mike Portnoy use?**
-A: Mike Portnoy endorses Tama drums, using a dual Tama Starclassic Maple + Bubinga "Dream Monster" kit with multiple snare drums, an extensive tom setup, and Meinl Byzance cymbals. He's been a Tama endorser since 1985. His kits are famous for their elaborate size — multiple rides, crashes, and stacks are standard in his setup.
+A: Mike Portnoy endorses Tama drums, using a dual Tama Starclassic Maple + Bubinga "Dream Monster" kit with multiple snare drums, an extensive tom setup, and Sabian HHX MAX/AAX MAXX cymbals. He's been a Tama endorser since 1985. His kits are famous for their elaborate size — multiple rides, crashes, and stacks are standard in his setup.
 
 **Q: What is djent drumming?**
 A: Djent drumming (associated with Meshuggah, Periphery, Animals as Leaders) features tight, syncopated patterns matching staccato, palm-muted guitar riffs. Tomas Haake pioneered the style with mathematically precise polyrhythmic patterns — his performance on "Bleed" playing 4/4 with his feet against a different meter with his hands is considered one of drumming's most technically demanding recorded performances.

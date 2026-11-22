@@ -26,10 +26,10 @@
 ### Deconstruction Era (2011)
 
 - **Drums:** Pearl Reference Series — 22"x18" bass drums (x2), 10"/12" rack toms, 16"/18" floor toms
-- **Snare:** Pearl Free-Floating / Sensitone 14"x6.5"
+- **Snare:** Pearl (specific model not independently verified)
 - **Cymbals:** Sabian AAX/HHX — 14" AAX hi-hats, 16" AAX crash, 18" HHX crash, 20" HHX ride, 18" AAX China
 - **Pedal:** Pearl Demon Drive double pedal
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans EMAD (kick), EC2 (toms), Remo Coated Ambassador (snare)
 - **Original setup cost (2011):** ~$5,898
 - **Inflation-adjusted to 2026:** ~$8,591

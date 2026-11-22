@@ -30,9 +30,9 @@
 
 - **Drums:** Pearl Reference Pure — 22" bass drum (double kick via Demon Drive), 10"/12" rack toms, 16"/18" floor toms
 - **Snare:** Pearl Reference 14"x5" Brass
-- **Cymbals:** Paiste — 15" Sound Edge hi-hats, 16" RUDE crash, 18" 2002 crash, 22" RUDE Power Ride, 18" 2002 China
+- **Cymbals:** Paiste — 15" Sound Edge hi-hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China
 - **Pedal:** Pearl Demon Drive double pedal
-- **Sticks:** Promark 5B
+- **Sticks:** Vic Firth American Classic Extreme 5B
 - **Heads:** Remo Emperor (batter), Ambassador (resonant)
 - **Original setup cost (2011):** ~$6,143
 - **Inflation-adjusted to 2026:** ~$8,948
@@ -55,7 +55,7 @@
 - **2011:** Welcome to the Morbid Reich recorded — definitive Pearl Reference Pure / Paiste RUDE setup established
 - **2014:** Switches from Pearl to Tama Starclassic Performer B/B (Piano Black) with S.L.P. Black Brass snare
 - **2018:** Tama Starclassic / Paiste setup carried into full-time Dimmu Borgir role, powering Eonian
-- **Career constant:** Pearl Demon Drive double pedal and Promark 5B sticks maintained across both extreme death metal and symphonic black metal contexts
+- **Career constant:** Pearl Demon Drive double pedal and Vic Firth American Classic Extreme 5B sticks maintained across both extreme death metal and symphonic black metal contexts
 
 ---
 
@@ -68,7 +68,7 @@ A: Daray's 2011 Welcome to the Morbid Reich-era Pearl Reference Pure setup cost 
 A: Daray plays a Pearl Reference Pure kit in custom black finish — a 22" bass drum with double-kick configuration via the Pearl Demon Drive pedal, 10"/12" rack toms, and 16"/18" floor toms — paired with a Pearl Reference 14"x5" brass snare chosen for cutting projection through dense, down-tuned death metal mixes.
 
 **Q: What cymbals does Daray use?**
-A: Daray uses a Paiste setup spanning the Sound Edge, RUDE, and 2002 lines — 15" Sound Edge hi-hats, 16"/18" RUDE and 2002 crashes, a 22" RUDE Power Ride, and an 18" 2002 China — chosen for durability under high-impact playing across extensive touring.
+A: Daray uses a Paiste setup spanning the Sound Edge, RUDE, and 2002 lines — 15" Sound Edge hi-hats, 17"/18" RUDE crashes, a 22" RUDE Power Ride, and an 18" 2002 China — chosen for durability under high-impact playing across extensive touring.
 
 **Q: Why is Daray's drumming considered notable?**
 A: Daray is one of extreme metal's rare drummers validated at both ends of the spectrum — pure death metal speed and brutality in Vader and Vesania, and symphonic orchestral precision replacing Hellhammer in Dimmu Borgir since 2008. His technique combines extreme blast-beat velocity with the dynamic control needed to lock timing against live orchestra performances.

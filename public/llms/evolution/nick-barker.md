@@ -39,10 +39,10 @@ Barker joined Cradle of Filth in 1993, recording "The Principle of Evil Made Fle
 
 ## Lock Up & Session Work (2004–Present)
 
-**Albums:** Lock Up - Hate Breeds Suffering (2002); Lock Up - Demonization (2017); session and touring work for Testament, Old Man's Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction
+**Albums:** Lock Up - Pleasures Pave Sewers (1999); Lock Up - Hate Breeds Suffering (2002); Lock Up - Demonization (2017); session and touring work for Testament, Old Man's Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction
 **Tours:** Lock Up touring lineup (2004–2020); session/touring dates for Testament, Old Man's Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction
 
-After leaving Dimmu Borgir in 2004, Barker continued Lock Up's grindcore output, recording "Hate Breeds Suffering" (2002) and "Demonization" (2017) before departing the band in 2020, while building an extensive session and touring resume for Testament, Old Man's Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction. Sonor's artist page describes this as his "ongoing" role in Lock Up alongside these session credits, maintaining the same Sonor endorsement without publishing further gear specifics.
+After leaving Dimmu Borgir in 2004, Barker continued Lock Up's grindcore output, recording "Pleasures Pave Sewers" (1999), "Hate Breeds Suffering" (2002), and "Demonization" (2017) before departing the band in 2020, while building an extensive session and touring resume for Testament, Old Man's Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction. Sonor's artist page describes this as his "ongoing" role in Lock Up alongside these session credits, maintaining the same Sonor endorsement without publishing further gear specifics.
 
 - **Drums:** Sonor — specific kit model/shell sizes not publicly documented
 - **Snare:** Not publicly documented — Sonor's artist materials do not itemize a snare model for Barker
@@ -51,7 +51,7 @@ After leaving Dimmu Borgir in 2004, Barker continued Lock Up's grindcore output,
 - **Estimated kit cost (original):** ~$3,100
 
 **Key developments:**
-- Continued Lock Up, recording "Hate Breeds Suffering" (2002) and "Demonization" (2017) before departing in 2020
+- Continued Lock Up, recording "Pleasures Pave Sewers" (1999), "Hate Breeds Suffering" (2002), and "Demonization" (2017) before departing in 2020
 - Built an extensive session/touring resume for Testament, Old Man's Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction
 - Maintained his Sonor endorsement across this entire stretch of session and touring work
 

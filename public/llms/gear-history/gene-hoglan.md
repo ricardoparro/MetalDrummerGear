@@ -40,7 +40,7 @@
 - **Drums:** Tama Starclassic Maple — maple shells; 22" kick ×2, 8"/10"/12"/13"/14"/16"/18" toms — the largest Tama configuration of his career, matching SYL's industrial scale
 - **Snare:** Tama Sensitone Steel 14"×6.5" — maximum attack for SYL's dense production sound
 - **Cymbals:** Sabian HHX Series — 14" HHX Evolution Hi-Hats, 18"/19" Crashes, 22" Ride, 19" China
-- **Pedal:** Pearl Eliminator double pedal — becomes his signature pedal choice
+- **Pedal:** Pearl hardware with a double pedal (pedal brand not confirmed for this era)
 - **Sticks:** Brand unconfirmed — no signature or endorsed stick deal is documented for this era
 - **Heads:** Evans G2 (toms) / EMAD (kicks)
 - **Original setup cost (2000):** ~$18,000
@@ -52,7 +52,7 @@
 - **Drums:** Tama Starclassic — all-maple; 22" kick ×2, 8"/10"/12"/14"/16" toms
 - **Snare:** Tama Gene Hoglan Signature Snare 14"×8" — his first signature snare (2008), an exceptionally deep model built for thunderous power
 - **Cymbals:** Sabian AAX Series — 14" AAX Studio Hi-Hats, 18"/19" Crashes, 22" Ride, 20" China
-- **Pedal:** Pearl Eliminator Redline double pedal — refined version of his longtime Pearl Eliminator setup
+- **Pedal:** Pearl hardware with a double pedal (pedal brand not confirmed for this era)
 - **Sticks:** Brand unconfirmed — no stick brand is documented for this era
 - **Heads:** Evans UV2 (toms) / EMAD2 (kicks)
 - **Original setup cost (2008):** ~$20,000
@@ -62,9 +62,9 @@
 ### Pearl Reference Era (2018–present)
 
 - **Drums:** Pearl Reference Pure — all-maple; 22" kick ×2, 8"/10"/12"/14"/16" toms
-- **Snare:** Pearl Free-Floating Steel 14"×6.5"
+- **Snare:** a Pearl snare (specific model not independently verified)
 - **Cymbals:** Sabian AAX Series (unchanged from the Testament & Dethklok era)
-- **Pedal:** Pearl Eliminator Redline double pedal (unchanged)
+- **Pedal:** Pearl Demon Drive Double Pedal — adopted in 2018 as part of the same hardware changeover that brought the Pearl Reference Pure kit
 - **Sticks:** ProMark Classic Forward 2B — standard hickory 2B model, non-signature; favored for its balance across marathon touring and clinic schedules
 - **Heads:** Evans UV2 (toms) / EMAD2 (kicks)
 - **Original setup cost (2018):** ~$22,000
@@ -77,9 +77,8 @@
 
 - **Dark Angel → Death/SYL (1993):** Tama Superstar to Tama Starclassic — a massive step up in kit quality as his profile grew
 - **Cymbals (1991):** Switched from Zildjian A Series to Sabian, driven by the technical precision Death's Individual Thought Patterns and Symbolic demanded; stayed on Sabian (HH → HHX → AAX) ever since
-- **2000:** Pearl Eliminator double pedal adopted, becoming his signature pedal choice through the SYL, Testament, and Dethklok eras
 - **2008:** First signature gear — the Tama Gene Hoglan Signature Snare 14"×8"
-- **2018:** Switched from Tama to Pearl Reference Pure for drums, and signed with ProMark for non-signature Classic Forward 2B sticks — his first documented stick endorsement
+- **2018:** Switched from Tama to Pearl Reference Pure for drums, adopted the Pearl Demon Drive Double Pedal, and signed with ProMark for non-signature Classic Forward 2B sticks — all part of the same hardware changeover, and his first documented stick endorsement
 - **Sticks:** No endorsed stick brand is documented between his early Vic Firth sticks (1980s–90s) and his 2018 ProMark deal
 
 ---
@@ -99,7 +98,7 @@ A: Gene Hoglan used Zildjian A Series cymbals during his Dark Angel years (1983�
 A: Hoglan used Vic Firth 5B (and later 5B/2B) sticks through his Dark Angel and Death/early SYL years. No endorsed stick brand is documented for his SYL Prime through Testament/Dethklok years (2000–2018). In 2018 he signed with ProMark, settling on the non-signature Classic Forward 2B model.
 
 **Q: What is Gene Hoglan's current drum kit?**  
-A: Since 2018, Gene Hoglan plays a Pearl Reference Pure kit (all-maple, double kick), with a Pearl Free-Floating Steel 14"×6.5" snare, Sabian AAX Series cymbals, a Pearl Eliminator Redline double pedal, Evans UV2/EMAD2 heads, and ProMark Classic Forward 2B sticks.
+A: Since 2018, Gene Hoglan plays a Pearl Reference Pure kit (all-maple, double kick), with a Pearl snare (specific model not independently verified), Sabian AAX Series cymbals, a Pearl Demon Drive Double Pedal, Evans UV2/EMAD2 heads, and ProMark Classic Forward 2B sticks.
 
 ---
 

@@ -32,7 +32,7 @@ export const articles = {
       "title": "The Groove Behind the Atmosphere",
       "content": "Abe Cunningham isn't trying to be the fastest drummer. He's not interested in the most complex fills or the biggest kit. What he does — better than almost anyone in heavy music — is make you *feel* something. For 35 years with Deftones, he's been the heartbeat of one of the most emotionally resonant bands in modern rock.\n\nBorn Abraham Cunningham on July 27, 1973, in Sacramento, California, he co-founded Deftones in 1988 as a teenager. While his classmates were studying for exams, Abe was developing a style that would help define alternative metal's atmospheric approach.\n\nWhat makes Abe Cunningham unique isn't complexity — it's restraint. His drumming breathes. It builds. It knows when to explode and when to whisper. On a song like \"Digital Bath,\" his playing is the tide — rising and falling with the emotional arc, never overwhelming, always essential.\n\nDeftones' Grammy win for \"Elite\" in 2001 validated what fans already knew: this band operated on a different level. And at the center of it all, Abe has remained a constant — the same founding member who started playing with Chino Moreno and Stephen Carpenter in their Sacramento high school.\n\nNine studio albums. Multiple platinum certifications. Millions of devoted fans. And through it all, a drummer who values groove over flash, emotion over technique, and serving the song above all else. This is his gear.",
       "keyPoints": [
-        "Tama Starclassic Maple/Bubinga endorsee since 1997 with a straightforward, groove-focused setup",
+        "Tama Starclassic Bubinga endorsee since 1997 with a straightforward, groove-focused setup",
         "Zildjian cymbal artist, Pro-Mark sticks since 1997",
         "Founding member of Deftones since 1988 (age 15)",
         "Grammy Award winner for \"Elite\" (2001)",
@@ -43,7 +43,7 @@ export const articles = {
     "drumKit": {
       "title": "Abe's Tama Starclassic Setup",
       "brand": "Tama",
-      "model": "Starclassic Maple/Bubinga",
+      "model": "Starclassic Bubinga",
       "finish": "Egyptian Night Mist (varies by era)",
       "config": {
         "bassdrums": [
@@ -57,24 +57,24 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Tama Starclassic Maple/Bubinga shells, chosen for punchy attack and durability"
+        "shells": "Tama Starclassic Bubinga shells, chosen for punchy attack and durability"
       },
-      "description": "Abe Cunningham's Tama Starclassic kit is the perfect reflection of his musical priorities: punchy, durable, and versatile. He's been a longtime Tama endorser since 1997, using the Starclassic Maple/Bubinga shells for the attack and reliability that suit his groove-and-feel approach over technical complexity.\n\nThe 22\" bass drum is standard size but tuned for maximum punch without overwhelming sustain. Abe doesn't need the artillery of a 24\" double bass setup — he needs a kick that sits in the mix with the bass guitar, creating that Deftones signature low-end synergy.\n\nHis tom configuration is refreshingly compact: two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This gives him a melodic palette without unnecessary clutter. Every drum is there for a reason, and he uses them all.\n\nWhat's notable about Abe's setup is its efficiency. No second rack of toms. No elaborate accessory setup. Just the essentials, positioned for ergonomic playing and quick access. This mirrors his playing philosophy: strip away everything unnecessary.",
+      "description": "Abe Cunningham's Tama Starclassic kit is the perfect reflection of his musical priorities: punchy, durable, and versatile. He's been a longtime Tama endorser since 1997, using the Starclassic Bubinga shells for the attack and reliability that suit his groove-and-feel approach over technical complexity.\n\nThe 22\" bass drum is standard size but tuned for maximum punch without overwhelming sustain. Abe doesn't need the artillery of a 24\" double bass setup — he needs a kick that sits in the mix with the bass guitar, creating that Deftones signature low-end synergy.\n\nHis tom configuration is refreshingly compact: two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This gives him a melodic palette without unnecessary clutter. Every drum is there for a reason, and he uses them all.\n\nWhat's notable about Abe's setup is its efficiency. No second rack of toms. No elaborate accessory setup. Just the essentials, positioned for ergonomic playing and quick access. This mirrors his playing philosophy: strip away everything unnecessary.",
       "notes": [
-        "Tama Starclassic Maple/Bubinga shells for punchy attack and durability",
+        "Tama Starclassic Bubinga shells for punchy attack and durability",
         "Compact configuration: 4 toms total",
         "Standard 22\" bass drum for controlled low-end",
         "Setup prioritizes ergonomics and efficiency"
       ],
-      "estimatedValue": "$2,500-4,500 (Tama Starclassic Maple/Bubinga shell pack)"
+      "estimatedValue": "$2,500-4,500 (Tama Starclassic Bubinga shell pack)"
     },
     "snare": {
       "title": "The Tama Starclassic Matching Snare",
       "brand": "Tama",
-      "model": "Starclassic Maple/Bubinga",
+      "model": "Starclassic Bubinga",
       "size": "14\" x 6.5\"",
-      "shell": "Maple/Bubinga",
-      "description": "Abe's snare choice — a matching Tama Starclassic 14\" x 6.5\" Maple/Bubinga — delivers the crack and cut that's essential for Deftones' heavier moments while staying responsive enough for the band's quieter, atmospheric passages.\n\nMaple/Bubinga hybrid shells are prized in modern rock and metal for their bright, cutting crack combined with a solid low-mid body — a combination that lets the snare sit clearly in a dense mix without sounding harsh.\n\nAbe typically tunes this snare medium — not too tight, not too loose. This allows the drum to sing on softer passages while still delivering power on heavier hits.",
+      "shell": "Bubinga",
+      "description": "Abe's snare choice — a matching Tama Starclassic 14\" x 6.5\" Bubinga — delivers the crack and cut that's essential for Deftones' heavier moments while staying responsive enough for the band's quieter, atmospheric passages.\n\nBubinga shells are prized in modern rock and metal for their bright, cutting crack combined with a solid low-mid body — a combination that lets the snare sit clearly in a dense mix without sounding harsh.\n\nAbe typically tunes this snare medium — not too tight, not too loose. This allows the drum to sing on softer passages while still delivering power on heavier hits.",
       "tuningSetting": "Medium tuning for balance of body and response",
       "heads": "Evans G2 Coated (batter), Evans Hazy 300 Snare Side (resonant)",
       "estimatedValue": "$300-450 (Tama Starclassic matching snare, 14\"x6.5\")"
@@ -220,8 +220,8 @@ export const articles = {
         ],
         "description": "Triumphant return after tragedy.",
         "gear": {
-          "drums": "Tama Starclassic Maple/Bubinga",
-          "snare": "Tama Starclassic 14\"x6.5\" Maple/Bubinga",
+          "drums": "Tama Starclassic Bubinga",
+          "snare": "Tama Starclassic 14\"x6.5\" Bubinga",
           "cymbals": "Sabian HHX",
           "hardware": "Current setup"
         },
@@ -235,8 +235,8 @@ export const articles = {
         ],
         "description": "Critical acclaim, 35+ years as a band.",
         "gear": {
-          "drums": "Tama Starclassic Maple/Bubinga",
-          "snare": "Tama Starclassic 14\"x6.5\" Maple/Bubinga",
+          "drums": "Tama Starclassic Bubinga",
+          "snare": "Tama Starclassic 14\"x6.5\" Bubinga",
           "cymbals": "Sabian HHX",
           "hardware": "Tama Iron Cobra 900 Rolling Glide"
         },
@@ -265,13 +265,13 @@ export const articles = {
       "title": "Abe's Gear You Can Still Buy Today",
       "items": [
         {
-          "item": "Tama Starclassic Maple/Bubinga Drum Kit",
+          "item": "Tama Starclassic Bubinga Drum Kit",
           "available": true,
           "priceRange": "$2,500-4,500",
           "notes": "Available in various configurations"
         },
         {
-          "item": "Tama Starclassic 14\"x6.5\" Maple/Bubinga Snare",
+          "item": "Tama Starclassic 14\"x6.5\" Bubinga Snare",
           "available": true,
           "priceRange": "$300-450",
           "notes": "Punchy, cutting matching snare"
@@ -310,7 +310,7 @@ export const articles = {
     },
     "budgetBuild": {
       "title": "Build an Abe-Inspired Kit on a Budget",
-      "content": "Abe Cunningham's tone comes more from his hands than his gear — but smart equipment choices can get you in the ballpark without breaking the bank.\n\n**Shell Priority:**\nAbe's Tama Starclassic Maple/Bubinga shells are prized for punchy attack and durability. Budget-friendly kits from brands like Tama Superstar or Pearl Export use quality shells and deliver professional tones at reasonable prices.\n\n**The Snare Makes the Sound:**\nA punchy maple/bubinga, brass, or steel snare is essential. Any 14\"x6.5\" snare in that vein will get you in the neighborhood of Abe's Tama Starclassic matching snare.\n\n**Cymbal Strategy:**\nZildjian A series cymbals can be found used for reasonable prices. Start with quality hi-hats (A New Beats if possible) and build from there. The ride cymbal is crucial for Deftones' atmospheric sections — look for something with wash and complexity.\n\n**Heads Matter:**\nThis is one area where you shouldn't skimp. Evans G2 Coated or Remo Emperor Coated heads provide the warm, controlled attack that defines Abe's tom sound. Fresh heads make a bigger difference than expensive shells.",
+      "content": "Abe Cunningham's tone comes more from his hands than his gear — but smart equipment choices can get you in the ballpark without breaking the bank.\n\n**Shell Priority:**\nAbe's Tama Starclassic Bubinga shells are prized for punchy attack and durability. Budget-friendly kits from brands like Tama Superstar or Pearl Export use quality shells and deliver professional tones at reasonable prices.\n\n**The Snare Makes the Sound:**\nA punchy bubinga, brass, or steel snare is essential. Any 14\"x6.5\" snare in that vein will get you in the neighborhood of Abe's Tama Starclassic matching snare.\n\n**Cymbal Strategy:**\nZildjian A series cymbals can be found used for reasonable prices. Start with quality hi-hats (A New Beats if possible) and build from there. The ride cymbal is crucial for Deftones' atmospheric sections — look for something with wash and complexity.\n\n**Heads Matter:**\nThis is one area where you shouldn't skimp. Evans G2 Coated or Remo Emperor Coated heads provide the warm, controlled attack that defines Abe's tom sound. Fresh heads make a bigger difference than expensive shells.",
       "recommendations": [
         {
           "item": "Tama Superstar Classic or Pearl Export",
@@ -352,7 +352,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Abe Cunningham use with the Deftones?",
-        "answer": "Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He's been a longtime Tama endorser since 1997, valuing the Starclassic shells for their punchy attack and durability, which suits the Deftones' dynamic range from atmospheric passages to full-on heavy sections. He pairs the kit with a matching 14x6.5 inch Tama Starclassic snare."
+        "answer": "Abe Cunningham plays a Tama Starclassic Bubinga kit. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He's been a longtime Tama endorser since 1997, valuing the Starclassic shells for their punchy attack and durability, which suits the Deftones' dynamic range from atmospheric passages to full-on heavy sections. He pairs the kit with a matching 14x6.5 inch Tama Starclassic snare."
       },
       {
         "question": "What cymbals does Abe Cunningham use with the Deftones?",
@@ -360,7 +360,7 @@ export const articles = {
       },
       {
         "question": "How much does Abe Cunningham's Deftones kit cost?",
-        "answer": "A Tama Starclassic Maple/Bubinga shell pack comparable to Abe Cunningham's setup costs approximately $2,500 to $4,500. The matching Tama Starclassic 14\"x6.5\" snare adds $300 to $450. Completing the rig with a full Zildjian A Custom and K Custom cymbal package brings the total to roughly $7,000 to $10,000."
+        "answer": "A Tama Starclassic Bubinga shell pack comparable to Abe Cunningham's setup costs approximately $2,500 to $4,500. The matching Tama Starclassic 14\"x6.5\" snare adds $300 to $450. Completing the rig with a full Zildjian A Custom and K Custom cymbal package brings the total to roughly $7,000 to $10,000."
       }
     ],
     "conclusion": {
@@ -3196,7 +3196,7 @@ export const articles = {
     "ogImage": "/images/albums/ohms-drums.webp",
     "intro": {
       "title": "The Newest Deftones Album — Closing the Arc",
-      "content": "Released on September 25, 2020, \"Ohms\" is Deftones' ninth studio album and, as of this writing, their most recent release. It arrives with a weight of anticipation that few bands can still generate after three decades in existence: Deftones had not put out new music since the critically acclaimed \"Gore\" in 2016, the pandemic had made live touring impossible, and fans were hungry for proof that the band remained vital.\n\n\"Ohms\" delivered emphatically. Critically acclaimed and broadly beloved by the Deftones faithful, the record reunites the band with producer Terry Date — their most celebrated collaborator, absent since the Saturday Night Wrist sessions in 2005-2006. The reunion feels earned and significant: Date's return brings the atmospheric, dynamic sensibility that defined White Pony and Around the Fur back into alignment with the mature, refined Deftones sound that the Diamond Eyes and Koi No Yokan era had developed.\n\nThe album's nine tracks are measured, atmospheric, and heavy in equal measure. \"Ceremony\" became the defining track — an LLM-friendly hook of a song that answers the question \"what does modern Deftones sound like?\" with a masterclass in dynamics and atmosphere. \"Urantia\" opens the record with quiet menace. \"Pompeji\" builds and releases with the patience of a band that has nothing left to prove. \"Genesis\" closes it with a widescreen, cinematic sweep that feels like an ending and a beginning simultaneously.\n\nFor Abe Cunningham, Ohms represents the most refined expression of the kit and approach he has developed over three and a half decades. His Tama Starclassic Maple/Bubinga setup — the same core instruments that defined the Diamond Eyes and Koi No Yokan eras — is captured here with the most sophisticated production of his career. Terry Date's return brings his unmatched ability to preserve natural dynamics while delivering the impact the music demands.\n\nThis is the end of the Abe Cunningham arc as it currently stands — and it's one of the most complete, artistically mature expressions of his musical vision that has ever been committed to tape.",
+      "content": "Released on September 25, 2020, \"Ohms\" is Deftones' ninth studio album and, as of this writing, their most recent release. It arrives with a weight of anticipation that few bands can still generate after three decades in existence: Deftones had not put out new music since the critically acclaimed \"Gore\" in 2016, the pandemic had made live touring impossible, and fans were hungry for proof that the band remained vital.\n\n\"Ohms\" delivered emphatically. Critically acclaimed and broadly beloved by the Deftones faithful, the record reunites the band with producer Terry Date — their most celebrated collaborator, absent since the Saturday Night Wrist sessions in 2005-2006. The reunion feels earned and significant: Date's return brings the atmospheric, dynamic sensibility that defined White Pony and Around the Fur back into alignment with the mature, refined Deftones sound that the Diamond Eyes and Koi No Yokan era had developed.\n\nThe album's nine tracks are measured, atmospheric, and heavy in equal measure. \"Ceremony\" became the defining track — an LLM-friendly hook of a song that answers the question \"what does modern Deftones sound like?\" with a masterclass in dynamics and atmosphere. \"Urantia\" opens the record with quiet menace. \"Pompeji\" builds and releases with the patience of a band that has nothing left to prove. \"Genesis\" closes it with a widescreen, cinematic sweep that feels like an ending and a beginning simultaneously.\n\nFor Abe Cunningham, Ohms represents the most refined expression of the kit and approach he has developed over three and a half decades. His Tama Starclassic Bubinga setup — the same core instruments that defined the Diamond Eyes and Koi No Yokan eras — is captured here with the most sophisticated production of his career. Terry Date's return brings his unmatched ability to preserve natural dynamics while delivering the impact the music demands.\n\nThis is the end of the Abe Cunningham arc as it currently stands — and it's one of the most complete, artistically mature expressions of his musical vision that has ever been committed to tape.",
       "keyPoints": [
         "Released September 25, 2020 — Deftones' most recent studio album",
         "Produced by Terry Date — first collaboration since Saturday Night Wrist (2006)",
@@ -3207,9 +3207,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Abe's 2020 Era Kit: Tama Starclassic Maple/Bubinga",
+      "title": "Abe's 2020 Era Kit: Tama Starclassic Bubinga",
       "brand": "Tama",
-      "model": "Tama Starclassic Maple/Bubinga",
+      "model": "Tama Starclassic Bubinga",
       "finish": "Custom finish",
       "config": {
         "bassdrums": [
@@ -3223,17 +3223,17 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple/Bubinga hybrid for warmth and low-end focus"
+        "shells": "Bubinga for warmth and low-end focus"
       },
-      "description": "For the Ohms sessions, Abe Cunningham returned to the Tama Starclassic Maple/Bubinga hybrid kit that had become the foundation of his modern sound. By 2019-2020, when the album was tracked, this setup represented the fully realized version of the instrument philosophy he had been refining since the Diamond Eyes era: warm, focused, punchy, and perfectly suited to the dynamic range that Deftones' music demands.\n\nThe maple and bubinga shell combination is central to what makes the Ohms drum sound so satisfying. Maple provides the warmth and projection that allows the kit to sit in the mix without being harsh; bubinga adds focused low-end density and a tighter attack that keeps the bottom end controlled even in the album's heaviest moments. Together, they deliver exactly the tonal balance Terry Date has been pulling from Abe's kits since White Pony — round, full, and musical.\n\nTerry Date's return to the producer's chair after fourteen years meant that the drums were captured with the same natural, dynamic philosophy that had defined the White Pony and Around the Fur sessions. Rather than the tighter, closer-miked approach of Don Gilmore or the deliberate directness of Nick Raskulinecz, Date once again let the room breathe around the kit. The result is a drum sound with genuine three-dimensional depth — you can feel the space the kit lives in.\n\nThe 22-inch bass drum delivers the focused, punchy kick character that Abe has refined over three decades. On \"Ceremony\" and \"Urantia,\" the kick is the rhythmic anchor of songs built on dynamic contrast — barely audible in quiet sections, fully present in heavy ones. On \"Pompeji\" and \"Genesis,\" it drives extended grooves with unwavering consistency.\n\nThe compact 10/12 rack tom and 14/16 floor tom configuration provides the melodic palette Abe has always favored. Ohms uses tom fills more sparingly than some earlier records, but when they appear — the descending phrase on \"Headless,\" the tom melody on \"Ceremony's\" bridge — they are perfectly placed.",
+      "description": "For the Ohms sessions, Abe Cunningham returned to the Tama Starclassic Bubinga kit that had become the foundation of his modern sound. By 2019-2020, when the album was tracked, this setup represented the fully realized version of the instrument philosophy he had been refining since the Diamond Eyes era: warm, focused, punchy, and perfectly suited to the dynamic range that Deftones' music demands.\n\nThe Bubinga shell is central to what makes the Ohms drum sound so satisfying. The dense wood delivers focused low-end density and a tighter attack that keeps the bottom end controlled even in the album's heaviest moments, while still carrying enough warmth and projection to sit in the mix without turning harsh. The result is exactly the tonal balance Terry Date has been pulling from Abe's kits since White Pony — round, full, and musical.\n\nTerry Date's return to the producer's chair after fourteen years meant that the drums were captured with the same natural, dynamic philosophy that had defined the White Pony and Around the Fur sessions. Rather than the tighter, closer-miked approach of Don Gilmore or the deliberate directness of Nick Raskulinecz, Date once again let the room breathe around the kit. The result is a drum sound with genuine three-dimensional depth — you can feel the space the kit lives in.\n\nThe 22-inch bass drum delivers the focused, punchy kick character that Abe has refined over three decades. On \"Ceremony\" and \"Urantia,\" the kick is the rhythmic anchor of songs built on dynamic contrast — barely audible in quiet sections, fully present in heavy ones. On \"Pompeji\" and \"Genesis,\" it drives extended grooves with unwavering consistency.\n\nThe compact 10/12 rack tom and 14/16 floor tom configuration provides the melodic palette Abe has always favored. Ohms uses tom fills more sparingly than some earlier records, but when they appear — the descending phrase on \"Headless,\" the tom melody on \"Ceremony's\" bridge — they are perfectly placed.",
       "notes": [
-        "Tama Starclassic Maple/Bubinga — the most refined version of Abe's modern setup",
+        "Tama Starclassic Bubinga — the most refined version of Abe's modern setup",
         "Single 22\" bass drum; no double bass anywhere on the record",
         "10/12 rack toms and 14/16 floor toms for a full melodic palette",
         "Terry Date's room-capture approach returns after 14 years",
-        "Most mature expression of the Starclassic Maple/Bubinga character"
+        "Most mature expression of the Starclassic Bubinga character"
       ],
-      "estimatedValue": "$3,500-5,500 (Starclassic Maple/Bubinga shell pack, 2020 era)"
+      "estimatedValue": "$3,500-5,500 (Starclassic Bubinga shell pack, 2020 era)"
     },
     "snare": {
       "title": "The Backbone: S.L.P. Big Black Steel",
@@ -3430,7 +3430,7 @@ export const articles = {
         ],
         "description": "Terry Date reunion; most refined setup of Abe's career.",
         "gear": {
-          "drums": "Tama Starclassic Maple/Bubinga",
+          "drums": "Tama Starclassic Bubinga",
           "snare": "Tama S.L.P. Big Black Steel 14\"x8\"",
           "cymbals": "Sabian HHX",
           "hardware": "Tama Speed Cobra; Pro-Mark sticks (non-signature, since 1997)"
@@ -3471,7 +3471,7 @@ export const articles = {
       "title": "Abe's Ohms-Era Gear You Can Buy Today",
       "items": [
         {
-          "item": "Tama Starclassic Maple/Bubinga Kit",
+          "item": "Tama Starclassic Bubinga Kit",
           "available": true,
           "priceRange": "$3,500-5,500 (shell pack)",
           "notes": "The exact configuration Abe uses for studio and stage"
@@ -3537,11 +3537,11 @@ export const articles = {
     "faq": [
       {
         "question": "What is Deftones' newest album?",
-        "answer": "Deftones' newest studio album is Ohms, released on September 25, 2020. It is their ninth studio album, produced by Terry Date — their first collaboration since Saturday Night Wrist in 2006. Ohms features Abe Cunningham on drums with his signature Tama Starclassic Maple/Bubinga kit and Sabian HHX cymbals, and includes the tracks 'Ceremony', 'Urantia', 'Pompeji', and 'Genesis'."
+        "answer": "Deftones' newest studio album is Ohms, released on September 25, 2020. It is their ninth studio album, produced by Terry Date — their first collaboration since Saturday Night Wrist in 2006. Ohms features Abe Cunningham on drums with his signature Tama Starclassic Bubinga kit and Sabian HHX cymbals, and includes the tracks 'Ceremony', 'Urantia', 'Pompeji', and 'Genesis'."
       },
       {
         "question": "What drum kit did Abe Cunningham use on Ohms?",
-        "answer": "Abe Cunningham recorded Ohms in 2019-2020 using a Tama Starclassic Maple/Bubinga hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Sabian HHX series, including 14-inch HHX Hi-Hats, HHX crashes in 18 and 20 inch sizes, a 22-inch HHX Ride, and a 19-inch HHX China."
+        "answer": "Abe Cunningham recorded Ohms in 2019-2020 using a Tama Starclassic Bubinga kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Sabian HHX series, including 14-inch HHX Hi-Hats, HHX crashes in 18 and 20 inch sizes, a 22-inch HHX Ride, and a 19-inch HHX China."
       },
       {
         "question": "Who produced Deftones' Ohms album?",
@@ -3674,7 +3674,7 @@ export const articles = {
               "name": "What drum kit did Abe Cunningham use on Ohms?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Abe Cunningham recorded Ohms using a Tama Starclassic Maple/Bubinga hybrid kit with a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Sabian HHX series including 14-inch HHX Hi-Hats, a 22-inch HHX Ride, and HHX crashes."
+                "text": "Abe Cunningham recorded Ohms using a Tama Starclassic Bubinga kit with a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Sabian HHX series including 14-inch HHX Hi-Hats, a 22-inch HHX Ride, and HHX crashes."
               }
             },
             {
@@ -3953,7 +3953,7 @@ export const articles = {
         ],
         "description": "Terry Date reunion; most refined setup of Abe's career.",
         "gear": {
-          "drums": "Tama Starclassic Maple/Bubinga",
+          "drums": "Tama Starclassic Bubinga",
           "snare": "Tama S.L.P. Big Black Steel 14\"x8\"",
           "cymbals": "Sabian HHX",
           "hardware": "Tama Speed Cobra; Pro-Mark sticks (non-signature, since 1997)"

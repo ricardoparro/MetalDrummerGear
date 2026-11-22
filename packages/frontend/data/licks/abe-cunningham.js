@@ -41,7 +41,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Maple/Bubinga Kit",
+        "name": "Tama Starclassic Bubinga Kit",
         "type": "drums",
         "link": null
       },
@@ -114,7 +114,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Maple/Bubinga Kit",
+        "name": "Tama Starclassic Bubinga Kit",
         "type": "drums",
         "link": null
       },
@@ -186,7 +186,7 @@ export const licks = {
       "description": "Abe Cunningham's atmospheric ghost-note groove on Passenger from White Pony"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Maple/Bubinga Kit", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Zildjian K Custom & A Custom Series Cymbals", "type": "cymbals", "link": null },
       { "name": "Tama Iron Cobra 900 Rolling Glide Pedal", "type": "pedals", "link": null }
     ],
@@ -246,7 +246,7 @@ export const licks = {
       "description": "Abe Cunningham's rolling tom fill and groove approach on Diamond Eyes"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Maple/Bubinga Kit", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX Cymbals", "type": "cymbals", "link": null },
       { "name": "Tama Iron Cobra 900 Rolling Glide Pedal", "type": "pedals", "link": null }
     ],
@@ -306,7 +306,7 @@ export const licks = {
       "description": "Abe Cunningham's syncopated hi-hat wrist pattern on Hole in the Earth from Saturday Night Wrist"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Maple/Bubinga Kit", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Zildjian K Custom & A Custom Series Cymbals", "type": "cymbals", "link": null },
       { "name": "Tama Iron Cobra 900 Rolling Glide Pedal", "type": "pedals", "link": null }
     ],
@@ -367,7 +367,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Maple/Bubinga Kit",
+        "name": "Tama Starclassic Bubinga Kit",
         "type": "drums",
         "link": null
       },

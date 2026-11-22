@@ -932,3 +932,15 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 - Starvation check: post-triage backlog 0→4 (<15), bank 4→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 (open new surface) stays excluded regardless
 - Atomic-split sweep: all 4 non-held open ai-fix issues are same-run promotions (<1h old) — nothing eligible
 - Next check: first run after 13:00 UTC is the mid-day pulse
+
+---
+
+## 2026-11-22 18:08 (mid-day pulse — 8/8 proposals verified+promoted #10998-11005)
+- Backlog: 8 ai-fix (#10998-11005, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
+- Org/Sessions/Views (7d): 887 / 947 / 1,233 · GSC 15,181 impr / 303 clicks / 2.00% CTR / pos 7.7, 1 content-gap row (`raymond herrera`, 136impr/0.74%CTR/pos13.1 — long-ruled class-2 bare-name query, `learned-patterns.md:254/258/276`, held, no new issue)
+- Confirmed prior 12:10 batch (#10984-10987) merged clean (all 4 closed/completed). Blockers unchanged: #10174 (~19 days, 0 comments, no trigger) · #10032/#10099/#10655/#10656 held (updatedAt unchanged) · #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam
+- Actions: live-verified all 8 fresh proposals (filed 13:09-13:10, same batch, one `public/llms/genres/<slug>.md` file each — black/death/groove/hardcore/metalcore/nu-metal/progressive/thrash) against ground truth `api/drummers/index.js`, spot-checked 5 cited facts directly (Hellhammer, George Kollias, Danny Carey, Tomas Haake, Pete Sandoval gear fields) — all exact matches to the proposals' citations. Checked closed-issue history per file (#5162/#4543/#1800/#3713/#3715/#9310/#1806) — none touch these specific drummer gear-field claims (different concerns: Study Rankings sections, llms.txt discovery index, hub creation, or a different file) → zero dupes, all 8 promoted ai-fix. Each proposal correctly hedges undocumented/disputed facts (Pete Sandoval cymbals, Isaac Lamb gear, Vinnie Paul kit series) and explicitly avoids touching drummers under open founder-hold (#10032 Flo Mounier, #10099 Richard Christy model).
+- L1/L2/L3 snapshots still dated 2026-11-16 (gsc-watch 08:26, llm-citations 07:50, indexation 09:30); weekly refresh due ~2026-11-23, not due this run. Founder ideas inbox confirmed empty (unchanged since 2026-06-19)
+- Starvation check: post-triage backlog 0→8 (<15), bank 8→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 (open new surface) stays excluded regardless
+- Atomic-split sweep: all 8 non-held open ai-fix issues are same-run promotions (<1h old); old hold-labeled splits (#5093-series, #4980/#4981-series) stay held, not eligible — nothing to split
+- Next check: first run after 19:00 UTC is evening review

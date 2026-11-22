@@ -14734,7 +14734,7 @@ This guide breaks down the technique, gear, and practice approach behind Koperwe
       },
       {
         question: "What bands has Navene Koperweis played in?",
-        answer: "Koperweis played with the grindcore band Animosity, then joined Animals as Leaders from 2010 to 2012 during the Weightless era that helped define djent drumming. He founded Entheos in 2015 with vocalist Chaney Crabb, and has also done session and touring work with Machine Head and Job for a Cowboy."
+        answer: "Koperweis played with the grindcore band Animosity, then joined Animals as Leaders from 2009 to 2012 during the Weightless era that helped define djent drumming. He founded Entheos in 2015 with vocalist Chaney Crabb, and has also done session and touring work with Machine Head and Job for a Cowboy."
       },
       {
         question: "What should I practice first to sound like Navene Koperweis?",

@@ -8,12 +8,12 @@ Modern black metal (Behemoth, Dimmu Borgir, 1349) has pushed technical limits wh
 ## Featured Black Metal Drummers
 | Drummer | Band | Signature Setup | Profile |
 |---|---|---|---|
-| Hellhammer | Mayhem | Pearl Reference + Paiste | [/drummer/hellhammer](/drummer/hellhammer) |
-| Inferno | Behemoth | Pearl Reference Pure + Meinl Byzance | [/drummer/inferno](/drummer/inferno) |
-| Frost | Satyricon / 1349 | Pearl + Sabian | [/drummer/frost](/drummer/frost) |
-| Daray | Dimmu Borgir / Vader | Pearl Reference + Meinl | [/drummer/daray](/drummer/daray) |
-| George Kollias | Nile (death/black crossover) | Pearl Reference Pure + Meinl Byzance | [/drummer/george-kollias](/drummer/george-kollias) |
-| Derek Roddy | Hate Eternal / Nile | Pearl + Meinl | [/drummer/derek-roddy](/drummer/derek-roddy) |
+| Hellhammer | Mayhem | Sonor SQ2 + Paiste | [/drummer/hellhammer](/drummer/hellhammer) |
+| Inferno | Behemoth | Pearl Reference Series + Paiste RUDE | [/drummer/inferno](/drummer/inferno) |
+| Frost | Satyricon / 1349 | Tama Starclassic Bubinga + Zildjian A Series | [/drummer/frost](/drummer/frost) |
+| Daray | Dimmu Borgir / Vader | Tama Starclassic + Paiste RUDE/2002 | [/drummer/daray](/drummer/daray) |
+| George Kollias | Nile (death/black crossover) | Pearl Masterworks Stadium Exotic + Zildjian A Custom | [/drummer/george-kollias](/drummer/george-kollias) |
+| Derek Roddy | Hate Eternal / Nile | Tama Starclassic Bubinga + Meinl Byzance | [/drummer/derek-roddy](/drummer/derek-roddy) |
 
 ## Key Technique Signatures
 - **Continuous blast beats** — often sustained for entire song sections, creating an unrelenting wall of percussion
@@ -30,10 +30,10 @@ Modern black metal (Behemoth, Dimmu Borgir, 1349) has pushed technical limits wh
 - **Production note**: Many classic black metal recordings used budget gear intentionally — the lo-fi aesthetic is part of the art
 
 ## Gear Preferences by Drummer
-- **Hellhammer (Mayhem)**: Pearl Reference — one of the most recognizable setups in extreme metal; technical precision behind Mayhem's legendary chaos
-- **Inferno (Behemoth)**: Pearl Reference Pure + Meinl Byzance; technically demanding setup for one of black/death metal's most demanding live shows
-- **Frost (Satyricon/1349)**: Pearl + Sabian; clinical technique married to atmospheric black metal intensity
-- **Daray (Dimmu Borgir)**: Pearl Reference + Meinl; symphonic black metal requires precise timing to lock with orchestral arrangements
+- **Hellhammer (Mayhem)**: Sonor SQ2 — one of the most recognizable setups in extreme metal; technical precision behind Mayhem's legendary chaos
+- **Inferno (Behemoth)**: Pearl Reference Series + Paiste RUDE; technically demanding setup for one of black/death metal's most demanding live shows
+- **Frost (Satyricon/1349)**: Tama Starclassic Bubinga + Zildjian A Series; clinical technique married to atmospheric black metal intensity
+- **Daray (Dimmu Borgir)**: Tama Starclassic + Paiste RUDE/2002; symphonic black metal requires precise timing to lock with orchestral arrangements
 
 ## FAQ
 

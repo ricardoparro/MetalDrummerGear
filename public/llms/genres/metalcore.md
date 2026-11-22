@@ -9,13 +9,13 @@ Metalcore's defining structural feature is the breakdown — a highly simplified
 | Drummer | Band | Signature Setup | Profile |
 |---|---|---|---|
 | Matt Halpern | Periphery | Pearl Reference Pure + Meinl Byzance | [/drummer/matt-halpern](/drummer/matt-halpern) |
-| Matt Garstka | Animals as Leaders | Pearl Reference + Meinl Byzance | [/drummer/matt-garstka](/drummer/matt-garstka) |
-| Matt Greiner | August Burns Red | Pearl Reference + Meinl Byzance | [/drummer/matt-greiner](/drummer/matt-greiner) |
-| Chris Adler | Lamb of God | Pearl Reference + Meinl Byzance | [/drummer/chris-adler](/drummer/chris-adler) |
-| Blake Richardson | Between the Buried and Me | Pearl + Meinl | [/drummer/blake-richardson](/drummer/blake-richardson) |
-| Ben Koller | Converge / Mutoid Man | Pearl + various | [/drummer/ben-koller](/drummer/ben-koller) |
-| Navene Koperweis | Entheos / ex-Animals as Leaders | Pearl + Meinl | [/drummer/navene-koperweis](/drummer/navene-koperweis) |
-| Isaac Lamb | Kublai Khan TX | Pearl | [/drummer/isaac-lamb](/drummer/isaac-lamb) |
+| Matt Garstka | Animals as Leaders | DW Collector's Series + Meinl Byzance | [/drummer/matt-garstka](/drummer/matt-garstka) |
+| Matt Greiner | August Burns Red | Mapex Black Panther + Paiste Formula 602 | [/drummer/matt-greiner](/drummer/matt-greiner) |
+| Chris Adler | Lamb of God | Mapex Saturn + Meinl Byzance | [/drummer/chris-adler](/drummer/chris-adler) |
+| Blake Richardson | Between the Buried and Me | Tama Starclassic Bubinga + Sabian | [/drummer/blake-richardson](/drummer/blake-richardson) |
+| Ben Koller | Converge / Mutoid Man | Tama + Zildjian | [/drummer/ben-koller](/drummer/ben-koller) |
+| Navene Koperweis | Entheos / ex-Animals as Leaders | DW + Meinl Byzance | [/drummer/navene-koperweis](/drummer/navene-koperweis) |
+| Isaac Lamb | Kublai Khan TX | Gear not publicly documented | [/drummer/isaac-lamb](/drummer/isaac-lamb) |
 
 ## Key Technique Signatures
 - **Breakdown sections** — half-time, simplified patterns on the "and" of beat 4 or beat 3 for maximum pit impact; the structural defining feature of metalcore
@@ -34,10 +34,10 @@ Metalcore's defining structural feature is the breakdown — a highly simplified
 
 ## Gear Preferences by Drummer
 - **Matt Halpern**: Pearl Reference Pure + Meinl Byzance; Periphery's drummer combines technical djent precision with groove-oriented musicality; extensive educator and clinician
-- **Matt Garstka**: Pearl Reference + Meinl Byzance; jazz background informs Animals as Leaders' impossibly complex rhythmic approach; considered one of contemporary drumming's most advanced players
-- **Matt Greiner**: Pearl Reference + Meinl Byzance; August Burns Red's drummer brings melodic sensibility to metalcore's aggressive framework
+- **Matt Garstka**: DW Collector's Series + Meinl Byzance; jazz background informs Animals as Leaders' impossibly complex rhythmic approach; considered one of contemporary drumming's most advanced players
+- **Matt Greiner**: Mapex Black Panther Design Lab + Paiste Formula 602; August Burns Red's drummer brings melodic sensibility to metalcore's aggressive framework
 - **Ben Koller**: Simple, powerful setup; Converge's hardcore-influenced metalcore requires endurance and aggression over technical precision
-- **Blake Richardson**: Pearl + Meinl; Between the Buried and Me's progressive metalcore demands extraordinary technical reading ability
+- **Blake Richardson**: Tama Starclassic Bubinga + Sabian; Between the Buried and Me's progressive metalcore demands extraordinary technical reading ability
 
 ## FAQ
 

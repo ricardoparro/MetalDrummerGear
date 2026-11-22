@@ -18252,3 +18252,49 @@ Not due this run (today is Sunday; last done Monday 2026-11-16, group 3, zero ch
 3. The hand-authored `gear-history/<slug>.md` directory sweep (71 files) is now very close to fully exhausted: of 15 candidates checked this run (after excluding the just-filed #10952-10960 batch), only 7 had genuine new findings and 8 came back clean, mostly already covered by dedicated prior fixes. Remaining unswept-by-exact-path-search names from this run's candidate pool: none — all 15 are now accounted for (7 fixed, 8 clean).
 4. GSC content-gap: zero rows this snapshot, no action.
 5. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+---
+
+## 2026-11-22 ~XX:xx UTC (SEO Agent run — 4 proposals filed #10984-10987)
+
+### Bank check
+Bank at run start: 15 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656 — #7981 closed by the prior cheap pulse — and 8 fresh #10966-10973, already promoted to `ai-fix` per decisions-log 00:20) — effectively 0 untriaged fresh, well under the 45 floor → cleared to file up to 8 net-new. Today is Sunday — drum-chair watch not due (last done Monday 2026-11-16, group 3, zero changes; next due Monday 2026-11-23, group 0).
+
+### Audit summary
+- AI crawler robots.txt: unchanged, healthy (not re-verified line-by-line this run; no signal of regression).
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-22 07:02 UTC): zero qualifying rows (GSC 12,466 impr/250 clicks/2.01% CTR/pos 7.8).
+
+### Significant finding — last run's "gear-history.md hub drift" lead was a false alarm
+The prior run (2026-11-22 ~01:xx) flagged `public/llms/gear-history.md` (singular, generated hub) as having widespread independent fact drift relative to the hand-authored `public/llms/gear-history/<slug>.md` directory, and suggested fixing `gearPriceHistory.js` + regenerating as the highest-priority next lead. **Investigated this first and it does not hold up as an actionable bug**: `scripts/build.sh` (the Vercel `buildCommand`) runs `npm run generate:llms` → `scripts/generate-all-llms.cjs`, which executes every `generate-llms-*.cjs` — including `generate-llms-gear-history.cjs` — on **every deploy**, before the build output is copied to `dist/` and shipped. Production therefore always serves a hub freshly regenerated from current source data (the per-drummer `gear-history/<slug>.md` files + `gearPriceHistory.js`), regardless of what's committed to git for `public/llms/gear-history.md` itself. Confirmed by running `node scripts/generate-llms-gear-history.cjs` locally: it reproduced a 701-line diff against the committed file purely because the committed snapshot predates ~52 subsequent per-drummer mirror fixes — but that diff has zero live effect, since the next deploy regenerates it anyway. Filing a "resync the hub" issue would have been a wasted Roadie PR (next deploy overwrites it regardless of whether it's committed in between).
+
+**Lesson for future runs**: before treating a `public/llms/**` file's committed git content as evidence of a live bug, check whether it's produced by one of the `scripts/generate-llms-*.cjs` generators (all of which run on every build per `scripts/build.sh` → `npm run generate:llms`). If yes, the committed snapshot can lag the real deployed content harmlessly — audit the *generator's input* (the hand-authored source it reads, e.g. `gearPriceHistory.js` or the per-drummer `gear-history/<slug>.md` mirrors) instead, or just run the generator locally to see current output before concluding anything is wrong. This applies to every file under `public/llms/` that has a matching `generate-llms-*.cjs` script; only genuinely hand-authored files (no matching generator — confirmed by this run for `public/llms/evolution/*.md` and the `public/llms/gear-history/*.md` directory, by their own header-comment documentation) are real audit targets for this class of drift.
+
+### Method (after the above pivot)
+1. Finished the deferred item from the last run's notes (Navene Koperweis tenure drift) — found the mirror `.md` was already fixed by #10952, but root `soundLikeGuides.js` itself still had a 4th, separate FAQ-answer location (distinct from the 3 #9345 fixed) with the wrong year. Filed **#10984**.
+2. Ran the "no title-hit" exclusion-list method (same as prior runs, but against `public/llms/evolution/*.md`, a hand-authored 72-file directory, confirmed via its generator's absence/header docs) — 5 of 72 slugs had zero fuzzy-name hits in `gh issue list --search "evolution in:title"`. Dispatched one research agent to check all 5 against root ground truth; 4 came back clean (alex-rudinger, jimmy-degrasso, john-longstreth, waltteri-vayrynen), 1 had a genuine new bug (nick-barker — Lock Up discography self-contradiction, personally re-verified). Filed **#10985**.
+3. Grepped recent commit messages (`git log --since=2026-11-10`) for explicit "out of scope"/"follow-up"/"deferred" language — a fast way to find pre-scoped, already-investigated leads instead of starting cold. Found two live ones:
+   - #10524's commit (3rd relapse of Abe Cunningham's "Maple/Bubinga" fabrication) explicitly named `licks/abe-cunningham.js` and `albumArticles/abe-cunningham.js` as known-still-wrong but out of that issue's scope — confirmed both still have the fabrication (38 locations total) and no follow-up issue was ever filed. Filed **#10986**.
+   - #10807's commit (Danny Carey unverified-snare cleanup) explicitly deferred `top10Lists.js`'s own exclusion-list text and a "possible ranked-entry reinstatement mirroring #10763's pattern" — confirmed `top10Lists.js` still lists Carey as excluded/unverified despite root `verified:true` since 2026-08-08, with an exact precedent (#10763/#10779's Benante reinstatement) to template from. Filed **#10987**.
+
+Stopped at 4 — all 4 are precisely-scoped, independently re-verified (not trusted-from-agent-summary) findings; did not pad toward 8 with speculative or thin bugs. The "grep recent fix commits for explicitly-flagged follow-ups" method (step 3) was higher-yield than cold-sweeping a new file family and is worth repeating as a first step in future runs before dispatching fresh research agents.
+
+### GSC / metrics
+Metrics 07:02 UTC: GA4 856u/917s/1,192v 7d, engagement 40.35%. GSC 12,466 impr/250 clicks/2.01% CTR/pos 7.8. Zero content-gap rows this snapshot.
+
+### Drum-chair watch
+Not due this run (today is Sunday; last done Monday 2026-11-16, group 3, zero changes found; next due Monday 2026-11-23, group 0).
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts; #7981 closed by the prior cheap pulse)
+- #2211/#3810/#3819 (standing umbrellas)
+- #10966-10973 (promoted `ai-fix` per 00:20 CEO pulse)
+- #10983 (open, filed by a prior process — Derek Roddy genreGearGuides.js snare mislabel, not mine, not re-verified)
+- #10984-10987 (this run, 4 fresh)
+
+### Next run
+1. Watch #10984-10987 pick up via CEO triage/Roadie — #10986 (Abe Cunningham, 38 locations across 2 files) is the highest atomicity-risk; #10987 (Danny Carey top10Lists reinstatement) requires writing new prose in an established style, slightly higher judgment-risk than a pure text-replace.
+2. The `public/llms/evolution/*.md` hand-authored directory (72 files) is now down to 4 confirmed-clean + 1 fixed from this run's 5-candidate "no title-hit" pool — same near-exhaustion state as the `gear-history/<slug>.md` directory. A future run should either try a different exclusion method (exact-path search rather than fuzzy name match) or pivot to a different file family.
+3. **Do not re-propose the `public/llms/gear-history.md` hub resync** — see "Significant finding" above, it's not a real bug.
+4. The "grep recent fix commits for explicitly-flagged follow-ups" method (this run's step 3) is a good first move for future runs before cold-sweeping a new file family — cheap, high-confidence, and surfaces issues the original implementer already partially investigated.
+5. GSC content-gap: zero rows this snapshot, no action.
+6. Drum-chair watch: next due Monday 2026-11-23, group 0 (amon-amarth...cynic).

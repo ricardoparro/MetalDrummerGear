@@ -23,7 +23,7 @@ Each component selection shows which drummer made it famous, the exact model spe
 
 - **"The Atomic Groove"** – Gene Hoglan's Pearl shells + Vinnie Paul's Sabian cymbals + Tama Iron Cobra pedals
 - **"Prog Titan"** – Mike Portnoy's Tama kit + Danny Carey's Paiste cymbals + DW hardware
-- **"Death Machine"** – Pete Sandoval's Pearl shells + George Kollias' Zildjian cymbals + Pearl Eliminator pedals
+- **"Death Machine"** – Pete Sandoval's ddrum shells + George Kollias' Zildjian cymbals + Tama Iron Cobra pedals
 
 ## FAQ
 

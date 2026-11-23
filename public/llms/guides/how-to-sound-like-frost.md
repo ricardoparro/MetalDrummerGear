@@ -13,15 +13,15 @@ What separates Frost from most extreme metal drummers isn't raw speed, though he
 
 ## Kit Setup
 
-Frost has played **Pearl** drums throughout his Satyricon career — Pearl Custom and Pearl Reference shells across different eras:
+Frost has played **Tama Starclassic Bubinga (Piano Black finish)** drums since 2013:
 
 - **Kick Drums:** 22" x 18" Bass Drums (x2, double kick)
-- **Snare:** 14" x 6.5" Pearl Free-Floating / Reference Snare
+- **Snare:** 14" x 5.5" Tama Starclassic Bubinga Snare
 - **Rack Toms:** 10", 12", 13"
 - **Floor Toms:** 16", 18"
 - **Cymbals:** Zildjian A series — 14" New Beat hi-hats, 16" and 18" crashes, 20" ride, 18" China Boy
-- **Pedals:** Pearl Eliminator / DW 9000 Double Bass Pedal
-- **Sticks:** Vic Firth / Ahead 5B (Metal Series)
+- **Pedals:** Tama Iron Cobra Power Glide Pedal
+- **Sticks:** Vic Firth American Classic Extreme 5B
 - **Heads:** Remo Powerstroke 3 Clear with impact pad (kick), Remo Controlled Sound Coated (snare), Remo Ambassador Coated (toms)
 
 ## Tuning & Setup
@@ -48,11 +48,11 @@ Frost plays **heel-up double kick** on both feet, delivering sustained blast bea
 
 | Item | Frost's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Pearl Custom / Reference, Maple shells | Pearl Export (~$700) |
-| Snare | Pearl Free-Floating/Reference 14" x 6.5" | Any medium-bright coated steel snare |
+| Drum Kit | Tama Starclassic Bubinga, Maple/Bubinga shells | Pearl Export (~$700) |
+| Snare | Tama Starclassic Bubinga 14" x 5.5" | Any medium-bright coated steel snare |
 | Cymbals | Zildjian A Series | Zildjian A hi-hats + crash (~$200) |
-| Pedal | Pearl Eliminator / DW 9000 Double | DW 3000 Double Pedal (~$100) |
-| Sticks | Vic Firth / Ahead 5B | Promark 5B or Vater Fatback |
+| Pedal | Tama Iron Cobra Power Glide | DW 3000 Double Pedal (~$100) |
+| Sticks | Vic Firth American Classic Extreme 5B | Promark 5B or Vater Fatback |
 | Kick Head | Remo Powerstroke 3 Clear | Same, with impact pad |
 
 **Starter budget path (~$1,000):** Pearl Export + Zildjian A hi-hats/crash + DW 3000 double pedal. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
@@ -71,7 +71,7 @@ Frost plays **heel-up double kick** on both feet, delivering sustained blast bea
 A: Frost treats the blast beat as a shapeable musical event rather than a uniform wall of velocity. He builds dynamic arcs within blast sections, shifts hi-hat/ride voicing for tonal variation, and layers in tremolo-rhythm patterns mirroring Satyricon's guitar work — all while playing heel-up double kick at 200+ BPM for extended stretches.
 
 **Q: What kit does Frost from Satyricon use?**  
-A: Frost plays a Pearl kit — Custom and Reference shells across different eras — with maple construction for immediate attack. His setup centers on a double 22" x 18" bass drum configuration, a 14" x 6.5" Pearl snare, and Zildjian A series cymbals including 14" New Beat hi-hats and an 18" China Boy.
+A: Frost plays a Tama Starclassic Bubinga kit — in a Piano Black finish — for immediate attack. His setup centers on a double 22" x 18" bass drum configuration, a 14" x 5.5" Tama snare, and Zildjian A series cymbals including 14" New Beat hi-hats and an 18" China Boy.
 
 **Q: How do I get Frost's black metal drum sound?**  
 A: Use maple shells tuned for articulate attack, a medium-bright snare with minimal muffling, and Zildjian A series cymbals for fast decay. Keep the kick firm with light internal dampening so double-kick strokes stay distinct at extreme tempos.

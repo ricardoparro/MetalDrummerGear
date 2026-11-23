@@ -6,18 +6,18 @@
 
 ## Direct Answer
 
-Abe Cunningham plays a Tama Iron Cobra 900 Rolling Glide double pedal (chain-drive).
+Abe Cunningham plays a Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) double pedal (chain-drive).
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
 | Brand | Tama |
-| Model | Iron Cobra 900 Rolling Glide |
+| Model | Iron Cobra Power Glide Twin Pedal (HP900PTW) |
 | Configuration | double |
 | Drive Type | chain |
 
-Verified roster hardware entry: "Tama Iron Cobra 900 Rolling Glide Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Tama Iron Cobra Power Glide Twin Pedal (HP900PTW)." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -27,7 +27,7 @@ Verified roster hardware entry: "Tama Iron Cobra 900 Rolling Glide Double Pedal.
 ## FAQ
 
 **Q: What pedals does Abe Cunningham use?**
-A: Abe Cunningham plays a Tama Iron Cobra 900 Rolling Glide double pedal (chain-drive).
+A: Abe Cunningham plays a Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) double pedal (chain-drive).
 
 ## More Resources
 
@@ -38,4 +38,4 @@ A: Abe Cunningham plays a Tama Iron Cobra 900 Rolling Glide double pedal (chain-
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

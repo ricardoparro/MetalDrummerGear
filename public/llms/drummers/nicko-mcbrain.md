@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "British"
 profile_url: "https://metalforge.io/drummer/nicko-mcbrain"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Nicko McBrain — Drum Kit & Gear Setup
@@ -102,7 +102,7 @@ Nicko McBrain's drumming style is defined by his preference for single bass drum
 - **Drums:** British Drum Co.
 - **Snare:** Sonor Nicko McBrain Signature 14x6.5"
 - **Cymbals:** Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)
-- **Hardware:** Sonor 600 Series Hardware, Single Bass Drum Pedal
+- **Hardware:** DW 5000 Series Single Pedal
 - **Sticks:** Vic Firth Nicko McBrain Signature
 - **Heads:** Remo Emperor
 
@@ -215,7 +215,7 @@ Full breakdown: [Nicko McBrain's cymbal setup](https://metalforge.io/cymbals/set
 
 ## Pedal
 
-Nicko McBrain plays a Single Bass Drum Pedal.
+Nicko McBrain plays a DW 5000 Series single pedal.
 
 Full breakdown: [Nicko McBrain's pedal setup](https://metalforge.io/pedals/setups/nicko-mcbrain).
 
@@ -249,4 +249,4 @@ Dated brand-endorsement timeline: [Nicko McBrain's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

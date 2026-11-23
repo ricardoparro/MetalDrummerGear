@@ -1,6 +1,6 @@
 # Top 9 Metal Drummers' Signature Drumstick Models — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumstick-models)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumstick-models)
 
 ---
 
@@ -130,7 +130,7 @@ A: No — Tomas Haake's signature stick comes from Wincent, a Swedish boutique p
 ## Related Lists
 
 - [Top 10 Metal Drummers' Signature & Standout Pedal Lines](https://metalforge.io/lists/metal-drummers-signature-pedal-lines) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-pedal-lines.md)
-- [Top 7 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
+- [Top 9 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 - [Top 10 Most Expensive Metal Drum Setups](https://metalforge.io/lists/most-expensive-drum-setups) — [LLM Reference](https://metalforge.io/llms/lists/most-expensive-drum-setups.md)
 
 ## More Resources
@@ -142,4 +142,4 @@ A: No — Tomas Haake's signature stick comes from Wincent, a Swedish boutique p
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

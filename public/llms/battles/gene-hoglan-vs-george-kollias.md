@@ -17,7 +17,7 @@ Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the 
 **Genre:** Death Metal / Thrash Metal  
 **Current Kit:** Pearl Reference Pure  
 **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)  
-**Key Gear:** Pearl Reference Pure (specific snare model unverified), Pearl Demon Drive Double Pedal, Promark Classic Forward 2B  
+**Key Gear:** Pearl (specific model not independently verified), Pearl Demon Drive Double Pedal, Promark Classic Forward 2B  
 
 **Watch:**
 
@@ -33,8 +33,8 @@ George Kollias, born in 1977, is a Greek drummer known for his extreme speed and
 **Career:** Nile, Nightfall  
 **Genre:** Technical Death Metal  
 **Current Kit:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)  
-**Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)  
-**Key Gear:** Pearl George Kollias Signature 14x6.5", Pearl Demon XR Double Pedal, Vic Firth  
+**Cymbals:** Zildjian A Custom Series  
+**Key Gear:** Pearl (specific model not independently verified), Pearl Demon XR Double Pedal, Vic Firth  
 
 **Watch:**
 
@@ -48,7 +48,7 @@ George Kollias, born in 1977, is a Greek drummer known for his extreme speed and
 |----------|-------------|----------------|
 | Drum Kit | Pearl Reference Pure | Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) |
 | Cymbals | Sabian | Zildjian |
-| Snare | Pearl Reference Pure (snare unverified) | Pearl George Kollias Signature 14x6.5" |
+| Snare | Pearl (specific model not independently verified) | Pearl (specific model not independently verified) |
 | Pedals | Pearl Demon Drive Double Pedal | Pearl Demon XR Double Pedal |
 
 ## FAQ
@@ -57,7 +57,7 @@ George Kollias, born in 1977, is a Greek drummer known for his extreme speed and
 A: Gene Hoglan's Pearl Reference Pure + Sabian AAX is estimated at $8,000–$12,000, while George Kollias's Pearl Masterworks Stadium Exotic + Zildjian runs approximately $15,000–$22,000. See the full battle for the documented setups.
 
 **Q: What are the main gear differences between Gene Hoglan and George Kollias?**  
-A: Gene Hoglan plays Pearl Reference Pure paired with Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). George Kollias opts for Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/gene-hoglan-vs-george-kollias](https://metalforge.io/battles/gene-hoglan-vs-george-kollias).
+A: Gene Hoglan plays Pearl Reference Pure paired with Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). George Kollias opts for Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian A Custom Series. The brand choice reflects their distinct tonal identities — see the full battle breakdown at [metalforge.io/battles/gene-hoglan-vs-george-kollias](https://metalforge.io/battles/gene-hoglan-vs-george-kollias).
 
 **Q: Who wins the drum kit battle, Gene Hoglan or George Kollias?**  
 A: The winner is decided by community votes on MetalForge. Gene Hoglan (Death / Testament / Dethklok) and George Kollias (Nile) both bring world-class rigs. Cast your vote at [metalforge.io/battles/gene-hoglan-vs-george-kollias](https://metalforge.io/battles/gene-hoglan-vs-george-kollias).
@@ -66,7 +66,7 @@ A: The winner is decided by community votes on MetalForge. Gene Hoglan (Death / 
 A: Gene Hoglan plays Pearl Reference Pure. George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware).
 
 **Q: What cymbals do Gene Hoglan and George Kollias use?**  
-A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
+A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). George Kollias uses Zildjian A Custom Series.
 
 ---
 *Source: [MetalForge Battles](https://metalforge.io/battles/gene-hoglan-vs-george-kollias)*
@@ -76,4 +76,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

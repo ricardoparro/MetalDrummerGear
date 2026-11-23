@@ -1,6 +1,6 @@
 # Top 10 Progressive Thrash Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/progressive-thrash-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/progressive-thrash-metal-drummers)
 
 ---
 
@@ -89,10 +89,10 @@ Full drummer profile: [Alex Bent on MetalForge](https://metalforge.io/drummer/al
 ### 8. Jason Bittner
 
 **Band:** Shadows Fall / Overkill / Category 7
-**Highlight:** Shadows Fall and Overkill's technical thrash veteran pedigree
-**Why ranked here:** Jason Bittner's three-decade career spanning Overkill's classic thrash catalog and Shadows Fall's melodic-technical thrash-metalcore demonstrates the compositional range progressive thrash demands — veteran thrash chops applied to increasingly structurally ambitious material. Jason Bittner earns rank #8 for bridging old-school thrash technicality with modern progressive songwriting instincts.
+**Highlight:** Shadows Fall and modern Overkill's technical thrash veteran pedigree
+**Why ranked here:** Jason Bittner's career spanning Shadows Fall's melodic-technical thrash-metalcore and, since 2017, modern Overkill thrash demonstrates the compositional range progressive thrash demands — veteran thrash chops applied to increasingly structurally ambitious material. Jason Bittner earns rank #8 for bridging old-school thrash technicality with modern progressive songwriting instincts.
 
-Jason Bittner (Shadows Fall / Overkill / Category 7) earns rank #8 for: shadows fall and overkill's technical thrash veteran pedigree. Jason Bittner's three-decade career spanning Overkill's classic thrash catalog and Shadows Fall's melodic-technical thrash-metalcore demonstrates the compositional range progressive thrash demands — veteran thrash chops applied to increasingly structurally ambitious material. Jason Bittner earns rank #8 for bridging old-school thrash technicality with modern progressive songwriting instincts..
+Jason Bittner (Shadows Fall / Overkill / Category 7) earns rank #8 for: shadows fall and modern overkill's technical thrash veteran pedigree. Jason Bittner's career spanning Shadows Fall's melodic-technical thrash-metalcore and, since 2017, modern Overkill thrash demonstrates the compositional range progressive thrash demands — veteran thrash chops applied to increasingly structurally ambitious material. Jason Bittner earns rank #8 for bridging old-school thrash technicality with modern progressive songwriting instincts..
 
 Full drummer profile: [Jason Bittner on MetalForge](https://metalforge.io/drummer/jason-bittner)
 
@@ -150,4 +150,4 @@ A: Watchtower is widely credited as progressive thrash's founding band, its mid-
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

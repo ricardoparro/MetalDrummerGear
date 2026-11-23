@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mike-portnoy"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Mike Portnoy — Drum Kit & Gear Setup
@@ -99,7 +99,7 @@ Mike Portnoy's drumming combines technical virtuosity with musicality and showma
 - **Liquid Tension Experiment** — 1997–present (current)
 - **The Winery Dogs** — 2012–present (current)
 - **Transatlantic** — 1999–present (current)
-- **Sons of Apollo** — 2017–present (current)
+- **Sons of Apollo** — 2017–2023
 
 ## Gear
 
@@ -230,4 +230,4 @@ Dated brand-endorsement timeline: [Mike Portnoy's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,12 +1,12 @@
 # Top 10 Fastest Double Bass Drummers in Metal History — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-double-bass-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-double-bass-drummers)
 
 ---
 
 ## Overview
 
-The speed demons of double bass drumming. In metal, speed equals status — and these drummers have pushed the boundaries of human capability with their feet. From documented 280+ BPM records to inhuman endurance, these are the fastest double bass players in heavy metal history.
+The speed demons of double bass drumming. In metal, speed equals status — and these drummers have pushed the boundaries of human capability with their feet. From documented 240+ BPM records to inhuman endurance, these are the fastest double bass players in heavy metal history.
 
 **Keywords:** fastest metal drummer, fastest double bass drummer, metal drumming speed, double bass technique, extreme metal drumming, blast beats, death metal drummers
 
@@ -16,7 +16,7 @@ Double bass drumming is the heartbeat of extreme metal. What started as a jazz i
 
 The technique evolved through distinct eras: Cozy Powell and Carmine Appice brought double bass to hard rock in the 70s. Then came the 80s thrash revolution — Dave Lombardo and Lars Ulrich proved double bass could be both fast AND musical. The 90s death metal explosion pushed speeds past 200 BPM with Pete Sandoval and Gene Hoglan leading the charge.
 
-Today, drummers like George Kollias have documented speeds exceeding 280 BPM with sustained precision. Modern techniques like heel-toe, swivel, and slide have made previously impossible speeds achievable. But raw speed alone isn't enough — the greatest double bass drummers combine velocity with endurance, groove, and musicality.
+Today, drummers like George Kollias have documented speeds exceeding 240 BPM with sustained precision. Modern techniques like heel-toe, swivel, and slide have made previously impossible speeds achievable. But raw speed alone isn't enough — the greatest double bass drummers combine velocity with endurance, groove, and musicality.
 
 This ranking considers documented BPM records, sustained speed over full performances, technique innovation, and influence on the genre. These are the fastest feet in metal history.
 
@@ -37,14 +37,14 @@ Ranked by documented performance records, genre-defining influence, and technica
 ### 1. George Kollias
 
 **Band:** Nile
-**Highlight:** 280+ BPM documented speed
+**Highlight:** 240+ BPM documented speed
 **Why ranked here:** Nile's technical mastermind holds multiple speed records. His "Intense Metal Drumming" DVD showcases impossible single-stroke rolls and sustained blast beats at speeds most drummers can't even approach.
-**Documented speed:** 280+ BPM
+**Documented speed:** 240+ BPM
 **Technique:** Heel-toe technique combined with ankle motion for maximum speed
 **Key gear:** Pearl Demon XR Double Pedal (co-designed), triggers for clarity at extreme speeds
 
 **Notable facts:**
-- Holds documented speed records exceeding 280 BPM
+- Holds documented speed records exceeding 240 BPM
 - Released the influential "Intense Metal Drumming" instructional DVD
 - Can sustain blast beats for entire songs without tempo drift
 
@@ -71,7 +71,7 @@ Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/
 **Band:** Cryptopsy
 **Highlight:** Cryptopsy's inhuman machine
 **Why ranked here:** Flo Mounier's work on "None So Vile" redefined what was physically possible. His gravity blasts and sustained speed are still studied by drummers worldwide.
-**Documented speed:** 250+ BPM
+**Documented speed:** 280+ BPM
 **Technique:** Gravity blast innovator — uses rebound for one-handed blast beats
 **Key gear:** Pearl kit era, minimal triggering for organic sound
 
@@ -243,4 +243,4 @@ A: Lightweight, low-inertia pedals dominate: Axis Longboard (Derek Roddy), Pearl
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jocke-wallgren"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Jocke Wallgren — Drum Kit & Gear Setup
@@ -168,10 +168,6 @@ MetalForge has 3 signature lick tutorial(s) for Jocke Wallgren:
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
-## Snare
-
-Jocke Wallgren's snare: Pearl Reference 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
-
 ## Cymbal Setup
 
 Jocke Wallgren's cymbals: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride).
@@ -220,4 +216,4 @@ Dated brand-endorsement timeline: [Jocke Wallgren's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

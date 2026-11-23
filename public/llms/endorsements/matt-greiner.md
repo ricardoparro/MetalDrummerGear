@@ -32,7 +32,6 @@ Matt Greiner endorses DW for hardware / pedals. They play the DW 9000 Series Dou
 
 - Vic Firth Matt Greiner Signature (signature)
 - Vic Firth Matt Greiner Signature Drumsticks (2017)
-- Pearl Matt Greiner Signature Snare (2017)
 
 ## Endorsement History
 
@@ -45,7 +44,6 @@ Matt Greiner endorses DW for hardware / pedals. They play the DW 9000 Series Dou
 - **2016** (Drumheads): Signed with Evans — Signed with Evans, running G2 batters and EMAD2 bass drum heads on the new Mapex kit
 - **2016** (Hardware / Pedals): Signed with DW — Signed with DW, running the 9000 Series Double Pedal alongside the new Mapex/Paiste setup
 - **2017** (Drumsticks): Signature product: Vic Firth Matt Greiner Signature Drumsticks — Received a Vic Firth signature stick model with a custom taper and bead
-- **2017** (Drums): Signature product: Pearl Matt Greiner Signature Snare — Pearl released a Matt Greiner signature snare drum, part of the Reference Pure era setup
 
 ## FAQ
 
@@ -68,4 +66,4 @@ A: See the Endorsement History section above for a full timeline of Matt Greiner
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

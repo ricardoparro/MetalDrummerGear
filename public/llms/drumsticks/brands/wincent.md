@@ -13,9 +13,14 @@
 
 - **Rock/Metal series (incl. the METAL model):** A dedicated heavier line built for high-power playing, positioned by the brand as its longest-reach, hardest-hitting option, alongside a companion ROCK model.
 
-## Confirmed Metal Drummers (0)
+## Confirmed Metal Drummers (2)
 
-We haven't verified a Wincent drumstick played by one of our mapped metal drummers yet. That's a gap in our research, not a claim that no metal drummer plays Wincent — endorsements are only added here once a brand, retailer, or artist page confirms the pairing.
+| Drummer | Band | Drumstick |
+|---------|------|-----------|
+| [Mikkey Dee](https://metalforge.io/drumsticks/signature/mikkey-dee) | Scorpions / Motörhead | Wincent Mikkey Dee Signature (W-MDS) (Kentucky hickory, UWP wax coating, 2B-style cut) |
+| [Tomas Haake](https://metalforge.io/drumsticks/signature/tomas-haake) | Meshuggah | Wincent WTHS (Hickory (stone-ground, wax-treated), Tomas Haake Signature) |
+
+These 2 entries are pulled directly from MetalForge's verified drumsticks database — each one cites a brand or retailer source and is cross-referenced to the drummer's profile, never guessed from a photo or a forum post.
 
 Source: [Wincent — Rock/Metal Series](https://www.wincentdrumsticks.com/collections/rock-metal-series).
 
@@ -29,7 +34,7 @@ See the complete history for Wincent: [/brands/wincent](https://metalforge.io/br
 A: Wincent is a Swedish stick maker known for proprietary centerless-grinding manufacturing and weight-matching sticks within a few grams of each other — a precision-craftsmanship pitch rather than a mass-market one.
 
 **Q: Which metal drummers play Wincent drumsticks?**
-A: No drummer on our verified roster currently has a confirmed Wincent endorsement or signature model — see the Notable Lines section above for what the brand offers metal-leaning players.
+A: On our verified roster: Mikkey Dee, Tomas Haake. See the table above for the exact model each drummer plays.
 
 **Q: What are Wincent's most metal-relevant drumstick lines?**
 A: Rock/Metal series (incl. the METAL model). Full descriptions are in the Notable Lines section above.
@@ -62,4 +67,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Wincen
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

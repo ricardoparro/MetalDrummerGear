@@ -38,7 +38,7 @@ Bill Ward played a Ludwig Standard / Club Date Series kit with a Ludwig Suprapho
 
 ## Influence & Legacy
 
-Ward is widely credited as one of the true originators of heavy metal drumming — his jazz-informed, swinging approach to Black Sabbath's riffs created a rhythmic template that every subsequent metal drummer, including Greiner, built upon. Greiner earned two Grammy nominations for Best Metal Performance with August Burns Red and has influenced a generation of metalcore drummers through his signature Pearl snare, Vic Firth stick line, and worldwide drum clinics.
+Ward is widely credited as one of the true originators of heavy metal drumming — his jazz-informed, swinging approach to Black Sabbath's riffs created a rhythmic template that every subsequent metal drummer, including Greiner, built upon. Greiner earned two Grammy nominations for Best Metal Performance with August Burns Red and has influenced a generation of metalcore drummers through his signature Mapex Black Panther snare, Vic Firth stick line, and worldwide drum clinics.
 
 ## Verdict
 
@@ -67,4 +67,4 @@ A: Matt Greiner and August Burns Red have not won a Grammy, but the band receive
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

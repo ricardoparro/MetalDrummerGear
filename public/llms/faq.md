@@ -1,5 +1,5 @@
 # MetalForge — Master FAQ
-> Last Updated: 2026-11-10 · Source: https://metalforge.io
+> Last Updated: 2026-11-23 · Source: https://metalforge.io
 
 Answer-first FAQ for the gear and techniques of the world's legendary metal drummers. Every answer links to a deeper source page on MetalForge.
 
@@ -21,7 +21,7 @@ Dave Lombardo plays Tama Starclassic Walnut/Birch. The Slayer drummer rounds out
 Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms). The Meshuggah drummer rounds out the kit with a Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze snare and Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China) cymbals. [see /llms/drummers/tomas-haake.md]
 
 ### What drums does George Kollias use?
-George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). The Nile drummer rounds out the kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China) cymbals. [see /llms/drummers/george-kollias.md]
+George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). The Nile drummer rounds out the kit with a Pearl (specific model not independently verified) snare and Zildjian A Custom Series cymbals. [see /llms/drummers/george-kollias.md]
 
 ### What drums does Eloy Casagrande use?
 Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). The Slipknot drummer rounds out the kit with a Tama Bell Brass 14x5.5" (BB146) snare and Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong) cymbals. [see /llms/drummers/eloy-casagrande.md]
@@ -81,7 +81,7 @@ Navene Koperweis plays DW Drums Performance Series. The Entheos / ex-Animals as 
 Alex Bent plays Tama Starclassic Maple. The ex-Trivium / Arkaik / Dragonlord drummer rounds out the kit with a Tama Starclassic Maple 14x5" snare and Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China) cymbals. [see /llms/drummers/alex-bent.md]
 
 ### What drums does Shannon Larkin use?
-Shannon Larkin plays ddrum Dios Series. The Godsmack / Ugly Kid Joe / Wrathchild America drummer rounds out the kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese) cymbals. [see /llms/drummers/shannon-larkin.md]
+Shannon Larkin plays ddrum Dios Series. The ex-Godsmack / Ugly Kid Joe / Wrathchild America drummer rounds out the kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese) cymbals. [see /llms/drummers/shannon-larkin.md]
 
 ### What drums does Raymond Herrera use?
 Raymond Herrera plays Tama Starclassic. The Fear Factory / Arkaea / Brujeria drummer rounds out the kit with a Tama 14x6.5" Brass snare and Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China) cymbals. [see /llms/drummers/raymond-herrera.md]
@@ -306,11 +306,11 @@ A: Joey wore mask #1 in Slipknot, a Kabuki-style Japanese mask.
 
 **Q: What drum set did Joey Jordison use?**
 
-A: Joey Jordison used a Pearl Masters Premium Maple drum set during his Slipknot career. The drum set was configured with his signature Pearl Joey Jordison 13"×6.5" snare — smaller than the standard 14" for faster machine-gun fills — paired with Paiste RUDE Series cymbals and Pearl Demon Drive double bass pedals. He later transitioned to a Pearl Reference Pure kit for his side projects.
+A: Joey Jordison used a Pearl Reference Series drum set during his Slipknot career. The drum set was configured with his signature Pearl Joey Jordison 13"×6.5" snare — smaller than the standard 14" for faster machine-gun fills — paired with Paiste RUDE Series cymbals and Pearl Demon Drive double bass pedals. He later transitioned to a Pearl Reference Pure kit for his side projects.
 
 **Q: What was Joey Jordison's drum kit?**
 
-A: Joey Jordison's drum kit during his peak Slipknot era was a Pearl Masters Premium Maple configuration, centred on his signature 13"×6.5" Pearl Joey Jordison snare drum. Pearl Demon Drive double bass pedals powered his extreme blast beats. Paiste RUDE Series cymbals — 14" hi-hats, 18" & 19" crashes, 20" Chinas, and a 22" Power Ride — completed the kit.
+A: Joey Jordison's drum kit during his peak Slipknot era was a Pearl Reference Series configuration, centred on his signature 13"×6.5" Pearl Joey Jordison snare drum. Pearl Demon Drive double bass pedals powered his extreme blast beats. Paiste RUDE Series cymbals — 14" hi-hats, 18" & 19" crashes, 20" Chinas, and a 22" Power Ride — completed the kit.
 
 **Q: What cymbals did Joey Jordison use?**
 
@@ -646,7 +646,7 @@ A: Mario Duplantier's drum set is a Tama Starclassic Bubinga configuration with 
 
 **Q: What drum kit does Mario Duplantier use?**
 
-A: Mario Duplantier's drum kit is a Tama Starclassic Bubinga setup with dual 22"x18" bass drums and a Tama S.L.P. 14"x6.5" G-Maple snare, driven by a Tama Iron Cobra 900 Power Glide double pedal. Zildjian cymbals and Remo heads complete the kit he uses across Gojira's catalog.
+A: Mario Duplantier's drum kit is a Tama Starclassic Bubinga setup with dual 22"x18" bass drums and a Tama S.L.P. 14"x6.5" G-Maple snare, driven by twin Tama Iron Cobra 900 Power Glide single pedals instead of a double pedal. Zildjian cymbals and Remo heads complete the kit he uses across Gojira's catalog.
 
 **Q: What cymbals does Mario Duplantier use?**
 
@@ -658,7 +658,7 @@ A: Mario Duplantier plays a Tama S.L.P. 14"x6.5" G-Maple snare drum.
 
 **Q: What pedals does Mario Duplantier use?**
 
-A: Mario Duplantier drives his dual-bass-drum setup with a Tama Iron Cobra 900 Power Glide double pedal.
+A: Mario Duplantier drives his dual-bass-drum setup with twin Tama Iron Cobra 900 Power Glide single pedals — one per bass drum — rather than a double pedal.
 
 **Q: Does Mario Duplantier use triggers?**
 
@@ -818,7 +818,7 @@ A: Shannon Larkin was the drummer for Godsmack from 2002 to 2024, making him the
 
 **Q: What throne does Shannon Larkin use?**
 
-A: Shannon Larkin sits on a Pork Pie Big Boy throne behind his ddrum Dios Series drum kit, the same drum set he has used since joining Godsmack in 2002.
+A: Shannon Larkin sits on a Pork Pie Big Boy throne behind his ddrum Dios Series drum kit, the same drum set he used throughout his 2002-2024 run with Godsmack.
 
 ### Raymond Herrera
 

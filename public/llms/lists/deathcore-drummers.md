@@ -1,6 +1,6 @@
 # Top 10 Deathcore Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/deathcore-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/deathcore-drummers)
 
 ---
 
@@ -67,10 +67,10 @@ Full drummer profile: [Kevin Talley on MetalForge](https://metalforge.io/drummer
 ### 6. George Kollias
 
 **Band:** Nile
-**Highlight:** Nile's 280+ BPM technical death metal benchmark
-**Why ranked here:** George Kollias's documented 280+ BPM blast beats and instructional materials with Nile set the extreme-speed technical death metal standard that deathcore's blast-beat sections measure themselves against
+**Highlight:** Nile's 240+ BPM technical death metal benchmark
+**Why ranked here:** George Kollias's documented 240+ BPM blast beats and instructional materials with Nile set the extreme-speed technical death metal standard that deathcore's blast-beat sections measure themselves against
 
-George Kollias (Nile) earns rank #6 for: nile's 280+ bpm technical death metal benchmark. George Kollias's documented 280+ BPM blast beats and instructional materials with Nile set the extreme-speed technical death metal standard that deathcore's blast-beat sections measure themselves against.
+George Kollias (Nile) earns rank #6 for: nile's 240+ bpm technical death metal benchmark. George Kollias's documented 240+ BPM blast beats and instructional materials with Nile set the extreme-speed technical death metal standard that deathcore's blast-beat sections measure themselves against.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -78,9 +78,9 @@ Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drumm
 
 **Band:** Hate Eternal / Nile
 **Highlight:** Swivel technique pioneer and one-take extreme discipline
-**Why ranked here:** Derek Roddy's swivel technique pushed blast beat speed past 260 BPM, and his "Evolution of Blast Beats" instructional work with Hate Eternal and Nile has been studied by a generation of technical death metal and deathcore drummers building the same speed foundation
+**Why ranked here:** Derek Roddy's swivel technique pushed blast beat speed to new extremes, and his "Evolution of Blast Beats" instructional work with Hate Eternal and Nile has been studied by a generation of technical death metal and deathcore drummers building the same speed foundation
 
-Derek Roddy (Hate Eternal / Nile) earns rank #7 for: swivel technique pioneer and one-take extreme discipline. Derek Roddy's swivel technique pushed blast beat speed past 260 BPM, and his "Evolution of Blast Beats" instructional work with Hate Eternal and Nile has been studied by a generation of technical death metal and deathcore drummers building the same speed foundation.
+Derek Roddy (Hate Eternal / Nile) earns rank #7 for: swivel technique pioneer and one-take extreme discipline. Derek Roddy's swivel technique pushed blast beat speed to new extremes, and his "Evolution of Blast Beats" instructional work with Hate Eternal and Nile has been studied by a generation of technical death metal and deathcore drummers building the same speed foundation.
 
 Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
@@ -148,4 +148,4 @@ A: Deathcore drumming's gear demands mirror technical death metal's need for spe
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

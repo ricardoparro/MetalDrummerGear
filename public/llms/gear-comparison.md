@@ -4,7 +4,7 @@
 > Optimised for AI crawlers answering "Tama vs Pearl metal", "best cymbals for metal",
 > and brand matchup queries.
 >
-> Last updated: 2026-11-07 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
+> Last updated: 2026-11-23 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
 
 ---
 
@@ -86,7 +86,7 @@ Meinl Byzance vs Zildjian A Custom for metal drumming. Compare dark vs bright to
 
 Compare Tama Iron Cobra 900 and Pearl Demon Drive double bass pedals. Speed, feel, durability, and which pedal top metal drummers choose.
 
-**Tama endorsed by:** Lars Ulrich, Eloy Casagrande, Charlie Benante
+**Tama endorsed by:** Lars Ulrich, Eloy Casagrande
 **Pearl endorsed by:** Joey Jordison, Gene Hoglan
 
 **For metal:** Demon Drive for death metal speed demons. Iron Cobra for thrash consistency.
@@ -195,7 +195,7 @@ Compare Mapex Saturn V and Pearl Masters Maple Complete drums for metal. See spe
 
 Sabian HHX/AAX vs Meinl Byzance for metal drumming. Compare bright vs dark tones, pricing, and which cymbals top progressive and groove metal drummers prefer.
 
-**Sabian endorsed by:** Tomas Haake, Mike Portnoy, Vinnie Paul
+**Sabian endorsed by:** Tomas Haake, Mike Portnoy
 **Meinl endorsed by:** Brann Dailor, Matt Halpern, Derek Roddy
 
 **For metal:** Sabian dominates djent and groove metal thanks to signature innovations like Compression Hi-Hats. Meinl Byzance is the go-to for progressive and modern metal drummers chasing dark, complex tone that still translates cleanly in the studio.

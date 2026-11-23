@@ -34,7 +34,7 @@ Harrison specializes in linear drumming and polyrhythmic layering, using deep mu
 
 ## Key Differences
 
-Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature 14x5.25" brass snare, and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, paired with his Vic Firth Gavin Harrison Signature stick — a setup built for clarity and articulation. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — a near-total sonic opposite of Harrison's dry, restrained rig, built instead for raw cutting power at extreme tempos. Harrison specializes in linear drumming and polyrhythmic layering, using deep musical instinct and meticulous ghost-note weaving through odd time signatures to make technically impossible grooves feel natural, treating space and cymbal decay as compositional tools rather than chasing raw volume. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that is the polar opposite of Harrison's controlled, dry restraint.
+Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature 14x5.25" brass snare, and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, paired with his Vic Firth Gavin Harrison Signature stick — a setup built for clarity and articulation. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — a near-total sonic opposite of Harrison's dry, restrained rig, built instead for raw cutting power at extreme tempos. Harrison specializes in linear drumming and polyrhythmic layering, using deep musical instinct and meticulous ghost-note weaving through odd time signatures to make technically impossible grooves feel natural, treating space and cymbal decay as compositional tools rather than chasing raw volume. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that is the polar opposite of Harrison's controlled, dry restraint.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Gavin Harrison and Hellhammer represent technical mastery from opposite ends of 
 A: Gavin Harrison (Porcupine Tree, King Crimson) is known for meticulous polyrhythmic layering, ghost notes, and dry, controlled precision built for progressive rock's subtlety. Hellhammer (Mayhem, Dimmu Borgir) is known for cold, relentless blast beats delivered with icy one-foot precision, defining second-wave black metal's speed vocabulary. Harrison represents composed restraint; Hellhammer represents raw, atmosphere-first extremity.
 
 **Q: What gear do Gavin Harrison and Hellhammer use?**
-A: Gavin Harrison plays a Sonor SQ2 kit with his signature Sonor 14x5.25" brass snare and Zildjian K Custom Special Dry cymbals. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
+A: Gavin Harrison plays a Sonor SQ2 kit with his signature Sonor 14x5.25" brass snare and Zildjian K Custom Special Dry cymbals. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
 
 **Q: What bands are Gavin Harrison and Hellhammer known for?**
 A: Gavin Harrison is best known for Porcupine Tree (since 2002) and King Crimson (since 2008), and also drums for The Pineapple Thief. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir from 1999 to 2013, alongside co-founding Arcturus.
@@ -67,4 +67,4 @@ A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedbac
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

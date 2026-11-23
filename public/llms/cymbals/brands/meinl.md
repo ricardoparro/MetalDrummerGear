@@ -13,7 +13,7 @@
 
 - **Byzance (incl. Dark, Extra Dry, Traditional):** Hand-hammered B20 bronze, prized for complex, dark overtones — the most common Meinl series across the verified metal roster, especially for progressive and technical metal setups.
 - **Mb20:** A line built specifically for heavy, high-volume metal playing, sitting alongside Byzance in some verified setups (e.g. paired hi-hats/crashes from one line with a ride from the other).
-- **Classics Custom Dark:** A more affordable dark-toned line extending the Byzance-style tonal identity to a lower price point — not yet present in a verified roster setup, but a common recommendation for metal drummers on a budget.
+- **Classics Custom Dark:** A more affordable dark-toned line extending the Byzance-style tonal identity to a lower price point — used in verified roster setups and a common recommendation for metal drummers on a budget.
 
 ## Confirmed Metal Drummers (8)
 
@@ -65,4 +65,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Meinl, see
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

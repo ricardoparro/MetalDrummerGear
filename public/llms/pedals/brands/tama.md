@@ -19,7 +19,7 @@
 
 | Drummer | Band | Pedal | Setup Page |
 |---------|------|-------|------------|
-| [Abe Cunningham](https://metalforge.io/pedals/setups/abe-cunningham) | Deftones | Tama Iron Cobra 900 Rolling Glide | [Markdown](https://metalforge.io/llms/pedals/setups/abe-cunningham.md) |
+| [Abe Cunningham](https://metalforge.io/pedals/setups/abe-cunningham) | Deftones | Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) | [Markdown](https://metalforge.io/llms/pedals/setups/abe-cunningham.md) |
 | [Ben Koller](https://metalforge.io/pedals/setups/ben-koller) | Converge / Mutoid Man / Killer Be Killed | Tama Iron Cobra Double Pedal | [Markdown](https://metalforge.io/llms/pedals/setups/ben-koller.md) |
 | [Blake Richardson](https://metalforge.io/pedals/setups/blake-richardson) | Between the Buried and Me | Tama Iron Cobra Power Glide | [Markdown](https://metalforge.io/llms/pedals/setups/blake-richardson.md) |
 | [Chris Turner](https://metalforge.io/pedals/setups/chris-turner) | Oceans Ate Alaska | Tama Speed Cobra 910 | [Markdown](https://metalforge.io/llms/pedals/setups/chris-turner.md) |
@@ -53,4 +53,4 @@ Source: [Tama — official site](https://www.tama.com).
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

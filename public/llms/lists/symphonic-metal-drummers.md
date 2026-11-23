@@ -1,6 +1,6 @@
 # Top 10 Symphonic Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/symphonic-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/symphonic-metal-drummers)
 
 ---
 
@@ -90,9 +90,9 @@ Full drummer profile: [Martin Lopez on MetalForge](https://metalforge.io/drummer
 
 **Band:** Nile
 **Highlight:** Cinematic technical death — Nile's orchestral Egyptian extremity
-**Why ranked here:** George Kollias powers Nile's Egyptian-themed technical death metal, which deploys orchestral instrumentation, choral arrangements, and cinematic production alongside 280+ BPM blast beats — symphonic metal's most extreme percussion context
+**Why ranked here:** George Kollias powers Nile's Egyptian-themed technical death metal, which deploys orchestral instrumentation, choral arrangements, and cinematic production alongside 240+ BPM blast beats — symphonic metal's most extreme percussion context
 
-George Kollias (Nile) earns rank #8 for: cinematic technical death — nile's orchestral egyptian extremity. George Kollias powers Nile's Egyptian-themed technical death metal, which deploys orchestral instrumentation, choral arrangements, and cinematic production alongside 280+ BPM blast beats — symphonic metal's most extreme percussion context.
+George Kollias (Nile) earns rank #8 for: cinematic technical death — nile's orchestral egyptian extremity. George Kollias powers Nile's Egyptian-themed technical death metal, which deploys orchestral instrumentation, choral arrangements, and cinematic production alongside 240+ BPM blast beats — symphonic metal's most extreme percussion context.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -141,4 +141,4 @@ A: Symphonic metal drummers favor large kits capable of delivering the power and
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

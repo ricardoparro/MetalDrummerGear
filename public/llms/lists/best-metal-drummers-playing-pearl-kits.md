@@ -1,12 +1,12 @@
 # Top 10 Metal Drummers Playing Pearl Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
 
 ---
 
 ## Overview
 
-Pearl is the second drum-kit brand in MetalForge's gear-angle ranking series, and its Reference Pure, Masterworks, and Export lines cover more documented ground across MetalForge's gear guides than any manufacturer besides Tama. Joey Jordison anchored Slipknot's sound on a Pearl Reference Series kit in custom purple/black finishes, with a Pearl Joey Jordison Signature 13"x6.5" snare built with a smaller diameter for a faster response than a standard 14". Gene Hoglan, "The Atomic Clock," has run Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades, while Ray Luzier's Pearl Reference Maple kit gives Korn's downtuned grooves the same clarity Jordison brought to Slipknot. Mike Mangini's Pearl Masterworks Maple rig, with its multiple Pearl Reference snares and Roland TD-50 triggers, powered Dream Theater's most technically demanding material from 2010 to 2023. George Kollias co-designed the Pearl Demon XR double pedal specifically for his 240+ BPM technical death metal tempos with Nile, Paul Mazurkiewicz has played Pearl since co-founding Cannibal Corpse in 1988, and Daniel Erlandsson's Pearl Reference Pure kit anchors Arch Enemy's melodic death metal attack. Jaska Raatikainen played Pearl kits for Children of Bodom's debut "Something Wild," then returned to Pearl in 2004 with a Masters Premium Maple kit built for endurance, carrying it through "Are You Dead Yet?" and the rest of the catalog up to "Hexed" (2019) and the band's dissolution that year. Ranked by how extensively and currently each drummer's Pearl relationship is documented in MetalForge's own gear data.
+Pearl is the second drum-kit brand in MetalForge's gear-angle ranking series, and its Reference Pure, Masterworks, and Export lines cover more documented ground across MetalForge's gear guides than any manufacturer besides Tama. Joey Jordison anchored Slipknot's sound on a Pearl Reference Series kit in custom purple/black finishes, with a Pearl Joey Jordison Signature 13"x6.5" snare built with a smaller diameter for a faster response than a standard 14". Gene Hoglan, "The Atomic Clock," has run Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades, while Ray Luzier's Pearl Reference Maple kit gives Korn's downtuned grooves the same clarity Jordison brought to Slipknot. Mike Mangini's Pearl Masterworks Maple rig, with its multiple Pearl Reference snares and Roland TD-50 triggers, powered Dream Theater's most technically demanding material from 2010 to 2019, before his move to Pearl's Reference Pure. George Kollias co-designed the Pearl Demon XR double pedal specifically for his 240+ BPM technical death metal tempos with Nile, Paul Mazurkiewicz has played Pearl since co-founding Cannibal Corpse in 1988, and Daniel Erlandsson's Pearl Reference Pure kit anchors Arch Enemy's melodic death metal attack. Jaska Raatikainen played Pearl kits for Children of Bodom's debut "Something Wild," before a Tama stint spanning "Hatebreeder" (1999) through "Hate Crew Deathroll" (2003), then returned to Pearl in 2004 with a Masters Premium Maple kit built for endurance, carrying it through "Are You Dead Yet?" and the rest of the catalog up to "Hexed" (2019) and the band's dissolution that year. Ranked by how extensively and currently each drummer's Pearl relationship is documented in MetalForge's own gear data.
 
 The metal drummers with verified Pearl drum kit setups, ranked. Joey Jordison's Reference Series, Gene Hoglan's Reference Pure across 20+ bands, Ray Luzier, Mike Mangini, George Kollias, Paul Mazurkiewicz, Daniel Erlandsson, and Jaska Raatikainen — sourced from MetalForge's own gear guides.
 
@@ -116,7 +116,7 @@ A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Ange
 
 - [Top 10 Metal Drummers Playing Tama Kits](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-tama-kits.md)
 - [Top 9 Metal Drummers Playing Sabian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-sabian-cymbals.md)
-- [Top 7 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
+- [Top 9 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 
 ## More Resources
 
@@ -127,4 +127,4 @@ A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Ange
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

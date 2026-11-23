@@ -1,6 +1,6 @@
 # Top 10 Djent Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/djent-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/djent-metal-drummers)
 
 ---
 
@@ -14,7 +14,7 @@ The greatest djent metal drummers of all time. Tomas Haake, Matt Halpern, Matt G
 
 ## Rankings
 
-Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Tomas Haake, Matt Halpern, Matt Garstka, Drummer #61, Drummer #62, and more.
+Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Tomas Haake, Matt Halpern, Matt Garstka, Alex Bent, Drummer #62, and more.
 
 ### 1. Tomas Haake
 
@@ -46,13 +46,15 @@ Matt Garstka (Animals as Leaders) earns rank #3 for: animals as leaders' virtuos
 
 Full drummer profile: [Matt Garstka on MetalForge](https://metalforge.io/drummer/matt-garstka)
 
-### 4. Drummer #61
+### 4. Alex Bent
 
-**Band:** Unknown
+**Band:** ex-Trivium / Arkaík / Dragonlord
 **Highlight:** Trivium's modern djent-metalcore crossover
 **Why ranked here:** Alex Bent brought technical death metal precision into Trivium's increasingly djent-influenced modern metal sound, demonstrating how the genre's polyrhythmic vocabulary has spread into mainstream metalcore
 
-Drummer #61 (Unknown) earns rank #4 for: trivium's modern djent-metalcore crossover. Alex Bent brought technical death metal precision into Trivium's increasingly djent-influenced modern metal sound, demonstrating how the genre's polyrhythmic vocabulary has spread into mainstream metalcore.
+Alex Bent (ex-Trivium / Arkaík / Dragonlord) earns rank #4 for: trivium's modern djent-metalcore crossover. Alex Bent brought technical death metal precision into Trivium's increasingly djent-influenced modern metal sound, demonstrating how the genre's polyrhythmic vocabulary has spread into mainstream metalcore.
+
+Full drummer profile: [Alex Bent on MetalForge](https://metalforge.io/drummer/alex-bent)
 
 ### 5. Drummer #62
 
@@ -146,4 +148,4 @@ A: Djent drummers favor kits and cymbals that deliver clear articulation at comp
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

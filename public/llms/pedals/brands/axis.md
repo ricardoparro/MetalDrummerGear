@@ -11,7 +11,7 @@
 
 ## Metal-Relevant Models
 
-- **AXiS A / AXiS A Longboard:** Axis's flagship direct-drive double pedal, with a Longboard variant offering an extended footboard for more leverage — used by Alex Bent (Trivium).
+- **AXiS A / AXiS A Longboard:** Axis's flagship direct-drive double pedal, with a Longboard variant offering an extended footboard for more leverage — used by Alex Bent (ex-Trivium).
 - **AXiS Percussion Double Pedal:** Direct-drive double pedal built for zero-lag speed and consistency — used by Martin Lopez (ex-Opeth, Soen).
 
 ## Confirmed Metal Drummers (4)
@@ -40,4 +40,4 @@ Source: [Axis Percussion — About Axis](https://axispdc.com/pages/about-axis).
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

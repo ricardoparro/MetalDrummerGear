@@ -6,19 +6,19 @@
 
 ## Direct Answer
 
-Dirk Verbeuren plays Meinl cymbals: 14" Byzance Brilliant Medium Hi-Hats, 18" Classics Custom Dark Crash, 19" Classics Custom Dark Crash, 20" Classics Custom Dark Crash, 21" Classics Custom Dark Crash, 22" Byzance Brilliant HH Ride, 18" Byzance Brilliant HH China.
+Dirk Verbeuren plays Meinl cymbals: 14" Byzance Brilliant Hi-Hats, 18" Classics Custom Dark Crash, 19" Classics Custom Dark Crash, 20" Classics Custom Dark Crash, 21" Classics Custom Dark Crash, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 14" | Byzance Brilliant | Medium Hi-Hats |
+| Hi-hat | 14" | Byzance Brilliant | Hi-Hats |
 | Crash | 18" | Classics Custom Dark | Crash |
 | Crash | 19" | Classics Custom Dark | Crash |
 | Crash | 20" | Classics Custom Dark | Crash |
 | Crash | 21" | Classics Custom Dark | Crash |
-| Ride | 22" | Byzance Brilliant | HH Ride |
-| China | 18" | Byzance Brilliant | HH China |
+| Ride | 22" | Byzance Brilliant | Ride |
+| China | 18" | Byzance Brilliant | China |
 
 Verified roster hardware entry: "Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hats, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
 
@@ -32,7 +32,7 @@ Verified roster hardware entry: "Meinl Byzance Brilliant & Classics Custom Dark 
 ## FAQ
 
 **Q: What cymbals does Dirk Verbeuren use?**
-A: Dirk Verbeuren plays Meinl cymbals: 14" Byzance Brilliant Medium Hi-Hats, 18" Classics Custom Dark Crash, 19" Classics Custom Dark Crash, 20" Classics Custom Dark Crash, 21" Classics Custom Dark Crash, 22" Byzance Brilliant HH Ride, 18" Byzance Brilliant HH China.
+A: Dirk Verbeuren plays Meinl cymbals: 14" Byzance Brilliant Hi-Hats, 18" Classics Custom Dark Crash, 19" Classics Custom Dark Crash, 20" Classics Custom Dark Crash, 21" Classics Custom Dark Crash, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China.
 
 ## More Resources
 
@@ -43,4 +43,4 @@ A: Dirk Verbeuren plays Meinl cymbals: 14" Byzance Brilliant Medium Hi-Hats, 18"
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

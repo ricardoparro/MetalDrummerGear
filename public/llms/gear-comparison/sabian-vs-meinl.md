@@ -1,7 +1,7 @@
 # Sabian vs Meinl Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Sabian and Meinl cymbals used by pro metal drummers.
-> Last updated: 2026-11-07
+> Last updated: 2026-11-23
 
 Sabian HHX/AAX vs Meinl Byzance for metal drumming. Compare bright vs dark tones, pricing, and which cymbals top progressive and groove metal drummers prefer.
 
@@ -9,7 +9,7 @@ Sabian HHX/AAX vs Meinl Byzance for metal drumming. Compare bright vs dark tones
 
 ## Which Metal Drummers Use Sabian?
 
-Pro metal drummers who endorse Sabian include: **Tomas Haake, Mike Portnoy, Vinnie Paul**.
+Pro metal drummers who endorse Sabian include: **Tomas Haake, Mike Portnoy**.
 
 Sabian is particularly well-suited for: Djent, progressive metal, groove metal.
 
@@ -81,7 +81,7 @@ Meinl is particularly well-suited for: Progressive metal, djent, modern metal.
 A: Sabian dominates djent and groove metal thanks to signature innovations like Compression Hi-Hats. Meinl Byzance is the go-to for progressive and modern metal drummers chasing dark, complex tone that still translates cleanly in the studio.
 
 **Q: Which metal drummers endorse Sabian?**
-A: Sabian is endorsed by notable metal drummers including Tomas Haake, Mike Portnoy, Vinnie Paul. The brand is especially popular for Djent, progressive metal, groove metal.
+A: Sabian is endorsed by notable metal drummers including Tomas Haake, Mike Portnoy. The brand is especially popular for Djent, progressive metal, groove metal.
 
 **Q: Which metal drummers endorse Meinl?**
 A: Meinl is endorsed by notable metal drummers including Brann Dailor, Matt Halpern, Derek Roddy. The brand is especially popular for Progressive metal, djent, modern metal.
@@ -90,7 +90,7 @@ A: Meinl is endorsed by notable metal drummers including Brann Dailor, Matt Halp
 A: Sabian (HHX Series) is priced at €1,900 - €2,500. Meinl (Byzance Series) runs €2,000 - €3,000. Sabian offers a broader price range from entry AA to pro HHX, giving metal drummers more tiers to grow into. Meinl Byzance sits at a consistent premium across its whole line, so there's less room to start cheap and upgrade piece by piece.
 
 **Q: Which cymbals brand is more popular among metal drummers?**
-A: Based on MetalForge's tracking data, Sabian is used by 3 documented metal drummers and Meinl by 3 in this comparison dataset. Sabian leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/sabian-vs-meinl](https://metalforge.io/compare/sabian-vs-meinl).
+A: Based on MetalForge's tracking data, Sabian is used by 2 documented metal drummers and Meinl by 3 in this comparison dataset. Meinl leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/sabian-vs-meinl](https://metalforge.io/compare/sabian-vs-meinl).
 
 ---
 

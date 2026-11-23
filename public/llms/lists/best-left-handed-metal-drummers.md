@@ -1,6 +1,6 @@
 # Top 10 Left-Handed & Open-Handed Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-left-handed-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-left-handed-metal-drummers)
 
 ---
 
@@ -110,9 +110,9 @@ Full drummer profile: [Paul Mazurkiewicz on MetalForge](https://metalforge.io/dr
 
 **Band:** Darkest Hour / ex-Periphery
 **Highlight:** Right-handed, but a left-hand interior voice inside djent's riff-lock
-**Why ranked here:** Travis Orbin is right-handed, but his left-hand ghost-note work functions as a genuine interior voice within the riff-locked djent patterns of his own solo and session playthroughs — precisely calibrated dynamic strokes placed between the dominant hand's main groove, requiring off-hand control that separates djent's most studied drummers from its merely fast ones. Combined with his powerful left-hand backbeats and a right-hand-driven ride approach, Orbin's hand independence helped establish the genre's early rhythmic vocabulary during his 2006-2009 run as Periphery's pre-recording-era drummer, well before Matt Halpern recorded the band's self-titled 2010 debut. Orbin earns rank #10 for off-hand precision that helped establish djent's core drumming template.
+**Why ranked here:** Travis Orbin is right-handed, but his left-hand ghost-note work functions as a genuine interior voice within the riff-locked djent patterns of his own solo and session playthroughs — precisely calibrated dynamic strokes placed between the dominant hand's main groove, requiring off-hand control that separates djent's most studied drummers from its merely fast ones. Combined with his powerful left-hand backbeats and a right-hand-driven ride approach, Orbin's hand independence helped establish the genre's early rhythmic vocabulary during his 2008-2009 run as Periphery's pre-recording-era drummer, well before Matt Halpern recorded the band's self-titled 2010 debut. Orbin earns rank #10 for off-hand precision that helped establish djent's core drumming template.
 
-Travis Orbin (Darkest Hour / ex-Periphery) earns rank #10 for: right-handed, but a left-hand interior voice inside djent's riff-lock. Travis Orbin is right-handed, but his left-hand ghost-note work functions as a genuine interior voice within the riff-locked djent patterns of his own solo and session playthroughs — precisely calibrated dynamic strokes placed between the dominant hand's main groove, requiring off-hand control that separates djent's most studied drummers from its merely fast ones. Combined with his powerful left-hand backbeats and a right-hand-driven ride approach, Orbin's hand independence helped establish the genre's early rhythmic vocabulary during his 2006-2009 run as Periphery's pre-recording-era drummer, well before Matt Halpern recorded the band's self-titled 2010 debut. Orbin earns rank #10 for off-hand precision that helped establish djent's core drumming template..
+Travis Orbin (Darkest Hour / ex-Periphery) earns rank #10 for: right-handed, but a left-hand interior voice inside djent's riff-lock. Travis Orbin is right-handed, but his left-hand ghost-note work functions as a genuine interior voice within the riff-locked djent patterns of his own solo and session playthroughs — precisely calibrated dynamic strokes placed between the dominant hand's main groove, requiring off-hand control that separates djent's most studied drummers from its merely fast ones. Combined with his powerful left-hand backbeats and a right-hand-driven ride approach, Orbin's hand independence helped establish the genre's early rhythmic vocabulary during his 2008-2009 run as Periphery's pre-recording-era drummer, well before Matt Halpern recorded the band's self-titled 2010 debut. Orbin earns rank #10 for off-hand precision that helped establish djent's core drumming template..
 
 Full drummer profile: [Travis Orbin on MetalForge](https://metalforge.io/drummer/travis-orbin)
 
@@ -150,4 +150,4 @@ A: Left-handed means a drummer's natural dominant hand is the left — Bill Ward
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

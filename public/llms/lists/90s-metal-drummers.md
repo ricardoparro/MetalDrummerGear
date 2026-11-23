@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 1990s — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/90s-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/90s-metal-drummers)
 
 ---
 
@@ -100,9 +100,9 @@ Full drummer profile: [Mario Duplantier on MetalForge](https://metalforge.io/dru
 
 **Band:** Behemoth
 **Highlight:** Blackened death metal's relentless evolving engine
-**Why ranked here:** Inferno powered Behemoth's 90s evolution from raw black metal to sophisticated blackened death metal, building the precision blast beat mastery across four albums that would bring the band to international attention in the following decade
+**Why ranked here:** Inferno powered Behemoth's 90s evolution from raw black metal to sophisticated blackened death metal, building the precision blast beat mastery across Pandemonic Incantations and Satanica that would bring the band to international attention in the following decade
 
-Inferno (Behemoth) earns rank #9 for: blackened death metal's relentless evolving engine. Inferno powered Behemoth's 90s evolution from raw black metal to sophisticated blackened death metal, building the precision blast beat mastery across four albums that would bring the band to international attention in the following decade.
+Inferno (Behemoth) earns rank #9 for: blackened death metal's relentless evolving engine. Inferno powered Behemoth's 90s evolution from raw black metal to sophisticated blackened death metal, building the precision blast beat mastery across Pandemonic Incantations and Satanica that would bring the band to international attention in the following decade.
 
 Full drummer profile: [Inferno on MetalForge](https://metalforge.io/drummer/inferno)
 
@@ -141,4 +141,4 @@ A: The defining 90s metal drumming albums include: Morbid Angel's Covenant (1993
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

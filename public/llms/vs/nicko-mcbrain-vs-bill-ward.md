@@ -13,7 +13,7 @@ Iron Maiden's Nicko McBrain vs Black Sabbath's Bill Ward: the galloping single-p
 - **Drums:** British Drum Co.
 - **Cymbals:** Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)
 - **Snare:** Sonor Nicko McBrain Signature 14x6.5"
-- **Pedals/Hardware:** Sonor 600 Series Hardware, Single Bass Drum Pedal
+- **Pedals/Hardware:** DW 5000 Series Single Pedal
 - **Sticks:** Vic Firth Nicko McBrain Signature
 
 ## Bill Ward Setup
@@ -67,4 +67,4 @@ A: Both are considered foundational to classic heavy metal drumming, but for dif
 
 ---
 
-*Last updated: 2026-11-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

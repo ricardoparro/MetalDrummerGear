@@ -1,6 +1,6 @@
 # Top 10 Industrial Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/industrial-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/industrial-metal-drummers)
 
 ---
 
@@ -100,9 +100,9 @@ Full drummer profile: [Art Cruz on MetalForge](https://metalforge.io/drummer/art
 
 **Band:** Nile
 **Highlight:** Nile's disciplined, scholarly technical precision
-**Why ranked here:** George Kollias's documented 280+ BPM blast beats through Nile's dense, historically-researched compositions demonstrate a technical consistency that parallels industrial metal's machine-precise ideal — sustained extreme tempos executed with a rigor that borders on the mechanical, even within death metal's more organic, physically-demanding vocabulary. George Kollias earns rank #9 for a technical foundation that translates directly into industrial metal's demand for tempo-locked, inhuman-sounding consistency.
+**Why ranked here:** George Kollias's documented 240+ BPM blast beats through Nile's dense, historically-researched compositions demonstrate a technical consistency that parallels industrial metal's machine-precise ideal — sustained extreme tempos executed with a rigor that borders on the mechanical, even within death metal's more organic, physically-demanding vocabulary. George Kollias earns rank #9 for a technical foundation that translates directly into industrial metal's demand for tempo-locked, inhuman-sounding consistency.
 
-George Kollias (Nile) earns rank #9 for: nile's disciplined, scholarly technical precision. George Kollias's documented 280+ BPM blast beats through Nile's dense, historically-researched compositions demonstrate a technical consistency that parallels industrial metal's machine-precise ideal — sustained extreme tempos executed with a rigor that borders on the mechanical, even within death metal's more organic, physically-demanding vocabulary. George Kollias earns rank #9 for a technical foundation that translates directly into industrial metal's demand for tempo-locked, inhuman-sounding consistency..
+George Kollias (Nile) earns rank #9 for: nile's disciplined, scholarly technical precision. George Kollias's documented 240+ BPM blast beats through Nile's dense, historically-researched compositions demonstrate a technical consistency that parallels industrial metal's machine-precise ideal — sustained extreme tempos executed with a rigor that borders on the mechanical, even within death metal's more organic, physically-demanding vocabulary. George Kollias earns rank #9 for a technical foundation that translates directly into industrial metal's demand for tempo-locked, inhuman-sounding consistency..
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -150,4 +150,4 @@ A: Fear Factory's "Demanufacture" (1995, Raymond Herrera) is the genre's most wi
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

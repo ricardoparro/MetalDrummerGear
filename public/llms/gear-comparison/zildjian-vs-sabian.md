@@ -1,7 +1,7 @@
 # Zildjian vs Sabian Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Zildjian and Sabian cymbals used by pro metal drummers.
-> Last updated: 2026-11-07
+> Last updated: 2026-11-23
 
 The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX/HHX, sound profiles, durability, pricing, and which cymbals top metal drummers actually use.
 
@@ -9,7 +9,7 @@ The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX
 
 ## Which Metal Drummers Use Zildjian?
 
-Pro metal drummers who endorse Zildjian include: **Lars Ulrich (Metallica), Mario Duplantier (Gojira), Jay Weinberg (Slipknot), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349)**.
+Pro metal drummers who endorse Zildjian include: **Lars Ulrich (Metallica), Mario Duplantier (Gojira), Jay Weinberg (ex-Slipknot), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349)**.
 
 Zildjian is particularly well-suited for: Thrash metal, black metal, nu-metal, drummers who need bright cut.
 
@@ -95,7 +95,7 @@ Choose Sabian if:
 A: Zildjian for cutting brightness (thrash, black metal). Sabian for complex warmth (prog, djent, groove).
 
 **Q: Which metal drummers endorse Zildjian?**
-A: Zildjian is endorsed by notable metal drummers including Lars Ulrich (Metallica), Mario Duplantier (Gojira), Jay Weinberg (Slipknot), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349). The brand is especially popular for Thrash metal, black metal, nu-metal, drummers who need bright cut.
+A: Zildjian is endorsed by notable metal drummers including Lars Ulrich (Metallica), Mario Duplantier (Gojira), Jay Weinberg (ex-Slipknot), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349). The brand is especially popular for Thrash metal, black metal, nu-metal, drummers who need bright cut.
 
 **Q: Which metal drummers endorse Sabian?**
 A: Sabian is endorsed by notable metal drummers including Tomas Haake (Meshuggah), Gene Hoglan (Death/Testament), Vinnie Paul (Pantera), Mike Portnoy (Dream Theater), Ray Luzier (Korn), Richard Christy (Death/Charred Walls). The brand is especially popular for Progressive metal, djent, groove metal, death metal.

@@ -1,6 +1,6 @@
 # Pearl Bass Drum Pedals for Metal
 
-> Pearl's pedal lineup splits into two verified-roster standards: the chain-drive Eliminator, and the direct-drive Demon Drive (and its Demon XR sibling) built specifically for speed and durability under heavy touring use. Demon Drive in particular is the extreme-metal and technical-metal default on this roster, played by drummers including Gene Hoglan and Joey Jordison.
+> Pearl's pedal lineup splits into two verified-roster standards: the chain-drive Eliminator, and the direct-drive Demon Drive built specifically for speed and durability under heavy touring use. Demon Drive in particular is the extreme-metal and technical-metal default on this roster, played by drummers including Gene Hoglan and Joey Jordison.
 
 ---
 
@@ -12,7 +12,7 @@
 ## Metal-Relevant Models
 
 - **Demon Drive:** Direct drive, engineered for maximum speed — the most common single pedal model on the verified extreme/technical metal roster, including Gene Hoglan and Joey Jordison.
-- **Demon XR:** A direct-drive evolution of the Demon Drive, co-designed with roster drummer George Kollias.
+- **Demon XR:** An evolution of the Demon Drive, co-designed with roster drummer George Kollias (drive type not specified by Pearl).
 - **Eliminator:** Chain drive — a more traditional-feel double pedal used by drummers including Paul Bostaph and Jaska Raatikainen.
 
 ## Confirmed Metal Drummers (12)
@@ -49,4 +49,4 @@ Source: [Pearl Drums — Wikipedia (company history)](https://en.wikipedia.org/w
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

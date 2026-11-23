@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/nick-menza"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Nick Menza — Drum Kit & Gear Setup
@@ -188,10 +188,10 @@ Nick Menza's cymbals: Sabian AA / Signature Series (14" AA Hi-Hats, 16" AA & 18"
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 14" | AA | Regular Hi-Hats |
-| crash | 16" | AA | Rock Crash |
+| hi-hat | 14" | AA | Hi-Hats |
+| crash | 16" | AA | Signature Crash |
 | crash | 18" | Signature | Crash |
-| ride | 20" | AA | Medium Ride |
+| ride | 20" | AA | Ride |
 | china | 18" | AA | China |
 
 Full breakdown: [Nick Menza's cymbal setup](https://metalforge.io/cymbals/setups/nick-menza).
@@ -231,4 +231,4 @@ Dated brand-endorsement timeline: [Nick Menza's endorsement history](https://met
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -17,7 +17,7 @@ Zbigniew Robert Promiński, known as Inferno, born in 1978, is the drummer for P
 **Genre:** Black/Death Metal  
 **Current Kit:** Pearl Reference Series  
 **Cymbals:** Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China)  
-**Key Gear:** Pearl Reference 14x5" Steel, Czarcie Kopyto (Devil's Hoof) Double Pedal, Vic Firth 5B  
+**Key Gear:** Pearl Reference 14x5" Steel, Czarcie Kopyto (Devil's Hoof) Double Pedal, Vic Firth American Classic Extreme 5B  
 
 **Watch:**
 
@@ -76,4 +76,4 @@ A: Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Cras
 
 ---
 
-*Last updated: 2026-11-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

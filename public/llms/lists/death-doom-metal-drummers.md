@@ -1,6 +1,6 @@
 # Top 10 Death-Doom Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/death-doom-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/death-doom-metal-drummers)
 
 ---
 
@@ -70,9 +70,9 @@ Full drummer profile: [Pete Sandoval on MetalForge](https://metalforge.io/drumme
 
 **Band:** Nile
 **Highlight:** Nile's dense, crushing compositional architecture
-**Why ranked here:** George Kollias sustains 280+ BPM blast beats through Nile's Egyptian-themed compositions, but the band's dense arrangements also demand extended, crushing mid-tempo passages that carry death-doom's tonnage-first weight within scholarly, historically-researched songwriting. His documented speed and endurance mean the deceleration into doom-adjacent sections never feels like a loss of intensity, only a shift in its expression. George Kollias earns rank #6 for a technical foundation that serves death-doom's compositional demands without sacrificing extreme metal's power.
+**Why ranked here:** George Kollias sustains 240+ BPM blast beats through Nile's Egyptian-themed compositions, but the band's dense arrangements also demand extended, crushing mid-tempo passages that carry death-doom's tonnage-first weight within scholarly, historically-researched songwriting. His documented speed and endurance mean the deceleration into doom-adjacent sections never feels like a loss of intensity, only a shift in its expression. George Kollias earns rank #6 for a technical foundation that serves death-doom's compositional demands without sacrificing extreme metal's power.
 
-George Kollias (Nile) earns rank #6 for: nile's dense, crushing compositional architecture. George Kollias sustains 280+ BPM blast beats through Nile's Egyptian-themed compositions, but the band's dense arrangements also demand extended, crushing mid-tempo passages that carry death-doom's tonnage-first weight within scholarly, historically-researched songwriting. His documented speed and endurance mean the deceleration into doom-adjacent sections never feels like a loss of intensity, only a shift in its expression. George Kollias earns rank #6 for a technical foundation that serves death-doom's compositional demands without sacrificing extreme metal's power..
+George Kollias (Nile) earns rank #6 for: nile's dense, crushing compositional architecture. George Kollias sustains 240+ BPM blast beats through Nile's Egyptian-themed compositions, but the band's dense arrangements also demand extended, crushing mid-tempo passages that carry death-doom's tonnage-first weight within scholarly, historically-researched songwriting. His documented speed and endurance mean the deceleration into doom-adjacent sections never feels like a loss of intensity, only a shift in its expression. George Kollias earns rank #6 for a technical foundation that serves death-doom's compositional demands without sacrificing extreme metal's power..
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -80,9 +80,9 @@ Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drumm
 
 **Band:** Hate Eternal / Nile
 **Highlight:** Hate Eternal's disciplined tempo control
-**Why ranked here:** Derek Roddy's reputation for recording entire death metal albums in single takes reflects a tempo discipline that translates directly into death-doom's demanding structural shifts — his 260+ BPM swivel technique, documented in "The Evolution of Blast Beats," is matched by an equally rigorous command of the crushing, deliberate passages that punctuate Hate Eternal's most intense material. Derek Roddy earns rank #7 for bringing the same systematic precision to doom-tempo sections that he brings to extreme speed.
+**Why ranked here:** Derek Roddy's reputation for recording entire death metal albums in single takes reflects a tempo discipline that translates directly into death-doom's demanding structural shifts — his swivel technique, documented in "The Evolution of Blast Beats," is matched by an equally rigorous command of the crushing, deliberate passages that punctuate Hate Eternal's most intense material. Derek Roddy earns rank #7 for bringing the same systematic precision to doom-tempo sections that he brings to extreme speed.
 
-Derek Roddy (Hate Eternal / Nile) earns rank #7 for: hate eternal's disciplined tempo control. Derek Roddy's reputation for recording entire death metal albums in single takes reflects a tempo discipline that translates directly into death-doom's demanding structural shifts — his 260+ BPM swivel technique, documented in "The Evolution of Blast Beats," is matched by an equally rigorous command of the crushing, deliberate passages that punctuate Hate Eternal's most intense material. Derek Roddy earns rank #7 for bringing the same systematic precision to doom-tempo sections that he brings to extreme speed..
+Derek Roddy (Hate Eternal / Nile) earns rank #7 for: hate eternal's disciplined tempo control. Derek Roddy's reputation for recording entire death metal albums in single takes reflects a tempo discipline that translates directly into death-doom's demanding structural shifts — his swivel technique, documented in "The Evolution of Blast Beats," is matched by an equally rigorous command of the crushing, deliberate passages that punctuate Hate Eternal's most intense material. Derek Roddy earns rank #7 for bringing the same systematic precision to doom-tempo sections that he brings to extreme speed..
 
 Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
@@ -150,4 +150,4 @@ A: Paradise Lost's "Gothic" (1991) and My Dying Bride's "Turn Loose the Swans" (
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

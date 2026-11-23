@@ -11,7 +11,6 @@
 
 ## Notable Lines for Metal Drummers
 
-- **Speed Metal (JJ1 / MT):** Originally released as Joey Jordison's signature model; kept the same specs and renamed "Speed Metal" after his departure from the endorsement.
 
 ## Confirmed Metal Drummers (1)
 
@@ -36,7 +35,7 @@ A: Ahead pioneered aluminum-core drumsticks with a replaceable outer sleeve — 
 A: On our verified roster: Lars Ulrich. See the table above for the exact model each drummer plays.
 
 **Q: What are Ahead's most metal-relevant drumstick lines?**
-A: Speed Metal (JJ1 / MT). Full descriptions are in the Notable Lines section above.
+A: . Full descriptions are in the Notable Lines section above.
 
 ## Study Rankings
 
@@ -66,4 +65,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Ahead,
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

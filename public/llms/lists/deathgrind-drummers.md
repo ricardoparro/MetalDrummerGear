@@ -1,6 +1,6 @@
 # Top 10 Deathgrind Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/deathgrind-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/deathgrind-drummers)
 
 ---
 
@@ -94,19 +94,19 @@ Drummer #70 (Unknown) earns rank #8 for: brutal truth and discordance axis — d
 
 **Band:** Nile
 **Highlight:** Nile — technical death metal's deathgrind velocity and Egyptian compositional extremity
-**Why ranked here:** George Kollias's Nile work at documented 280+ BPM represents deathgrind's maximum velocity achieved within a compositionally sophisticated framework — Egyptian-themed compositions of genuine scholarly complexity serving as the context for blast beat speeds that exceed straight deathgrind's tempo range. His co-designed Pearl Demon XR pedal and "Intense Metal Drumming" educational materials have made technical deathgrind's hardware and technique requirements accessible and teachable beyond the recordings themselves
+**Why ranked here:** George Kollias's Nile work at documented 240+ BPM represents extreme velocity achieved within a compositionally sophisticated framework — Egyptian-themed compositions of genuine scholarly complexity serving as the context for blast beat speeds that exceed straight deathgrind's tempo range. His co-designed Pearl Demon XR pedal and "Intense Metal Drumming" educational materials have made technical deathgrind's hardware and technique requirements accessible and teachable beyond the recordings themselves
 
-George Kollias (Nile) earns rank #9 for: nile — technical death metal's deathgrind velocity and egyptian compositional extremity. George Kollias's Nile work at documented 280+ BPM represents deathgrind's maximum velocity achieved within a compositionally sophisticated framework — Egyptian-themed compositions of genuine scholarly complexity serving as the context for blast beat speeds that exceed straight deathgrind's tempo range. His co-designed Pearl Demon XR pedal and "Intense Metal Drumming" educational materials have made technical deathgrind's hardware and technique requirements accessible and teachable beyond the recordings themselves.
+George Kollias (Nile) earns rank #9 for: nile — technical death metal's deathgrind velocity and egyptian compositional extremity. George Kollias's Nile work at documented 240+ BPM represents extreme velocity achieved within a compositionally sophisticated framework — Egyptian-themed compositions of genuine scholarly complexity serving as the context for blast beat speeds that exceed straight deathgrind's tempo range. His co-designed Pearl Demon XR pedal and "Intense Metal Drumming" educational materials have made technical deathgrind's hardware and technique requirements accessible and teachable beyond the recordings themselves.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
 ### 10. Derek Roddy
 
 **Band:** Hate Eternal / Nile
-**Highlight:** Hate Eternal — "One Take" deathgrind discipline and 260+ BPM swivel technique
-**Why ranked here:** Derek Roddy's reputation for recording entire extreme metal albums in single takes without punch-ins represents deathgrind's most extreme discipline standard — not just speed but flawless sustained performance of brutal material. His swivel technique, documented in "The Evolution of Blast Beats" instructional DVD, pioneered a biomechanically distinct 260+ BPM pathway through heel-up bass drum mechanics that influenced a generation of deathgrind and extreme drummers. His Hate Eternal and Nile work demonstrates deathgrind's technical ceiling sustained across professional touring and recording standards
+**Highlight:** Hate Eternal — "One Take" deathgrind discipline and swivel technique mastery
+**Why ranked here:** Derek Roddy's reputation for recording entire extreme metal albums in single takes without punch-ins represents deathgrind's most extreme discipline standard — not just speed but flawless sustained performance of brutal material. His swivel technique, documented in "The Evolution of Blast Beats" instructional DVD, pioneered a biomechanically distinct extreme-speed pathway through heel-up bass drum mechanics that influenced a generation of deathgrind and extreme drummers. His Hate Eternal and Nile work demonstrates deathgrind's technical ceiling sustained across professional touring and recording standards
 
-Derek Roddy (Hate Eternal / Nile) earns rank #10 for: hate eternal — "one take" deathgrind discipline and 260+ bpm swivel technique. Derek Roddy's reputation for recording entire extreme metal albums in single takes without punch-ins represents deathgrind's most extreme discipline standard — not just speed but flawless sustained performance of brutal material. His swivel technique, documented in "The Evolution of Blast Beats" instructional DVD, pioneered a biomechanically distinct 260+ BPM pathway through heel-up bass drum mechanics that influenced a generation of deathgrind and extreme drummers. His Hate Eternal and Nile work demonstrates deathgrind's technical ceiling sustained across professional touring and recording standards.
+Derek Roddy (Hate Eternal / Nile) earns rank #10 for: hate eternal — "one take" deathgrind discipline and swivel technique mastery. Derek Roddy's reputation for recording entire extreme metal albums in single takes without punch-ins represents deathgrind's most extreme discipline standard — not just speed but flawless sustained performance of brutal material. His swivel technique, documented in "The Evolution of Blast Beats" instructional DVD, pioneered a biomechanically distinct extreme-speed pathway through heel-up bass drum mechanics that influenced a generation of deathgrind and extreme drummers. His Hate Eternal and Nile work demonstrates deathgrind's technical ceiling sustained across professional touring and recording standards.
 
 Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
@@ -144,4 +144,4 @@ A: Deathgrind drumming's gear requirements prioritize extreme speed and enduranc
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

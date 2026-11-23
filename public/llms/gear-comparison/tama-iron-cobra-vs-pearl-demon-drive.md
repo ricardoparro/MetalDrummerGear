@@ -1,7 +1,7 @@
 # Tama vs Pearl Bass Drum Pedals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Tama and Pearl bass drum pedals used by pro metal drummers.
-> Last updated: 2026-11-07
+> Last updated: 2026-11-23
 
 Compare Tama Iron Cobra 900 and Pearl Demon Drive double bass pedals. Speed, feel, durability, and which pedal top metal drummers choose.
 
@@ -9,7 +9,7 @@ Compare Tama Iron Cobra 900 and Pearl Demon Drive double bass pedals. Speed, fee
 
 ## Which Metal Drummers Use Tama?
 
-Pro metal drummers who endorse Tama include: **Lars Ulrich, Eloy Casagrande, Charlie Benante**.
+Pro metal drummers who endorse Tama include: **Lars Ulrich, Eloy Casagrande**.
 
 Tama is particularly well-suited for: Thrash metal, consistent speed runs.
 
@@ -75,7 +75,7 @@ Pearl is particularly well-suited for: Death metal, extreme speed, technical pla
 A: Demon Drive for death metal speed demons. Iron Cobra for thrash consistency.
 
 **Q: Which metal drummers endorse Tama?**
-A: Tama is endorsed by notable metal drummers including Lars Ulrich, Eloy Casagrande, Charlie Benante. The brand is especially popular for Thrash metal, consistent speed runs.
+A: Tama is endorsed by notable metal drummers including Lars Ulrich, Eloy Casagrande. The brand is especially popular for Thrash metal, consistent speed runs.
 
 **Q: Which metal drummers endorse Pearl?**
 A: Pearl is endorsed by notable metal drummers including Joey Jordison, Gene Hoglan. The brand is especially popular for Death metal, extreme speed, technical playing.
@@ -84,7 +84,7 @@ A: Pearl is endorsed by notable metal drummers including Joey Jordison, Gene Hog
 A: Tama (Iron Cobra 900 Power Glide) is priced at €400 - €500. Pearl (Demon Drive) runs €500 - €600. Both represent professional-grade investments that will last for decades with proper care.
 
 **Q: Which bass drum pedals brand is more popular among metal drummers?**
-A: Based on MetalForge's tracking data, Tama is used by 3 documented metal drummers and Pearl by 2 in this comparison dataset. Tama leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/tama-iron-cobra-vs-pearl-demon-drive](https://metalforge.io/compare/tama-iron-cobra-vs-pearl-demon-drive).
+A: Based on MetalForge's tracking data, Tama is used by 2 documented metal drummers and Pearl by 2 in this comparison dataset. Tama leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/tama-iron-cobra-vs-pearl-demon-drive](https://metalforge.io/compare/tama-iron-cobra-vs-pearl-demon-drive).
 
 ---
 

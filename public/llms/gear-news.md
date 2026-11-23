@@ -2,7 +2,7 @@
 
 Chronological feed of drummer gear updates. See full tracker at https://metalforge.io/gear-news
 
-> Last updated: 2026-11-01 · 19 total events · 8 gear change events
+> Last updated: 2026-11-23 · 18 total events · 7 gear change events
 
 ---
 
@@ -100,17 +100,6 @@ Gojira's Mario Duplantier tweaks his Tama S.L.P. snare setup for upcoming tour.
 
 ---
 
-### Matt Halpern adds Meinl Classics Custom Dark stack — 2026-02-22
-
-**Type:** Gear Added
-**Drummer:** Matt Halpern — /drummer/matt-halpern
-**Gear:** Meinl Classics Custom Dark Cymbals
-
-Periphery's Matt Halpern incorporates Meinl Classics Custom Dark cymbals for studio work.
-*Expanding the djent palette.*
-
----
-
 ### Pearl Drums Brand Page Now Live — 2026-02-20
 
 **Type:** Brand Launch
@@ -196,13 +185,13 @@ Dream Theater's Mike Portnoy updates his Tama setup — continuing his decades-l
 
 ---
 
-### Charlie Benante adds Tama Speed Cobra 910 to Pantera touring kit — 2026-01-28
+### Charlie Benante adds Tama Speed Cobra to Pantera touring kit — 2026-01-28
 
 **Type:** Gear Added
 **Drummer:** Charlie Benante — /drummer/charlie-benante
-**Gear:** Tama Speed Cobra 910 Double Pedal
+**Gear:** Tama Speed Cobra Double Pedal
 
-Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into his Pantera reunion touring rig for maximum velocity on Dimebag tributes.
+Anthrax's Charlie Benante integrates the Tama Speed Cobra double pedal into his Pantera reunion touring rig for maximum velocity on Dimebag tributes.
 *Extra speed for flying in Vinnie Paul's legendary footsteps.*
 
 ---
@@ -217,15 +206,6 @@ Gojira's Mario Duplantier tweaks his Tama S.L.P. snare setup for upcoming tour.
 
 **Note:** Refined attack for the Flying Whales.
 **Profile:** https://metalforge.io/drummer/mario-duplantier
-
----
-
-### Matt Halpern — Meinl Classics Custom Dark Cymbals (Added) — 2026
-
-Periphery's Matt Halpern incorporates Meinl Classics Custom Dark cymbals for studio work.
-
-**Note:** Expanding the djent palette.
-**Profile:** https://metalforge.io/drummer/matt-halpern
 
 ---
 
@@ -274,9 +254,9 @@ Dream Theater's Mike Portnoy updates his Tama setup — continuing his decades-l
 
 ---
 
-### Charlie Benante — Tama Speed Cobra 910 Double Pedal (Added) — 2026
+### Charlie Benante — Tama Speed Cobra Double Pedal (Added) — 2026
 
-Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into his Pantera reunion touring rig for maximum velocity on Dimebag tributes.
+Anthrax's Charlie Benante integrates the Tama Speed Cobra double pedal into his Pantera reunion touring rig for maximum velocity on Dimebag tributes.
 
 **Note:** Extra speed for flying in Vinnie Paul's legendary footsteps.
 **Profile:** https://metalforge.io/drummer/charlie-benante
@@ -305,11 +285,6 @@ Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into 
 - **2026-02-28** (Gear Updated) — Tama S.L.P. Snare: Mario Duplantier updates snare configuration
 - Profile: https://metalforge.io/drummer/mario-duplantier
 
-### Matt Halpern
-
-- **2026-02-22** (Gear Added) — Meinl Classics Custom Dark Cymbals: Matt Halpern adds Meinl Classics Custom Dark stack
-- Profile: https://metalforge.io/drummer/matt-halpern
-
 ### Tomas Haake
 
 - **2026-02-12** (Gear Updated) — Sabian HHX & AAX Series: Tomas Haake updates Sabian HHX/AAX setup for 2026 tour
@@ -337,7 +312,7 @@ Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into 
 
 ### Charlie Benante
 
-- **2026-01-28** (Gear Added) — Tama Speed Cobra 910 Double Pedal: Charlie Benante adds Tama Speed Cobra 910 to Pantera touring kit
+- **2026-01-28** (Gear Added) — Tama Speed Cobra Double Pedal: Charlie Benante adds Tama Speed Cobra to Pantera touring kit
 - Profile: https://metalforge.io/drummer/charlie-benante
 
 ---
@@ -348,4 +323,4 @@ Anthrax's Charlie Benante integrates the Tama Speed Cobra 910 double pedal into 
 - [Endorsement News](https://metalforge.io/llms/endorsement-news.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

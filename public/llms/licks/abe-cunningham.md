@@ -31,7 +31,7 @@ Abe Cunningham is one of Alternative Metal / Nu Metal's most influential drummer
 
 ### Gear Used
 
-- Tama Starclassic Maple/Bubinga Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Zildjian K Custom & A Custom Series Cymbals (cymbals)
 - Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
 
@@ -60,7 +60,7 @@ Abe Cunningham is one of Alternative Metal / Nu Metal's most influential drummer
 
 ### Gear Used
 
-- Tama Starclassic Maple/Bubinga Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Zildjian K Custom & A Custom Series Cymbals (cymbals)
 - Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
 
@@ -93,7 +93,7 @@ The build through "Passenger" mirrors the dynamic architecture of White Pony as 
 
 ### Gear Used
 
-- Tama Starclassic Maple/Bubinga Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Zildjian K Custom & A Custom Series Cymbals (cymbals)
 - Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
 
@@ -126,7 +126,7 @@ What makes the "Diamond Eyes" fill passages such a rewarding study is their phys
 
 ### Gear Used
 
-- Tama Starclassic Maple/Bubinga Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Sabian HHX Cymbals (cymbals)
 - Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
 
@@ -159,7 +159,7 @@ The wrist mechanics that enable this kind of syncopated hi-hat work involve diff
 
 ### Gear Used
 
-- Tama Starclassic Maple/Bubinga Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Zildjian K Custom & A Custom Series Cymbals (cymbals)
 - Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
 
@@ -188,7 +188,7 @@ The wrist mechanics that enable this kind of syncopated hi-hat work involve diff
 
 ### Gear Used
 
-- Tama Starclassic Maple/Bubinga Kit (drums)
+- Tama Starclassic Bubinga Kit (drums)
 - Zildjian K Custom & A Custom Series Cymbals (cymbals)
 - Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
 
@@ -207,4 +207,4 @@ Abe Cunningham's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

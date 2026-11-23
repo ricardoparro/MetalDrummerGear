@@ -25,7 +25,7 @@
 17. Painkiller — Judas Priest (210 BPM, drummer: Scott Travis)
 18. Flattening of Emotions — Death (210 BPM, drummer: Sean Reinert)
 19. Necrophobic — Slayer (210 BPM, drummer: Dave Lombardo)
-20. Black Seeds of Vengeance — Nile (210 BPM, drummer: Pat Harrington)
+20. Black Seeds of Vengeance — Nile (210 BPM, drummer: Derek Roddy)
 21. Creeping Death — Metallica (200 BPM, drummer: Lars Ulrich)
 22. Immortal Rites — Morbid Angel (200 BPM, drummer: Pete Sandoval)
 23. Chainsaw Gutsfuck — Mayhem (200 BPM, drummer: Manheim)
@@ -46,4 +46,4 @@ Album producer Neil Kernon has stated the track clocks in at 271 BPM; George Kol
 
 **More resources:** [Metal Songs Database](https://metalforge.io/songs) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

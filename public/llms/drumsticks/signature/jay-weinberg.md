@@ -37,9 +37,10 @@ A: It's a named signature model — the Vater 908 is designed and marketed speci
 
 - [Full signature stick page](https://metalforge.io/drumsticks/signature/jay-weinberg)
 - [Jay Weinberg's Drummer Profile](https://metalforge.io/drummer/jay-weinberg)
+- [Vater Percussion Drumstick Brand Guide](https://metalforge.io/llms/drumsticks/brands/vater.md)
 - [Drumsticks Guide](https://metalforge.io/llms/drumsticks.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

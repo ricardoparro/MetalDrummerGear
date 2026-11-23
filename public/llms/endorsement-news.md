@@ -2,7 +2,7 @@
 
 Brand endorsement changes for professional metal drummers. See https://metalforge.io/endorsement-news
 
-> Last updated: 2026-10-30 · 71 drummers tracked · 40 brands
+> Last updated: 2026-11-23 · 71 drummers tracked · 39 brands
 
 ---
 
@@ -33,6 +33,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Matt Greiner (August Burns Red) — Hardware/Pedals — since 2016 — /drummer/matt-greiner
 - Mikkey Dee (Scorpions / Motörhead) — Hardware/Pedals — /drummer/mikkey-dee
 - Scott Travis (Judas Priest) — Hardware/Pedals — since 2018 — /drummer/scott-travis
+- Nicko McBrain (Iron Maiden) — Hardware/Pedals — since 1984 — /drummer/nicko-mcbrain
 - Shannon Larkin (Godsmack) — Hardware/Pedals — since 2002 — /drummer/shannon-larkin
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Hardware/Pedals — since 2010 — /drummer/travis-orbin
 - Aquiles Priester (Angra / W.A.S.P.) — Hardware/Pedals — since 2023 — /drummer/aquiles-priester
@@ -45,7 +46,6 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Ray Luzier (Korn) — Hardware/Pedals — since 2010 — /drummer/ray-luzier
 - Raymond Herrera (Fear Factory) — Hardware/Pedals — since 1995 — /drummer/raymond-herrera
 - Martin Axenrot (Opeth) — Drums — since 2006 — /drummer/martin-axenrot
-- Martin Axenrot (Opeth) — Hardware/Pedals — since 2006 — /drummer/martin-axenrot
 - Matt Garstka (Animals as Leaders) — Drums — since 2021 — /drummer/matt-garstka
 - Sean Reinert (Death / Cynic) — Drums — since 2008 — /drummer/sean-reinert
 - Sean Reinert (Death / Cynic) — Hardware/Pedals — since 2008 — /drummer/sean-reinert
@@ -246,7 +246,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Scott Travis (Judas Priest) — Drumheads — since 1990 — /drummer/scott-travis
 - Nicko McBrain (Iron Maiden) — Drumheads — since 1984 — /drummer/nicko-mcbrain
 - Paul Bostaph (Slayer / Testament / Exodus) — Drumheads — since 2015 — /drummer/paul-bostaph
-- Igor Cavalera (Sepultura / Cavalera Conspiracy) — Drumheads — since 2006 — /drummer/igor-cavalera
+- Igor Cavalera (Sepultura / Cavalera Conspiracy) — Drumheads — since 2007 — /drummer/igor-cavalera
 - Frost (Satyricon) — Drumheads — since 1996 — /drummer/frost
 - Abe Cunningham (Deftones) — Drumheads — since 1997 — /drummer/abe-cunningham
 - Aquiles Priester (Angra / W.A.S.P.) — Drumheads — since 1996 — /drummer/aquiles-priester
@@ -415,7 +415,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Sean Reinert (Death / Cynic) — Drumsticks — since 1991 — /drummer/sean-reinert
 - Art Cruz (Lamb of God) — Drumsticks — since 2019 — /drummer/art-cruz
 - Alex Bent (ex-Trivium / Arkaik / Dragonlord) — Drumsticks — since 2017 — /drummer/alex-bent
-- Adrian Erlandsson (At the Gates) — Drumsticks — since 2014 (signature model) — /drummer/adrian-erlandsson
+- Adrian Erlandsson (At the Gates) — Drumsticks — since 2014 — /drummer/adrian-erlandsson
 
 ### Wincent
 
@@ -439,7 +439,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - John Otto (Limp Bizkit) — Drumsticks — since 1994 — /drummer/john-otto
 - Ben Koller (Converge) — Cymbals — since 2004 — /drummer/ben-koller
 - Gavin Harrison (Porcupine Tree / King Crimson) — Cymbals — since 2007 — /drummer/gavin-harrison
-- Igor Cavalera (Sepultura / Cavalera Conspiracy) — Cymbals — since 2006 — /drummer/igor-cavalera
+- Igor Cavalera (Sepultura / Cavalera Conspiracy) — Cymbals — since 2008 — /drummer/igor-cavalera
 - Frost (Satyricon) — Cymbals — since 2013 — /drummer/frost
 - Abe Cunningham (Deftones) — Cymbals — since 2022 — /drummer/abe-cunningham
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Cymbals — since 2010 — /drummer/travis-orbin
@@ -460,10 +460,6 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Shannon Larkin (Godsmack) — Drums — since 2002 — /drummer/shannon-larkin
 - Pete Sandoval (Morbid Angel) — Drums — since 1989 — /drummer/pete-sandoval
 - Pete Sandoval (Morbid Angel) — Hardware/Pedals — since 1989 — /drummer/pete-sandoval
-
-### unconfirmed
-
-- Nicko McBrain (Iron Maiden) — Hardware/Pedals — since 1984 — /drummer/nicko-mcbrain
 
 ---
 
@@ -698,13 +694,12 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **2016** (Drumheads): Signed with Evans — Signed with Evans, running G2 batters and EMAD2 bass drum heads on the new Mapex kit
 - **2016** (Hardware/Pedals): Signed with DW — Signed with DW, running the 9000 Series Double Pedal alongside the new Mapex/Paiste setup
 - **2017** (Drumsticks): Signature product: Vic Firth Matt Greiner Signature Drumsticks — Received a Vic Firth signature stick model with a custom taper and bead
-- **2017** (Drums): Signature product: Pearl Matt Greiner Signature Snare — Pearl released a Matt Greiner signature snare drum, part of the Reference Pure era setup
 - Profile: https://metalforge.io/drummer/matt-greiner
 
 ### Mikkey Dee (Scorpions / Motörhead)
 
-- **1987** (Cymbals): Signed with Paiste — Paiste Signature Series cymbals, carried from his early Motörhead years through to Scorpions
-- **1992** (Drums): Signed with Tama — Joined Motörhead playing a Tama Artstar II/Swingstar kit with Paiste cymbals, first heard on "March ör Die" and "Bastards"
+- **1987** (Cymbals): Signed with Paiste — Paiste Signature Series cymbals, carried from his King Diamond years through Motörhead to Scorpions
+- **1992** (Drums): Signed with Sonor — Joined Motörhead playing a Sonor SQ2 kit carried over from his King Diamond years, with Paiste cymbals, first heard on "March ör Die" and "Bastards"
 - **2012** (Drums): Signature product: Sonor  — Released his Sonor Mikkey Dee Signature 14"x7.25" birch snare, part of the Sonor SQ2 setup he's used since 2012
 - **2016** (Drums): Renewed Sonor deal — Carried his longtime Sonor SQ2 and Paiste Signature setup into Scorpions after joining the band in 2016 following Lemmy Kilmister's death
 - Profile: https://metalforge.io/drummer/mikkey-dee
@@ -790,7 +785,6 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1983** (Drums): Signed with Tama — Debuted on a Tama Superstar kit during his Dark Angel years, developing the metronomic precision that earned him the "Atomic Clock" nickname
 - **1983** (Cymbals): Signed with Zildjian — Paired his Tama kit with Zildjian A Series cymbals from his earliest thrash recordings with Dark Angel
 - **1991** (Cymbals): Switched from Zildjian to Sabian — Switched to Sabian's AAX Series for the technical precision demanded by Death's "Individual Thought Patterns" and "Symbolic"
-- **2008** (Drums): Signature product: Tama Gene Hoglan Signature Snare 14x8" — First signature snare drum, an exceptionally deep 14x8" model built for thunderous power during his Testament and Dethklok era
 - **2018** (Drums): Switched from Tama to Pearl — Switched to a Pearl Reference Pure kit, also adopting Pearl's Demon Drive Double Pedal as part of the same hardware changeover
 - **2018** (Hardware/Pedals): Signed with Pearl — Adopted Pearl's Demon Drive Double Pedal as part of the same hardware changeover that brought the Pearl Reference Pure kit
 - **2018** (Drumsticks): Signed with ProMark — Settled on ProMark Classic Forward 2B sticks for his Pearl Reference Pure setup of that era, favoring their balance across marathon touring and clinic schedules
@@ -810,10 +804,10 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1993** (Drums): Signed with Pearl — Pearl Masters Custom maple shells for the Chaos A.D./Roots era
 - **1993** (Cymbals): Signed with Paiste — Cut through Sepultura's groove-metal aggression with Paiste RUDE & 2002 Series cymbals, a setup kept through "Roots" (1996)
 - **1993** (Drumsticks): Signed with Vic Firth — Signed with Vic Firth, playing American Classic 5B sticks through the Chaos A.D./Roots era and beyond
-- **1996** (Drums): Switched from Pearl to Tama — Returned to a Tama Starclassic Maple kit after the Pearl Masters Custom sub-era of "Chaos A.D."/"Roots" (1993-1996) ended, ahead of the 2006 move to ddrum
-- **2006** (Drums): Switched from Tama to ddrum — Left Sepultura in 2006 and reunited with brother Max in Cavalera Conspiracy, moving to a ddrum Hybrid Kit
-- **2006** (Cymbals): Switched from Paiste to Zildjian — Switched to Zildjian A Custom Series cymbals for the Cavalera Conspiracy era, starting with "Inflikted"
-- **2006** (Drumheads): Signed with Remo — Signed with Remo heads around the 2006 Cavalera Conspiracy formation
+- **1996** (Drums): Switched from Pearl to Tama — Returned to a Tama Starclassic Maple kit after the Pearl Masters Custom sub-era of "Chaos A.D."/"Roots" (1993-1996) ended, ahead of the 2007 move to ddrum
+- **2007** (Drums): Switched from Tama to ddrum — Left Sepultura in 2006 and joined brother Max in the newly formed Cavalera Conspiracy in 2007, moving to a ddrum Hybrid Kit
+- **2007** (Drumheads): Signed with Remo — Signed with Remo heads around the 2007 Cavalera Conspiracy formation
+- **2008** (Cymbals): Switched from Paiste to Zildjian — Switched to Zildjian A Custom Series cymbals for the Cavalera Conspiracy era, starting with "Inflikted" (2008)
 - **2018** (Drums): Switched from ddrum to Yamaha — Announced a new Yamaha Absolute Hybrid Maple endorsement in August 2018, moving off his prior kit
 - **2018** (Hardware/Pedals): Switched from DW to Tama — Adopted Tama Iron Cobra double pedal alongside the 2018 Yamaha kit switch
 - Profile: https://metalforge.io/drummer/igor-cavalera
@@ -1080,7 +1074,6 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 - **2006** (Drums): Signed with DW — Joined Opeth mid-tour on the Ghost Reveries cycle in 2006, playing a custom hand-made DW kit with maple/gum shells — the same setup he described in a 2016 MusicRadar interview around the Sorceress cycle
 - **2006** (Cymbals): Signed with Sabian — SABIAN artist endorsing HHX / AAX Series cymbals since joining Opeth in 2006, per SABIAN's own artist page
-- **2006** (Hardware/Pedals): Signed with DW — DW hardware paired with his custom DW kit since joining Opeth in 2006
 - **2006** (Drumsticks): Signed with Pro-Mark — Pro-Mark endorsee since joining Opeth in 2006
 - **2006** (Drumheads): Signed with Evans — Evans drumhead endorsee since joining Opeth in 2006
 - Profile: https://metalforge.io/drummer/martin-axenrot
@@ -1109,6 +1102,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1991** (Drums): Signed with Tama Artstar II — Played a Tama Artstar II birch shell kit with Zildjian A series cymbals on his recording debut, Death's "Human" (1991), tracked at Morrisound Recording with Scott Burns
 - **1991** (Drumsticks): Switched from Vic Firth SD9 Short Handle to Vic Firth American Classic 5A — Switched to Vic Firth's American Classic 5A for "Human" (1991), a medium-weight model atypical for metal drummers of the era that gave Reinert the rebound and dynamic control his ghost-note vocabulary required
 - **1991** (Hardware/Pedals): Signed with DW 5000 Double Pedal — Played a DW 5000 double pedal for "Human" (1991); carried the same pedal into Cynic's "Focus" (1993)
+- **1991** (Cymbals): Signed with Zildjian A/K Series — Played Zildjian A/K series cymbals on his recording debut, Death's "Human" (1991), tracked at Morrisound Recording with Scott Burns
 - **2008** (Drums): Switched from Tama Artstar II to DW Collector's Series — Upgraded to a DW Collector's Series maple shell kit for Cynic's reunion album "Traced in Air" (2008), his first recording in 15 years since "Focus" — maple's warmer resonance suited the self-produced, atmospheric sound
 - **2008** (Cymbals): Switched from Zildjian A/K Series to Zildjian K Custom — Narrowed to Zildjian K Custom cymbals throughout "Traced in Air" (2008) — darker and more complex than the A/K Series blend used on "Human" and "Focus," suited to the album's introspective character
 - **2008** (Hardware/Pedals): Switched from DW 5000 Double Pedal to DW 9000 Double Pedal — Moved to the DW 9000 double pedal for "Traced in Air" (2008), retained for the same smooth, compositional double-bass feel through the remainder of the Cynic reunion era, including "Kindly Bent to Free Us" (2014)
@@ -1156,7 +1150,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **2014** (Drums): Switched from Pearl Export / Studio House Kit to Tama Starclassic Bubinga — Returned to Studio Fredman for At the Gates' reunion album "At War with Reality" (2014) on a Tama Starclassic Bubinga kit in transparent black finish — the mature rig he had developed across his years with The Haunted, Cradle of Filth, and Paradise Lost (2009–2016)
 - **2014** (Cymbals): Switched from Zildjian A-Series to Sabian AAX/HHX — Moved to Sabian's professional AAX and HHX lines (15" HHX Xcelerator hi-hats, 20" AAX Iso crash, 19" AAX Paragon China) for "At War with Reality" (2014), a setup carried over from his Paradise Lost years
 - **2014** (Hardware/Pedals): Signed with Monolit Czarcie Kopyto Double Pedal — Adopted the Monolit Czarcie Kopyto — a boutique Polish double pedal prized for fast, direct response — for "At War with Reality" (2014), replacing the standard double bass pedal setups of his 1995 sessions
-- **2014** (Drumsticks): Signature product: Vic Firth Vic Firth Rock Nylon Tip (At the Gates Signature) — His long-running Vic Firth stick relationship was formalized into an official At the Gates-branded signature model, documented alongside the "At War with Reality" (2014) sessions
+- **2014** (Drumsticks): Signed (Vic Firth) — Received the stock Rock Nylon Tip model in artist-only custom-printed batches alongside the "At War with Reality" (2014) sessions — an artist-endorsement perk, not a retail Signature Series model
 - **2014** (Drumheads): Signed with Evans — Adopted Evans EMAD Onyx (kick) and EC Reverse Dot (snare/toms) heads for "At War with Reality" (2014), part of the rig he assembled for the reunion sessions at Studio Fredman
 - Profile: https://metalforge.io/drummer/adrian-erlandsson
 
@@ -1216,4 +1210,4 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - [Gear News](https://metalforge.io/llms/gear-news.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

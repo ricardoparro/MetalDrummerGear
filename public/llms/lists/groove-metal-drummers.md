@@ -1,6 +1,6 @@
 # Top 10 Groove Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/groove-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/groove-metal-drummers)
 
 ---
 
@@ -14,7 +14,7 @@ The greatest groove metal drummers of all time. Vinnie Paul, Chris Adler, Shanno
 
 ## Rankings
 
-Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Vinnie Paul, Chris Adler, Art Cruz, Alex Bent, Eloy Casagrande, and more.
+Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Vinnie Paul, Chris Adler, Art Cruz, Igor Cavalera, Eloy Casagrande, and more.
 
 ### 1. Vinnie Paul
 
@@ -46,15 +46,15 @@ Art Cruz (Lamb of God) earns rank #3 for: godsmack's mainstream groove metal bre
 
 Full drummer profile: [Art Cruz on MetalForge](https://metalforge.io/drummer/art-cruz)
 
-### 4. Alex Bent
+### 4. Igor Cavalera
 
-**Band:** ex-Trivium / Arkaík / Dragonlord
+**Band:** Sepultura / Cavalera Conspiracy
 **Highlight:** Sepultura's groove metal turn on "Roots"
 **Why ranked here:** Igor Cavalera's tribal-infused drumming on Sepultura's "Roots" (1996) fused Brazilian indigenous rhythms with groove metal's syncopated heaviness, expanding the genre beyond its Texas origins and demonstrating how groove metal's pocket-first philosophy could absorb entirely new rhythmic vocabularies
 
-Alex Bent (ex-Trivium / Arkaík / Dragonlord) earns rank #4 for: sepultura's groove metal turn on "roots". Igor Cavalera's tribal-infused drumming on Sepultura's "Roots" (1996) fused Brazilian indigenous rhythms with groove metal's syncopated heaviness, expanding the genre beyond its Texas origins and demonstrating how groove metal's pocket-first philosophy could absorb entirely new rhythmic vocabularies.
+Igor Cavalera (Sepultura / Cavalera Conspiracy) earns rank #4 for: sepultura's groove metal turn on "roots". Igor Cavalera's tribal-infused drumming on Sepultura's "Roots" (1996) fused Brazilian indigenous rhythms with groove metal's syncopated heaviness, expanding the genre beyond its Texas origins and demonstrating how groove metal's pocket-first philosophy could absorb entirely new rhythmic vocabularies.
 
-Full drummer profile: [Alex Bent on MetalForge](https://metalforge.io/drummer/alex-bent)
+Full drummer profile: [Igor Cavalera on MetalForge](https://metalforge.io/drummer/igor-cavalera)
 
 ### 5. Eloy Casagrande
 
@@ -86,13 +86,15 @@ Arin Ilejay (ex-Avenged Sevenfold) earns rank #7 for: fear factory's industrial-
 
 Full drummer profile: [Arin Ilejay on MetalForge](https://metalforge.io/drummer/arin-ilejay)
 
-### 8. Drummer #61
+### 8. Alex Bent
 
-**Band:** Unknown
+**Band:** ex-Trivium / Arkaík / Dragonlord
 **Highlight:** Trivium's modern groove-thrash synthesis
 **Why ranked here:** Alex Bent's work with Trivium blends technical death metal precision with groove metal's syncopated riff-locking, representing how the genre's 1990s vocabulary continues shaping 21st-century metal drummers raised on Pantera and Lamb of God in equal measure
 
-Drummer #61 (Unknown) earns rank #8 for: trivium's modern groove-thrash synthesis. Alex Bent's work with Trivium blends technical death metal precision with groove metal's syncopated riff-locking, representing how the genre's 1990s vocabulary continues shaping 21st-century metal drummers raised on Pantera and Lamb of God in equal measure.
+Alex Bent (ex-Trivium / Arkaík / Dragonlord) earns rank #8 for: trivium's modern groove-thrash synthesis. Alex Bent's work with Trivium blends technical death metal precision with groove metal's syncopated riff-locking, representing how the genre's 1990s vocabulary continues shaping 21st-century metal drummers raised on Pantera and Lamb of God in equal measure.
+
+Full drummer profile: [Alex Bent on MetalForge](https://metalforge.io/drummer/alex-bent)
 
 ### 9. Joey Jordison
 
@@ -148,4 +150,4 @@ A: Pantera is universally credited as groove metal's founding band, with Vinnie 
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

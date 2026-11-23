@@ -1,24 +1,24 @@
 ---
 name: "Shannon Larkin"
-band: "Godsmack / Ugly Kid Joe / Wrathchild America"
+band: "ex-Godsmack / Ugly Kid Joe / Wrathchild America"
 genre: "Hard Rock / Heavy Metal / Nu Metal"
 country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/shannon-larkin"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Shannon Larkin — Drum Kit & Gear Setup
 
-Shannon Larkin's drum kit and gear setup. Shannon Larkin is a professional metal drummer best known for their work with Godsmack / Ugly Kid Joe / Wrathchild America, a defining act in hard rock / heavy metal / nu metal.
+Shannon Larkin's drum kit and gear setup. Shannon Larkin is a professional metal drummer best known for their work with ex-Godsmack / Ugly Kid Joe / Wrathchild America, a defining act in hard rock / heavy metal / nu metal.
 
 ## Quick Facts
 
 | Fact | Value |
 |---|---|
 | Name | Shannon Larkin |
-| Band | Godsmack / Ugly Kid Joe / Wrathchild America |
+| Band | ex-Godsmack / Ugly Kid Joe / Wrathchild America |
 | All bands | Godsmack, Ugly Kid Joe, Wrathchild America |
 | Genre | Hard Rock / Heavy Metal / Nu Metal |
 | Country | USA |
@@ -31,13 +31,13 @@ Shannon Larkin's drum kit and gear setup. Shannon Larkin is a professional metal
 
 Shannon Larkin plays a ddrum Dios Series drum kit — a setup built for the raw power and groove-centric approach he brought to Godsmack across two decades of multi-platinum hard rock. As one of rock's most hard-hitting drummers, Larkin built a drum set that balances heavy impact with musical sensitivity, perfectly matching Godsmack's powerful yet accessible sound.
 
-The cornerstone of the Shannon Larkin drum kit is his ddrum Dios 14×6.5" Maple snare drum, delivering a warm yet cutting crack that anchors Godsmack's groove-driven rhythms on albums like Faceless, IV, and When Legends Rise. The Shannon Larkin drum set features Sabian AAX and HHX Series cymbals throughout: 14" AAX Stage Hi-Hats for crisp articulation; 18" and 19" AAX X-Plosion Crashes for explosive accents; a 21" HHX Raw Bell Dry Ride for dark, focused rhythmic clarity; a 10" AAX Splash for quick punctuation; and an 18" AAX Chinese cymbal for aggressive color. A DW 9000 Series double pedal powers the solid double kick foundation beneath Godsmack's heaviest arrangements. Vic Firth American Classic 5B sticks complete the rig.
+The cornerstone of the Shannon Larkin drum kit is his ddrum Dios 14×6.5" Maple snare drum, delivering a warm yet cutting crack that anchors Godsmack's groove-driven rhythms on albums like Faceless, IV, and When Legends Rise. The Shannon Larkin drum set features Sabian AAX Series cymbals throughout: 14" AAX Stage Hi-Hats for crisp articulation; 18" and 19" AAX X-Plosion Crashes for explosive accents; a 21" AAX Raw Bell Dry Ride for dark, focused rhythmic clarity; a 10" AAX Splash for quick punctuation; and an 18" AAX Chinese cymbal for aggressive color. A DW 9000 Series double pedal powers the solid double kick foundation beneath Godsmack's heaviest arrangements. Vic Firth American Classic 5B sticks complete the rig.
 
 ## Biography
 
 Shannon Larkin (born April 24, 1967) is an American drummer best known as the former drummer of Godsmack, a position he held from 2002 to 2024, making him the band's longest-serving drummer. His powerful, groove-oriented style was essential to Godsmack's signature heavy sound. Before Godsmack, Larkin played with Wrathchild America and Ugly Kid Joe. He has been playing drums since age ten and briefly filled in for Black Sabbath on one show in 1997 when Mike Bordin was unavailable. Known for his hard-hitting style and versatility, Larkin has been a Sabian cymbal artist for decades.
 
-Shannon Larkin (born April 24, 1967, in Chicago, Illinois) is an American drummer best known as the drummer for multi-platinum hard rock band Godsmack since 2002. Before Godsmack, Larkin made his mark with Ugly Kid Joe, known for their hit "Everything About You," and thrash band Wrathchild America.
+Shannon Larkin (born April 24, 1967, in Chicago, Illinois) is an American drummer best known for his tenure as the drummer for multi-platinum hard rock band Godsmack from 2002 to 2024. Before Godsmack, Larkin made his mark with Ugly Kid Joe, known for their hit "Everything About You," and thrash band Wrathchild America.
 
 Known for his powerful, groove-oriented drumming style and dynamic stage presence, Larkin has become one of the most recognizable drummers in modern hard rock. His playing combines hard-hitting power with musical sensitivity, perfectly complementing Godsmack's heavy yet accessible sound.
 
@@ -94,7 +94,7 @@ Shannon Larkin's drumming style is characterized by powerful grooves, dynamic co
 
 ## Band History
 
-- **Godsmack** — 2002–present (current)
+- **Godsmack** — 2002–2024
 - **Ugly Kid Joe** — 1991–1997
 - **Wrathchild America** — 1989–1991
 
@@ -102,7 +102,7 @@ Shannon Larkin's drumming style is characterized by powerful grooves, dynamic co
 
 - **Drums:** ddrum Dios Series
 - **Snare:** ddrum Dios 14x6.5" Maple
-- **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
+- **Cymbals:** Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
 - **Hardware:** DW 9000 Series Double Pedal, ddrum Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
@@ -161,11 +161,11 @@ A: Shannon Larkin was the drummer for Godsmack from 2002 to 2024, making him the
 
 **Q: What throne does Shannon Larkin use?**
 
-A: Shannon Larkin sits on a Pork Pie Big Boy throne behind his ddrum Dios Series drum kit, the same drum set he has used since joining Godsmack in 2002.
+A: Shannon Larkin sits on a Pork Pie Big Boy throne behind his ddrum Dios Series drum kit, the same drum set he used throughout his 2002-2024 run with Godsmack.
 
 ## Trivia
 
-- Has been with Godsmack for over 20 years, longer than original drummer Tommy Stewart
+- Was with Godsmack for 22 years (2002-2024), longer than original drummer Tommy Stewart
 - "Everything About You" by Ugly Kid Joe became an unexpected worldwide hit in 1992
 - Formed Another Animal as a side project, singing lead vocals and playing drums
 - Known for his friendly, down-to-earth personality despite rock star status
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Shannon Larkin's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

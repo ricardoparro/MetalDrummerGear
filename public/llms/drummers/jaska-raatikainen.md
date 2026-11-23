@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Jaska Raatikainen — Drum Kit & Gear Setup
@@ -30,7 +30,7 @@ Jaska Raatikainen's drum kit and gear setup. Jaska Raatikainen is a professional
 
 Jaska Raatikainen plays a Pearl Masters Premium Maple drum kit — the large-format, double-bass configuration he developed across Children of Bodom's catalog from their 1997 debut Something Wild through their 2019 farewell Hexed. As Children of Bodom's co-founder and sole drummer for 26 years, Raatikainen anchored the Finnish band's signature blend of neoclassical melodies and melodic death metal with precision double bass work and driving blast beats.
 
-The Jaska Raatikainen drum set centers on a Pearl Masters 14×5.5" Maple snare — a warm, articulate shell that projects clearly beneath Alexi Laiho's dense guitar and keyboard arrangements. A Pearl Eliminator double pedal powers Raatikainen's precise, fluid bass drum patterns — the direct-drive mechanism essential for the rapid double bass volleys Children of Bodom made a genre cornerstone. Zildjian A Custom and K Custom Series cymbals round out the rig: 14" A Custom Hi-Hats for a bright, cutting chick; 17" and 18" A Custom Crashes for fast-attack accents; and a 20" K Custom Ride for dark, controlled rhythmic work. Vic Firth American Classic 5A sticks and Remo drumheads complete Raatikainen's kit — a setup built for the precision melodic death metal demands.
+The Jaska Raatikainen drum set centers on a Pearl Masters 14×5.5" Maple snare — a warm, articulate shell that projects clearly beneath Alexi Laiho's dense guitar and keyboard arrangements. A Pearl Eliminator double pedal powers Raatikainen's precise, fluid bass drum patterns, essential for the rapid double bass volleys Children of Bodom made a genre cornerstone. Zildjian A Custom and K Custom Series cymbals round out the rig: 14" A Custom Hi-Hats for a bright, cutting chick; 17" and 18" A Custom Crashes for fast-attack accents; and a 20" K Custom Ride for dark, controlled rhythmic work. Vic Firth American Classic 5A sticks and Remo drumheads complete Raatikainen's kit — a setup built for the precision melodic death metal demands.
 
 ## Biography
 
@@ -238,4 +238,4 @@ Dated brand-endorsement timeline: [Jaska Raatikainen's endorsement history](http
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

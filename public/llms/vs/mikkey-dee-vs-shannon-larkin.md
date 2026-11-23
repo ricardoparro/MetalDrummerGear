@@ -1,6 +1,6 @@
 # Mikkey Dee vs Shannon Larkin — Drum Kit Comparison
 
-> Side-by-side gear comparison between Mikkey Dee (Scorpions / Motörhead) and Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America).
+> Side-by-side gear comparison between Mikkey Dee (Scorpions / Motörhead) and Shannon Larkin (ex-Godsmack / Ugly Kid Joe / Wrathchild America).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/mikkey-dee-vs-shannon-larkin
 
@@ -19,7 +19,7 @@ Motörhead/Scorpions' Mikkey Dee vs Godsmack's Shannon Larkin. Classic heavy-met
 ## Shannon Larkin Setup
 
 - **Drums:** ddrum Dios Series
-- **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
+- **Cymbals:** Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
 - **Snare:** ddrum Dios 14x6.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, ddrum Throne
 - **Sticks:** Vic Firth American Classic 5B
@@ -67,4 +67,4 @@ A: No — Shannon Larkin was Godsmack's drummer from 2002 to 2024, making him th
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

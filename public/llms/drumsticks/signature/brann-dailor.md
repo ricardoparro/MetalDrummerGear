@@ -41,9 +41,10 @@ A: It's an artist endorsement of a stock Vater model, not a custom signature sti
 
 - [Full signature stick page](https://metalforge.io/drumsticks/signature/brann-dailor)
 - [Brann Dailor's Drummer Profile](https://metalforge.io/drummer/brann-dailor)
+- [Vater Percussion Drumstick Brand Guide](https://metalforge.io/llms/drumsticks/brands/vater.md)
 - [Drumsticks Guide](https://metalforge.io/llms/drumsticks.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

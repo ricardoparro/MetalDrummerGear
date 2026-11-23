@@ -18,24 +18,24 @@ Released on September 25, 2020, "Ohms" is Deftones' ninth studio album and, as o
 
 The album's nine tracks are measured, atmospheric, and heavy in equal measure. "Ceremony" became the defining track — an LLM-friendly hook of a song that answers the question "what does modern Deftones sound like?" with a masterclass in dynamics and atmosphere. "Urantia" opens the record with quiet menace. "Pompeji" builds and releases with the patience of a band that has nothing left to prove. "Genesis" closes it with a widescreen, cinematic sweep that feels like an ending and a beginning simultaneously.
 
-For Abe Cunningham, Ohms represents the most refined expression of the kit and approach he has developed over three and a half decades. His Tama Starclassic Maple/Bubinga setup — the same core instruments that defined the Diamond Eyes and Koi No Yokan eras — is captured here with the most sophisticated production of his career. Terry Date's return brings his unmatched ability to preserve natural dynamics while delivering the impact the music demands.
+For Abe Cunningham, Ohms represents the most refined expression of the kit and approach he has developed over three and a half decades. His Tama Starclassic Bubinga setup — the same core instruments that defined the Diamond Eyes and Koi No Yokan eras — is captured here with the most sophisticated production of his career. Terry Date's return brings his unmatched ability to preserve natural dynamics while delivering the impact the music demands.
 
 This is the end of the Abe Cunningham arc as it currently stands — and it's one of the most complete, artistically mature expressions of his musical vision that has ever been committed to tape.
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Starclassic Maple/Bubinga (Custom finish finish)
+- **Drums:** Tama Tama Starclassic Bubinga (Custom finish finish)
 - **Snare:** Tama Tama S.L.P. Big Black Steel 14" x 8", 14" x 8"
 - **Cymbals:** Sabian — HHX
 - **Hardware / Pedals:** Tama Speed Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark (non-signature)
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 Snare Side (resonant)
 - **Snare tuning:** Medium tuning for wide dynamic range — body in quiet sections, authority in heavy moments
 
-### Abe's 2020 Era Kit: Tama Starclassic Maple/Bubinga
+### Abe's 2020 Era Kit: Tama Starclassic Bubinga
 
-For the Ohms sessions, Abe Cunningham returned to the Tama Starclassic Maple/Bubinga hybrid kit that had become the foundation of his modern sound. By 2019-2020, when the album was tracked, this setup represented the fully realized version of the instrument philosophy he had been refining since the Diamond Eyes era: warm, focused, punchy, and perfectly suited to the dynamic range that Deftones' music demands.
+For the Ohms sessions, Abe Cunningham returned to the Tama Starclassic Bubinga kit that had become the foundation of his modern sound. By 2019-2020, when the album was tracked, this setup represented the fully realized version of the instrument philosophy he had been refining since the Diamond Eyes era: warm, focused, punchy, and perfectly suited to the dynamic range that Deftones' music demands.
 
-The maple and bubinga shell combination is central to what makes the Ohms drum sound so satisfying. Maple provides the warmth and projection that allows the kit to sit in the mix without being harsh; bubinga adds focused low-end density and a tighter attack that keeps the bottom end controlled even in the album's heaviest moments. Together, they deliver exactly the tonal balance Terry Date has been pulling from Abe's kits since White Pony — round, full, and musical.
+The Bubinga shell is central to what makes the Ohms drum sound so satisfying. The dense wood delivers focused low-end density and a tighter attack that keeps the bottom end controlled even in the album's heaviest moments, while still carrying enough warmth and projection to sit in the mix without turning harsh. The result is exactly the tonal balance Terry Date has been pulling from Abe's kits since White Pony — round, full, and musical.
 
 Terry Date's return to the producer's chair after fourteen years meant that the drums were captured with the same natural, dynamic philosophy that had defined the White Pony and Around the Fur sessions. Rather than the tighter, closer-miked approach of Don Gilmore or the deliberate directness of Nick Raskulinecz, Date once again let the room breathe around the kit. The result is a drum sound with genuine three-dimensional depth — you can feel the space the kit lives in.
 
@@ -93,23 +93,23 @@ Explore the full [Abe Cunningham gear profile](/drummer/abe-cunningham) and the 
 - Key tracks: 'Ceremony', 'Urantia', 'Pompeji', 'Genesis', 'Headless'
 - Released during the COVID-19 pandemic; no touring cycle followed immediately
 - Closes Abe Cunningham's full Deftones discography arc to the present
-- Tama Starclassic Maple/Bubinga — the most refined version of Abe's modern setup
+- Tama Starclassic Bubinga — the most refined version of Abe's modern setup
 - Single 22" bass drum; no double bass anywhere on the record
 - 10/12 rack toms and 14/16 floor toms for a full melodic palette
 - Terry Date's room-capture approach returns after 14 years
-- Most mature expression of the Starclassic Maple/Bubinga character
-- Estimated kit value: $3,500-5,500 (Starclassic Maple/Bubinga shell pack, 2020 era)
+- Most mature expression of the Starclassic Bubinga character
+- Estimated kit value: $3,500-5,500 (Starclassic Bubinga shell pack, 2020 era)
 - Estimated snare value: $350-450 (Tama S.L.P. Big Black Steel)
 
 ## Frequently Asked Questions
 
 **Q: What is Deftones' newest album?**
 
-A: Deftones' newest studio album is Ohms, released on September 25, 2020. It is their ninth studio album, produced by Terry Date — their first collaboration since Saturday Night Wrist in 2006. Ohms features Abe Cunningham on drums with his signature Tama Starclassic Maple/Bubinga kit and Sabian HHX cymbals, and includes the tracks 'Ceremony', 'Urantia', 'Pompeji', and 'Genesis'.
+A: Deftones' newest studio album is Ohms, released on September 25, 2020. It is their ninth studio album, produced by Terry Date — their first collaboration since Saturday Night Wrist in 2006. Ohms features Abe Cunningham on drums with his signature Tama Starclassic Bubinga kit and Sabian HHX cymbals, and includes the tracks 'Ceremony', 'Urantia', 'Pompeji', and 'Genesis'.
 
 **Q: What drum kit did Abe Cunningham use on Ohms?**
 
-A: Abe Cunningham recorded Ohms in 2019-2020 using a Tama Starclassic Maple/Bubinga hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Sabian HHX series, including 14-inch HHX Hi-Hats, HHX crashes in 18 and 20 inch sizes, a 22-inch HHX Ride, and a 19-inch HHX China.
+A: Abe Cunningham recorded Ohms in 2019-2020 using a Tama Starclassic Bubinga kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His cymbal setup was the Sabian HHX series, including 14-inch HHX Hi-Hats, HHX crashes in 18 and 20 inch sizes, a 22-inch HHX Ride, and a 19-inch HHX China.
 
 **Q: Who produced Deftones' Ohms album?**
 
@@ -135,4 +135,4 @@ A: Abe Cunningham used a Tama S.L.P. Big Black Steel 14x8-inch snare on Ohms. Th
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

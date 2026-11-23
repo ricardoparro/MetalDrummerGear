@@ -1,6 +1,6 @@
 # Top 10 Grindcore Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/grindcore-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/grindcore-metal-drummers)
 
 ---
 
@@ -124,7 +124,7 @@ Full drummer profile: [Hannes Grossmann on MetalForge](https://metalforge.io/dru
 A: Pete Sandoval is grindcore's most direct founding figure — he co-founded Terrorizer and drove their 1989 album "World Downfall," a genre-defining record, before carrying that blast beat mastery into Morbid Angel's death metal. Flo Mounier and Derek Roddy are the technical death metal drummers most frequently cited by grindcore musicians for pushing blast beat speed, endurance, and complexity past what the genre's founders established. Grindcore specialists outside MetalForge's current drummer database — including Napalm Death's Mick Harris and Danny Herrera, and Brutal Truth's Rich Hoak — remain the scene's most direct historical touchstones.
 
 **Q: Who is the fastest grindcore drummer?**
-A: George Kollias holds documented blast beat speeds exceeding 280 BPM with Nile, representing the extreme-speed ceiling grindcore drummers draw on even though Nile is a technical death metal band. Within grindcore's own lineage, Pete Sandoval's Terrorizer and early Morbid Angel work set the genre's practical speed standard, while Derek Roddy's "swivel technique" pushed blast beat speed past 260 BPM and earned him a reputation as one of extreme metal's fastest, most consistent drummers.
+A: George Kollias holds documented blast beat speeds exceeding 240 BPM with Nile, representing the extreme-speed benchmark grindcore drummers draw on even though Nile is a technical death metal band. Within grindcore's own lineage, Pete Sandoval's Terrorizer and early Morbid Angel work set the genre's practical speed standard, while Derek Roddy's "swivel technique" pushed blast beat speed to new extremes and earned him a reputation as one of extreme metal's fastest, most consistent drummers.
 
 **Q: What is grindcore drumming?**
 A: Grindcore drumming fuses death metal's blast beats with hardcore punk's raw speed, aggression, and brevity — songs frequently run under two minutes and are built almost entirely around sustained, blur-inducing blast beat velocity rather than groove or dynamics. Where death metal drumming balances speed with technical composition, grindcore drumming strips the format down to its most extreme, high-BPM essentials, favoring relentless intensity over structural complexity. The genre emerged in the mid-1980s from bands like Napalm Death and Terrorizer fusing crust punk and death metal influences into the fastest extreme metal subgenre.
@@ -150,4 +150,4 @@ A: Grindcore's extreme tempos demand lightweight, direct-drive double pedals and
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

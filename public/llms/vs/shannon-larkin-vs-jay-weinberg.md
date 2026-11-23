@@ -1,6 +1,6 @@
 # Shannon Larkin vs Jay Weinberg — Drum Kit Comparison
 
-> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America) and Jay Weinberg (ex-Slipknot / Suicidal Tendencies).
+> Side-by-side gear comparison between Shannon Larkin (ex-Godsmack / Ugly Kid Joe / Wrathchild America) and Jay Weinberg (ex-Slipknot / Suicidal Tendencies).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/shannon-larkin-vs-jay-weinberg
 
@@ -11,7 +11,7 @@ Godsmack's Shannon Larkin vs ex-Slipknot's Jay Weinberg. Two faces of modern are
 ## Shannon Larkin Setup
 
 - **Drums:** ddrum Dios Series
-- **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
+- **Cymbals:** Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
 - **Snare:** ddrum Dios 14x6.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, ddrum Throne
 - **Sticks:** Vic Firth American Classic 5B
@@ -67,4 +67,4 @@ A: Shannon Larkin played with Wrathchild America (1989–1991) and Ugly Kid Joe 
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

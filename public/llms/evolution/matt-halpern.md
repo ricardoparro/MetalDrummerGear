@@ -26,7 +26,7 @@ Matt Halpern and guitarist Misha Mansoor co-founded Periphery in the mid-2000s, 
 - **Drums:** Mapex — entry-level shell pack: 22" kick, 10"/12"/14"/16" toms (pre-endorsement Mapex kit, functional and reliable for heavy touring; preceded his 2010 Yamaha endorsement)
 - **Snare:** Mapex 14"×6.5" steel (standard pre-endorsement snare)
 - **Cymbals:** Istanbul Agop — 14" hi-hats, 16"/18" crashes, 20" ride (dark Turkish B20 alloy; complex wash suited to djent's nuanced rhythmic vocabulary)
-- **Hardware:** Tama Iron Cobra HP900 Double Pedal (foundational double bass platform)
+- **Hardware:** Mapex Double Pedal (foundational double bass platform)
 - **Sticks:** Promark hickory (off-the-shelf, pre-signature)
 - **Heads:** Evans clear on toms, coated on snare
 - **Estimated kit cost (original):** ~$4,000
@@ -51,7 +51,7 @@ Periphery II cemented the band as leaders of the djent movement. Halpern's Yamah
 - **Drums:** Yamaha — standard shell pack: 22" kick, 10"/12"/14"/16" toms *(switch — signed with Yamaha in 2010, carrying the band's djent attack through this breakthrough era)*
 - **Snare:** Yamaha 14"×6.5" steel *(switch — stock Yamaha snare during the endorsement years)*
 - **Cymbals:** Meinl Byzance Series — 14" hi-hats, 16"/18" crashes, 21" ride, 18" China *(switch from Istanbul Agop — darker Turkish B20 alloy; extended sustain and complexity)*
-- **Hardware:** Tama Iron Cobra HP900 Double Pedal (continued)
+- **Hardware:** Yamaha Double Pedal (switch from Mapex)
 - **Sticks:** Promark hickory *(upgrade — heavier stick for increased projection on larger venues)*
 - **Heads:** Evans standard heads across toms and kick *(continued)*
 - **Estimated kit cost (original):** ~$8,000
@@ -75,7 +75,7 @@ A: From the Mapex-based DIY setup of the debut era, Halpern moved through his 20
 - **Drums:** Pearl Reference Series — maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms *(switch from Yamaha — premium maple/birch hybrid; more warmth and sustain for layered Juggernaut arrangements)*
 - **Snare:** Pearl Reference 14"×6.5" Brass *(switch — brass shell, dry attack for Juggernaut's complex polyrhythmic passages)*
 - **Cymbals:** Meinl Byzance Brilliant / Dark — 14" Byzance Brilliant hi-hats, 16"/18" Byzance Dark crashes, 21" Byzance Brilliant ride *(upgrade — combined Brilliant and Dark series for contrasting bright/dry tonal character)*
-- **Hardware:** Tama Iron Cobra HP900 Double Pedal with Speed Cobra beaters (continued)
+- **Hardware:** Pearl Demon Drive Double Pedal (switch from Yamaha)
 - **Sticks:** Promark hickory (continued)
 - **Heads:** Evans standard heads across toms and kick (continued)
 - **Estimated kit cost (original):** ~$12,000
@@ -98,7 +98,7 @@ Matt Halpern's current setup represents 15+ years of incremental refinement. The
 - **Drums:** Pearl Reference Series (refined) — maple/birch hybrid shells, custom finish: 22" kick, 10"/12"/14"/16" toms (current primary setup; refined over several album cycles)
 - **Snare:** Pearl Reference 14"×6.5" Brass (signature Reference Brass snare, central to his current sound)
 - **Cymbals:** Meinl Byzance Extra Dry / Dark — 14" Extra Dry hi-hats, 16"/18" Byzance Dark crashes, 21" Byzance Brilliant ride *(upgrade — Extra Dry hi-hats for drier, more articulate polyrhythmic clarity)*
-- **Hardware:** Tama Iron Cobra HP900 Double Pedal (continued — decade-plus Iron Cobra loyalty)
+- **Hardware:** Pearl Demon Drive Double Pedal (continued)
 - **Sticks:** Promark Matt Halpern Signature — custom hickory model *(signature — reflects status as one of the most influential drummers in modern metal)*
 - **Heads:** Evans standard heads across toms and kick (continued — tight, defined tone in dense mix contexts)
 - **Electronics:** Roland SPD-SX Sampling Pad *(new — click track and sample triggering for Periphery's complex live productions)*
@@ -131,7 +131,9 @@ Matt Halpern's current setup represents 15+ years of incremental refinement. The
 - **Pearl (drums)** — 2015–present (Reference Series, signature snare deal)
 - **Istanbul Agop (cymbals)** — 2005–2011 (distinctive early tone element)
 - **Meinl Byzance (cymbals)** — 2012–present (20" Byzance series across multiple variants)
-- **Tama Iron Cobra (hardware)** — 2005–present (unchanged across entire career)
+- **Mapex (hardware)** — 2005–2010 (pre-endorsement double pedal, before his Yamaha deal)
+- **Yamaha (hardware)** — 2010–2015 (double pedal, Periphery II / Clear era)
+- **Pearl Demon Drive (hardware)** — 2015–present (Juggernaut era onward)
 - **Promark (sticks)** — 2005–present (standard hickory → Matt Halpern Signature since 2015)
 - **Evans (heads)** — throughout career (standard clear/coated heads across toms and kick)
 
@@ -146,7 +148,7 @@ A: Matt Halpern plays a Pearl Reference Series kit — a maple/birch hybrid shel
 A: Halpern plays Meinl Byzance cymbals, combining multiple series: Byzance Extra Dry hi-hats for maximum polyrhythmic articulation, Byzance Dark crashes, and a Byzance Brilliant ride. He switched to Meinl Byzance from Istanbul Agop around 2012 during the Periphery II era. Before Meinl, his Istanbul Agop setup was a distinctive element of early Periphery's tone.
 
 **Q: What double bass pedal does Matt Halpern use?**
-A: Halpern uses the Tama Iron Cobra HP900 double pedal, which he has played throughout his entire career — unchanged from Periphery's earliest days to the present. The Iron Cobra's consistent, reliable response has been central to his double bass technique across all Periphery recordings and tours.
+A: Halpern currently uses the Pearl Demon Drive double pedal, part of his Pearl endorsement since 2015. His hardware has changed alongside his drum kit over the years: a Mapex double pedal in the pre-endorsement debut era, a Yamaha double pedal during his 2010–2015 Yamaha endorsement, and the Pearl Demon Drive from the Juggernaut era onward.
 
 **Q: What drumsticks does Matt Halpern use?**
 A: Halpern plays Promark Matt Halpern Signature drumsticks — a custom hickory model developed through his Promark endorsement (signed 2015). Before his signature model, he played standard Promark hickory sticks throughout his career.

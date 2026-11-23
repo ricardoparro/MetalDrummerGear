@@ -27,7 +27,7 @@ Before Dream Theater, Mike Mangini built an unconventional resume: touring with 
 - **Snare:** Standard steel/wood snares, varied by session
 - **Cymbals:** Sabian — standard hi-hat, crash, and ride spread
 - **Hardware:** Standard touring hardware, pedal setup varied by engagement
-- **Sticks:** Vic Firth (standard models, pre-signature era)
+- **Sticks:** Standard sticks — no specific brand documented for this period
 - **Heads:** Standard session heads, varied by engagement
 - **Estimated kit cost (original):** ~$3,000
 
@@ -53,7 +53,7 @@ A: When Dream Theater opened a historic, publicly documented audition in 2010 to
 - **Snare:** Pearl Reference Series Snares (multiple options for tonal variety)
 - **Cymbals:** Sabian HHX & AAX Series — 14" HHX Evolution Hi-Hats, 16"–19" crashes, 21"/22" HHX rides, 18" China, 10" splash
 - **Hardware:** Pearl Eliminator Redline Double Pedal
-- **Sticks:** Vic Firth Mike Mangini Signature *(debut signature model)*
+- **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP) *(debut signature model)*
 - **Heads:** Standard coated batters (Evans/Remo mix); Roland TD-50 module for triggered elements
 - **Estimated kit cost (original):** ~$9,500
 
@@ -61,7 +61,7 @@ A: When Dream Theater opened a historic, publicly documented audition in 2010 to
 - Won Dream Theater's internationally documented 2010 audition against six other world-class drummers
 - A Dramatic Turn of Events (2011) — rare co-production credit for a debuting drummer
 - The Astonishing (2016) — ambitious two-disc rock opera concept album
-- Debuted the Pearl Masterworks Maple custom shell pack and first Vic Firth signature stick
+- Debuted the Pearl Masterworks Maple custom shell pack and first Vater signature stick
 
 > "The audition wasn't about proving I could play fast. It was about proving I could think the way this band thinks — in odd meters, in layers, in structure." — *Rhythm Magazine Interview, 2011*
 
@@ -73,13 +73,13 @@ A: When Dream Theater opened a historic, publicly documented audition in 2010 to
 **Tours:** Distance Over Time Tour 2019, 20th Anniversary Tour 2021–2022
 
 **Q: What drums did Mike Mangini use on Distance Over Time?**
-A: After The Astonishing's sprawling concept-album approach divided fans, Dream Theater stripped back for Distance Over Time (2019), written and recorded at Yonderbarn Studios — John Petrucci's residential facility in Hurleyville, New York — in a live-in-the-room process that produced Mangini's most natural, spontaneous studio performances. He switched to a Pearl Reference Pure shell pack, a 100% maple kit whose organic warmth suited Yonderbarn's acoustics, while keeping his Sabian cymbals, Pearl Eliminator Redline pedals, and Vic Firth signature sticks unchanged. The same setup carried through A View from the Top of the World (2021), Dream Theater's first fully self-produced album.
+A: After The Astonishing's sprawling concept-album approach divided fans, Dream Theater stripped back for Distance Over Time (2019), written and recorded at Yonderbarn Studios — John Petrucci's residential facility in Hurleyville, New York — in a live-in-the-room process that produced Mangini's most natural, spontaneous studio performances. He switched to a Pearl Reference Pure shell pack, a 100% maple kit whose organic warmth suited Yonderbarn's acoustics, while keeping his Sabian cymbals, Pearl Eliminator Redline pedals, and Vater signature sticks unchanged. The same setup carried through A View from the Top of the World (2021), Dream Theater's first fully self-produced album.
 
 - **Drums:** Pearl Reference Pure — 100% maple shells; single 22" bass drum, four rack toms (8"–13"), two floor toms (16"x14", 16"x16") *(switch from hybrid Masterworks Maple)*
 - **Snare:** Pearl Reference Snare 14"x6.5" — maple shell *(switch)*
 - **Cymbals:** Sabian HHX & AAX Series — 14" HHX Evolution Hi-Hats, 16"–19" crashes, 21" HHX Evolution Ride, 18" China, 10" splash *(unchanged)*
 - **Hardware:** Pearl Eliminator Redline Double Pedal *(unchanged)*
-- **Sticks:** Vic Firth Mike Mangini Signature *(unchanged)*
+- **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP) *(unchanged)*
 - **Heads:** Standard coated batters
 - **Estimated kit cost (original):** ~$10,000
 
@@ -105,7 +105,7 @@ A: Mangini's final documented Dream Theater configuration moved to the broader P
 - **Snare:** Pearl Reference Brass 14"x5" & 14"x6.5" — dual snare setup *(switch)*
 - **Cymbals:** Sabian HHX & AAX Series — 14" HHX Evolution Hi-Hats, 17"/18"/19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride *(upgrade)*
 - **Hardware:** Pearl Demon Drive Double Pedal, Roland SPD-SX sampling pad *(switch)*
-- **Sticks:** Vic Firth Mike Mangini Signature *(unchanged)*
+- **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP) *(unchanged)*
 - **Heads:** Evans (standard configuration)
 - **Estimated kit cost (original):** ~$11,000
 
@@ -136,7 +136,7 @@ A: Mangini's final documented Dream Theater configuration moved to the broader P
 - **Pearl Reference Pure (drums)** — 2017–2021 (Distance Over Time, A View from the Top of the World)
 - **Pearl Reference Series (drums)** — 2021–2023 (final Dream Theater era)
 - **Sabian HHX & AAX (cymbals)** — 1996–2023 (career-long constant)
-- **Vic Firth Mike Mangini Signature (sticks)** — 2010–2023
+- **Vater Mike Mangini Wicked Piston (VHMMWP) (sticks)** — 2010–2023
 - **Pearl Eliminator Redline → Pearl Demon Drive (double pedals)** — 2010–2021 → 2021–2023
 - **Roland TD-50 → Roland SPD-SX (electronics)** — 2010–2021 → 2021–2023
 

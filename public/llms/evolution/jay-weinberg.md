@@ -10,7 +10,7 @@ last_updated: "2026-07-01"
 
 # Jay Weinberg Drum Kit Evolution — Complete Timeline
 
-Jay Weinberg, the son of E Street Band drummer Max Weinberg, built his own name the hard way — grinding through the hardcore and punk touring circuit before winning one of metal's most scrutinized auditions in 2013 to become Slipknot's drummer #1. This timeline documents his complete gear evolution from the modest, no-endorsement kits of his Against Me! and Madball years, through the Pearl Reference Pure setup that introduced him on .5: The Gray Chapter, into the SJC Custom Drums and Zildjian K Custom rig that carried We Are Not Your Kind and The End, So Far — and, after his abrupt December 2023 firing from Slipknot, into the same SJC platform he now plays with Suicidal Tendencies.
+Jay Weinberg, the son of E Street Band drummer Max Weinberg, built his own name the hard way — grinding through the hardcore and punk touring circuit before winning one of metal's most scrutinized auditions in 2013 to become Slipknot's drummer #1. This timeline documents his complete gear evolution from the modest, no-endorsement kits of his Against Me! and Madball years, through the Pearl Reference Pure setup that introduced him on .5: The Gray Chapter, into the SJC Custom Drums and Zildjian K Custom rig that carried We Are Not Your Kind and The End, So Far — and, after his abrupt November 2023 firing from Slipknot, into the same SJC platform he now plays with Suicidal Tendencies.
 
 See also: [Jay Weinberg drummer profile](/llms/drummers/jay-weinberg.md)
 
@@ -99,7 +99,7 @@ A: By We Are Not Your Kind (2019) — Slipknot's critically acclaimed, chart-top
 **Tours:** Knotfest Roadshow 2021–2022, Here Comes the Pain Tour 2023
 
 **Q: Why did Jay Weinberg leave Slipknot?**
-A: The End, So Far (2022) — Slipknot's most genre-expanding studio record — found Weinberg's SJC Custom and Zildjian K Custom setup fully mature, integrated with an expanded Roland trigger system for the band's hybrid acoustic/electronic live show. In November 2023, after nearly a decade behind mask #1, Slipknot announced Weinberg's departure, with Eric Morotti later confirmed as his replacement.
+A: The End, So Far (2022) — Slipknot's most genre-expanding studio record — found Weinberg's SJC Custom and Zildjian K Custom setup fully mature, integrated with an expanded Roland trigger system for the band's hybrid acoustic/electronic live show. In November 2023, after nearly a decade behind mask #1, Slipknot announced Weinberg's departure, with Eloy Casagrande later confirmed as his replacement.
 
 - **Drums:** SJC Custom Drums — mature Slipknot configuration *(unchanged)*
 - **Snare:** Tama SLP 14"x6.5" *(unchanged)*
@@ -112,10 +112,10 @@ A: The End, So Far (2022) — Slipknot's most genre-expanding studio record — 
 **Key developments:**
 - The End, So Far (2022) — Slipknot's most genre-expanding studio album, incorporating alternative rock and electronic influences
 - Expanded Roland trigger integration for the band's hybrid live show
-- Fired from Slipknot in December 2023 after nine years and three studio albums
-- Eric Morotti later confirmed as his replacement behind mask #1
+- Fired from Slipknot in November 2023 after nine years and three studio albums
+- Eloy Casagrande later confirmed as his replacement behind mask #1
 
-> "Nine years, three albums, a mask, and a legacy I tried to honor every single night. I gave that band everything I had." — *Statement following Slipknot departure, December 2023*
+> "Nine years, three albums, a mask, and a legacy I tried to honor every single night. I gave that band everything I had." — *Statement following Slipknot departure, November 2023*
 
 ---
 
@@ -173,7 +173,7 @@ A: Weinberg landed on his feet almost immediately, joining crossover thrash pion
 ## FAQ
 
 **Q: Why did Jay Weinberg leave Slipknot?**
-A: Slipknot announced Jay Weinberg's departure in December 2023 after nine years and three studio albums (.5: The Gray Chapter, We Are Not Your Kind, and The End, So Far). Eric Morotti was later confirmed as his replacement behind mask #1. Weinberg joined Suicidal Tendencies within months of the split.
+A: Slipknot announced Jay Weinberg's departure in November 2023 after nine years and three studio albums (.5: The Gray Chapter, We Are Not Your Kind, and The End, So Far). Eloy Casagrande was later confirmed as his replacement behind mask #1. Weinberg joined Suicidal Tendencies within months of the split.
 
 **Q: Who is Jay Weinberg's father?**
 A: Jay Weinberg is the son of Max Weinberg, longtime drummer for Bruce Springsteen's E Street Band. Jay filled in on drums for his father during Springsteen's 2009 "Working on a Dream" World Tour dates before building his own career on the hardcore and punk touring circuit and winning Slipknot's 2013 audition.

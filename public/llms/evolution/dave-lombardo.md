@@ -67,7 +67,7 @@ The most influential era of Dave Lombardo's career — and arguably the most inf
 
 After leaving and returning to Slayer, Dave settled into the long-running Tama and Paiste setup that carried through the reunion years. Roland kick triggers were added for stadium-level sound consistency. The Christ Illusion album (2006) won a Grammy Award for Best Metal Performance.
 
-- **Drums:** Tama Starclassic Maple — maple shells: 24" kick, 10"/12"/14"/16" toms *(switch — switched to Tama for the reunion era)*
+- **Drums:** Tama Starclassic Walnut/Birch — walnut/birch shells: 24" kick, 10"/12"/14"/16" toms *(switch — switched to Tama for the reunion era)*
 - **Snare:** Tama S.L.P. 14"×6.5" G-Maple *(switch — Tama snare paired with the new kit)*
 - **Cymbals:** Paiste Signature (full Signature setup — refined Paiste sound)
 - **Hardware:** Tama Iron Cobra 900 Double Pedal *(switch — switched to Tama hardware)*
@@ -91,7 +91,7 @@ After leaving and returning to Slayer, Dave settled into the long-running Tama a
 
 After leaving Slayer for the final time in 2013, Dave entered the most diverse phase of his career — playing simultaneously with Dead Cross, Suicidal Tendencies, and reuniting with Mr. Bungle. His Tama and Paiste setup, established during the reunion years, has carried through unchanged.
 
-- **Drums:** Tama Starclassic Maple — maple shell configuration favored since Slayer's recording peak
+- **Drums:** Tama Starclassic Walnut/Birch — walnut/birch shell configuration favored since Slayer's recording peak
 - **Snare:** Tama S.L.P. 14"×6.5" G-Maple (fat, responsive crack heard on Reign in Blood-era recordings)
 - **Cymbals:** Paiste RUDE & 2002 Series — 15" Sound Edge hi-hats, 18"/19" crashes, 22" Reign Power ride, 18" China
 - **Hardware:** Tama Iron Cobra 900 Double Pedal (longtime Tama hardware endorser)
@@ -122,7 +122,7 @@ After leaving Slayer for the final time in 2013, Dave entered the most diverse p
 
 - **Pearl Maxwin** — 1981–1985 (budget/early career)
 - **Pearl BLX / Free-Floating** — 1986–early 1990s (Reign in Blood era endorsement)
-- **Tama Starclassic Maple** — 1995–present (reunion era through today)
+- **Tama Starclassic Walnut/Birch** — 1995–present (reunion era through today)
 - **Paiste** — throughout entire career (undocumented → RUDE → Signature → RUDE/2002 mix)
 - **Tama Iron Cobra 900 Double Pedal** — 1995–present (hardware partnership)
 - **Promark Dave Lombardo Signature 2Bx** — 1995–present (30+ year signature partnership)
@@ -141,7 +141,7 @@ A: For Show No Mercy (1983) and Slayer's earliest recordings, Dave played a Pear
 A: Lombardo pioneered the use of double bass drumming at extreme thrash metal speeds beginning in 1981. His work on Show No Mercy (1983) and especially Reign in Blood (1986) established the machine-gun double bass patterns that became the template for all subsequent extreme metal drumming. His 1986 performance on "Angel of Death" and "Raining Blood" is widely cited as the definitive thrash drum recording.
 
 **Q: What pedal does Dave Lombardo use?**
-A: Since the mid-1990s, Dave has used the Tama Iron Cobra 900 Double Pedal, switched to alongside his Tama Starclassic Maple drum endorsement. Pedal brand for his earlier Pearl-endorsed eras (1981–1992) is not documented.
+A: Since the mid-1990s, Dave has used the Tama Iron Cobra 900 Double Pedal, switched to alongside his Tama Starclassic Walnut/Birch drum endorsement. Pedal brand for his earlier Pearl-endorsed eras (1981–1992) is not documented.
 
 **Q: What cymbals has Dave Lombardo used throughout his career?**
 A: Lombardo has been loyal to Paiste for the majority of his career. He switched to Paiste RUDE for the Reign in Blood era (1986–1992) for added cut and aggression, upgraded to the Paiste Signature series during the Tama & Paiste era (1995–2010), and currently uses a mix of Paiste RUDE and 2002 series.

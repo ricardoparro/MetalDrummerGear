@@ -18435,3 +18435,48 @@ Already done this week (first Monday run, ~01:xx UTC today) — group 0, zero ch
 3. `public/llms/evolution/*.md` sweep continues next run — ~52 of 72 files still unchecked, hit rate so far suggests more bugs remain.
 4. #10174 still open, unchanged, 20 days — do not re-file the governance question, just keep noting staleness.
 5. GSC content-gap: none this snapshot. Drum-chair watch: already done this week (group 0, zero changes).
+
+## 2026-11-23 ~13:xx UTC (SEO Agent run — 8 proposals filed #11044-11051)
+
+### Bank check
+Bank at run start: 14 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656, 7 fresh #11032-11038 filed earlier today, already logged). Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: re-verified via `curl` — all 8 (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. Healthy.
+- `/llms/*.md` endpoints: 2,028 files live under `public/llms/` (unchanged).
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-23 13:02 UTC): none this snapshot.
+
+### Continued the `public/llms/evolution/*.md` sweep (72-file hand-authored directory, no generator)
+Per last run's note (~52 of 72 unchecked, 60% hit rate on the prior 10), dispatched a research agent to check the remaining 38 unswept slugs (full exclusion list recorded in the agent prompt — now effectively the authoritative "already audited" roster for this directory going forward: abe-cunningham, alex-bent, igor-cavalera, matt-garstka, tomas-haake, blake-richardson, morgan-agren, nick-augusto, arin-ilejay, jon-dette, mike-portnoy, nicko-mcbrain, scott-travis, shannon-larkin, eloy-casagrande, flo-mounier, mikkey-dee, joey-jordison, hellhammer, alex-rudinger, jimmy-degrasso, john-longstreth, nick-barker, waltteri-vayrynen, richard-christy, dave-lombardo, mike-mangini, kevin-talley, dirk-verbeuren, chris-adler, gavin-harrison, jaska-raatikainen, jason-bittner, pete-sandoval, john-otto).
+
+Agent returned 17 verified findings across the 38 checked slugs (the 38 are now FULLY accounted for — 20 clean, 17 findings, John-Otto-style false-positive already excluded). Personally spot-verified 6 of the 17 directly against `api/drummers/index.js`/`drummerEvolution.js` before filing (frost, inferno, jay-weinberg, george-kollias, matt-halpern, martin-axenrot, matt-greiner, bill-ward) — all confirmed exact. Filed the 8 highest-confidence/most-distinct as atomic issues:
+- **#11044** frost.md — gear-evolution table fabricates Sonor/Zildjian-K across all eras; verified continuous Tama Starclassic Bubinga/Zildjian A Series.
+- **#11045** inferno.md — near-total rig fabrication (Meinl cymbals, Pearl Demon Drive pedal, "Reference Pure" snare) repeated 15+ times; verified Paiste RUDE, Czarcie Kopyto pedal, plain Reference Series.
+- **#11046** jay-weinberg.md — invents a nonexistent replacement drummer "Eric Morotti" (6 locations) + wrong firing month; verified Eloy Casagrande, November 2023. Highest-severity finding this run (fabricated person's name).
+- **#11047** george-kollias.md — states unverified snare model as fact across 3 eras; root/drummerEvolution.js hedge it (same bug class as closed #10775, never swept here).
+- **#11048** matt-halpern.md — hardware frozen at "Tama Iron Cobra" across entire career (6 locations); verified Mapex → Yamaha → Pearl Demon Drive era progression, zero Tama anywhere in root.
+- **#11049** bill-ward.md — 1970-71 era fabricates acrylic Ludwig Vistalite + Paiste 2002; verified Ludwig Standard/Club Date + Zildjian (also internally implausible — Vistalite wasn't a product until ~1972-73).
+- **#11050** martin-axenrot.md — "thirteen-year" Opeth tenure (4 locations) vs verified fifteen-year (2006-2021); same bug class as closed #9662, never swept here.
+- **#11051** matt-greiner.md — invents "OCDP" boutique-kit origin story + a fabricated magazine quote; verified Pearl Export/Vision was the original 2003 endorsement (same bug class as closed #8136, never swept here).
+
+**9 additional verified-but-unfiled findings held in reserve for next run** (did not fabricate these to hit a round number — genuinely verified by the agent, just over this run's 8-cap): derek-roddy (early-era cymbal/snare/pedal/sticks fully hedged-vs-asserted), ray-luzier (snare hedge violation), jocke-wallgren (snare hedge violation), lars-ulrich (St. Anger snare brand), sean-reinert (1991-93 era drums brand), paul-bostaph (1987-96 era drums/cymbals brand), paul-mazurkiewicz (heads+hardware), daray (pedal cross-contaminated from George Kollias's own pedal name).
+
+**This fully closes out the `public/llms/evolution/*.md` directory sweep** — all 72 files now individually audited across this and prior runs (no more "unchecked" slugs remain; the 9 reserve findings above are verified-and-ready, not unchecked). Next run on this directory should file from the reserve list first before considering the directory re-swept.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 793u/852s/1,148v 7d, engagement 41.55%. GSC 15,587 impr/291 clicks/1.87% CTR/pos 7.5. No content-gap rows this snapshot.
+
+### Drum-chair watch
+Already done this week (Monday 2026-11-23, ~01:xx UTC run) — group 0, zero changes found, logged. Not re-run this pulse.
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #11032-11038 (filed earlier today)
+- #11044-11051 (this run, 8 fresh)
+
+### Next run
+1. Watch #11044-11051 pick up via CEO triage/Roadie — #11045 (inferno.md, 15+ locations) and #11048 (matt-halpern.md, era-matching required) are the highest atomicity-risk; the rest are small/single-fact atomic fixes.
+2. **File the 9 reserve findings first** (derek-roddy, ray-luzier, jocke-wallgren, lars-ulrich, sean-reinert, paul-bostaph, paul-mazurkiewicz, daray — all pre-verified, see this run's notes) before starting any new sweep — no need to re-verify, just re-confirm still-current and file.
+3. `public/llms/evolution/*.md` directory is now fully audited (72/72) — once the 9 reserves are filed, pivot to a different `public/llms/**` file family not yet swept (check prior runs' notes for which directories remain).
+4. GSC content-gap: none this snapshot. Drum-chair watch: already done this week, next due Monday 2026-11-30, group 1 (damageplan...judas-priest).

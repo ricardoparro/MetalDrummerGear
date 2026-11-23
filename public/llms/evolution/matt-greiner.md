@@ -10,7 +10,7 @@ last_updated: "2026-06-26"
 
 # Matt Greiner Drum Kit Evolution — Complete Timeline
 
-Matt Greiner co-founded August Burns Red in 2003 in Lancaster, Pennsylvania, and has been the technical and emotional engine of one of metalcore's most accomplished bands ever since. His drumming is known for its melodic sensibility, dynamic range, and technical precision — qualities that have driven a gear evolution from boutique OCDP maple kits through a Pearl Reference era to his current Mapex Black Panther partnership, one of the most praised sounds in modern metalcore.
+Matt Greiner co-founded August Burns Red in 2003 in Lancaster, Pennsylvania, and has been the technical and emotional engine of one of metalcore's most accomplished bands ever since. His drumming is known for its melodic sensibility, dynamic range, and technical precision — qualities that have driven a gear evolution from his original Pearl Export/Vision kit through a Pearl Reference era to his current Mapex Black Panther partnership, one of the most praised sounds in modern metalcore.
 
 See also: [Matt Greiner drummer profile](/llms/drummers/matt-greiner.md)
 
@@ -21,10 +21,10 @@ See also: [Matt Greiner drummer profile](/llms/drummers/matt-greiner.md)
 **Albums:** Looks Fragile After All (2004), Messengers (2007)
 **Tours:** Messengers US Tour, Warped Tour 2007
 
-August Burns Red's formative years. Greiner developed his technically demanding, melodically nuanced style on Orange County Drum & Percussion kits — the boutique California brand that offered custom-quality maple construction at accessible prices. Warped Tour 2007 and the release of *Messengers* put August Burns Red on the national metalcore map.
+August Burns Red's formative years. Greiner developed his technically demanding, melodically nuanced style on Pearl Export/Vision kits — an accessible, road-ready line for the newly co-founded band. Warped Tour 2007 and the release of *Messengers* put August Burns Red on the national metalcore map.
 
-- **Drums:** Orange County Drum & Percussion (OCDP) Maple — 22" kick, 10"/12"/14"/16" toms
-- **Snare:** OCDP Steel Snare 14"×5.5"
+- **Drums:** Pearl Export/Vision Series — 22" kick, 10"/12"/14"/16" toms
+- **Snare:** Pearl Export/Vision Steel Snare 14"×5.5"
 - **Cymbals:** Paiste 2002 / Alpha Series — 14" hi-hats, 16"/18" crashes, 20" ride, 18" China
 - **Hardware:** Pearl P-2002C Eliminator double pedal (cam-driven)
 - **Sticks:** Vic Firth 5B hickory
@@ -32,12 +32,12 @@ August Burns Red's formative years. Greiner developed his technically demanding,
 - **Estimated kit cost (original):** ~$4,500
 
 **Key developments:**
-- OCDP maple kit — boutique quality at accessible price
+- Pearl Export/Vision kit signed in 2003 — ABR's first drum endorsement
 - *Messengers* (2007) established ABR as metalcore leaders
 - Technical melodic drumming style fully formed from the first record
 - Warped Tour 2007 brought national exposure
 
-> "Growing up I didn't have money for top-shelf gear. The OCDP kit punched way above its weight. It taught me that tone starts with the player, not the price tag." — *Drum! Magazine Interview, 2008*
+> "Growing up I didn't have money for top-shelf gear. The Pearl Export kit punched way above its weight. It taught me that tone starts with the player, not the price tag." — *Drum! Magazine Interview, 2008*
 
 ---
 
@@ -48,7 +48,7 @@ August Burns Red's formative years. Greiner developed his technically demanding,
 
 August Burns Red's commercial and critical peak. *Constellations* and *Leveler* are widely considered two of metalcore's defining albums, and Greiner's transition to Pearl Reference drums marked his arrival as a professional-tier endorsee. His first Vic Firth signature stick was launched during this era.
 
-- **Drums:** Pearl Reference Series (maple/birch hybrid) — 22" kick, 10"/12"/14"/16" toms *(switch from OCDP — first major endorsement)*
+- **Drums:** Pearl Reference Series (maple/birch hybrid) — 22" kick, 10"/12"/14"/16" toms *(continuation from the original Export/Vision endorsement — Reference Series upgrade)*
 - **Snare:** Pearl Reference 14"×6.5" (maple/birch hybrid with die-cast hoops) *(switch — punchy, musical tone)*
 - **Cymbals:** Paiste Signature Series — 14" Signature hi-hats, 16"/17"/18" crashes, 22" ride, 18" China *(upgrade from 2002/Alpha)*
 - **Hardware:** Pearl Eliminator Demon Drive direct drive double pedal *(upgrade — direct drive for precision)*
@@ -64,7 +64,7 @@ August Burns Red's commercial and critical peak. *Constellations* and *Leveler* 
 
 | Gear | Change |
 |---|---|
-| Pearl Reference Series | Brand switch from OCDP |
+| Pearl Reference Series | Upgrade from Export/Vision (same brand, higher tier) |
 | Vic Firth Matt Greiner Signature | First signature |
 | Paiste Signature Series | Upgrade from 2002/Alpha |
 | Pearl Demon Drive | Upgrade — direct drive |
@@ -146,7 +146,7 @@ Greiner's current and most praised era. The switch to Mapex Black Panther Design
 
 ## Gear Brand Partnerships Timeline
 
-- **Orange County Drum & Percussion (OCDP)** — 2003–2008 (formative years)
+- **Pearl Export/Vision Series** — 2003–2008 (formative years)
 - **Pearl Reference Series** — 2009–2015 (first major endorsement)
 - **Mapex Black Panther Design Lab** — 2016–present (current primary kit)
 - **Paiste** — throughout career (2002/Alpha → Signature → Formula 602 primary)

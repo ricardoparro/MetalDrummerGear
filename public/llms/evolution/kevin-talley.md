@@ -10,7 +10,7 @@ last_updated: "2026-07-03"
 
 # Kevin Talley Drum Kit Evolution — Complete Timeline
 
-Kevin Talley's polyrhythmic double-kick patterns on Dying Fetus's "Destroy the Opposition" (2000) — shifting between straight and triplet groupings at 200+ BPM — became a reference point for extreme metal drummers, built on a genuinely entry-level Pearl Export / Zildjian A / DW pedal rig rather than boutique hardware. Talley carried that same combination through Misery Index's "Retaliate" (2003) and "Discordia" (2006) and Dying Fetus's "War of Attrition" (2007), only later consolidating toward professional-tier gear during his Six Feet Under years and settling into his current Pearl Masters Premium Legend / Sabian AAX / Pearl Eliminator rig.
+Kevin Talley's polyrhythmic double-kick patterns on Dying Fetus's "Destroy the Opposition" (2000) — shifting between straight and triplet groupings at 200+ BPM — became a reference point for extreme metal drummers, built on a genuinely entry-level Pearl Export / Zildjian A / DW pedal rig rather than boutique hardware. Talley carried that same combination through Misery Index's "Retaliate" (2003) and "Discordia" (2006) and Dying Fetus's "War of Attrition" (2007), only later consolidating toward professional-tier gear during his Six Feet Under years and settling into his current Pearl Masters Custom / Reference Series / Sabian AAX / Pearl Eliminator rig.
 
 See also: [Kevin Talley drummer profile](/llms/drummers/kevin-talley.md) · [Kevin Talley gear history](/llms/gear-history/kevin-talley.md)
 
@@ -87,16 +87,16 @@ A: Talley's 2010–2013 run with Six Feet Under, alongside session and touring w
 
 ---
 
-## Current Setup: Pearl Masters Premium Legend (2020–Present)
+## Current Setup: Pearl Masters Custom / Reference Series (2020–Present)
 
 **Albums:** Ongoing session and touring work (2020s)
 **Tours:** Dying Fetus and extreme metal session/touring dates (2020s)
 
 **Q: What drum kit does Kevin Talley use now?**
-A: Talley's current setup — a Pearl Masters Premium Legend kit, Pearl Masters 14"x5.5" Maple snare, Sabian AAX cymbals, and a Pearl Eliminator double pedal — completed the upgrade path that began during his Six Feet Under years: a step up in build quality that stayed within the Pearl brand he first endorsed on Destroy the Opposition, still squarely professional-tier rather than custom or boutique gear.
+A: Talley's current setup — a Pearl Masters Custom / Reference Series kit, Pearl Masters 14"x6.5" Steel snare, Sabian AAX cymbals, and a Pearl Eliminator double pedal — completed the upgrade path that began during his Six Feet Under years: a step up in build quality that stayed within the Pearl brand he first endorsed on Destroy the Opposition, still squarely professional-tier rather than custom or boutique gear.
 
-- **Drums:** Pearl Masters Premium Legend *(upgrade, completed the path from Pearl Export)*
-- **Snare:** Pearl Masters 14"x5.5" Maple *(upgrade)*
+- **Drums:** Pearl Masters Custom / Reference Series *(upgrade, completed the path from Pearl Export)*
+- **Snare:** Pearl Masters 14"x6.5" Steel *(upgrade)*
 - **Cymbals:** Sabian AAX Series — 14" Stage Hi-Hats, 17"/18" X-Plosion Crashes, 20" Stage Ride
 - **Hardware:** Pearl Eliminator Double Pedal
 - **Sticks:** Vic Firth American Classic 5B *(unchanged since Destroy the Opposition)*
@@ -104,7 +104,7 @@ A: Talley's current setup — a Pearl Masters Premium Legend kit, Pearl Masters 
 - **Estimated kit cost (original):** ~$5,800
 
 **Key developments:**
-- Completed the upgrade to Pearl Masters Premium Legend, Sabian AAX, and Pearl Eliminator double pedal
+- Completed the upgrade to Pearl Masters Custom / Reference Series, Sabian AAX, and Pearl Eliminator double pedal
 - Upgrade path stayed within the Pearl brand across his entire career
 - Vic Firth American Classic 5B sticks remain unchanged since Destroy the Opposition
 - Current rig is professional-tier rather than custom or boutique gear
@@ -118,13 +118,13 @@ A: Talley's current setup — a Pearl Masters Premium Legend kit, Pearl Masters 
 | Destroy the Opposition: Entry-Level Rig | 1999–2002 | $2,846 | ~$5,414 |
 | Misery Index & War of Attrition | 2003–2010 | $2,846 | ~$4,900 |
 | Six Feet Under: Gear Consolidation | 2010–2013 | $4,200 | ~$6,100 |
-| Current Setup: Pearl Masters Premium Legend | 2020–Present | $5,800 | ~$5,800 |
+| Current Setup: Pearl Masters Custom / Reference Series | 2020–Present | $5,800 | ~$5,800 |
 
 ---
 
 ## Gear Brand Partnerships Timeline
 
-- **Pearl (drums)** — 1999–present (career-long constant, upgraded from Export to Masters Premium Legend tier)
+- **Pearl (drums)** — 1999–present (career-long constant, upgraded from Export to Masters Custom / Reference Series tier)
 - **Zildjian A / A Custom (cymbals)** — 1999–2010 (Destroy the Opposition through War of Attrition)
 - **Sabian AAX (cymbals)** — 2010–present (Six Feet Under years to current)
 - **DW double bass pedal (hardware)** — 1999–2010
@@ -136,13 +136,13 @@ A: Talley's current setup — a Pearl Masters Premium Legend kit, Pearl Masters 
 ## FAQ
 
 **Q: What drum kit does Kevin Talley use?**
-A: Kevin Talley currently plays a Pearl Masters Premium Legend kit with a Pearl Masters 14"x5.5" Maple snare, Sabian AAX cymbals, and a Pearl Eliminator double pedal. On Dying Fetus's 2000 breakthrough Destroy the Opposition, he played an entry-level Pearl Export shell pack with Zildjian A/A Custom cymbals and a DW double bass pedal.
+A: Kevin Talley currently plays a Pearl Masters Custom / Reference Series kit with a Pearl Masters 14"x6.5" Steel snare, Sabian AAX cymbals, and a Pearl Eliminator double pedal. On Dying Fetus's 2000 breakthrough Destroy the Opposition, he played an entry-level Pearl Export shell pack with Zildjian A/A Custom cymbals and a DW double bass pedal.
 
 **Q: How did Kevin Talley achieve extreme blast beat speed on budget gear?**
 A: Talley's 2000-era Destroy the Opposition rig cost roughly $2,846 — a genuinely entry-level configuration by extreme metal standards. His polyrhythmic double-kick technique, built on relaxed, rebound-efficient footwork rather than muscular power, meant the DW double bass pedal's mechanical consistency mattered more to his output than shell tier or custom finishes.
 
 **Q: Did Kevin Talley always play Pearl drums?**
-A: Yes — Talley has played Pearl kits throughout his career, moving from an entry-level Pearl Export shell pack in his Destroy the Opposition-era Dying Fetus years, through a Pearl Masters-tier consolidation during his 2010–2013 Six Feet Under run, to his current Pearl Masters Premium Legend setup.
+A: Yes — Talley has played Pearl kits throughout his career, moving from an entry-level Pearl Export shell pack in his Destroy the Opposition-era Dying Fetus years, through a Pearl Masters-tier consolidation during his 2010–2013 Six Feet Under run, to his current Pearl Masters Custom / Reference Series setup.
 
 **Q: What bands has Kevin Talley played drums for?**
 A: Kevin Talley has drummed for Dying Fetus (1999–2002, and later reunions), Misery Index (2003–2006), Six Feet Under (2010–2013), and has done extensive session and touring work with other extreme metal acts including Jungle Rot and Chimaira.

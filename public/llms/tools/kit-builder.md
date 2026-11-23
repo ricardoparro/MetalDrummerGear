@@ -22,7 +22,8 @@ Unlike the Dream Set Builder (which starts from specific drummer setups), the Ki
 
 ## Popular Configurations
 
-- **Tama Starclassic + Sabian HHX** – used by Mike Portnoy, Eloy Casagrande, and others
+- **Tama Starclassic + Sabian HHX** – Mike Portnoy's signature combo
+- **Tama Starclassic Bubinga + Paiste** – Eloy Casagrande's Slipknot/Sepultura setup
 - **Pearl Reference + Meinl Byzance** – Matt Halpern's Periphery setup
 - **Sonor SQ2 + Paiste Signature** – Danny Carey's Tool kit template
 - **DW Collector's + Zildjian K Custom** – popular in progressive metal circles

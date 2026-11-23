@@ -49,7 +49,7 @@ Dirk Verbeuren spent 18 years as Soilwork's drummer, developing the signature pr
 Megadeth recruited Verbeuren in 2016 to handle touring duties for "Dystopia" — the studio album Chris Adler had recorded — while Dirk learned four decades of Megadeth classics from "Peace Sells" to "Rust in Peace" for the live stage. "Dystopia" went on to win the Grammy for Best Metal Performance, and Dirk's touring work proved he could honor Megadeth's legacy while bringing his own power to the kit.
 
 - **Drums:** Tama Starclassic Maple — all-maple shells *(switch — warmer, more powerful thrash-appropriate tone)*
-- **Snare:** Tama S.L.P. G-Maple 14"×6.5" *(new — signature-line snare for the precision and cut Megadeth's catalog demands)*
+- **Snare:** Tama S.L.P. Dynamic Bronze 14x5.5" *(new — signature-line snare for the precision and cut Megadeth's catalog demands)*
 - **Cymbals:** Meinl Byzance / Mb20 — dark, complex voicing carried over from Soilwork
 - **Hardware:** Tama Speed Cobra 910 *(upgrade — for the heavier, faster demands of Megadeth's thrash catalog)*
 - **Sticks:** Vater hickory sticks — continued from Soilwork
@@ -59,7 +59,7 @@ Megadeth recruited Verbeuren in 2016 to handle touring duties for "Dystopia" —
 **Key developments:**
 - Recruited by Megadeth in 2016 for Dystopia touring duties
 - Learned four decades of Megadeth classics for live performance
-- Switched to Tama Starclassic Maple and Tama S.L.P. G-Maple snare
+- Switched to Tama Starclassic Maple and Tama S.L.P. Dynamic Bronze snare
 - Dystopia (2016) won the Grammy for Best Metal Performance
 
 > "Though I didn't record Dystopia, every night on that tour was an audition. I had to prove I could carry that record and the entire catalog live." — *Modern Drummer, 2018*
@@ -71,10 +71,10 @@ Megadeth recruited Verbeuren in 2016 to handle touring duties for "Dystopia" —
 **Albums:** The Sick, the Dying... and the Dead! (2022)
 **Tours:** The Sick, the Dying... and the Dead! World Tour 2022–2024
 
-Verbeuren's first studio album as a full member, "The Sick, the Dying... and the Dead!" (2022), showcased his complete integration into Megadeth's sound — technical, powerful, and unmistakably thrash. His Tama Starclassic Maple kit, Tama S.L.P. G-Maple snare, and Meinl Byzance/Mb20 cymbals remained the settled platform, joined by a refined Speed Cobra 910 setup anchoring both the album's precision double-bass work and the band's ongoing touring schedule.
+Verbeuren's first studio album as a full member, "The Sick, the Dying... and the Dead!" (2022), showcased his complete integration into Megadeth's sound — technical, powerful, and unmistakably thrash. His Tama Starclassic Maple kit, Tama S.L.P. Dynamic Bronze snare, and Meinl Byzance/Mb20 cymbals remained the settled platform, joined by a refined Speed Cobra 910 setup anchoring both the album's precision double-bass work and the band's ongoing touring schedule.
 
 - **Drums:** Tama Starclassic Maple — all-maple shells, settled configuration
-- **Snare:** Tama S.L.P. G-Maple 14"×6.5" — confirmed current snare
+- **Snare:** Tama S.L.P. Dynamic Bronze 14x5.5" — confirmed current snare
 - **Cymbals:** Meinl Byzance / Mb20 — dark cymbal setup, full configuration
 - **Hardware:** Tama Speed Cobra 910, full Tama Iron Cobra hardware — confirmed current double bass pedal
 - **Sticks:** Vater hickory sticks — continued endorsement
@@ -84,7 +84,7 @@ Verbeuren's first studio album as a full member, "The Sick, the Dying... and the
 **Key developments:**
 - "The Sick, the Dying... and the Dead!" (2022) — first full studio album as a Megadeth member
 - Complete integration into Megadeth's sound — technical precision plus classic thrash power
-- Settled Tama Starclassic Maple / S.L.P. G-Maple / Speed Cobra 910 platform
+- Settled Tama Starclassic Maple / S.L.P. Dynamic Bronze / Speed Cobra 910 platform
 - 18 years with Soilwork plus the Megadeth chapter — a journeyman's rise to thrash metal's top tier
 
 > "The Sick, the Dying and the Dead was the record where I stopped feeling like the new guy. This is my band now too, and the drumming reflects that." — *Metal Hammer, 2022*
@@ -94,7 +94,7 @@ Verbeuren's first studio album as a full member, "The Sick, the Dying... and the
 ## Gear Brand Partnerships Timeline
 
 - **Tama (drums)** — 1998–present (Starclassic Performer → Starclassic Maple for Megadeth)
-- **Tama S.L.P. G-Maple (snare)** — 2016–present (adopted for the Megadeth transition)
+- **Tama S.L.P. Dynamic Bronze (snare)** — 2016–present (adopted for the Megadeth transition)
 - **Meinl Byzance / Mb20 (cymbals)** — 1998–present (dark, complex voicing carried from Soilwork into Megadeth)
 - **Tama Speed Cobra (hardware)** — 1998–present (Speed Cobra → Speed Cobra 910 upgrade for Megadeth)
 - **Vater (sticks)** — throughout career (consistent hickory endorsement across both bands)
@@ -110,7 +110,7 @@ A: Dirk Verbeuren has been Megadeth's drummer since 2016. He joined to handle to
 A: Dirk Verbeuren spent 18 years (1998–2016) as the drummer for Swedish melodic death metal band Soilwork, recording albums including Natural Born Chaos, Stabbing the Drama, and The Ride Majestic before joining Megadeth.
 
 **Q: What drum kit does Dirk Verbeuren play?**
-A: Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. G-Maple 14"×6.5" snare. He switched to this all-maple configuration when he joined Megadeth in 2016, having previously used a Tama Starclassic Performer during his Soilwork years.
+A: Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. Dynamic Bronze 14x5.5" snare. He switched to this all-maple configuration when he joined Megadeth in 2016, having previously used a Tama Starclassic Performer during his Soilwork years.
 
 **Q: Did Dirk Verbeuren play on the Dystopia album?**
 A: Chris Adler recorded the drum tracks on Megadeth's "Dystopia" (2016), but Dirk Verbeuren — who joined the band that same year — handled all touring duties for the album, learning the entire set list before becoming a full studio member.

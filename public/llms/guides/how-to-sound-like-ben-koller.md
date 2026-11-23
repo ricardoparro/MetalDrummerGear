@@ -13,14 +13,14 @@ What makes Koller special is controlled chaos. His blast beats are explosive and
 
 ## Kit Setup
 
-Koller plays **DW Collector's Series** maple drums — chosen for their powerful attack and projection suited to Converge's intense performance demands:
+Koller plays **Tama Starclassic Performer B/B** drums — chosen for their powerful attack and projection suited to Converge's intense performance demands:
 
 - **Kick Drum:** 22" x 18" Bass Drums (double kick)
-- **Snare:** 14" x 5.5" DW Steel Snare
+- **Snare:** Tama S.L.P. 14x6" Brass Snare
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 16"
 - **Cymbals:** Zildjian A Custom Series — bright, fast-decaying response for explosive accent work
-- **Pedals:** DW 9000 Double Pedal
+- **Pedals:** Tama Iron Cobra Double Pedal
 - **Sticks:** Vic Firth 5B (heavier weight for maximum impact)
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
 
@@ -48,10 +48,10 @@ Koller plays **matched grip** with heavy, direct strokes. His blast beats run co
 
 | Item | Koller's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | DW Collector's Series Maple | DW Design Series or PDP Concept Maple (~$700) |
-| Snare | DW Steel 14" x 5.5" | Pearl Sensitone Steel or DW Performance Steel |
+| Drum Kit | Tama Starclassic Performer B/B | DW Design Series or PDP Concept Maple (~$700) |
+| Snare | Tama S.L.P. 14x6" Brass | Pearl Sensitone Steel or DW Performance Steel |
 | Cymbals | Zildjian A Custom Series | Zildjian A Pack (~$300) |
-| Pedal | DW 9000 Double | DW 5000 Double (~$150) |
+| Pedal | Tama Iron Cobra Double Pedal | DW 5000 Double (~$150) |
 | Sticks | Vic Firth 5B | Promark 5B or Vater Power 5B |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EMAD Coated |
 
@@ -71,7 +71,7 @@ Koller plays **matched grip** with heavy, direct strokes. His blast beats run co
 A: Koller combines hardcore punk physicality with extreme metal precision. His blast beats are explosive and relentless, yet always locked tightly to Converge's complex, dissonant guitar work. He navigates odd time signatures naturally, delivers extreme dynamic contrasts within single songs, and hits with consistent power across brutal live sets.
 
 **Q: What drums and cymbals does Ben Koller use?**  
-A: Koller plays DW Collector's Series maple drums with a compact setup suited to Converge's intense performances. He uses steel snare drums for sharp, cutting crack and bright Zildjian A Custom cymbals that respond quickly to his explosive attack. He favors heavier 5B sticks for maximum impact.
+A: Koller plays Tama Starclassic Performer B/B drums with a compact setup suited to Converge's intense performances. He uses a Tama S.L.P. brass snare for sharp, cutting crack and bright Zildjian A Custom cymbals that respond quickly to his explosive attack. He favors heavier 5B sticks for maximum impact.
 
 **Q: How do I get the Converge drum sound?**  
 A: Tune the kick for a clicky, defined attack with heavy muffling. Use a steel snare tuned for a sharp crack. Keep cymbals bright and fast-decaying. Most importantly, lock every pattern to the guitar riff and build the dynamic contrast between brutal blasting and near-silence — that contrast is the Converge sound.

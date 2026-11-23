@@ -33,10 +33,10 @@ A: Bill Ward co-founded Black Sabbath in 1968 and, with no genre template to fol
 **Albums:** Paranoid (1970), Master of Reality (1971)
 **Style:** Heavier, more deliberate riffs; shuffle-into-doom transitions; open-handed playing as a natural left-hander on a right-handed kit
 
-Paranoid (1970) and Master of Reality (1971) saw Ward refine the template he had helped invent. Tracks like "War Pigs," "Iron Man," and "Children of the Grave" demanded a heavier approach while still relying on his swing feel for groove. He switched to a striking clear acrylic Ludwig Vistalite kit for a punchier attack, paired with a deeper Ludwig Supraphonic snare and Paiste's heavier 2002 cymbals. This era's drumming vocabulary — the triplet-laced fills, the shuffle-into-doom transitions — became foundational to an entire genre.
+Paranoid (1970) and Master of Reality (1971) saw Ward refine the template he had helped invent. Tracks like "War Pigs," "Iron Man," and "Children of the Grave" demanded a heavier approach while still relying on his swing feel for groove. He stepped up to a larger Ludwig Standard/Club Date maple kit for a punchier attack, paired with a deeper Ludwig Supraphonic snare and Zildjian cymbals. This era's drumming vocabulary — the triplet-laced fills, the shuffle-into-doom transitions — became foundational to an entire genre.
 
 **Q: What drum kit did Bill Ward use on Paranoid?**
-A: On Paranoid (1970), Bill Ward played a Ludwig Vistalite — a clear acrylic kit with a 22" kick and 13"/16" toms — paired with a Ludwig Supraphonic 14"x6.5" LM402 snare and Paiste 2002 cymbals, including a massive 24" ride. The Vistalite's punchy, cutting attack matched the heavier riffing on Paranoid and Master of Reality.
+A: On Paranoid (1970), Bill Ward played a Ludwig Standard/Club Date kit — natural maple shells with a 22" kick and 13"/16" toms — paired with a Ludwig Supraphonic 14"x6.5" LM402 snare and Zildjian cymbals. The larger maple kit's punchy, cutting attack matched the heavier riffing on Paranoid and Master of Reality.
 
 ---
 
@@ -69,9 +69,9 @@ A: Bill Ward departed Black Sabbath in 1980 following Never Say Die! (1978), ami
 | Era | Years | Drums | Cymbals |
 |---|---|---|---|
 | Founding Black Sabbath | 1968–1970 | Ludwig Super Classic | Paiste Giant Beat |
-| Paranoid / Proto-Metal | 1970–1971 | Ludwig Vistalite (acrylic) | Paiste 2002 |
-| Progressive Era | 1972–1975 | Ludwig Standard Maple | Paiste 2002 (expanded, China added) |
-| Jazz-Informed Heaviness | 1976–1979 | Ludwig Standard Maple (continued) | Paiste 2002 (continued) |
+| Paranoid / Proto-Metal | 1970–1971 | Ludwig Standard/Club Date (maple) | Zildjian |
+| Progressive Era | 1972–1975 | Ludwig Standard Maple | Zildjian (expanded, China added) |
+| Jazz-Informed Heaviness | 1976–1979 | Ludwig Standard Maple (continued) | Zildjian (continued) |
 
 ---
 

@@ -15,7 +15,7 @@ Names are generated instantly with no sign-up required. Hit "Generate" as many t
 
 - **One-click generation:** Instant name output with no configuration required
 - **Metal vocabulary bank:** Adjectives and nouns pulled from real genre terminology (blast, iron, atomic, brutal, hammer, thunder, siege)
-- **Nickname-style output:** Names follow the convention of legendary drummer nicknames (Gene Hoglan's "Atomic Clock", Vinnie Paul's "Metal Method")
+- **Nickname-style output:** Names follow the convention of legendary drummer nicknames (Gene Hoglan's "Atomic Clock" and "Human Drum Machine")
 - **Unlimited re-rolls:** Generate as many aliases as needed until the right one fits
 - **No account needed:** Fully free, no login, no email
 

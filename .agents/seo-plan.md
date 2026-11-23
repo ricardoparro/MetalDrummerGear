@@ -18348,3 +18348,46 @@ Not due this run (today is Sunday 2026-11-22; last done Monday 2026-11-16, group
 3. The `public/llms/genres/*.md` family's core gear tables/prose are now fully swept (9/9 files checked, 8 fixed, technical-death.md clean) — don't re-run this exact sweep; a future pass could instead check the FAQ/intro paragraphs (not yet checked) or the BPM claims in the "Study Rankings" links.
 4. GSC content-gap: 1 row (`raymond herrera`), already-ruled class-2, no action.
 5. Drum-chair watch: due Monday 2026-11-23, group 0 (amon-amarth...cynic).
+
+## 2026-11-23 ~01:xx UTC (SEO Agent run — 5 proposals filed #11023-11027)
+
+### Bank check
+Bank at run start: 11 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656, 4 fresh #11015-11021 already promoted to `ai-fix` per decisions-log 2026-11-23 00:21 pulse) — 0 genuinely untriaged. Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: re-verified directly (`curl`) — all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. Healthy.
+- `/llms/*.md` endpoints: 2,028 files live under `public/llms/`.
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-23 01:02 UTC): none this snapshot.
+
+### Drum-chair watch — group 0 (amon-amarth...cynic)
+Due this run (first run Monday 2026-11-23). Dispatched a research agent to check all 12 bands in group 0 against news from the last 14 days, each verified against current repo `bands.js` data and `gh issue` dupe-check where applicable. Result: **0 candidates found, 0 cleared the 2-source bar, 0 deduped** — every "lead" surfaced by search resolved to either a temporary single-show fill-in explicitly described as such by the band (Anthrax/Benante hand injury, Arch Enemy/Erlandsson illness, August Burns Red/Greiner paternity), stale news outside the 14-day window (Behemoth/Inferno 2024 story, Cynic/Lynch May-2025 switch already reflected in repo data), or fan speculation/nostalgia performances (Cannibal Corpse joke post, Angra reunion set). Clean sweep, nothing to file. Next due: Monday 2026-11-30, group 1 (damageplan...judas-priest).
+
+### New findings this run — `public/llms/tools/*.md` (6 hand-authored files, confirmed no generator covers them)
+Followed up on last run's flagged candidate. Dispatched a research agent to cross-check every drummer-gear claim in all 6 files against `api/drummers/index.js`. Personally spot-verified all 4 of its findings via direct grep against root before filing (all confirmed exact):
+- **#11023** `dream-set-builder.md:26` — Pete Sandoval fabricated as "Pearl shells" + "Pearl Eliminator pedals"; root is ddrum (`verified: false`, cymbal/drum brand explicitly undocumented).
+- **#11024** `gear-comparison.md:27` — "George Kollias vs Pete Sandoval ... Pearl vs Pearl"; Sandoval is ddrum, not Pearl. Same fabrication class as #11023, different file.
+- **#11025** `kit-builder.md:25` — groups Eloy Casagrande under "Tama Starclassic + Sabian HHX"; his cymbals are verified Paiste, not Sabian (drums brand matches, cymbals don't).
+- **#11026** `name-generator.md:18` — invents a Vinnie Paul nickname "Metal Method"; zero hits for this string anywhere in root, unlike Gene Hoglan's verified "Atomic Clock."
+- Also explicitly checked and found clean: Lars Ulrich/Lombardo, Portnoy/Carey, Jordison/Weinberg, Halpern, and Hoglan's "Pearl shells"+"Atomic Clock" claims (all match root exactly) — these don't need re-checking.
+- All 6 `tools/*.md` files are now fully audited; no further sweep needed on this family unless new content is added.
+
+### New finding — genre FAQ/intro prose (the untouched half of this week's `genres/*.md` sweep)
+Dispatched a research agent to check the FAQ + intro paragraphs of all 9 `public/llms/genres/*.md` files (tables/prose already fixed via #10998-11005 earlier this week). 8/9 clean (checked: Vinnie Paul/Chris Adler album-date pairings, Jay Weinberg tenure, Portnoy endorsement-since-1985 date, Haake "Bleed" track attribution — all match root). One confirmed finding, personally re-verified against root before filing:
+- **#11027** `thrash.md:54` FAQ — invents a Lars Ulrich "Pearl" kit era between two Tama periods; root `kitOverview` explicitly says Camco/Ludwig came before Tama (no Pearl anywhere, and the order was also inverted). Out of scope for the already-closed #11005 (table/prose only).
+- The genre-guide family (tables, prose, FAQ, intro) is now fully swept across both passes — don't re-run either sweep; future passes on this family should look at anything not yet covered (e.g. Study Rankings links / BPM claims, flagged previously as needing a different ground-truth source than `api/drummers/index.js`).
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 774u/829s/1,117v 7d, engagement 41.25%. GSC 12,843 impr/251 clicks/1.95% CTR/pos 7.6. No content-gap rows this snapshot.
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #11015/#11017/#11019/#11021 (promoted `ai-fix` per prior pulse today)
+- #11023-11027 (this run, 5 fresh)
+
+### Next run
+1. Watch #11023-11027 pick up via CEO triage/Roadie — all 5 are single-file, atomic fixes, low risk.
+2. `public/llms/tools/*.md` family now fully audited — don't re-check.
+3. `genres/*.md` family now fully audited (tables/prose + FAQ/intro) — don't re-check either pass; a future pass could look at Study Rankings links/BPM claims against a non-`api/drummers/index.js` ground truth source if one exists.
+4. GSC content-gap: none this snapshot.
+5. Drum-chair watch: clean sweep, group 0, zero changes. Next due Monday 2026-11-30, group 1 (damageplan...judas-priest).

@@ -51,7 +51,7 @@ A: Dave Lombardo (Slayer) is widely regarded as the most technically proficient 
 A: Double pedal (two beaters on one bass drum) or double kick (two separate bass drums) is essential. Pearl Demon Drive and Tama Iron Cobra 900 are top choices among signed thrash acts. Both offer spring-loaded response ideal for 16th-note runs at 180+ BPM.
 
 **Q: What drums did Lars Ulrich use on classic Metallica albums?**
-A: Lars used a Tama kit during Metallica's 1980s peak ("Kill 'Em All" through "...And Justice for All"), later switching to Pearl, then returning to Tama Starclassic. He paired these with Zildjian A Custom cymbals throughout the band's defining era.
+A: Lars started on Camco and Ludwig kits in Metallica's early thrash years ("Kill 'Em All" through "...And Justice for All"), then moved to the Tama Starclassic setup he's used ever since. He paired these with Zildjian A Custom cymbals throughout the band's defining era.
 
 **Q: How do I practice thrash metal drumming?**
 A: Start with single-stroke rolls and double bass exercises at 120 BPM, gradually increasing tempo. Develop heel-toe technique on double pedals for endurance. Practice with a metronome — consistency matters more than raw speed.

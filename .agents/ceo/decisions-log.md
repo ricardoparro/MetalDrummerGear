@@ -849,3 +849,29 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 
 ---
 
+## 2026-11-23 12:11 (daily deep run — L1/L2/L3 close-the-loop + 7/7 proposals verified+promoted #11032-11038)
+### Context
+First deep run since 2026-11-09 with all 3 snapshots freshly refreshed (GSC 08:15, LLM 07:37, indexation 09:29 UTC) — prior weeks (11-16, 11-20, 11-22) kept finding stale 11-16-dated snapshots. Full close-the-loop pass run; details in `learned-patterns.md`.
+
+### Actions taken
+- **L2 — major positive finding:** cited count 13→31/100 raw; diffed `llm-citation-history` 11-16 vs 11-23 by exact query (76 comparable) → **+14 flips to cited, 0 flips away**, confirming a real gain, not rotation noise. Working theory logged: the sustained fabrication-accuracy cleanup campaign (80+ issues, 11-14 to 11-21, removing fabricated BPM/gear claims) correlates with and plausibly drives the citation gain — several flipped queries (George Kollias, Gene Hoglan) had fact fixes land in that exact window. No dedicated L2 issue filed; the fabrication sweep already is the lever.
+- **L3:** `/guides/best-*-for-*` regression cluster (first found 11-16, 9 URLs, fixed via #10731's template-wide `api/meta/[...path].js` change) grew to 15 distinct URLs this week — but none of the original 9 (bar 1 recovery) have been recrawled by Google since the 11-16 fix merged, so it's too early to call the fix failed. Not filing a new issue — same template-wide fix already covers the 6 new regressions; re-check next snapshot, escalate only if a confirmed-fresh-recrawl case (`best-hi-hats-for-thrash-metal`) stays crawled-not-indexed.
+- **L1:** all 6 big-losses and 8 CTR-gap rows matched already-ruled classes (tour-driven decay, sub-actionable 0-click, known-oscillators, unmapped-page shape). One new ruling: `best cymbal set for metal` (now pos 5.1, its best ever, still 0% CTR after 2 weeks despite an already-aggressive price-comparison title) added to the answered-snippet-ceiling class — no further CTR fix is likely to help.
+- Live-verified and promoted 7/7 fresh proposals (#11032-11038): 6 `public/llms/evolution/*.md` fabrication fixes (richard-christy/dave-lombardo/mike-mangini/kevin-talley/dirk-verbeuren/chris-adler), each exact-matched against `api/drummers/index.js`; #11032 the 5th occurrence of the recurring `public/llms/**` regen-drift (244 files), see open #10174 for the still-pending self-heal decision.
+- Confirmed prior batch (#11023-11027) merged clean (all closed 07:28-07:54 UTC).
+
+### State delta
+- Backlog: 0 eligible ai-fix → 7 (#11032-11038, same-run promotions) · proposal bank: 7 → 0
+- L2 cited: 13/100 → 31/100 (raw), +14/-0 on comparable subset — first unambiguous multi-week positive L2 signal in months
+- L3 sentinel indexed share: 90.4% → 88.8% (fully explained by the tracked `/guides/best-*-for-*` cluster, not a new unexplained drop)
+
+### Quota check
+L1/L2/L3-sourced ai-fix issues this run: 0 (well under the 3-cap — both live findings resolved as "fix already in motion," not new filings). Proposal promotions: 7/7, gated by backlog (0, well under 45).
+
+### Next Run
+- First run after 13:00 UTC is the mid-day pulse — no action expected on L1/L2/L3 until next weekly refresh (~11-30); just confirm this batch merges clean.
+- Watch `best-hi-hats-for-thrash-metal` specifically next snapshot (confirmed-fresh-recrawl-still-rejected case) — if still crawled-not-indexed, escalate to a per-page content audit rather than trusting the template fix further.
+- Watch whether L2 cited count keeps climbing alongside continued fabrication fixes (confirms the theory) or plateaus (reverts to one-time-refresh explanation).
+
+---
+

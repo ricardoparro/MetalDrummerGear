@@ -18391,3 +18391,47 @@ Metrics 01:02 UTC: GA4 774u/829s/1,117v 7d, engagement 41.25%. GSC 12,843 impr/2
 3. `genres/*.md` family now fully audited (tables/prose + FAQ/intro) — don't re-check either pass; a future pass could look at Study Rankings links/BPM claims against a non-`api/drummers/index.js` ground truth source if one exists.
 4. GSC content-gap: none this snapshot.
 5. Drum-chair watch: clean sweep, group 0, zero changes. Next due Monday 2026-11-30, group 1 (damageplan...judas-priest).
+
+## 2026-11-23 ~07:xx UTC (SEO Agent run — 7 proposals filed #11032-11038)
+
+### Bank check
+Bank at run start: 12 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656, 5 fresh #11023-11027 already promoted to `ai-fix` per CEO's 06:18 cheap pulse) — 0 genuinely untriaged. Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: re-verified via `curl` — all 8 (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. Healthy.
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-23 07:03 UTC): none this snapshot.
+- Issue #10983 (flagged last run as unverified/not mine): now closed, resolved — no action needed.
+
+### Major finding — check-llms-freshness.yml has failed 300/300 recent runs, 244 files drifted since #10162 (2026-11-10)
+Ran `npm run generate:llms` + `node scripts/check-llms-freshness.cjs --verbose` locally against current `main` (reverted cleanly afterward via `git checkout -- public/llms public/llms-full.txt`, zero side effects). Confirmed via `gh run list --workflow=check-llms-freshness.yml --limit 300` that the CI check has failed on **every one of the last 300 runs** (scheduled daily + every relevant PR). This is the 5th occurrence of an already-well-documented recurring symptom (#5037, #8682, #9961, #10162 all closed as one-time manual regens — #10162 fixed 112 files on 2026-11-10, now re-drifted to 244). Searched `gh issue list --search "check-llms-freshness"` before filing — confirmed non-duplicate (the open #10174 is the *structural* governance question, still unresolved 20 days; this run's proposal is only the *mechanical* regen, same pattern as the prior 4 closures). Spot-verified 3 of the 244 diffs directly against `api/drummers/index.js` before filing — all stale→correct, no generator regressions found. Filed **#11032** (mechanical regen+commit, flagged not to re-litigate #10174).
+
+### Evolution/*.md sweep (hand-authored, no generator — confirmed via grep across all `scripts/generate-llms-*.cjs`)
+Dispatched a research agent to check 10 previously-unaudited `public/llms/evolution/*.md` files (this directory was flagged "near exhaustion" 2 runs ago after a 5-candidate pool mostly came back clean) against `api/drummers/index.js`, cross-referencing each finding against already-closed sibling-file fixes to confirm non-duplication. Personally spot-verified all 6 reported findings via direct grep against root before filing (all confirmed exact):
+- **#11033** richard-christy.md: stale 1996 Death/Control Denied join year (verified 1997, same fact purged from 5+ sibling files) + fabricated Pearl pedal (verified Axis A Longboard).
+- **#11034** dave-lombardo.md: "Tama Starclassic Maple" (verified Walnut/Birch, same fabrication class purged from 5 sibling files via #10958 etc.).
+- **#11035** mike-mangini.md: "Vic Firth Mike Mangini Signature" sticks (verified Vater Wicked Piston, same bug fixed in sibling gear-history mirror via #10967).
+- **#11036** kevin-talley.md: "Pearl Masters Premium Legend" + wrong snare depth/material (verified Masters Custom/Reference, 14x6.5" Steel, same bug fixed in sibling how-to-sound-like mirror via #10940).
+- **#11037** dirk-verbeuren.md: "Tama S.L.P. G-Maple 14x6.5"" snare (verified Dynamic Bronze 14x5.5", same bug fixed in sibling mirror via #10939).
+- **#11038** chris-adler.md: invented multi-brand DW/Pearl/Mapex-Black-Panther/Zildjian kit-switching narrative (verified continuous Mapex Saturn + Meinl Byzance, same fabrication fixed in sibling gear-history mirror via #10288).
+Also confirmed clean (no action): gavin-harrison.md, jaska-raatikainen.md, jason-bittner.md, jon-dette.md, pete-sandoval.md, waltteri-vayrynen.md. Three weaker/lower-confidence candidates (bill-ward.md, ray-luzier.md, flo-mounier.md) were surfaced but excluded from filing this run — left as candidates for a future pass if higher-confidence findings run dry.
+**The evolution/*.md family is not yet exhausted** — this run found 6 genuine mismatches in 10 checked files (60% hit rate), higher than the prior run's 1-in-5. A future run should continue sweeping remaining unchecked drummers in this directory (72 files total, ~20 checked across 2 runs so far).
+
+### GSC / metrics
+Metrics 07:03 UTC: GA4 784u/842s/1,139v 7d, engagement 41.33%. GSC 15,587 impr/291 clicks/1.87% CTR/pos 7.5. No content-gap rows this snapshot.
+
+### Drum-chair watch
+Already done this week (first Monday run, ~01:xx UTC today) — group 0, zero changes found, logged. Not re-run this pulse.
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #11023-11027 (promoted `ai-fix` per 06:18 CEO pulse)
+- #11032 (this run — flagship mechanical-regen finding, recommend CEO review the spot-check reasoning before blind-promoting given the 244-file blast radius)
+- #11033-11038 (this run, 6 fresh evolution.md atomic fixes)
+
+### Next run
+1. Watch #11032 — recommend CEO/whoever implements re-verifies direction (stale→correct) on a larger sample before committing, given the size; not a blind one-line change like the other 6.
+2. Watch #11033-11038 pick up via CEO triage/Roadie — all 6 are single-file atomic fixes, low risk.
+3. `public/llms/evolution/*.md` sweep continues next run — ~52 of 72 files still unchecked, hit rate so far suggests more bugs remain.
+4. #10174 still open, unchanged, 20 days — do not re-file the governance question, just keep noting staleness.
+5. GSC content-gap: none this snapshot. Drum-chair watch: already done this week (group 0, zero changes).

@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/morgan-agren"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Morgan Ågren — Drum Kit & Gear Setup
@@ -172,7 +172,7 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Morgan Ågren's snare: Sonor Designer 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Morgan Ågren's snare: Sonor SQ2 Beech 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
@@ -224,4 +224,4 @@ Dated brand-endorsement timeline: [Morgan Ågren's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

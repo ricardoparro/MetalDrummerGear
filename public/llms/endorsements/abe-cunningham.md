@@ -10,7 +10,7 @@
 
 ### Drums: Tama
 
-Abe Cunningham endorses Tama for drums. They play the Tama Starclassic Maple/Bubinga. This partnership began in 1997.
+Abe Cunningham endorses Tama for drums. They play the Tama Starclassic Bubinga. This partnership began in 1997.
 
 ### Cymbals: Zildjian
 
@@ -26,7 +26,7 @@ Abe Cunningham endorses Remo for drumheads. They play the Remo Powerstroke P3 / 
 
 ### Hardware / Pedals: Tama
 
-Abe Cunningham endorses Tama for hardware / pedals. They play the Tama Iron Cobra 900 Rolling Glide. This partnership began in 1997.
+Abe Cunningham endorses Tama for hardware / pedals. They play the Tama Iron Cobra Power Glide Twin Pedal (HP900PTW). This partnership began in 1997.
 
 ## Endorsement History
 
@@ -57,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Abe Cunningh
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

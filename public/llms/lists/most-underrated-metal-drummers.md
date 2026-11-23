@@ -1,6 +1,6 @@
 # Top 10 Most Underrated Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-underrated-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-underrated-metal-drummers)
 
 ---
 
@@ -19,10 +19,10 @@ Ranked by documented performance records, genre-defining influence, and technica
 ### 1. George Kollias
 
 **Band:** Nile
-**Highlight:** 280+ BPM and the world's most technical death metal kit
-**Why ranked here:** George Kollias holds documented speed records exceeding 280 BPM, co-designed the Pearl Demon XR pedal, and has powered Nile's Egyptian-themed technical death metal for 20+ years — yet rarely appears on mainstream "best of" lists outside extreme metal circles
+**Highlight:** 240+ BPM and the world's most technical death metal kit
+**Why ranked here:** George Kollias holds documented speed records exceeding 240 BPM, co-designed the Pearl Demon XR pedal, and has powered Nile's Egyptian-themed technical death metal for 20+ years — yet rarely appears on mainstream "best of" lists outside extreme metal circles
 
-George Kollias (Nile) earns rank #1 for: 280+ bpm and the world's most technical death metal kit. George Kollias holds documented speed records exceeding 280 BPM, co-designed the Pearl Demon XR pedal, and has powered Nile's Egyptian-themed technical death metal for 20+ years — yet rarely appears on mainstream "best of" lists outside extreme metal circles.
+George Kollias (Nile) earns rank #1 for: 240+ bpm and the world's most technical death metal kit. George Kollias holds documented speed records exceeding 240 BPM, co-designed the Pearl Demon XR pedal, and has powered Nile's Egyptian-themed technical death metal for 20+ years — yet rarely appears on mainstream "best of" lists outside extreme metal circles.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -110,9 +110,9 @@ Full drummer profile: [Richard Christy on MetalForge](https://metalforge.io/drum
 
 **Band:** Hate Eternal / Nile
 **Highlight:** "One take" extreme metal discipline and swivel technique pioneer
-**Why ranked here:** Derek Roddy's reputation for recording entire death metal albums in single takes without punch-ins, combined with his 260+ BPM swivel technique speed and educational contributions through Drumeo, make him one of extreme metal's most disciplined and overlooked practitioners
+**Why ranked here:** Derek Roddy's reputation for recording entire death metal albums in single takes without punch-ins, combined with his swivel technique's extreme speed and educational contributions through Drumeo, make him one of extreme metal's most disciplined and overlooked practitioners
 
-Derek Roddy (Hate Eternal / Nile) earns rank #10 for: "one take" extreme metal discipline and swivel technique pioneer. Derek Roddy's reputation for recording entire death metal albums in single takes without punch-ins, combined with his 260+ BPM swivel technique speed and educational contributions through Drumeo, make him one of extreme metal's most disciplined and overlooked practitioners.
+Derek Roddy (Hate Eternal / Nile) earns rank #10 for: "one take" extreme metal discipline and swivel technique pioneer. Derek Roddy's reputation for recording entire death metal albums in single takes without punch-ins, combined with his swivel technique's extreme speed and educational contributions through Drumeo, make him one of extreme metal's most disciplined and overlooked practitioners.
 
 Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
@@ -132,4 +132,4 @@ Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

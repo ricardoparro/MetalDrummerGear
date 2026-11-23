@@ -1,6 +1,6 @@
 # 10 Most Innovative Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-innovative-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-innovative-metal-drummers)
 
 ---
 
@@ -118,9 +118,9 @@ Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drumme
 
 **Band:** Nile
 **Highlight:** Technical death metal evolution — co-designing the hardware of extreme drumming
-**Why ranked here:** George Kollias's innovation extends beyond his documented 280+ BPM speed records to the hardware and technique ecosystem of extreme drumming. His co-design of the Pearl Demon XR double pedal — built specifically to meet the requirements of sustained extreme speed with precision — contributed to the broader toolkit available to the next generation of extreme metal drummers. His "Intense Metal Drumming" instructional DVD and follow-up educational releases made extreme drumming's technical vocabulary teachable and accessible in ways that previous generations of extreme drummers had not systematically documented. The combination of record-setting performance, hardware development, and knowledge sharing gives his innovation impact that operates beyond the recordings themselves into the culture and education of extreme drumming.
+**Why ranked here:** George Kollias's innovation extends beyond his documented 240+ BPM speed records to the hardware and technique ecosystem of extreme drumming. His co-design of the Pearl Demon XR double pedal — built specifically to meet the requirements of sustained extreme speed with precision — contributed to the broader toolkit available to the next generation of extreme metal drummers. His "Intense Metal Drumming" instructional DVD and follow-up educational releases made extreme drumming's technical vocabulary teachable and accessible in ways that previous generations of extreme drummers had not systematically documented. The combination of record-setting performance, hardware development, and knowledge sharing gives his innovation impact that operates beyond the recordings themselves into the culture and education of extreme drumming.
 
-George Kollias (Nile) earns rank #9 for: technical death metal evolution — co-designing the hardware of extreme drumming. George Kollias's innovation extends beyond his documented 280+ BPM speed records to the hardware and technique ecosystem of extreme drumming. His co-design of the Pearl Demon XR double pedal — built specifically to meet the requirements of sustained extreme speed with precision — contributed to the broader toolkit available to the next generation of extreme metal drummers. His "Intense Metal Drumming" instructional DVD and follow-up educational releases made extreme drumming's technical vocabulary teachable and accessible in ways that previous generations of extreme drummers had not systematically documented. The combination of record-setting performance, hardware development, and knowledge sharing gives his innovation impact that operates beyond the recordings themselves into the culture and education of extreme drumming..
+George Kollias (Nile) earns rank #9 for: technical death metal evolution — co-designing the hardware of extreme drumming. George Kollias's innovation extends beyond his documented 240+ BPM speed records to the hardware and technique ecosystem of extreme drumming. His co-design of the Pearl Demon XR double pedal — built specifically to meet the requirements of sustained extreme speed with precision — contributed to the broader toolkit available to the next generation of extreme metal drummers. His "Intense Metal Drumming" instructional DVD and follow-up educational releases made extreme drumming's technical vocabulary teachable and accessible in ways that previous generations of extreme drummers had not systematically documented. The combination of record-setting performance, hardware development, and knowledge sharing gives his innovation impact that operates beyond the recordings themselves into the culture and education of extreme drumming..
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -175,4 +175,4 @@ A: Neil Peart's influence on metal drumming — particularly progressive metal �
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

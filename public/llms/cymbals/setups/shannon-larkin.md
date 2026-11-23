@@ -1,6 +1,6 @@
 # What Cymbals Does Shannon Larkin Use? Full Setup
 
-**Band:** Godsmack / Ugly Kid Joe / Wrathchild America | **Brand(s):** Sabian
+**Band:** ex-Godsmack / Ugly Kid Joe / Wrathchild America | **Brand(s):** Sabian
 
 ---
 
@@ -43,4 +43,4 @@ A: Shannon Larkin plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosion
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

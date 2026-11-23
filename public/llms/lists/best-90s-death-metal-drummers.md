@@ -1,6 +1,6 @@
 # Top 10 Best 90s Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-90s-death-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-90s-death-metal-drummers)
 
 ---
 
@@ -82,9 +82,9 @@ Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Behemoth
 **Highlight:** Behemoth's transformation from black metal into blackened death metal
-**Why ranked here:** Inferno joined Behemoth in 1997 and was instrumental in shaping the band's evolution from raw black metal into the sophisticated blackened death metal sound across the decade's "Grom" (1996), "Pandemonic Incantations" (1998), and "Satanica" (1999), building the precision blast-beat mastery that would carry Behemoth to international attention in the 2000s. Inferno earns rank #7 for a 90s discography that documents one of death metal's most significant subgenre transformations in progress.
+**Why ranked here:** Inferno joined Behemoth in 1997 and was instrumental in shaping the band's evolution from raw black metal into the sophisticated blackened death metal sound across the decade's "Pandemonic Incantations" (1998) and "Satanica" (1999), building the precision blast-beat mastery that would carry Behemoth to international attention in the 2000s. Inferno earns rank #7 for a 90s discography that documents one of death metal's most significant subgenre transformations in progress.
 
-Inferno (Behemoth) earns rank #7 for: behemoth's transformation from black metal into blackened death metal. Inferno joined Behemoth in 1997 and was instrumental in shaping the band's evolution from raw black metal into the sophisticated blackened death metal sound across the decade's "Grom" (1996), "Pandemonic Incantations" (1998), and "Satanica" (1999), building the precision blast-beat mastery that would carry Behemoth to international attention in the 2000s. Inferno earns rank #7 for a 90s discography that documents one of death metal's most significant subgenre transformations in progress..
+Inferno (Behemoth) earns rank #7 for: behemoth's transformation from black metal into blackened death metal. Inferno joined Behemoth in 1997 and was instrumental in shaping the band's evolution from raw black metal into the sophisticated blackened death metal sound across the decade's "Pandemonic Incantations" (1998) and "Satanica" (1999), building the precision blast-beat mastery that would carry Behemoth to international attention in the 2000s. Inferno earns rank #7 for a 90s discography that documents one of death metal's most significant subgenre transformations in progress..
 
 Full drummer profile: [Inferno on MetalForge](https://metalforge.io/drummer/inferno)
 
@@ -152,4 +152,4 @@ A: Derek Roddy carried the technical vocabulary he built during his 90s Malevole
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

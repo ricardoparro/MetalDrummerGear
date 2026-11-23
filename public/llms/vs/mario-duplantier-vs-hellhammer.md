@@ -13,7 +13,7 @@ Gojira's Mario Duplantier vs Mayhem's Hellhammer. Organic, dual-bass-drum progre
 - **Drums:** Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom)
 - **Cymbals:** Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas)
 - **Snare:** Tama S.L.P. 14x6.5" G-Maple
-- **Pedals/Hardware:** Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne
+- **Pedals/Hardware:** Tama Iron Cobra 900 Power Glide Single Pedal (x2 — one per bass drum), Tama 1st Chair Ergo-Rider Throne
 - **Sticks:** Tama Mario Duplantier Signature
 
 ## Hellhammer Setup
@@ -34,7 +34,7 @@ Duplantier forgoes a double pedal in favor of dual bass drums for a more organic
 
 ## Key Differences
 
-Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Duplantier forgoes a double pedal in favor of dual bass drums for a more organic feel, layering tribal, almost ritualistic polyrhythms beneath Gojira's environmentally-themed death metal. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds.
+Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Duplantier forgoes a double pedal in favor of dual bass drums for a more organic feel, layering tribal, almost ritualistic polyrhythms beneath Gojira's environmentally-themed death metal. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds.
 
 ## Influence & Legacy
 
@@ -50,7 +50,7 @@ Mario Duplantier and Hellhammer represent two entirely different philosophies of
 A: Mario Duplantier uses dual bass drums instead of a double pedal to give Gojira's progressive death metal a more organic, tribal feel. Hellhammer built his reputation on cold, relentless blast beats delivered with one-foot precision, defining Mayhem's second-wave black metal sound.
 
 **Q: What gear do Mario Duplantier and Hellhammer use?**
-A: Mario Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. 14x6.5" G-Maple snare, and a Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare, Paiste RUDE Series cymbals, and an Axis Double Pedal.
+A: Mario Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. 14x6.5" G-Maple snare, and a Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 14×5.5" Maple snare, Paiste RUDE Series cymbals, and an Axis Double Pedal.
 
 **Q: Why does Mario Duplantier use dual bass drums instead of a double pedal?**
 A: Mario Duplantier prefers dual 22"x18" bass drums over a double pedal because it gives Gojira's tribal, progressive death metal rhythms a more organic feel, letting him layer polyrhythms with a different physical touch than a single-kick double-pedal setup allows.
@@ -67,4 +67,4 @@ A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedbac
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 10 Progressive Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/progressive-death-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/progressive-death-metal-drummers)
 
 ---
 
@@ -69,10 +69,10 @@ Full drummer profile: [Flo Mounier on MetalForge](https://metalforge.io/drummer/
 ### 6. George Kollias
 
 **Band:** Nile
-**Highlight:** 280+ BPM technical precision — Nile's scholarly extremity
-**Why ranked here:** George Kollias sustains 280+ BPM blast beats through Nile's compositionally complex Egyptian-themed progressive death metal — technical drumming as an equal partner to the genre's most scholarly compositional ambitions
+**Highlight:** 240+ BPM technical precision — Nile's scholarly extremity
+**Why ranked here:** George Kollias sustains 240+ BPM blast beats through Nile's compositionally complex Egyptian-themed progressive death metal — technical drumming as an equal partner to the genre's most scholarly compositional ambitions
 
-George Kollias (Nile) earns rank #6 for: 280+ bpm technical precision — nile's scholarly extremity. George Kollias sustains 280+ BPM blast beats through Nile's compositionally complex Egyptian-themed progressive death metal — technical drumming as an equal partner to the genre's most scholarly compositional ambitions.
+George Kollias (Nile) earns rank #6 for: 240+ bpm technical precision — nile's scholarly extremity. George Kollias sustains 240+ BPM blast beats through Nile's compositionally complex Egyptian-themed progressive death metal — technical drumming as an equal partner to the genre's most scholarly compositional ambitions.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -110,9 +110,9 @@ Full drummer profile: [Gavin Harrison on MetalForge](https://metalforge.io/drumm
 
 **Band:** Hate Eternal / Nile
 **Highlight:** "One Take" discipline — Hate Eternal's technical death precision
-**Why ranked here:** Derek Roddy's reputation for recording entire technical death metal albums in single takes places him among prog-death's most disciplined practitioners, his swivel technique enabling 260+ BPM precision on compositionally demanding material
+**Why ranked here:** Derek Roddy's reputation for recording entire technical death metal albums in single takes places him among prog-death's most disciplined practitioners, his swivel technique enabling extreme sustained precision on compositionally demanding material
 
-Derek Roddy (Hate Eternal / Nile) earns rank #10 for: "one take" discipline — hate eternal's technical death precision. Derek Roddy's reputation for recording entire technical death metal albums in single takes places him among prog-death's most disciplined practitioners, his swivel technique enabling 260+ BPM precision on compositionally demanding material.
+Derek Roddy (Hate Eternal / Nile) earns rank #10 for: "one take" discipline — hate eternal's technical death precision. Derek Roddy's reputation for recording entire technical death metal albums in single takes places him among prog-death's most disciplined practitioners, his swivel technique enabling extreme sustained precision on compositionally demanding material.
 
 Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
@@ -141,4 +141,4 @@ A: Progressive death metal drumming requires everything death metal demands — 
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

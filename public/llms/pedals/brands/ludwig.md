@@ -24,7 +24,7 @@ Source: [Ludwig Drums — About](https://www.ludwig-drums.com/en-us/ludwig/about
 ## Study Rankings
 
 - [DW ranks #4 in drum kits usage in our brand-usage study (8.3% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
-- [DW ranks #7 for overall brand reach in our endorsement-landscape study (23.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+- [DW ranks #7 for overall brand reach in our endorsement-landscape study (25% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ## More Resources
 
@@ -36,4 +36,4 @@ Source: [Ludwig Drums — About](https://www.ludwig-drums.com/en-us/ludwig/about
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

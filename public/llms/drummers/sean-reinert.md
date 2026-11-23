@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/sean-reinert"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Sean Reinert — Drum Kit & Gear Setup
@@ -173,16 +173,7 @@ Sean Reinert's snare: DW Collector's Series Maple Shell. See the [snares guide](
 
 ## Cymbal Setup
 
-Sean Reinert's cymbals: Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash).
-
-| Piece | Size | Series | Model |
-|---|---|---|---|
-| hi-hat | 14" | A | Quick Beat Hi-Hats |
-| crash | 16" | A | Crash |
-| crash | 18" | A | Crash |
-| ride | 20" | K Custom | Dry Ride |
-| china | 16" | A/K | China |
-| splash | 10" | A | Splash |
+Sean Reinert's cymbals: Zildjian K Custom Series.
 
 Full breakdown: [Sean Reinert's cymbal setup](https://metalforge.io/cymbals/setups/sean-reinert).
 
@@ -222,4 +213,4 @@ Dated brand-endorsement timeline: [Sean Reinert's endorsement history](https://m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

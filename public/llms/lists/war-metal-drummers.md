@@ -1,6 +1,6 @@
 # Top 10 War Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/war-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/war-metal-drummers)
 
 ---
 
@@ -60,9 +60,9 @@ Full drummer profile: [Pete Sandoval on MetalForge](https://metalforge.io/drumme
 
 **Band:** Nile
 **Highlight:** Nile's ancient-warfare thematic and extreme velocity
-**Why ranked here:** George Kollias's 280+ BPM blast beat mastery with Nile is delivered inside a catalog built entirely around ancient warfare, conquest, and battlefield mythology, matching war metal's thematic obsessions with genuinely extreme technical velocity
+**Why ranked here:** George Kollias's 240+ BPM blast beat mastery with Nile is delivered inside a catalog built entirely around ancient warfare, conquest, and battlefield mythology, matching war metal's thematic obsessions with genuinely extreme technical velocity
 
-George Kollias (Nile) earns rank #5 for: nile's ancient-warfare thematic and extreme velocity. George Kollias's 280+ BPM blast beat mastery with Nile is delivered inside a catalog built entirely around ancient warfare, conquest, and battlefield mythology, matching war metal's thematic obsessions with genuinely extreme technical velocity.
+George Kollias (Nile) earns rank #5 for: nile's ancient-warfare thematic and extreme velocity. George Kollias's 240+ BPM blast beat mastery with Nile is delivered inside a catalog built entirely around ancient warfare, conquest, and battlefield mythology, matching war metal's thematic obsessions with genuinely extreme technical velocity.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -130,7 +130,7 @@ A: War metal, also called bestial black/death metal, fuses black metal's raw agg
 A: Founding war metal and bestial black/death metal bands include Blasphemy, Beherit, Archgoat, Conqueror, Revenge, and Sarcofago. The style shares close DNA with early Norwegian black metal (Mayhem) and bestial death metal (Morbid Angel), and its influence extends into modern war-themed death metal acts like Vader, whose catalog draws heavily on battlefield and military history imagery.
 
 **Q: What gear do war metal drummers use?**
-A: War metal's closest analogues favor gear built for raw, punishing extremity. Hellhammer's Sonor SQ2 Heavy Beech kit with Paiste RUDE cymbals gives Mayhem's foundational black metal its chaotic edge. Inferno's Pearl Reference Series kit with custom Polish-made Czarcie Kopyto (Devil's Hoof) pedals is engineered for mechanized precision at extreme speeds. George Kollias's Pearl kit and Zildjian cymbals deliver the 280+ BPM velocity that war metal's bestial extremity demands. Across the genre's lineage, lightweight double pedals and dark-voiced, quick-decaying cymbals dominate.
+A: War metal's closest analogues favor gear built for raw, punishing extremity. Hellhammer's Sonor SQ2 Heavy Beech kit with Paiste RUDE cymbals gives Mayhem's foundational black metal its chaotic edge. Inferno's Pearl Reference Series kit with custom Polish-made Czarcie Kopyto (Devil's Hoof) pedals is engineered for mechanized precision at extreme speeds. George Kollias's Pearl kit and Zildjian cymbals deliver the 240+ BPM velocity that war metal's bestial extremity demands. Across the genre's lineage, lightweight double pedals and dark-voiced, quick-decaying cymbals dominate.
 
 
 ---
@@ -150,4 +150,4 @@ A: War metal's closest analogues favor gear built for raw, punishing extremity. 
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 10 Melodic Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/melodic-death-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/melodic-death-metal-drummers)
 
 ---
 
@@ -90,9 +90,9 @@ Full drummer profile: [Chris Adler on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Nile
 **Highlight:** Nile's technical death metal speed benchmark
-**Why ranked here:** George Kollias's documented 280+ BPM blast beats and technical proficiency with Nile since 2004 represent the extreme-speed end of death metal's spectrum that melodic death metal drumming draws its blast beat vocabulary from, applied to Nile's compositionally complex Egyptian-themed material
+**Why ranked here:** George Kollias's documented 240+ BPM blast beats and technical proficiency with Nile since 2004 represent the extreme-speed end of death metal's spectrum that melodic death metal drumming draws its blast beat vocabulary from, applied to Nile's compositionally complex Egyptian-themed material
 
-George Kollias (Nile) earns rank #8 for: nile's technical death metal speed benchmark. George Kollias's documented 280+ BPM blast beats and technical proficiency with Nile since 2004 represent the extreme-speed end of death metal's spectrum that melodic death metal drumming draws its blast beat vocabulary from, applied to Nile's compositionally complex Egyptian-themed material.
+George Kollias (Nile) earns rank #8 for: nile's technical death metal speed benchmark. George Kollias's documented 240+ BPM blast beats and technical proficiency with Nile since 2004 represent the extreme-speed end of death metal's spectrum that melodic death metal drumming draws its blast beat vocabulary from, applied to Nile's compositionally complex Egyptian-themed material.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -124,7 +124,7 @@ Full drummer profile: [Flo Mounier on MetalForge](https://metalforge.io/drummer/
 A: Daniel Erlandsson of Arch Enemy is the most widely cited best melodic death metal drummer — founding drummer since 1995 with technically precise, Scandinavian-schooled playing that has anchored every Arch Enemy album and given Michael Amott's melodic lead guitar work its rhythmic backbone. Jaska Raatikainen of Children of Bodom is the alternative choice, having spent 26 years co-driving one of the genre's most commercially successful bands. Dirk Verbeuren earns the argument for genre-defining longevity — 18 years with Soilwork, one of melodic death metal's most influential Swedish acts, before his move to Megadeth.
 
 **Q: Who is the fastest melodic death metal drummer?**
-A: George Kollias, though best known for technical death metal band Nile rather than melodic death metal specifically, holds documented blast beat speeds exceeding 280 BPM and represents the extreme-speed ceiling melodic death metal drummers draw on. Within melodic death metal proper, Jaska Raatikainen's sustained double bass work across Children of Bodom's catalog and Daniel Erlandsson's blast beat execution on Arch Enemy's heavier material set the genre's practical speed standard, balancing extreme tempo with the riff-tracking precision melodic guitar lines require.
+A: George Kollias, though best known for technical death metal band Nile rather than melodic death metal specifically, holds documented blast beat speeds exceeding 240 BPM and represents the extreme-speed ceiling melodic death metal drummers draw on. Within melodic death metal proper, Jaska Raatikainen's sustained double bass work across Children of Bodom's catalog and Daniel Erlandsson's blast beat execution on Arch Enemy's heavier material set the genre's practical speed standard, balancing extreme tempo with the riff-tracking precision melodic guitar lines require.
 
 **Q: What makes melodic death metal drumming different from standard death metal drumming?**
 A: Melodic death metal drumming retains death metal's blast beats and double-bass intensity but subordinates raw extremity to riff-tracking precision — the drummer locks tightly to dual-guitar melodic lines and neo-classical harmonic movement rather than prioritizing maximum blast beat velocity for its own sake. Where technical death metal drumming showcases complexity and pure death metal drumming showcases brutality, melodic death metal drumming showcases restraint and musicality: knowing when to pull back into a groove-driven verse so the chorus's soaring melody hits harder. Gothenburg-scene pioneers Arch Enemy, Children of Bodom, and Soilwork established this template in the 1990s.
@@ -150,4 +150,4 @@ A: Melodic death metal drummers favor gear built for both riff-locked precision 
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Who Use Electronic Triggers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-who-use-electronic-triggers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-who-use-electronic-triggers)
 
 ---
 
@@ -60,9 +60,9 @@ Full drummer profile: [Paul Mazurkiewicz on MetalForge](https://metalforge.io/dr
 
 **Band:** Nile
 **Highlight:** Co-designed the Pearl Demon XR with triggers built in for extreme-speed clarity
-**Why ranked here:** George Kollias co-designed the Pearl Demon XR double pedal specifically for the extreme-speed technical death metal he plays with Nile, pairing it with triggers for clarity at his documented 280+ BPM tempos. MetalForge's own triggered-drumming technique guide lists Kollias among the technique's masters, describing triggers as essential to his extreme-speed clarity.
+**Why ranked here:** George Kollias co-designed the Pearl Demon XR double pedal specifically for the extreme-speed technical death metal he plays with Nile, pairing it with triggers for clarity at his documented 240+ BPM tempos. MetalForge's own triggered-drumming technique guide lists Kollias among the technique's masters, describing triggers as essential to his extreme-speed clarity.
 
-George Kollias (Nile) earns rank #5 for: co-designed the pearl demon xr with triggers built in for extreme-speed clarity. George Kollias co-designed the Pearl Demon XR double pedal specifically for the extreme-speed technical death metal he plays with Nile, pairing it with triggers for clarity at his documented 280+ BPM tempos. MetalForge's own triggered-drumming technique guide lists Kollias among the technique's masters, describing triggers as essential to his extreme-speed clarity..
+George Kollias (Nile) earns rank #5 for: co-designed the pearl demon xr with triggers built in for extreme-speed clarity. George Kollias co-designed the Pearl Demon XR double pedal specifically for the extreme-speed technical death metal he plays with Nile, pairing it with triggers for clarity at his documented 240+ BPM tempos. MetalForge's own triggered-drumming technique guide lists Kollias among the technique's masters, describing triggers as essential to his extreme-speed clarity..
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -141,4 +141,4 @@ A: A trigger is a clip-on sensor — typically a piezo pickup — mounted to an 
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

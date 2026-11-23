@@ -1,6 +1,6 @@
 # Top 10 Technical Thrash Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/technical-thrash-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/technical-thrash-metal-drummers)
 
 ---
 
@@ -66,23 +66,25 @@ Lars Ulrich (Metallica) earns rank #5 for: "...and justice for all" — thrash's
 
 Full drummer profile: [Lars Ulrich on MetalForge](https://metalforge.io/drummer/lars-ulrich)
 
-### 6. Igor Cavalera
+### 6. Richard Christy
 
-**Band:** Sepultura / Cavalera Conspiracy
+**Band:** Death / Iced Earth
 **Highlight:** Death and Control Denied — technical thrash-death crossover precision
 **Why ranked here:** Richard Christy's work on Control Denied's "The Fragile Art of Existence" and Death's "The Sound of Perseverance" pushes thrash-adjacent technical drumming toward progressive death metal's compositional ambition, a crossover technical vocabulary few pure thrash drummers have matched
 
-Igor Cavalera (Sepultura / Cavalera Conspiracy) earns rank #6 for: death and control denied — technical thrash-death crossover precision. Richard Christy's work on Control Denied's "The Fragile Art of Existence" and Death's "The Sound of Perseverance" pushes thrash-adjacent technical drumming toward progressive death metal's compositional ambition, a crossover technical vocabulary few pure thrash drummers have matched.
+Richard Christy (Death / Iced Earth) earns rank #6 for: death and control denied — technical thrash-death crossover precision. Richard Christy's work on Control Denied's "The Fragile Art of Existence" and Death's "The Sound of Perseverance" pushes thrash-adjacent technical drumming toward progressive death metal's compositional ambition, a crossover technical vocabulary few pure thrash drummers have matched.
 
-Full drummer profile: [Igor Cavalera on MetalForge](https://metalforge.io/drummer/igor-cavalera)
+Full drummer profile: [Richard Christy on MetalForge](https://metalforge.io/drummer/richard-christy)
 
-### 7. Drummer #61
+### 7. Alex Bent
 
-**Band:** Unknown
+**Band:** ex-Trivium / Arkaík / Dragonlord
 **Highlight:** Trivium's modern technical thrash-death hybrid
 **Why ranked here:** Alex Bent brought technical death metal precision into Trivium's increasingly thrash-and-djent-influenced modern sound, demonstrating how technical thrash's demanding rhythmic vocabulary has continued evolving well into the 2010s and 2020s
 
-Drummer #61 (Unknown) earns rank #7 for: trivium's modern technical thrash-death hybrid. Alex Bent brought technical death metal precision into Trivium's increasingly thrash-and-djent-influenced modern sound, demonstrating how technical thrash's demanding rhythmic vocabulary has continued evolving well into the 2010s and 2020s.
+Alex Bent (ex-Trivium / Arkaík / Dragonlord) earns rank #7 for: trivium's modern technical thrash-death hybrid. Alex Bent brought technical death metal precision into Trivium's increasingly thrash-and-djent-influenced modern sound, demonstrating how technical thrash's demanding rhythmic vocabulary has continued evolving well into the 2010s and 2020s.
+
+Full drummer profile: [Alex Bent on MetalForge](https://metalforge.io/drummer/alex-bent)
 
 ### 8. Hannes Grossmann
 
@@ -104,15 +106,15 @@ Eloy Casagrande (Sepultura / Slipknot) earns rank #9 for: modern sepultura and s
 
 Full drummer profile: [Eloy Casagrande on MetalForge](https://metalforge.io/drummer/eloy-casagrande)
 
-### 10. Alex Bent
+### 10. Igor Cavalera
 
-**Band:** ex-Trivium / Arkaík / Dragonlord
+**Band:** Sepultura / Cavalera Conspiracy
 **Highlight:** Sepultura's founding technical-tribal thrash innovation
 **Why ranked here:** Igor Cavalera co-founded Sepultura in 1984 and pushed technical thrash's rhythmic vocabulary in a genuinely original direction on "Beneath the Remains" and "Arise" before incorporating Brazilian tribal percussion elements that expanded what technical thrash drumming could sound like
 
-Alex Bent (ex-Trivium / Arkaík / Dragonlord) earns rank #10 for: sepultura's founding technical-tribal thrash innovation. Igor Cavalera co-founded Sepultura in 1984 and pushed technical thrash's rhythmic vocabulary in a genuinely original direction on "Beneath the Remains" and "Arise" before incorporating Brazilian tribal percussion elements that expanded what technical thrash drumming could sound like.
+Igor Cavalera (Sepultura / Cavalera Conspiracy) earns rank #10 for: sepultura's founding technical-tribal thrash innovation. Igor Cavalera co-founded Sepultura in 1984 and pushed technical thrash's rhythmic vocabulary in a genuinely original direction on "Beneath the Remains" and "Arise" before incorporating Brazilian tribal percussion elements that expanded what technical thrash drumming could sound like.
 
-Full drummer profile: [Alex Bent on MetalForge](https://metalforge.io/drummer/alex-bent)
+Full drummer profile: [Igor Cavalera on MetalForge](https://metalforge.io/drummer/igor-cavalera)
 
 ---
 
@@ -148,4 +150,4 @@ A: Technical thrash's demanding fill work and sustained double-bass precision fa
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -21,8 +21,8 @@ Nine studio albums. Multiple platinum certifications. Millions of devoted fans. 
 
 ## Gear Breakdown
 
-- **Drums:** Tama Starclassic Maple/Bubinga (Egyptian Night Mist (varies by era) finish)
-- **Snare:** Tama Starclassic Maple/Bubinga, 14" x 6.5"
+- **Drums:** Tama Starclassic Bubinga (Egyptian Night Mist (varies by era) finish)
+- **Snare:** Tama Starclassic Bubinga, 14" x 6.5"
 - **Cymbals:** Zildjian — A Custom / K Custom hybrid
 - **Hardware / Pedals:** Tama Iron Cobra 900 Rolling Glide; Tama Iron Cobra Hi-Hat Stand; Tama Roadpro series; Tama 1st Chair; Pro-Mark (non-signature)
 - **Heads:** Evans G2 Coated (batter), Evans Hazy 300 Snare Side (resonant)
@@ -30,7 +30,7 @@ Nine studio albums. Multiple platinum certifications. Millions of devoted fans. 
 
 ### Abe's Tama Starclassic Setup
 
-Abe Cunningham's Tama Starclassic kit is the perfect reflection of his musical priorities: punchy, durable, and versatile. He's been a longtime Tama endorser since 1997, using the Starclassic Maple/Bubinga shells for the attack and reliability that suit his groove-and-feel approach over technical complexity.
+Abe Cunningham's Tama Starclassic kit is the perfect reflection of his musical priorities: punchy, durable, and versatile. He's been a longtime Tama endorser since 1997, using the Starclassic Bubinga shells for the attack and reliability that suit his groove-and-feel approach over technical complexity.
 
 The 22" bass drum is standard size but tuned for maximum punch without overwhelming sustain. Abe doesn't need the artillery of a 24" double bass setup — he needs a kick that sits in the mix with the bass guitar, creating that Deftones signature low-end synergy.
 
@@ -40,9 +40,9 @@ What's notable about Abe's setup is its efficiency. No second rack of toms. No e
 
 ### The Tama Starclassic Matching Snare
 
-Abe's snare choice — a matching Tama Starclassic 14" x 6.5" Maple/Bubinga — delivers the crack and cut that's essential for Deftones' heavier moments while staying responsive enough for the band's quieter, atmospheric passages.
+Abe's snare choice — a matching Tama Starclassic 14" x 6.5" Bubinga — delivers the crack and cut that's essential for Deftones' heavier moments while staying responsive enough for the band's quieter, atmospheric passages.
 
-Maple/Bubinga hybrid shells are prized in modern rock and metal for their bright, cutting crack combined with a solid low-mid body — a combination that lets the snare sit clearly in a dense mix without sounding harsh.
+Bubinga shells are prized in modern rock and metal for their bright, cutting crack combined with a solid low-mid body — a combination that lets the snare sit clearly in a dense mix without sounding harsh.
 
 Abe typically tunes this snare medium — not too tight, not too loose. This allows the drum to sing on softer passages while still delivering power on heavier hits.
 
@@ -86,13 +86,13 @@ That's the ultimate measure of a great drummer. And by that measure, Abe Cunning
 
 ## Key Facts
 
-- Tama Starclassic Maple/Bubinga endorsee since 1997 with a straightforward, groove-focused setup
+- Tama Starclassic Bubinga endorsee since 1997 with a straightforward, groove-focused setup
 - Zildjian cymbal artist, Pro-Mark sticks since 1997
 - Founding member of Deftones since 1988 (age 15)
 - Grammy Award winner for "Elite" (2001)
 - Known for groove-focused, dynamic playing style
 - One of alternative metal's most influential drummers
-- Tama Starclassic Maple/Bubinga shells for punchy attack and durability
+- Tama Starclassic Bubinga shells for punchy attack and durability
 - Compact configuration: 4 toms total
 - Standard 22" bass drum for controlled low-end
 - Setup prioritizes ergonomics and efficiency
@@ -103,7 +103,7 @@ That's the ultimate measure of a great drummer. And by that measure, Abe Cunning
 
 **Q: What drum kit does Abe Cunningham use with the Deftones?**
 
-A: Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He's been a longtime Tama endorser since 1997, valuing the Starclassic shells for their punchy attack and durability, which suits the Deftones' dynamic range from atmospheric passages to full-on heavy sections. He pairs the kit with a matching 14x6.5 inch Tama Starclassic snare.
+A: Abe Cunningham plays a Tama Starclassic Bubinga kit. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He's been a longtime Tama endorser since 1997, valuing the Starclassic shells for their punchy attack and durability, which suits the Deftones' dynamic range from atmospheric passages to full-on heavy sections. He pairs the kit with a matching 14x6.5 inch Tama Starclassic snare.
 
 **Q: What cymbals does Abe Cunningham use with the Deftones?**
 
@@ -127,4 +127,4 @@ A: A Tama Starclassic Bubinga shell pack comparable to Abe Cunningham's setup co
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

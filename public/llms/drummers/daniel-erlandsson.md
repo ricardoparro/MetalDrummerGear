@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daniel-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Daniel Erlandsson — Drum Kit & Gear Setup
@@ -112,8 +112,9 @@ Daniel Erlandsson's drumming embodies the Swedish melodic death metal approach�
 ## Endorsements
 
 - [Pearl Drums](https://pearldrum.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [ProMark Sticks](https://www.promark.com)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -228,4 +229,4 @@ Dated brand-endorsement timeline: [Daniel Erlandsson's endorsement history](http
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

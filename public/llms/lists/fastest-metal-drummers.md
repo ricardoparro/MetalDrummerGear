@@ -1,6 +1,6 @@
 # Top 10 Fastest Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-metal-drummers)
 
 ---
 
@@ -19,10 +19,10 @@ Ranked by documented performance records, genre-defining influence, and technica
 ### 1. George Kollias
 
 **Band:** Nile
-**Highlight:** Legendary for 280+ BPM blast beats
+**Highlight:** Legendary for 240+ BPM blast beats
 **Why ranked here:** The fastest feet in death metal with unmatched endurance
 
-George Kollias (Nile) earns rank #1 for: legendary for 280+ bpm blast beats. The fastest feet in death metal with unmatched endurance.
+George Kollias (Nile) earns rank #1 for: legendary for 240+ bpm blast beats. The fastest feet in death metal with unmatched endurance.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -151,4 +151,4 @@ A: Most top-speed drummers rely on lightweight double-bass pedals (Pearl Demon D
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -2,7 +2,7 @@
 
 This page indexes every verified cymbal setup catalogued in MetalForge's cymbals database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-11-10 · Source: https://metalforge.io
+> Last Updated: 2026-11-23 · Source: https://metalforge.io
 
 For types, alloys, and sizing/weight reference pages see the Reference Guides section below. For brand positioning and metal-relevant series see [https://metalforge.io/cymbals/brands](https://metalforge.io/cymbals/brands). For a buying guide by budget tier see [https://metalforge.io/cymbals/best-for-metal](https://metalforge.io/cymbals/best-for-metal).
 
@@ -63,7 +63,7 @@ A: The best setup depends on the sub-genre and how hard you hit, but a durable, 
 - Gene Hoglan — [Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)](https://metalforge.io/llms/cymbals/setups/gene-hoglan.md) ([profile](https://metalforge.io/drummer/gene-hoglan))
 - Dave Lombardo — [Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)](https://metalforge.io/llms/cymbals/setups/dave-lombardo.md) ([profile](https://metalforge.io/drummer/dave-lombardo))
 - Tomas Haake — [Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China)](https://metalforge.io/llms/cymbals/setups/tomas-haake.md) ([profile](https://metalforge.io/drummer/tomas-haake))
-- George Kollias — [Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)](https://metalforge.io/llms/cymbals/setups/george-kollias.md) ([profile](https://metalforge.io/drummer/george-kollias))
+- George Kollias — [Zildjian A Custom Series](https://metalforge.io/llms/cymbals/setups/george-kollias.md) ([profile](https://metalforge.io/drummer/george-kollias))
 - Eloy Casagrande — [Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong)](https://metalforge.io/llms/cymbals/setups/eloy-casagrande.md) ([profile](https://metalforge.io/drummer/eloy-casagrande))
 - John Otto — [Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)](https://metalforge.io/llms/cymbals/setups/john-otto.md) ([profile](https://metalforge.io/drummer/john-otto))
 - Jay Weinberg — [Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell)](https://metalforge.io/llms/cymbals/setups/jay-weinberg.md) ([profile](https://metalforge.io/drummer/jay-weinberg))
@@ -110,7 +110,7 @@ A: The best setup depends on the sub-genre and how hard you hit, but a durable, 
 - Kevin Talley — [Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)](https://metalforge.io/llms/cymbals/setups/kevin-talley.md) ([profile](https://metalforge.io/drummer/kevin-talley))
 - Martin Axenrot — [SABIAN HHX / AAX Series (15" HHX Groove Hats, 18" HHX Evolution O-Zone Crash, 21" HHX Legacy Ride, 20" HHX Chinese, 12" HHX Splash, 10" AAX Splash)](https://metalforge.io/llms/cymbals/setups/martin-axenrot.md) ([profile](https://metalforge.io/drummer/martin-axenrot))
 - Paul Bostaph — [Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China)](https://metalforge.io/llms/cymbals/setups/paul-bostaph.md) ([profile](https://metalforge.io/drummer/paul-bostaph))
-- Sean Reinert — [Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)](https://metalforge.io/llms/cymbals/setups/sean-reinert.md) ([profile](https://metalforge.io/drummer/sean-reinert))
+- Sean Reinert — [Zildjian K Custom Series](https://metalforge.io/llms/cymbals/setups/sean-reinert.md) ([profile](https://metalforge.io/drummer/sean-reinert))
 - Nick Menza — [Sabian AA / Signature Series (14" AA Hi-Hats, 16" AA & 18" Signature Crash, 20" AA Ride, 18" AA China)](https://metalforge.io/llms/cymbals/setups/nick-menza.md) ([profile](https://metalforge.io/drummer/nick-menza))
 - Adrian Erlandsson — [Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)](https://metalforge.io/llms/cymbals/setups/adrian-erlandsson.md) ([profile](https://metalforge.io/drummer/adrian-erlandsson))
 - Jon Dette — [Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China)](https://metalforge.io/llms/cymbals/setups/jon-dette.md) ([profile](https://metalforge.io/drummer/jon-dette))

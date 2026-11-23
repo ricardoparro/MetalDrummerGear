@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Yamaha"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -19,7 +19,7 @@ Igor Cavalera's drum kit and gear setup. Igor Cavalera is a professional metal d
 |---|---|
 | Name | Igor Cavalera |
 | Band | Sepultura / Cavalera Conspiracy / Soulwax |
-| All bands | Mats/Morgan Band, Kaipa |
+| All bands | Sepultura, Cavalera Conspiracy, Soulfly |
 | Genre | Thrash Metal / Groove Metal / Death Metal |
 | Country | Brazil |
 | Primary brand | Yamaha |
@@ -95,8 +95,9 @@ Igor Cavalera's drumming style revolutionized metal by incorporating Brazilian t
 
 ## Band History
 
-- **Mats/Morgan Band** — 1985–present (current)
-- **Kaipa** — 1999–present (current)
+- **Sepultura** — 1984–2006
+- **Cavalera Conspiracy** — 2007–present (current)
+- **Soulfly** — 2012
 
 ## Gear
 
@@ -235,4 +236,4 @@ Dated brand-endorsement timeline: [Igor Cavalera's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

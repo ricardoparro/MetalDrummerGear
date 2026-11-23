@@ -6,7 +6,7 @@ country: "Greece"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/george-kollias"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # George Kollias — Drum Kit & Gear Setup
@@ -24,14 +24,14 @@ George Kollias's drum kit and gear setup. George Kollias is a professional metal
 | Country | Greece |
 | Primary brand | Pearl |
 | Drum kit | Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) |
-| Signature snare | Pearl George Kollias Signature 14x6.5" |
+| Signature snare | Pearl (specific model not independently verified) |
 | Sticks | Vic Firth |
 
 ## Kit Overview
 
 George Kollias plays a Pearl Masterworks Stadium Exotic drum kit — Piano Black with Gold Hardware — the configuration engineered for Nile's extreme technical death metal demands since 2004. As one of the fastest drummers in extreme metal, sustaining blast beats at 240+ BPM with surgical clarity, the George Kollias drum set centers on his co-designed Pearl Demon XR double pedal, which provides the linear, direct action required for rapid-fire bass drum sequences defining tracks like "Annihilation of the Wicked" and "Those Whom the Gods Detest."
 
-The cornerstone of the drum kit is his Pearl George Kollias Signature snare — a 14×6.5" model designed for cutting articulation through Nile's densely layered guitar and bass walls. Zildjian cymbals complete the George Kollias drum set: 14" K Mastersound Hi-Hats for dry, defined hi-hat articulation; 17" and 18" K Custom Dark Crashes for explosive accent layering; a 21" A Custom Mega Bell Ride for powerful rhythmic definition; and an 18" China for aggressive punctuation. Vic Firth George Kollias Signature SGK sticks and Evans heads round out this drum set purpose-built for extreme technical death metal.
+The cornerstone of the drum kit is a Pearl snare (the specific model has not been independently verified), delivering the cutting articulation needed to project through Nile's densely layered guitar and bass walls. Zildjian A Custom Series cymbals complete the George Kollias drum set, giving his hi-hats, crashes, and ride the bright, cutting attack that cuts through the mix. Vic Firth George Kollias Signature SGK sticks and Evans heads round out this drum set purpose-built for extreme technical death metal.
 
 ## Biography
 
@@ -99,8 +99,8 @@ George Kollias's drumming style combines extreme speed with remarkable endurance
 ## Gear
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Snare:** Pearl George Kollias Signature 14x6.5"
-- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
+- **Snare:** Pearl (specific model not independently verified)
+- **Cymbals:** Zildjian A Custom Series
 - **Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
 - **Heads:** Evans
@@ -183,25 +183,13 @@ MetalForge has 3 signature lick tutorial(s) for George Kollias:
 
 - [Nile Gravity Blast Pattern](https://metalforge.io/drummers/george-kollias/licks/george-kollias-gravity-blast)
 - [Polyrhythmic Death Metal Pattern](https://metalforge.io/drummers/george-kollias/licks/george-kollias-polyrhythmic-mayhem)
-- [Sustained 250+ BPM Blast](https://metalforge.io/drummers/george-kollias/licks/george-kollias-sustained-blast)
+- [Sustained 240+ BPM Blast](https://metalforge.io/drummers/george-kollias/licks/george-kollias-sustained-blast)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
-## Snare
-
-George Kollias plays a signature snare: the Pearl George Kollias Signature (14x6.5"). Full specs: [George Kollias's signature snare](https://metalforge.io/snares/signature/george-kollias).
-
 ## Cymbal Setup
 
-George Kollias's cymbals: Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
-
-| Piece | Size | Series | Model |
-|---|---|---|---|
-| hi-hat | 14" | K Mastersound | Hi-Hats |
-| crash | 17" | K Custom Dark | Crash |
-| crash | 18" | K Custom Dark | Crash |
-| ride | 21" | A Custom | Mega Bell Ride |
-| china | 18" | — | China |
+George Kollias's cymbals: Zildjian A Custom Series.
 
 Full breakdown: [George Kollias's cymbal setup](https://metalforge.io/cymbals/setups/george-kollias).
 
@@ -241,4 +229,4 @@ Dated brand-endorsement timeline: [George Kollias's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

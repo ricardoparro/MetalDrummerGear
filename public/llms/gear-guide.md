@@ -1,5 +1,5 @@
 # MetalForge — Metal Drum Gear Guide
-> Last Updated: 2026-10-30 · Source: https://metalforge.io
+> Last Updated: 2026-11-23 · Source: https://metalforge.io
 
 A brand-by-brand guide to the drums, cymbals, pedals, and sticks used by the world's legendary metal drummers. Each brand lists the roster drummers who play it; follow the brand link for the full breakdown.
 
@@ -331,10 +331,10 @@ Official brand endorsement deals documented for roster drummers.
 - Gibraltar Hardware: https://www.gibraltarhardware.com
 
 ### Arin Ilejay
-- Mapex Drums: https://www.mapexdrums.com
+- DW Drums: https://www.dwdrums.com
 - Zildjian Cymbals: https://zildjian.com
-- Vic Firth Sticks: https://vicfirth.zildjian.com
-- Evans Drumheads: https://www.daddario.com/evans
+- Promark Sticks: https://www.daddario.com/promark
+- Remo Drumheads: https://www.remo.com
 
 ### Navene Koperweis
 - DW Drums: https://www.dwdrums.com
@@ -499,9 +499,9 @@ Official brand endorsement deals documented for roster drummers.
 - Evans Drumheads: https://www.daddario.com/evans
 
 ### Aquiles Priester
-- Pearl Drums: https://pearldrum.com
-- Sabian Cymbals: https://www.sabian.com
-- Vic Firth Sticks: https://vicfirth.zildjian.com
+- Mapex Drums: https://www.mapexdrums.com
+- Paiste Cymbals: https://www.paiste.com
+- ProMark Sticks: https://www.promark.com
 - Remo Drumheads: https://remo.com
 
 ### Paul Mazurkiewicz
@@ -521,8 +521,9 @@ Official brand endorsement deals documented for roster drummers.
 
 ### Daniel Erlandsson
 - Pearl Drums: https://pearldrum.com
-- Paiste Cymbals: https://www.paiste.com
-- Vic Firth Sticks: https://vicfirth.zildjian.com
+- Sabian Cymbals: https://www.sabian.com
+- ProMark Sticks: https://www.promark.com
+- Remo Drumheads: https://remo.com
 
 ### Jaska Raatikainen
 - Pearl Drums: https://pearldrum.com

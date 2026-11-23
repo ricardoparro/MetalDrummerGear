@@ -26,7 +26,7 @@
 | [Bill Ward](https://metalforge.io/cymbals/setups/bill-ward) | Black Sabbath | Zildjian Avedis Series (14" Hi-Hats, 16" & 18" Crashes, 20" Ride) |
 | [Frost](https://metalforge.io/cymbals/setups/frost) | Satyricon / 1349 | Zildjian A Series (14" A New Beat Hi-Hats, 16", 17", 18" A Series Crashes, 22" A Series Ride, 18" A Series China) |
 | [Gavin Harrison](https://metalforge.io/cymbals/setups/gavin-harrison) | Porcupine Tree / King Crimson | Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China) |
-| [George Kollias](https://metalforge.io/cymbals/setups/george-kollias) | Nile | Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China) |
+| [George Kollias](https://metalforge.io/cymbals/setups/george-kollias) | Nile | Zildjian A Custom Series |
 | [Igor Cavalera](https://metalforge.io/cymbals/setups/igor-cavalera) | Sepultura / Cavalera Conspiracy / Soulwax | Zildjian A Custom Series, adopted for the Cavalera Conspiracy era starting with "Inflikted" |
 | [Jaska Raatikainen](https://metalforge.io/cymbals/setups/jaska-raatikainen) | Children of Bodom | Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride) |
 | [Jason Bittner](https://metalforge.io/cymbals/setups/jason-bittner) | Shadows Fall / Overkill / Category 7 | Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China) |
@@ -38,7 +38,7 @@
 | [Mario Duplantier](https://metalforge.io/cymbals/setups/mario-duplantier) | Gojira | Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas) |
 | [Martin Lopez](https://metalforge.io/cymbals/setups/martin-lopez) | Soen / ex-Opeth | Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China) |
 | [Raymond Herrera](https://metalforge.io/cymbals/setups/raymond-herrera) | Fear Factory / Arkaea / Brujeria | Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China) |
-| [Sean Reinert](https://metalforge.io/cymbals/setups/sean-reinert) | Death / Cynic | Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash) |
+| [Sean Reinert](https://metalforge.io/cymbals/setups/sean-reinert) | Death / Cynic | Zildjian K Custom Series |
 | [Travis Orbin](https://metalforge.io/cymbals/setups/travis-orbin) | Darkest Hour / ex-Periphery | Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China) |
 
 These 21 entries are pulled directly from MetalForge's verified cymbal setups database, parsed from each drummer's roster gear record — never guessed from a photo or a forum post.
@@ -78,4 +78,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Zildjian, 
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

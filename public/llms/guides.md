@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-11-10 · Source: https://metalforge.io
+> Last updated: 2026-11-23 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -118,7 +118,7 @@ Joey's technique was built on a foundation of speed, power, and precision. He us
 
 ### Gear Setup
 
-- Drums: Pearl Pearl Joey Jordison Signature Kit (Birch/Basswood shells)
+- Drums: Pearl Pearl Reference Series ( shells)
 - Snare: Pearl Joey Jordison Signature Snare
 - Cymbals: Paiste RUDE & 2002 Series
 - Pedals: Pearl Pearl Demon Drive Double Pedal
@@ -411,7 +411,7 @@ Gene uses matched grip with a powerful, arm-incorporated stroke. His technique e
 
 ### Gear Setup
 
-- Drums: Pearl Pearl Reference Pure (Maple/Birch Hybrid shells)
+- Drums: Pearl Pearl Reference Pure (Maple/Mahogany Hybrid shells)
 - Snare: Pearl Model not independently verified
 - Cymbals: Sabian Sabian AAX Series
 - Pedals: Pearl Pearl Demon Drive Double Pedal
@@ -653,7 +653,7 @@ Kollias uses matched grip with a highly refined wrist technique for both hands a
 ### Gear Setup
 
 - Drums: Pearl Pearl Masterworks Series (Maple shells)
-- Snare: Pearl Pearl George Kollias Signature Snare
+- Snare: Pearl Pearl Masterworks Series Snare
 - Cymbals: Zildjian Zildjian A Custom Series
 - Pedals: Pearl Pearl Demon XR Pedals
 
@@ -671,8 +671,8 @@ A: George Kollias uses the Pearl Demon XR double pedal — a model he co-designe
 **Q: Is George Kollias self-taught?**
 A: Kollias is largely self-taught but has extensively studied drumming technique and has become an educator himself through his 'Intense Metal Drumming' instructional series.
 
-**Q: What makes the George Kollias signature snare special?**
-A: The Pearl George Kollias Signature Snare is optimized for extreme articulation — every note speaks cleanly at 200+ BPM. The shell construction and tuning characteristics prioritize attack definition over sustain.
+**Q: What snare does George Kollias use?**
+A: Kollias plays a Pearl Masterworks Series snare tuned for extreme articulation — every note speaks cleanly at 200+ BPM, with tuning characteristics that prioritize attack definition over sustain.
 
 ---
 
@@ -736,7 +736,7 @@ Flo uses matched grip with a wrist-dominant technique for sustained blast work a
 
 ### Signature Patterns
 
-- **The 'None So Vile' Blast** (210-240 BPM, Expert): Mounier's blast on the NSV album uses a traditional alternating hand pattern over a steady double bass. What distinguishes it is the slight dynamic swell within the blast itself — the snare hand accents every 4th stroke, creating a micro-groove within the brutal wash.
+- **The 'None So Vile' Blast** (280+ BPM, Expert): Mounier's blast on the NSV album uses a traditional alternating hand pattern over a steady double bass. What distinguishes it is the slight dynamic swell within the blast itself — the snare hand accents every 4th stroke, creating a micro-groove within the brutal wash.
 - **Chaotic Fill Architecture** (Variable, Expert): Between blast sections, Flo uses rapid, seemingly chaotic fills that are actually structured around the song's rhythmic anchors. He often inserts rapid tom runs that end on the downbeat of the next section.
 - **Dynamic Blast Variation** (200+ BPM, Advanced): Mounier plays blast beats at multiple dynamic levels within a single song — he'll open a passage at maximum intensity and gradually pull back to create movement within what sounds like static brutality.
 
@@ -758,10 +758,10 @@ Flo uses matched grip with a wrist-dominant technique for sustained blast work a
 ### Frequently Asked Questions
 
 **Q: What is 'Who Was Called?' and why is it significant?**
-A: 'Who Was Called?' is the closing track on Cryptopsy's 1996 album 'None So Vile.' It's significant as a canonical death metal drumming benchmark — the track features sustained blast beats at 220+ BPM with technical complexity that set a new ceiling for the genre. In death metal circles, playing it correctly is a recognized achievement.
+A: 'Who Was Called?' is the closing track on Cryptopsy's 1996 album 'None So Vile.' It's significant as a canonical death metal drumming benchmark — the track features sustained blast beats in the 280+ BPM range with technical complexity that set a new ceiling for the genre. In death metal circles, playing it correctly is a recognized achievement.
 
 **Q: How fast does Flo Mounier play?**
-A: Flo Mounier sustains blast beats at 210-240 BPM during Cryptopsy performances. On 'None So Vile,' blast sections hover around 215-225 BPM. Unlike some speed records, these tempos are maintained across full-length songs in live performance.
+A: Flo Mounier is known for sustained blast beats in the 280+ BPM range during Cryptopsy performances, including on 'None So Vile.' Unlike some speed records, these tempos are maintained across full-length songs in live performance.
 
 **Q: What makes Flo Mounier's blasts different from other death metal drummers?**
 A: Mounier's blasts contain subtle internal dynamics — micro-accents every 4 beats that create the illusion of breathing within brutal blast sections. This distinguishes his playing from drummers who blast at uniform volume throughout. The musical intelligence within the brutality is what makes Cryptopsy's recordings endure.
@@ -1682,8 +1682,8 @@ Larkin plays with a heavy, physical approach that prioritizes feel and authority
 
 ### Frequently Asked Questions
 
-**Q: What drum kit does Shannon Larkin play?**
-A: Shannon Larkin plays Ddrum Dios Series drums as his primary kit with Godsmack. Ddrum's Dios line features basswood/poplar shells with a punchy, dry attack suited to hard rock arena environments. His configuration runs double 22" bass drums and four toms (10", 12", 14", 16"). Larkin has been a Ddrum endorser for much of his tenure with Godsmack since 2002.
+**Q: What drum kit did Shannon Larkin play?**
+A: Shannon Larkin played Ddrum Dios Series drums as his primary kit during his 2002-2024 tenure with Godsmack. Ddrum's Dios line features basswood/poplar shells with a punchy, dry attack suited to hard rock arena environments. His configuration ran double 22" bass drums and four toms (10", 12", 14", 16"). Larkin was a Ddrum endorser for most of his 22 years with Godsmack.
 
 **Q: What cymbals does Shannon Larkin use?**
 A: Shannon Larkin uses Sabian AAX Series cymbals. His setup typically includes 14" AAX Evolution hi-hats for consistent, cutting hi-hat patterns; 18" and 19" AAX crashes for section accents; a 21" AAX Groove Ride; and an 18" AAX China for aggressive accent moments. The AAX series' bright, cutting character projects through dense guitar arrangements at live volumes.
@@ -1811,11 +1811,11 @@ A: Paiste RUDE cymbals are built thicker and heavier than standard B20 bronze cy
 **Genre:** Death Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-pete-sandoval](https://metalforge.io/guides/how-to-sound-like-pete-sandoval)
 
-Master Pete Sandoval's death metal blast beat technique. Learn his alternating double bass approach, Morbid Angel hyper-precision style, ddrum setup, and the practice system behind 300+ BPM capability.
+Master Pete Sandoval's death metal blast beat technique. Learn his alternating double bass approach, Morbid Angel hyper-precision style, ddrum setup, and the practice system behind his legendary double bass speed and endurance.
 
 ### Style Overview
 
-Sandoval's technique is built on two foundational principles: alternating double bass foot technique and hand-to-hand single-stroke blast beats. His alternating blast — where each hand alternates between snare and kick regardless of which foot is playing — achieves a different rhythmic feel than the traditional blast. The kick is more subdivided, creating a denser low-end attack. At 300 BPM, this approach sounds more like a mechanical device than a human being.
+Sandoval's technique is built on two foundational principles: alternating double bass foot technique and hand-to-hand single-stroke blast beats. His alternating blast — where each hand alternates between snare and kick regardless of which foot is playing — achieves a different rhythmic feel than the traditional blast. The kick is more subdivided, creating a denser low-end attack. At extreme tempo, this approach sounds more like a mechanical device than a human being.
 
 **Grip:** Matched Grip — Sandoval uses matched grip with a controlled wrist technique. His sticks are held at medium tension — enough to maintain control at high velocity, loose enough to allow the rebound to assist each stroke. His wrists drive the primary motion; fingers cushion and guide rather than clutch.
 
@@ -1823,7 +1823,7 @@ Sandoval's technique is built on two foundational principles: alternating double
 
 - **The Morbid Angel Alternating Blast** (240-300+ BPM, Expert): Sandoval's signature: alternating single strokes between hands (right hand = snare, left hand = hi-hat or crash), with both kick drums firing continuous alternating 16th notes underneath. The distinction from a standard blast is the kick pattern — rather than the kick following the hand on one side, the kick is fully independent, creating a dense subdivided low-end layer.
 - **The Morbid Angel Groove** (140-180 BPM, Advanced): Between blast sections, Sandoval plays heavy, syncopated death metal grooves that lock with Trey Azagthoth's guitar riffs. These grooves feature complex kick patterns that follow guitar accents rather than playing straight time. The interplay between kick and guitar is the groove's defining feature.
-- **Double Bass Speed Bursts** (280-320 BPM, Expert): Sandoval frequently inserts brief speed bursts — 4-8 bars of double bass at 280-300+ BPM — within otherwise moderate sections. These bursts are engineered for maximum impact: the sudden jump to extreme tempo is part of the composition, not just a display of speed.
+- **Double Bass Speed Bursts** (280-320 BPM, Expert): Sandoval frequently inserts brief speed bursts — 4-8 bars of double bass at his top speed — within otherwise moderate sections. These bursts are engineered for maximum impact: the sudden jump to extreme tempo is part of the composition, not just a display of speed.
 
 ### Key Songs to Study
 
@@ -1846,7 +1846,7 @@ Sandoval's technique is built on two foundational principles: alternating double
 A: Pete Sandoval is associated with the technical death metal blast beat style — specifically, the alternating double bass blast where both kick drums fire independent 16th notes while hands play alternating single strokes. He is also credited with early adoption and popularization of the gravity blast technique, which uses a push-pull wrist motion for ultra-fast single-hand rolls on the snare.
 
 **Q: How fast does Pete Sandoval play double bass?**
-A: At his peak, Pete Sandoval demonstrated double bass capability at 300+ BPM in controlled settings. In live Morbid Angel performances and recordings, sustained blast beats typically run 240-270 BPM. His landmark work on Altars of Madness (1989) and Covenant (1993) features sustained extreme tempos that remained the technical benchmark for years.
+A: Pete Sandoval was known for exceptional double bass speed, precision, and endurance that set the standard for death metal drumming. His landmark work on Altars of Madness (1989) and Covenant (1993) features sustained extreme tempos that remained the technical benchmark for years. No independently verified BPM figure for his playing has been published.
 
 **Q: What pedals does Pete Sandoval use?**
 A: Pete Sandoval's hardware endorsement was with ddrum, the same brand as his drum kit, but his exact pedal model was never publicly documented.
@@ -1889,9 +1889,9 @@ Raatikainen's technique is rooted in European metal drumming traditions — cont
 ### Gear Setup
 
 - Drums: Pearl Pearl Masters Premium Maple (Maple shells)
-- Snare: Pearl Pearl Free-Floating Steel 14" x 6.5"
+- Snare: Pearl Pearl Masters 14x5.5" Maple
 - Cymbals: Zildjian Zildjian A Custom and K Custom
-- Pedals: Pearl Pearl Demon Drive Double Pedal
+- Pedals: Pearl Pearl Eliminator Double Pedal
 
 ### Frequently Asked Questions
 
@@ -2418,14 +2418,14 @@ Master Morgan Ågren's four-over-three polyrhythms and extreme dynamic range. Le
 ### Gear Setup
 
 - Drums: Sonor Sonor SQ2 Beech (Beech shells)
-- Snare: Sonor Sonor Designer Maple
+- Snare: Sonor Sonor SQ2 Beech
 - Cymbals: Paiste Paiste Signature & 2002 Series
 - Pedals: Sonor Sonor Giant Step Double Pedal
 
 ### Frequently Asked Questions
 
 **Q: What kit does Morgan Ågren use?**
-A: Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier fully customizable shell pack built in Germany to individual specification. His configuration typically runs 10" and 12" rack toms, 14" and 16" floor toms, and a single 22" bass drum, paired with a Sonor Designer 14"x5.5" Maple snare.
+A: Ågren plays a Sonor SQ2 Beech kit, Sonor's top-tier fully customizable shell pack built in Germany to individual specification. His configuration typically runs 10" and 12" rack toms, 14" and 16" floor toms, and a single 22" bass drum, paired with a Sonor SQ2 Beech 14"x5.5" Maple snare.
 
 **Q: How do I develop Morgan Ågren's polyrhythm independence?**
 A: Start with his four-over-three foundation: hands playing four evenly spaced strokes while feet play three, looped slowly with a metronome until neither limb drifts toward the other's pulse. Only add melodic tom variation once the base polyrhythm is completely stable — Ågren improvises over the structure, he doesn't replace it.
@@ -2446,7 +2446,7 @@ A: Zappa personally selected Ågren to sit in with his band for one Stockholm co
 **Genre:** Death Metal / Technical Death Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-tim-yeung](https://metalforge.io/guides/how-to-sound-like-tim-yeung)
 
-Master Tim Yeung's blast beats at 280+ BPM. Learn the Morbid Angel drummer's relaxed, rebound-efficient technique, Tama Starclassic Bubinga kit, Sabian cymbal setup, and Tama Speed Cobra 910 double bass pedal approach.
+Master Tim Yeung's extremely fast blast beats. Learn the Morbid Angel drummer's relaxed, rebound-efficient technique, Tama Starclassic Bubinga kit, Sabian cymbal setup, and Tama Speed Cobra 910 double bass pedal approach.
 
 ### Style Overview
 
@@ -2456,8 +2456,8 @@ Yeung's approach differs from power-based blasters in a fundamental way: he gene
 
 ### Signature Patterns
 
-- **Relaxed High-Speed Blast** (250-280 BPM, Advanced): Yeung's 250-280 BPM blast beats are achieved by eliminating wasted motion rather than trying to hit harder or faster through muscular effort — rebound efficiency scales to extreme tempos in a way pure power striking cannot.
-- **Rebound-Driven Double Bass** (200-240 BPM, Advanced): Yeung's double bass patterns rely on the pedal's own mechanical rebound rather than driving each stroke with leg force, keeping beater acceleration consistent across long double-kick runs at 200-240 BPM.
+- **Relaxed High-Speed Blast** (Extremely Fast, Advanced): Yeung's extremely fast blast beats are achieved by eliminating wasted motion rather than trying to hit harder or faster through muscular effort — rebound efficiency scales to extreme tempos in a way pure power striking cannot.
+- **Rebound-Driven Double Bass** (Fast, Advanced): Yeung's double bass patterns rely on the pedal's own mechanical rebound rather than driving each stroke with leg force, keeping beater acceleration consistent across long, fast double-kick runs.
 - **Sustained Tempo Consistency** (Variable, Advanced): Yeung's blast beats hold identical tempo and articulation from the first bar of a set to the last — a mechanical and technical consistency that separates studied blast beat players from drummers who can only sprint briefly.
 
 ### Key Songs to Study
@@ -2479,12 +2479,12 @@ Yeung's approach differs from power-based blasters in a fundamental way: he gene
 A: Tim Yeung drummed for Morbid Angel from 2010 to 2015, stepping in after Pete Sandoval's back surgery and recording all drums on Illud Divinum Insanus (2011). Scott Fuller recorded Kingdoms Disdained (2017) after Yeung's departure; Morbid Angel's current drummer is Charlie Koryn, who joined in 2023.
 
 **Q: How fast does Tim Yeung play?**
-A: Yeung's blast beats are documented in the 200-280 BPM range, among the fastest in death metal. That speed is built on relaxed, rebound-efficient technique rather than muscular power striking — at tempos above 250 BPM, the body's muscular system can't sustain tension-based striking across a full set, so rebound efficiency becomes the only sustainable approach.
+A: Yeung's blast beats are among the fastest in death metal. That speed is built on relaxed, rebound-efficient technique rather than muscular power striking — at extreme blast tempos, the body's muscular system can't sustain tension-based striking across a full set, so rebound efficiency becomes the only sustainable approach.
 
 **Q: What kit and cymbals does Tim Yeung use?**
 A: Yeung plays a Tama Starclassic Bubinga kit with bubinga wood shells, built around a double 22" x 18" bass drum configuration. His cymbals are Sabian AAX and HHX series, including 14" AAX hi-hats, 16" and 18" AAX crashes, a 20" HHX ride, and an 18" AAX china. He uses a Tama Speed Cobra 910 double bass pedal and Vic Firth 5B sticks.
 
-**Q: How to play blast beats at 280+ BPM like Tim Yeung?**
+**Q: How does Tim Yeung play blast beats so fast?**
 A: Start with the Relaxation-Under-Speed drill: play a blast beat at a comfortable tempo while consciously releasing tension in your grip and shoulders, then increase tempo only once you can stay relaxed. Extreme blast speed comes from eliminating wasted motion and letting the stick rebound naturally, not from hitting harder.
 
 **Q: What should I practice first to sound like Tim Yeung?**
@@ -2832,7 +2832,7 @@ Bent plays matched grip with a clean, controlled stroke honed in technical death
 ### Gear Setup
 
 - Drums: TAMA TAMA Starclassic Maple (Maple shells)
-- Snare: TAMA TAMA Starclassic Maple 14" x 6.5"
+- Snare: TAMA TAMA Starclassic Maple 14" x 5"
 - Cymbals: Zildjian Zildjian K Custom Hybrid
 - Pedals: Axis Percussion Axis A Longboard Double Pedal
 
@@ -3109,7 +3109,7 @@ A: Koperweis currently plays a DW Performance Series kit with a double 22" x 18"
 A: Riff-locked drumming, as Koperweis plays it, means rewriting the double-bass kick pattern to match the exact rhythm of each guitar riff rather than applying a fixed template underneath changing parts. It's a compositional approach that bonds the drums to the arrangement instead of layering them on top of it, first documented on Animals as Leaders' "Tooth and Claw."
 
 **Q: What bands has Navene Koperweis played in?**
-A: Koperweis played with the grindcore band Animosity, then joined Animals as Leaders from 2010 to 2012 during the Weightless era that helped define djent drumming. He founded Entheos in 2015 with vocalist Chaney Crabb, and has also done session and touring work with Machine Head and Job for a Cowboy.
+A: Koperweis played with the grindcore band Animosity, then joined Animals as Leaders from 2009 to 2012 during the Weightless era that helped define djent drumming. He founded Entheos in 2015 with vocalist Chaney Crabb, and has also done session and touring work with Machine Head and Job for a Cowboy.
 
 **Q: What should I practice first to sound like Navene Koperweis?**
 A: Start with the Riff-Lock Rebuild drill: take a single guitar riff, write a kick pattern that locks exactly to its rhythm, then change the riff and rebuild the pattern from scratch. That habit — treating the kick as compositional rather than templated — is the foundation everything else in his style is built on.

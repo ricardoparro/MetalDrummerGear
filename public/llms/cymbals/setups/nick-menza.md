@@ -6,16 +6,16 @@
 
 ## Direct Answer
 
-Nick Menza plays Sabian cymbals: 14" AA Regular Hi-Hats, 16" AA Rock Crash, 18" Signature Crash, 20" AA Medium Ride, 18" AA China.
+Nick Menza plays Sabian cymbals: 14" AA Hi-Hats, 16" AA Signature Crash, 18" Signature Crash, 20" AA Ride, 18" AA China.
 
 ## Cymbal Breakdown
 
 | Piece | Size | Series | Model |
 |-------|------|--------|-------|
-| Hi-hat | 14" | AA | Regular Hi-Hats |
-| Crash | 16" | AA | Rock Crash |
+| Hi-hat | 14" | AA | Hi-Hats |
+| Crash | 16" | AA | Signature Crash |
 | Crash | 18" | Signature | Crash |
-| Ride | 20" | AA | Medium Ride |
+| Ride | 20" | AA | Ride |
 | China | 18" | AA | China |
 
 Verified roster hardware entry: "Sabian AA / Signature Series (14" AA Hi-Hats, 16" AA & 18" Signature Crash, 20" AA Ride, 18" AA China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
@@ -30,7 +30,7 @@ Verified roster hardware entry: "Sabian AA / Signature Series (14" AA Hi-Hats, 1
 ## FAQ
 
 **Q: What cymbals does Nick Menza use?**
-A: Nick Menza plays Sabian cymbals: 14" AA Regular Hi-Hats, 16" AA Rock Crash, 18" Signature Crash, 20" AA Medium Ride, 18" AA China.
+A: Nick Menza plays Sabian cymbals: 14" AA Hi-Hats, 16" AA Signature Crash, 18" Signature Crash, 20" AA Ride, 18" AA China.
 
 ## More Resources
 
@@ -41,4 +41,4 @@ A: Nick Menza plays Sabian cymbals: 14" AA Regular Hi-Hats, 16" AA Rock Crash, 1
 
 ---
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

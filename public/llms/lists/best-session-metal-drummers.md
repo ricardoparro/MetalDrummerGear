@@ -1,6 +1,6 @@
 # Top 10 Best Session Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-session-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-session-metal-drummers)
 
 ---
 
@@ -130,7 +130,7 @@ A: A session drummer is typically brought in to record or perform a specific alb
 A: Bands turn to session drummers when a regular member is unavailable, when a project needs a specific technical skill set the touring lineup doesn't have, or when a studio deadline requires someone who can learn and record material quickly without a full rehearsal cycle. Alex Bent filling in for Gene Hoglan on Testament tours is a clear example — a technically capable outside player covering a demanding drum chair on short notice while the regular drummer was unavailable.
 
 **Q: Can a session drummer become a full member of a band?**
-A: Yes — it happens regularly in metal. Ray Luzier's session work eventually led to a permanent seat behind Korn's kit in 2007, and Travis Orbin's career shows the relationship working in the other direction — he was Periphery's full-time drummer from 2006 to 2009, left before the band wrote or recorded its 2010 debut, and built his ongoing reputation through session and solo work afterward rather than through a studio album credit. The line between "session player" and "band member" in metal is often a matter of how long the arrangement lasts, not a fundamentally different skill set.
+A: Yes — it happens regularly in metal. Ray Luzier's session work eventually led to a permanent seat behind Korn's kit in 2007, and Travis Orbin's career shows the relationship working in the other direction — he was Periphery's full-time drummer from 2008 to 2009, left before the band wrote or recorded its 2010 debut, and built his ongoing reputation through session and solo work afterward rather than through a studio album credit. The line between "session player" and "band member" in metal is often a matter of how long the arrangement lasts, not a fundamentally different skill set.
 
 
 ---
@@ -150,4 +150,4 @@ A: Yes — it happens regularly in metal. Ray Luzier's session work eventually l
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

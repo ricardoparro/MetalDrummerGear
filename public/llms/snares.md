@@ -1,8 +1,8 @@
 # Metal Drummer Snares — Complete List
 
-This page indexes every verified snare catalogued in MetalForge's snares database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
+This page indexes every verified snare catalogued in MetalForge's snares database — 52 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-11-01 · Source: https://metalforge.io
+> Last Updated: 2026-11-23 · Source: https://metalforge.io
 
 For shell material, size, and tuning reference pages see the Reference Guides section below. For a buying guide anchored on the verified signature snares see [https://metalforge.io/snares/best-for-metal](https://metalforge.io/snares/best-for-metal).
 
@@ -33,7 +33,7 @@ Shell and size set the ceiling; tuning, snare wires, and heads decide what actua
 ## Brand Pages (6)
 
 - [Tama](https://metalforge.io/llms/snares/brands/tama.md) — Tama is the single most common snare brand across the verified metal roster, anchored by the modular S.L.P. (Sound Lab Project) series — which spans brass, steel, and maple shells and is by far the most common single line on this roster — alongside the Starclassic maple/bubinga shells and Lars Ulrich's own LU1465 signature model.
-- [Pearl](https://metalforge.io/llms/snares/brands/pearl.md) — Pearl's snare lineup splits into two verified-roster standards — the brass/steel Reference series for maximum cut, and the maple Masters series for a warmer tone — alongside multiple artist-signature models, including Joey Jordison's 13x6.5" and George Kollias's 14x6.5" snares.
+- [Pearl](https://metalforge.io/llms/snares/brands/pearl.md) — Pearl's snare lineup splits into two verified-roster standards — the brass/steel Reference series for maximum cut, and the maple Masters series for a warmer tone — alongside multiple artist-signature models, including Joey Jordison's 13x6.5" snare.
 - [Ludwig](https://metalforge.io/llms/snares/brands/ludwig.md) — Ludwig is the oldest American drum company, and its snare identity on the verified metal roster rests on two of the most recorded shells in drumming history: the brass Black Beauty (Art Cruz) and the aluminium/steel Supraphonic (Bill Ward).
 - [Sonor](https://metalforge.io/llms/snares/brands/sonor.md) — Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its customizable maple SQ2 series is the most common single Sonor snare, used alongside artist-signature models built for Tomas Haake, Nicko McBrain, and Gavin Harrison.
 - [Mapex](https://metalforge.io/llms/snares/brands/mapex.md) — Mapex's snare presence on the verified metal roster covers both ends of its catalog: Chris Adler's walnut/maple signature model (Lamb of God) and the brass-shell Black Panther series played by Jason Bittner (Overkill, Shadows Fall).
@@ -54,14 +54,12 @@ A: Neither is strictly "better" — metal shells (steel, brass, bronze, aluminiu
 **Q: What size snare is best for metal?**
 A: 14x6.5" is the most common "workhorse" size across the verified metal roster, balancing crack with body. Shallower options like a 13" (e.g. Joey Jordison's signature model) or a 3"–4.5"-deep piccolo trade some low-end body for a sharper, higher-pitched attack.
 
-## All 56 Snare Records
+## All 52 Snare Records
 
 - Lars Ulrich — [Tama LU1465 Lars Ulrich Signature 14x6.5"](https://metalforge.io/drummer/lars-ulrich)
 - Joey Jordison — [Pearl Joey Jordison Signature 13x6.5"](https://metalforge.io/drummer/joey-jordison)
-- Gene Hoglan — [Pearl Reference 14x6.5" Brass](https://metalforge.io/drummer/gene-hoglan)
 - Dave Lombardo — [Tama S.L.P. 14x6.5" G-Maple](https://metalforge.io/drummer/dave-lombardo)
 - Tomas Haake — [Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze](https://metalforge.io/drummer/tomas-haake)
-- George Kollias — [Pearl George Kollias Signature 14x6.5"](https://metalforge.io/drummer/george-kollias)
 - Eloy Casagrande — [Tama Bell Brass 14x5.5" (BB146)](https://metalforge.io/drummer/eloy-casagrande)
 - John Otto — [OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply](https://metalforge.io/drummer/john-otto)
 - Jay Weinberg — [SJC Jay Weinberg "The Crucible" 14x6.5" 48-ply Brass](https://metalforge.io/drummer/jay-weinberg)
@@ -74,7 +72,7 @@ A: 14x6.5" is the most common "workhorse" size across the verified metal roster,
 - Alex Bent — [Tama Starclassic Maple 14x5" (approx.)](https://metalforge.io/drummer/alex-bent)
 - Shannon Larkin — [ddrum Dios 14x6.5" Maple](https://metalforge.io/drummer/shannon-larkin)
 - Raymond Herrera — [Tama 14x6.5" Brass](https://metalforge.io/drummer/raymond-herrera)
-- morgan-agren — [Sonor Designer 14x5.5" Maple](https://metalforge.io/drummer/morgan-agren)
+- morgan-agren — [Sonor SQ2 Beech 14x5.5" Maple](https://metalforge.io/drummer/morgan-agren)
 - Igor Cavalera — [Yamaha Absolute Hybrid Maple 14x6.5"](https://metalforge.io/drummer/igor-cavalera)
 - Bill Ward — [Ludwig Supraphonic 14x6.5" LM402](https://metalforge.io/drummer/bill-ward)
 - Chris Turner — [Tama S.L.P. 14x5.5" G-Maple](https://metalforge.io/drummer/chris-turner)
@@ -85,7 +83,6 @@ A: 14x6.5" is the most common "workhorse" size across the verified metal roster,
 - Jason Bittner — [Mapex Black Panther 14x6.5" Brass](https://metalforge.io/drummer/jason-bittner)
 - Martin Lopez — [Noble & Cooley Solid Shell 14x6" Maple](https://metalforge.io/drummer/martin-lopez)
 - Travis Orbin — [SJC Custom 14x6.5" Maple](https://metalforge.io/drummer/travis-orbin)
-- Ryan Van Poederooyen — [Pearl Reference 14x6.5" Brass](https://metalforge.io/drummer/ryan-van-poederooyen)
 - Nicko McBrain — [Sonor Nicko McBrain Signature 14x6.5"](https://metalforge.io/drummer/nicko-mcbrain)
 - Scott Travis — [ddrum Scott Travis Signature 14x6.5"](https://metalforge.io/drummer/scott-travis)
 - Mikkey Dee — [Sonor Mikkey Dee Signature 14x7.25" Birch](https://metalforge.io/drummer/mikkey-dee)
@@ -93,7 +90,7 @@ A: 14x6.5" is the most common "workhorse" size across the verified metal roster,
 - Dirk Verbeuren — [Tama S.L.P. Dynamic Bronze 14x5.5"](https://metalforge.io/drummer/dirk-verbeuren)
 - Frost — [Tama Starclassic Bubinga 14x5.5"](https://metalforge.io/drummer/frost)
 - Gavin Harrison — [Sonor Gavin Harrison Signature 12x5" & 14x5.25"](https://metalforge.io/drummer/gavin-harrison)
-- Abe Cunningham — [Tama Starclassic Maple/Bubinga 14x6.5"](https://metalforge.io/drummer/abe-cunningham)
+- Abe Cunningham — [Tama Starclassic Bubinga matching snare (no separate model documented)](https://metalforge.io/drummer/abe-cunningham)
 - Richard Christy — [Pearl Custom Z 14x6.5" Maple](https://metalforge.io/drummer/richard-christy)
 - Aquiles Priester — [Mapex Saturn Evolution All Maple 14x6.5" (signature kit)](https://metalforge.io/drummer/aquiles-priester)
 - Paul Mazurkiewicz — [Pearl Free-Floating Steel](https://metalforge.io/drummer/paul-mazurkiewicz)
@@ -102,8 +99,7 @@ A: 14x6.5" is the most common "workhorse" size across the verified metal roster,
 - Daniel Erlandsson — [Pearl Daniel Erlandsson Signature 14x5.5"](https://metalforge.io/drummer/daniel-erlandsson)
 - Jaska Raatikainen — [Pearl Masters 14x5.5" Maple](https://metalforge.io/drummer/jaska-raatikainen)
 - Hannes Grossmann — [DW Collectors 14x5.5" Maple](https://metalforge.io/drummer/hannes-grossmann)
-- Daray — [Pearl Reference 14x5.5" Brass](https://metalforge.io/drummer/daray)
-- Jocke Wallgren — [Pearl Reference 14x6.5" Brass](https://metalforge.io/drummer/jocke-wallgren)
+- Daray — [Tama S.L.P. Black Brass LBR1465](https://metalforge.io/drummer/daray)
 - Tim Yeung — [Tama S.L.P. Big Black Steel 14x6.5"](https://metalforge.io/drummer/tim-yeung)
 - Kevin Talley — [Pearl Masters 14x6.5" Steel](https://metalforge.io/drummer/kevin-talley)
 - Martin Axenrot — [DW Custom maple/gum shells 14x5.75"](https://metalforge.io/drummer/martin-axenrot)
@@ -113,14 +109,13 @@ A: 14x6.5" is the most common "workhorse" size across the verified metal roster,
 - Adrian Erlandsson — [Tama Starclassic Bubinga 14x6.5"](https://metalforge.io/drummer/adrian-erlandsson)
 - Jon Dette — [14x6.5" Metal or Maple Snare](https://metalforge.io/drummer/jon-dette)
 
-## Signature Snares (10)
+## Signature Snares (9)
 
 Per-drummer "what snare does X use" markdown pages for every drummer with a confirmed signature snare model:
 
 - Lars Ulrich — [Tama LU1465 Lars Ulrich Signature 14x6.5"](https://metalforge.io/llms/snares/signature/lars-ulrich.md)
 - Joey Jordison — [Pearl Joey Jordison Signature 13x6.5"](https://metalforge.io/llms/snares/signature/joey-jordison.md)
 - Tomas Haake — [Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze](https://metalforge.io/llms/snares/signature/tomas-haake.md)
-- George Kollias — [Pearl George Kollias Signature 14x6.5"](https://metalforge.io/llms/snares/signature/george-kollias.md)
 - Chris Adler — [Mapex Chris Adler Signature 14x5.5" Walnut/Maple](https://metalforge.io/llms/snares/signature/chris-adler.md)
 - Nicko McBrain — [Sonor Nicko McBrain Signature 14x6.5"](https://metalforge.io/llms/snares/signature/nicko-mcbrain.md)
 - Scott Travis — [ddrum Scott Travis Signature 14x6.5"](https://metalforge.io/llms/snares/signature/scott-travis.md)

@@ -1,6 +1,6 @@
 # Top 10 Most Decorated Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-decorated-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-decorated-metal-drummers)
 
 ---
 
@@ -80,9 +80,9 @@ Full drummer profile: [Gene Hoglan on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Gojira
 **Highlight:** Grammy-nominated for "Silvera" and Victoires de la Musique winner
-**Why ranked here:** Mario Duplantier and Gojira received a Grammy nomination for Best Metal Performance at the 58th Grammys (2016) for "Silvera" — the first Grammy nomination for a French metal band. Gojira have also won multiple Victoires de la Musique, France's most prestigious music industry award
+**Why ranked here:** Mario Duplantier and Gojira received a Grammy nomination for Best Metal Performance at the 59th Grammys (2017) for "Silvera." Gojira have also won multiple Victoires de la Musique, France's most prestigious music industry award
 
-Mario Duplantier (Gojira) earns rank #7 for: grammy-nominated for "silvera" and victoires de la musique winner. Mario Duplantier and Gojira received a Grammy nomination for Best Metal Performance at the 58th Grammys (2016) for "Silvera" — the first Grammy nomination for a French metal band. Gojira have also won multiple Victoires de la Musique, France's most prestigious music industry award.
+Mario Duplantier (Gojira) earns rank #7 for: grammy-nominated for "silvera" and victoires de la musique winner. Mario Duplantier and Gojira received a Grammy nomination for Best Metal Performance at the 59th Grammys (2017) for "Silvera." Gojira have also won multiple Victoires de la Musique, France's most prestigious music industry award.
 
 Full drummer profile: [Mario Duplantier on MetalForge](https://metalforge.io/drummer/mario-duplantier)
 
@@ -141,4 +141,4 @@ A: The Modern Drummer Readers Poll is considered the most prestigious peer-based
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -22,7 +22,7 @@ Mayhem's Hellhammer vs Behemoth's Inferno. Black metal blast beats, speed, and e
 - **Cymbals:** Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China)
 - **Snare:** Pearl Reference 14x5" Steel
 - **Pedals/Hardware:** Czarcie Kopyto (Devil's Hoof) Double Pedal, Pearl D-2000 Throne
-- **Sticks:** Vic Firth 5B
+- **Sticks:** Vic Firth American Classic Extreme 5B
 
 ## Playing Style
 
@@ -67,4 +67,4 @@ A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ri
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

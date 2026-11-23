@@ -1,6 +1,6 @@
 # Shannon Larkin vs Jaska Raatikainen — Drum Kit Comparison
 
-> Side-by-side gear comparison between Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America) and Jaska Raatikainen (Children of Bodom).
+> Side-by-side gear comparison between Shannon Larkin (ex-Godsmack / Ugly Kid Joe / Wrathchild America) and Jaska Raatikainen (Children of Bodom).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/shannon-larkin-vs-jaska-raatikainen
 
@@ -11,7 +11,7 @@ Godsmack's Shannon Larkin vs Children of Bodom's Jaska Raatikainen. Hard-hitting
 ## Shannon Larkin Setup
 
 - **Drums:** ddrum Dios Series
-- **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
+- **Cymbals:** Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
 - **Snare:** ddrum Dios 14x6.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, ddrum Throne
 - **Sticks:** Vic Firth American Classic 5B
@@ -67,4 +67,4 @@ A: Jaska Raatikainen was a founding member of Children of Bodom in 1993 and rema
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

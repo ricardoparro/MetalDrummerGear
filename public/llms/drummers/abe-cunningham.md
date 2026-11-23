@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/abe-cunningham"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Abe Cunningham — Drum Kit & Gear Setup
@@ -192,7 +192,7 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Abe Cunningham's snare: Tama Starclassic Maple/Bubinga 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Abe Cunningham's snare: Tama Starclassic Bubinga matching snare (no separate model documented). See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
@@ -210,7 +210,7 @@ Full breakdown: [Abe Cunningham's cymbal setup](https://metalforge.io/cymbals/se
 
 ## Pedal
 
-Abe Cunningham plays a Tama Iron Cobra 900 Rolling Glide double pedal (chain-drive).
+Abe Cunningham plays a Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) double pedal (chain-drive).
 
 Full breakdown: [Abe Cunningham's pedal setup](https://metalforge.io/pedals/setups/abe-cunningham).
 
@@ -243,4 +243,4 @@ Dated brand-endorsement timeline: [Abe Cunningham's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

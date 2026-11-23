@@ -6,7 +6,7 @@ country: "Belgium"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dirk-verbeuren"
 source: "https://metalforge.io"
-last_updated: "2026-11-15"
+last_updated: "2026-11-23"
 ---
 
 # Dirk Verbeuren — Drum Kit & Gear Setup
@@ -196,13 +196,13 @@ Dirk Verbeuren's cymbals: Meinl Byzance Brilliant & Classics Custom Dark Series 
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 14" | Byzance Brilliant | Medium Hi-Hats |
+| hi-hat | 14" | Byzance Brilliant | Hi-Hats |
 | crash | 18" | Classics Custom Dark | Crash |
 | crash | 19" | Classics Custom Dark | Crash |
 | crash | 20" | Classics Custom Dark | Crash |
 | crash | 21" | Classics Custom Dark | Crash |
-| ride | 22" | Byzance Brilliant | HH Ride |
-| china | 18" | Byzance Brilliant | HH China |
+| ride | 22" | Byzance Brilliant | Ride |
+| china | 18" | Byzance Brilliant | China |
 
 Full breakdown: [Dirk Verbeuren's cymbal setup](https://metalforge.io/cymbals/setups/dirk-verbeuren).
 
@@ -242,4 +242,4 @@ Dated brand-endorsement timeline: [Dirk Verbeuren's endorsement history](https:/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

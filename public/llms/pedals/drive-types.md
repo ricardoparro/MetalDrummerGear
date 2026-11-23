@@ -18,7 +18,7 @@ Direct drive pedals were actually the original bass drum pedal design, and they 
 
 ## Why extreme metal gravitates to direct drive
 
-Direct drive's biggest advantage — instant, zero-lag transfer from foot to beater — matters most exactly where extreme metal lives: sustained, maximum-speed single-stroke and blast-beat patterns where even microscopic response lag compounds over hundreds of strokes per minute. That's why Axis, a brand built entirely around direct drive, and Pearl's direct-drive Demon line (Gene Hoglan's Demon Drive, George Kollias's co-designed signature Demon XR, and several black and death metal specialists on both) are the go-to choice for drummers chasing raw, sustained top-end speed, while chain drive remains the comfortable, versatile default for every other style of metal.
+Direct drive's biggest advantage — instant, zero-lag transfer from foot to beater — matters most exactly where extreme metal lives: sustained, maximum-speed single-stroke and blast-beat patterns where even microscopic response lag compounds over hundreds of strokes per minute. That's why Axis, a brand built entirely around direct drive, and Pearl's direct-drive Demon Drive (Gene Hoglan's signature pedal, also used by several black and death metal specialists) are the go-to choice for drummers chasing raw, sustained top-end speed, while chain drive remains the comfortable, versatile default for every other style of metal.
 
 ## Reference Table
 
@@ -26,7 +26,7 @@ Direct drive's biggest advantage — instant, zero-lag transfer from foot to bea
 | --- | --- | --- | --- |
 | Chain drive | Slight flex/give — a natural, slightly cushioned feel most drummers find comfortable. | A small amount of lag exists (every chain link is a point of contact), though it's effectively imperceptible in normal play. | Tama Iron Cobra, Tama Speed Cobra, DW 5000/9000 Series, Pearl Eliminator |
 | Belt drive | Lighter and more responsive underfoot than chain — nylon or composite belts add strength without chain weight. | Faster than chain, won't "collapse" on the upstroke during rapid double strokes the way a slack chain can. | Select Axis and boutique pedal models |
-| Direct drive | Rigid rod, zero slack — the most immediate, "cam-less" connection between footboard and beater. | The fastest and most consistent response of the three, with the least unaccounted-for sideways flex. | Axis (all models), Pearl Demon Drive, Pearl Demon XR, Trick Pro1-V, Trick Bigfoot, DW MDD |
+| Direct drive | Rigid rod, zero slack — the most immediate, "cam-less" connection between footboard and beater. | The fastest and most consistent response of the three, with the least unaccounted-for sideways flex. | Axis (all models), Pearl Demon Drive, Trick Pro1-V, Trick Bigfoot, DW MDD |
 
 *Table source: [Sweetwater InSync — Kick Pedal Drive Types Explained](https://www.sweetwater.com/insync/kick-pedal-drive-types-explained/)*
 
@@ -52,4 +52,4 @@ A: Belt drive is generally lighter and more responsive underfoot than chain driv
 - [Pedals Guide](https://metalforge.io/llms/pedals.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

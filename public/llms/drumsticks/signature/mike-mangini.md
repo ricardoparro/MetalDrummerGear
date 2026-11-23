@@ -41,9 +41,10 @@ A: It's a named signature model — the Vater Mike Mangini's Wicked Piston (VHMM
 
 - [Full signature stick page](https://metalforge.io/drumsticks/signature/mike-mangini)
 - [Mike Mangini's Drummer Profile](https://metalforge.io/drummer/mike-mangini)
+- [Vater Percussion Drumstick Brand Guide](https://metalforge.io/llms/drumsticks/brands/vater.md)
 - [Drumsticks Guide](https://metalforge.io/llms/drumsticks.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 10 Most Brutal Drum Solos in Metal History — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-brutal-drum-solos)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-brutal-drum-solos)
 
 ---
 
@@ -157,13 +157,13 @@ Full drummer profile: [Tomas Haake on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Nile
 **Highlight:** Extreme Speed Demonstrations
-**Why ranked here:** George Kollias holds documented speed records exceeding 280 BPM, making his solo performances the fastest in metal history. His "Intense Metal Drumming" DVD and live demonstrations showcase technical capabilities that push the absolute limits of human ability. Each solo is a masterclass in extreme speed with surgical precision.
-**Technique:** Heel-toe technique, 280+ BPM blast beats, sustained extreme speeds
+**Why ranked here:** George Kollias holds documented speed records exceeding 240 BPM, making his solo performances the fastest in metal history. His "Intense Metal Drumming" DVD and live demonstrations showcase technical capabilities that push the absolute limits of human ability. Each solo is a masterclass in extreme speed with surgical precision.
+**Technique:** Heel-toe technique, 240+ BPM blast beats, sustained extreme speeds
 **Key gear:** Pearl Masterworks Stadium Exotic, Pearl Demon XR pedals (co-designed)
 **Solo duration:** 4-6 minutes
 
 **Notable facts:**
-- Holds documented speed records exceeding 280 BPM
+- Holds documented speed records exceeding 240 BPM
 - Co-designed the Pearl Demon XR double pedal
 - Released the influential "Intense Metal Drumming" instructional DVD
 - Can sustain blast beats for entire songs without tempo drift
@@ -255,4 +255,4 @@ A: Metal drum solos range from 3–4 minute stand-alone pieces (Joey Jordison's 
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

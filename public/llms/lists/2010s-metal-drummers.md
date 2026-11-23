@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 2010s — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2010s-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2010s-metal-drummers)
 
 ---
 
@@ -40,9 +40,9 @@ Full drummer profile: [Matt Halpern on MetalForge](https://metalforge.io/drummer
 
 **Band:** Nile
 **Highlight:** Extreme speed records sustained across an entire decade
-**Why ranked here:** George Kollias continued pushing Nile's Egyptian-themed technical death metal to its physical limits throughout the 2010s, sustaining his documented 280+ BPM blast beat records while releasing "Vile Nilotic Rites" (2019) and further formalizing his technique through ongoing instructional work.
+**Why ranked here:** George Kollias continued pushing Nile's Egyptian-themed technical death metal to its physical limits throughout the 2010s, sustaining his documented 240+ BPM blast beat records while releasing "Vile Nilotic Rites" (2019) and further formalizing his technique through ongoing instructional work.
 
-George Kollias (Nile) earns rank #3 for: extreme speed records sustained across an entire decade. George Kollias continued pushing Nile's Egyptian-themed technical death metal to its physical limits throughout the 2010s, sustaining his documented 280+ BPM blast beat records while releasing "Vile Nilotic Rites" (2019) and further formalizing his technique through ongoing instructional work..
+George Kollias (Nile) earns rank #3 for: extreme speed records sustained across an entire decade. George Kollias continued pushing Nile's Egyptian-themed technical death metal to its physical limits throughout the 2010s, sustaining his documented 240+ BPM blast beat records while releasing "Vile Nilotic Rites" (2019) and further formalizing his technique through ongoing instructional work..
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -145,4 +145,4 @@ A: The most influential 2010s metal drumming albums include: Animals as Leaders'
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

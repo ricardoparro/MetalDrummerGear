@@ -1,6 +1,6 @@
 # Top 10 Brutal Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/brutal-death-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/brutal-death-metal-drummers)
 
 ---
 
@@ -69,10 +69,10 @@ Full drummer profile: [Paul Mazurkiewicz on MetalForge](https://metalforge.io/dr
 ### 6. George Kollias
 
 **Band:** Nile
-**Highlight:** Technical brutality at 280+ BPM
+**Highlight:** Technical brutality at 240+ BPM
 **Why ranked here:** George Kollias brings Nile's technical death metal complexity into brutal death metal territory with blast beat speed and stamina that few drummers in the genre can sustain
 
-George Kollias (Nile) earns rank #6 for: technical brutality at 280+ bpm. George Kollias brings Nile's technical death metal complexity into brutal death metal territory with blast beat speed and stamina that few drummers in the genre can sustain.
+George Kollias (Nile) earns rank #6 for: technical brutality at 240+ bpm. George Kollias brings Nile's technical death metal complexity into brutal death metal territory with blast beat speed and stamina that few drummers in the genre can sustain.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -121,7 +121,7 @@ Full drummer profile: [Richard Christy on MetalForge](https://metalforge.io/drum
 ## Frequently Asked Questions
 
 **Q: Who are the fastest brutal death metal drummers?**
-A: Derek Roddy is widely considered the fastest brutal death metal drummer, with a reputation for sustaining blast beats at speeds that push the physical limits of human drumming. Tim Yeung and Flo Mounier are frequently cited alongside him — Flo Mounier's performance on Cryptopsy's "None So Vile" remains a benchmark recording for raw drumming speed. George Kollias's work with Nile is also commonly cited for sustained 280+ BPM blast beat endurance.
+A: Derek Roddy is widely considered the fastest brutal death metal drummer, with a reputation for sustaining blast beats at speeds that push the physical limits of human drumming. Tim Yeung and Flo Mounier are frequently cited alongside him — Flo Mounier's performance on Cryptopsy's "None So Vile" remains a benchmark recording for raw drumming speed. George Kollias's work with Nile is also commonly cited for sustained 240+ BPM blast beat endurance.
 
 **Q: Who is the best brutal death metal drummer of all time?**
 A: Derek Roddy is the most commonly cited answer, combining record-setting blast beat speed with the technical control to keep brutal death metal's chaos musically coherent across Hate Eternal and Nile. Paul Mazurkiewicz is the alternative answer for longevity and genre-defining consistency, having anchored Cannibal Corpse — brutal death metal's most commercially successful band — since 1988.
@@ -144,4 +144,4 @@ A: Brutal death metal drummers typically favor durable, high-performance kits bu
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

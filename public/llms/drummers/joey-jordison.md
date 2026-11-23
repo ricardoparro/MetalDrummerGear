@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/joey-jordison"
 source: "https://metalforge.io"
-last_updated: "2026-11-10"
+last_updated: "2026-11-23"
 ---
 
 # Joey Jordison — Drum Kit & Gear Setup
@@ -141,11 +141,11 @@ A: Joey wore mask #1 in Slipknot, a Kabuki-style Japanese mask.
 
 **Q: What drum set did Joey Jordison use?**
 
-A: Joey Jordison used a Pearl Masters Premium Maple drum set during his Slipknot career. The drum set was configured with his signature Pearl Joey Jordison 13"×6.5" snare — smaller than the standard 14" for faster machine-gun fills — paired with Paiste RUDE Series cymbals and Pearl Demon Drive double bass pedals. He later transitioned to a Pearl Reference Pure kit for his side projects.
+A: Joey Jordison used a Pearl Reference Series drum set during his Slipknot career. The drum set was configured with his signature Pearl Joey Jordison 13"×6.5" snare — smaller than the standard 14" for faster machine-gun fills — paired with Paiste RUDE Series cymbals and Pearl Demon Drive double bass pedals. He later transitioned to a Pearl Reference Pure kit for his side projects.
 
 **Q: What was Joey Jordison's drum kit?**
 
-A: Joey Jordison's drum kit during his peak Slipknot era was a Pearl Masters Premium Maple configuration, centred on his signature 13"×6.5" Pearl Joey Jordison snare drum. Pearl Demon Drive double bass pedals powered his extreme blast beats. Paiste RUDE Series cymbals — 14" hi-hats, 18" & 19" crashes, 20" Chinas, and a 22" Power Ride — completed the kit.
+A: Joey Jordison's drum kit during his peak Slipknot era was a Pearl Reference Series configuration, centred on his signature 13"×6.5" Pearl Joey Jordison snare drum. Pearl Demon Drive double bass pedals powered his extreme blast beats. Paiste RUDE Series cymbals — 14" hi-hats, 18" & 19" crashes, 20" Chinas, and a 22" Power Ride — completed the kit.
 
 **Q: What cymbals did Joey Jordison use?**
 
@@ -246,4 +246,4 @@ Dated brand-endorsement timeline: [Joey Jordison's endorsement history](https://
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-11-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

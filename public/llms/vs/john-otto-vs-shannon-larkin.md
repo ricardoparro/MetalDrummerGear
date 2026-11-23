@@ -1,6 +1,6 @@
 # John Otto vs Shannon Larkin — Drum Kit Comparison
 
-> Side-by-side gear comparison between John Otto (Limp Bizkit) and Shannon Larkin (Godsmack / Ugly Kid Joe / Wrathchild America).
+> Side-by-side gear comparison between John Otto (Limp Bizkit) and Shannon Larkin (ex-Godsmack / Ugly Kid Joe / Wrathchild America).
 
 **Category:** Alternative / Nu-Metal · **URL:** https://metalforge.io/vs/john-otto-vs-shannon-larkin
 
@@ -19,7 +19,7 @@ Limp Bizkit's John Otto vs Godsmack's Shannon Larkin. Nu-metal groove drumming c
 ## Shannon Larkin Setup
 
 - **Drums:** ddrum Dios Series
-- **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
+- **Cymbals:** Sabian AAX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
 - **Snare:** ddrum Dios 14x6.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, ddrum Throne
 - **Sticks:** Vic Firth American Classic 5B
@@ -67,4 +67,4 @@ A: Shannon Larkin has played with Wrathchild America, Ugly Kid Joe, Another Anim
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

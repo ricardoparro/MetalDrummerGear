@@ -24,7 +24,7 @@ This article explores the gear Abe used during the Saturday Night Wrist sessions
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Starclassic Maple/Birch (Custom finish finish)
+- **Drums:** Tama Tama Starclassic (Custom finish finish)
 - **Snare:** Tama Tama Steel / Brass Snare, 14" x 6.5"
 - **Cymbals:** Zildjian — A Custom / K Custom
 - **Hardware / Pedals:** Tama Iron Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark (non-signature)
@@ -33,7 +33,7 @@ This article explores the gear Abe used during the Saturday Night Wrist sessions
 
 ### Abe's Saturday Night Wrist Era Kit: Tama Starclassic
 
-For the Saturday Night Wrist sessions, Abe Cunningham continued his longstanding partnership with Tama, using the Starclassic Maple/Birch hybrid kit that reflected his evolving preferences during this era. The maple and birch shell combination provided a balance between warmth and attack that suited the album's wide sonic range — from the dreamy atmospherics of "Cherry Waves" to the angular aggression of "Beware."
+For the Saturday Night Wrist sessions, Abe Cunningham continued his longstanding partnership with Tama, using a Starclassic kit that suited the album's wide sonic range — from the dreamy atmospherics of "Cherry Waves" to the angular aggression of "Beware."
 
 The kit's core configuration remained unchanged from the [Around the Fur](/articles/around-the-fur-drum-setup) years: a single 22-inch bass drum, two rack toms (10 and 12 inch), and two floor toms (14 and 16 inch). This consistency reflects Abe's fundamental philosophy — the same minimal, focused setup maintained throughout his career, trusting that good playing on a focused kit beats having more drums to hide behind.
 
@@ -97,19 +97,19 @@ Then listen to the whole album, with the knowledge of what came after. Saturday 
 - Singles 'Hole in the Earth' and 'Cherry Waves' were immediate fan favorites
 - Zildjian A Custom / K Custom cymbal setup carries through, consistent with the rest of his catalog
 - Final full Deftones studio album featuring Chi Cheng on bass
-- Tama Starclassic Maple/Birch — warmth with focused attack
+- Tama Starclassic — warmth with focused attack
 - Consistent single 22" bass drum across all sessions
 - Multiple production teams created some sonic variation across tracks
 - Same fundamental 4-tom configuration maintained throughout career
 - Built to handle both studio sessions and major festival touring
-- Estimated kit value: $3,000-5,000 (2006 era Starclassic Maple/Birch shell pack)
+- Estimated kit value: $3,000-5,000 (2006 era Starclassic shell pack)
 - Estimated snare value: $250-400 (2006 era Tama steel/brass snare)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit did Abe Cunningham use on Saturday Night Wrist?**
 
-A: Abe Cunningham recorded Saturday Night Wrist in 2005-2006 using a Tama Starclassic Maple/Birch hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. This consistent configuration, which Abe maintained throughout his career with Deftones, provided the focused, warm tone that suited both the album's heavier sections and its atmospheric, dreamy passages.
+A: Abe Cunningham recorded Saturday Night Wrist in 2005-2006 using a Tama Starclassic kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. This consistent configuration, which Abe maintained throughout his career with Deftones, provided the focused, warm tone that suited both the album's heavier sections and its atmospheric, dreamy passages.
 
 **Q: What Deftones album followed the White Pony era?**
 
@@ -140,4 +140,4 @@ A: Yes — Saturday Night Wrist (2006) is the last Deftones studio album to feat
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

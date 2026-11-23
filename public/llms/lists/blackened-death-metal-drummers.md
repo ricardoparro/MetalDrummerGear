@@ -1,6 +1,6 @@
 # Top 10 Blackened Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/blackened-death-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/blackened-death-metal-drummers)
 
 ---
 
@@ -69,10 +69,10 @@ Full drummer profile: [Frost on MetalForge](https://metalforge.io/drummer/frost)
 ### 6. George Kollias
 
 **Band:** Nile
-**Highlight:** 280+ BPM — Nile's scholarly blackened death metal extremity
-**Why ranked here:** George Kollias's documented 280+ BPM blast beats power Nile's Egyptian-themed blackened death metal through some of the genre's most compositionally complex arrangements — extreme speed serving scholarly musical ambition in the most demanding blackened death metal context
+**Highlight:** 240+ BPM — Nile's scholarly blackened death metal extremity
+**Why ranked here:** George Kollias's documented 240+ BPM blast beats power Nile's Egyptian-themed blackened death metal through some of the genre's most compositionally complex arrangements — extreme speed serving scholarly musical ambition in the most demanding blackened death metal context
 
-George Kollias (Nile) earns rank #6 for: 280+ bpm — nile's scholarly blackened death metal extremity. George Kollias's documented 280+ BPM blast beats power Nile's Egyptian-themed blackened death metal through some of the genre's most compositionally complex arrangements — extreme speed serving scholarly musical ambition in the most demanding blackened death metal context.
+George Kollias (Nile) earns rank #6 for: 240+ bpm — nile's scholarly blackened death metal extremity. George Kollias's documented 240+ BPM blast beats power Nile's Egyptian-themed blackened death metal through some of the genre's most compositionally complex arrangements — extreme speed serving scholarly musical ambition in the most demanding blackened death metal context.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -90,9 +90,9 @@ Full drummer profile: [Flo Mounier on MetalForge](https://metalforge.io/drummer/
 
 **Band:** Hate Eternal / Nile
 **Highlight:** "One Take" discipline — Hate Eternal's recording precision
-**Why ranked here:** Derek Roddy's reputation for recording entire blackened death metal albums in single takes represents extreme discipline in its most demanding form — his 260+ BPM swivel technique and "Evolution of Blast Beats" instructional work make him the genre's most systematically documented practitioner
+**Why ranked here:** Derek Roddy's reputation for recording entire blackened death metal albums in single takes represents extreme discipline in its most demanding form — his swivel technique and "Evolution of Blast Beats" instructional work make him the genre's most systematically documented practitioner
 
-Derek Roddy (Hate Eternal / Nile) earns rank #8 for: "one take" discipline — hate eternal's recording precision. Derek Roddy's reputation for recording entire blackened death metal albums in single takes represents extreme discipline in its most demanding form — his 260+ BPM swivel technique and "Evolution of Blast Beats" instructional work make him the genre's most systematically documented practitioner.
+Derek Roddy (Hate Eternal / Nile) earns rank #8 for: "one take" discipline — hate eternal's recording precision. Derek Roddy's reputation for recording entire blackened death metal albums in single takes represents extreme discipline in its most demanding form — his swivel technique and "Evolution of Blast Beats" instructional work make him the genre's most systematically documented practitioner.
 
 Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
@@ -141,4 +141,4 @@ A: Blackened death metal drummers require equipment built for sustained extreme 
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

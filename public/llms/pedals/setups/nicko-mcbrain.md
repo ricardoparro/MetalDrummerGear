@@ -6,18 +6,18 @@
 
 ## Direct Answer
 
-Nicko McBrain plays a Single Bass Drum Pedal.
+Nicko McBrain plays a DW 5000 Series single pedal.
 
 ## Pedal Breakdown
 
 | Field | Value |
 |-------|-------|
-| Brand | — |
-| Model | — |
+| Brand | DW |
+| Model | 5000 Series |
 | Configuration | single |
 | Drive Type | — |
 
-Verified roster hardware entry: "Single Bass Drum Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "DW 5000 Series Single Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
@@ -26,7 +26,7 @@ Verified roster hardware entry: "Single Bass Drum Pedal." Source: roster gear.ha
 ## FAQ
 
 **Q: What pedals does Nicko McBrain use?**
-A: Nicko McBrain plays a Single Bass Drum Pedal.
+A: Nicko McBrain plays a DW 5000 Series single pedal.
 
 ## More Resources
 
@@ -37,4 +37,4 @@ A: Nicko McBrain plays a Single Bass Drum Pedal.
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

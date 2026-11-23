@@ -13,7 +13,7 @@ Gojira's Mario Duplantier vs Periphery's Matt Halpern. French eco-metal groove v
 - **Drums:** Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom)
 - **Cymbals:** Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas)
 - **Snare:** Tama S.L.P. 14x6.5" G-Maple
-- **Pedals/Hardware:** Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne
+- **Pedals/Hardware:** Tama Iron Cobra 900 Power Glide Single Pedal (x2 — one per bass drum), Tama 1st Chair Ergo-Rider Throne
 - **Sticks:** Tama Mario Duplantier Signature
 
 ## Matt Halpern Setup
@@ -67,4 +67,4 @@ A: Mario Duplantier is the drummer and co-founder of Gojira, the French progress
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

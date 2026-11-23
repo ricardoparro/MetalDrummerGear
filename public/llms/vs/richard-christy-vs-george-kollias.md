@@ -19,8 +19,8 @@ Death's Richard Christy vs Nile's George Kollias — two technical death metal b
 ## George Kollias Setup
 
 - **Drums:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
-- **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
-- **Snare:** Pearl George Kollias Signature 14x6.5"
+- **Cymbals:** Zildjian A Custom Series
+- **Snare:** Pearl (specific model not independently verified)
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
 - **Sticks:** Vic Firth
 
@@ -67,4 +67,4 @@ A: Yes — George Kollias is one of extreme metal's most prominent drumming educ
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

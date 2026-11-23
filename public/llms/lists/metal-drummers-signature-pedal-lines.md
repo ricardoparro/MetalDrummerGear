@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers' Signature & Standout Pedal Lines — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-pedal-lines)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-pedal-lines)
 
 ---
 
@@ -32,9 +32,9 @@ Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drumm
 
 **Band:** Hate Eternal / Nile
 **Highlight:** Tama Speed Cobra 910 — built around an invented technique, not co-designed
-**Why ranked here:** Derek Roddy pairs the Tama Speed Cobra 910 Double Pedal with the swivel technique he developed himself, a combination that let him push blast beat speed past 260 BPM and record entire albums in single takes without punch-ins or editing across his Malevolent Creation, Hate Eternal, and Nile stints. The Speed Cobra 910 is an existing catalog model rather than a bespoke Roddy design, but the pairing of that specific pedal with his self-invented technique is as documented and identity-defining as any true signature product on this list. Roddy earns rank #2 for a pedal choice inseparable from a technique he personally invented.
+**Why ranked here:** Derek Roddy pairs the Tama Speed Cobra 910 Double Pedal with the swivel technique he developed himself, a combination that let him push blast beat speed to new extremes and record entire albums in single takes without punch-ins or editing across his Malevolent Creation, Hate Eternal, and Nile stints. The Speed Cobra 910 is an existing catalog model rather than a bespoke Roddy design, but the pairing of that specific pedal with his self-invented technique is as documented and identity-defining as any true signature product on this list. Roddy earns rank #2 for a pedal choice inseparable from a technique he personally invented.
 
-Derek Roddy (Hate Eternal / Nile) earns rank #2 for: tama speed cobra 910 — built around an invented technique, not co-designed. Derek Roddy pairs the Tama Speed Cobra 910 Double Pedal with the swivel technique he developed himself, a combination that let him push blast beat speed past 260 BPM and record entire albums in single takes without punch-ins or editing across his Malevolent Creation, Hate Eternal, and Nile stints. The Speed Cobra 910 is an existing catalog model rather than a bespoke Roddy design, but the pairing of that specific pedal with his self-invented technique is as documented and identity-defining as any true signature product on this list. Roddy earns rank #2 for a pedal choice inseparable from a technique he personally invented..
+Derek Roddy (Hate Eternal / Nile) earns rank #2 for: tama speed cobra 910 — built around an invented technique, not co-designed. Derek Roddy pairs the Tama Speed Cobra 910 Double Pedal with the swivel technique he developed himself, a combination that let him push blast beat speed to new extremes and record entire albums in single takes without punch-ins or editing across his Malevolent Creation, Hate Eternal, and Nile stints. The Speed Cobra 910 is an existing catalog model rather than a bespoke Roddy design, but the pairing of that specific pedal with his self-invented technique is as documented and identity-defining as any true signature product on this list. Roddy earns rank #2 for a pedal choice inseparable from a technique he personally invented..
 
 Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
@@ -132,7 +132,7 @@ A: A bass drum pedal is mechanically far more complex than a snare shell or a dr
 A: Nicko McBrain has used only a single bass drum and single pedal throughout his entire 40-plus year Iron Maiden career, achieving the band's galloping speed through foot technique alone. Bill Ward built Black Sabbath's entire foundational sound the same way, relying on a single Ludwig Speed King pedal without ever adopting a double kick. Both are proof that extreme speed in metal doesn't strictly require a second kick drum.
 
 **Q: What is the difference between Derek Roddy's and Tomas Haake's unconventional pedal setups?**
-A: Derek Roddy pairs a standard Tama Speed Cobra 910 Double Pedal with his own invented swivel technique, using an existing catalog pedal in a self-developed way to push blast beat speed past 260 BPM. Tomas Haake takes a different unconventional approach entirely, running two independent single Tama Speed Cobra pedals rather than a linked double pedal, giving him fully separate control over each foot for Meshuggah's polyrhythmic material. Neither setup is a co-designed signature product — both are standard pedals used in genuinely unusual configurations.
+A: Derek Roddy pairs a standard Tama Speed Cobra 910 Double Pedal with his own invented swivel technique, using an existing catalog pedal in a self-developed way to push blast beat speed to new extremes. Tomas Haake takes a different unconventional approach entirely, running two independent single Tama Speed Cobra pedals rather than a linked double pedal, giving him fully separate control over each foot for Meshuggah's polyrhythmic material. Neither setup is a co-designed signature product — both are standard pedals used in genuinely unusual configurations.
 
 
 ---
@@ -140,7 +140,7 @@ A: Derek Roddy pairs a standard Tama Speed Cobra 910 Double Pedal with his own i
 ## Related Lists
 
 - [Top 9 Metal Drummers' Signature Drumstick Models](https://metalforge.io/lists/metal-drummers-signature-drumstick-models) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-drumstick-models.md)
-- [Top 7 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
+- [Top 9 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 - [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers) — [LLM Reference](https://metalforge.io/llms/lists/fastest-double-bass-drummers.md)
 
 ## More Resources
@@ -152,4 +152,4 @@ A: Derek Roddy pairs a standard Tama Speed Cobra 910 Double Pedal with his own i
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

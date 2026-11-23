@@ -31,7 +31,7 @@ Mikkey Dee is one of Heavy Metal / Hard Rock's most influential drummers, best k
 
 ### Gear Used
 
-- Tama Artstar II/Swingstar Kit (drums)
+- Sonor SQ2 (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
 - Wincent Mikkey Dee Signature (sticks)
@@ -61,7 +61,7 @@ Mikkey Dee is one of Heavy Metal / Hard Rock's most influential drummers, best k
 
 ### Gear Used
 
-- Tama Artstar II/Swingstar Kit (drums)
+- Sonor SQ2 (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
 - Wincent Mikkey Dee Signature (sticks)
@@ -91,7 +91,7 @@ Mikkey Dee is one of Heavy Metal / Hard Rock's most influential drummers, best k
 
 ### Gear Used
 
-- Tama Artstar II/Swingstar Kit (drums)
+- Sonor SQ2 (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
 - Wincent Mikkey Dee Signature (sticks)
@@ -121,7 +121,7 @@ When Mikkey Dee joined Motörhead in 1992, he brought a technical pedigree that 
 
 ### Gear Used
 
-- Tama Artstar II/Swingstar Kit (drums)
+- Sonor SQ2 (drums)
 - Paiste Cymbals (cymbals)
 - Sonor Double Pedal (hardware)
 - Wincent Mikkey Dee Signature (sticks)
@@ -151,7 +151,7 @@ When Mikkey Dee joined Motörhead in 1992, he brought a technical pedigree that 
 
 ### Gear Used
 
-- Tama Artstar II/Swingstar Kit (drums)
+- Sonor SQ2 (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
 - Wincent Mikkey Dee Signature (sticks)
@@ -181,7 +181,7 @@ The double-bass pattern on "Overkill" is one of the most influential drum parts 
 
 ### Gear Used
 
-- Tama Artstar II/Swingstar Kit (drums)
+- Sonor SQ2 (drums)
 - Paiste Cymbals (cymbals)
 - Yamaha FP9 Double Pedal (hardware)
 - Wincent Mikkey Dee Signature (sticks)
@@ -201,4 +201,4 @@ Mikkey Dee's style is defined by precision, timing, and genre-defining grooves. 
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

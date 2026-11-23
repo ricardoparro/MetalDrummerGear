@@ -13,9 +13,16 @@
 
 - **Power series:** Extra-thick, extra-durable models aimed at hard-hitting players — check vater.com for the current lineup, since exact model names and specs change over time.
 
-## Confirmed Metal Drummers (0)
+## Confirmed Metal Drummers (4)
 
-We haven't verified a Vater Percussion drumstick played by one of our mapped metal drummers yet. That's a gap in our research, not a claim that no metal drummer plays Vater Percussion — endorsements are only added here once a brand, retailer, or artist page confirms the pairing.
+| Drummer | Band | Drumstick |
+|---------|------|-----------|
+| [Brann Dailor](https://metalforge.io/drumsticks/signature/brann-dailor) | Mastodon | Vater 5B Wood Tip (Hickory, 5B) |
+| [Derek Roddy](https://metalforge.io/drumsticks/signature/derek-roddy) | Hate Eternal / Nile | Vater 5B (Hickory, 5B) |
+| [Jay Weinberg](https://metalforge.io/drumsticks/signature/jay-weinberg) | ex-Slipknot / Suicidal Tendencies | Vater 908 (Hickory, Signature (blends 5A/5B)) |
+| [Mike Mangini](https://metalforge.io/drumsticks/signature/mike-mangini) | Godsmack (2026-present); Dream Theater (2010-2023) | Vater Mike Mangini's Wicked Piston (VHMMWP) (Hickory, Signature) |
+
+These 4 entries are pulled directly from MetalForge's verified drumsticks database — each one cites a brand or retailer source and is cross-referenced to the drummer's profile, never guessed from a photo or a forum post.
 
 Source: [Vater Percussion — company background (Wikipedia)](https://en.wikipedia.org/wiki/Vater_Percussion).
 
@@ -29,7 +36,7 @@ See the complete history for Vater Percussion: [/brands/vater](https://metalforg
 A: Vater positions itself as a premium, 100%-USA-manufactured alternative to the larger stick makers, built on straightness and batch-to-batch consistency. That consistency pitch — every pair playing identically — is part of why it has a following among hard-hitting rock and metal drummers who don't want their feel changing from pack to pack.
 
 **Q: Which metal drummers play Vater Percussion drumsticks?**
-A: No drummer on our verified roster currently has a confirmed Vater Percussion endorsement or signature model — see the Notable Lines section above for what the brand offers metal-leaning players.
+A: On our verified roster: Brann Dailor, Derek Roddy, Jay Weinberg, Mike Mangini. See the table above for the exact model each drummer plays.
 
 **Q: What are Vater Percussion's most metal-relevant drumstick lines?**
 A: Power series. Full descriptions are in the Notable Lines section above.
@@ -62,4 +69,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Vater 
 
 ---
 
-*Last updated: 2026-11-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -24,9 +24,9 @@ Nicko McBrain endorses Vic Firth for drumsticks. They play the Vic Firth Nicko M
 
 Nicko McBrain endorses Remo for drumheads. This partnership began in 1984.
 
-### Hardware / Pedals: unconfirmed
+### Hardware / Pedals: DW
 
-Nicko McBrain endorses unconfirmed for hardware / pedals. They play the unconfirmed Single Pedal (not double bass). This partnership began in 1984.
+Nicko McBrain endorses DW for hardware / pedals. They play the DW 5000 Series Single Pedal. This partnership began in 1984.
 
 ## Endorsement History
 
@@ -39,7 +39,7 @@ Nicko McBrain endorses unconfirmed for hardware / pedals. They play the unconfir
 ## FAQ
 
 **Q: What brands does Nicko McBrain endorse?**
-A: Nicko McBrain endorses British Drum Co., Paiste, Vic Firth, Remo, unconfirmed. Their primary drum endorsement is British Drum Co. and they play Paiste cymbals.
+A: Nicko McBrain endorses British Drum Co., Paiste, Vic Firth, Remo, DW. Their primary drum endorsement is British Drum Co. and they play Paiste cymbals.
 
 **Q: Does Nicko McBrain have a signature drum or cymbal?**
 A: Nicko McBrain is a key British Drum Co. endorser but does not have a dedicated signature kit model in the current lineup.
@@ -57,4 +57,4 @@ A: See the Endorsement History section above for a full timeline of Nicko McBrai
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

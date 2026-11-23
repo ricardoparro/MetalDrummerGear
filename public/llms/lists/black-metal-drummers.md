@@ -1,6 +1,6 @@
 # Top 10 Black Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-11-14 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/black-metal-drummers)
+> **Last updated:** 2026-11-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/black-metal-drummers)
 
 ---
 
@@ -110,9 +110,9 @@ Full drummer profile: [Martin Lopez on MetalForge](https://metalforge.io/drummer
 
 **Band:** Nile
 **Highlight:** Extreme metal speed master
-**Why ranked here:** Nile's 280+ BPM technical extreme metal speed with the ferocity of black metal intensity
+**Why ranked here:** Nile's 240+ BPM technical extreme metal speed with the ferocity of black metal intensity
 
-George Kollias (Nile) earns rank #10 for: extreme metal speed master. Nile's 280+ BPM technical extreme metal speed with the ferocity of black metal intensity.
+George Kollias (Nile) earns rank #10 for: extreme metal speed master. Nile's 240+ BPM technical extreme metal speed with the ferocity of black metal intensity.
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
@@ -132,4 +132,4 @@ Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drumm
 
 ---
 
-*Last updated: 2026-11-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,12 +1,12 @@
 # What Pedals Does Mario Duplantier Use? Full Setup
 
-**Band:** Gojira | **Configuration:** double | **Drive Type:** chain
+**Band:** Gojira | **Configuration:** single | **Drive Type:** chain
 
 ---
 
 ## Direct Answer
 
-Mario Duplantier plays a Tama Iron Cobra 900 Power Glide double pedal (chain-drive).
+Mario Duplantier plays Tama Iron Cobra 900 Power Glide single pedals (x2) (chain-drive).
 
 ## Pedal Breakdown
 
@@ -14,20 +14,20 @@ Mario Duplantier plays a Tama Iron Cobra 900 Power Glide double pedal (chain-dri
 |-------|-------|
 | Brand | Tama |
 | Model | Iron Cobra 900 Power Glide |
-| Configuration | double |
+| Configuration | single |
 | Drive Type | chain |
 
-Verified roster hardware entry: "Tama Iron Cobra 900 Power Glide Double Pedal." Source: roster gear.hardware (verified: true; sources on the drummer record).
+Verified roster hardware entry: "Tama Iron Cobra 900 Power Glide Single Pedal (x2)." Source: roster gear.hardware (verified: true; sources on the drummer record).
 
 ## Setup Context
 
 - Chain drive: Slight flex/give — a natural, slightly cushioned feel most drummers find comfortable. A small amount of lag exists (every chain link is a point of contact), though it's effectively imperceptible in normal play.
-- Double pedal: A primary pedal mounted on the hoop plus a slave pedal, linked by a drive shaft that runs along the floor and turns a second beater on the same head. Best suited to blast beats, sustained sixteenth-note kick patterns, and virtually every other modern metal subgenre.
+- Single pedal: One footboard, one beater, mounted directly on the bass drum hoop. Best suited to doom, traditional heavy metal, and groove-focused metal where two feet aren't needed for the pattern.
 
 ## FAQ
 
 **Q: What pedals does Mario Duplantier use?**
-A: Mario Duplantier plays a Tama Iron Cobra 900 Power Glide double pedal (chain-drive).
+A: Mario Duplantier plays Tama Iron Cobra 900 Power Glide single pedals (x2) (chain-drive).
 
 ## More Resources
 
@@ -38,4 +38,4 @@ A: Mario Duplantier plays a Tama Iron Cobra 900 Power Glide double pedal (chain-
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

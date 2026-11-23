@@ -41,9 +41,10 @@ A: It's a named signature model — the Wincent Mikkey Dee Signature (W-MDS) is 
 
 - [Full signature stick page](https://metalforge.io/drumsticks/signature/mikkey-dee)
 - [Mikkey Dee's Drummer Profile](https://metalforge.io/drummer/mikkey-dee)
+- [Wincent Drumstick Brand Guide](https://metalforge.io/llms/drumsticks/brands/wincent.md)
 - [Drumsticks Guide](https://metalforge.io/llms/drumsticks.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
 ---
 
-*Last updated: 2026-10-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

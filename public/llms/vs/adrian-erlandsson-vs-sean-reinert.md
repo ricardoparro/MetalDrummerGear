@@ -14,7 +14,7 @@ At the Gates' Adrian Erlandsson vs Death/Cynic's Sean Reinert — two drummers w
 - **Cymbals:** Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)
 - **Snare:** Tama Starclassic Bubinga 14x6.5"
 - **Pedals/Hardware:** Monolit Czarcie Kopyto Double Pedal
-- **Sticks:** Vic Firth Rock Nylon Tip (At the Gates Signature)
+- **Sticks:** Vic Firth American Classic Rock Nylon Tip (ROCKN)
 
 ## Sean Reinert Setup
 
@@ -67,4 +67,4 @@ A: No. Sean Reinert's core bands were Death and Cynic; Adrian Erlandsson's core 
 
 ---
 
-*Last updated: 2026-11-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-23 · Source: [MetalForge.io](https://metalforge.io)*

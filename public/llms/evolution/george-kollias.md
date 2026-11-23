@@ -48,7 +48,7 @@ Before joining Nile, George Kollias honed his extreme technique in the Athens me
 George Kollias joined Nile in 2004 and immediately delivered one of the most technically impressive death metal drum performances ever recorded. His Pearl endorsement began here, giving him a professional kit capable of withstanding extreme international touring. The Annihilation of the Wicked performance set a new benchmark for death metal drumming — speed, precision, and musicality combined at a level the genre had not previously seen.
 
 - **Drums:** Pearl Reference Series (maple/birch hybrid) — 22" kick, 10"/12"/14"/16" toms *(switch — Pearl endorsement begins)*
-- **Snare:** Pearl Free-Floating Steel 14"×6.5" *(switch — explosive attack for ultra-fast snare work)*
+- **Snare:** Pearl (specific model not independently verified) *(switch — Pearl endorsement confirmed, specific snare model not documented by any cited source)*
 - **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China *(continued — consistent cymbal partnership since the Greek underground years)*
 - **Hardware:** Tama Iron Cobra HP900 Double Pedal *(continued — unchanged through the brand switch)*
 - **Sticks:** Vic Firth 5B hickory (pre-signature era)
@@ -72,7 +72,7 @@ George Kollias joined Nile in 2004 and immediately delivered one of the most tec
 George Kollias's technical and artistic peak. Those Whom the Gods Detest and At the Gate of Sethu cemented his status as the most precise drummer in death metal, while his solo album Invictus (2009) proved he was also a sophisticated composer and arranger. His first signature Vic Firth drumsticks arrived during this era — designed for durability at elite blast beat speeds.
 
 - **Drums:** Pearl Masterworks Series (all-maple shells) — 22" kick, 8"/10"/12"/14"/16" toms *(upgrade — warmer, more resonant tone for dense Nile arrangements)*
-- **Snare:** Pearl Free-Floating Steel 14"×6.5" *(continued — consistent snare across multiple album cycles)*
+- **Snare:** Pearl (specific model not independently verified) *(continued — Pearl endorsement confirmed, specific snare model not documented by any cited source)*
 - **Cymbals:** Zildjian A Custom Series (full configuration) — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China
 - **Hardware:** Tama Iron Cobra HP900 Double Pedal *(continued — central to his blast beat precision)*
 - **Sticks:** Vic Firth George Kollias Signature *(signature — first GK signature, engineered for extreme blast beat speeds)*
@@ -98,7 +98,7 @@ George Kollias's technical and artistic peak. Those Whom the Gods Detest and At 
 In the modern era, Kollias has refined his setup to an elite standard that reflects 20+ years of incremental precision. What Should Not Be Unearthed (2015) and Vile Nilotic Rites (2019) represent his most mature Nile work, while his second solo album Labyrinth of Chaos (2018) expanded his compositional voice. His drum clinics worldwide have established him as the preeminent educator in extreme metal technique.
 
 - **Drums:** Pearl Masterworks Series — 22" kick, 8"/10"/12"/14"/16" toms, custom finish *(current primary kit, custom specs developed over 10+ years)*
-- **Snare:** Pearl Free-Floating Steel 14"×6.5" *(consistent — decade-plus snare of choice)*
+- **Snare:** Pearl (specific model not independently verified) *(consistent — Pearl endorsement confirmed, specific snare model not documented by any cited source)*
 - **Cymbals:** Zildjian — 14" K Mastersound Hi-Hats, 17"/18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China *(current live and studio configuration)*
 - **Hardware:** Pearl Demon XR Double Pedal *(current pedal, co-designed with Pearl for extreme-speed applications)*
 - **Sticks:** Vic Firth (no specific signature model documented)

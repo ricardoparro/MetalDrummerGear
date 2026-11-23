@@ -24,7 +24,7 @@ Each comparison row covers:
 ## Example Comparisons
 
 - **Lars Ulrich vs Dave Lombardo** — both on Tama shells but different cymbal lines (Zildjian vs Paiste)
-- **George Kollias vs Pete Sandoval** — death metal speed demons, Pearl vs Pearl, Zildjian vs custom
+- **George Kollias vs Pete Sandoval** — death metal speed demons, Pearl vs ddrum, Zildjian vs custom
 - **Mike Portnoy vs Danny Carey** — progressive giants on Tama vs Sonor, Sabian vs Paiste
 - **Joey Jordison vs Jay Weinberg** — two Slipknot eras, Pearl vs SJC, Paiste vs Zildjian
 

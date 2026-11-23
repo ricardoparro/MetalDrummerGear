@@ -85,7 +85,7 @@ A: Tune the kick for punchy, defined attack, keep the snare high-tension with mi
 A: Adrian Erlandsson co-founded At the Gates (1990-present), founded The Haunted (1996-1999, rejoined 2013-present), played in Cradle of Filth (1999-2006), and drummed for Paradise Lost (2009-2016) — often juggling multiple active bands at once. He is the brother of Arch Enemy's Daniel Erlandsson.
 
 **Q: Is Adrian Erlandsson related to Daniel Erlandsson?**  
-A: Yes — Adrian and Daniel Erlandsson are brothers, both prominent drummers from the same Gothenburg, Sweden melodic death metal scene. Adrian plays with At the Gates (and previously The Haunted and Cradle of Filth), while Daniel has been Arch Enemy's drummer since 2005. The two brothers independently shaped Gothenburg's rhythmic vocabulary from different angles — Adrian's D-beat foundation, Daniel's blast-beat precision.
+A: Yes — Adrian and Daniel Erlandsson are brothers, both prominent drummers from the same Gothenburg, Sweden melodic death metal scene. Adrian plays with At the Gates (and previously The Haunted and Cradle of Filth), while Daniel has been Arch Enemy's founding drummer since 1995. The two brothers independently shaped Gothenburg's rhythmic vocabulary from different angles — Adrian's D-beat foundation, Daniel's blast-beat precision.
 
 ---
 

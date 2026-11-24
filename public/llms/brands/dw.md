@@ -7,7 +7,6 @@ DW (Drum Workshop) is an American drum manufacturer founded in 1972 in Oxnard, C
 - George Kollias (Nile) — DW Collectors Series; co-uses Pearl Masterworks for live performances
 - Art Cruz (Lamb of God) — Ludwig Drums (current) with DW 9000 hardware; previously DW kits
 - Navene Koperweis (Entheos, ex-Animals as Leaders) — DW Collectors Series; DW 9000 Double Pedal
-- Bill Ward (Black Sabbath) — Ludwig Classic Maple (current); DW hardware used extensively
 - Hannes Grossmann (Obscura, ex-Necrophagist) — DW Collectors Series; DW 9000 Double Pedal
 
 ## Metal Drummers Who Use DW Hardware/Pedals
@@ -16,16 +15,14 @@ DW (Drum Workshop) is an American drum manufacturer founded in 1972 in Oxnard, C
 - Jay Weinberg (Suicidal Tendencies, ex-Slipknot) — DW 9000 Series Double Pedal
 - Art Cruz (Lamb of God) — Gibraltar Hardware; previously DW pedals
 - Shannon Larkin (Godsmack) — DW 9000 Double Pedal
-- Raymond Herrera (Fear Factory) — DW 9000 hardware used alongside Tama kits
+- Raymond Herrera (Fear Factory) — DW 5000 Series Double Pedal used alongside Tama kits
 - Matt Greiner (August Burns Red) — DW 9000 Double Pedal
 - Blake Richardson (Between the Buried and Me) — DW 9000 Double Pedal
 - Martin Lopez (Soen, ex-Opeth) — DW hardware
 - Travis Orbin (Darkest Hour, ex-Periphery) — DW hardware
-- Nicko McBrain (Iron Maiden) — DW 9000 hardware
+- Nicko McBrain (Iron Maiden) — DW 5000 Series Single Pedal
 - Scott Travis (Judas Priest) — DW 9000 Double Pedal
-- Mikkey Dee (Scorpions, Motörhead) — DW 9000 hardware
-- Frost (Satyricon, 1349) — DW 9000 hardware
-- Gavin Harrison (Porcupine Tree) — DW hardware
+- Mikkey Dee (Scorpions, Motörhead) — DW 5000 Series Pedal
 - Abe Cunningham (Deftones) — DW 9000 hardware
 - Hannes Grossmann (Obscura) — DW 9000 Double Pedal
 - Isaac Lamb (Kublai Khan TX) — DW 9000 hardware
@@ -81,4 +78,4 @@ DW didn't produce its own acoustic drum kits until 1989, when it debuted a full 
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-24 · Source: [MetalForge.io](https://metalforge.io)*

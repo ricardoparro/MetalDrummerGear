@@ -9,7 +9,7 @@ By the mid-1990s, Cryptopsy and later Nile and Obscura cemented technical death 
 | Drummer | Band | Signature Setup | Profile |
 |---|---|---|---|
 | George Kollias | Nile | Pearl Masterworks Stadium Exotic + Zildjian | [/drummer/george-kollias](/drummer/george-kollias) |
-| Flo Mounier | Cryptopsy | Pearl Masters Maple Complete + Sabian AAX/HHX | [/drummer/flo-mounier](/drummer/flo-mounier) |
+| Flo Mounier | Cryptopsy | Tama Starclassic Maple + Sabian AAX/HHX | [/drummer/flo-mounier](/drummer/flo-mounier) |
 | Derek Roddy | Hate Eternal / Nile | Tama Starclassic Bubinga + Meinl Byzance | [/drummer/derek-roddy](/drummer/derek-roddy) |
 | Hannes Grossmann | Obscura / Necrophagist / Alkaloid | DW Collectors Series + Meinl Byzance | [/drummer/hannes-grossmann](/drummer/hannes-grossmann) |
 
@@ -29,7 +29,7 @@ By the mid-1990s, Cryptopsy and later Nile and Obscura cemented technical death 
 
 ## Gear Preferences by Drummer
 - **George Kollias**: Pearl Masterworks Stadium Exotic + Pearl Demon XR double pedal; holds recognized world records for single-foot bass drum speed and has become one of the genre's most influential educators
-- **Flo Mounier**: Pearl Masters Maple Complete + Sabian AAX/HHX; pioneered the modern gravity blast and blends jazz-fusion phrasing into brutal technical passages
+- **Flo Mounier**: Tama Starclassic Maple + Sabian AAX/HHX; pioneered the modern gravity blast and blends jazz-fusion phrasing into brutal technical passages
 - **Derek Roddy**: Tama Starclassic Bubinga + Tama Speed Cobra 910; developed a signature one-footed blast technique later taught through his own instructional books and DVDs
 - **Hannes Grossmann**: DW Collectors Series + Meinl Byzance; merges classical composition training with hyper-technical, odd-meter drumming across Obscura, Necrophagist, and Alkaloid
 

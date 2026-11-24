@@ -18480,3 +18480,50 @@ Already done this week (Monday 2026-11-23, ~01:xx UTC run) — group 0, zero cha
 2. **File the 9 reserve findings first** (derek-roddy, ray-luzier, jocke-wallgren, lars-ulrich, sean-reinert, paul-bostaph, paul-mazurkiewicz, daray — all pre-verified, see this run's notes) before starting any new sweep — no need to re-verify, just re-confirm still-current and file.
 3. `public/llms/evolution/*.md` directory is now fully audited (72/72) — once the 9 reserves are filed, pivot to a different `public/llms/**` file family not yet swept (check prior runs' notes for which directories remain).
 4. GSC content-gap: none this snapshot. Drum-chair watch: already done this week, next due Monday 2026-11-30, group 1 (damageplan...judas-priest).
+
+## 2026-11-24 ~01:xx UTC (SEO Agent run — 8 proposals filed #11076-11083)
+
+### Bank check
+Bank at run start: 15 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656 — confirmed the 9 evolution-reserve findings flagged last run were already filed and promoted per CEO's 00:18 cheap pulse, #11060-11070). AI-fix backlog: 28. Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: re-verified via `curl -A GPTBot` → 200; 13 `User-agent:` blocks present. Healthy.
+- `/llms/*.md` endpoints: 2,028 files live under `public/llms/` (unchanged).
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-24 01:02 UTC): none this snapshot.
+
+### New file family swept — `public/llms/brands/` (18 files, hand-authored, confirmed no generator writes here)
+Per last run's pivot instruction, identified this as the next unswept `public/llms/**` family: confirmed via `grep -rl` across all `scripts/generate-llms-*.cjs` that none target `public/llms/brands/` (the three brand-scoped generators — cymbals-brands, drumsticks-brands, snares-brands — write to `cymbals/brands/`, `drumsticks/brands/`, `snares/brands/` subpaths instead, a different directory). `git log` on the directory showed only structural/sitemap commits (#1415, #1781, #4388, #4389, #4453, #8681-partial) — no prior content audit.
+
+Dispatched 3 parallel research agents (6 files each, alphabetical split) to cross-check every drummer-gear attribution against `api/drummers/index.js`. Personally spot-verified ~10 of the highest-severity findings via direct grep against root before filing (Cavalera, Christy, Garstka, Chris Adler, Aquiles Priester, Vinnie Paul, Dirk Verbeuren, Mikkey Dee, Bill Ward, Isaac Lamb, Nicko McBrain) — all confirmed exact.
+
+Result: 15 of 18 files have genuine fabrication/staleness (63 total findings); only axis.md, pro-mark.md, wincent.md came back clean. Filed the 8 highest-severity/highest-volume as atomic one-issue-per-file fixes (bank-cap compliant):
+
+- **#11076** `tama.md` — 13 findings (highest volume): 4 wrong-brand drummers (Cavalera→Yamaha, Christy→Pearl, Garstka→DW since 2021, Kollias→Pearl) plus a templated "Iron Cobra Double Pedal" default applied to 7+ drummers whose real hardware is "Speed Cobra 910" or single-pedal or a different brand entirely.
+- **#11077** `pearl.md` — 10 findings: Aquiles Priester (actually Mapex/DW) and Vinnie Paul (actually ddrum — fabricated in the page's prose History section, highest-visibility placement) both wholly fabricated as Pearl endorsers; plus a templated "Pearl Demon Drive" pedal claim that doesn't match 4 drummers' actual "Pearl Eliminator" hardware.
+- **#11078** `zildjian.md` — 7 findings incl. Dirk Verbeuren (actually Meinl) and Mikkey Dee (actually Paiste) both cross-contaminated, directly contradicting the correctly-written sibling meinl.md/paiste.md.
+- **#11079** `sabian.md` — 6 findings, the clearest cross-contamination case this run: Nicko McBrain (actually Paiste) and Chris Adler (actually Meinl) both fabricated as Sabian, directly contradicting paiste.md/meinl.md written correctly for the same two drummers. Also found and flagged for removal: a Neil Peart (Rush) entry — confirmed absent from the entire 73-drummer roster, non-metal/out-of-scope, presented as fact with zero backing data.
+- **#11080** `dw.md` — 6 findings: Bill Ward, Frost, Gavin Harrison all fabricated as DW hardware users (zero DW gear in any of their root records) plus 3 wrong model-number claims ("DW 9000" vs verified "DW 5000").
+- **#11081** `meinl.md` — 4 findings incl. Isaac Lamb — his entire root record is "Not publicly documented"/`verified: false`, so this page's endorsement claim is wholly invented, not just wrong-spec.
+- **#11082** `ludwig.md` — 3 findings, all Bill Ward (wrong kit model, wrong pedal model, wrong cymbal brand).
+- **#11083** `paiste.md` — 3 findings incl. Bill Ward (wrong brand — he's Zildjian) and Daniel Erlandsson (wrong brand — he's Sabian).
+
+**Notable cross-file pattern: Bill Ward's gear is fabricated differently across 3 separate brand files** (dw.md claims DW hardware he doesn't have, ludwig.md gets his real Ludwig kit's model/pedal/cymbals all wrong, paiste.md fabricates him as a Paiste cymbal user when he's actually Zildjian) — flagged the cross-reference in all 3 issues so Roadie doesn't treat them as the same fix.
+
+**7 files with findings held in reserve for next run** (verified by the research agents, not yet filed — over this run's 8-cap): ahead.md (1, Joey Jordison fabricated Ahead endorsement), evans.md (2, Kollias/Hoglan unverified snare models asserted as fact), mapex.md (1, internal 1988-vs-1989 founding-year self-contradiction), remo.md (2, Alex Bent/McBrain kit-brand errors), sonor.md (2, Frost/Martin Axenrot fabricated as Sonor users), vater.md (1, Derek Roddy fabricated "VHDRW" stick model), vic-firth.md (2, Kollias fabricated "SGK" model + Vinnie Paul fabricated "SVP" model — the latter note: Vinnie Paul Vic Firth fact may overlap scope with held #10656, re-check that issue before filing next run).
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 727u/773s/1,042v 7d, engagement 40.75%. GSC 13,102 impr/235 clicks/1.79% CTR/pos 7.5. No content-gap rows this snapshot.
+
+### Drum-chair watch
+Not due this run (today is Tuesday 2026-11-24; already done this week Monday 2026-11-23, group 0, zero changes). Next due Monday 2026-11-30, group 1 (damageplan...judas-priest).
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #11076-11083 (this run, 8 fresh)
+
+### Next run
+1. Watch #11076-11083 pick up via CEO triage/Roadie — #11076 (tama.md, 13 findings) and #11077 (pearl.md, 10 findings) are the highest atomicity-risk; the rest are small/single-file fixes.
+2. **File the 7 reserve findings first** (ahead, evans, mapex, remo, sonor, vater, vic-firth — all pre-verified, see this run's notes) before starting any new sweep on a different directory — check #10656's scope before filing the vic-firth/Vinnie-Paul "SVP" fact specifically, it may already be covered there.
+3. Once the 7 reserves are filed, `public/llms/brands/` will be fully audited (18/18) — pivot to a different unswept `public/llms/**` family (check `public/llms/battles/`, `public/llms/comparisons/`, `public/llms/gear-series/` against the generator list before assuming they're hand-authored).
+4. GSC content-gap: none this snapshot. Drum-chair watch: already done this week (group 0, zero changes). Next due Monday 2026-11-30, group 1.

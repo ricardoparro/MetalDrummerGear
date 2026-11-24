@@ -5,13 +5,11 @@ Ahead has manufactured aluminum-core drumsticks since 1992, when a design from E
 ## Metal Drummers Who Use Ahead
 
 - Lars Ulrich (Metallica) — LT Signature model, aluminum core with a teardrop nylon tip
-- Joey Jordison (Slipknot, historical) — originally the JJ1 signature stick, kept in the catalog as "Speed Metal" after his endorsement ended
 
 ## Key Ahead Product Lines for Metal
 
 - Aluminum-core construction — a core that essentially can't break the way wood can
 - Replaceable outer sleeve — when the sleeve wears out, replace the sleeve, not the whole stick
-- Speed Metal (JJ1/MT) — originally Joey Jordison's signature model, kept in the catalog under a new name
 - Signature Series — includes Lars Ulrich's current LT model
 
 ## FAQ
@@ -24,9 +22,6 @@ A: Yes. Ahead's aluminum core essentially can't break the way wood can, and the 
 
 Q: How do Ahead drumsticks work?
 A: Ahead sticks use an aluminum core wrapped in a replaceable polyurethane sleeve. When the sleeve wears down from heavy playing, you swap the sleeve instead of buying a whole new stick, since the aluminum core is built to outlast wood.
-
-Q: What is the Ahead Speed Metal stick?
-A: Speed Metal (model JJ1/MT) was originally released as Joey Jordison's Slipknot-era signature stick. Ahead kept the same specs and renamed it "Speed Metal" after Jordison's departure from the endorsement.
 
 Q: Who distributes Ahead drumsticks?
 A: Ahead is distributed by Big Bang Distribution, based in Northridge, California, which has run the brand since purchasing it from Easton Sports in 1997.
@@ -43,7 +38,7 @@ Kasha founded Big Bang Distribution in 1992 to bring the new sticks to market, s
 - **1992** — Rick Grossman (Easton Sports) designs the first AHEAD aluminum-core drumstick; Bob Kasha founds Big Bang Distribution to bring it to market.
 - **1997** — Bob Kasha purchases the Ahead drumstick line outright from Easton Sports.
 
-**Metal era:** Ahead's near-unbreakable aluminum-core design built a following among touring metal drummers, most visibly through Joey Jordison's JJ1 signature stick (kept in the catalog as "Speed Metal" after his departure from the endorsement) and Lars Ulrich's (Metallica) current signature model, the Ahead LT.
+**Metal era:** Ahead's near-unbreakable aluminum-core design built a following among touring metal drummers, most visibly through Lars Ulrich's (Metallica) current signature model, the Ahead LT.
 
 **Source:** [Big Bang Distribution — Ahead](https://bigbangdist.com/brands/ahead/)
 
@@ -53,4 +48,4 @@ Kasha founded Big Bang Distribution in 1992 to bring the new sticks to market, s
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-24 · Source: [MetalForge.io](https://metalforge.io)*

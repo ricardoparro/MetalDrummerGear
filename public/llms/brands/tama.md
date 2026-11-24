@@ -5,22 +5,19 @@ Tama is a Japanese drum manufacturer launched in 1974 as the drum brand of Hoshi
 ## Metal Drummers Who Use Tama
 
 - Lars Ulrich (Metallica) — Tama Starclassic Maple; Iron Cobra 900 Power Glide Double Pedal
-- Dave Lombardo (Slayer) — Tama Starclassic Maple; Tama Iron Cobra 900 Double Pedal
-- Mario Duplantier (Gojira) — Tama Starclassic Bubinga (22"x18" Bass Drums x2); Iron Cobra 900 Power Glide Double Pedal
+- Dave Lombardo (Slayer) — Tama Starclassic Walnut/Birch; Tama Iron Cobra 900 Double Pedal
+- Mario Duplantier (Gojira) — Tama Starclassic Bubinga (22"x18" Bass Drums x2); Iron Cobra 900 Power Glide Single Pedals (x2, one per bass drum)
 - Eloy Casagrande (Slipknot, ex-Sepultura) — Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums); Iron Cobra Double Pedal
-- Charlie Benante (Anthrax) — Tama Starclassic Maple; Speed Cobra Double Pedal
+- Charlie Benante (Anthrax) — Tama Starclassic; Speed Cobra Double Pedal
 - Mike Portnoy (Dream Theater, The Winery Dogs) — Tama Starclassic Maple; Iron Cobra Double Pedal
 - Brann Dailor (Mastodon) — Tama Starclassic Performer B/B; Speed Cobra Double Pedal
-- Raymond Herrera (Fear Factory) — Tama Starclassic; Iron Cobra Double Pedal
-- Igor Cavalera (Sepultura) — Tama Starclassic; Iron Cobra Double Pedal
-- Derek Roddy (Hate Eternal, Nile) — Tama Starclassic Maple; Iron Cobra Double Pedal
-- Dirk Verbeuren (Megadeth) — Tama Starclassic Maple; Iron Cobra Double Pedal
-- Richard Christy (Death, Iced Earth) — Tama Starclassic; Iron Cobra Double Pedal
-- Matt Garstka (Animals as Leaders) — Tama Starclassic Maple; Iron Cobra Double Pedal
-- Blake Richardson (Between the Buried and Me) — Tama Starclassic; Iron Cobra Double Pedal
+- Derek Roddy (Hate Eternal, Nile) — Tama Starclassic Bubinga; Tama Speed Cobra 910 Double Pedal
+- Dirk Verbeuren (Megadeth) — Tama Starclassic Maple; Tama Speed Cobra 910 Double Pedal
+- Matt Garstka (Animals as Leaders) — Tama Speed Cobra 910 Double Pedal
+- Blake Richardson (Between the Buried and Me) — Tama Starclassic; Tama Iron Cobra Power Glide Single Pedals (x2)
 - Ben Koller (Converge, Mutoid Man) — Tama Starclassic; Iron Cobra Double Pedal
-- Chris Turner (Oceans Ate Alaska) — Tama Starclassic; Iron Cobra Double Pedal
-- Tim Yeung (Morbid Angel, Hate Eternal) — Tama Starclassic; Iron Cobra Double Pedal
+- Chris Turner (Oceans Ate Alaska) — Tama Starclassic; Tama Speed Cobra 910 Double Pedal
+- Tim Yeung (Morbid Angel, Hate Eternal) — Tama Starclassic; Tama Speed Cobra 910 Double Pedal
 
 ## Key Tama Product Lines for Metal
 
@@ -44,7 +41,7 @@ Q: What Tama double pedal is best for metal?
 A: The Tama Iron Cobra 900 Double Pedal is the most widely used double pedal in metal. The Power Glide cam suits players who want a consistent feel across the stroke range, while the Rolling Glide delivers a more linear response.
 
 Q: What Tama drum kit is used in thrash metal?
-A: The Tama Starclassic Maple is the dominant thrash metal choice, used by Lars Ulrich, Dave Lombardo, and Charlie Benante. Its maple shells offer the cutting attack and projection needed to punch through heavy guitar riffs.
+A: The Tama Starclassic Maple is a popular thrash metal choice, used by Lars Ulrich and Dirk Verbeuren. Its maple shells offer the cutting attack and projection needed to punch through heavy guitar riffs.
 
 Q: Does Tama make a snare drum for metal?
 A: Yes. The Tama S.L.P. G-Maple (used by Dave Lombardo and Mario Duplantier), Tama Bell Brass (used by Eloy Casagrande), and the Lars Ulrich Signature LU1465 are all Tama snares built for high-volume metal environments.
@@ -65,7 +62,7 @@ That innovation reached a milestone in 1993 with the launch of the Iron Cobra ba
 - **mid-1980s** — Lars Ulrich (Metallica) becomes an official Tama artist, building his kits around Tama shells and, later, the Iron Cobra pedal.
 - **1993** — The Iron Cobra bass drum pedal launches and becomes a metal-industry standard.
 
-**Metal era:** Lars Ulrich has been an official Tama artist since the mid-1980s, building his Metallica kits around Tama shells and the Iron Cobra pedal — one of the most visible metal endorsements in drum-brand history. George Kollias (Nile) and other extreme metal drummers have since relied on Tama's Starclassic shells and Iron Cobra pedals.
+**Metal era:** Lars Ulrich has been an official Tama artist since the mid-1980s, building his Metallica kits around Tama shells and the Iron Cobra pedal — one of the most visible metal endorsements in drum-brand history. Dave Lombardo (Slayer), Mario Duplantier (Gojira), and other extreme metal drummers have since relied on Tama's Starclassic shells and Iron Cobra/Speed Cobra pedals.
 
 **Source:** [tama.com](https://www.tama.com)
 
@@ -75,4 +72,4 @@ That innovation reached a milestone in 1993 with the launch of the Iron Cobra ba
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-24 · Source: [MetalForge.io](https://metalforge.io)*

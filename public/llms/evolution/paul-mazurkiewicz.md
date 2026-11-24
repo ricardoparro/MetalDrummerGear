@@ -77,7 +77,7 @@ The most critically celebrated era of Paul's career. *Kill* is widely regarded a
 - **Drums:** Pearl Reference Series — maple/birch hybrid: 22" kick, 10"/12"/14"/16" toms *(upgrade — hybrid construction delivers attack from birch + warmth from maple)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(continued — definitive CC snare sound)*
 - **Cymbals:** Meinl Classics Custom — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18"/20" Chinas *(upgrade — expanded with larger China for heavier accent work)*
-- **Hardware:** Pearl Demon Drive Double Pedal *(upgrade — direct drive for maximum blast beat speed and consistency)*
+- **Hardware:** Pearl Eliminator Double Bass Pedal *(continued — remains Paul's pedal of choice for blast beat speed and consistency)*
 - **Sticks:** Vic Firth 5B hickory (continued — extremely high consumption on tour)
 - **Heads:** Evans G2 on toms, EMAD on kick *(switch — Evans for durability; EMAD for focused kick attack)*
 - **Electronics:** ddrum triggers on kicks *(new — live blast beat definition at high volumes)*
@@ -85,7 +85,7 @@ The most critically celebrated era of Paul's career. *Kill* is widely regarded a
 
 **Key developments:**
 - Pearl Reference Series replaces Pearl Masters Professional
-- Pearl Demon Drive direct drive double pedal adopted for maximum blast beat precision
+- Pearl Eliminator double pedal continues for maximum blast beat precision
 - Evans heads replace Remo — Evans EMAD becomes standard kick head
 - ddrum kick triggers for live blast beat consistency
 - *Kill* (2006) — widely considered the definitive Cannibal Corpse album
@@ -104,9 +104,9 @@ Paul's most refined era. After 35+ years, Cannibal Corpse continues releasing al
 - **Drums:** Pearl Reference Series (current) — maple/birch hybrid: 22"×18" kick, 10"/12"/14"/16" toms *(continued — stable, proven for 15+ years)*
 - **Snare:** Pearl Free-Floating Steel 14"×6.5" *(continued — unchanged snare philosophy across entire modern era)*
 - **Cymbals:** Meinl Classics Custom / Byzance — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 20" China *(continued — 30+ year Meinl partnership)*
-- **Hardware:** Pearl Demon Drive Double Pedal *(continued — longest pedal partnership of career)*
+- **Hardware:** Pearl Eliminator Double Bass Pedal *(continued — longest pedal partnership of career)*
 - **Sticks:** Vic Firth Paul Mazurkiewicz Signature *(signature — first signature stick model)*
-- **Heads:** Evans G2/EMAD2 on toms and kicks, UV1 on snare batter *(upgrade — EMAD2 for tighter kick, UV1 for better ghost note definition)*
+- **Heads:** Remo Powerstroke 3 / Emperor Coated *(continued — unchanged Remo head setup since the 1990s)*
 - **Electronics:** ddrum triggers + full IEM system *(upgrade — full IEM click for rhythmically demanding live performances)*
 - **Estimated kit cost (original):** ~$18,000
 
@@ -140,7 +140,7 @@ Paul's most refined era. After 35+ years, Cannibal Corpse continues releasing al
 - **Paiste 2002** — 1988–1992 (founding cymbal choice)
 - **Meinl Classics Custom / Byzance** — 1993–present (30+ year cymbal partnership)
 - **Pearl Eliminator** — 1993–early 2000s (first professional pedal)
-- **Pearl Demon Drive** — early 2000s–present (direct drive — longest pedal partnership)
+- **Pearl Eliminator Double Bass Pedal** — early 2000s–present (longest pedal partnership)
 - **Vic Firth Paul Mazurkiewicz Signature** — 2010s–present
 
 ---
@@ -148,7 +148,7 @@ Paul's most refined era. After 35+ years, Cannibal Corpse continues releasing al
 ## FAQ
 
 **Q: What drum kit did Paul Mazurkiewicz use on Kill?**
-A: Paul recorded *Kill* (2006) with a Pearl Reference Series kit featuring maple/birch hybrid shells — 22" kick drum with 10", 12", 14", and 16" toms. The snare was a Pearl Free-Floating Steel 14"×6.5". Cymbals were Meinl Classics Custom, and he used the Pearl Demon Drive direct drive double pedal.
+A: Paul recorded *Kill* (2006) with a Pearl Reference Series kit featuring maple/birch hybrid shells — 22" kick drum with 10", 12", 14", and 16" toms. The snare was a Pearl Free-Floating Steel 14"×6.5". Cymbals were Meinl Classics Custom, and he used the Pearl Eliminator Double Bass Pedal.
 
 **Q: What drum kit did Paul Mazurkiewicz use on Eaten Back to Life?**
 A: For *Eaten Back to Life* (1990) and Cannibal Corpse's earliest recordings, Paul played a Pearl Export — an affordable poplar shell budget kit with a 22" kick and 12", 13", 16" toms — with Paiste 2002 cymbals and the Pearl Eliminator double pedal.
@@ -160,7 +160,7 @@ A: Paul is the only drummer Cannibal Corpse has ever had, making him the longest
 A: Paul has used Meinl cymbals (Classics Custom, later joined by Byzance) since the 1990s — a 30+ year partnership that makes it one of the longest drummer-cymbal brand relationships in extreme metal. His setup includes 14" Classics Custom hi-hats, 17", 18", and 19" Classics Custom crashes, a 21" Byzance ride, and a 20" Byzance China.
 
 **Q: What pedals does Paul Mazurkiewicz use?**
-A: Paul's primary pedal is the Pearl Demon Drive double pedal — a direct drive design chosen for maximum response and consistency in blast beat work. He used the Pearl Eliminator earlier in his career (1993 through early 2000s) before switching to the Demon Drive.
+A: Paul's primary pedal is the Pearl Eliminator Double Bass Pedal — a cam-driven double pedal chosen for maximum response and consistency in blast beat work. He has used the Pearl Eliminator continuously throughout his career.
 
 **Q: What sticks does Paul Mazurkiewicz use?**
 A: Paul plays the Vic Firth Paul Mazurkiewicz Signature drumsticks — his first signature model, introduced in the 2010s to recognize his status as one of death metal's most important drummers. He used standard Vic Firth 5B hickory sticks for most of his earlier career.

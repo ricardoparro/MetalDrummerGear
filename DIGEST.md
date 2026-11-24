@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-23 19:08 UTC · Window: last 12h*
+*Generated 2026-11-24 08:14 UTC · Window: last 12h*
 
 ---
 
@@ -8,27 +8,27 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **28** |
-| Open `seo-proposal` issues | 23 |
+| Open `ai-fix` issues | **20** |
+| Open `seo-proposal` issues | 14 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 3 |
-| PRs merged in window | **12** |
-| Issues closed in window | 12 |
-| Commits to `main` in window | 22 |
+| Open PRs | 0 |
+| PRs merged in window | **16** |
+| Issues closed in window | 16 |
+| Commits to `main` in window | 20 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **817** |
-| Sessions | 877 |
-| Page views | 1,180 |
-| Engagement rate | 41.62% |
-| GSC impressions | 15,587 |
-| GSC clicks | 291 |
-| GSC CTR | 1.87% |
-| GSC avg position | 7.5 |
+| Active users | **756** |
+| Sessions | 803 |
+| Page views | 1,073 |
+| Engagement rate | 41.10% |
+| GSC impressions | 15,827 |
+| GSC clicks | 270 |
+| GSC CTR | 1.71% |
+| GSC avg position | 7.4 |
 
 ## 💰 Revenue trajectory (estimate)
 
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~5,057 |
-| Est. ad revenue / mo | **~€15.17** |
-| Progress to €1000/mo | 1.5% |
-| Pageviews/mo needed for €1000 | ~333,333 (66× current) |
+| Est. pageviews / mo | ~4,599 |
+| Est. ad revenue / mo | **~€13.80** |
+| Progress to €1000/mo | 1.4% |
+| Pageviews/mo needed for €1000 | ~333,333 (72× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -65,64 +65,64 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Event | In | Page work |
 | --- | --- | --- |
-| Chris Adler — 54º aniversário | 0d | _awaiting scanner run_ |
-| Charlie Benante — 64º aniversário | 4d | _awaiting scanner run_ |
-| Lars Ulrich — 63º aniversário | 33d | _awaiting scanner run_ |
-| Sean Reinert — 7 anos | 62d | _awaiting scanner run_ |
+| Charlie Benante — 64º aniversário | 3d | _awaiting scanner run_ |
+| Lars Ulrich — 63º aniversário | 32d | _awaiting scanner run_ |
+| Sean Reinert — 7 anos | 61d | _awaiting scanner run_ |
 
 ## 🤖 Agent / workflow runs (last 12h)
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 61 | 59 | 1 |
-| Check llms freshness | 15 | 0 | 12 |
-| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
+| PR Merger | 62 | 62 | 0 |
+| Check llms freshness | 18 | 0 | 18 |
 | Health Check | 4 | 4 | 0 |
-| Daily Digest | 2 | 1 | 0 |
-| Loop Watchdog | 2 | 2 | 0 |
-| SEO Agent | 2 | 1 | 0 |
+| SEO Agent | 2 | 2 | 0 |
 | CEO Agent | 2 | 2 | 0 |
-| Roadie Night Fleet | 1 | 0 | 0 |
-| X Agent | 1 | 1 | 0 |
-| Check structured data | 1 | 1 | 0 |
-| Check indexation health | 1 | 1 | 0 |
-| Check GSC watched queries | 1 | 1 | 0 |
-| Check backlink signal | 1 | 1 | 0 |
-| Check LLM citations | 1 | 1 | 0 |
+| Roadie Night Fleet | 2 | 2 | 0 |
+| Daily Digest | 1 | 0 | 0 |
+| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
+| Verify YouTube Videos | 1 | 1 | 0 |
+| Loop Watchdog | 1 | 1 | 0 |
+| Prune Proposals | 1 | 1 | 0 |
+| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-24 07:xx (daily deep run — 8/8 proposals verified+promoted #11076-11083)
+- 2026-11-24 00:18 (cheap pulse — 8/8 proposals verified+promoted #11060-11070)
 - 2026-11-23 00:21 (cheap pulse — 4/4 proposals verified+promoted #11015/11017/11019/11021)
-- 2026-11-22 00:20 (cheap pulse — 8/8 proposals verified+promoted #10952/10953/10955-10960)
-- 2026-11-22 06:12 (cheap pulse — 8/8 proposals verified+promoted #10966-10973, + #7981 closed/resolved)
-- 2026-11-22 12:10 (daily deep run — 4/4 proposals verified+promoted #10984-10987)
-- 2026-11-22 18:08 (mid-day pulse — 8/8 proposals verified+promoted #10998-11005)
 - 2026-11-23 06:18 (cheap pulse — 5/5 proposals verified+promoted #11023-11027)
+- 2026-11-23 12:11 (daily deep run — L1/L2/L3 close-the-loop + 7/7 proposals verified+promoted #11032-11038)
+- 2026-11-23 18:09 (mid-day pulse — 8/8 proposals verified+promoted #11044-11051)
 
-## 📦 Shipped to main (12)
+## 📦 Shipped to main (16)
 
-- #11059 fix: #11038 SEO: evolution/chris-adler.md invents a multi-brand DW/Pearl/Mapex/Zildjian kit-switching history — verified continuous Mapex Saturn + Meinl Byzance
-- #11058 fix: #11037 SEO: evolution/dirk-verbeuren.md fabricates 'Tama S.L.P. G-Maple 14x6.5"' snare — verified Dynamic Bronze 14x5.5"
-- #11057 fix: #11036 SEO: evolution/kevin-talley.md fabricates 'Pearl Masters Premium Legend' + wrong snare depth — verified Masters Custom/Reference, 6.5" steel
-- #11055 fix: #11035 SEO: evolution/mike-mangini.md fabricates 'Vic Firth Mike Mangini Signature' sticks — verified Vater
-- #11054 fix: #11034 SEO: evolution/dave-lombardo.md fabricates 'Tama Starclassic Maple' — verified Walnut/Birch
-- #11053 fix: #11033 SEO: evolution/richard-christy.md still has 1996 Death/Control Denied join year + fabricated Pearl pedal — verified 1997, Axis pedal
-- #11052 fix: #11032 SEO: regenerate public/llms/** — 244 files drifted since #10162 (2026-11-10), check-llms-freshness red 300/300 recent runs
-- #11041 fix: #11024 SEO: gear-comparison.md says Pete Sandoval 'Pearl vs Pearl' matching George Kollias — verified ddrum
-- #11043 fix: #11027 SEO: thrash.md FAQ invents a Lars Ulrich 'Pearl' kit era between Tama periods — root shows Camco/Ludwig then Tama only
-- #11042 fix: #11026 SEO: name-generator.md invents a Vinnie Paul nickname 'Metal Method' — no such nickname exists in root
-- #11040 fix: #11025 SEO: kit-builder.md attributes Sabian HHX cymbals to Eloy Casagrande — verified Paiste
-- #11039 fix: #11023 SEO: dream-set-builder.md fabricates Pete Sandoval as 'Pearl shells' — verified ddrum, unverified
+- #11106 fix: #11082 SEO: public/llms/brands/ludwig.md — Bill Ward kit/pedal/cymbals all fabricated
+- #11107 fix: #11083 SEO: public/llms/brands/paiste.md — 3 findings, incl. Bill Ward fabricated as a Paiste cymbal user
+- #11105 fix: #11081 SEO: public/llms/brands/meinl.md — 4 findings, incl. wholesale-fabricated endorsement for an undocumented drummer
+- #11104 fix: #11080 SEO: public/llms/brands/dw.md — 6 findings, incl. Bill Ward fabricated as a DW hardware user (he has zero DW gear)
+- #11103 fix: #11079 SEO: public/llms/brands/sabian.md — 6 findings, incl. 3-way cross-brand contradiction with meinl.md/paiste.md
+- #11101 fix: #11078 SEO: public/llms/brands/zildjian.md — 7 fabricated/wrong facts, incl. cross-brand contamination
+- #11100 fix: #11077 SEO: public/llms/brands/pearl.md — 10 fabricated/wrong gear facts, incl. 2 non-Pearl drummers presented as Pearl endorsers
+- #11099 fix: #11076 SEO: public/llms/brands/tama.md — 13 fabricated/wrong gear facts across 12 drummers
+- #11091 fix: #11067 SEO: evolution/paul-mazurkiewicz.md fabricates 'Pearl Demon Drive' pedal (cross-contaminated) + wrong current-era heads
+- #11090 fix: #11070 SEO: evolution/daray.md fabricates 'Pearl Demon XR' pedal — that's George Kollias's co-designed model, verified Daray plays Demon Drive
+- #11089 fix: #11066 SEO: evolution/paul-bostaph.md wrong drum model + cymbal series for 1987-96 era — verified Artstar II / Paiste RUDE
+- #11088 fix: #11065 SEO: evolution/sean-reinert.md fabricates entire DW drum kit for Death/Cynic era — verified Tama Artstar II
+- #11087 fix: #11060 SEO: evolution/derek-roddy.md fabricates entire early-career rig (Pearl/Sabian) for a period ground truth hedges as undocumented
+- #11086 fix: #11063 SEO: evolution/lars-ulrich.md fabricates 'Tama steel snare' for St. Anger — verified borrowed Ludwig Vistalite acrylic, 'not a Tama'
+- #11085 fix: #11062 SEO: evolution/jocke-wallgren.md repeats the exact fabricated snare string already purged elsewhere by #10798
+- _+1 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 486h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2796h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2892h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 3069h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4154h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 499h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2809h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2905h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 3082h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4167h)_
 
 ---
 
-_Next refresh: 08:00 UTC_
+_Next refresh: 19:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

@@ -23,9 +23,9 @@ See also: [Paul Bostaph drum setup guide](/llms/guides/how-to-sound-like-paul-bo
 
 Bostaph came up through the Bay Area thrash scene with Forbidden, recording the thrash classic Twisted Into Form (1990), before his 1992 recruitment to Slayer to fill Dave Lombardo's vacated chair. He recorded Divine Intervention (1994) and Undisputed Attitude (1996), continuing the Tama/Paiste sound Slayer had used since the Lombardo era.
 
-- **Drums:** Tama Starclassic Maple — all-maple shells, double 22"x18" kicks, 2 rack/2 floor toms
+- **Drums:** Tama Artstar II — all-maple shells, double 22"x18" kicks, 2 rack/2 floor toms
 - **Snare:** Tama Bell Brass 14"x6.5" — brass shell, fat crack
-- **Cymbals:** Paiste 2002 Series — 14" hi-hats, 16"/18" crashes, 20" ride, 18" China
+- **Cymbals:** Paiste RUDE Series — 14" hi-hats, 16"/18" crashes, 20" ride, 18" China
 - **Hardware:** Tama Iron Cobra Double Pedal *(new — adopted in 1994, the year of its release)*
 - **Sticks:** Pro-Mark Hickory 5B
 - **Heads:** Remo Powerstroke 3 (kicks), Emperor Coated (toms)

@@ -96,10 +96,10 @@ Producer Bob Rock pushed Metallica toward a cleaner, more arena-ready sound. The
 **Albums:** St. Anger (2003), Death Magnetic (2008)
 **Tours:** Madly in Anger with the World Tour; World Magnetic Tour
 
-The most controversial era of Lars's career. The St. Anger snare — a steel drum with the snare wires detuned and loosened — became one of the most debated production choices in metal history. Death Magnetic (2008) marked a return to the punchy traditional sound, with Emperor heads replacing the Pinstripe.
+The most controversial era of Lars's career. The St. Anger snare — a borrowed Ludwig Vistalite acrylic drum with the snare wires detuned and loosened — became one of the most debated production choices in metal history. Death Magnetic (2008) marked a return to the punchy traditional sound, with Emperor heads replacing the Pinstripe.
 
 - **Drums:** Tama Starclassic Maple — 22" kick, 10"/12"/14"/16" toms *(upgrade — premium maple shells)*
-- **Snare:** Tama Steel 14"×5.5" with snare wires detuned/off *(switch — the infamous "trash can" sound)*
+- **Snare:** Ludwig Vistalite (borrowed, snare wires OFF) — acrylic "Plexi" snare borrowed from producer Bob Rock, wires disengaged *(switch — the infamous "trash can" sound, a one-off borrowed snare, not a Tama)*
 - **Cymbals:** Zildjian A Custom — 14" A Custom hi-hats, various crashes, 22" ride *(switch back to A Custom)*
 - **Hardware:** Tama Iron Cobra HP900 (continued)
 - **Sticks:** Ahead Lars Ulrich Signature (aluminum alloy, continued)
@@ -175,7 +175,7 @@ A: Lars's first major Tama endorsement began in 1985 when he switched to the Tam
 A: Lars used a Tama Artstar II with birch shells — 24" kick drum with 10", 12", 14", and 16" toms — paired with Zildjian A Custom cymbals and Tama Titan hardware. This was his first professional Tama endorsement.
 
 **Q: What is the St. Anger snare sound and why does it sound different?**
-A: For St. Anger (2003), Lars used a Tama steel snare with the snare wires deliberately detuned and loosened, creating the distinctive metallic "trash can" ringing tone. This was a deliberate production choice made with producer Bob Rock. On Death Magnetic (2008) Lars returned to a conventional snare sound with Remo Emperor heads.
+A: For St. Anger (2003), Lars used a borrowed Ludwig Vistalite acrylic "Plexi" snare — not a Tama — with the snare wires disengaged, creating the distinctive metallic "trash can" ringing tone. The snare was borrowed from producer Bob Rock as a deliberate production choice. On Death Magnetic (2008) Lars returned to a conventional snare sound with Remo Emperor heads.
 
 **Q: What snare drum does Lars Ulrich currently play?**
 A: Lars currently plays the Tama LU1465 Lars Ulrich Signature snare — a 14"×6.5" steel-shell drum with die-cast hoops, introduced in the Modern Era (2016–present).

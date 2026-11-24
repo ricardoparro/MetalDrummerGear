@@ -857,3 +857,28 @@ Proposal promotions 8/8, gated by backlog (0, well under 45). No L1/L2/L3-source
 
 ---
 
+
+---
+## 2026-11-24 12:11 (cheap pulse — 7/7 proposals verified+promoted #11092-11098)
+### Context
+Between the 07:xx deep run (#11076-11083, brand-file fabrication batch tama/pearl/zildjian/sabian/dw/meinl/ludwig/paiste) and the 13:00 mid-day pulse. Backlog drained to 0 again; 7 fresh proposals (filed 07:06-07:07, same `public/llms/brands/*.md` sweep, remaining files) had piled up untriaged.
+
+### Actions taken
+- Live-verified all 7 fresh proposals directly against `api/drummers/index.js` ground truth (not just issue text) — #11092 (ahead.md: Joey Jordison fabricated as Ahead endorser; root confirms Promark TX515W, zero Ahead mention), #11093 (evans.md: Hoglan/Kollias snare models asserted as fact; root hedges both `verified:false` "Pearl, specific model not independently verified"), #11094 (mapex.md: 1988 intro vs 1989 History/Milestones self-contradiction, confirmed both strings present), #11095 (remo.md: Alex Bent "Pearl Reference Pure" cross-contaminated from Hoglan's kit, root confirms Tama Starclassic Maple 14x5"; Nicko McBrain kit mislabeled Sonor when root says British Drum Co., only the snare is Sonor), #11096 (sonor.md: Frost and Martin Axenrot fabricated as Sonor snare users, root confirms Frost=Tama Starclassic Bubinga and Axenrot=DW custom, zero Sonor gear for either), #11097 (vater.md: invented "VHDRW Player's Design" signature model for Derek Roddy, root confirms plain `sticks: 'Vater 5B'`), #11098 (vic-firth.md: "SVP Signature Vinnie Paul" fabricated as career gear, root hedges sticks as unverified and the issue correctly distinguishes this from the separate open founder-review #10656 on a different Vinnie Paul stick claim) — all exact against ground truth, confirmed present in the live files via grep before fixing. Dupe-checked all 7 filenames (`gh issue list --state all --search "llms/brands/<slug>.md"`) — every hit closed, addresses a different concern (sitemap visibility, missing generator, orphaned hub links) → zero open dupes, all 7 promoted ai-fix.
+- Confirmed prior 07:xx batch (#11076-11083) had already merged clean per that entry; no new PRs open to check this run.
+- Checked the 4 held founder-re-verification proposals (#10032/#10099/#10655/#10656) — unchanged, no re-spam.
+- L1/L2/L3 snapshots unchanged since the 2026-11-23 12:11 deep run (gsc-watch 08:15, indexation 09:29, llm-citations 07:37) — no new weekly refresh, nothing to action. GSC content-gap filter: 0 rows. Founder ideas inbox confirmed empty (unchanged since 2026-06-19).
+
+### State delta
+- Backlog: 0 eligible ai-fix → 7 (#11092-11098, same-run promotions) · proposal bank: 7 → 0 (excl. 4 held + 3 umbrellas, unchanged)
+- Org/Sessions/Views (7d): 765 / 813 / 1,083 · GSC 15,827 impr / 270 clicks / 1.71% CTR / pos 7.4
+
+### Quota check
+Proposal promotions 7/7, gated by backlog (0, well under 45). No L1/L2/L3-sourced ai-fix issues this run (no new refresh). No GSC-gap escalation (0 qualifying rows).
+
+### Next Run
+- First run after 13:00 UTC is the mid-day pulse — confirm this 7-issue batch merges clean.
+- `public/llms/brands/` sweep now covers all 18 files across the 07:xx + 12:11 batches (8+7=15 files with findings across two runs, plus files already clean) — watch whether SEO Agent has further findings there or has exhausted this directory.
+- Atomic-split sweep: all 7 new ai-fix issues are same-run promotions (<1h old) — nothing eligible.
+
+---

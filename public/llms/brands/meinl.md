@@ -9,18 +9,15 @@ Meinl is a German cymbal brand founded in 1951, one of the top three cymbal manu
 - Matt Halpern (Periphery) — Meinl Byzance Series; Meinl signature models
 - Navene Koperweis (Entheos, ex-Animals as Leaders) — Meinl Byzance Series
 - Chris Turner (Oceans Ate Alaska) — Meinl Byzance Series
-- Matt Greiner (August Burns Red) — Meinl Byzance Series
 - Derek Roddy (Hate Eternal, Nile) — Meinl Byzance Series
-- Matt Garstka (Animals as Leaders) — Meinl Byzance Series; Meinl Mb20 Series
+- Matt Garstka (Animals as Leaders) — Meinl Byzance Series
 - Hannes Grossmann (Obscura, ex-Necrophagist) — Meinl Byzance Series
-- Isaac Lamb (Kublai Khan TX) — Meinl Byzance Series
 
 ## Key Meinl Product Lines for Metal
 
 - Byzance Dark — traditional Turkish bell bronze, hand-hammered; dark, warm tone with controlled overtones; the definitive Meinl choice for groove metal and progressive metal
 - Byzance Extra Dry — extremely short sustain; virtually no wash; ideal for Meshuggah-influenced rhythmic clarity and polyrhythmic precision
 - Byzance Transition Ride — medium-weight bell; balanced wash-to-definition ratio; used by Chris Adler as his primary ride
-- Mb20 Series — medium-heavy weight; raw, aggressive attack; Matt Garstka pairs Mb20 with Byzance for tonal contrast
 - Classics Custom Dark — machine-hammered, brilliant finish; punchy, focused sound with aggressive attack
 
 ## FAQ
@@ -56,7 +53,7 @@ The turning point for Meinl's standing among metal and progressive drummers came
 - **1980s** — Meinl expands into a full percussion catalog, including congas and cajons, growing into one of Europe's largest percussion manufacturers.
 - **2001** — The hand-hammered Byzance series launches, becoming a favorite among progressive and technical metal drummers.
 
-**Metal era:** Meinl's Byzance series became a favorite of progressive and technical metal drummers seeking dark, complex overtones — players like Matt Garstka (Animals as Leaders) use Byzance extensively. Meinl's Mb20 "Pure Metal" ride, co-designed with Chris Adler (Lamb of God), extended that identity to drummers who need volume and cut for heavier, more aggressive styles.
+**Metal era:** Meinl's Byzance series became a favorite of progressive and technical metal drummers seeking dark, complex overtones — players like Matt Garstka (Animals as Leaders) and Chris Adler (Lamb of God) use Byzance extensively.
 
 **Source:** [meinlcymbals.com/en/Wiki](https://meinlcymbals.com/en/Wiki)
 
@@ -66,4 +63,4 @@ The turning point for Meinl's standing among metal and progressive drummers came
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-24 · Source: [MetalForge.io](https://metalforge.io)*

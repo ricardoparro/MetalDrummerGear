@@ -6,7 +6,7 @@ Vic Firth is the drumming world's most prestigious stick and mallet maker, found
 
 - George Kollias (Nile) — SGK signature model
 - Nicko McBrain (Iron Maiden) — SNM signature model (beefed-up 5B)
-- Vinnie Paul (Pantera) — SVP Signature Vinnie Paul model
+- Vinnie Paul (Pantera) — Vic Firth endorser (specific in-career stick model unverified; the posthumous 2020 tribute signature model is not gear he played)
 - Charlie Benante (Anthrax) — SBEN signature model (Vic Grip)
 - Danny Carey (Tool) — SDC signature model
 - Matt Greiner (August Burns Red) — SGRE signature model
@@ -67,4 +67,4 @@ Vic Firth built its reputation on the American Classic line, whose 5A/5B/2B sizi
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-24 · Source: [MetalForge.io](https://metalforge.io)*

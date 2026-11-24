@@ -18568,3 +18568,39 @@ Not due this run (today is Tuesday 2026-11-24; already done this week Monday 202
 1. Watch #11092-11098 pick up via CEO triage/Roadie — all 7 are small/single-file atomic fixes, low risk; #11096 (sonor.md, 2 drummers across 3 sections) and #11092 (ahead.md, 4 locations) are the only multi-location ones worth a closer look if they stall.
 2. `public/llms/brands/` is now fully audited (18/18) — don't re-run this sweep. Pivot to a different unswept `public/llms/**` family next run: check `public/llms/battles/`, `public/llms/comparisons/`, `public/llms/gear-series/` against the generator list (`grep -rl` across `scripts/generate-llms-*.cjs`) before assuming they're hand-authored and need a manual sweep.
 3. GSC content-gap: none this snapshot. Drum-chair watch: already done this week (group 0, zero changes). Next due Monday 2026-11-30, group 1.
+
+## 2026-11-24 ~13:02 UTC (SEO Agent run — 2 proposals filed #11108-11109)
+
+### Bank check
+Bank at run start: 14 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656, 7 fresh #11092-11098 filed earlier today — not yet triaged). Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: re-verified via `curl -A GPTBot` → 200. Healthy.
+- `/llms/*.md` endpoints: 2,028 files live under `public/llms/` (unchanged).
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-24 13:02 UTC): none this snapshot.
+- Checked `check-llms-freshness.yml` run history (`gh run list`) while investigating a lead below: the daily/PR freshness-check job has been failing repeatedly all morning (every run since ~07:20 UTC) — but the *only* drifted file each time is `public/llms-full.txt` (the full-text aggregate), which re-drifts on every Roadie PR merge since it concatenates everything. Not a new regression, not actionable here — flagging so a future run doesn't waste time re-investigating the same non-issue.
+
+### New file family swept — pivoted off last run's instruction to check `gear-series/` against the generator list
+Confirmed `public/llms/gear-series/*.md` **is** generator-backed (`scripts/generate-llms-gear-series.cjs`, source data `packages/frontend/data/gearIndex.js`) and covered by the freshness-check CI — so in-scope for this directory is template-logic/orphan bugs, not plain hand-authored drift. Also closed out the `public/llms/genres/` (9 files) and `public/llms/tools/` (6 files) directories, which a `git log` check showed were *mostly* but not *fully* swept by prior batches (8/9 genres files and 4/6 tools files had dedicated fix commits; `technical-death.md`, `gear-search.md`, `tier-list.md` never got one). Audited all 3 directly against `api/drummers/index.js`:
+- `technical-death.md`: George Kollias/Derek Roddy/Hannes Grossmann entries all confirmed exact against root; found Flo Mounier's drum kit stuck on a stale "Pearl Masters Maple Complete" (2 locations) when root/`drummerComparisons.js` agree he's been on Tama Starclassic Maple since 2012 (his real 1990s Pearl MX Series era is a separate, correctly-documented historical phase in `drummerEvolution.js`/`gearPriceHistory.js` — not what this page claims). Filed **#11108**.
+- `gear-search.md`: the "Pearl"/"Meinl Byzance" example queries are accurate (verified Jordison/Hoglan/Kollias/Luzier all Pearl; Dailor/Adler/Halpern all Meinl Byzance), but the "Mapex" example wrongly includes Arin Ilejay.
+- `tier-list.md`: pure editorial-ranking content (S/A/B/C/D opinions), no verifiable gear/fact claims — clean, nothing to file.
+- Investigating the Arin Ilejay/Mapex lead turned up a bigger pattern: the same fabricated "Mapex Saturn Series" fact (already fixed at the root/`drummerEvolution.js` layer back in October by #8548/#9220/#9240) is echoed in 4 separate `public/llms/**` locations that were never swept, including one genuinely orphaned generated page (`gear-series/mapex-falcon-double-pedal-mapex-t865-throne.md` — confirmed via local `node scripts/generate-llms-gear-series.cjs` + `git diff` that the generator no longer emits anything Mapex-related at all, since root data's Mapex-series drummer count dropped below the generator's own ≥2 threshold after Chris Adler switched pedals, but the generator has no orphan-deletion step so the stale file just sits there uncaught by CI). Filed as one batch covering all 4 locations: **#11109**.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 818s/769u/1,087v 7d, engagement 41.20%. GSC 15,827 impr/270 clicks/1.71% CTR/pos 7.4. No content-gap rows this snapshot.
+
+### Drum-chair watch
+Not due this run (today is Tuesday 2026-11-24; already done this week Monday 2026-11-23, group 0, zero changes). Next due Monday 2026-11-30, group 1 (damageplan...judas-priest).
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #11092-11098 (filed earlier today, closes `public/llms/brands/` sweep)
+- #11108-11109 (this run)
+
+### Next run
+1. Watch #11108-11109 pick up via CEO triage/Roadie — #11109 is the higher-risk one (4 files incl. a file deletion + 2 cross-reference link-removal checks); #11108 is a trivial 2-string edit.
+2. `public/llms/genres/` (9/9) and `public/llms/tools/` (6/6) are now fully audited — don't re-run either sweep.
+3. `public/llms/gear-series/` is generator-backed (not a manual-sweep target) but worth a narrow follow-up: since the generator has no orphan-cleanup step, there may be *other* stale `gear-series/*.md` pages beyond the Mapex Falcon one whose underlying brand/series dropped below the 2-drummer threshold after a root-data gear change — a future run could `git diff`-check a local regen against all committed `gear-series/*.md` filenames to find any others (don't just trust the freshness-check CI, since it doesn't flag orphans, only content drift on files the generator still touches).
+4. GSC content-gap: none this snapshot. Drum-chair watch: already done this week (group 0, zero changes). Next due Monday 2026-11-30, group 1.

@@ -10,7 +10,7 @@ last_updated: "2026-11-04"
 
 # Sean Reinert Drum Kit Evolution — Complete Timeline
 
-Sean Reinert (1971–2020) was one of the most innovative drummers in extreme metal history. A jazz-trained polyrhythmic visionary, he brought unprecedented subtlety, dynamic range, and compositional sophistication to death metal across two landmark albums in a three-year peak: Death's *Human* (1991) and Cynic's *Focus* (1993). His gear was consistent — DW Collector's Series throughout — but each recording showed progressive refinement. This timeline documents his equipment era by era.
+Sean Reinert (1971–2020) was one of the most innovative drummers in extreme metal history. A jazz-trained polyrhythmic visionary, he brought unprecedented subtlety, dynamic range, and compositional sophistication to death metal across two landmark albums in a three-year peak: Death's *Human* (1991) and Cynic's *Focus* (1993). His gear was consistent — Tama Artstar II throughout — but each recording showed progressive refinement. This timeline documents his equipment era by era.
 
 See also: [Sean Reinert drummer profile](/llms/drummers/sean-reinert.md)
 
@@ -21,10 +21,10 @@ See also: [Sean Reinert drummer profile](/llms/drummers/sean-reinert.md)
 **Albums:** Human (1991)
 **Tours:** Human Tour 1991 (limited dates)
 
-The landmark album and Sean Reinert's recording debut with Death. *Human* (1991) is widely considered one of the greatest technical death metal recordings ever made. Recorded in four days at Morrisound Studios in Tampa, FL with producer Scott Burns, Sean's drumming on Human remains a masterclass in applying jazz technique to extreme metal — precise ghost notes, polyrhythmic groove, and dynamics that no death metal drummer of the era was bringing to the table. His DW Collector's maple kit was an unusual choice for the genre.
+The landmark album and Sean Reinert's recording debut with Death. *Human* (1991) is widely considered one of the greatest technical death metal recordings ever made. Recorded in four days at Morrisound Studios in Tampa, FL with producer Scott Burns, Sean's drumming on Human remains a masterclass in applying jazz technique to extreme metal — precise ghost notes, polyrhythmic groove, and dynamics that no death metal drummer of the era was bringing to the table. His Tama Artstar II birch kit was an unusual choice for the genre.
 
-- **Drums:** DW Collector's Series — maple shells: 22" kick, 10"/12"/13"/14"/16" toms
-- **Snare:** DW Collector's 14"×5.5" maple, die-cast hoops
+- **Drums:** Tama Artstar II — birch shells: 22" kick, 10"/12"/13"/14"/16" toms
+- **Snare:** Tama Artstar II 14"×5.5" birch, die-cast hoops
 - **Cymbals:** Zildjian A Series — 14" hi-hats, 16"/18" crashes, 20" ride
 - **Hardware:** DW 5000 single-chain double pedal
 - **Sticks:** Vic Firth 5A hickory
@@ -34,7 +34,7 @@ The landmark album and Sean Reinert's recording debut with Death. *Human* (1991)
 **Key developments:**
 - First major recording with Death — established jazz-influenced approach to death metal
 - Human (1991) recorded in four days at Morrisound — landmark technical death metal album
-- DW sound integral to Human's identity: less compressed and more open than most death metal of the period
+- Tama Artstar II birch sound integral to Human's identity: less compressed and more open than most death metal of the period
 - Ride cymbal work on "Suicide Machine" and "Lack of Comprehension" demonstrates extraordinary control
 - Jazz ghost notes and polyrhythmic vocabulary pushed death metal drumming permanently forward
 
@@ -47,18 +47,18 @@ The landmark album and Sean Reinert's recording debut with Death. *Human* (1991)
 **Albums:** Focus (1993)
 **Tours:** Focus Tour 1993 (supporting Death, limited dates)
 
-The apex. Cynic's *Focus* (1993) is the defining jazz-fusion death metal record — and Sean Reinert's drumming is inseparable from that achievement. Co-written and co-produced with Paul Masvidal, *Focus* fused death metal brutality with Weather Report-style complexity and vocal processing that had never been attempted in extreme metal. The DW Collector's reached its fullest expression here, with a significant cymbal change to the darker Zildjian K Series.
+The apex. Cynic's *Focus* (1993) is the defining jazz-fusion death metal record — and Sean Reinert's drumming is inseparable from that achievement. Co-written and co-produced with Paul Masvidal, *Focus* fused death metal brutality with Weather Report-style complexity and vocal processing that had never been attempted in extreme metal. The Tama Artstar II reached its fullest expression here, with the same Zildjian A/K Series cymbal blend carried over from Human.
 
-- **Drums:** DW Collector's Series — maple shells: 22" kick, 10"/12"/13"/14"/16" toms (continued)
-- **Snare:** DW Collector's 14"×5.5" maple — tuned higher and more open than Death recordings *(refined)*
-- **Cymbals:** Zildjian K Series — 14" K hi-hats, 16"/18" K Custom crashes, 20" K ride *(switch from A Series)*
+- **Drums:** Tama Artstar II — birch shells: 22" kick, 10"/12"/13"/14"/16" toms (continued)
+- **Snare:** Tama Artstar II 14"×6.5" birch — tuned higher and more open than Death recordings *(refined)*
+- **Cymbals:** Zildjian A/K Series — 14" hi-hats, 16"/18" crashes, 20" ride *(continued blend, not a narrowing to K alone)*
 - **Hardware:** DW 5000 double pedal (continued)
 - **Sticks:** Vic Firth 5A — continued
 - **Heads:** Remo Ambassador — open, resonant (continued)
 - **Estimated kit cost (original):** ~$7,000
 
 **Key developments:**
-- Switched to Zildjian K Series — darker, more jazz-oriented cymbal character
+- Continued the Zildjian A/K Series cymbal blend from Human — wouldn't narrow to K Custom alone until Cynic's 2008 reunion album *Traced in Air*
 - Snare tuned higher and more open than on the Death recordings
 - Focus (1993) — the defining jazz-death fusion record
 - Double bass used for polyrhythmic texture rather than speed showcases
@@ -79,9 +79,8 @@ The apex. Cynic's *Focus* (1993) is the defining jazz-fusion death metal record 
 
 ## Gear Brand Partnerships Timeline
 
-- **DW Collector's Series** — 1991–1993 (both landmark albums; consistent throughout career peak)
-- **Zildjian A Series** — 1991–1992 (Human)
-- **Zildjian K Series** — 1992–1993 (Focus — darker, jazz-fusion character)
+- **Tama Artstar II** — 1991–1993 (both landmark albums; consistent throughout career peak)
+- **Zildjian A/K Series** — 1991–1993 (Human and Focus; blend continued unchanged until Cynic's 2008 reunion)
 - **Vic Firth 5A** — 1991–1993 (consistent lighter stick for dynamic range)
 
 ---
@@ -92,19 +91,19 @@ The apex. Cynic's *Focus* (1993) is the defining jazz-fusion death metal record 
 A: Sean Reinert played drums on Cynic's *Focus* (1993). He also co-wrote and co-produced the album with guitarist/vocalist Paul Masvidal. Reinert and Masvidal had previously played together on Death's *Human* (1991). *Focus* is widely considered one of the greatest jazz-fusion death metal albums ever recorded.
 
 **Q: What drums did Sean Reinert use on Human?**
-A: Sean Reinert used DW Collector's Series drums on *Human* (1991) — maple shells with a 22" kick and 10", 12", 13", 14", and 16" toms, paired with Zildjian A Series cymbals and a DW 5000 double pedal. This was Reinert's recording debut with Death. The warm, open maple tone was recorded at Morrisound Studios with producer Scott Burns.
+A: Sean Reinert used Tama Artstar II drums on *Human* (1991) — birch shells with a 22" kick and 10", 12", 13", 14", and 16" toms, paired with Zildjian A Series cymbals and a DW 5000 double pedal. This was Reinert's recording debut with Death. The punchy, focused birch tone was recorded at Morrisound Studios with producer Scott Burns.
 
 **Q: What cymbals did Sean Reinert use on Focus?**
-A: For Cynic's *Focus* (1993), Sean switched from Zildjian A Series to Zildjian K Series — a deliberate move toward a darker, more complex jazz-fusion cymbal character. His Focus setup was 14" K hi-hats, 16" and 18" K Custom crashes, and a 20" K ride. The K Series' darker, drier character matched the album's jazz-fusion atmosphere.
+A: For Cynic's *Focus* (1993), Sean continued the same Zildjian A/K Series blend he used on *Human* — the mix of bright A Series attack and darker K Series complexity carried through unchanged. His Focus setup was 14" hi-hats, 16" and 18" crashes, and a 20" ride. Sean wouldn't narrow to K Custom alone until Cynic's 2008 reunion album *Traced in Air*.
 
 **Q: What was Sean Reinert's snare drum?**
-A: Sean Reinert used a DW Collector's Series 14"×5.5" maple snare throughout his peak recording years. The shallow depth (5.5" vs the more common 6.5") gave a crisper, more jazz-influenced response that supported his ghost note vocabulary. For *Focus*, he tuned it notably higher and more open than on the Death recordings.
+A: Sean Reinert used a Tama Artstar II birch snare throughout his peak recording years — 14"×5.5" on *Human* and 14"×6.5" on *Focus*. The shallower depth on Human gave a crisper, more jazz-influenced response that supported his ghost note vocabulary. For *Focus*, he moved to the deeper 6.5" shell and tuned it notably higher and more open than on the Death recordings.
 
 **Q: What double bass pedal did Sean Reinert use?**
 A: Sean used a DW 5000 single-chain drive double pedal throughout his work with Death and Cynic. His double bass technique was notably fluid and musical — drawn from jazz fusion rather than the brute-force approach of most death metal contemporaries. On *Focus*, double bass was used primarily for polyrhythmic texture rather than speed.
 
 **Q: What made Sean Reinert's drumming different from other death metal drummers?**
-A: Sean Reinert came from a jazz background. He brought ghost notes, dynamic range, polyrhythmic phrases, and compositional thinking to a genre that had prioritized speed and aggression over subtlety. His setup — DW Collector's maple shells, Zildjian A or K cymbals, Remo Ambassador heads with no muffling — was tuned for resonance and expressiveness rather than the compressed, triggered sound that dominated death metal of the early 1990s.
+A: Sean Reinert came from a jazz background. He brought ghost notes, dynamic range, polyrhythmic phrases, and compositional thinking to a genre that had prioritized speed and aggression over subtlety. His setup — Tama Artstar II birch shells, Zildjian A/K cymbals, Remo Ambassador heads with no muffling — was tuned for resonance and expressiveness rather than the compressed, triggered sound that dominated death metal of the early 1990s.
 
 ---
 
@@ -115,5 +114,5 @@ A: Sean Reinert came from a jazz background. He brought ghost notes, dynamic ran
 - [Focus Album Article](/llms/articles/focus.md)
 - [Death Band Profile](/llms/bands.md)
 - [Cynic Band Profile](/llms/bands.md)
-- [DW Drums Brand Guide](/llms/brands/dw.md)
+- [Tama Drums Brand Guide](/llms/brands/tama.md)
 - [Zildjian Cymbals Brand Guide](/llms/brands/zildjian.md)

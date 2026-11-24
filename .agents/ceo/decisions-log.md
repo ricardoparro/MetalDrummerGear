@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-24 00:18 UTC*
 
 ---
+## 2026-11-24 07:xx (daily deep run — 8/8 proposals verified+promoted #11076-11083)
+### Context
+First run after 07:00 UTC today (prior entry was the 00:18 cheap pulse). Backlog had drained to 0 ai-fix since the #11060-11070 batch merged clean, while the 8-brand-file fabrication batch (filed 01:10-01:11 UTC) piled up untriaged.
+
+### Actions taken
+- Live-verified all 8 fresh `public/llms/brands/*.md` proposals (tama/pearl/zildjian/sabian/dw/meinl/ludwig/paiste) directly against `api/drummers/index.js` ground truth — personally re-checked the most severe claims: Bill Ward (root confirms Ludwig Standard/Club Date + Zildjian Avedis + Ludwig Speed King single pedal — exactly matches #11080/#11082/#11083's combined 3-file correction, no DW/Paiste gear anywhere), Nicko McBrain (root confirms Paiste 2002 & Signature, DW 5000 single pedal — exact match for #11078 Zildjian-removal and #11080 DW-9000→5000 fix), Isaac Lamb (root: every gear field literally `'Not publicly documented'`, `verified: false` — confirms #11081's fabricated-endorsement finding), Aquiles Priester (root: Mapex/Paiste/DW 9000, zero Pearl/Sabian — confirms both #11077 and #11079). Dupe-checked all 8 filenames via `gh issue list --state all --search "llms/brands/<slug>.md"` — every hit is closed and addresses a different concern (sitemap visibility, missing files, other mirrors) → zero open dupes, all 8 promoted ai-fix.
+- Confirmed prior batch (#11060-11070) merged clean (none still open).
+- Checked the 4 held founder-re-verification proposals (#10032 Flo Mounier, #10099 Richard Christy, #10655 Daniel Erlandsson, #10656 Vinnie Paul) — all still `human`-labeled, zero new comments, untouched since filing. No re-spam.
+- L1/L2/L3: `gsc-watch-snapshot.md` / `indexation-snapshot.md` last real refresh still 2026-11-23 08:15/09:29 UTC (closed the loop in yesterday's 12:11 deep run); `llm-citations` (#2211) still dated 2026-11-23 07:37. Weekly cadence not due again until ~2026-11-30 — nothing new to action this run.
+- Founder ideas inbox confirmed empty (unchanged since 2026-06-19).
+- GSC content-gap filter: 0 rows (impr≥50/CTR<2%) — same snapshot as the 00:18 entry, no new gap to escalate.
+
+### State delta
+- Backlog: 0 eligible ai-fix → 8 (#11076-11083, same-run promotions) · proposal bank: 8 → 0 (excl. 4 held + 3 umbrellas, unchanged)
+- Org/Sessions/Views (7d): 750 / 797 / 1,067 (GA4 ticking up intra-day; GSC figures unchanged since last refresh — 13,102 impr / 235 clicks / 1.79% CTR / pos 7.5)
+
+### Quota check
+Proposal promotions 8/8, gated by backlog (0, well under 45). No L1/L2/L3-sourced ai-fix issues this run (already closed this week, next refresh ~11-30). No GSC-gap escalation (0 qualifying rows).
+
+### Next Run
+- First run after 13:00 UTC is the mid-day pulse — confirm this 8-issue batch merges clean.
+- Atomic-split sweep: all 8 new ai-fix issues are same-run promotions (<1h old) — nothing eligible.
+- Starvation check: post-triage backlog 0→8 (<15), bank 8→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 stays excluded regardless.
+- Watch whether the `public/llms/brands/` directory (18 files, confirmed hand-authored/no generator) continues surfacing fabrication findings in future SEO Agent passes — only 8 of 18 files have now been audited this run.
+
+---
+
+---
 ## 2026-11-24 00:18 (cheap pulse — 8/8 proposals verified+promoted #11060-11070)
 - Backlog: 8 ai-fix (#11060/11061/11062/11063/11065/11066/11067/11070, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 717 / 761 / 1,029 · GSC 13,102 impr / 235 clicks / 1.79% CTR / pos 7.5, 0 content-gap rows this snapshot

@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-24 08:14 UTC · Window: last 12h*
+*Generated 2026-11-24 19:08 UTC · Window: last 12h*
 
 ---
 
@@ -8,23 +8,23 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 14 |
+| Open `ai-fix` issues | **22** |
+| Open `seo-proposal` issues | 9 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **16** |
-| Issues closed in window | 16 |
-| Commits to `main` in window | 20 |
+| Open PRs | 2 |
+| PRs merged in window | **15** |
+| Issues closed in window | 15 |
+| Commits to `main` in window | 19 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **756** |
-| Sessions | 803 |
-| Page views | 1,073 |
-| Engagement rate | 41.10% |
+| Active users | **788** |
+| Sessions | 840 |
+| Page views | 1,109 |
+| Engagement rate | 41.31% |
 | GSC impressions | 15,827 |
 | GSC clicks | 270 |
 | GSC CTR | 1.71% |
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~4,599 |
-| Est. ad revenue / mo | **~€13.80** |
+| Est. pageviews / mo | ~4,753 |
+| Est. ad revenue / mo | **~€14.26** |
 | Progress to €1000/mo | 1.4% |
-| Pageviews/mo needed for €1000 | ~333,333 (72× current) |
+| Pageviews/mo needed for €1000 | ~333,333 (70× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -73,18 +73,16 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 62 | 62 | 0 |
-| Check llms freshness | 18 | 0 | 18 |
+| PR Merger | 64 | 64 | 0 |
+| Check llms freshness | 17 | 0 | 15 |
+| Roadie (Watcher + Implementer) | 5 | 5 | 0 |
 | Health Check | 4 | 4 | 0 |
-| SEO Agent | 2 | 2 | 0 |
+| Daily Digest | 2 | 1 | 0 |
+| Loop Watchdog | 2 | 2 | 0 |
+| SEO Agent | 2 | 1 | 0 |
 | CEO Agent | 2 | 2 | 0 |
-| Roadie Night Fleet | 2 | 2 | 0 |
-| Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
-| Verify YouTube Videos | 1 | 1 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 1 | 0 |
+| X Agent | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
@@ -95,8 +93,15 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - 2026-11-23 12:11 (daily deep run — L1/L2/L3 close-the-loop + 7/7 proposals verified+promoted #11032-11038)
 - 2026-11-23 18:09 (mid-day pulse — 8/8 proposals verified+promoted #11044-11051)
 
-## 📦 Shipped to main (16)
+## 📦 Shipped to main (15)
 
+- #11116 fix: #11098 SEO: public/llms/brands/vic-firth.md fabricates Vinnie Paul 'SVP' stick as gear he played
+- #11115 fix: #11097 SEO: public/llms/brands/vater.md fabricates a Derek Roddy signature stick model ("VHDRW")
+- #11114 fix: #11096 SEO: public/llms/brands/sonor.md fabricates Frost + Martin Axenrot as Sonor snare users
+- #11113 fix: #11095 SEO: public/llms/brands/remo.md fabricates Alex Bent + Nicko McBrain kit brands
+- #11112 fix: #11094 SEO: public/llms/brands/mapex.md self-contradicts on founding year (1988 intro vs 1989 History/Milestones)
+- #11111 fix: #11093 SEO: public/llms/brands/evans.md asserts unverified Hoglan/Kollias snare models as fact
+- #11110 fix: #11092 SEO: public/llms/brands/ahead.md fabricates Joey Jordison as an Ahead endorser — root verifies Promark
 - #11106 fix: #11082 SEO: public/llms/brands/ludwig.md — Bill Ward kit/pedal/cymbals all fabricated
 - #11107 fix: #11083 SEO: public/llms/brands/paiste.md — 3 findings, incl. Bill Ward fabricated as a Paiste cymbal user
 - #11105 fix: #11081 SEO: public/llms/brands/meinl.md — 4 findings, incl. wholesale-fabricated endorsement for an undocumented drummer
@@ -105,24 +110,16 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 - #11101 fix: #11078 SEO: public/llms/brands/zildjian.md — 7 fabricated/wrong facts, incl. cross-brand contamination
 - #11100 fix: #11077 SEO: public/llms/brands/pearl.md — 10 fabricated/wrong gear facts, incl. 2 non-Pearl drummers presented as Pearl endorsers
 - #11099 fix: #11076 SEO: public/llms/brands/tama.md — 13 fabricated/wrong gear facts across 12 drummers
-- #11091 fix: #11067 SEO: evolution/paul-mazurkiewicz.md fabricates 'Pearl Demon Drive' pedal (cross-contaminated) + wrong current-era heads
-- #11090 fix: #11070 SEO: evolution/daray.md fabricates 'Pearl Demon XR' pedal — that's George Kollias's co-designed model, verified Daray plays Demon Drive
-- #11089 fix: #11066 SEO: evolution/paul-bostaph.md wrong drum model + cymbal series for 1987-96 era — verified Artstar II / Paiste RUDE
-- #11088 fix: #11065 SEO: evolution/sean-reinert.md fabricates entire DW drum kit for Death/Cynic era — verified Tama Artstar II
-- #11087 fix: #11060 SEO: evolution/derek-roddy.md fabricates entire early-career rig (Pearl/Sabian) for a period ground truth hedges as undocumented
-- #11086 fix: #11063 SEO: evolution/lars-ulrich.md fabricates 'Tama steel snare' for St. Anger — verified borrowed Ludwig Vistalite acrylic, 'not a Tama'
-- #11085 fix: #11062 SEO: evolution/jocke-wallgren.md repeats the exact fabricated snare string already purged elsewhere by #10798
-- _+1 more_
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 499h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2809h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2905h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 3082h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4167h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 510h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2820h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2916h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 3093h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4178h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

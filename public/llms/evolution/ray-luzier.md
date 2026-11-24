@@ -77,7 +77,7 @@ A: Korn III: Remember Who You Are (2010), produced by Ross Robinson — the same
 A: The Path of Totality (2011) — a dubstep-fusion experiment — continued Luzier's DW Collector's setup and Paiste 2002/Signature cymbals carried over from Korn III. By The Paradigm Shift (2013) — a heavier return to form alongside Brian "Head" Welch's rejoining the band — Luzier had transitioned to a Pearl Reference Maple kit and Sabian AAX cymbals, the pairing that has defined his sound ever since, while keeping his DW 9002D double pedal.
 
 - **Drums:** Pearl Reference Maple — 7-piece, double 22"×18" kick, five-tom spread, KoRn touring configuration *(switch — transitioned from the DW Collector's hybrid kit by The Paradigm Shift (2013), the start of his current Pearl endorsement era)*
-- **Snare:** Pearl Reference 14"×6.5" Brass — bright, projecting attack *(switch — replaced the DW Collector's aluminum snare used since Korn III)*
+- **Snare:** Pearl snare (specific model not independently verified) — switched from the DW Collector's aluminum snare used since Korn III
 - **Cymbals:** Sabian AAX Series — 14" Stage hi-hats, 18"/19" X-Plosion crashes, 21" Stage ride, 18" AAXtreme China *(switch — consolidated onto Sabian AAX by The Paradigm Shift, replacing the Paiste 2002/Signature setup carried over from before he joined KoRn)*
 - **Hardware:** DW 9002D Double Pedal (continued) — unchanged direct-drive platform across both album cycles
 - **Sticks:** Vic Firth Ray Luzier Signature *(new — moved to his own Vic Firth signature stick model during this era, replacing the stock 5A)*
@@ -103,7 +103,7 @@ A: The Path of Totality (2011) — a dubstep-fusion experiment — continued Luz
 A: By The Serenity of Suffering (2016), Luzier's rig had settled into the Pearl Reference Maple and Sabian AAX pairing established on The Paradigm Shift, now in an expanded configuration for arena-level projection. The Nothing (2019) — written during Jonathan Davis's personal crisis following the death of his wife — captured some of Luzier's most emotionally dynamic drumming, with the Sabian AAX ride cymbal's cutting projection integral to the album's atmospheric passages.
 
 - **Drums:** Pearl Reference Maple (continued) — same core kit, expanded configuration for arena touring
-- **Snare:** Pearl Reference 14"×6.5" Brass (continued) — unchanged through both The Serenity of Suffering and The Nothing
+- **Snare:** Pearl snare (specific model not independently verified; continued) — unchanged through both The Serenity of Suffering and The Nothing
 - **Cymbals:** Sabian AAX Series (continued) — larger crash coverage for arena-level projection *(upgrade)*
 - **Hardware:** DW 9002D Double Pedal (continued)
 - **Sticks:** Vic Firth Ray Luzier Signature (continued)
@@ -129,7 +129,7 @@ A: By The Serenity of Suffering (2016), Luzier's rig had settled into the Pearl 
 A: Requiem (2022) — KoRn's 14th studio album — arrived as a tighter, more direct record after The Nothing's emotional weight. Luzier's current touring rig maintains the Pearl Reference Maple and Sabian AAX foundation established on The Paradigm Shift, paired with his long-running DW double pedal, now fifteen-plus years and five studio albums into his tenure — the longest-serving drummer in KoRn's history after founding member David Silveria.
 
 - **Drums:** Pearl Reference Maple — current touring configuration
-- **Snare:** Pearl Reference 14"×6.5" Brass — current standard snare
+- **Snare:** Pearl snare (specific model not independently verified) — current standard snare
 - **Cymbals:** Sabian AAX Series (current configuration) — his cymbal partnership since The Paradigm Shift
 - **Hardware:** DW 9002D Double Pedal — same direct-drive model used since his 2010 Korn III debut, carried through every kit change since
 - **Sticks:** Vic Firth Ray Luzier Signature — current standard sticks
@@ -164,7 +164,7 @@ A: Requiem (2022) — KoRn's 14th studio album — arrived as a tighter, more di
 - **DW Collector's Series Maple/Mahogany (drums)** — 2010–2011 (Korn III through The Path of Totality)
 - **Pearl Reference Maple (drums)** — 2013–present (switched for The Paradigm Shift, continued through Requiem)
 - **DW Collector's Series (snares)** — 2010–2011 (Aluminum, Korn III through The Path of Totality)
-- **Pearl Reference 14"×6.5" Brass (snares)** — 2013–present (switched for The Paradigm Shift)
+- **Pearl snare, specific model not independently verified (snares)** — 2013–present (switched for The Paradigm Shift)
 - **Paiste 2002 / Signature (cymbals)** — 2007–2011 (pre-Korn years through The Path of Totality)
 - **Sabian AAX Series (cymbals)** — 2013–present (switched for The Paradigm Shift, continued through Requiem)
 - **DW 9002 / 9002D (hardware)** — 2007–present (direct-drive from 2010 Korn III era onward, unchanged through the 2013 drum/cymbal switch)

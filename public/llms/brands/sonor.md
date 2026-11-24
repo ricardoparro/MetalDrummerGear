@@ -8,8 +8,6 @@ Sonor is a German percussion manufacturer founded in 1875 in Weißenfels an der 
 - Nicko McBrain (Iron Maiden) — Sonor Nicko McBrain Signature 14x6.5" (signature snare)
 - Gavin Harrison (Porcupine Tree) — Sonor Gavin Harrison Signature 12x5" & 14x5.25" (signature snare)
 - Jan Axel "Hellhammer" Blomberg (Mayhem) — Sonor SQ2 14x5.5" Maple snare
-- Frost (Satyricon) — Sonor SQ2 14x6" Maple snare
-- Martin Axenrot (Opeth) — Sonor SQ2 14x5.75" Maple snare
 - Morgan Ågren (Devin Townsend Project, Mats/Morgan Band) — Sonor Designer 14x5.5" Maple snare
 
 ## Key Sonor Product Lines for Metal
@@ -31,7 +29,7 @@ Q: Is Sonor good for metal drumming?
 A: Yes. Sonor's beech and maple shells offer a distinct, cutting tone, and its snares — especially the signature models built for Tomas Haake, Nicko McBrain, and Gavin Harrison — are built to survive the abuse of blast-beat and high-volume metal drumming.
 
 Q: What is the Sonor SQ2 system?
-A: The SQ2 is Sonor's modular, made-to-order drum system, letting drummers configure shell material, size, and hardware to their own specifications. It's used by extreme and progressive metal drummers including Hellhammer (Mayhem), Frost (Satyricon), and Martin Axenrot (Opeth).
+A: The SQ2 is Sonor's modular, made-to-order drum system, letting drummers configure shell material, size, and hardware to their own specifications. It's used by extreme and progressive metal drummers including Hellhammer (Mayhem).
 
 Q: How old is Sonor?
 A: Sonor was founded in 1875 by Johannes Link in Weißenfels an der Saale, Germany, making it one of the oldest percussion manufacturers in the world still in operation.
@@ -52,7 +50,7 @@ World War II forced the Link family to flee Weißenfels when it fell under Sovie
 - **1925** — Sonor grows to 145 employees, becoming one of the largest drum manufacturers of its kind.
 - **1946** — Otto Link and his son Horst rebuild the company in Bad Berleburg, West Germany, after fleeing Soviet-controlled East Germany.
 
-**Metal era:** Sonor's snares have become a fixture on extreme and progressive metal rosters through signature models: Tomas Haake (Meshuggah) and Nicko McBrain (Iron Maiden) each play a namesake Sonor signature snare. Other metal drummers, including Jan Axel "Hellhammer" Blomberg (Mayhem) and Frost (Satyricon), have used Sonor's modular SQ2 maple snares.
+**Metal era:** Sonor's snares have become a fixture on extreme and progressive metal rosters through signature models: Tomas Haake (Meshuggah) and Nicko McBrain (Iron Maiden) each play a namesake Sonor signature snare. Other metal drummers, including Jan Axel "Hellhammer" Blomberg (Mayhem), have used Sonor's modular SQ2 maple snares.
 
 **Source:** [Sonor — Wikipedia](https://en.wikipedia.org/wiki/Sonor)
 
@@ -62,4 +60,4 @@ World War II forced the Link family to flee Weißenfels when it fell under Sovie
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-24 · Source: [MetalForge.io](https://metalforge.io)*

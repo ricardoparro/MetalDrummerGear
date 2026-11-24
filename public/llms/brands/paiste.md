@@ -11,11 +11,9 @@ Paiste is a Swiss cymbal manufacturer with roots dating to 1906, one of the thre
 - Danny Carey (Tool) — Paiste Signature Series (15" Sound Edge Hi-Hats, Signature Full Crashes, Signature Flat Ride)
 - Inferno (Behemoth) — Paiste RUDE & 2002 Series
 - Hellhammer (Mayhem) — Paiste RUDE & 2002 Series
-- Igor Cavalera (Sepultura) — Paiste RUDE & 2002 Series (14" Hi-Hats, RUDE Crashes, China)
-- Bill Ward (Black Sabbath) — Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" China)
+- Igor Cavalera (Sepultura, pre-2006) — Paiste RUDE & 2002 Series (14" Hi-Hats, RUDE Crashes, China); switched to Zildjian in 2006
 - Nicko McBrain (Iron Maiden) — Paiste Signature Series (15" Sound Edge Hi-Hats, Signature crashes and ride)
 - Scott Travis (Judas Priest) — Paiste Signature Series (15" Sound Edge Hi-Hats)
-- Daniel Erlandsson (Arch Enemy) — Paiste RUDE & 2002 Series
 - Morgan Ågren (Mats/Morgan Band) — Paiste 2002 Series
 - Daray (Dimmu Borgir, Vader) — Paiste RUDE & 2002 Series
 
@@ -23,7 +21,6 @@ Paiste is a Swiss cymbal manufacturer with roots dating to 1906, one of the thre
 
 - RUDE Series — heavy, thick brass with aggressive attack and long sustain; virtually indestructible; the definitive thrash metal cymbal series; Dave Lombardo and Joey Jordison's primary crash/china choice
 - 2002 Series — traditional medium-heavy weight; versatile, loud, and cutting; the companion line to RUDE used for rides and hi-hats by Lombardo and Jordison
-- Giant Beat Series — large, heavy-weight cymbal with full, booming sustain; Bill Ward's 24" Giant Beat Ride is a defining element of the early Black Sabbath sound
 - Masters Dark Series — dark, dry, controlled tone; Eloy Casagrande's hi-hat and ride choice for Slipknot's layered, complex sound
 - Signature Series — hand-hammered in Switzerland; warm, musical character with expanded tonal range; Danny Carey, Nicko McBrain, and Scott Travis favor Signature models for their complexity
 
@@ -72,4 +69,4 @@ That philosophy reached its purest expression in 1980 with the RUDE series: heav
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-24 · Source: [MetalForge.io](https://metalforge.io)*

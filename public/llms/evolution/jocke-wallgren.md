@@ -48,7 +48,7 @@ Wallgren (born June 10, 1985, in Chile, and raised in Stockholm, Sweden) began h
 A: Wallgren joined Amon Amarth in 2016 as touring drummer, replacing longtime drummer Fredrik Andersson; session drummer Tobias Gustafsson had recorded "Jomsviking" (2016) before Wallgren joined. Wallgren toured the Jomsviking cycle extensively in 2017 and made his studio debut on "Berserker" (2019). It was during this era that he established his documented Pearl Reference Pure kit and Zildjian A Custom & K Custom cymbal rig, giving him the driving power needed for Amon Amarth's arena and festival stages.
 
 - **Drums:** Pearl Reference Pure — hybrid-shell configuration
-- **Snare:** Pearl Reference 14x6.5" Brass
+- **Snare:** Pearl snare, specific model not independently verified
 - **Cymbals:** Zildjian A Custom & K Custom Series — 14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride
 - **Hardware:** Pearl Demon Drive Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
@@ -72,7 +72,7 @@ A: Wallgren joined Amon Amarth in 2016 as touring drummer, replacing longtime dr
 A: Wallgren recorded Amon Amarth's "The Great Heathen Army" (2022) and has continued extensive international touring since, including appearances at Wacken, Download, and Hellfest. His Pearl Reference Pure / Zildjian A Custom & K Custom rig has remained unchanged across this era, continuing to anchor the band's anthemic Viking metal sound on the world's largest festival stages.
 
 - **Drums:** Pearl Reference Pure *(unchanged)*
-- **Snare:** Pearl Reference 14x6.5" Brass *(unchanged)*
+- **Snare:** Pearl snare, specific model not independently verified
 - **Cymbals:** Zildjian A Custom & K Custom Series *(unchanged)*
 - **Hardware:** Pearl Demon Drive Double Pedal *(unchanged)*
 - **Sticks:** Vic Firth American Classic 5B *(unchanged)*
@@ -109,7 +109,7 @@ A: Wallgren recorded Amon Amarth's "The Great Heathen Army" (2022) and has conti
 ## FAQ
 
 **Q: What drum kit does Jocke Wallgren play?**
-A: Jocke Wallgren plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare, Zildjian A Custom & K Custom Series cymbals, and a Pearl Demon Drive double pedal — a rig established when he joined Amon Amarth in 2016 and unchanged through The Great Heathen Army (2022).
+A: Jocke Wallgren plays a Pearl Reference Pure kit (the specific snare model has not been independently verified), Zildjian A Custom & K Custom Series cymbals, and a Pearl Demon Drive double pedal — a rig established when he joined Amon Amarth in 2016 and unchanged through The Great Heathen Army (2022).
 
 **Q: Was Jocke Wallgren in another band before Amon Amarth?**
 A: Yes — Wallgren drummed for Swedish Viking/folk metal band Valkyria from 2009 before joining Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson.

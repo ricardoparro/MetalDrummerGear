@@ -1,6 +1,6 @@
 # Mapex Drums — Metal Drummer Endorsers
 
-Mapex is a Taiwanese drum manufacturer founded in 1988, widely respected for their Saturn and Black Panther series. Mapex drums have become a prominent choice in American groove metal and modern thrash, offering powerful maple shells and their own Falcon double pedal platform. The brand gained significant metal credibility through Chris Adler's decade-plus endorsement during Lamb of God's commercial peak.
+Mapex is a Taiwanese drum manufacturer founded in 1989, widely respected for their Saturn and Black Panther series. Mapex drums have become a prominent choice in American groove metal and modern thrash, offering powerful maple shells and their own Falcon double pedal platform. The brand gained significant metal credibility through Chris Adler's decade-plus endorsement during Lamb of God's commercial peak.
 
 ## Metal Drummers Who Use Mapex
 
@@ -62,4 +62,4 @@ Mapex expanded production into China in 2000 alongside a run of new pedal design
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-24 · Source: [MetalForge.io](https://metalforge.io)*

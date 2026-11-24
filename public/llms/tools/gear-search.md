@@ -15,7 +15,7 @@ The database covers drums, snares, cymbals, double-bass pedals, hardware, and dr
 
 - Search **"Pearl"** → all metal drummers using Pearl drums (Joey Jordison, Gene Hoglan, George Kollias, Ray Luzier, and 14 more)
 - Search **"Zildjian A Custom"** → finds every drummer who plays that specific cymbal line
-- Search **"Mapex"** → returns Chris Adler, Arin Ilejay, Jason Bittner
+- Search **"Mapex"** → returns Chris Adler, Jason Bittner
 - Search **"Tama Iron Cobra"** → double-bass pedal users across the roster
 - Search **"Meinl Byzance"** → Brann Dailor, Chris Adler, Matt Halpern, and others
 

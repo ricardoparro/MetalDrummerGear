@@ -163,7 +163,7 @@ A: Arin Ilejay joined Avenged Sevenfold in 2011, stepping in after Mike Portnoy 
 
 ## Gear Evolution Timeline
 
-Arin Ilejay's complete drum gear evolution — from the undocumented Confide club-circuit years through the Mapex Saturn Series / Zildjian A Custom rig behind Avenged Sevenfold's "Hail to the King" (2013), to his post-2015 Islander and session-drumming career — is tracked era-by-era: [Arin Ilejay Gear Evolution Timeline](https://metalforge.io/drummers/arin-ilejay/evolution) ([markdown version](/llms/evolution/arin-ilejay.md)).
+Arin Ilejay's complete drum gear evolution — from the undocumented Confide club-circuit years through the DW Collector's Series / Zildjian A Custom rig behind Avenged Sevenfold's "Hail to the King" (2013), to his post-2015 Islander and session-drumming career — is tracked era-by-era: [Arin Ilejay Gear Evolution Timeline](https://metalforge.io/drummers/arin-ilejay/evolution) ([markdown version](/llms/evolution/arin-ilejay.md)).
 
 ## Signature Licks on MetalForge
 

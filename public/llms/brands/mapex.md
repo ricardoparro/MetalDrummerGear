@@ -5,7 +5,6 @@ Mapex is a Taiwanese drum manufacturer founded in 1989, widely respected for the
 ## Metal Drummers Who Use Mapex
 
 - Chris Adler (Lamb of God, Megadeth) — Mapex Black Panther Design Lab; Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare; Mapex Falcon Double Pedal
-- Arin Ilejay (ex-Avenged Sevenfold) — Mapex Saturn Series; Mapex Falcon Double Pedal
 - Jason Bittner (Overkill, Shadows Fall) — Mapex Saturn V; Mapex Black Panther 14x6.5" Brass snare; Mapex Falcon Double Pedal
 
 ## Key Mapex Product Lines for Metal

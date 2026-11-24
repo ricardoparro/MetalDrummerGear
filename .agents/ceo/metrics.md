@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-24 06:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-24 07:03 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 750 |
-| Sessions | 797 |
-| Page views | 1,067 |
-| Engagement rate | 40.90% |
+| Active users | 753 |
+| Sessions | 800 |
+| Page views | 1,070 |
+| Engagement rate | 41.00% |
 | Avg session (s) | 51 |
 
 ### Top pages (by page views, last 7d)
@@ -24,28 +24,28 @@
 | /articles/slipknot-self-titled-drum-setup | 11 | 8 |
 | /drummers/nick-menza/evolution | 11 | 3 |
 | /tools | 11 | 3 |
+| /drummer/bill-ward | 10 | 9 |
 | /drummer/igor-cavalera | 10 | 6 |
 | /drummer/ben-koller | 9 | 6 |
-| /drummer/bill-ward | 9 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Direct | 431 | 430 |
-| Organic Search | 366 | 319 |
+| Organic Search | 369 | 322 |
 | Unassigned | 9 | 9 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 233 | 213 |
+| United States | 235 | 215 |
 | Singapore | 210 | 211 |
 | Brazil | 34 | 34 |
 | United Kingdom | 26 | 21 |
 | Germany | 23 | 23 |
+| Canada | 15 | 14 |
 | France | 15 | 14 |
 | Poland | 15 | 14 |
-| Canada | 14 | 13 |
 | Argentina | 11 | 11 |
 | Australia | 11 | 11 |
 

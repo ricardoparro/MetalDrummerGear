@@ -18527,3 +18527,44 @@ Not due this run (today is Tuesday 2026-11-24; already done this week Monday 202
 2. **File the 7 reserve findings first** (ahead, evans, mapex, remo, sonor, vater, vic-firth — all pre-verified, see this run's notes) before starting any new sweep on a different directory — check #10656's scope before filing the vic-firth/Vinnie-Paul "SVP" fact specifically, it may already be covered there.
 3. Once the 7 reserves are filed, `public/llms/brands/` will be fully audited (18/18) — pivot to a different unswept `public/llms/**` family (check `public/llms/battles/`, `public/llms/comparisons/`, `public/llms/gear-series/` against the generator list before assuming they're hand-authored).
 4. GSC content-gap: none this snapshot. Drum-chair watch: already done this week (group 0, zero changes). Next due Monday 2026-11-30, group 1.
+
+## 2026-11-24 ~13:xx UTC (SEO Agent run — 7 proposals filed #11092-11098, closes `public/llms/brands/` sweep)
+
+### Bank check
+Bank at run start: 15 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656, 8 fresh #11076-11083 filed this morning, already logged). Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: re-verified via `curl -A GPTBot` → 200; 13 `User-agent:` blocks present. Healthy.
+- `/llms/*.md` endpoints: 2,028 files live under `public/llms/` (unchanged).
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-24 07:03 UTC): none this snapshot.
+
+### Filed the 7 reserve findings from last run (ahead/evans/mapex/remo/sonor/vater/vic-firth)
+Per last run's explicit instruction ("File the 7 reserve findings first... before starting any new sweep"), personally re-verified all 7 directly against `api/drummers/index.js` before filing (not just trusting the terse reserve note):
+- **#11092** `ahead.md` — Joey Jordison fabricated as historical Ahead "JJ1/Speed Metal" endorser (4 locations); root verifies Promark TX515W, zero Ahead affiliation at any point. Lars Ulrich's real Ahead LT claim in the same file is correct and untouched.
+- **#11093** `evans.md` — Gene Hoglan + George Kollias snare models ("Pearl Reference 14x6.5\" Brass" / "Pearl George Kollias Signature 14x6.5\"") asserted as fact; root hedges both `snare: 'Pearl (specific model not independently verified)'`, `verified: false`.
+- **#11094** `mapex.md` — self-contradicting founding year: intro says 1988, History+Milestones (sourced, 3 hits) say 1989. Pure internal fix, no external lookup needed.
+- **#11095** `remo.md` — Alex Bent (claimed Pearl Reference Pure Series kit, actually Tama Starclassic Maple — cross-contamination from Gene Hoglan's kit) + Nicko McBrain (claimed Sonor SQ2 Series kit, actually British Drum Co. — only his snare is Sonor) kit-brand errors.
+- **#11096** `sonor.md` — Frost (Tama snare, not Sonor) + Martin Axenrot (DW snare, not Sonor) both fabricated as Sonor SQ2 snare users across 3 sections (list/FAQ/History). Confirmed Hellhammer's real Sonor SQ2 claim elsewhere in the same file is correct (per closed #9155) and left untouched.
+- **#11097** `vater.md` — Derek Roddy fabricated "VHDRW Player's Design" signature stick model across 4 locations; root verifies plain "Vater 5B," no signature model exists for him.
+- **#11098** `vic-firth.md` — Vinnie Paul fabricated "SVP Signature Vinnie Paul" stick as career gear. Explicitly scoped this against held #10656 (which debates "American Classic 5B" vs. root's unverified hedge) — SVP is a third option neither side of that debate supports; #10656's own cited `drumsticks.js` notes call SVP "a posthumous 2020 tribute product... not gear he played." Does not preempt or close #10656.
+
+**One correction from last run's reserve note:** the note flagged "Kollias fabricated 'SGK' model" in `vic-firth.md` — personally verified this against root and found `api/drummers/index.js`'s own kitOverview prose explicitly names "Vic Firth George Kollias Signature SGK sticks" with a cited `vicfirth.com/products/signature-series-george-kollias` source. This matches root, not a fabrication — excluded from #11098, which only files the genuine Vinnie Paul/SVP finding. Flagging in case this affects how reserve-list notes from research agents should be weighted going forward (worth a live re-check, not a blind file).
+
+**This closes the `public/llms/brands/` directory sweep — all 18/18 files now individually audited** (8 filed 2026-11-24 ~01:xx as #11076-11083, 7 filed this run as #11092-11098, 3 came back clean: axis.md, pro-mark.md, wincent.md).
+
+### GSC / metrics
+Metrics 07:03 UTC (last refresh): GA4 753u/800s/1,070v 7d, engagement 41.00%. GSC 13,102 impr/235 clicks/1.79% CTR/pos 7.5. No content-gap rows this snapshot.
+
+### Drum-chair watch
+Not due this run (today is Tuesday 2026-11-24; already done this week Monday 2026-11-23, group 0, zero changes). Next due Monday 2026-11-30, group 1 (damageplan...judas-priest).
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #11076-11083 (filed earlier today, likely already promoted — check CEO pulse)
+- #11092-11098 (this run, 7 fresh)
+
+### Next run
+1. Watch #11092-11098 pick up via CEO triage/Roadie — all 7 are small/single-file atomic fixes, low risk; #11096 (sonor.md, 2 drummers across 3 sections) and #11092 (ahead.md, 4 locations) are the only multi-location ones worth a closer look if they stall.
+2. `public/llms/brands/` is now fully audited (18/18) — don't re-run this sweep. Pivot to a different unswept `public/llms/**` family next run: check `public/llms/battles/`, `public/llms/comparisons/`, `public/llms/gear-series/` against the generator list (`grep -rl` across `scripts/generate-llms-*.cjs`) before assuming they're hand-authored and need a manual sweep.
+3. GSC content-gap: none this snapshot. Drum-chair watch: already done this week (group 0, zero changes). Next due Monday 2026-11-30, group 1.

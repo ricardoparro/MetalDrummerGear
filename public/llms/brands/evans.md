@@ -5,8 +5,8 @@ Evans is an American drumhead manufacturer founded in 1957, best known for pione
 ## Metal Drummers Who Use Evans
 
 - Joey Jordison (Slipknot, ex-Vimic) — Evans heads across his Pearl Reference Series kit and Pearl Joey Jordison Signature 13x6.5" snare
-- Gene Hoglan (Death, Testament, Dethklok) — Evans heads on his Pearl Reference Pure kit and Pearl Reference 14x6.5" Brass snare
-- George Kollias (Nile) — Evans heads across his Pearl Masterworks Stadium Exotic kit and Pearl George Kollias Signature 14x6.5" snare
+- Gene Hoglan (Death, Testament, Dethklok) — Evans heads across his Pearl Reference Pure kit (specific snare model not independently verified)
+- George Kollias (Nile) — Evans heads across his Pearl Masterworks Stadium Exotic kit (specific snare model not independently verified)
 - Jay Weinberg (Slipknot, ex-Suicidal Tendencies) — Evans Black Chrome heads on his SJC Custom Drums kit and SJC "The Crucible" 48-ply Brass snare
 - Eloy Casagrande (Slipknot, ex-Sepultura) — Evans heads across his Tama Starclassic Bubinga kit and Tama Bell Brass 14x5.5" snare
 
@@ -54,4 +54,4 @@ The company built its reputation through the following decades on that original 
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-11-24 · Source: [MetalForge.io](https://metalforge.io)*

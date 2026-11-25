@@ -17,39 +17,38 @@ Questions cover:
 
 ### Blast Beat Specialist
 If your answers skew toward fast tempos, death or black metal, and aggressive playing: you match George Kollias, Pete Sandoval, or Derek Roddy.
-- **George Kollias** (Nile): Yamaha drums, Soultone cymbals, extreme blast beat speed
-- **Pete Sandoval** (Morbid Angel): Sonor SQ2, Pearl Demon Drive double pedal, the originator of modern blast beats
-- **Derek Roddy** (Hate Eternal/Nile): Pearl Reference Pure, renowned for education and precision at extreme tempos
+- **George Kollias** (Nile): Pearl Masterworks Stadium Exotic drums, Zildjian A Custom Series cymbals, extreme blast beat speed
+- **Pete Sandoval** (Morbid Angel): ddrum kit and pedals, the originator of modern blast beats
+- **Derek Roddy** (Hate Eternal/Nile): Tama Starclassic Bubinga, renowned for education and precision at extreme tempos
 
 ### Groove Metal
-Drummers who favour feel, syncopation, and mid-tempo heaviness match: Vinnie Paul, Shannon Larkin, or Dave McClain.
-- **Vinnie Paul** (Pantera): Pearl Reference, DW 9000 pedals — the definitive groove metal drummer
-- **Shannon Larkin** (Godsmack): Tama Starclassic Maple, precise rock feel
-- **Dave McClain** (Machine Head): Pearl Reference, consistent groove metal backbone
+Drummers who favour feel, syncopation, and mid-tempo heaviness match: Vinnie Paul or Shannon Larkin.
+- **Vinnie Paul** (Pantera): ddrum kit and hardware — the definitive groove metal drummer
+- **Shannon Larkin** (Godsmack): ddrum Dios Series, precise rock feel
 
 ### Tech / Progressive
 If your answers lean toward odd time signatures, complex fills, or polyrhythms: you match Tomas Haake, Matt Halpern, or Matt Garstka.
-- **Tomas Haake** (Meshuggah): Pearl Reference Pure, Meinl Byzance — polymetric patterns, extreme precision
-- **Matt Halpern** (Periphery): DW Performance, Meinl Byzance — djent meets progressive feel
-- **Matt Garstka** (Animals as Leaders): Sonor SQ2, Meinl Byzance — jazz-fusion polyrhythm mastery
+- **Tomas Haake** (Meshuggah): Sonor SQ2 Heavy Beech, Sabian HHX and AAX — polymetric patterns, extreme precision
+- **Matt Halpern** (Periphery): Pearl Reference Series, Meinl Byzance — djent meets progressive feel
+- **Matt Garstka** (Animals as Leaders): DW Collector's Series, Meinl Byzance — jazz-fusion polyrhythm mastery
 
 ### Classic Metal
 Answers pointing toward traditional heavy metal, NWOBHM, or thrash match: Lars Ulrich, Nicko McBrain, or Charlie Benante.
 - **Lars Ulrich** (Metallica): Tama Starclassic, Zildjian A — the most recognised thrash drummer
-- **Nicko McBrain** (Iron Maiden): Premier/Sonor, wide tom configurations, galloping patterns
+- **Nicko McBrain** (Iron Maiden): British Drum Co. (Sonor signature snare), wide tom configurations, galloping patterns
 - **Charlie Benante** (Anthrax): Tama Starclassic, Paiste, technical thrash with jazz influences
 
 ### Death Metal Core
 Mid-range death metal placement matches Gene Hoglan, Paul Mazurkiewicz, or Flo Mounier.
-- **Gene Hoglan** (Death/Testament): Tama Starclassic Maple, precise timing, "Atomic Clock" nickname
+- **Gene Hoglan** (Death/Testament): Pearl Reference Pure, precise timing, "Atomic Clock" nickname
 - **Paul Mazurkiewicz** (Cannibal Corpse): Pearl Reference, straightforward death metal brutality
-- **Flo Mounier** (Cryptopsy): DW Collector's, blazing technical death metal
+- **Flo Mounier** (Cryptopsy): Tama Starclassic Maple, blazing technical death metal
 
 ### Nu-Metal / Alternative
 Heavier-than-rock, groove-forward matching: Joey Jordison, Ray Luzier, or Abe Cunningham.
-- **Joey Jordison** (Slipknot): Pearl Reference, Zildjian A — explosive nu-metal showman
-- **Ray Luzier** (Korn): Tama Starclassic, Meinl Classics Custom — nu-metal with prog tendencies
-- **Abe Cunningham** (Deftones): Tama Starclassic Maple, atmospheric alternative metal feel
+- **Joey Jordison** (Slipknot): Pearl Reference, Paiste RUDE & 2002 Series — explosive nu-metal showman
+- **Ray Luzier** (Korn): Pearl Reference Series, Sabian AAX Series — nu-metal with prog tendencies
+- **Abe Cunningham** (Deftones): Tama Starclassic Bubinga, atmospheric alternative metal feel
 
 ## About the Match
 

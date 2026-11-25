@@ -18604,3 +18604,39 @@ Not due this run (today is Tuesday 2026-11-24; already done this week Monday 202
 2. `public/llms/genres/` (9/9) and `public/llms/tools/` (6/6) are now fully audited — don't re-run either sweep.
 3. `public/llms/gear-series/` is generator-backed (not a manual-sweep target) but worth a narrow follow-up: since the generator has no orphan-cleanup step, there may be *other* stale `gear-series/*.md` pages beyond the Mapex Falcon one whose underlying brand/series dropped below the 2-drummer threshold after a root-data gear change — a future run could `git diff`-check a local regen against all committed `gear-series/*.md` filenames to find any others (don't just trust the freshness-check CI, since it doesn't flag orphans, only content drift on files the generator still touches).
 4. GSC content-gap: none this snapshot. Drum-chair watch: already done this week (group 0, zero changes). Next due Monday 2026-11-30, group 1.
+
+## 2026-11-25 ~01:xx UTC (SEO Agent run — 1 proposal filed #11123, full-tree orphan audit)
+
+### Bank check
+Bank at run start: 11 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656, 4 fresh #11119-11122 filed 2026-11-24). Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: confirmed `api/robots.js` serves the 13-block AI-crawler allowlist (route, not a static file — `find` for `robots.txt` on disk correctly finds nothing).
+- `/llms/*.md` endpoints: 2,027 files live under `public/llms/`.
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-25 01:02 UTC): none this snapshot.
+- Drum-chair watch: not due (today is Wednesday 2026-11-25; last swept Monday 2026-11-23 group 0; next due Monday 2026-11-30 group 1).
+
+### Full-tree generator/orphan audit (follow-up from last run's instruction #3)
+Ran `npm run generate:llms` (all 42 generators) against the full `public/llms/**` tree and diffed: **zero genuine content drift** anywhere except the expected `public/llms-full.txt` cosmetic re-stamp (known non-issue). This confirms the CI freshness job (`check-llms-freshness.yml`, daily 07:30 UTC) is doing its job — no manual-sweep backlog remains in any generator-covered directory.
+
+Then used an mtime-based diff (`touch` a reference file, regen, `find -not -newer`) to isolate files no generator touched at all — these are the true orphan-risk set (generator drops them from its output but never deletes the committed file, the same bug class as #11109/#11119/#11120):
+- **gear-series** (12 untouched): all 12 already covered by open #11119 (11 explicitly) + #11109 (mapex-falcon) — confirmed exact filename match, no new work.
+- **lists/pedals/snares singles** (3 untouched): `lists/best-metal-drummers-playing-dw-kits.md`, `snares/signature/george-kollias.md`, `pedals/setups/martin-axenrot.md` — all 3 already covered by open #11120.
+- **pedals/setups/dave-lombardo.md** (1 untouched): already covered by open #11122 (restore-the-data-entry direction, not delete — root gained a sourced pedal field `pedals.js` never picked up).
+- **drumsticks/signature/george-kollias.md** (1 untouched, **not previously filed**): confirmed via `git log` that commit `78e4b0878` (fix #7070) removed George Kollias's fabricated "Vic Firth SGK" from `drumsticks.js` long ago; this `/llms/` mirror was never swept and still asserts the fabricated SGK as "Verified roster hardware entry." Confirmed zero sitemap impact (`DRUMMER_STICKS` keys drive both the live page and llms-mirror sitemap entries; Kollias isn't a key). Filed **#11123**.
+- Root-level static files with no generator at all (`quotes.md`, `quiz.md`, `kit-quiz.md`, `guess-the-kit.md`, `facts.md`, `brands-timeline.md`, `bpm.md`, `birthdays.md`) — spot-checked `facts.md`/`bpm.md`, found no obvious verifiable error in the sample reviewed, but these are a genuinely unswept hand-authored family (dated 2026-06/07, fact-dense). Didn't force a proposal without a concrete finding — flagging as the next sweep target.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 766u/811s/1,065v 7d, engagement 41.80%. GSC 13,265 impr/225 clicks/1.70% CTR/pos 7.2. No content-gap rows this snapshot.
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #11119-11122 (filed 2026-11-24, not yet triaged per this run's snapshot)
+- #11123 (this run)
+
+### Next run
+1. Watch #11123 pick up — trivial single-file deletion, lowest atomicity-risk in the batch.
+2. Confirm #11119-11122 triaged/merged (all pre-date this run).
+3. **Next unswept target**: the root-level hand-authored fact files (`facts.md`, `bpm.md`, `birthdays.md`, `quotes.md`, `brands-timeline.md` — no generator covers any of them). Spot-checked 2 this run with no finding; a dedicated pass verifying their claims against `api/drummers/index.js` / external sources (esp. `bpm.md`'s 150 song-tempo claims — would need web lookups, not just grep) is the logical next sweep.
+4. GSC content-gap: none this snapshot. Drum-chair watch: not due until Monday 2026-11-30 (group 1: damageplan...judas-priest).

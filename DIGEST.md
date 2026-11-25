@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-25 08:14 UTC · Window: last 12h*
+*Generated 2026-11-25 19:08 UTC · Window: last 12h*
 
 ---
 
@@ -8,23 +8,23 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **20** |
-| Open `seo-proposal` issues | 10 |
+| Open `ai-fix` issues | **22** |
+| Open `seo-proposal` issues | 11 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **4** |
-| Issues closed in window | 5 |
-| Commits to `main` in window | 8 |
+| Open PRs | 2 |
+| PRs merged in window | **3** |
+| Issues closed in window | 3 |
+| Commits to `main` in window | 10 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **799** |
-| Sessions | 845 |
-| Page views | 1,101 |
-| Engagement rate | 41.66% |
+| Active users | **836** |
+| Sessions | 882 |
+| Page views | 1,149 |
+| Engagement rate | 41.72% |
 | GSC impressions | 16,313 |
 | GSC clicks | 285 |
 | GSC CTR | 1.75% |
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~4,719 |
-| Est. ad revenue / mo | **~€14.16** |
-| Progress to €1000/mo | 1.4% |
-| Pageviews/mo needed for €1000 | ~333,333 (71× current) |
+| Est. pageviews / mo | ~4,924 |
+| Est. ad revenue / mo | **~€14.77** |
+| Progress to €1000/mo | 1.5% |
+| Pageviews/mo needed for €1000 | ~333,333 (68× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -73,48 +73,42 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 48 | 48 | 0 |
-| Check llms freshness | 5 | 0 | 5 |
-| Verify YouTube Videos | 5 | 3 | 2 |
+| PR Merger | 53 | 53 | 0 |
+| Check llms freshness | 6 | 0 | 4 |
+| Roadie (Watcher + Implementer) | 6 | 6 | 0 |
 | Health Check | 4 | 4 | 0 |
-| Check Sitemap Drift | 4 | 2 | 2 |
+| Loop Watchdog | 3 | 3 | 0 |
+| Daily Digest | 2 | 1 | 0 |
 | SEO Agent | 2 | 2 | 0 |
 | CEO Agent | 2 | 2 | 0 |
-| Verify Data Modules | 2 | 1 | 1 |
-| Verify API Modules | 2 | 1 | 1 |
-| Roadie Night Fleet | 2 | 2 | 0 |
-| Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
-| Perf Budget Gate | 1 | 0 | 1 |
+| Roadie Night Fleet | 1 | 1 | 0 |
+| X Agent | 1 | 1 | 0 |
+| Verify YouTube Videos | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-25 18:08 (cheap pulse — 2/2 proposals verified+promoted #11131-11132)
+- 2026-11-25 12:11 (daily deep run — 3/3 proposals verified+promoted #11128-11130)
 - 2026-11-24 07:xx (daily deep run — 8/8 proposals verified+promoted #11076-11083)
 - 2026-11-24 00:18 (cheap pulse — 8/8 proposals verified+promoted #11060-11070)
 - 2026-11-24 12:11 (cheap pulse — 7/7 proposals verified+promoted #11092-11098)
 - 2026-11-24 18:09 (mid-day pulse — anti-noise hold, 2/2 proposals verified+promoted #11108-11109)
-- 2026-11-25 06:13 (cheap pulse — 1 proposal triaged, closed as already-fixed)
-- 2026-11-25 00:19 (cheap pulse — 4/4 proposals verified+promoted #11119-11122)
 
-## 📦 Shipped to main (4)
+## 📦 Shipped to main (3)
 
-- #11126 fix: #11120 SEO batch: delete 3 more orphaned public/llms/** mirror files (lists/dw-kits, snares/signature/george-kollias, pedals/setups/martin-axenrot)
-- #11127 fix: #11122 SEO: restore Dave Lombardo's verified pedal entry to pedals.js (root gained a sourced hardware field since #8989 removed it)
-- #11125 fix: #11121 SEO: api/drummers/index.js (root) George Kollias record still fabricates Vic Firth 'SGK' signature stick — the one file never fixed across 8+ closed sibling issues
-- #11124 fix: #11119 SEO batch: delete 11 orphaned/stale public/llms/gear-series/*.md files (generator no longer emits them)
+- #11135 fix: #11130 SEO: public/llms/birthdays.md FAQ 'which month has the most birthdays' contradicts the file's own table
+- #11134 fix: #11129 SEO: public/llms/facts.md — Nicko McBrain album count overstated (17→14) and Tama roster-share stat stale (40%→~29%)
+- #11133 fix: #11128 SEO: public/llms/bpm.md — 6 BPM/drummer attribution errors already corrected in metalSongsBpm.js but never synced to the mirror
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 523h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2833h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2929h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 3106h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4191h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 534h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2844h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2940h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 3117h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4202h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

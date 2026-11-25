@@ -13,19 +13,19 @@ Each round shows a drum kit photograph. Players have multiple-choice options or 
 
 Each professional drummer's kit has a distinct visual signature formed by brand logos, shell configurations, and cymbal setups:
 
-**Lars Ulrich** plays Tama Starclassic Maple or Bubinga kits with Zildjian A and K cymbals. His kits feature a large double-bass configuration with prominent roto-toms and Tama hardware.
+**Lars Ulrich** plays a Tama Starclassic Maple kit with Zildjian A Custom cymbals. His kit features a large double-bass configuration with Tama hardware.
 
-**Dave Lombardo** has played Pearl Reference and Evans heads with Paiste RUDE and 2002 cymbals. Paiste's large logo on heavy cymbals is a strong visual cue for Lombardo setups.
+**Dave Lombardo** has played Tama Starclassic Walnut/Birch kits with Paiste RUDE and 2002 cymbals. Paiste's large logo on heavy cymbals is a strong visual cue for Lombardo setups.
 
-**George Kollias** uses Yamaha kits with Soultone cymbals — a less common combination that immediately narrows the field. The Soultone logo and Yamaha Recording Custom shell finish are distinctive at a glance.
+**George Kollias** uses Pearl Masterworks Stadium Exotic kits with Zildjian A Custom cymbals — a distinctive combination that narrows the field. The Pearl logo and exotic shell finish are distinctive at a glance.
 
-**Tomas Haake** plays Pearl Reference Pure drums with Meinl Byzance cymbals. The Pearl logo and Byzance series' dark hammered finish are recognisable identifiers.
+**Tomas Haake** plays Sonor SQ2 Heavy Beech drums with Sabian HHX and AAX cymbals. The Sonor logo and distinctive lug design are recognisable identifiers.
 
-**Joey Jordison** used Pearl Reference with Zildjian A cymbals and ddrum Dios as his signature kit. The rotating drum riser on live setups and characteristic black-finish kit are iconic.
+**Joey Jordison** used Pearl Reference drums with Paiste RUDE and 2002 cymbals. The rotating drum riser on live setups and characteristic black-finish kit are iconic.
 
-**Danny Carey** plays Pearl Reference Pure or Reference kits with Paiste cymbals and uses custom electronic triggers alongside acoustic drums — a hybrid setup with distinctive visual cues from the trigger pads.
+**Danny Carey** plays Sonor SQ2 Heavy Beech kits with Paiste cymbals and uses electronic percussion alongside acoustic drums — a hybrid setup with distinctive visual cues from the trigger pads.
 
-**Gene Hoglan** is associated with Tama Starclassic Maple and Meinl Byzance, with one of the largest tom configurations in metal — often six or more toms visible.
+**Gene Hoglan** is associated with Pearl Reference Pure drums and Sabian AAX cymbals, with one of the largest tom configurations in metal — often six or more toms visible.
 
 **Mike Portnoy** played Tama Starclassic during Dream Theater's key period and is recognisable by his massive multi-bass configuration and extensive cymbal array, often 10+ cymbals.
 
@@ -35,14 +35,12 @@ Each professional drummer's kit has a distinct visual signature formed by brand 
 |-----|------------------|
 | Pearl logo on bass drum | Pearl Reference, Reference Pure, or Masters |
 | Tama logo with maple finish | Starclassic Maple or Bubinga |
-| Yamaha Recording Custom | George Kollias or Mario Duplantier era |
-| Meinl Byzance cymbals (dark hammered) | Haake, Halpern, Garstka, Casagrande |
+| Meinl Byzance cymbals (dark hammered) | Halpern, Garstka |
 | Paiste RUDE or 2002 (bright, heavy) | Dave Lombardo, Scott Travis era |
-| Zildjian A Custom (bright, thin) | Lars Ulrich, Joey Jordison |
-| Sonor SQ2 (distinctive lug design) | Pete Sandoval, George Kollias older setup |
-| DW Collector's Series | Flo Mounier, Matt Halpern |
+| Zildjian A Custom (bright, thin) | Lars Ulrich |
+| DW Collector's Series | Matt Garstka |
 | Rotating riser or inverted kit angle | Joey Jordison live setup |
-| Hybrid e-pads alongside acoustic shells | Danny Carey, Raymond Herrera |
+| Hybrid e-pads alongside acoustic shells | Danny Carey |
 
 ## Scoring
 

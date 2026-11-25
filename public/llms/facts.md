@@ -18,7 +18,7 @@
 
 ## Gear Records & Statistics
 
-- **Most popular drum brand on the MetalForge roster:** Tama is used by approximately 40% of the MetalForge roster, followed by Pearl, Sonor, DW, and Mapex.
+- **Most popular drum brand on the MetalForge roster:** Tama is used by approximately 29% of the 72 drummers we cover, followed by Pearl, Sonor, DW, and Mapex.
 - **Top cymbal brands in metal:** Zildjian, Sabian, Meinl, and Paiste dominate the metal world. Most players prefer heavier cymbal weights (Zildjian A Custom, Sabian AAX, Meinl Byzance) for projection and durability under high-velocity stick attack.
 - **Average cost of a professional metal drum kit:** A competition-grade metal shell pack typically costs $3,000–$15,000. A full touring setup including cymbals, hardware, double pedal, and electronic triggers runs $5,000–$30,000+.
 - **Most popular double bass pedal:** The Tama Iron Cobra, Pearl Demon Drive, DW 9000, and Axis A Longboard are the top four choices among MetalForge-profiled drummers. Direct-drive mechanisms are preferred for speed; cam-drive for feel and power.
@@ -30,7 +30,7 @@
 ## Career Milestones
 
 - **Longest active tenure:** [Bill Ward](https://metalforge.io/llms/drummers/bill-ward.md) drummed for Black Sabbath from 1968 onward, making him one of the longest-serving drummers in heavy metal history with over five decades of active performance.
-- **Longest uninterrupted major-label tenure:** [Nicko McBrain](https://metalforge.io/llms/drummers/nicko-mcbrain.md) has been the drummer of Iron Maiden continuously since 1982 — over 40 years — across 17 studio albums.
+- **Longest uninterrupted major-label tenure:** [Nicko McBrain](https://metalforge.io/llms/drummers/nicko-mcbrain.md) has been the drummer of Iron Maiden continuously since 1982 — over 40 years — across 14 studio albums.
 - **Most bands recorded with:** [Gene Hoglan](https://metalforge.io/llms/drummers/gene-hoglan.md) (nicknamed "The Atomic Clock") has recorded with over 30 different bands including Death, Dark Angel, Testament, Fear Factory, Dethklok, and Strapping Young Lad — one of the widest session and full-member discographies in extreme metal.
 - **Most side-project albums:** [Mike Portnoy](https://metalforge.io/llms/drummers/mike-portnoy.md) is estimated to have recorded on over 50 studio albums across Dream Theater, Liquid Tension Experiment, The Winery Dogs, Sons of Apollo, and dozens of other collaborations.
 - **Earliest metal drumming innovator:** [Bill Ward](https://metalforge.io/llms/drummers/bill-ward.md) of Black Sabbath (from 1968) is widely considered the godfather of heavy metal drumming, blending jazz swing with crushing rock in a style that defined the genre before "metal" had a name.

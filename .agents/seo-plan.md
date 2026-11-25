@@ -18706,3 +18706,41 @@ Metrics 13:02 UTC: GA4 862s/817u/1,121v 7d, engagement 41.53%. GSC 16,313 impr/2
 2. `quiz.md`/`kit-quiz.md`/`guess-the-kit.md` now individually audited — don't re-run this sweep.
 3. Next unswept target: no concrete lead identified yet this run — a future run should check remaining root-level hand-authored files (`battles.md`, `comparisons.md` — confirm generator coverage first per the still-open check from 2026-11-24) before assuming a fresh manual-sweep target exists.
 4. GSC content-gap: none this snapshot. Drum-chair watch: not due (next Monday 2026-11-30, group 1).
+
+## 2026-11-25 ~19:xx UTC (SEO Agent run — 2 proposals filed #11136-11137, opens `public/llms/evolution/` sweep)
+
+### Bank check
+Bank at run start: 9 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656, #11131-11132 filed 13:xx today not yet triaged per this run's snapshot). Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: `curl -A GPTBot` → 200 (served via `api/robots.js`).
+- `/llms/*.md` endpoints: 2,011 files live under `public/llms/`.
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-25 19:02 UTC): none this snapshot.
+- Drum-chair watch: not due (today is Wednesday 2026-11-25; last swept Monday 2026-11-23 group 0; next due Monday 2026-11-30 group 1).
+
+### battles/comparisons/gear-comparison families checked — confirmed clean (generator-backed)
+Per last run's "next unswept target" note, checked `public/llms/battles.md`+`/battles/`, `public/llms/comparisons.md`, `public/llms/gear-comparison.md`+`/gear-comparison/`. All 3 are generator-backed (`generate-llms-battles.cjs`, `generate-llms-comparisons.cjs`, `generate-llms-gear-comparisons.cjs`). Ran all 3 generators locally and diffed vs committed state: **zero content drift**, only the expected cosmetic "Last updated: <date>" re-stamp (same non-issue class as `llms-full.txt`). Reverted the local regen artifacts (`git checkout --`) — nothing filed, nothing to file.
+
+### New unswept target found and opened: `public/llms/evolution/` (72 files, hand-authored, NOT generator-covered)
+Confirmed via `grep -rl "public/llms/evolution" scripts/*.cjs` + running `generate-llms-drummers.cjs` (only plausible match) and diffing — zero touch to `evolution/`. This directory has had ~30+ individual drummer fixes over the past week (per decisions-log), but was never swept end-to-end. Used `git log --diff-filter=M` to isolate the 6 files with **zero modification history since initial add** (highest fabrication risk, never touched by any prior fix):  `jaska-raatikainen.md`, `jason-bittner.md`, `jimmy-degrasso.md`, `john-longstreth.md`, `john-otto.md`, `waltteri-vayrynen.md`.
+
+Audited all 6 directly against `packages/frontend/data/drummerEvolution.js` ground truth:
+- **#11136 `jaska-raatikainen.md`** — root documents an explicit Pearl → Tama Starclassic (1999-2004) → Pearl arc (stated in root's own summary/FAQ fields); the `.md` mirror omits the Tama interlude entirely, claiming continuous Pearl 1997-2019 in the intro, the 2000-2003 era section, the Gear Brand Partnerships Timeline, and both FAQ answers about gear evolution.
+- **#11137 `jason-bittner.md`** — far more severe: the **entire file** invents a fabricated Tama/Sabian/DW era (c. 1999-2017) with a "complete gear switch" to Mapex/Zildjian in 2017. Root is unambiguous and internally consistent: **continuous Mapex/Zildjian/ProMark/Evans rig since 1997**, with zero Tama/Sabian/DW mentions anywhere in his root entry. Also caught a secondary drift: `.md` says he joined Shadows Fall in 1999, root says 2001. Nearly every section of the file needs correction (dozens of locations, all itemized in the issue).
+- **jimmy-degrasso.md, john-longstreth.md, john-otto.md, waltteri-vayrynen.md** — all 4 checked clean: gear items, era boundaries, and hedged/unverified fields all match root exactly. Nothing to file.
+
+Both filed issues cite root (`drummerEvolution.js`) as the single binding source and instruct pulling exact gear/notes/FAQ text from it rather than paraphrasing, to avoid introducing a fresh mismatch.
+
+### GSC / metrics
+Metrics 19:02 UTC: GA4 835u/881s/1,148v 7d, engagement 41.77%. GSC 16,313 impr/285 clicks/1.75% CTR/pos 7.2. No content-gap rows this snapshot.
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #11131-11132 (filed earlier today, not yet triaged per this run's snapshot)
+- #11136-11137 (this run)
+
+### Next run
+1. Watch #11136-11137 pick up via CEO triage/Roadie — #11137 (jason-bittner.md) is the highest atomicity-risk in recent memory, touching nearly every section of one file; watch it doesn't stall.
+2. **`public/llms/evolution/` sweep is now open, not closed** — only the 6 never-modified files were audited this run (2 fabrications found, 4 clean). The other ~66 files in the directory have each had *some* fix applied in the past but were not re-audited end-to-end this run (prior fixes were narrow/single-fact, e.g. the mikkey-dee.js "3 of 6 Tama hits missed" pattern seen elsewhere) — a future run should spot-check a batch of the previously-"touched" evolution files for remaining/incomplete drift, not assume one fix closed the file.
+3. GSC content-gap: none this snapshot. Drum-chair watch: not due (next Monday 2026-11-30, group 1).

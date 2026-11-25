@@ -2,7 +2,7 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-24 00:18 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-25 00:19 UTC*
 
 ---
 ## 2026-11-24 07:xx (daily deep run — 8/8 proposals verified+promoted #11076-11083)
@@ -33,6 +33,9 @@ Proposal promotions 8/8, gated by backlog (0, well under 45). No L1/L2/L3-source
 ---
 
 ---
+
+---
+
 ## 2026-11-24 00:18 (cheap pulse — 8/8 proposals verified+promoted #11060-11070)
 - Backlog: 8 ai-fix (#11060/11061/11062/11063/11065/11066/11067/11070, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 717 / 761 / 1,029 · GSC 13,102 impr / 235 clicks / 1.79% CTR / pos 7.5, 0 content-gap rows this snapshot
@@ -43,6 +46,9 @@ Proposal promotions 8/8, gated by backlog (0, well under 45). No L1/L2/L3-source
 - Next check: first run after 07:00 UTC is the daily deep run
 
 ---
+
+---
+
 ## 2026-11-23 00:21 (cheap pulse — 4/4 proposals verified+promoted #11015/11017/11019/11021)
 - Backlog: 4 ai-fix (#11015/11017/11019/11021, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 767 / 822 / 1,088 · GSC 12,843 impr / 251 clicks / 1.95% CTR / pos 7.6, 0 content-gap rows this snapshot
@@ -56,6 +62,8 @@ Proposal promotions 8/8, gated by backlog (0, well under 45). No L1/L2/L3-source
 
 ---
 
+---
+
 ## 2026-11-22 00:20 (cheap pulse — 8/8 proposals verified+promoted #10952/10953/10955-10960)
 - Backlog: 8 ai-fix (#10952/10953/10955-10960, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 829 / 890 / 1,161 · GSC 12,466 impr / 250 clicks / 2.01% CTR / pos 7.8, 1 content-gap row (`raymond herrera`, long-ruled class-2, held, no new issue — now also partially addressed by merged #10965)
@@ -63,6 +71,8 @@ Proposal promotions 8/8, gated by backlog (0, well under 45). No L1/L2/L3-source
 - Actions: live-verified all 8 fresh `gear-history`/`.md`-mirror fabrication-drift proposals directly against `api/drummers/index.js` ground truth, zero dupes — Koperweis tenure year, Koller drum-model+cross-drummer-snare misattribution, Erlandsson cymbal/stick brand (~15 locations), Mounier fabricated gear eras, Roddy full rig+tenure, Lombardo wood species, Art Cruz band tenure years, Daray sticks+crash sizes — all promoted ai-fix. Flagged in a comment on held #7981 that root (`api/drummers/index.js`) already carries a `verified:true` Derek Roddy snare value predating that issue's filing, siding with extendedBios.js — left held per original ask, not closed unilaterally.
 - L1/L2/L3 snapshots still the 2026-11-16 refresh; weekly refresh due ~2026-11-23, not due this run. Founder ideas inbox empty (unchanged since 2026-06-19)
 - Next check: first run after 07:00 UTC is the daily deep run — L1/L2/L3 refresh lands right around then, close the loop if present
+
+---
 
 ---
 
@@ -114,6 +124,8 @@ First run after 13:00 UTC = mid-day pulse. Metrics 18:07 UTC (915u/981s/1,257v 7
 
 ---
 
+---
+
 ## 2026-11-21 12:10 (daily deep run — 4/4 proposals verified+promoted #10929-10932)
 
 ### Context (≤3 lines)
@@ -143,6 +155,8 @@ First run after 07:00 UTC = daily deep run. Metrics 12:10 UTC (879u/944s/1,207v 
 1. Watch #10929-10932 pick up via Roadie and merge clean (same pattern as every recent batch).
 2. L1/L2/L3 weekly refresh due ~2026-11-23 — the next deep run that postdates it should close the loop.
 3. #10174 now 18 days old, still no concrete trigger to escalate on. #7981/#10032/#10099/#10655/#10656 held pending founder-level re-verification, unchanged. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
 
 ---
 
@@ -194,6 +208,8 @@ Hourly pulse, before the 07:00 UTC deep-run threshold. Metrics 06:11 UTC (861u/9
 
 ---
 
+---
+
 ## 2026-11-21 00:19 (cheap pulse — 5/5 proposals verified+promoted #10913-10917)
 
 ### Context (≤3 lines)
@@ -222,6 +238,8 @@ First logged run since 2026-11-19 12:10 (hourly runs 13:00-23:00 UTC were clean 
 1. Watch #10913-10917 pick up via Roadie — all 5 are small/single- or few-file, low atomicity-risk.
 2. Backlog is thin (6) — next pulse should top up liberally if the SEO Agent's next batch lands before the queue clears.
 3. #7981/#10032/#10099/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
 
 ---
 
@@ -264,6 +282,8 @@ Daily deep run (first after 07:00 UTC). Metrics 12:10 UTC (749u/815s/1,035v 7d; 
 1. Watch #10818-10827 pick up via Roadie; #10818 (~40-location batch) is the highest atomicity-risk — watch it doesn't stall >3 days without a PR.
 2. First run after 19:00 UTC is evening review — confirm this batch merged clean.
 3. #10174 now 15 days old, still no concrete trigger to escalate on. #7981/#10032/#10099/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
 
 ---
 
@@ -323,6 +343,8 @@ Daily deep run (first after 07:00 UTC). Metrics 12:10 UTC (789u/855s/1,127v 7d; 
 
 ---
 
+---
+
 ## 2026-11-18 06:14 (cheap pulse — 7/7 proposals verified+promoted #10801-10807)
 - Backlog: 7 ai-fix (#10801-10807, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 729 / 795 / 1,013 · GSC 12,396 impr / 258 clicks / 2.08% CTR / pos 7.8, 2 content-gap rows (`raymond herrera`, `jaska raatikainen`, both already-ruled class-2, held)
@@ -330,6 +352,8 @@ Daily deep run (first after 07:00 UTC). Metrics 12:10 UTC (789u/855s/1,127v 7d; 
 - Actions: live-verified all 7 fresh proposals against `api/drummers/index.js` ground truth — #10801 (Joey Jordison kitQuizData.js drums field re-drifted to stale 'Pearl Masters Premium Maple', root is 'Pearl Reference Series'), #10802 (extendedBios.js Joey Jordison FAQ self-contradiction, confirmed 2 of 3 stale FAQ answers, flagged a 3rd the issue missed), #10803 (George Kollias kitQuizData.js fabricated signature snare + wrong pedal name, confirmed vs root's hedged/unverified record), #10804 (Mike Portnoy kitQuizData.js drums field copy-pasted from Lombardo's entry + fabricated 'Rolling Glide' pedal), #10805 (Mario Duplantier kitQuizData.js fabricated signature snare + wrong pedal config), #10806 (Vinnie Paul kitQuizData.js asserting fabricated specific models incl. wrong hardware brand DW vs ddrum), #10807 (snares.js/top10ListsCatalog.js still classify Danny Carey as unverified despite root's verified:true since 2026-08-08, same bug class as closed #10763/#10597) — zero dupes vs closed sibling issues, all 7 promoted with verification comments
 - L1/L2/L3 snapshots still dated 2026-11-16 (gsc-watch 08:26, indexation 09:30); weekly refresh due ~2026-11-23 — not due this run
 - Next check: first run after 07:00 UTC is the daily deep run — full metrics/GSC-gap/L1/L2/L3 pass (not due until ~11-23)
+
+---
 
 ---
 
@@ -396,195 +420,6 @@ First logged run since 2026-11-17 18:09 (hourly runs 19:00-23:00 UTC were clean 
 
 ---
 
-## 2026-11-17 18:09 (mid-day pulse — 5/5 proposals verified+promoted #10774-10778)
-
-### Context (≤3 lines)
-First run after 13:00 UTC (mid-day pulse). Metrics 18:09 UTC (770u/838s/1,080v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos 7.9, 2 content-gap rows: `raymond herrera`/`jaska raatikainen`, both already-ruled class-2). At run start: the 12:10 deep-run batch (#10763-10770) had already fully drained — eligible `ai-fix` backlog **0**, 0 open PRs (confirmed via `git log`: commits for #10766/#10767/#10768/#10769/#10770 all merged). 5 fresh untriaged `seo-proposal` (#10774-10778, filed 13:08-13:09 UTC) — drummerEvolution.js snare fabrications (3) + 1 endorsementNews.js/pedals.js hardware-hedge violation + 1 endorsementNews.js date error.
-
-### Actions taken
-- **Live-verified all 5 directly** against root ground truth (`api/drummers/index.js`, `bands.js`), zero dupes (`gh issue list --search` per topic, all prior hits CLOSED or the issue's own self-flagged #7466 exception):
-  - #10774 Gene Hoglan: confirmed `drummerEvolution.js:2938/2978` fabricated "Tama Gene Hoglan Signature Snare 14x8\"" vs root `gear.snare` unverified-Pearl hedge. Confirmed, promoted.
-  - #10775 George Kollias: confirmed fabricated "Pearl Free-Floating Steel 14\"×6.5\"" snare spec vs root unverified hedge — **but found 3 locations within the george-kollias block (lines 5441/5512/5589), not the 2 the issue cites**; commented the correction so Roadie fixes all 3. Also checked the same exact string's other file-wide hits (dave-lombardo/paul-mazurkiewicz blocks) — Mazurkiewicz's is root-verified correct, Lombardo's sits in a historical-era sub-block not necessarily contradicting his current-era root record; neither is in scope for this issue, left untouched.
-  - #10776 Jocke Wallgren: confirmed `drummerEvolution.js` snare.item fields (~20523/20589) self-contradict their own notes field's unverified hedge, residual of closed #8999. Confirmed, promoted.
-  - #10777 Martin Axenrot: confirmed root `gear.hardware: 'Unverified'` + kitOverview hedge vs `endorsementNews.js` currentEndorsements/timeline asserting DW hardware as fact, propagated into `pedals.js`'s `dw-martin-axenrot` entry via a prior fix (#7351) that conflated the record's overall verified:true with the hardware field specifically. Confirmed, promoted.
-  - #10778 Igor Cavalera: confirmed `endorsementNews.js` dates 3 Cavalera Conspiracy gear switches to 2006 vs `bands.js` verified formed:2007/Inflikted:2008; sibling files (drummerEvolution.js, extendedBios.js) already date correctly, confirming endorsementNews.js as the outlier. Also respected the issue's note not to touch open #7466 (which repeats the same wrong premise) in this fix. Confirmed, promoted.
-  - All 5 promoted to `ai-fix` with verification comments. All existing-page data-rot/fabrication/self-contradiction fixes, freeze-compliant.
-- **GSC content-gap**: 2 rows, both already-ruled class-2 bare-name queries, held, no new issue. **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 now 14 days unanswered (0 comments), no new trigger. #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam. Held proposals #7981/#10099/#10032/#10655/#10656 (`human` label) — unchanged, no re-spam.
-- **L1/L2/L3**: snapshots still dated 2026-11-16, full close-the-loop pass already done in the 12:15 (11-16) and 12:10 (11-17) deep runs; next weekly refresh due ~2026-11-23 — not due this run.
-- **Starvation check**: post-triage backlog 0→5, bank 5→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month; not genuine starvation.
-- **Roadie progress check** (per mid-day pulse routine): 12:10 batch (#10763-10770) confirmed fully merged (8 commits, `git log` verified) within the same pulse window — fleet draining same-day as usual, nothing to unblock.
-
-### State delta
-- ai-fix backlog (eligible): 0 → 5 (#10774-10778 promoted)
-- seo-proposal bank (untriaged fresh, excl. held/umbrella): 5 → 0
-
-### Quota check
-✅ SEO proposals: 5/5 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 2 rows, already-ruled class-2, no new issue. ✅ L1/L2/L3: not due until ~11-23. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible (all open ai-fix issues fresh, <1hr old). ✅ Decisions logged.
-
-### Next Run
-1. Watch #10774-10778 pick up via Roadie; #10775 (George Kollias, now 3 locations not 2 per my comment) is the highest atomicity-risk — watch it doesn't stall >3 days without a PR.
-2. L1/L2/L3 weekly refresh due ~2026-11-23 — run the full close-the-loop pass once new snapshots land.
-3. First run after 19:00 UTC is the evening review. #10174 now 14 days old, still no concrete trigger to escalate on. #7981/#10099/#10032/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-11-17 12:10 (deep run — 8/8 proposals verified+promoted #10763-10770; L1/L2/L3 not due this run)
-
-### Context (≤3 lines)
-First run after 07:00 UTC with no deep-run entry yet today — treated as the daily deep run. Metrics 12:10 UTC (762u/830s/1,059v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos 7.9, 2 content-gap rows: `raymond herrera`/`jaska raatikainen`, both confirmed class-2). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#10763-10770, filed 07:22-07:23 UTC) — beginnerGuides.js/endorsementNews.js/drummerEvolution.js data-rot fixes.
-
-### Actions taken
-- **Live-verified all 8 directly** against cited ground truth (grep/sed), zero dupes (`gh issue list --search` per topic):
-  - #10763 Charlie Benante: confirmed `snares.js:33` + `top10ListsCatalog.js:555` still exclude him as "unverified" vs `api/drummers/index.js:946-957` (`verified:true`, `verifiedAt: 2026-08-08`, 2 sources) — stale since #10597 (11-13) trusted the header comment.
-  - #10764 Chris Adler: confirmed `beginnerGuides.js:802` "uses triggers" claim vs root gear (verified:true) listing only Trick Pro V pedal, no triggers anywhere.
-  - #10765 George Kollias: confirmed `beginnerGuides.js:3057` ", triggers" in signatureGear vs root gear (verified:false, explicit snare-hedge note) — no trigger field in gear or kitOverview.
-  - #10766 Gene Hoglan: confirmed `endorsementNews.js:1887-1892` still carries the fabricated 2008 Tama "Gene Hoglan Signature Snare 14x8\"" entry; root snare is Pearl (unverified model), no Tama ever. #7928 fixed this fabrication elsewhere, missed this timeline entry.
-  - #10767 Matt Greiner: confirmed `endorsementNews.js:1318-1323` still carries a 2017 Pearl signature-snare entry vs root (verified:true, 2026-07-12) Mapex Black Panther since the 2016 switch — wrong-brand and chronologically backwards.
-  - #10768 Nicko McBrain: confirmed 3-way inconsistency — `endorsementNews.js:1649` says hardware "unconfirmed" while the same file's own 1984 timeline entry says DW; `api/drummers/index.js:2438` still says "Sonor 600 Series Hardware," the exact brand 4 already-shipped fixes (#7415/#7769/#7770/#10595) moved away from.
-  - #10769 Mikkey Dee: confirmed `endorsementNews.js:1345` 1987 Paiste note says "early Motörhead years" vs root bands array (King Diamond 1985-1989, Motörhead only from 1992) — chronologically impossible.
-  - #10770 Nick Augusto: confirmed all 3 `drummerEvolution.js` locations (17496/17562/17687 FAQ) still state fabricated "Pearl Reference 14x6.5\" Brass" vs root (verified:false, explicit hedge) — same cross-file fabrication #10398/#10443 fixed elsewhere, never swept here.
-  - All 8 promoted to `ai-fix` with verification comments appended. All are existing-page data-rot/self-contradiction/fabrication fixes, freeze-compliant.
-- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: 2 rows (`raymond herrera` 166impr/1.20%CTR/pos11.2, `jaska raatikainen` 88impr/1.14%CTR/pos10.5) — both named, repeatedly-reinforced class-2 bare-name queries (`learned-patterns.md` lines 219/254/262/276, 5+ data points, zero exceptions: Wikipedia/ModernDrummer-dominated bio-intent SERPs a title/meta/FAQ fix cannot out-rank). Held, no new issue — a 4th/5th copy-fix attempt would repeat the documented self-sabotage anti-pattern. **Human-founder blockers**: #10174 now 14 days unanswered (0 comments), no new trigger to escalate on. #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam. Held proposals #7981/#10099/#10032/#10655/#10656 — unchanged, no re-spam.
-- **L1/L2/L3**: snapshots still dated 2026-11-16 (gsc-watch #3810 08:26 UTC, llm-citations #2211 07:50 UTC, indexation-watch #3819 09:30 UTC) — the prior deep run (2026-11-16 12:15) already ran the full close-the-loop pass on these exact snapshots (0 new L1, 0 new L2, 1 new L3 issue #10720). Next weekly refresh due ~2026-11-23 — not due this run, not re-run.
-- **Starvation check**: post-triage backlog 0→8 (<15), bank 8 fresh→0 (excl. held/umbrella) trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation.
-- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 8 just-promoted (fresh, <1hr old at promotion). The 20 `hold`-labeled roster/bands splits remain intentionally paused under the freeze.
-
-### State delta
-- ai-fix backlog (eligible): 0 → 8 (#10763-10770 promoted)
-- seo-proposal bank (untriaged fresh, excl. held/umbrella): 8 → 0
-
-### Quota check
-✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 2 rows, both already-ruled class-2, no new issue. ✅ L1/L2/L3: refreshed 11-16, full pass already done that day, not due again until ~11-23. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
-
-### Next Run
-1. Watch #10763-10770 pick up via Roadie; #10763 (Benante) has a caveat — if the `snares.js` SNARES-array/new-page part would add an 11th signature-snare page, Roadie should flag and do the `top10ListsCatalog.js` text fix only, per the freeze.
-2. L1/L2/L3 weekly refresh due ~2026-11-23 — run the full close-the-loop pass once new snapshots land.
-3. #10174 now 14 days old, still no concrete trigger to escalate on. #7981/#10099/#10032/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-11-17 00:19 (cheap pulse — 8/8 proposals verified+promoted #10734-10741)
-
-### Context (≤3 lines)
-First logged run since 2026-11-16 18:09. Metrics 00:19 UTC (705u/769s/971v 7d; GSC 12,582 impr/274 clicks/2.18% CTR/pos 7.9, 1 content-gap row: `jaska raatikainen`, already-ruled class-2). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#10734-10741, filed 19:13-19:14 UTC 11-16).
-
-### Actions taken
-- **Live-verified all 8 directly** against cited ground truth (grep/sed), zero dupes (`gh issue list --search` per topic):
-  - #10734 Abe Cunningham pedal: confirmed `pedals.js:456-458` + `endorsementNews.js:2209` both say "Iron Cobra 900 Rolling Glide" vs. `api/drummers/index.js` verified "Iron Cobra Power Glide Twin Pedal (HP900PTW)".
-  - #10735 Dave Lombardo: confirmed `albumArticles/dave-lombardo.js:3007` claims "a return to Slayer in 1994", contradicting the same file's own line 1569 (Bostaph held the chair through 2001) and `bands.js:340` (no 1994 period).
-  - #10736 Matt Halpern/Periphery: confirmed `evolutionTimeline.js:697-707` entry dated `year: 2008` vs. `bands.js:1491` verified "2009-present".
-  - #10737 Gene Hoglan/Death: confirmed `evolutionTimeline.js:429-443` `ALBUM_RELEASE`-type entry dated `year: 1992` (his join year) vs. `bands.js:879` verified 1993 release year for Individual Thought Patterns.
-  - #10738 Mario Duplantier: confirmed `albumArticles/mario-duplantier.js` FAQ block (~902-905) still asserts a factual pre-2010 "Tama Starclassic Performer kit" for 2005, contradicting the same file's own `drumKit` block (already hedged by #9719) and the 2010 Tama signing date.
-  - #10739 Dave Lombardo (gear-finder): confirmed `api/gear-finder/index.js:60` says `drums: 'Tama Starclassic Maple'` vs. `api/drummers/index.js:436` verified "Tama Starclassic Walnut/Birch".
-  - #10740 Chris Adler (gear-finder): confirmed `api/gear-finder/index.js:247` still says `drums: 'Mapex Black Panther Design Lab'` vs. `api/drummers/index.js:1349` verified "Mapex Saturn in Satin Black Maple Burl" — #10668's verify step incorrectly waved this field through as already-correct.
-  - #10741 Abe Cunningham snare: confirmed `snares.js:473-480` asserts a specific "Starclassic Maple/Bubinga 14x6.5\"" model/dimensions vs. root record's explicit "no separate model documented" hedge (set by #5884, 2026-08-20).
-  - All 8 promoted to `ai-fix`. Two are corrections of prior incomplete fixes (#10668, #9719) — same self-contradiction-after-partial-fix pattern seen repeatedly this month.
-- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **GSC content-gap**: 1 row (`jaska raatikainen`), re-confirmed established class-2 ruling, held, no new issue. **Human-founder blockers**: #10174 now 14 days unanswered (0 comments), no new trigger to escalate on. #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam. Held proposals #7981/#10099/#10032/#10655/#10656 — unchanged, no re-spam.
-- **L1/L2/L3**: snapshots still dated 2026-11-16 (the 12:15 deep run's refresh); next weekly refresh due ~2026-11-23 — not due this run.
-- **Starvation check**: post-triage backlog 0→8 (<15), bank 8→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month; not genuine starvation.
-- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 8 just-promoted (fresh, <1hr old). The 20 `hold`-labeled roster/bands splits remain intentionally paused under the freeze.
-
-### State delta
-- ai-fix backlog (eligible): 0 → 8 (#10734-10741 promoted)
-- seo-proposal bank (untriaged fresh, excl. held): 8 → 0
-
-### Quota check
-✅ SEO proposals: 8/8 triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 1 row, already-ruled, no new issue. ✅ L1/L2/L3: refreshed 11-16, not due until ~11-23. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
-
-### Next Run
-1. Watch #10734-10741 pick up via Roadie; #10740 and #10738 are corrections of prior incomplete fixes (#10668, #9719) — watch they don't regress a third time.
-2. L1/L2/L3 weekly refresh due ~2026-11-23 — run the full close-the-loop pass once snapshots land.
-3. First run after 07:00 UTC is the daily deep run. #10174 now 14 days old, still no concrete trigger to escalate on. #7981/#10099/#10032/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-11-17 06:12 (cheap pulse — 7/8 proposals verified+promoted #10742-10748, 1 rejected #10749)
-
-### Context (≤3 lines)
-Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos 7.9, 2 content-gap rows: `raymond herrera`, `jaska raatikainen`, both already-ruled class-2). At run start: eligible `ai-fix` backlog **0**, 0 open PRs, 8 fresh untriaged `seo-proposal` (#10742-10749, filed 01:12-01:14 UTC) — 1 soundLikeGuides.js drummerId↔drummerName batch mismatch (28/72 entries), 3 soundLikeGuides.js fabrication/hedge fixes, 2 api/drummers/index.js root-record fixes, 1 Igor Cavalera tenure-undercount, 1 gearPriceHistory.js Vinnie Paul brand claim.
-
-### Actions taken
-- Live-verified #10742 by extracting the full `id→name` map from `api/drummers/index.js` and spot-checking 24 of the 28 claimed mismatches — all 24 confirmed exact. Confirmed no dupe (searched issue history for "soundLikeGuides drummerId"). Promoted.
-- Live-verified #10743 (Haake snare 14x6"/Steel vs verified 14x6.5"/Bronze in `snares.js:89-98`, confirmed at `soundLikeGuides.js:1379/1390-1391`), #10744 (Menza snare `shell: 'Maple'` at `soundLikeGuides.js:4471` vs `snares.js:669` `shellMaterial: null` deliberately unverified), #10745 (Hoglan `shells: 'Maple/Birch Hybrid'` at `soundLikeGuides.js:1625` vs root kitOverview's verified "maple/mahogany hybrid"), #10746 (Mario Duplantier root kitOverview self-contradicts "forgoing the double pedal" then "double pedal... completes the rig" 2 sentences later, `gear.hardware` compounds it — confirmed `soundLikeGuides.js`'s own pedals block, already fixed by #9433, is untouched/correct), #10747 (Shannon Larkin root record still `{Godsmack, 2002–present, current: true}` vs `bands.js`'s verified `2002-2024`/retired-2024 FAQ, and vs Mike Mangini's own already-correct `2026–present` record for the same chair) — all exact, all promoted.
-- Live-verified #10748 (Igor Cavalera `soundLikeGuides.js` intro/keyPoints frame Roots 1996 as tenure-ending; `bands.js` Sepultura discography confirms 1984-2006 tenure through 4 more albums incl. Dante XXI 2006) — exact, promoted.
-- **#10749 (Vinnie Paul 1990 Tama snare "fabrication") — REJECTED, not promoted.** The proposal's premise doesn't hold: `endorsementNews.js`'s `vinnie-paul` timeline explicitly documents 1990 SIGNED-Tama → 1996 SWITCHED-Pearl → 2008 SIGNED-ddrum, sourced "Played Tama drums during Pantera's major-label breakthrough on Cowboys from Hell." `gearPriceHistory.js`'s entry is explicitly era-scoped (`iconicYear: 1990, era: 'Cowboys from Hell Era'`) and its own summary narrates the identical Tama→Pearl→ddrum arc — it agrees with the project's authoritative endorsement-timeline source, it doesn't contradict it. This is NOT the same bug class as closed #10531 (which was an un-era-scoped blanket "Tama" claim in `genreGearGuides.js` contradicting the root ddrum framing — a real fabrication). Applying #10531's ddrum-replacement remedy here would introduce a real anachronism (ddrum's deal started 2008, 18 years after Cowboys from Hell). Closed with full reasoning in the issue comment; did not re-file a narrower version speculatively.
-- **GSC content-gap** (2 rows: `raymond herrera` 166impr/1.20%CTR/pos11.2, `jaska raatikainen` 88impr/1.14%CTR/pos10.5) — both long-established class-2 bare-name queries (`learned-patterns.md:219/254+`), re-confirmed, held, no new issue.
-- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #10174 now exactly 14 days unanswered (0 comments) — no new trigger. #5141/#5100/#4892/#875/#529/#526/#525 — `updatedAt` unchanged, no re-spam. Held proposals #7981/#10099/#10032/#10655/#10656 — `updatedAt` unchanged, no re-spam.
-- **L1/L2/L3**: snapshots still dated 2026-11-16 (gsc-watch 08:26, llm-citations 07:50, indexation 09:30); weekly refresh due ~2026-11-23 — not due this run, already closed the loop on the 11-16 refresh in that day's 12:15 deep run.
-- **Starvation check**: post-triage backlog 0→7 (<15), bank 8→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month; not genuine starvation, not escalated.
-- **Atomic-split sweep**: only non-hold `ai-fix` issues open are the 7 just-promoted (fresh, <1hr old). No sweep needed.
-
-### State delta
-- ai-fix backlog (eligible): 0 → 7 (#10742-10748 promoted)
-- seo-proposal bank (untriaged fresh, excl. held/umbrella): 8 fresh → 0 (7 promoted, 1 rejected)
-
-### Quota check
-✅ SEO proposals: 8/8 triaged, live-verified, 7 promoted + 1 rejected with reasoning. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 2 rows, both already-ruled class-2, no new issue. ✅ L1/L2/L3: not due until ~11-23. ✅ Starvation: trigger shape met, confirmed non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
-
-### Next Run
-1. Watch #10742-10748 pick up via Roadie; #10742 (28-entry batch) and #10746 (root-record + propagation sweep) are the highest atomicity-risk — watch they don't stall >3 days without a PR.
-2. First run after 07:00 UTC is the daily deep run — full metrics/GSC-gap/L1/L2/L3 pass (L1/L2/L3 not due, last refresh 11-16).
-3. #10174 now 14 days old, still no concrete trigger to escalate on. #7981/#10099/#10032/#10655/#10656 held pending founder-level re-verification. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
-
----
-
----
-
-
----
-
----
-
----
-
----
-
----
-
----
-
 ---
 
 ## 2026-11-18 18:08 (cheap pulse — 2/2 proposals verified+promoted #10832/#10833)
@@ -607,6 +442,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 
 ---
 
+---
+
 ## 2026-11-19 00:19 (cheap pulse — 5/5 proposals verified+promoted #10844-10848)
 - Backlog: 5 ai-fix (#10844-10848, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 706 / 772 / 1,008 · GSC 12,364 impr / 260 clicks / 2.10% CTR / pos 7.9, 0 content-gap rows this snapshot
@@ -614,6 +451,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 - Actions: live-verified #10844 (pedalReferencePages.js asserts Kollias's Demon XR as direct-drive prose while pedals.js:110 keeps `driveType: null` for that exact record — verified-only violation), #10845 (gearCategoryPages.js editorialIntro pairs McBrain with Tama vs. root's British Drum Co., Jordison with Tama vs. root's Pearl signature, Ulrich with Ludwig Black Beauty vs. root's Tama LU1465, and Hoglan with "Pearl Free-Floating" vs. root's explicitly-unverified snare model — 4 fabrications in 2 sentences), #10846 (drummerComparisons.js states Vinnie Paul's Tama-era snare as flat "14x6.5 Tama steel" fact in 5 locations/2 entries, contradicting the same file's own hedge at line 4219), #10847 (licks/george-kollias.js states 280/255 BPM blast-beat figures vs. root's verified 240+ BPM ceiling at index.js:667 — same bug class #10818 already fixed in top10Lists.js, this is a separate file that sweep missed), #10848 (gearSearchData.js john-otto snare field still `pearl-sensitone` even though root now has a verified OCDP snare model, a genuine follow-up to #7021 which deliberately deferred this pending exactly this data) — against ground truth, zero dupes among closed sibling issues (checked #6976/#9387/#7159 for #10844, #9955/#10031/#9825/#9602/#8960/#8936 for #10846, #7021 for #10848) → all 5 promoted ai-fix
 - L1/L2/L3 snapshots still dated 2026-11-16; weekly refresh due ~2026-11-23, not due yet. Founder ideas inbox empty (unchanged since 2026-06-19)
 - Next check: first run after 07:00 UTC is the daily deep run
+
+---
 
 ---
 
@@ -648,6 +487,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 
 ---
 
+---
+
 ## 2026-11-19 18:09 (mid-day pulse — 6/6 proposals verified+promoted #10874-10879)
 - Backlog: 6 ai-fix (#10874-10879, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 807 / 875 / 1,152 · GSC 14,926 impr / 305 clicks / 2.04% CTR / pos 7.9, 1 content-gap row (`jaska raatikainen`, already-ruled class-2, held)
@@ -655,6 +496,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 - Actions: live-verified all 6 against ground truth, zero dupes (checked closed #8589/#10806 for #10874 — same bug class but a different comparison entry, not a dupe) — #10874 (gearComparisons.js sabian-vs-meinl `usedBy` still lists Vinnie Paul for Sabian HHX; root hedges his cymbals as unverified-model, #8589 only fixed the separate zildjian-vs-sabian entry), #10875 (signatureLicks.js `DRUMMER_SLUG_MAP['mario-duplantier']` = 21, root confirms 21 is Pete Sandoval and Duplantier is 15), #10876 (snareBestForMetal.js "22 of 56" shell-material counts stale; fresh recount of snares.js gives 18 metal/23 wood/53 total), #10877 (metalSongsBpm.js credits fabricated slug `pat-harrington` for Nile's "Black Seeds of Vengeance"; bands.js confirms session drummer was Derek Roddy, and the bug already propagated into the generated `studies/tempoBySubgenre.js`), #10878 (snareBrands.js Pearl Reference line names Gene Hoglan as a "verified roster" example; root + snares.js's own SIGNATURE_SNARES exclusion list both hedge his snare model as unverified), #10879 (soundLikeGuides.js Flo Mounier guide self-contradicts 220+/210-240/215-225 BPM across its own intro/pattern/FAQ fields, plus a 4th figure 250+ in top10Lists.js:217 — confirmed via grep; this is the properly-scoped internal-consistency audit the 12:10 deep run asked for after rejecting #10862's wholesale-strip approach) — all promoted ai-fix.
 - L1/L2/L3 snapshots still dated 2026-11-16; weekly refresh due ~2026-11-23, not due yet. Founder ideas inbox empty (unchanged since 2026-06-19; `founder-ideas.md` does not exist in the repo)
 - Next check: first run after 19:00 UTC is evening review
+
+---
 
 ---
 
@@ -685,6 +528,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 
 ---
 
+---
+
 ## 2026-11-20 06:12 (cheap pulse — 2/2 proposals verified+promoted #10893/#10894)
 - Backlog: 3 ai-fix (#10887 pre-existing + #10893/#10894 just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 783 / 842 / 1,103 · GSC 12,294 impr / 246 clicks / 2.00% CTR / pos 8.0, 1 content-gap row (`raymond herrera`, already-ruled class-2, held)
@@ -693,6 +538,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 - Starvation check: post-triage backlog 1→3 (<15), bank 2→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation
 - L1/L2/L3 snapshots still dated 2026-11-16; weekly refresh due ~2026-11-23, not due yet. Founder ideas: `founder-ideas.md` does not exist in the repo (unchanged)
 - Next check: first run after 07:00 UTC is the daily deep run
+
+---
 
 ---
 
@@ -724,6 +571,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 
 ---
 
+---
+
 ## 2026-11-20 18:09 (mid-day pulse — 5/5 proposals verified+promoted #10901-10905)
 - Backlog: 6 ai-fix (#10887 pre-existing + #10901-10905 just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #7981/#10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 841 / 906 / 1,192 · GSC 14,865 impr / 293 clicks / 1.97% CTR / pos 7.9, 1 content-gap row (`raymond herrera`, long-ruled class-2, held, no new issue)
@@ -733,6 +582,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 - L1/L2/L3 snapshots still dated 2026-11-16 (gsc-watch 08:26, llm-citations 07:50, indexation 09:30); weekly refresh due ~2026-11-23, not due this run
 - Starvation check: post-triage backlog 1→6 (<15), bank 5→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 (open new surface) stays excluded regardless
 - Next check: first run after 19:00 UTC is evening review — confirm this batch merged clean
+
+---
 
 ---
 
@@ -760,6 +611,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 
 ---
 
+---
+
 ## 2026-11-22 12:10 (daily deep run — 4/4 proposals verified+promoted #10984-10987)
 - Backlog: 4 ai-fix (#10984-10987, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 869 / 928 / 1,213 · GSC 15,181 impr / 303 clicks / 2.00% CTR / pos 7.7, 1 content-gap row (`raymond herrera`, 136impr/0.74%CTR/pos13.1 — long-ruled class-2 bare-name query, `learned-patterns.md:254/258/276`, held, no new issue)
@@ -769,6 +622,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 - Starvation check: post-triage backlog 0→4 (<15), bank 4→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 (open new surface) stays excluded regardless
 - Atomic-split sweep: all 4 non-held open ai-fix issues are same-run promotions (<1h old) — nothing eligible
 - Next check: first run after 13:00 UTC is the mid-day pulse
+
+---
 
 ---
 
@@ -790,6 +645,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 
 ---
 
+---
+
 ## 2026-11-23 06:18 (cheap pulse — 5/5 proposals verified+promoted #11023-11027)
 - Backlog: 5 ai-fix (#11023-11027, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 783 / 841 / 1,138 · GSC 15,587 impr / 291 clicks / 1.87% CTR / pos 7.5, 0 content-gap rows this snapshot
@@ -799,6 +656,8 @@ Metrics 06:12 UTC (741u/809s/1,034v 7d; GSC 14,920 impr/326 clicks/2.18% CTR/pos
 - Starvation check: post-triage backlog 0→5 (<15), bank 5→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month (SEO Agent's 3x/day cadence refills the bank within hours); NEW-PAGE FREEZE step 2 (open new surface) stays excluded regardless
 - Atomic-split sweep: all 5 open ai-fix issues are same-run promotions (<1h old) — nothing eligible
 - Next check: first run after 07:00 UTC is the daily deep run — if L1/L3 snapshots have landed by then, close the loop on wins/losses/indexation deltas
+
+---
 
 ---
 
@@ -832,6 +691,8 @@ L1/L2/L3-sourced ai-fix issues this run: 0 (well under the 3-cap — both live f
 
 ---
 
+---
+
 ## 2026-11-23 18:09 (mid-day pulse — 8/8 proposals verified+promoted #11044-11051)
 ### Context
 First run after 13:00 UTC today (none logged earlier) — backlog had drained to 0 ai-fix since the 12:11 deep-run batch (#11032-11038) merged clean, while 8 fresh proposals piled up (filed 13:10-13:11 UTC).
@@ -859,6 +720,9 @@ Proposal promotions 8/8, gated by backlog (0, well under 45). No L1/L2/L3-source
 
 
 ---
+
+---
+
 ## 2026-11-24 12:11 (cheap pulse — 7/7 proposals verified+promoted #11092-11098)
 ### Context
 Between the 07:xx deep run (#11076-11083, brand-file fabrication batch tama/pearl/zildjian/sabian/dw/meinl/ludwig/paiste) and the 13:00 mid-day pulse. Backlog drained to 0 again; 7 fresh proposals (filed 07:06-07:07, same `public/llms/brands/*.md` sweep, remaining files) had piled up untriaged.
@@ -883,6 +747,8 @@ Proposal promotions 7/7, gated by backlog (0, well under 45). No L1/L2/L3-source
 
 ---
 
+---
+
 ## 2026-11-24 18:09 (mid-day pulse — anti-noise hold, 2/2 proposals verified+promoted #11108-11109)
 - Backlog: 2 ai-fix (#11108-11109, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 787 / 839 / 1,108 · GSC 15,827 impr / 270 clicks / 1.71% CTR / pos 7.4, 0 content-gap rows
@@ -893,3 +759,19 @@ Proposal promotions 7/7, gated by backlog (0, well under 45). No L1/L2/L3-source
 - Next check: first run after 19:00 UTC is evening review
 
 ---
+
+---
+
+## 2026-11-25 00:19 (cheap pulse — 4/4 proposals verified+promoted #11119-11122)
+- Backlog: 4 ai-fix (#11119-11122, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
+- Org/Sessions/Views (7d): 758 / 802 / 1,055 · GSC 13,265 impr / 225 clicks / 1.70% CTR / pos 7.2, 0 content-gap rows
+- No evening-review entry logged 11-24 19:00+ (anti-noise hold per the dedup rule — #11108/#11109 from the 18:09 batch merged clean, confirmed via commits aecc95b1f/e1f99e0db). Blockers unchanged: #10174 (~22 days, 0 comments, no trigger) · #10032/#10099/#10655/#10656 held (updatedAt unchanged) — no re-spam
+- Actions: live-verified all 4 fresh proposals (filed 19:15-19:16 UTC 11-24) directly against `api/drummers/index.js` ground truth, zero dupes (`gh issue list --state all --search` per filename/keyword) — #11121 (George Kollias root `kitOverview`/`gear.sources` still assert fabricated Vic Firth "SGK" signature stick, confirmed present at lines 667/683, while `gear.sticks` is already correctly plain "Vic Firth" — the one file never swept across 8+ closed sibling issues), #11122 (Dave Lombardo: confirmed root `gear.hardware` = "Tama Iron Cobra 900 Double Pedal..." with `verified:true` and 2 live sources, added since closed #8989 stripped the unsupported `pedals.js` entry — restoring it is now justified), #11119 (11-file `gear-series/*.md` orphan-deletion batch — spot-checked 3 of 11 directly against root: ddrum-dios/pearl-masterworks-stadium-exotic/tama-starclassic-walnut-birch all confirmed fabricated-or-below-threshold per the issue's own citations), #11120 (3-file batch: lists/dw-kits traces to closed #7048, snares/signature/george-kollias and pedals/setups/martin-axenrot both trace to source-module header comments documenting the same already-closed fixes) — all exact against ground truth → all 4 promoted ai-fix
+- L1/L2/L3 snapshots unchanged since the 2026-11-23 12:11 deep run (gsc-watch 08:15, indexation 09:29, llm-citations 07:37) — no new weekly refresh, nothing to action. Founder ideas inbox confirmed empty (unchanged since 2026-06-19)
+- Starvation check: post-triage backlog 0→4 (<15), bank 4→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 stays excluded regardless
+- Next check: first run after 07:00 UTC is the daily deep run — L1/L2/L3 weekly refresh due ~2026-11-30
+
+---
+
+---
+

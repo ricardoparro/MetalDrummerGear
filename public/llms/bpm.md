@@ -117,7 +117,7 @@ The classic metal tempo range. Features relentless rhythm guitar, double bass ru
 | Laid to Rest | Lamb of God | Ashes of the Wake | 2004 | 130 | groove-metal | [Chris Adler](https://metalforge.io/drummer/chris-adler) |
 | Wild Eyes | Parkway Drive | Atlas | 2012 | 130 | metalcore | Ben Gordon |
 | Pull Me Under | Dream Theater | Images and Words | 1992 | 134 | progressive-metal | [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy) |
-| Seek & Destroy | Metallica | Kill 'Em All | 1983 | 136 | thrash-metal | [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich) |
+| Seek & Destroy | Metallica | Kill 'Em All | 1983 | 140 | thrash-metal | [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich) |
 | Backbone | Gojira | From Mars to Sirius | 2005 | 138 | progressive-death-metal | [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) |
 | The Philosopher | Death | Individual Thought Patterns | 1993 | 140 | death-metal | [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) |
 | Stripped, Raped and Strangled | Cannibal Corpse | The Bleeding | 1994 | 140 | death-metal | [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz) |
@@ -142,8 +142,8 @@ The classic metal tempo range. Features relentless rhythm guitar, double bass ru
 | Freezing Moon | Mayhem | De Mysteriis Dom Sathanas | 1994 | 150 | black-metal | [Hellhammer](https://metalforge.io/drummer/hellhammer) |
 | Progenies of the Great Apocalypse | Dimmu Borgir | Death Cult Armageddon | 2003 | 155 | symphonic-black-metal | Nick Barker |
 | B.Y.O.B. | System of a Down | Mesmerize | 2005 | 155 | nu-metal | John Dolmayan |
-| CAFO | Animals as Leaders | Animals as Leaders | 2009 | 155 | progressive-metal | [Matt Garstka](https://metalforge.io/drummer/matt-garstka) |
-| My Own Grave | As I Lay Dying | Shaped by Fire | 2019 | 155 | metalcore | Josh Gilbert |
+| CAFO | Animals as Leaders | Animals as Leaders | 2009 | 155 | progressive-metal | [Navene Koperweis](https://metalforge.io/drummer/navene-koperweis) |
+| My Own Grave | As I Lay Dying | Shaped by Fire | 2019 | 155 | metalcore | Jordan Mancino |
 | Wait and Bleed | Slipknot | Slipknot | 1999 | 155 | nu-metal | [Joey Jordison](https://metalforge.io/drummer/joey-jordison) |
 | Spirit Crusher | Death | The Sound of Perseverance | 1998 | 156 | death-metal | [Richard Christy](https://metalforge.io/drummer/richard-christy) |
 | Anthrax — Madhouse | Anthrax | Spreading the Disease | 1985 | 158 | thrash-metal | [Charlie Benante](https://metalforge.io/drummer/charlie-benante) |
@@ -169,7 +169,7 @@ Extreme tempo range. Blast beats, double bass gallops, and technically demanding
 | Song | Band | Album | Year | BPM | Genre | Drummer |
 |------|------|-------|------|-----|-------|---------|
 | The Dance of Eternity | Dream Theater | Metropolis Pt. 2: Scenes from a Memory | 1999 | 170 | progressive-metal | [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy) |
-| Painkiller | Judas Priest | Painkiller | 1990 | 171 | heavy-metal | [Scott Travis](https://metalforge.io/drummer/scott-travis) |
+| Painkiller | Judas Priest | Painkiller | 1990 | 210 | heavy-metal | [Scott Travis](https://metalforge.io/drummer/scott-travis) |
 | Holy Wars...The Punishment Due | Megadeth | Rust in Peace | 1990 | 180 | thrash-metal | [Nick Menza](https://metalforge.io/drummer/nick-menza) |
 | Aces High | Iron Maiden | Powerslave | 1984 | 180 | heavy-metal | [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) |
 | Avenged Sevenfold — Beast and the Harlot | Avenged Sevenfold | City of Evil | 2005 | 180 | heavy-metal | The Rev |
@@ -187,8 +187,8 @@ Extreme tempo range. Blast beats, double bass gallops, and technically demanding
 | Chainsaw Gutsfuck | Mayhem | Deathcrush | 1987 | 200 | black-metal | Manheim |
 | Angel of Death | Slayer | Reign in Blood | 1986 | 212 | thrash-metal | [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo) |
 | Master of Puppets | Metallica | Master of Puppets | 1986 | 212 | thrash-metal | [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich) |
-| Sacrifice Unto Sebek | Nile | In Their Darkened Shrines | 2002 | 220 | death-metal | Tony Laureano |
-| Raining Blood | Slayer | Reign in Blood | 1986 | 225 | thrash-metal | [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo) |
+| Sacrifice Unto Sebek | Nile | Annihilation of the Wicked | 2005 | 265 | death-metal | [George Kollias](https://metalforge.io/drummer/george-kollias) |
+| Raining Blood | Slayer | Reign in Blood | 1986 | 216 | thrash-metal | [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo) |
 | War Ensemble | Slayer | Seasons in the Abyss | 1990 | 230 | thrash-metal | [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo) |
 | Lashed to the Slave Stick | Nile | Annihilation of the Wicked | 2005 | 240 | death-metal | [George Kollias](https://metalforge.io/drummer/george-kollias) |
 | Kafir! | Nile | Those Whom the Gods Detest | 2009 | 245 | death-metal | [George Kollias](https://metalforge.io/drummer/george-kollias) |
@@ -213,11 +213,11 @@ Extreme tempo range. Blast beats, double bass gallops, and technically demanding
 
 ### Fastest Songs in Database
 
-1. Kafir! — Nile (245 BPM, George Kollias)
-2. Lashed to the Slave Stick — Nile (240 BPM, George Kollias)
-3. War Ensemble — Slayer (230 BPM, Dave Lombardo)
-4. Raining Blood — Slayer (225 BPM, Dave Lombardo)
-5. Sacrifice Unto Sebek — Nile (220 BPM, Tony Laureano)
+1. Sacrifice Unto Sebek — Nile (265 BPM, George Kollias)
+2. Kafir! — Nile (245 BPM, George Kollias)
+3. Lashed to the Slave Stick — Nile (240 BPM, George Kollias)
+4. War Ensemble — Slayer (230 BPM, Dave Lombardo)
+5. Raining Blood — Slayer (216 BPM, Dave Lombardo)
 
 ### Slowest Songs in Database
 
@@ -235,13 +235,13 @@ Extreme tempo range. Blast beats, double bass gallops, and technically demanding
 "Bleed" by Meshuggah is 100 BPM. The extreme complexity comes from Tomas Haake's polyrhythmic kick pattern played in 32nd notes against a standard 4/4 groove — the pattern does not repeat until bar 17. See [Tomas Haake's profile](https://metalforge.io/drummer/tomas-haake).
 
 **What BPM is "Raining Blood" by Slayer?**
-"Raining Blood" is 225 BPM, played by Dave Lombardo. It is one of the most iconic thrash songs and showcases Lombardo's explosive double bass and blast beat combinations. See [Dave Lombardo's profile](https://metalforge.io/drummer/dave-lombardo).
+"Raining Blood" is 216 BPM, played by Dave Lombardo. It is one of the most iconic thrash songs and showcases Lombardo's explosive double bass and blast beat combinations. See [Dave Lombardo's profile](https://metalforge.io/drummer/dave-lombardo).
 
 **What BPM is "Master of Puppets" by Metallica?**
 "Master of Puppets" is 212 BPM, played by Lars Ulrich on the 1986 album of the same name. See [Lars Ulrich's profile](https://metalforge.io/drummer/lars-ulrich).
 
 **What BPM is "Painkiller" by Judas Priest?**
-"Painkiller" is 171 BPM, played by Scott Travis. It is one of the fastest songs in classic heavy metal and features a relentless double bass intro. See [Scott Travis's profile](https://metalforge.io/drummer/scott-travis).
+"Painkiller" is 210 BPM, played by Scott Travis. It is one of the fastest songs in classic heavy metal and features a relentless double bass intro. See [Scott Travis's profile](https://metalforge.io/drummer/scott-travis).
 
 **What is the tempo of doom metal?**
 Doom metal typically ranges from 40–89 BPM. Classic examples: Black Sabbath "Iron Man" (76 BPM), Electric Wizard "Dopethrone" (55 BPM), Sleep "Dragonaut" (60 BPM).

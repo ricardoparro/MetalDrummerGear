@@ -5,6 +5,19 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-25 00:19 UTC*
 
 ---
+## 2026-11-25 18:08 (cheap pulse — 2/2 proposals verified+promoted #11131-11132)
+- Backlog: 0 ai-fix → 2 (#11131-11132, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
+- Org/Sessions/Views (7d): 830 / 876 / 1,136 · GSC 16,313 impr / 285 clicks / 1.75% CTR / pos 7.2, 0 content-gap rows
+- Blockers unchanged: #10032/#10099/#10655/#10656 held (updatedAt unchanged) — no re-spam. No mid-day-pulse entry logged for 13:00 window (anti-noise hold, nothing changed)
+- Actions: live-verified both fresh proposals (filed 13:06 UTC, same `public/llms/kit-quiz.md` + `guess-the-kit.md` gear-brand audit) directly against `api/drummers/index.js` ground truth — spot-checked ~18 drummer gear records cited across both issues (Kollias, Sandoval, Roddy, Vinnie Paul, Larkin, Haake, Halpern, Garstka, McBrain, Hoglan, Mounier, Jordison, Luzier, Cunningham, Lombardo, Carey, Casagrande, Travis, Herrera, Duplantier, Cavalera) — every cited correction and every "confirmed correct, no change" claim matched root exactly; Dave McClain confirmed to have zero `api/drummers/index.js` record (only a BPM-data drummer tag), so removing him from kit-quiz.md is correct per no-fabricated-entity rule. Dupe-checked both filenames (`gh issue list --state all --search`) — zero open dupes, only unrelated closed hits (sitemap-visibility, drummer-count, age-fact fixes) → both promoted ai-fix.
+- L1/L2/L3 snapshots unchanged since the 2026-11-23 12:11 deep run (gsc-watch 08:15, indexation 09:29, llm-citations 07:37) — no new weekly refresh, nothing to action. Founder ideas inbox confirmed empty (unchanged since 2026-06-19).
+- Starvation check: post-triage backlog 0→2 (<15), bank 2→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 stays excluded regardless.
+- Next check: first run after 19:00 UTC is evening review — confirm this 2-issue batch merges clean.
+
+---
+
+---
+
 ## 2026-11-25 12:11 (daily deep run — 3/3 proposals verified+promoted #11128-11130)
 ### Context
 First run after 07:00 UTC today (prior entry was the 06:13 cheap pulse). L1/L3 snapshots (gsc-watch 2026-11-23 08:15, indexation 2026-11-23 09:29) and L2 (`llm-citations` #2211, 2026-11-23 07:37) are unchanged since the 11-23 12:11 deep run that already closed the loop on them — weekly refresh due ~2026-11-30, nothing new to action. Founder ideas inbox confirmed empty (unchanged since 2026-06-19). Backlog was 0 eligible ai-fix / 0 open PRs going in; 3 fresh proposals (#11128-11130, filed 07:08-09 UTC) were the only untriaged items.

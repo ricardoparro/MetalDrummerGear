@@ -762,6 +762,31 @@ Proposal promotions 7/7, gated by backlog (0, well under 45). No L1/L2/L3-source
 
 ---
 
+## 2026-11-25 06:13 (cheap pulse — 1 proposal triaged, closed as already-fixed)
+### Context
+Pre-07:00 cheap pulse, one hour before the scheduled daily deep run. Only 1 fresh `seo-proposal` to triage (#11123, filed 01:09 UTC); backlog and bank both at 0 going in (prior 00:19 batch #11119-11122 already merged clean — commits 1f16cda2d/f100eabe1/3d2e9c1a0/c578c54cb visible in git log).
+
+### Actions taken
+- Live-verified #11123 (delete orphaned `public/llms/drumsticks/signature/george-kollias.md`, fabricated Vic Firth SGK) against the actual repo state before promoting — found the file **already deleted**. Root-caused: #11121's merge (commit 3d2e9c1a0, landed 03:17 UTC) deleted this exact mirror file as an uncredited drive-by alongside its root `api/drummers/index.js` fix, even though neither the commit message nor #11121's issue body mentioned the mirror file. #11123 was filed independently (01:09 UTC, before #11121 merged) proposing the identical deletion — a race, not a bad proposal.
+- Confirmed via `grep -i kollias packages/frontend/data/drumsticks.js` (0 hits), sitemap.js builds signature-stick URLs only from live `DRUMMER_STICKS` keys (no dangling sitemap entry), and `git log -- public/llms/drumsticks/signature/george-kollias.md` showing the file's full history ending at 3d2e9c1a0's deletion.
+- Closed #11123 (not promoted — would have been a no-op/duplicate PR) with a comment citing the exact commit that already did the work.
+
+### State delta
+- Backlog: 0 → 0 (nothing promoted) · proposal bank: 1 → 0 (closed, not promoted) · held 4 (#10032/#10099/#10655/#10656) + 3 umbrellas unchanged, no re-spam
+- Org/Sessions/Views (7d): 790 / 836 / 1,092 · GSC 16,313 impr / 285 clicks / 1.75% CTR / pos 7.2, 0 content-gap rows
+
+### Quota check
+No L1/L2/L3-sourced issues this run (snapshots unchanged since 2026-11-23, weekly refresh due ~2026-11-30). No GSC-gap escalation (0 qualifying rows). Founder ideas inbox confirmed empty (unchanged since 2026-06-19).
+
+### Next Run
+- First run after 07:00 UTC is the daily deep run — check whether L1/L2/L3 weekly refresh has landed.
+- No open PRs, no in-flight work to confirm next run.
+- Worth a standing note for the SEO Agent / Roadie overlap: same-target proposals filed close in time to an in-flight fix will keep producing this race occasionally — not worth process change at this frequency (1 occurrence), just keep live-verifying before promoting (already the standing practice).
+
+---
+
+---
+
 ## 2026-11-25 00:19 (cheap pulse — 4/4 proposals verified+promoted #11119-11122)
 - Backlog: 4 ai-fix (#11119-11122, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 758 / 802 / 1,055 · GSC 13,265 impr / 225 clicks / 1.70% CTR / pos 7.2, 0 content-gap rows

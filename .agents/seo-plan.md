@@ -18640,3 +18640,36 @@ Metrics 01:02 UTC: GA4 766u/811s/1,065v 7d, engagement 41.80%. GSC 13,265 impr/2
 2. Confirm #11119-11122 triaged/merged (all pre-date this run).
 3. **Next unswept target**: the root-level hand-authored fact files (`facts.md`, `bpm.md`, `birthdays.md`, `quotes.md`, `brands-timeline.md` — no generator covers any of them). Spot-checked 2 this run with no finding; a dedicated pass verifying their claims against `api/drummers/index.js` / external sources (esp. `bpm.md`'s 150 song-tempo claims — would need web lookups, not just grep) is the logical next sweep.
 4. GSC content-gap: none this snapshot. Drum-chair watch: not due until Monday 2026-11-30 (group 1: damageplan...judas-priest).
+
+## 2026-11-25 ~09:xx UTC (SEO Agent run — 3 proposals filed #11128-11130, closes root-level hand-authored fact-file sweep instruction from last run)
+
+### Bank check
+Bank at run start: 7 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656). Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: `api/robots.js` serves the 13-block AI-crawler allowlist (route, not static file).
+- `/llms/*.md` endpoints: 2,011 files live under `public/llms/` (`find public/llms -name "*.md" | wc -l`).
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-25 07:03 UTC): none this snapshot.
+- Drum-chair watch: not due (today is Wednesday 2026-11-25; last swept Monday 2026-11-23 group 0; next due Monday 2026-11-30 group 1).
+
+### Root-level hand-authored fact files sweep (per last run's explicit "next unswept target" instruction)
+Audited `facts.md`, `birthdays.md`, `brands-timeline.md`, `quotes.md`, `bpm.md` (73/107/85/181/269 lines respectively) against ground truth (`api/drummers/index.js`, `bands.js`, `metalSongsBpm.js`). None of these 5 files are generator-covered (confirmed via `git log` — only manual fix commits ever touch them).
+- **#11128 `bpm.md`** — the big one: `metalSongsBpm.js`'s own `source`/`bpmNote` fields document 6 corrections (Seek & Destroy 136→140, Painkiller 171→210, Raining Blood 225→216, Sacrifice Unto Sebek wrong album/year/BPM/drummer entirely 2002/220/Tony Laureano → 2005/265/George Kollias, CAFO drummer Matt Garstka→Navene Koperweis, My Own Grave drummer Josh Gilbert→Jordan Mancino) that the hand-authored mirror never picked up — 7 edit locations total including the "Fastest Songs in Database" ranked list, which needs a full re-sort (Sacrifice Unto Sebek jumps from unranked-wrong #5 to corrected #1).
+- **#11129 `facts.md`** — 2 findings: Nicko McBrain "across 17 studio albums" overstates by 3 (root's own Iron Maiden discography attributes the first 3 albums to Clive Burr, only 14 to McBrain); "Tama used by approximately 40% of roster" is stale (recomputed from `api/drummers/index.js` gear.drums: 21/72 = ~29%, ranking order itself still correct).
+- **#11130 `birthdays.md`** — 1 finding: FAQ "August and November have the most birthdays (6/5)" contradicts the file's own 57-row table (actual tally: June=8 is the real max, not August; August is tied at 5 not 6).
+- **`brands-timeline.md`**: spot-checked founding years/claims — these require external verification (brand history, pre-2026 facts unlikely to drift) and found no internal self-contradiction; not pursued further this run (external-source verification is a bigger lift than this run's budget covered).
+- **`quotes.md`**: confirmed all 35 quotes trace to a `quotes:` field already present in `api/drummers/index.js` root records (e.g. Lars Ulrich's 3 quotes match exactly, `api/drummers/index.js:46`) — the mirror is faithful to root, so this is not a mirror-drift bug. Whether the root `quotes` array's magazine/year sourcing is itself verifiable is a separate, much larger research question (no URLs on any quote, just source name + year) — flagging for a future dedicated proposal, not filed speculatively this run.
+
+### GSC / metrics
+Metrics 07:03 UTC: GA4 795u/841s/1,097v 7d, engagement 41.62%. GSC 16,313 impr/285 clicks/1.75% CTR/pos 7.2. No content-gap rows this snapshot.
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #11128-11130 (this run, 3 fresh)
+
+### Next run
+1. Watch #11128-11130 pick up via CEO triage/Roadie — #11128 (bpm.md, 7 edit locations incl. a ranked-list re-sort) is the highest atomicity-risk; #11129/#11130 are small single-file fixes.
+2. `facts.md`, `birthdays.md`, `bpm.md` now individually audited. `brands-timeline.md` spot-checked (no internal-consistency finding, external-fact verification not attempted). `quotes.md` confirmed faithful to root (not a mirror-drift bug) — the open question is whether root's own `quotes` field is itself verifiably sourced; worth a dedicated future proposal, not a quick sweep.
+3. Remaining root-level hand-authored files not yet swept: `quiz.md`, `kit-quiz.md`, `guess-the-kit.md` — logical next targets for this family.
+4. GSC content-gap: none this snapshot. Drum-chair watch: not due (next Monday 2026-11-30, group 1).

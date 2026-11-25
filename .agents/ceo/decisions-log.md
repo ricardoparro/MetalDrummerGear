@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-25 00:19 UTC*
 
 ---
+## 2026-11-25 12:11 (daily deep run — 3/3 proposals verified+promoted #11128-11130)
+### Context
+First run after 07:00 UTC today (prior entry was the 06:13 cheap pulse). L1/L3 snapshots (gsc-watch 2026-11-23 08:15, indexation 2026-11-23 09:29) and L2 (`llm-citations` #2211, 2026-11-23 07:37) are unchanged since the 11-23 12:11 deep run that already closed the loop on them — weekly refresh due ~2026-11-30, nothing new to action. Founder ideas inbox confirmed empty (unchanged since 2026-06-19). Backlog was 0 eligible ai-fix / 0 open PRs going in; 3 fresh proposals (#11128-11130, filed 07:08-09 UTC) were the only untriaged items.
+
+### Actions taken
+- Live-verified all 3 fresh proposals directly against ground truth, not just the issue text:
+  - **#11128** (`public/llms/bpm.md`, 6 BPM/drummer attribution errors never synced from `metalSongsBpm.js`): grepped both files — root's corrected values (Seek & Destroy 140, Painkiller 210, Raining Blood 216, Sacrifice Unto Sebek → Annihilation of the Wicked/2005/265/George Kollias, CAFO → Navene Koperweis, My Own Grave → Jordan Mancino) all confirmed present in the data module; `bpm.md` confirmed still showing every pre-correction value exactly as the issue describes, including the stale "Fastest Songs" ranking order.
+  - **#11129** (`public/llms/facts.md`, 2 stale stats): confirmed Iron Maiden discography in `bands.js` lists 17 studio albums with the first 3 (`Iron Maiden`, `Killers`, `The Number of the Beast`) credited to `clive-burr`, so McBrain's actual count is 14, not 17. Recomputed the roster brand tally myself from `api/drummers/index.js`'s 72 top-level `gear.drums` fields (parsed by line position to exclude nested `kitHistory` entries): Tama 21 (29.2%), Pearl 20, Sonor 7, DW 6, Mapex 4 — exact match to the issue's numbers and brand order, confirming the "~40%" figure in `facts.md` is stale.
+  - **#11130** (`public/llms/birthdays.md` FAQ self-contradiction): manually re-tallied all 57 birth-month rows in the file's own table — June is the true max at 8 (not August's claimed "six"), with September/March/February tied at 6. Exact match to the issue's tally.
+  - All 3 exact against ground truth, zero dupes → promoted ai-fix.
+- Confirmed prior batch (#11119-11123) fully resolved: #11119-11122 closed/merged (commits visible in recent git log), #11123 correctly closed-not-promoted (already fixed by #11121's drive-by, per the 06:13 entry).
+- Checked the 4 held founder-re-verification proposals (#10032/#10099/#10655/#10656) — unchanged, no re-spam. Checked #10174 (`human-founder`, self-heal decision ask) — still open, unchanged, not a blocker for strategic work.
+- GSC content-gap filter: 0 qualifying rows (no query has impr ≥50 with CTR <2% — top queries this week all under 20 impressions). No GSC-gap escalation needed.
+- `competitors.md`/`backlog.md` last touched Jan/Feb 2026 — left as-is; current operating mode (SEO Agent fabrication sweeps + CEO verify-and-promote) is the proven lever per the NEW-PAGE FREEZE directive, not general competitive research, and traffic continues growing organically (GA4 sessions 857/wk this run vs. the stale 430/wk baseline in CLAUDE.md) without it.
+
+### State delta
+- Backlog: 0 eligible ai-fix → 3 (#11128-11130, same-run promotions) · proposal bank: 3 → 0 (excl. 4 held + 3 umbrellas, unchanged)
+- Org/Sessions/Views (7d): 812 / 857 / 1,116 · GSC 16,313 impr / 285 clicks / 1.75% CTR / pos 7.2, 0 content-gap rows
+
+### Quota check
+Proposal promotions 3/3, gated by backlog (0, well under 45). No L1/L2/L3-sourced ai-fix issues this run (no new weekly refresh). No GSC-gap escalation (0 qualifying rows).
+
+### Next Run
+- First run after 13:00 UTC is the mid-day pulse — confirm this 3-issue batch merges clean.
+- Starvation check: post-triage backlog 0→3 (<15), bank 3→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 (open new surface) stays excluded regardless.
+- Atomic-split sweep: all 3 new ai-fix issues are same-run promotions (<1h old) — nothing eligible. Long-held `ai-fix,seo,hold` roster/band issues (#4932-#5108, held since 2026-07-25/28 under the NEW-PAGE FREEZE) remain correctly frozen, not stuck-by-size.
+- Watch for the 2026-11-30 weekly L1/L2/L3 refresh.
+
+---
+
 ## 2026-11-24 07:xx (daily deep run — 8/8 proposals verified+promoted #11076-11083)
 ### Context
 First run after 07:00 UTC today (prior entry was the 00:18 cheap pulse). Backlog had drained to 0 ai-fix since the #11060-11070 batch merged clean, while the 8-brand-file fabrication batch (filed 01:10-01:11 UTC) piled up untriaged.

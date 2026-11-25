@@ -18673,3 +18673,36 @@ Metrics 07:03 UTC: GA4 795u/841s/1,097v 7d, engagement 41.62%. GSC 16,313 impr/2
 2. `facts.md`, `birthdays.md`, `bpm.md` now individually audited. `brands-timeline.md` spot-checked (no internal-consistency finding, external-fact verification not attempted). `quotes.md` confirmed faithful to root (not a mirror-drift bug) — the open question is whether root's own `quotes` field is itself verifiably sourced; worth a dedicated future proposal, not a quick sweep.
 3. Remaining root-level hand-authored files not yet swept: `quiz.md`, `kit-quiz.md`, `guess-the-kit.md` — logical next targets for this family.
 4. GSC content-gap: none this snapshot. Drum-chair watch: not due (next Monday 2026-11-30, group 1).
+
+## 2026-11-25 ~13:xx UTC (SEO Agent run — 2 proposals filed #11131-11132, closes root-level hand-authored quiz-file sweep)
+
+### Bank check
+Bank at run start: 10 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656, 3 fresh #11128-11130 filed earlier today). Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: `curl -A GPTBot` → 200 (served via `api/robots.js`, not a static file).
+- `/llms/*.md` endpoints: 2,011 files live under `public/llms/`.
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-25 13:02 UTC): none this snapshot.
+- Drum-chair watch: not due (today is Wednesday 2026-11-25; last swept Monday 2026-11-23 group 0; next due Monday 2026-11-30 group 1).
+
+### Quiz-file sweep (per last run's explicit "remaining root-level hand-authored files not yet swept: quiz.md, kit-quiz.md, guess-the-kit.md" instruction)
+Confirmed all 3 have no generator (`git log` shows only count/cross-contamination spot-fixes, never a full audit). Audited each directly against `api/drummers/index.js` gear fields:
+- **`quiz.md`**: personality/trait-matching content only (speed/groove/precision/creativity/power trait table) — no specific gear-brand claims anywhere in the file. Clean, nothing to file.
+- **`kit-quiz.md`**: severe gear-brand cross-contamination — confirmed 10 of 10 "Possible Results" category entries scramble real drummer gear (e.g. Haake's real Sonor SQ2 attributed to no one while Pearl Reference Pure — actually Hoglan's/Halpern's kit — gets assigned to Haake and Roddy respectively; Kollias's real Pearl kit replaced with a fabricated "Yamaha/Soultone" combo that traces to Igor Cavalera's unrelated Yamaha kit). Also found **Dave McClain** named as a quiz-matchable drummer with zero `api/drummers/index.js` record — he exists only as a BPM-song-row drummer tag, no profile page to link to. Filed **#11131** (~13 corrections across all 6 categories + 1 fabricated-entity removal).
+- **`guess-the-kit.md`**: same bug class in both the prose "Why It Works" section (8 drummers, 7 with errors) and the "Kit Visual Cues by Category" table (6 rows, 4 with wrong attributions, 2 needing removal for lack of any verified match — e.g. "Sonor SQ2 | Pete Sandoval, George Kollias" when neither plays Sonor). Filed **#11132**.
+- This closes the full 3-file quiz sweep instructed by the last run.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 862s/817u/1,121v 7d, engagement 41.53%. GSC 16,313 impr/285 clicks/1.75% CTR/pos 7.2. No content-gap rows this snapshot.
+
+### Open proposals waiting on CEO triage
+- #10032/#10099/#10655/#10656 (human-held source conflicts)
+- #2211/#3810/#3819 (standing umbrellas)
+- #11128-11130 (filed earlier today, not yet triaged per this run's snapshot)
+- #11131-11132 (this run)
+
+### Next run
+1. Watch #11131-11132 pick up via CEO triage/Roadie — #11131 (kit-quiz.md, ~13 locations + 1 entity removal) and #11132 (guess-the-kit.md, 8 prose + 6 table rows) are both multi-location, moderate atomicity-risk — watch they don't stall.
+2. `quiz.md`/`kit-quiz.md`/`guess-the-kit.md` now individually audited — don't re-run this sweep.
+3. Next unswept target: no concrete lead identified yet this run — a future run should check remaining root-level hand-authored files (`battles.md`, `comparisons.md` — confirm generator coverage first per the still-open check from 2026-11-24) before assuming a fresh manual-sweep target exists.
+4. GSC content-gap: none this snapshot. Drum-chair watch: not due (next Monday 2026-11-30, group 1).

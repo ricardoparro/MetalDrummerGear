@@ -34,7 +34,7 @@
  *     retailerUrls: {},          // intentionally empty until affiliate links are added
  *   }
  *
- * Only roster drummers with `gear.verified: true` are parsed here (55 of 67),
+ * Only roster drummers with `gear.verified: true` are parsed here (56 of 67),
  * matching the snares.js (#4308) and cymbalSetups.js (#4303) audit exactly.
  * Unverified drummers (wait for a research pass before their pedals are added;
  * never guessed): ray-luzier, vinnie-paul, charlie-benante, mike-portnoy,
@@ -43,7 +43,7 @@
  * but `gear.hardware` itself is explicitly 'Unverified' (#10777), so no pedal
  * entry exists for him either.
  *
- * Of the 55 verified hardware strings, 54 name an unambiguous pedal brand/model;
+ * Of the 56 verified hardware strings, 55 name an unambiguous pedal brand/model;
  * the other (Jon Dette: "DW 9000 or Tama Iron Cobra Double Pedal") lists two
  * alternative brands with no way to pick one, so per the conservative rule
  * below it is kept (never dropped) with brand/model left null.
@@ -86,6 +86,17 @@ export const PEDALS = [
     model: 'Demon Drive',
     configuration: 'double',
     driveType: 'direct',
+    source: 'roster gear.hardware (verified: true; sources on the drummer record)',
+    retailerUrls: {},
+  },
+  {
+    id: 'tama-iron-cobra-900-dave-lombardo',
+    drummerSlug: 'dave-lombardo',
+    summary: 'Tama Iron Cobra 900 Double Pedal',
+    brand: 'Tama',
+    model: 'Iron Cobra 900',
+    configuration: 'double',
+    driveType: 'chain', // per this file's own documented Iron Cobra 900 -> chain mapping
     source: 'roster gear.hardware (verified: true; sources on the drummer record)',
     retailerUrls: {},
   },

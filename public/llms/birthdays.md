@@ -84,7 +84,7 @@ A: Chris Turner (Oceans Ate Alaska), born February 4, 1992, is the youngest drum
 A: Several drummers share birth years — 1967 is particularly notable, with Gene Hoglan (August 31), Mike Portnoy (April 20), Morgan Ågren (July 13), Jon Dette (August 25), and Shannon Larkin (April 24) all born that year. Dave Lombardo (1965) and Lars Ulrich (1963) represent the core thrash metal generation.
 
 **Q: Which month has the most metal drummer birthdays?**
-A: August and November each have the most entries, with six and five birthdays respectively.
+A: June has the most, with eight birthdays. September, March, and February are next, tied with six each.
 
 **Q: Which metal drummers have passed away?**
 A: Joey Jordison (Slipknot) passed away on July 26, 2021. Vinnie Paul (Pantera) passed away on June 22, 2018.

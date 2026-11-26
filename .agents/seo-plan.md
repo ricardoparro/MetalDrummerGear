@@ -18744,3 +18744,51 @@ Metrics 19:02 UTC: GA4 835u/881s/1,148v 7d, engagement 41.77%. GSC 16,313 impr/2
 1. Watch #11136-11137 pick up via CEO triage/Roadie — #11137 (jason-bittner.md) is the highest atomicity-risk in recent memory, touching nearly every section of one file; watch it doesn't stall.
 2. **`public/llms/evolution/` sweep is now open, not closed** — only the 6 never-modified files were audited this run (2 fabrications found, 4 clean). The other ~66 files in the directory have each had *some* fix applied in the past but were not re-audited end-to-end this run (prior fixes were narrow/single-fact, e.g. the mikkey-dee.js "3 of 6 Tama hits missed" pattern seen elsewhere) — a future run should spot-check a batch of the previously-"touched" evolution files for remaining/incomplete drift, not assume one fix closed the file.
 3. GSC content-gap: none this snapshot. Drum-chair watch: not due (next Monday 2026-11-30, group 1).
+
+## 2026-11-26 ~14:xx UTC (SEO Agent run — 5 proposals filed #11140-11144, brands/ sweep closed out, gear-history/ sweep opened)
+
+### Bank check
+Bank at run start: 9 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819, 4 human-held #10032/#10099/#10655/#10656, #11136-11137 filed yesterday evening). Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- AI crawler robots.txt: all 8 crawlers (GPTBot/ChatGPT-User/ClaudeBot/anthropic-ai/PerplexityBot/Applebot-Extended/cohere-ai/Google-Extended) explicitly allowed.
+- `/llms/*.md` endpoints: 2,011 files live; 72 drummer profiles.
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-26 01:02 UTC): none this snapshot.
+- Drum-chair watch: not due (today is Thursday 2026-11-26; last swept Monday 2026-11-23 group 0; next due Monday 2026-11-30 group 1).
+
+### `public/llms/brands/` sweep — closed out (10 remaining files audited, 3 fabrications found)
+Per the 2026-11-24 00:18 decisions-log note ("only 8 of 18 brand files audited"), dispatched 5 parallel verification passes over the remaining 10: ahead, axis, evans, mapex, pro-mark, remo, sonor, vater, vic-firth, wincent. All cross-checked against `api/drummers/index.js` (+ `pedals.js`/`drumsticks.js` where relevant). 7 files clean (ahead, axis, evans, pro-mark, sonor, vater, wincent). 3 fabrications found and personally re-verified via direct grep before filing:
+- **#11140 `mapex.md`** — Chris Adler's pedal is fabricated as "Mapex Falcon Double Pedal" in 4 locations; root (`api/drummers/index.js:1352`, corroborated by `kitOverview` prose) says **Trick Pro V Double Pedal** (a non-Mapex brand — cross-brand contamination). Jason Bittner's genuine Falcon attribution in the same file is correct, untouched.
+- **#11141 `remo.md`** — Alex Bent credited with "ex-Battlecross"; root `bands` array lists only Trivium + Arkaik, no Battlecross anywhere in his record.
+- **#11142 `vic-firth.md`** — Inferno (Behemoth) stick model listed as "American Classic 2B"; root says "Vic Firth American Classic Extreme 5B" (distinct, named product line, not an abbreviation).
+
+`public/llms/brands/` (18/18 files) is now fully audited at least once — no longer a standing sweep target unless new brand files are added.
+
+### `public/llms/gear-history/` sweep — opened (23 never-referenced files identified, 6 spot-checked, 2 fabrications found)
+Cross-referenced the full 72-file `gear-history/` directory listing against `gh issue list --state all --search "gear-history/<name>.md"` (exact-path search per the 2026-11-06 learned-pattern lesson, not bare-name) — found **23 files with zero prior issue history** (never swept even once): adrian-erlandsson, arin-ilejay, art-cruz, charlie-benante, chris-turner, daniel-erlandsson, dave-lombardo, derek-roddy, flo-mounier, hannes-grossmann, jay-weinberg, joey-jordison, john-longstreth, mario-duplantier, martin-lopez, mike-portnoy, morgan-agren, nick-barker, paul-bostaph, ray-luzier, raymond-herrera, richard-christy, tim-yeung.
+
+Spot-checked 6 of the highest-traffic/highest-confidence candidates (charlie-benante, dave-lombardo, joey-jordison, mike-portnoy, ray-luzier, richard-christy) against `drummerEvolution.js` + `api/drummers/index.js`:
+- **charlie-benante.md, mike-portnoy.md** — clean, all eras verified.
+- **#11143 `dave-lombardo.md`** — 2001-2010 "Tama & Paiste Era" section wrongly states "Tama Starclassic Walnut/Birch" drums + "Paiste Signature" cymbals; root's `gearTimeline` for this exact era (2001-2013) says Tama Starclassic **Maple** + **Paiste RUDE & 2002 Series**. The Walnut/Birch material and Paiste Signature line are real but belong to a *different* era (2013-present) — a one-era-early shift, not a total invention.
+- **#11144 `ray-luzier.md`** (filed as SEO batch given the size — 2 eras + FAQ) — presents DW Collector's/Paiste as his rig continuously from 2010 through 2019; root (`drummerEvolution.js`) is explicit that **by The Paradigm Shift (2013) he switched to Pearl Reference Maple + Sabian AAX + Vic Firth Ray Luzier Signature sticks**, retaining only the DW 9002D pedal. Mirror's pre-2013 sections are correct and untouched by the fix.
+- **joey-jordison.md** — investigated but NOT filed this run: found conflicting era boundaries/facts between `api/drummers/index.js`'s `gearTimeline` and `drummerEvolution.js`'s `eras` array for the same drummer (e.g. signature stick/snare/kit onset year differs by ~2 years between the two "ground truth" sources). Filing against either source risks shipping a fix that just swaps one inconsistency for another. **Flagging for a dedicated follow-up**, not hand-filing speculatively — someone should first reconcile which of `api/drummers/index.js.gearTimeline` vs `drummerEvolution.js.eras` is authoritative for Joey Jordison specifically (and possibly site-wide) before any gear-history.md fix is attempted.
+- **richard-christy.md** — 2 new findings surfaced (joining year 1996 vs. file's 1997; Axis A Longboard pedal vs. file's "Pearl P-2002C" for the Sound of Perseverance era), distinct from the 2 already-held founder-re-verification disputes (#10099 kit model, #10655 snare model) on this entity. **Not filed this run** — given 2 live holds already on this drummer pending founder-level re-verification, adding a 3rd/4th dispute risks compounding confusion; flagging for a future run to file once the existing holds are resolved, or filed standalone with very explicit scoping away from the 2 held questions.
+
+17 of the 23 never-swept gear-history files remain unchecked — not a closed sweep, future runs should continue the spot-check.
+
+### GSC / metrics
+Metrics 01:02 UTC: GA4 751u/793s/1,032v 7d, engagement 41.49%. GSC 13,742 impr/238 clicks/1.73% CTR/pos 7.2. No content-gap rows this snapshot.
+
+### Proposals filed this run
+1. #11140 — mapex.md Chris Adler pedal fabrication
+2. #11141 — remo.md Alex Bent fabricated band
+3. #11142 — vic-firth.md Inferno wrong stick model
+4. #11143 — dave-lombardo.md wrong drum/cymbal for 2001-2010 era
+5. #11144 — ray-luzier.md (batch) missing 2013 brand transition across 2 eras + FAQ
+
+### Next run
+1. Watch #11140-11144 pick up via CEO triage/Roadie.
+2. `public/llms/gear-history/` sweep is open, not closed — 17 of 23 never-referenced files still unchecked (adrian-erlandsson, arin-ilejay, art-cruz, chris-turner, daniel-erlandsson, derek-roddy, flo-mounier, hannes-grossmann, jay-weinberg, john-longstreth, mario-duplantier, martin-lopez, morgan-agren, nick-barker, paul-bostaph, raymond-herrera, tim-yeung) — continue the spot-check.
+3. Follow-up needed (not an SEO-proposal-shaped task, flagging for CEO/founder visibility): Joey Jordison's `api/drummers/index.js.gearTimeline` and `drummerEvolution.js.eras` disagree on era boundaries/models (signature deal onset, kit model, snare size) — reconcile which is authoritative before any further joey-jordison.md or sibling-mirror fix.
+4. richard-christy.md has 2 new (non-duplicate-of-held) fabrication candidates — file once #10099/#10655 are resolved, or scope very explicitly around them.
+5. GSC content-gap: none this snapshot. Drum-chair watch: not due (next Monday 2026-11-30, group 1).

@@ -1,11 +1,11 @@
 # Jay Weinberg Drum Kit Gear History — Slipknot
 
 **Drummer:** Jay Weinberg  
-**Bands:** Suicidal Tendencies (2023–present) / Slipknot (2014–2023) / Against Me! (2009–2014)  
+**Bands:** Suicidal Tendencies (2024–2026) / Slipknot (2014–2023) / Against Me! (2009–2014)  
 **Active:** 2009–present  
 **URL:** https://metalforge.io/drummers/jay-weinberg/gear-history
 
-> Era-by-era breakdown of Jay Weinberg's drum kit evolution, from his pre-Slipknot hardcore years through the Pearl Reference Pure setup that launched his Slipknot tenure, to his current SJC Custom Drums rig with Suicidal Tendencies. Optimised for AI answering "what drums does Jay Weinberg use" and "how much is Jay Weinberg's drum setup worth" queries.
+> Era-by-era breakdown of Jay Weinberg's drum kit evolution, from his pre-Slipknot hardcore years through the Pearl Reference Pure setup that launched his Slipknot tenure, to his most recently documented SJC Custom Drums rig during his Suicidal Tendencies tenure. Optimised for AI answering "what drums does Jay Weinberg use" and "how much is Jay Weinberg's drum setup worth" queries.
 
 ---
 
@@ -46,9 +46,9 @@
 - **Snare:** Tama SLP 14"x6.5"
 - **Cymbals:** Zildjian K Custom Series
 - **Pedal:** DW 9000 Series double bass pedal, Roland Trigger System
-- **Notable:** Added a Roland trigger system to the SJC platform for Slipknot's final album with Weinberg, The End, So Far (2022), before his abrupt December 2023 departure.
+- **Notable:** Added a Roland trigger system to the SJC platform for Slipknot's final album with Weinberg, The End, So Far (2022), before his departure, announced November 5, 2023.
 
-### Current Era — Suicidal Tendencies
+### Suicidal Tendencies Era (2024–2026)
 
 - **Drums:** SJC Custom Drums (OBEY x ST Collaboration Kit)
 - **Snare:** SJC Jay Weinberg "The Crucible" 14"x6.5" 48-ply brass
@@ -56,7 +56,7 @@
 - **Pedal:** DW 9000 Series Double Pedal, DW 9100 Throne
 - **Sticks:** Vater Jay Weinberg 908 Signature
 - **Heads:** Evans Black Chrome
-- **Notable:** Weinberg's verified current setup carries the SJC Custom Drums platform he built during Slipknot's final era into his 2023 arrival at Suicidal Tendencies, touring on Metallica's M72 World Stadium Tour.
+- **Notable:** Weinberg carried the SJC Custom Drums platform he built during Slipknot's final era into his Suicidal Tendencies tenure (2024-2026), touring on Metallica's M72 World Stadium Tour.
 
 ---
 
@@ -66,7 +66,7 @@
 - **~2018:** Pearl Reference Pure → SJC Custom Drums — darker Zildjian K Custom cymbal upgrade for We Are Not Your Kind
 - **~2021:** Roland trigger system added for The End, So Far
 - **2023:** Exits Slipknot after nine years; joins Suicidal Tendencies
-- **Current:** SJC Custom Drums OBEY x ST Collaboration Kit with wide Zildjian cymbal spread and Vater signature sticks
+- **2024-2026:** SJC Custom Drums OBEY x ST Collaboration Kit with wide Zildjian cymbal spread and Vater signature sticks (most recent documented setup; departed Suicidal Tendencies January 2026)
 - **Career constant:** Zildjian cymbal endorsement, maintained from his hardcore years through today
 
 ---
@@ -74,19 +74,19 @@
 ## FAQ
 
 **Q: What is Jay Weinberg's drum setup worth?**  
-A: Jay Weinberg's original 2014 Pearl Reference Pure setup — the rig behind Slipknot's .5: The Gray Chapter — cost approximately $4,530. Adjusted for 2026 inflation, that's equivalent to roughly $6,270. His current verified SJC Custom Drums setup, with a wide Zildjian cymbal spread and DW hardware, represents a modern equivalent worth approximately $8,000–$8,500 at current retail prices.
+A: Jay Weinberg's original 2014 Pearl Reference Pure setup — the rig behind Slipknot's .5: The Gray Chapter — cost approximately $4,530. Adjusted for 2026 inflation, that's equivalent to roughly $6,270. His most recently documented SJC Custom Drums setup (2024-2026, Suicidal Tendencies era), with a wide Zildjian cymbal spread and DW hardware, represented a modern equivalent worth approximately $8,000–$8,500 at the time, based on current retail prices.
 
 **Q: What drums did Jay Weinberg use in Slipknot?**  
 A: Across his nine-year Slipknot tenure (2014–2023), Jay Weinberg played a progression of kits: Pearl Reference Pure on .5: The Gray Chapter, then SJC Custom Drums with Tama SLP snares on We Are Not Your Kind and The End, So Far. He paired all of them with Zildjian cymbals throughout.
 
 **Q: What drums does Jay Weinberg play now?**  
-A: Jay Weinberg's current verified kit is an SJC Custom Drums OBEY x ST Collaboration Kit with his signature SJC "The Crucible" 14"x6.5" 48-ply brass snare, a Zildjian cymbal spread (A New Beat, A Custom, K Custom, K China), a DW 9000 Series double pedal with DW 9100 throne, and Vater Jay Weinberg 908 Signature sticks — his setup with Suicidal Tendencies since 2023.
+A: Jay Weinberg's most recently documented kit (2024-2026, Suicidal Tendencies era) was an SJC Custom Drums OBEY x ST Collaboration Kit with his signature SJC "The Crucible" 14"x6.5" 48-ply brass snare, a Zildjian cymbal spread (A New Beat, A Custom, K Custom, K China), a DW 9000 Series double pedal with DW 9100 throne, and Vater Jay Weinberg 908 Signature sticks — his setup with Suicidal Tendencies, 2024-2026.
 
 **Q: Did Jay Weinberg leave Slipknot?**  
-A: Yes — Jay Weinberg was let go from Slipknot in December 2023 after nine years as the band's drummer, succeeding founding drummer Joey Jordison. He joined Suicidal Tendencies in 2023 and has toured with them on Metallica's M72 World Stadium Tour.
+A: Yes — Jay Weinberg was let go from Slipknot, announced November 5, 2023, after nine years as the band's drummer, succeeding founding drummer Joey Jordison. He joined Suicidal Tendencies in 2024, toured with them on Metallica's M72 World Stadium Tour, and departed that chair in January 2026.
 
 **Q: What cymbals does Jay Weinberg use?**  
-A: Jay Weinberg has been a Zildjian artist since his pre-Slipknot years, moving from the A Series through K Custom during his main Slipknot tenure. His current setup mixes A New Beat, A Custom, K Custom, and K China models, including a 21" K Custom Ride and a 7" FX Break Bell for textural effects.
+A: Jay Weinberg has been a Zildjian artist since his pre-Slipknot years, moving from the A Series through K Custom during his main Slipknot tenure. His most recently documented setup (Suicidal Tendencies era, 2024-2026) mixed A New Beat, A Custom, K Custom, and K China models, including a 21" K Custom Ride and a 7" FX Break Bell for textural effects.
 
 ---
 

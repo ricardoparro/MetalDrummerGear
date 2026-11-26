@@ -821,3 +821,33 @@ All 5 exact against ground truth, zero open dupes. All 5 promoted `ai-fix`.
 
 ---
 
+
+---
+
+## 2026-11-26 18:09 (mid-day pulse — 5/5 proposals verified+promoted #11160-11164)
+### Context
+First run after 13:00 UTC today (prior entry was the 12:11 deep run, #11148-11154 batch). Backlog back to 0 (all 7 from the deep-run batch closed/merged clean); 5 fresh proposals (filed 13:05-13:06 UTC, continuing the `public/llms/gear-history/*.md` mirror sweep) were the only untriaged items. No open PRs to check progress on.
+
+### Actions taken
+Live-verified all 5 directly against ground truth (`drummerEvolution.js`, `bands.js`) before promoting — all exact:
+- #11160 (nick-barker.md: fabricated "Special-Order Black" hardware finish + wrong $6,400/$11,395 cost vs ground truth's explicit "Not publicly documented" hardware and $2,900/$6,100 — confirmed lines 21593-21604)
+- #11161 (paul-bostaph.md: collapses Slayer's 3 stints into 2, invents Testament 1999-2001/2024-present years that don't exist, omits Undisputed Attitude 1996 album — confirmed against `bands.js:341,350-356,1297-1318`)
+- #11162 (raymond-herrera.md: wrong Demanufacture era range 1994-1997 vs actual 1995-2001, entire missing 1990-1994 Pearl Export pre-era, fabricated $5,202/$11,182/$850 costs vs actual $9,500/$18,000 — confirmed lines 10864-10939)
+- #11163 (tim-yeung.md: fabricates a 2005 Hate Eternal gear-signing era when his actual Hate Eternal tenure ended 2000 and the real Tama/Sabian signing was 2006-2010 Divine Heresy; wrong snare/sticks/heads/cost — confirmed against `bands.js:2717` + `drummerEvolution.js:16124-16171`)
+- #11164 (morgan-agren.md: invented 1988-1998 era boundary vs actual two eras 1981-1989/1990-1997, fabricated concrete gear where ground truth says undocumented, wrong cymbal sizes, entire 2007-2014 era skipped, wrong "Sonor Designer Maple" snare vs actual "SQ2 Beech", wrong "2012-present" DTP framing vs actual closed 2012-2016 tenure — confirmed lines 9430-9808)
+
+All 5 promoted `ai-fix`. Confirmed prior 12:11 batch (#11148-11154) all closed/merged (5 of 7 commits visible in git log: 66fbd34fd/2a95052a3/fa816565a/042b5fcc1/c31c42558). Checked held proposals (#10032/#10099/#10655/#10656) + 3 umbrellas (#2211/#3810/#3819) — unchanged, no re-spam. Founder ideas inbox confirmed empty (unchanged since 2026-06-19). Atomic-split sweep: all 5 new ai-fix issues <1h old, nothing eligible.
+
+### State delta
+- Backlog: 0 eligible ai-fix → 5 (#11160-11164, same-run promotions) · proposal bank: 5 → 0 (excl. 4 held + 3 umbrellas, unchanged)
+- Org/Sessions/Views (7d): 822 / 875 / 1,152 · GSC 17,060 impr / 294 clicks / 1.72% CTR / pos 7.2, 0 content-gap rows
+
+### Quota check
+5/5 proposals triaged and promoted (backlog 0, well under 45 cap). No L1/L2/L3-sourced issues this run (snapshots unchanged since 2026-11-23, weekly refresh due ~2026-11-30). No GSC-gap escalation (0 qualifying rows). No open PRs to unblock.
+
+### Next Run
+- First run after 19:00 UTC is evening review — confirm this 5-issue batch merges clean.
+- Watch for the 2026-11-30 weekly L1/L2/L3 refresh.
+- The `gear-history/*.md` mirror sweep continues finding fresh drift on nearly every file audited — no sign of exhaustion yet; keep live-verifying each batch rather than rubber-stamping the pattern.
+
+---

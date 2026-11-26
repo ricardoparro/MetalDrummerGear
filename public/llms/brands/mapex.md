@@ -4,7 +4,7 @@ Mapex is a Taiwanese drum manufacturer founded in 1989, widely respected for the
 
 ## Metal Drummers Who Use Mapex
 
-- Chris Adler (Lamb of God, Megadeth) — Mapex Black Panther Design Lab; Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare; Mapex Falcon Double Pedal
+- Chris Adler (Lamb of God, Megadeth) — Mapex Black Panther Design Lab; Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare
 - Jason Bittner (Overkill, Shadows Fall) — Mapex Saturn V; Mapex Black Panther 14x6.5" Brass snare; Mapex Falcon Double Pedal
 
 ## Key Mapex Product Lines for Metal
@@ -12,12 +12,12 @@ Mapex is a Taiwanese drum manufacturer founded in 1989, widely respected for the
 - Saturn V — maple/walnut hybrid shells; warm, punchy tone with enhanced sustain; Jason Bittner's touring kit with Overkill
 - Black Panther Design Lab — custom-configured shells in non-standard configurations; used by Chris Adler for Lamb of God's touring and studio work
 - Black Panther Snare Series — wide range of shell materials including brass, steel, and wood; Mapex Black Panther 14x6.5" Brass used by Jason Bittner
-- Falcon Double Pedal — Mapex's flagship speed pedal; strap-drive mechanism; used by Chris Adler and Jason Bittner as the primary hardware choice
+- Falcon Double Pedal — Mapex's flagship speed pedal; strap-drive mechanism; used by Jason Bittner as the primary hardware choice
 
 ## FAQ
 
 Q: What drums does Chris Adler play?
-A: Chris Adler plays a Mapex Black Panther Design Lab drum kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare, Meinl Byzance cymbals, and Mapex Falcon Double Pedal.
+A: Chris Adler plays a Mapex Black Panther Design Lab drum kit with a Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance cymbals.
 
 Q: What drum kit does Jason Bittner use?
 A: Jason Bittner plays a Mapex Saturn V with a Mapex Black Panther 14x6.5" Brass snare and Mapex Falcon Double Pedal.
@@ -26,7 +26,7 @@ Q: What cymbals does Chris Adler use?
 A: Chris Adler uses Meinl Byzance Series cymbals including 14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, and 18" Extra Dry China.
 
 Q: What is the Mapex Falcon pedal?
-A: The Mapex Falcon is Mapex's premium double bass pedal, using a strap-drive mechanism for a lighter, more responsive feel. It was Chris Adler's primary pedal choice throughout his career with Lamb of God.
+A: The Mapex Falcon is Mapex's premium double bass pedal, using a strap-drive mechanism for a lighter, more responsive feel.
 
 Q: Did Lamb of God use Mapex drums?
 A: Yes. Chris Adler, Lamb of God's original drummer (1994–2019), was a long-time Mapex endorser and used the Black Panther Design Lab for the band's commercial peak albums including Ashes of the Wake and Sacrament.

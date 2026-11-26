@@ -11,7 +11,19 @@
 
 ## Gear Timeline
 
-### Demanufacture Era (1994–1997, Fear Factory)
+### Soul of a New Machine Era (1990–1994, Fear Factory)
+
+- **Drums:** Pearl Export Series — maple/poplar shells; 22" kick, 12"/13"/16" toms
+- **Snare:** Pearl Custom 14"x6.5", steel shell
+- **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 16"/18" crashes, 20" ride
+- **Pedals:** Pearl Eliminator Double Pedal
+- **Sticks:** Vater Power 5B
+- **Heads:** Remo Pinstripe
+- **Original setup cost (1990):** ~$4,500
+- **Inflation-adjusted to 2026:** ~$9,500
+- **Notable:** Herrera's Pearl Export kit powered Fear Factory's 1992 debut, Soul of a New Machine, as the band's fusion of death metal aggression with industrial electronic texture began taking shape — ahead of the fully triggered Tama rig that would follow.
+
+### Demanufacture / Obsolete Era (1995–2001, Fear Factory)
 
 - **Drums:** Tama Starclassic — maple shell pack; 22"x18" bass drum (x2, double kick, each fitted with a ddrum trigger), 10"/12" rack toms (triggered), 16"/18" floor toms (triggered)
 - **Snare:** Tama 14"x6.5" Brass, fitted with a ddrum trigger sensor
@@ -20,9 +32,9 @@
 - **Electronics:** ddrum/Roland trigger system — full-kit acoustic triggers routed through a trigger brain for sample layering
 - **Sticks:** Vater Power 5B
 - **Heads:** Remo Pinstripe/Ambassador Coated (fitted with trigger sensors)
-- **Original setup cost (1995):** ~$5,202
-- **Inflation-adjusted to 2026:** ~$11,182
-- **Notable:** Herrera's fully triggered Tama Starclassic kit pioneered the acoustic/electronic hybrid approach that became industrial metal's drumming template. Every kick, snare, and tom stroke fired an electronically processed sample alongside the acoustic hit, giving producer Colin Richardson the raw material for Demanufacture's mechanical, dehumanized drum sound. The dedicated trigger hardware alone cost roughly $850 — a category that didn't exist in a standard 1995 metal drummer's budget.
+- **Original setup cost (1995):** ~$9,500
+- **Inflation-adjusted to 2026:** ~$18,000
+- **Notable:** Herrera's fully triggered Tama Starclassic kit, built out across Demanufacture (1995), Obsolete (1998), and Digimortal (2001), pioneered the acoustic/electronic hybrid approach that became industrial metal's drumming template. Every kick, snare, and tom stroke fired an electronically processed sample alongside the acoustic hit, giving the band's producers the raw material for its mechanical, dehumanized drum sound across all three records.
 
 ### Final Setup (Archetype/Transgression era, through 2006 departure)
 
@@ -38,8 +50,8 @@
 
 ## Key Gear Changes
 
-- **1990:** Co-founds Fear Factory; establishes the Tama/ddrum hybrid trigger template on the band's debut, Soul of a New Machine (1992)
-- **1995:** Demanufacture recorded — the founding document of industrial metal's hybrid triggered drum sound
+- **1990:** Co-founds Fear Factory; plays a Pearl Export Series kit on the band's debut, Soul of a New Machine (1992)
+- **1995:** Switches to Tama Starclassic and builds out the full ddrum/Roland trigger system for Demanufacture — the founding document of industrial metal's hybrid triggered drum sound
 - **1998:** Obsolete — Rhys Fulber-produced hybrid kit refined further; Fear Factory's commercial peak
 - **2001:** Digimortal — same Tama/Zildjian/ddrum rig carries through
 - **2006:** Departs Fear Factory after Transgression; trigger rack scaled back toward a more conventional acoustic setup in his final era
@@ -51,13 +63,13 @@
 ## FAQ
 
 **Q: What drum kit did Raymond Herrera use?**  
-A: Through his 2006 Fear Factory departure, Raymond Herrera played a Tama Starclassic kit with a Tama 14"x6.5" Brass snare, Zildjian A Custom & Z Custom cymbals, and a DW 5000 Series double pedal. On Fear Factory's 1995 breakthrough Demanufacture, he played the same fully triggered Tama Starclassic kit with Zildjian Z Custom cymbals and a DW 5000 Series double pedal — the original setup cost approximately $5,202 in 1995, equivalent to about $11,182 adjusted for 2026 inflation.
+A: Through his 2006 Fear Factory departure, Raymond Herrera played a Tama Starclassic kit with a Tama 14"x6.5" Brass snare, Zildjian A Custom & Z Custom cymbals, and a DW 5000 Series double pedal. On Fear Factory's 1990-1994 debut era he played a Pearl Export Series kit. On Fear Factory's 1995 breakthrough Demanufacture, he played the same fully triggered Tama Starclassic kit with Zildjian Z Custom cymbals and a DW 5000 Series double pedal — the original setup cost approximately $9,500 in 1995, equivalent to about $18,000 adjusted for 2026 inflation.
 
 **Q: Did Raymond Herrera use electronic drum triggers?**  
-A: Yes — on Demanufacture (1995) and Obsolete (1998), Herrera ran a full-kit ddrum/Roland trigger system across his kick, snare, and toms, layering electronically processed samples over every acoustic hit. The dedicated trigger hardware cost roughly $850 in 1995 dollars, a category with no equivalent in a standard metal drummer's budget of that era. His final Tama-based rig before departing in 2006 had moved away from dedicated racked triggers.
+A: Yes — on Demanufacture (1995), Obsolete (1998), and Digimortal (2001), Herrera ran a full-kit ddrum/Roland trigger system across his kick, snare, and toms, layering electronically processed samples over every acoustic hit. His final Tama-based rig before departing in 2006 had moved away from dedicated racked triggers.
 
 **Q: How much would Raymond Herrera's Demanufacture-era drum kit cost today?**  
-A: The original 1995 Tama Starclassic setup — including the ddrum/Roland trigger system — cost approximately $5,202. Adjusted for inflation to 2026 dollars, that's roughly $11,182, reflecting both the acoustic shell pack and the electronic triggering hardware that gave Fear Factory its mechanical drum sound.
+A: The original 1995 Tama Starclassic setup — including the ddrum/Roland trigger system — cost approximately $9,500. Adjusted for inflation to 2026 dollars, that's roughly $18,000, reflecting both the acoustic shell pack and the electronic triggering hardware that gave Fear Factory its mechanical drum sound.
 
 **Q: What cymbals did Raymond Herrera use on Demanufacture?**  
 A: Herrera used Zildjian Z Custom Series cymbals on Demanufacture — 14" hi-hats, 16" and 18" crashes, a 20" ride, and a Z Custom china. The bright, machine-hammered Z Custom line was chosen for its projection above Fear Factory's heavily processed, down-tuned guitar wall.

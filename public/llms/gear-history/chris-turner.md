@@ -17,7 +17,7 @@
 - **Snare:** Budget steel snare
 - **Cymbals:** Entry-level cymbal pack
 - **Pedal:** Standard single pedal
-- **Sticks:** Vic Firth 5A
+- **Sticks:** Not publicly documented (standard hickory sticks, varied by gig)
 - **Heads:** Evans standard
 - **Estimated cost (2010):** ~$800
 - **Notable:** Turner founded Oceans Ate Alaska in Birmingham, UK as a teenager, developing the hand-foot independence that would define his technically compositional style.
@@ -27,7 +27,7 @@
 - **Drums:** Tama Starclassic Maple/Birch — 22" bass drum, 10"/12" rack toms, 16" floor tom
 - **Snare:** Tama Starclassic matching snare — stock Starclassic snare, bright attack
 - **Cymbals:** Meinl Byzance — 15" Dual Hi-Hats, 18"/20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China
-- **Pedal:** Tama Speed Cobra 910 double pedal
+- **Pedal:** Standard double pedal (predates his Tama Speed Cobra 910 endorsement)
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Evans G2 Clear (toms), Genera HD Dry (snare), EMAD (kick)
 - **Original setup cost (2017):** ~$5,042
@@ -52,7 +52,7 @@
 - **2010:** Founds Oceans Ate Alaska on entry-level gear as a teenager in Birmingham
 - **2017:** Hikari recorded and viral playthrough breakthrough — definitive Tama Starclassic Maple/Birch / Meinl Byzance rig documented, with the Escapist and Hansha drum-playthroughs going viral
 - **2022:** Upgraded to a Tama S.L.P. 14x5.5" G-Maple snare for the mathcore-inflected Disparity, carrying the rest of the Starclassic / Byzance / Speed Cobra core forward
-- **Career constant:** Vic Firth American Classic 5A sticks and Tama Speed Cobra 910 double pedal maintained throughout
+- **Career constant:** Vic Firth American Classic 5A sticks maintained since the Hikari era (2017-present)
 
 ---
 
@@ -71,7 +71,7 @@ A: Turner uses a Meinl Byzance setup — 15" Dual Hi-Hats, 18"/20" Extra Dry Med
 A: Turner's approach is fundamentally compositional — his kick patterns superimpose independent polyrhythmic layers over the backbeat, and his blast beats enter and exit at deliberate phrase boundaries rather than sustaining as pure texture. His viral drum playthrough videos of tracks like "Hansha" and "Escapist" have brought this technical, musically disciplined approach to a wide audience.
 
 **Q: Has Chris Turner's gear changed since Hikari?**
-A: Mostly not — Turner's Tama Starclassic Maple/Birch / Meinl Byzance / Speed Cobra 910 configuration has carried over from Hikari (2017) through Oceans Ate Alaska's more rhythmically demanding Disparity (2022), with one upgrade: the snare moved from a stock Starclassic to a Tama S.L.P. 14x5.5" G-Maple for Disparity.
+A: Mostly not — Turner's Tama Starclassic Maple/Birch / Meinl Byzance configuration has carried over from Hikari (2017) through Oceans Ate Alaska's more rhythmically demanding Disparity (2022); the Tama Speed Cobra 910 pedal was adopted later, in the 2020-present era, with one upgrade: the snare moved from a stock Starclassic to a Tama S.L.P. 14x5.5" G-Maple for Disparity.
 
 ---
 

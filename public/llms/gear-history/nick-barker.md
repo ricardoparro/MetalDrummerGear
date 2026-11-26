@@ -26,9 +26,9 @@ last_updated: "2026-08-23"
 - **Drums:** Sonor — shell material, dimensions, and finish not publicly documented
 - **Snare:** Not publicly documented — no snare brand or model is itemized for Barker in this era
 - **Cymbals:** Not publicly documented — no cymbal brand endorsement is itemized for Barker in this era
-- **Hardware:** Sonor Hardware (Special-Order Black) — all-black special-order finish to match the kit
-- **Original setup cost (2003):** ~$6,400
-- **Inflation-adjusted to 2026:** ~$11,395
+- **Hardware:** Not publicly documented — no specific brand or finish is itemized for Barker in this era
+- **Original setup cost (2003):** ~$2,900
+- **Inflation-adjusted to 2026:** ~$6,100
 - **Notable:** Barker is a longtime official Sonor artist, credited by Sonor for his Cradle of Filth (1993–1999) and Dimmu Borgir (1999–2004) tenures, including Death Cult Armageddon. Sonor's own artist materials don't itemize a specific shell spec, snare, or cymbal brand beyond the Sonor drum endorsement, so this profile omits those fields rather than guessing.
 
 ---
@@ -46,7 +46,7 @@ last_updated: "2026-08-23"
 A: Nick Barker used a Sonor kit on Dimmu Borgir's 2003 album Death Cult Armageddon; shell material, dimensions, and finish are not publicly documented beyond the Sonor brand. No specific snare or cymbal brand is publicly documented for this era.
 
 **Q: How much did Nick Barker's Dimmu Borgir-era drum kit cost?**
-A: Barker's Sonor rig cost approximately $6,400 in 2003 dollars, equivalent to roughly $11,395 today after inflation.
+A: Barker's Sonor rig cost approximately $2,900 in 2003 dollars, equivalent to roughly $6,100 today after inflation.
 
 **Q: What snare and cymbals did Nick Barker use on Death Cult Armageddon?**
 A: No snare brand/model or cymbal brand is publicly documented for Barker's Death Cult Armageddon-era setup — neither Sonor's artist materials nor endorsement records itemize these components, so this profile omits them rather than guessing.

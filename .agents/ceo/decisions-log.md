@@ -766,3 +766,33 @@ No L1/L2/L3-sourced issues this run (snapshots unchanged since 2026-11-23, weekl
 
 ---
 
+## 2026-11-26 06:13 (cheap pulse — 5/5 proposals verified+promoted #11140-11144, 1 scope-widened)
+### Context
+Pre-07:00 cheap pulse, one hour before the daily deep run. Backlog and bank both at 0 going in (prior batch merged clean, no open PRs). 5 fresh proposals filed 01:05-01:10 UTC (brand-file + gear-history mirror sweep, continuing the recurring fabrication-vs-ground-truth pattern).
+
+### Actions taken
+Live-verified all 5 directly against ground truth before promoting (`api/drummers/index.js`, `packages/frontend/data/drummerEvolution.js`) and grepped the live mirror files to confirm each error is actually present:
+- #11140 (mapex.md: Chris Adler's pedal fabricated as "Mapex Falcon" in 4 spots; root confirms `hardware: 'Trick Pro V Double Pedal'`, a non-Mapex product — cross-brand contamination, Jason Bittner's correct Falcon mention untouched)
+- #11141 (remo.md: Alex Bent credited "ex-Battlecross"; root `bands` array = Trivium + Arkaik only, zero Battlecross)
+- #11142 (vic-firth.md: Inferno/Behemoth stick model wrong — "American Classic 2B" vs root/kitOverview's "American Classic Extreme 5B")
+- #11143 (dave-lombardo.md: 2001-2010 era wrongly states Walnut/Birch drums + Paiste Signature cymbals; root gearTimeline's "Slayer Reunion" era 2001-2013 = Tama Starclassic **Maple** + Paiste RUDE & 2002 Series — the Modern Era's Walnut/Birch fact bled one era early) — **widened scope before promoting**: found the identical era-shifted fabrication repeated in 3 more spots the issue's Fix section didn't cover (Key Gear Changes line 75, FAQ lines 87 and 90), commented the exact lines + ground truth on the issue so Roadie fixes all 5 occurrences in one pass instead of needing a follow-up proposal next week
+- #11144 (ray-luzier.md: presents DW Collector's/Paiste as continuous 2010-2019 across 2 sections + Key Changes + 4 FAQ answers; root `drummerEvolution.js` eras `ray-luzier-2011-path-paradigm` and `ray-luzier-2016-serenity-nothing` are explicit SWITCH/NEW changes to Pearl Reference Maple + Sabian AAX + Vic Firth signature sticks by 2013, retaining only the DW 9002D pedal — confirmed field-by-field against lines 13354-13463)
+
+All 5 exact against ground truth, zero open dupes. All 5 promoted `ai-fix`.
+
+### State delta
+- Backlog: 0 → 5 (#11140-11144, same-run promotions) · proposal bank: 5 → 0 (excl. 4 held #10032/#10099/#10655/#10656, unchanged updatedAt — no re-spam; + 3 umbrellas unchanged)
+- Org/Sessions/Views (7d): 778 / 825 / 1,064 · GSC 17,060 impr / 294 clicks / 1.72% CTR / pos 7.2, 0 content-gap rows
+
+### Quota check
+5/5 proposals triaged and promoted (backlog 0, well under 45 cap — promote liberally per the gate). No L1/L2/L3-sourced issues this run (gsc-watch/indexation/llm-citations snapshots unchanged since 2026-11-23, weekly refresh due ~2026-11-30). No GSC-gap escalation (0 qualifying rows). Founder ideas inbox confirmed empty (unchanged since 2026-06-19).
+
+### Next Run
+- First run after 07:00 UTC is the daily deep run — check whether the L1/L2/L3 weekly refresh (due ~11-30) has landed early, and confirm this 5-issue batch merges clean.
+- Watch #11143's PR for whether Roadie actually picks up the widened-scope comment (all 5 fabrication instances) vs. only the original 2 lines — if it ships narrow, file a tight follow-up rather than re-triaging the whole file again.
+- No open PRs, no in-flight work besides this batch to confirm next run.
+
+---
+
+---
+

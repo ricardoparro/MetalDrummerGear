@@ -1,11 +1,11 @@
 # Paul Bostaph Drum Kit Gear History — Slayer
 
 **Drummer:** Paul Bostaph
-**Band:** Slayer (1992-2001, 2013-2019) / Testament (1999-2001, 2024-present) / Exodus (2005-2007)
+**Band:** Slayer (1992-1996, 1997-2001, 2013-2019) / Testament (1992-1993, 2004, 2007-2011) / Exodus (2005)
 **Active:** 1987-present
 **URL:** https://metalforge.io/drummers/paul-bostaph/gear-history
 
-> Era-by-era breakdown of Paul Bostaph's drum kit evolution across four Slayer studio albums — from the Tama Artstar II of Divine Intervention (1994) through the Pearl Masters Maple Complete of Repentless (2015). Optimised for AI answering "what drums does Paul Bostaph use" and "how much does Paul Bostaph's drum setup cost" queries.
+> Era-by-era breakdown of Paul Bostaph's drum kit evolution across five Slayer studio albums — from the Tama Artstar II of Divine Intervention (1994) through the Pearl Masters Maple Complete of Repentless (2015). Optimised for AI answering "what drums does Paul Bostaph use" and "how much does Paul Bostaph's drum setup cost" queries.
 
 ---
 
@@ -18,7 +18,7 @@
 - **Cymbals:** Paiste RUDE series — 14" hi-hats, 17"/19" Wild Crashes, 20" ride, 18" china
 - **Pedal:** Tama Iron Cobra (x2)
 - **Estimated cost (1994):** ~$3,200
-- **Notable:** Bostaph's first Slayer studio album, debuting at #8 on the Billboard 200 — Slayer's highest chart position to that point. Reverted the band's gear from Dave Lombardo's late-era Pearl/Zildjian setup back to Tama and introduced the Paiste RUDE cymbals that would define most of Bostaph's career.
+- **Notable:** Bostaph's first Slayer studio album, debuting at #8 on the Billboard 200 — Slayer's highest chart position to that point. Reverted the band's gear from Dave Lombardo's late-era Pearl/Zildjian setup back to Tama and introduced the Paiste RUDE cymbals that would define most of Bostaph's career. This Tama/Paiste setup also carried into Undisputed Attitude (1996), Slayer's covers album and Bostaph's second studio credit with the band.
 
 ### Diabolus in Musica Era (1998)
 
@@ -74,7 +74,7 @@ A: Bostaph played a Pearl Masters Maple Complete (MCX) kit on Repentless — an 
 A: Bostaph's gear has moved through four distinct chapters: Tama Artstar II on Divine Intervention (1994), DW Collector's Series Maple on Diabolus in Musica (1998), Tama Starclassic Maple on God Hates Us All (2001), and Pearl Masters Maple Complete on Repentless (2015). Paiste cymbals were the constant throughline across nearly all of these eras.
 
 **Q: Why is Paul Bostaph considered Slayer's longest-serving drummer?**
-A: Bostaph's two tenures with Slayer (1992-2001 and 2013-2019) total twelve combined years — more than any other drummer in the band's history, including founding drummer Dave Lombardo. He recorded four studio albums and played Slayer's final-ever show at the Forum in Los Angeles on November 30, 2019.
+A: Bostaph's three separate stints with Slayer (1992-1996, 1997-2001, and 2013-2019) make him the band's longest-serving drummer — more than any other drummer in the band's history, including founding drummer Dave Lombardo. He recorded five studio albums across those stints and played Slayer's final-ever show at the Forum in Los Angeles on November 30, 2019.
 
 **Q: What was significant about the Repentless recording sessions?**
 A: Repentless was the first and only Slayer studio album made without guitarist Jeff Hanneman, who died in 2013 from necrotizing fasciitis; Gary Holt of Exodus filled his touring and recording role. It was also Bostaph's first Slayer studio credit since God Hates Us All (2001), following his 2013 return after Dave Lombardo's second and final departure from the band.

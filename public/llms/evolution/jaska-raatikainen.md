@@ -5,12 +5,12 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 evolution_url: "https://metalforge.io/drummers/jaska-raatikainen/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-06-30"
+last_updated: "2026-11-26"
 ---
 
 # Jaska Raatikainen Drum Kit Evolution — Complete Timeline
 
-Jaska Raatikainen co-founded Children of Bodom (originally Inearthed) with Alexi Laiho in 1993 and drummed on every album the band released across its 26-year career, from "Something Wild" (1997) to "Hexed" (2019). His gear evolution is one of steady refinement rather than reinvention — a Pearl Masters Premium Maple kit and Pearl Eliminator double pedal that grew from a developing endorsement into the fully dialed-in platform behind Children of Bodom's defining melodic death metal catalog. This timeline documents that 26-year, ten-album journey.
+Jaska Raatikainen co-founded Children of Bodom (originally Inearthed) with Alexi Laiho in 1993 and drummed on every album the band released across its 26-year career, from "Something Wild" (1997) to "Hexed" (2019). His drum kit endorsement traced a Pearl → Tama → Pearl arc: a developing Pearl relationship on "Something Wild" (1997), a switch to Tama Starclassic for "Hatebreeder" (1999) that carried through "Follow the Reaper" and "Hate Crew Deathroll," and a return to Pearl in 2004 on the Masters Premium Maple kit that stayed his platform through "Hexed" (2019) — with the Pearl Eliminator double pedal a constant throughout. This timeline documents that 26-year, ten-album journey.
 
 See also: [Jaska Raatikainen drummer profile](/llms/drummers/jaska-raatikainen.md), [Jaska Raatikainen drum setup breakdown](/llms/articles/jaska-raatikainen-drum-setup.md), [Hatebreeder drum setup](/llms/articles/hatebreeder-drum-setup.md), [Follow the Reaper drum setup](/llms/articles/follow-the-reaper-drum-setup.md)
 
@@ -46,9 +46,9 @@ Raatikainen co-founded what became Children of Bodom with Alexi Laiho in 1993, a
 **Albums:** Follow the Reaper (2000); Hate Crew Deathroll (2003)
 **Tours:** Children of Bodom European and US club tours 2000–2003
 
-"Follow the Reaper" (2000) is widely considered Children of Bodom's defining statement, with tracks like "Needled 24/7" and "Sixpounder" demonstrating Raatikainen's ability to sustain complex double-kick patterns against shifting guitar meters. "Hate Crew Deathroll" (2003), the band's commercial peak, pushed the newly adopted Pearl Eliminator pedal and Pearl Masters Premium Maple kit through an unrelenting touring schedule.
+"Follow the Reaper" (2000) is widely considered Children of Bodom's defining statement, with tracks like "Needled 24/7" and "Sixpounder" demonstrating Raatikainen's ability to sustain complex double-kick patterns against guitar runs that shift meter mid-phrase. He moved to an early Tama Starclassic configuration for "Hatebreeder" (1999) and carried it through "Follow the Reaper" and "Hate Crew Deathroll" (2003), the band's commercial peak, before returning to Pearl in 2004 — the newly adopted Pearl Eliminator pedal proving its endurance across an unrelenting touring schedule throughout.
 
-- **Drums:** Pearl Masters Premium Maple *(upgrade — flagship endorsement solidified, six-ply all-maple shells)*
+- **Drums:** Tama Starclassic *(switch — early configuration, moved from Pearl for "Hatebreeder" (1999); carried through "Follow the Reaper" and "Hate Crew Deathroll" before returning to Pearl in 2004)*
 - **Snare:** Pearl Masters 14"×5.5" Maple *(upgrade)*
 - **Cymbals:** Zildjian A Custom *(upgrade — hi-hats, crashes; developing K Custom ride relationship)*
 - **Hardware:** Pearl Eliminator Double Bass Pedal *(new — interchangeable cam system)*
@@ -59,7 +59,7 @@ Raatikainen co-founded what became Children of Bodom with Alexi Laiho in 1993, a
 **Key developments:**
 - "Follow the Reaper" (2000) — widely considered Children of Bodom's defining album
 - "Hate Crew Deathroll" (2003) — the band's commercial peak
-- Pearl Masters Premium Maple and Pearl Eliminator double pedal established as core gear
+- Switched to an early Tama Starclassic kit for "Hatebreeder" (1999), carried through this era; Pearl Eliminator double pedal established as core gear
 - Vic Firth American Classic 5A sticks adopted
 
 > "Needled 24/7 and Sixpounder need a pedal that responds exactly the same way every single time. The Eliminator's cam system let me dial that in." — *Rhythm Magazine, 2001*
@@ -73,7 +73,7 @@ Raatikainen co-founded what became Children of Bodom with Alexi Laiho in 1993, a
 
 "Are You Dead Yet?" (2005) achieved the widest mainstream reach of any Children of Bodom album. Raatikainen adapted to slightly more accessible song structures without abandoning the technical double-bass vocabulary that defined earlier material. "Blooddrunk" (2008) continued that evolution, and his full Zildjian A Custom/K Custom cymbal setup reached its established configuration.
 
-- **Drums:** Pearl Masters Premium Maple — consistent touring configuration
+- **Drums:** Pearl Masters Premium Maple — returning to Pearl after the 1999-2004 Tama Starclassic era
 - **Snare:** Pearl Masters 14"×5.5" Maple — confirmed configuration
 - **Cymbals:** Zildjian A Custom crashes, K Custom ride *(new — full setup established)*
 - **Hardware:** Pearl Eliminator double bass pedal — confirmed configuration
@@ -83,6 +83,7 @@ Raatikainen co-founded what became Children of Bodom with Alexi Laiho in 1993, a
 
 **Key developments:**
 - "Are You Dead Yet?" (2005) — widest mainstream reach of any Children of Bodom album
+- Returned to Pearl Masters Premium Maple after the 1999-2004 Tama Starclassic era
 - Ozzfest 2006 — major US festival exposure
 - "Blooddrunk" (2008) continued the band's evolution with a heavier sound
 - Full Zildjian A Custom/K Custom cymbal setup established
@@ -96,7 +97,7 @@ Raatikainen co-founded what became Children of Bodom with Alexi Laiho in 1993, a
 **Albums:** Halo of Blood (2013); I Worship Chaos (2015); Hexed (2019)
 **Tours:** A Chapter Called Children of Bodom Tour 2019
 
-"Halo of Blood" (2013) marked a return to the band's melodic roots, and "I Worship Chaos" (2015) continued that mature direction — technically demanding but more compositionally focused than the peak-speed material of the early 2000s. Children of Bodom released their final album, "Hexed," in 2019 before announcing dissolution, closing a 26-year run with Raatikainen's gear unchanged at its core since the early 2000s.
+"Halo of Blood" (2013) marked a return to the band's melodic roots, and "I Worship Chaos" (2015) continued that mature direction — technically demanding but more compositionally focused than the peak-speed material of the early 2000s. Children of Bodom released their final album, "Hexed," in 2019 before announcing dissolution, closing a 26-year run with Raatikainen's Pearl Masters Premium Maple and Pearl Eliminator setup unchanged at its core since his 2004 return to Pearl.
 
 - **Drums:** Pearl Masters Premium Maple — updated custom finish
 - **Snare:** Pearl Masters 14"×5.5" Maple — confirmed final-era snare
@@ -118,7 +119,9 @@ Raatikainen co-founded what became Children of Bodom with Alexi Laiho in 1993, a
 
 ## Gear Brand Partnerships Timeline
 
-- **Pearl (drums)** — 1997–2019 (developing-era kits → Pearl Masters Premium Maple from 2000 onward)
+- **Pearl (drums)** — 1997–1999 (developing-era kits on "Something Wild")
+- **Tama Starclassic (drums)** — 1999–2004 (early configuration, from "Hatebreeder" through "Hate Crew Deathroll")
+- **Pearl (drums)** — 2004–2019 (return to Pearl, Masters Premium Maple kit)
 - **Pearl Eliminator (hardware)** — 2000–2019 (interchangeable-cam double bass pedal, the consistent foot platform across two decades)
 - **Zildjian A / A Custom / K Custom (cymbals)** — 1997–2019 (A Series early career → full A Custom/K Custom setup by the mid-2000s)
 - **Vic Firth American Classic 5A (sticks)** — 2000–2019 (adopted with the "Follow the Reaper" era, unchanged thereafter)
@@ -129,13 +132,13 @@ Raatikainen co-founded what became Children of Bodom with Alexi Laiho in 1993, a
 ## FAQ
 
 **Q: How did Jaska Raatikainen's gear change across Children of Bodom albums?**
-A: Jaska Raatikainen's gear evolved through steady refinement rather than wholesale changes. He started on a developing Pearl endorsement during "Something Wild" (1997) and "Hatebreeder" (1999), upgraded to the flagship Pearl Masters Premium Maple kit and adopted the Pearl Eliminator double pedal during "Follow the Reaper" (2000) and "Hate Crew Deathroll" (2003), and carried that same core setup — refined with an expanded Zildjian A Custom/K Custom cymbal configuration — through to the band's final album, "Hexed" (2019).
+A: Jaska Raatikainen's drum kit followed a Pearl → Tama → Pearl arc. He started on a developing Pearl endorsement during "Something Wild" (1997), switched to an early Tama Starclassic configuration for "Hatebreeder" (1999) that carried through "Follow the Reaper" (2000) and "Hate Crew Deathroll" (2003), then returned to Pearl in 2004 on the flagship Masters Premium Maple kit for "Are You Dead Yet?" — carrying that setup, refined with an expanded Zildjian A Custom/K Custom cymbal configuration, through to the band's final album, "Hexed" (2019). The Pearl Eliminator double pedal was a constant across both drum-brand eras.
 
 **Q: What drum kit did Jaska Raatikainen play in Children of Bodom?**
-A: Jaska Raatikainen played a Pearl Masters Premium Maple kit — a six-ply all-maple shell pack — throughout the majority of Children of Bodom's career, paired with a Pearl Masters 14"×5.5" maple snare and a compact double-bass tom configuration.
+A: Jaska Raatikainen played a Pearl Masters Premium Maple kit — a six-ply all-maple shell pack — from 2004's "Are You Dead Yet?" through the rest of Children of Bodom's career, paired with a Pearl Masters 14"×5.5" maple snare. Between 1999 and 2004, on "Hatebreeder," "Follow the Reaper," and "Hate Crew Deathroll," he played an early Tama Starclassic configuration. His double bass configuration used two 22"×18" kick drums with a compact two rack tom/two floor tom spread suited to the band's melodic fill-heavy material.
 
 **Q: What pedal did Jaska Raatikainen use?**
-A: Raatikainen used the Pearl Eliminator double bass pedal from "Follow the Reaper" (2000) onward. Its interchangeable cam system let him adjust the pedal's acceleration curve to his heel-up technique, providing the mechanical consistency his complex double-kick patterns demanded across two decades.
+A: Raatikainen used the Pearl Eliminator double bass pedal from "Follow the Reaper" (2000) onward, through both his 1999-2004 Tama Starclassic drum era and his Pearl Masters Premium Maple kit from 2004 on. Its defining feature is an interchangeable cam system — round, oval, and tri-cam options — that let him adjust the pedal's acceleration curve to his heel-up technique, providing the mechanical consistency his complex double-kick patterns demanded across two decades.
 
 **Q: Why did Children of Bodom break up?**
 A: Children of Bodom announced their dissolution in 2019 after a 26-year career, releasing "Hexed" as their final album and playing a farewell tour, "A Chapter Called Children of Bodom." Guitarist and vocalist Alexi Laiho passed away in December 2020.

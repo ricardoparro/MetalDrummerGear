@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-26 00:18 UTC*
 
 ---
+
+## 2026-11-26 12:11 (daily deep run — 7/7 proposals verified+promoted #11148-11154)
+### Context
+First run after 07:00 UTC today (prior entry was the 00:19 cheap pulse). Backlog was 0 eligible ai-fix / 0 open PRs going in; 7 fresh proposals (#11148-11154, filed 07:07-08 UTC) were the only untriaged items.
+
+### Actions taken
+- Live-verified all 7 fresh `public/llms/gear-history/*.md` proposals directly against ground truth (not just issue text): **#11148** Adrian Erlandsson — `bands.js:2365` confirms "1990-1996, 2007-2008, 2010-present" for At the Gates (file said 1992-1996, 2007-present), `drummerEvolution.js` FAQ confirms Haunted "1996-1999, rejoined 2013-present" and Cradle of Filth "1999 to 2006" (file invented a fabricated "2015" return and truncated to 2003). **#11149** Arin Ilejay — `api/drummers/index.js:1605` + `drummerEvolution.js:19307` both give A7X tenure as 2011-2015 (file said 2011-2014); root's kitOverview text has zero mention of any named successor, confirming the "replaced by Brooks Wackerman" claim is fabricated. **#11150** Art Cruz — `drummerEvolution.js:11127` gives `totalYearsActive: '2010-Present'` (file said 2008-present) and `estimatedCost` original/inflationAdjusted both 7500 (file claimed a $9,500 inflation jump). **#11151** Chris Turner — `drummerEvolution.js` 2015-2019 era hardware explicitly "Predates his documented Tama Speed Cobra 910 endorsement" and 2010 era sticks "Predates his documented Vic Firth relationship" (file backdated both). **#11152** Derek Roddy — `bands.js:2718` gives Hate Eternal as single continuous "2000-2006" stint (same authority #9678 already established for a sibling file); mirror file still had the discredited two-stint framing. **#11153** Jay Weinberg — `bands.js:269` confirms Slipknot parting announced Nov 5 2023 "creative decision" (file said December), `bands.js:1008` confirms Suicidal Tendencies tenure ended January 2026 with Xavier Ware now current (file framed it as still-ongoing). **#11154** John Longstreth — `api/drummers/index.js:3716` explicitly credits him as co-founder of Angelcorpse only, "driving force behind" Origin (no "co-founds" language for Origin anywhere in root); `drummerEvolution.js:21960` gives cost 4100/4600 (file had 4273/4784). All 7 exact against ground truth. Dupe-checked all 7 filenames (`gh issue list --state all --search`) — zero open dupes → all 7 promoted ai-fix.
+- Confirmed prior batch (#11136-11137) merged clean (both closed).
+- Checked the 4 held founder-re-verification proposals (#10032/#10099/#10655/#10656) and all `human-founder` issues (#10174/#5141/#5100/#4892/#875/#529/#526/#525) — all unchanged (updatedAt stale), no re-spam.
+- L1/L2/L3 snapshots (gsc-watch 2026-11-23 08:15, indexation 2026-11-23 09:29, llm-citations #2211 2026-11-23 07:37) unchanged since the 2026-11-25 12:11 deep run that already closed the loop — weekly refresh due ~2026-11-30, nothing new to action. Founder ideas inbox confirmed empty (unchanged since 2026-06-19). GSC content-gap filter: 0 qualifying rows (per auto-refreshed metrics.md).
+- Atomic-split sweep: all 7 new ai-fix issues are same-run promotions (<1h old) — nothing eligible. The 13 held `ai-fix,seo,hold` roster/band issues (#4932-#5108) remain correctly frozen under the NEW-PAGE FREEZE, not stuck-by-size.
+
+### State delta
+- Backlog: 0 eligible ai-fix → 7 (#11148-11154, same-run promotions) · proposal bank: 7 → 0 (excl. 4 held + 3 umbrellas, unchanged)
+- Org/Sessions/Views (7d): 796 / 846 / 1,120 · GSC 17,060 impr / 294 clicks / 1.72% CTR / pos 7.2, 0 content-gap rows
+
+### Quota check
+Proposal promotions 7/7, gated by backlog (0, well under 45). No L1/L2/L3-sourced ai-fix issues this run (no new weekly refresh). No GSC-gap escalation (0 qualifying rows).
+
+### Next Run
+- First run after 13:00 UTC is the mid-day pulse — confirm this 7-issue batch merges clean.
+- Starvation check: post-triage backlog 0→7 (<15), bank 7→0 trips the trigger shape — same recurring same-batch-triaged-in-one-run artifact seen all month, not genuine starvation; NEW-PAGE FREEZE step 2 stays excluded regardless.
+- Watch for the 2026-11-30 weekly L1/L2/L3 refresh.
+
+---
 ## 2026-11-26 00:19 (cheap pulse — 2/2 proposals verified+promoted #11136-11137)
 - Backlog: 0 ai-fix → 2 (#11136-11137, just promoted) · 0 PRs open · proposals untriaged: 0 (excl. held #10032/#10099/#10655/#10656 + umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 746 / 788 / 1,025 · GSC 13,742 impr / 238 clicks / 1.73% CTR / pos 7.2, 0 content-gap rows

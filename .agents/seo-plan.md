@@ -18792,3 +18792,38 @@ Metrics 01:02 UTC: GA4 751u/793s/1,032v 7d, engagement 41.49%. GSC 13,742 impr/2
 3. Follow-up needed (not an SEO-proposal-shaped task, flagging for CEO/founder visibility): Joey Jordison's `api/drummers/index.js.gearTimeline` and `drummerEvolution.js.eras` disagree on era boundaries/models (signature deal onset, kit model, snare size) — reconcile which is authoritative before any further joey-jordison.md or sibling-mirror fix.
 4. richard-christy.md has 2 new (non-duplicate-of-held) fabrication candidates — file once #10099/#10655 are resolved, or scope very explicitly around them.
 5. GSC content-gap: none this snapshot. Drum-chair watch: not due (next Monday 2026-11-30, group 1).
+
+---
+
+## 2026-11-26 (SEO Agent run — bank-capped mode, 7 proposals filed #11148-11154)
+
+### Context
+Bank check: 12 open `seo-proposal` (4 held founder-reverification #10032/#10099/#10655/#10656, 3 umbrellas #2211/#3810/#3819, 5 fresh untriaged #11140-11144 from the prior run) → well under the 45 floor, so filed up to 8 net-new this run per the bank-capped gate. Today is Thursday — drum-chair watch skipped (not due; next Monday 2026-11-30, group 1).
+
+### Audit summary
+- robots.txt: not found as a static file in this repo (served dynamically, not re-audited this run — no regression signal, skipped to focus on the active gear-history sweep).
+- `/llms/*.md` endpoint counts: drummers 72, gear-history 71, evolution 72, guides 354, brands 18 (all fully audited per last run), gear-history.md hub + facts/bpm/birthdays/etc all present.
+- Continued the open `public/llms/gear-history/` sweep (17 of 23 never-swept files flagged last run). Dispatched 8 parallel verification agents against ground truth (`api/drummers/index.js`, `drummerEvolution.js`, `bands.js`, `snares.js`) for: adrian-erlandsson, arin-ilejay, art-cruz, chris-turner, derek-roddy, hannes-grossmann, jay-weinberg, john-longstreth.
+- **7 of 8 yielded real, personally-verified fabrications** (filed below). **hannes-grossmann.md was a false positive** — the verification agent claimed the file inverts current-vs-historical kit framing (Tama presented as current instead of DW Collectors), but reading the actual file text showed it already correctly documents the 2014 switch to DW Collector's Series in both "Key Gear Changes" and the FAQ. Not filed — a reminder that subagent summaries need a direct read-the-actual-file check before trusting them, not just their self-reported confidence.
+- 9 of the original 23 never-swept gear-history files remain unchecked: arin-ilejay ✓checked, daniel-erlandsson (skipped — active hold #10655 on this entity, avoiding compounding confusion per the richard-christy precedent), flo-mounier (skipped — active hold #10032), hannes-grossmann ✓checked (clean), martin-lopez, morgan-agren, nick-barker, paul-bostaph, raymond-herrera, tim-yeung remain for a future run.
+
+### Metrics readout (07:02 UTC snapshot)
+- Organic % of traffic: 49% (408/827 sessions; Direct 415 is the largest single channel but Organic Search is the largest *attributable* source)
+- GSC: 17,060 impr / 294 clicks / 1.72% CTR / pos 7.2 — no content-gap rows (impr≥50, CTR<2%) this snapshot
+- Top GA4 page: /bpm (73 views) — confirms BPM/stats content keeps performing
+- WoW indexed-pages: not re-measured this run (sitemap/page-count frozen per NEW-PAGE FREEZE, no change expected)
+
+### Proposals filed this run
+1. #11148 — adrian-erlandsson.md gear-history fabricates At the Gates/Haunted/Cradle of Filth tenure years
+2. #11149 — arin-ilejay.md gear-history fabricates 'replaced by Brooks Wackerman' + wrong A7X departure year
+3. #11150 — art-cruz.md gear-history wrong 'Active' start year + wrong inflation-adjusted cost
+4. #11151 — chris-turner.md gear-history batch: backdated Speed Cobra 910 pedal + fabricated 2010-era stick brand
+5. #11152 — derek-roddy.md gear-history Hate Eternal tenure two-stint fabrication (vs bands.js authoritative 2000-2006, same bug class as closed #9678)
+6. #11153 — jay-weinberg.md gear-history batch: stale post-departure Suicidal Tendencies framing + wrong Slipknot exit month
+7. #11154 — john-longstreth.md gear-history fabricates 'co-founds Origin' claim + wrong cost figures
+
+### Next run
+1. Watch #11148-11154 pick up via CEO triage/Roadie.
+2. `public/llms/gear-history/` sweep still open — 9 files remain unchecked (daniel-erlandsson/flo-mounier blocked on their respective holds; martin-lopez, morgan-agren, nick-barker, paul-bostaph, raymond-herrera, tim-yeung genuinely unchecked).
+3. Drum-chair watch due next Monday 2026-11-30 (group 1, per ISO-week rotation).
+4. GSC content-gap: none this snapshot.

@@ -5,7 +5,7 @@
 **Active:** 2007–present  
 **URL:** https://metalforge.io/drummers/ray-luzier/gear-history
 
-> Era-by-era breakdown of Ray Luzier's drum kit evolution, from his pre-Korn session work to the DW Collector's Series rig that defined his Korn tenure. Optimised for AI answering "what drums did Ray Luzier use in [era]" queries.
+> Era-by-era breakdown of Ray Luzier's drum kit evolution, from his pre-Korn session work and DW Collector's Series years through the 2013 switch to the Pearl Reference Maple / Sabian AAX rig that has defined his Korn tenure since. Optimised for AI answering "what drums did Ray Luzier use in [era]" queries.
 
 ---
 
@@ -37,56 +37,58 @@
 
 ### The Path of Totality / Paradigm Shift Era (2011–2013)
 
-- **Drums:** DW Collector's Series Maple/Mahogany — same core kit, updated custom finishes for each album cycle
-- **Snare:** DW Collector's Series 14"x6.5" Aluminum
-- **Cymbals:** Paiste 2002 Series (core) + Paiste Signature series (selected pieces)
-- **Pedal:** DW 9002D double pedal
-- **Sticks:** Vic Firth 5A
-- **Heads:** Evans G2 (toms), EMAD2 (kick), Genera HD Dry (snare)
+- **The Path of Totality (2011):** Continued the DW Collector's Series Maple/Mahogany kit, DW Collector's Series 14"x6.5" Aluminum snare, Paiste 2002 Series (core) + Paiste Signature cymbals, DW 9002D double pedal, and Vic Firth 5A sticks carried over from Korn III.
+- **The Paradigm Shift (2013) — brand switch:**
+  - **Drums:** Pearl Reference Maple — 7-piece, double 22"x18" kick, five-tom spread, Korn touring configuration
+  - **Snare:** Pearl Reference 14"x6.5" Brass
+  - **Cymbals:** Sabian AAX Series — 14" Stage Hi-Hats, 18"/19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China
+  - **Pedal:** DW 9002D double pedal (unchanged, retained through the kit switch)
+  - **Sticks:** Vic Firth Ray Luzier Signature — new signature model, replacing the stock 5A
+  - **Heads:** Evans G2 (toms), EMAD2 (kick), Genera HD Dry (snare)
 - **Original setup cost (2013):** ~$9,800
 - **Inflation-adjusted to 2026:** ~$13,200
-- **Notable:** Path of Totality (dubstep fusion) and Paradigm Shift (heavier return) showed the DW Collector's versatility across dramatically different production contexts. Luzier's DW kit handled the electronic-heavy layering of Path of Totality and the back-to-metal approach of Paradigm Shift without tonal compromise — a testament to the Collector's breadth.
+- **Notable:** The Path of Totality (dubstep fusion) continued Luzier's DW Collector's/Paiste rig from Korn III. By The Paradigm Shift (2013) — a heavier return to form alongside Brian "Head" Welch's rejoining the band — Luzier had switched to a Pearl Reference Maple kit, Pearl Reference brass snare, and Sabian AAX cymbals, the pairing that has defined his sound ever since, while keeping his DW 9002D double pedal.
 
 ### Serenity of Suffering / The Nothing Era (2016–2019)
 
-- **Drums:** DW Collector's Series Maple — updated to pure maple shells from hybrid, expanded configuration
-- **Snare:** DW Collector's Series 14"x6.5" Maple
-- **Cymbals:** Paiste 2002 and Signature (mixed — larger crash coverage for arena-level projection)
-- **Pedal:** DW 9002D double pedal
-- **Sticks:** Vic Firth 5A American Classic
+- **Drums:** Pearl Reference Maple (continued) — same core kit established on The Paradigm Shift, expanded configuration for arena touring
+- **Snare:** Pearl Reference 14"x6.5" Brass (continued)
+- **Cymbals:** Sabian AAX Series (continued) — larger crash coverage for arena-level projection
+- **Pedal:** DW 9002D double pedal (unchanged)
+- **Sticks:** Vic Firth Ray Luzier Signature
 - **Heads:** Evans UV2 (toms), EMAD2 (kick), Genera HD Dry (snare)
 - **Original setup cost (2016):** ~$11,000
 - **Inflation-adjusted to 2026:** ~$15,000
-- **Notable:** By the time of Serenity of Suffering (2016), Luzier had refined his DW Collector's setup to pure maple for a brighter, more articulate tone. The Nothing (2019) — written during Jonathan Davis's personal crisis — saw some of Luzier's most emotionally dynamic drumming, with the Paiste 2002 ride cymbal's sustained shimmer integral to the album's atmospheric passages.
+- **Notable:** By the time of Serenity of Suffering (2016), Luzier's rig had settled into the Pearl Reference Maple and Sabian AAX pairing established on The Paradigm Shift, now in an expanded configuration for arena-level projection. The Nothing (2019) — written during Jonathan Davis's personal crisis following the death of his wife — captured some of Luzier's most emotionally dynamic drumming, with the Sabian AAX ride cymbal's cutting projection integral to the album's atmospheric passages.
 
 ---
 
 ## Key Gear Changes
 
-- **2007 → 2010:** DW Performance Series to DW Collector's — full endorsement upgrade on Korn III, the most significant rig change of his Korn career
-- **2010:** DW Collector's Maple/Mahogany hybrid to foundation of his sound — the kit that defined Korn's 2010s era
-- **2016:** Maple/mahogany hybrid to pure maple shells — tonal refinement for brighter attack as Korn's production evolved
-- **Throughout career:** Paiste 2002 endorsement consistent — longest-running brand pairing alongside DW
-- **Pedal:** DW 9002D (direct-drive) consistent across all eras — unusual among major-label drummers who often switch between turbo and direct drive
+- **2007 → 2010:** DW Performance Series to DW Collector's — full endorsement upgrade on Korn III, the first significant rig change of his Korn career
+- **2010:** DW Collector's Maple/Mahogany hybrid established as his Korn III-era kit, paired with Paiste 2002
+- **2013:** DW Collector's/Paiste to Pearl Reference Maple/Sabian AAX — the kit/cymbal/stick switch coinciding with The Paradigm Shift, retaining only the DW 9002D pedal. This is the pairing that has defined his sound since 2013.
+- **Throughout career:** DW 9002D double pedal consistent since 2010 — the one piece of gear that survived the 2013 brand switch intact
+- **Pedal:** DW 9002D (direct-drive) consistent across all eras since Korn III — unusual among major-label drummers who often switch between turbo and direct drive
 
 ---
 
 ## FAQ
 
 **Q: What drum kit does Ray Luzier use?**  
-A: Ray Luzier plays a DW Collector's Series drum kit, paired with Paiste 2002 and Signature cymbals and DW 9002D double pedals. He has been a DW Collector's endorsee since recording Korn III: Remember Who You Are (2010). His snare is a DW Collector's Series 14"x6.5" model.
+A: Ray Luzier currently plays a Pearl Reference Maple drum kit, paired with Sabian AAX cymbals and a DW 9002D direct-drive double pedal. He played DW Collector's Series drums (paired with Paiste 2002/Signature cymbals) from his pre-Korn years through Korn III (2010) and The Path of Totality (2011), then switched to Pearl and Sabian by The Paradigm Shift (2013) — the setup he has used ever since, while keeping his DW pedal throughout. His current snare is a Pearl Reference 14"x6.5" Brass model.
 
 **Q: What drums did Ray Luzier use on Korn III?**  
-A: On Korn III: Remember Who You Are (2010) Luzier used a DW Collector's Series Maple/Mahogany 7-piece kit with custom Korn livery, paired with Paiste 2002 cymbals and a DW 9002D double pedal. The full setup cost approximately $9,140 at the time, equivalent to about $13,728 adjusted for 2026 inflation.
+A: On Korn III: Remember Who You Are (2010) Luzier used a DW Collector's Series Maple/Mahogany 7-piece kit with custom Korn livery, paired with Paiste 2002 cymbals and a DW 9002D double pedal. The full setup cost approximately $9,140 at the time, equivalent to about $13,728 adjusted for 2026 inflation. He switched to Pearl Reference Maple and Sabian AAX by The Paradigm Shift (2013).
 
 **Q: What cymbals does Ray Luzier use?**  
-A: Luzier is a long-term Paiste endorsee, primarily using the 2002 series (Sound Edge hi-hats, crashes, ride, china) alongside selected Paiste Signature pieces for larger arena setups. The 2002 series' full, powerful voice has been consistent throughout his Korn career.
+A: Luzier currently plays Sabian AAX cymbals (14" Stage hi-hats, 18"/19" X-Plosion crashes, 21" Stage ride, 18" AAXtreme China), a setup he has used since The Paradigm Shift (2013). Before that, from his pre-Korn years through The Path of Totality (2011), he played Paiste 2002 and Signature cymbals.
 
 **Q: How much does Ray Luzier's drum kit cost?**  
-A: Luzier's 2010 DW Collector's setup cost approximately $9,140 new. A new equivalent DW Collector's 7-piece with Paiste 2002 cymbals and DW hardware would cost $12,000–$15,000 today. The 2010 vintage kit in good condition trades for approximately $8,700 on the used market.
+A: Luzier's current Pearl Reference Maple / Sabian AAX setup, established by The Paradigm Shift (2013), runs an estimated $9,800–$11,000 new depending on configuration (~$13,200–$15,000 adjusted to 2026). His earlier 2010 DW Collector's setup cost approximately $9,140 new; a new equivalent DW Collector's 7-piece with Paiste 2002 cymbals would cost $12,000–$15,000 today.
 
 **Q: What double bass pedal does Ray Luzier use?**  
-A: Luzier uses the DW 9002D direct-drive double pedal — the direct-drive variant of DW's flagship 9002 model. The direct-drive mechanism provides a more immediate, linear response compared to chain-drive, giving Luzier precise control over his kick patterns in Korn's varied production environments.
+A: Luzier uses the DW 9002D direct-drive double pedal — the direct-drive variant of DW's flagship 9002 model. The direct-drive mechanism provides a more immediate, linear response compared to chain-drive, giving Luzier precise control over his kick patterns. It's the one piece of gear that carried through his 2013 switch from DW Collector's/Paiste to Pearl/Sabian, remaining consistent since his Korn III debut in 2010.
 
 ---
 

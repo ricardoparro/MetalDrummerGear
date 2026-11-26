@@ -8,7 +8,7 @@ Remo is the world's largest drumhead manufacturer, founded by Remo Belli in Nort
 - Tomas Haake (Meshuggah) — Remo heads across his Sonor SQ2 Heavy Beech kit and Sonor Tomas Haake Signature 14x6.5" snare
 - Mario Duplantier (Gojira) — Remo Emperor heads on toms and Remo Powerstroke 3 on bass drums, across his Tama Starclassic Bubinga kit
 - Nicko McBrain (Iron Maiden) — Remo Emperor heads across his British Drum Co. kit and Sonor Nicko McBrain Signature 14x6.5" snare
-- Alex Bent (ex-Trivium, ex-Battlecross) — Remo heads across his Tama Starclassic Maple kit and Tama Starclassic Maple 14x5" snare
+- Alex Bent (ex-Trivium, Arkaik) — Remo heads across his Tama Starclassic Maple kit and Tama Starclassic Maple 14x5" snare
 
 ## Key Remo Product Lines for Metal
 

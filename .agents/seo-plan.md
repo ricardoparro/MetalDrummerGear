@@ -18827,3 +18827,39 @@ Bank check: 12 open `seo-proposal` (4 held founder-reverification #10032/#10099/
 2. `public/llms/gear-history/` sweep still open — 9 files remain unchecked (daniel-erlandsson/flo-mounier blocked on their respective holds; martin-lopez, morgan-agren, nick-barker, paul-bostaph, raymond-herrera, tim-yeung genuinely unchecked).
 3. Drum-chair watch due next Monday 2026-11-30 (group 1, per ISO-week rotation).
 4. GSC content-gap: none this snapshot.
+
+## 2026-11-26 ~14:xx UTC (SEO Agent run — 5 proposals filed #11160-11164, gear-history sweep's 9 remaining-unchecked files closed to 3)
+
+### Bank check
+Bank at run start: 14 open `seo-proposal` (4 held founder-reverification #10032/#10099/#10655/#10656, 3 umbrellas #2211/#3810/#3819, 7 fresh untriaged #11148-11154 from the prior run). Well under the 45 floor → cleared to file up to 8 net-new. Today is Thursday — drum-chair watch skipped (not due; next Monday 2026-11-30, group 1).
+
+### Audit summary
+- `/llms/*.md` endpoints: 2,011+ files live under `public/llms/` (unchanged, NEW-PAGE FREEZE — no new pages added).
+- AI crawler robots.txt: not re-audited this run (no regression signal, prior runs confirm all 8 crawlers allowed via `api/robots.js`).
+- Continued the open `public/llms/gear-history/` sweep. Of the 9 files flagged last run as unchecked, 2 remain blocked on active founder-reverification holds (daniel-erlandsson/#10655, flo-mounier/#10032) — skipped per the richard-christy precedent (don't compound confusion on entities with a live hold). Dispatched 6 parallel verification agents against the other unblocked candidates: martin-lopez, morgan-agren, nick-barker, paul-bostaph, raymond-herrera, tim-yeung.
+
+### Findings — 5 of 6 confirmed real, 1 false positive
+Personally re-verified every finding via direct grep/read against ground truth (`drummerEvolution.js`, `bands.js`) before filing — same discipline as the hannes-grossmann false-positive catch two runs ago:
+- **martin-lopez.md — false positive, not filed.** Sub-agent flagged an Amon Amarth→Opeth "replaced after leaving" narrative as contradicting an overlap in `bands.js` dates. Direct read of `bands.js:2205`'s own FAQ text ("Martin Lopez recorded the 1998 debut... before leaving to join Opeth") confirms the file's narrative is actually consistent with ground truth — no fix needed.
+- **#11160 morgan-agren.md** (batch) — invented era boundary (1988-1998, matches no real era), fabricated concrete snare/pedal specifics where `drummerEvolution.js` explicitly says "not publicly documented" (verified-only rule violation), wrong cymbal sizes (14"→should be 13" hi-hats, 22"→21" ride), an entire 2007-2014 era skipped, and a wrong "2012-present" framing for a Devin Townsend Project tenure that ground truth says closed in 2016.
+- **#11161 nick-barker.md** — fabricated hardware finish ("Special-Order Black") and cost figures ($6,400/$11,395) where ground truth says hardware is undocumented and cost is $2,900/$6,100.
+- **#11162 paul-bostaph.md** (batch) — wrong Slayer stint count (file says 2, ground truth says 3 stints per `bands.js:341`), fabricated Testament years (1999-2001, 2024-present — no such stints exist; real ones are 1992-1993/2004/2007-2011), unsupported Exodus end-year, missing Undisputed Attitude (1996) album.
+- **#11163 raymond-herrera.md** (batch) — wrong era date range (1994-1997 header contradicts its own 1995/1998 body text; ground truth is 1995-2001), an entire missing pre-era (1990-1994 Pearl Export kit, omitted together with a wrong "Tama from the debut" claim), and fabricated cost figures ($5,202/$11,182 + an invented $850 sub-cost, vs ground truth's $9,500/$18,000).
+- **#11164 tim-yeung.md** (batch) — most severe: fabricates an entire "2005 Hate Eternal" gear-signing era when ground truth shows he left Hate Eternal in 2000 and the real Tama/Sabian signing was with Divine Heresy (2006-2010); misattributes Fury & Flames (2008) to him; wrong snare brand (Pearl vs real Tama Starclassic Bubinga), wrong heads (Evans vs real Remo), wrong cost figures. Also flagged (not blocking) a cross-source sticks model conflict (5A vs 5B) between `drummerEvolution.js` and `api/drummers/index.js` for a future dedicated reconciliation, same bug class as the open joey-jordison flag from two runs ago.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 800u/850s/1,124v 7d, engagement 42.35%. GSC 17,060 impr/294 clicks/1.72% CTR/pos 7.2. No content-gap rows this snapshot.
+
+### Proposals filed this run
+1. #11160 — morgan-agren.md gear-history batch (era boundaries, snare model, cymbal sizes, missing era)
+2. #11161 — nick-barker.md gear-history hardware/cost fabrication
+3. #11162 — paul-bostaph.md gear-history batch (Slayer/Testament/Exodus tenure years)
+4. #11163 — raymond-herrera.md gear-history batch (era dates, missing pre-era, cost figures)
+5. #11164 — tim-yeung.md gear-history batch (fabricated Hate Eternal era, wrong snare/heads, cost)
+
+### Next run
+1. Watch #11160-11164 pick up via CEO triage/Roadie.
+2. `public/llms/gear-history/` sweep: of the original 23 never-swept files, only **daniel-erlandsson** and **flo-mounier** remain unchecked, both blocked on active founder-reverification holds (#10655, #10032) — do not re-check these until the holds resolve. The sweep is otherwise functionally complete (martin-lopez checked clean, 5 of the remaining 6 fabricated and filed).
+3. Two standing cross-source reconciliation flags now open (not SEO-proposal-shaped, for CEO/founder visibility): (a) Joey Jordison's `gearTimeline` vs `eras` era-boundary disagreement (flagged 2 runs ago), (b) Tim Yeung's Vic Firth stick model (5A vs 5B) disagreement between `api/drummers/index.js` and `drummerEvolution.js`.
+4. Next unswept target: no concrete lead identified yet — a future run should pick a fresh root-level or directory-level hand-authored file family to sweep once #11160-11164 clear triage.
+5. Drum-chair watch due next Monday 2026-11-30 (group 1, per ISO-week rotation). GSC content-gap: none this snapshot.

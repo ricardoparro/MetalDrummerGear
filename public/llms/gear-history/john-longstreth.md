@@ -27,15 +27,15 @@ last_updated: "2026-08-23"
 - **Cymbals:** Meinl Classics Custom Dark + Generation X Trash Hat — 8" Dark Splash, 14" Dark Hi-Hats, 18" Dark China, 12"/14" Trash Hat
 - **Hardware:** ACD Unlimited Bass Drum Pedals + FootBlaster Triggers
 - **Sticks:** Scorpion Percussion "Wee Heavy" Signature — his own signature drumstick model
-- **Original setup cost (2022):** ~$4,273
-- **Inflation-adjusted to 2026:** ~$4,784
+- **Original setup cost (2022):** ~$4,100
+- **Inflation-adjusted to 2026:** ~$4,600
 - **Notable:** His Meinl Classics Custom Dark cymbal setup and Scorpion Percussion "Wee Heavy" signature drumsticks are itemized directly on each brand's own artist page, alongside ACD Unlimited bass drum pedals and FootBlaster triggers built for sustained high-speed blast-beat endurance. Longstreth is also an endorsed Pearl Drums artist, though Pearl's own artist specification page blocks automated access, so exact shell sizes are omitted rather than guessed.
 
 ---
 
 ## Key Gear Changes
 
-- **1999:** Origin Formation — co-founds Origin, the technical/brutal death metal band that becomes his primary drum chair
+- **1999:** Becomes the driving force behind Origin, the technical/brutal death metal band that becomes his primary drum chair (he co-founded Angelcorpse in 1995, a separate band)
 - **2022:** Chaosmos recorded — Pearl/Meinl/ACD Unlimited/Scorpion Percussion rig documented across each brand's own artist pages
 
 ---
@@ -46,7 +46,7 @@ last_updated: "2026-08-23"
 A: John Longstreth used a Pearl kit (shell sizes and finish not publicly documented) with Meinl Classics Custom Dark cymbals, ACD Unlimited bass drum pedals with FootBlaster triggers, and his own Scorpion Percussion "Wee Heavy" signature sticks on Origin's 2022 album Chaosmos.
 
 **Q: How much does John Longstreth's drum setup cost?**
-A: Longstreth's Origin-era rig cost approximately $4,273 at 2022 retail, equivalent to roughly $4,784 today after inflation.
+A: Longstreth's Origin-era rig cost approximately $4,100 at 2022 retail, equivalent to roughly $4,600 today after inflation.
 
 **Q: What cymbals does John Longstreth use?**
 A: Per Meinl's own artist page, Longstreth uses the Classics Custom Dark series — an 8" Dark Splash, 14" Dark Hi-Hats, and 18" Dark China — plus a 12"/14" Generation X Trash Hat for the metallic choked accents in his Origin patterns.

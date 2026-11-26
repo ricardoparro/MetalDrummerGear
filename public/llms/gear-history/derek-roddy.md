@@ -1,7 +1,7 @@
 # Derek Roddy Drum Kit Gear History — Hate Eternal
 
 **Drummer:** Derek Roddy
-**Band:** Hate Eternal (2000–2002, 2004–2005)
+**Band:** Hate Eternal (2000–2006)
 **Active:** 1994–present
 **URL:** https://metalforge.io/drummers/derek-roddy/gear-history
 
@@ -21,7 +21,7 @@
 - **Estimated cost (1994–2002):** ~$5,000
 - **Notable:** Roddy built his reputation in Florida's death metal underground through the mid-to-late 1990s, developing the technical precision and blast beat vocabulary that would define his career on a durable, consistent Pearl Masters setup.
 
-### Hate Eternal / Nile Era (2002–2008)
+### Hate Eternal / Nile Era (2000–2008)
 
 - **Drums:** Pearl Reference Series — maple/birch hybrid shells, 22" kick, 10"/12"/14"/16" toms
 - **Snare:** Pearl Free-Floating Steel 14"x6.5"
@@ -59,7 +59,7 @@
 
 ## Key Gear Changes
 
-- **2002:** Joins Hate Eternal — highest-profile band to date
+- **2000:** Joins Hate Eternal — highest-profile band to date (continuous through 2006, recording King of All Kings 2002 and I, Monarch 2005)
 - **2005:** Upgrade to Pearl Reference maple/birch hybrid; switch from Sabian to Zildjian K Custom Dark
 - **2008:** Switch to Tama Starclassic Bubinga and Meinl Byzance & Mb20 cymbals
 - **2001:** Signed with Vater; plays standard 5B (not a signature model)
@@ -79,7 +79,7 @@ A: Derek Roddy currently plays a Tama Starclassic Bubinga kit — a dense bubing
 A: On I, Monarch (2005), Roddy played a Pearl Reference Series maple/birch hybrid kit with Zildjian K Custom Dark cymbals and a Pearl Demon Drive double pedal — an upgrade from the Pearl Masters setup he used during his Florida underground years.
 
 **Q: When did Derek Roddy switch from Pearl to Tama?**
-A: Roddy switched from Pearl to Tama Starclassic Bubinga around 2008, following his Hate Eternal tenure (2000–2002, 2004–2005), as he expanded into worldwide drum clinics and educational content with "The Progression of Rhythm" instructional series.
+A: Roddy switched from Pearl to Tama Starclassic Bubinga around 2008, following his Hate Eternal tenure (2000–2006), as he expanded into worldwide drum clinics and educational content with "The Progression of Rhythm" instructional series.
 
 ---
 

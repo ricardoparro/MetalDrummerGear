@@ -1,7 +1,7 @@
 # Arin Ilejay Drum Kit Gear History — Avenged Sevenfold
 
 **Drummer:** Arin Ilejay
-**Band:** Avenged Sevenfold (2011–2014)
+**Band:** Avenged Sevenfold (2011–2015)
 **Active:** 2005–present (metal drumming career)
 **URL:** https://metalforge.io/drummers/arin-ilejay/gear-history
 
@@ -22,7 +22,7 @@
 - **Estimated cost (2010):** ~$1,200
 - **Notable:** Ilejay played in the post-hardcore band Confide before joining Avenged Sevenfold, developing the technical chops that preceded his 2011 audition.
 
-### Hail to the King Era (2011–2014)
+### Hail to the King Era (2011–2015)
 
 - **Drums:** DW Collector's Series — Tobacco Burst finish, double 22" bass drums, 10"/12"/14" rack toms, 16"/18" floor toms
 - **Snare:** DW Collector's 14"x5.5" Maple/Mahogany
@@ -43,7 +43,7 @@
 - **Sticks:** Promark 5B
 - **Heads:** Remo
 - **Estimated cost (current):** ~$8,000
-- **Notable:** Ilejay departed Avenged Sevenfold in late 2014 (not publicly announced until 2015) and was replaced by former Bad Religion drummer Brooks Wackerman. Hail to the King remains his only album with the band.
+- **Notable:** Ilejay departed Avenged Sevenfold in 2015. Hail to the King remains his only album with the band.
 
 ---
 
@@ -51,7 +51,7 @@
 
 - **2011:** Joins Avenged Sevenfold; upgrades from budget Confide-era gear to a DW Collector's Series kit for arena touring
 - **2013:** Hail to the King recorded — definitive DW Collector's / Zildjian A Custom configuration, album debuts #1 on Billboard 200
-- **2014–2015:** Departs Avenged Sevenfold; replaced by Brooks Wackerman
+- **2015:** Departs Avenged Sevenfold; later joins Islander (2016)
 - **Career constant:** Promark 5B sticks maintained across his tenure
 
 ---

@@ -15,7 +15,7 @@ Vic Firth is the drumming world's most prestigious stick and mallet maker, found
 - Gavin Harrison (Porcupine Tree) — SHAR2 (extended ROCK-style, longer/fatter than factory models)
 - Adrian Erlandsson (At the Gates) — American Classic Rock Nylon Tip (ROCKN)
 - Alex Bent (Trivium) — American Classic 5B
-- Inferno (Behemoth) — American Classic 2B
+- Inferno (Behemoth) — American Classic Extreme 5B
 
 ## Key Vic Firth Product Lines for Metal
 

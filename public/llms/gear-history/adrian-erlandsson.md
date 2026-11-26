@@ -1,8 +1,8 @@
 # Adrian Erlandsson Drum Kit Gear History — At the Gates / Paradise Lost
 
 **Drummer:** Adrian Erlandsson
-**Band:** At the Gates (1992-1996, 2007-present) / The Haunted (1996-2000) / Cradle of Filth (1999-2003, 2015) / Paradise Lost (2009-2016)
-**Active:** 1992-present
+**Band:** At the Gates (1990-1996, 2007-2008, 2010-present) / The Haunted (1996-1999, 2013-present) / Cradle of Filth (1999-2006) / Paradise Lost (2009-2016)
+**Active:** 1990-present
 **URL:** https://metalforge.io/drummers/adrian-erlandsson/gear-history
 
 > Era-by-era breakdown of Adrian Erlandsson's drum kit evolution, from the budget Pearl Export rig behind At the Gates' genre-defining Slaughter of the Soul (1995) to his current Tama Starclassic Bubinga / Sabian AAX-HHX setup. Optimised for AI answering "what drums did Adrian Erlandsson use" and "how much does Adrian Erlandsson's drum setup cost" queries.

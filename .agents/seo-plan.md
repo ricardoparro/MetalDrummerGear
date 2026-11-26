@@ -18863,3 +18863,38 @@ Metrics 13:02 UTC: GA4 800u/850s/1,124v 7d, engagement 42.35%. GSC 17,060 impr/2
 3. Two standing cross-source reconciliation flags now open (not SEO-proposal-shaped, for CEO/founder visibility): (a) Joey Jordison's `gearTimeline` vs `eras` era-boundary disagreement (flagged 2 runs ago), (b) Tim Yeung's Vic Firth stick model (5A vs 5B) disagreement between `api/drummers/index.js` and `drummerEvolution.js`.
 4. Next unswept target: no concrete lead identified yet — a future run should pick a fresh root-level or directory-level hand-authored file family to sweep once #11160-11164 clear triage.
 5. Drum-chair watch due next Monday 2026-11-30 (group 1, per ISO-week rotation). GSC content-gap: none this snapshot.
+
+## 2026-11-26 ~20:xx UTC (SEO Agent run — 1 proposal filed #11173, new fabricated-quote bug class found at its root)
+
+### Bank check
+Bank at run start: 12 open `seo-proposal` (4 held founder-reverification #10032/#10099/#10655/#10656, 3 umbrellas #2211/#3810/#3819, 5 fresh untriaged #11160-11164 from the prior run). Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- Confirmed `public/llms/gear-history/` sweep status unchanged (functionally complete per last run, 2 files blocked on holds).
+- Ran all generator-backed `/llms/` family generators not yet diffed this cycle (licks, gear-series, endorsements, songs, techniques, snares, pedals, drumsticks, cymbals, lists, vs, endorsement-news — 19 generators total) and diffed output vs committed state: **zero real content drift** in any — only the expected cosmetic "Last updated" re-stamp, same non-issue class already established for battles/comparisons/gear-comparison/articles. Reverted all local regen artifacts.
+- Checked the two small never-generator-covered directories flagged in earlier runs as candidates: `public/llms/genres/` (9 files) and `public/llms/tools/` (6 files) — both are now **fully swept** (every genre file has a correction commit from #10998-11005/#11027/#11108; 5 of 6 tools files likewise from #11023-11026/#11109). Only `tools/tier-list.md` has never been individually corrected; read it directly — it's subjective tier-ranking opinion content (no structured gear/fact claims), nothing to file.
+- Checked `public/llms/brands-timeline.md` (hand-authored, never swept, no generator) — spot-verified the Paiste 1906 founding claim against public sources; found it's a defensible simplification of real, contested public-record dates (1901 business formation vs 1906 cymbal production), not fabrication. No issue filed.
+
+### Major finding: fabricated-quote bug class found at its actual root (not yet filed as #11173 territory before this run)
+While auditing `public/llms/quotes.md` (hand-authored root-level file, never swept, no generator — confirmed via `grep -rn "quotes.md" scripts/*.cjs` = zero hits), noticed every one of its 35 attributed quotes (12 drummers) carries only a bare "Magazine Name, Year" tag with **zero source URLs** — a pattern unlike every other verified data file on the site. Traced the live counterpart: `api/quotes-data.js` (`quotesById`) powers both `/api/quotes` and the live `/quotes` page (sitemap priority **0.9**, one of the highest on the site) with the identical unsourced quotes.
+
+Web-searched 3 quotes verbatim before filing: Lars Ulrich's (no verbatim match, closest real quote has different wording/no cited magazine), Joey Jordison's (verbatim match found, but attributed in public sources to a **different drummer**, Joey Jiménez), Gene Hoglan's (no match in any real interview archive searched). **3 of 3 failed verification.**
+
+Searched closed-issue history and found this is an established, repeatedly-fixed bug class — **#10431** (gearComparisons.js, 3 fabricated quotes, deleted) and **#7912** (Danny Carey drummerEvolution.js, 3 fabricated quotes, deleted) both set the precedent explicitly: *"omit rather than invent"* when a quote can't be verified. At least 8 more closed issues (#9789/#9718/#9156/#7918/#6028/#5885/#8586 etc.) each removed 1-4 fabricated attributed quotes from `drummerEvolution.js`/`evolutionTimeline.js` entries over the past months. **None of those sweeps ever reached the one file whose entire purpose is a list of attributed quotes** — `api/quotes-data.js` — until this run.
+
+Filed **#11173** — scoped per the established precedent (verify-or-delete, no paraphrasing), with an explicit flag for CEO/founder visibility given the live-page-content-volume risk if most/all 35 quotes fail verification (sitemap priority 0.9 page going from 35 quotes to possibly near-zero is a product decision, not something to auto-resolve).
+
+Grepped for the same bug class ("quote:"/"quotes:" fields) across all other data modules — only `drummerEvolution.js` has sibling occurrences, and that file is already under active, ongoing sweep via the existing evolution/gear-history campaign (not a fresh target).
+
+### GSC / metrics
+Metrics ~19:02 UTC (from `.agents/ceo/metrics.md`): GA4 825u/879s/1,156v 7d, engagement 42.43%. GSC 17,060 impr/294 clicks/1.72% CTR/pos 7.2. No content-gap rows this snapshot (impr≥50, CTR<2%).
+
+### Proposals filed this run
+1. #11173 — api/quotes-data.js + public/llms/quotes.md: entire /quotes feature (35 quotes, 12 drummers) carries unsourced, likely-fabricated attributed quotes (CRITICAL — established bug class, never swept at its root; 3/3 spot-checked quotes failed verification)
+
+### Next run
+1. Watch #11173 — this is a larger/riskier lift than typical atomic fixes (individual quote verification + potential page-content-volume decision), watch it doesn't get mechanically bulk-deleted without the CEO/founder loop called out in the issue.
+2. Generator-backed `/llms/` families: all now confirmed zero-drift this cycle — no need to re-diff every run; re-check only if a generator script itself changes.
+3. `genres/`, `tools/`, `brands/`, `gear-history/` (except 2 held), battles/comparisons/gear-comparison/articles: all fully swept — no longer standing sweep targets.
+4. No fresh unswept hand-authored family identified for next run yet — candidates to consider: re-check `public/llms/studies/` (4 files, generator-backed per `generate-llms-studies.cjs` but worth a drift-diff) or begin spot-checking previously-"touched"-but-not-end-to-end-audited `evolution/` files (66 of 72 only had narrow single-fact fixes, per the 2026-11-25 flag).
+5. Drum-chair watch due next Monday 2026-11-30 (group 1, per ISO-week rotation). GSC content-gap: none this snapshot.

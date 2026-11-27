@@ -7,9 +7,9 @@
 
 ## Overview
 
-Shannon Larkin (born November 24, 1967, in Westerly, Rhode Island) joined Godsmack in 2002, stepping into a band that had already achieved mainstream success. Rather than disrupting that success, Larkin amplified it — bringing a harder, more aggressive approach to the groove-first aesthetic that defines Godsmack's sound. His debut, Faceless (2003), immediately demonstrated what he added: thunderous backbeats, driving double-bass that adds intensity without sacrificing groove, and a physical authority that fills arenas.
+Shannon Larkin (born April 24, 1967, in Chicago, Illinois) joined Godsmack in 2002, stepping into a band that had already achieved mainstream success. Rather than disrupting that success, Larkin amplified it — bringing a harder, more aggressive approach to the groove-first aesthetic that defines Godsmack's sound. His debut, Faceless (2003), immediately demonstrated what he added: thunderous backbeats, driving double-bass that adds intensity without sacrificing groove, and a physical authority that fills arenas.
 
-Before Godsmack, Larkin played with Ugly Kid Joe and Amen, developing a versatile style that serves both radio-accessible hard rock and more aggressive alternative metal. With Godsmack, he found the ideal context. Songs like "Straight Out of Line," "I Stand Alone," and "Cryin' Like a Bitch" are heavy enough for metal fans while remaining anthemic and hook-driven for mainstream audiences.
+Before Godsmack, Larkin played with Ugly Kid Joe and Wrathchild America, developing a versatile style that serves both radio-accessible hard rock and more aggressive alternative metal. With Godsmack, he found the ideal context. Songs like "Straight Out of Line," "I Stand Alone," and "Cryin' Like a Bitch" are heavy enough for metal fans while remaining anthemic and hook-driven for mainstream audiences.
 
 What distinguishes Larkin from purely metal drummers is his sense of pocket. His double-bass runs don't blast through songs as pure speed displays — they lock into the guitar riffs and serve the groove. His snare attacks are back-heavy (falling slightly behind the beat for a heavier, dragging feel), a signature of groove rock and blues-influenced drumming rather than the forward-driving precision of metal. This micro-placement is what makes Godsmack's groove feel heavy rather than technical.
 

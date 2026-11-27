@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-26 19:09 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-27 00:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,82 +8,82 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 827 |
-| Sessions | 881 |
-| Page views | 1,160 |
-| Engagement rate | 42.45% |
-| Avg session (s) | 57 |
+| Active users | 729 |
+| Sessions | 784 |
+| Page views | 1,035 |
+| Engagement rate | 42.98% |
+| Avg session (s) | 64 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 73 | 71 |
-| / | 35 | 23 |
-| /drummer/eloy-casagrande | 24 | 19 |
+| / | 39 | 24 |
+| /drummer/eloy-casagrande | 18 | 15 |
 | /articles/slipknot-self-titled-drum-setup | 11 | 8 |
-| /drummer/bill-ward | 11 | 10 |
+| /drummer/igor-cavalera | 11 | 8 |
 | /drummers/nick-menza/evolution | 11 | 3 |
+| /quiz | 11 | 3 |
 | /cymbals | 10 | 3 |
-| /drummer/ben-koller | 10 | 6 |
-| /drummer/igor-cavalera | 10 | 7 |
 | /songs/fastest-metal-songs | 10 | 8 |
+| /drummer/bill-ward | 9 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 442 | 389 |
-| Direct | 435 | 435 |
-| Unassigned | 8 | 8 |
+| Organic Search | 415 | 360 |
+| Direct | 366 | 366 |
+| Unassigned | 9 | 9 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| Singapore | 293 | 294 |
-| United States | 204 | 189 |
-| Germany | 32 | 29 |
-| Brazil | 25 | 24 |
-| United Kingdom | 24 | 21 |
-| Canada | 19 | 16 |
-| Australia | 17 | 17 |
-| Finland | 16 | 14 |
-| Poland | 16 | 14 |
-| Netherlands | 14 | 13 |
+| Singapore | 292 | 293 |
+| United States | 172 | 155 |
+| Germany | 29 | 26 |
+| Canada | 20 | 17 |
+| United Kingdom | 20 | 17 |
+| Brazil | 17 | 16 |
+| Australia | 15 | 15 |
+| China | 14 | 13 |
+| Finland | 12 | 11 |
+| France | 12 | 11 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 17,060 |
-| Clicks | 294 |
-| CTR | 1.72% |
+| Impressions | 14,550 |
+| Clicks | 244 |
+| CTR | 1.68% |
 | Avg position | 7.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | charlie benante drum kit | 10 | 2 | 20.00% | 5.7 |
-| jaska raatikainen drum set | 3 | 2 | 66.67% | 1.0 |
-| shannon larkin drum kit | 10 | 2 | 20.00% | 5.9 |
+| jaska raatikainen drum set | 2 | 2 | 100.00% | 1.0 |
+| shannon larkin drum kit | 9 | 2 | 22.22% | 5.2 |
 | best black metal drummers | 11 | 1 | 9.09% | 4.8 |
 | best china cymbals for metal | 4 | 1 | 25.00% | 6.3 |
 | best cymbals for metal | 5 | 1 | 20.00% | 7.2 |
 | bill ward drum setup 1970 | 2 | 1 | 50.00% | 3.5 |
-| death drummer | 17 | 1 | 5.88% | 8.1 |
+| death drummer | 13 | 1 | 7.69% | 7.5 |
 | death metal drum kit | 3 | 1 | 33.33% | 1.7 |
 | death metal drum set | 1 | 1 | 100.00% | 2.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 6,335 | 93 | 1.47% | 7.4 |
-| deu | 659 | 21 | 3.19% | 6.2 |
-| can | 807 | 16 | 1.98% | 6.9 |
-| pol | 246 | 12 | 4.88% | 6.7 |
-| fra | 345 | 10 | 2.90% | 7.0 |
-| gbr | 1,022 | 10 | 0.98% | 6.8 |
-| arg | 145 | 8 | 5.52% | 9.3 |
-| aus | 693 | 8 | 1.15% | 6.8 |
-| bel | 100 | 8 | 8.00% | 6.0 |
-| fin | 242 | 8 | 3.31% | 5.8 |
+| usa | 5,404 | 85 | 1.57% | 7.3 |
+| deu | 584 | 18 | 3.08% | 6.1 |
+| can | 700 | 13 | 1.86% | 7.0 |
+| aus | 620 | 8 | 1.29% | 6.8 |
+| fra | 299 | 8 | 2.68% | 7.1 |
+| gbr | 877 | 7 | 0.80% | 6.9 |
+| rus | 192 | 7 | 3.65% | 7.2 |
+| arg | 123 | 6 | 4.88% | 9.2 |
+| bra | 510 | 6 | 1.18% | 9.0 |
+| fin | 205 | 6 | 2.93% | 5.8 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

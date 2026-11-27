@@ -18960,3 +18960,44 @@ Metrics 07:03 UTC: GA4 754u/809s/1,064v 7d, engagement 43.26%. GSC 18,221 impr/3
 2. `evolution/` sweep: of this run's 13-file batch, only inferno/navene-koperweis/jon-dette/travis-orbin remain unfiled (see "Not filed" above — prioritize these first before picking new files). ~33 of 72 evolution files still never individually full-era-diffed at all (this run covered 13 of the remaining 46).
 3. Consider a title/meta fix for the `joey jordison drum kit` GSC gap query (52 impr, 1.92% CTR) next run — first content-gap row to appear in several weeks.
 4. Drum-chair watch due 2026-11-30 (group 1, ISO-week rotation).
+
+## 2026-11-27 13:xx UTC (SEO Agent run — 8 proposals filed #11189-11196, closed out evolution/ + opened guides/how-to-sound-like-*)
+
+### Bank check
+Bank at run start: 16 open `seo-proposal` total, but only the 4 held founder-reverification issues (#10032/#10099/#10655/#10656) + 3 umbrellas (#2211/#3810/#3819) + 9 same-morning items already promoted to `ai-fix` by the CEO's 12:11 deep run (#11173, #11180-11187) — fresh untriaged bank was effectively **0**. Well under the 45 floor → cleared to file up to 8 net-new.
+
+### Audit summary
+- robots.txt: ✅ all AI crawlers allowed (confirmed via live curl). No regression.
+- Coverage-gap method this run: instead of re-sampling already-heavily-swept files, cross-referenced every file in `public/llms/evolution/`, `gear-history/`, `guides/`, and `brands/` against all open+closed `seo-proposal` issue titles/bodies (`gh issue list --state all --search`) to find files **never once mentioned** in any prior proposal — a more precise net than spot-sampling.
+- **`evolution/` (72 files): only 2 never-referenced — gavin-harrison, john-otto. Both audited, both had real findings, both filed. Family is now fully swept (0 unreferenced files remaining).**
+- **`gear-history/` (71 files): 0 unreferenced — fully swept already, confirmed, drop as a standing candidate.**
+- **`brands/` (18 files): 3 unreferenced — axis.md (clean), wincent.md (clean), pro-mark.md (2 minor findings: Gene Hoglan "TX2BN" SKU stated as fact vs `drumsticks.js`'s explicit "tip unconfirmed" hedge; Jason Bittner "TX5BXN" signature omits that `drumsticks.js` flags the SKU as retired — lower severity than this run's 8-slot cut, deferred not dropped).**
+- **`guides/` (354 files): 284 unreferenced, but 270 of those are the `best-<gear>-for-<genre>` combinatorial family (generator/template-backed, same class already fixed for thinness in #10720 per `learned-patterns.md` — not a per-file hand-authored fabrication risk, out of scope for this sweep type). The real risk class is `how-to-sound-like-*` (72 total, 14 never-referenced): audited all 14 — 9 had real discrepancies, 5 clean (Chris Turner, Jimmy DeGrasso, John Longstreth, Jon Dette, Waltteri Vayrynen). Filed the 6 highest-severity of the 9 (see below); deferred Art Cruz, Jocke Wallgren, Martin Lopez (see Next run).**
+
+### Findings filed (all personally spot-verified against live files + root data, not just dispatched-agent reports)
+1. **#11189 how-to-sound-like-gene-hoglan.md** — wholesale wrong-brand fabrication across kit/snare/cymbals/sticks (Tama/Zildjian/Vater vs verified Pearl/Sabian/Promark); both `api/drummers/index.js` and `soundLikeGuides.js` agree with each other and disagree with the .md.
+2. **#11190 how-to-sound-like-tomas-haake.md** — 5-field drift: kick size, snare depth/shell, cymbal brand, pedal brand+configuration (claims a double pedal; verified setup is two independent singles), stick brand.
+3. **#11191 how-to-sound-like-derek-roddy.md** — kit/snare shell material (Maple vs verified Bubinga) and cymbal brand (Paiste vs verified Meinl).
+4. **#11192 how-to-sound-like-vinnie-paul.md** — snare depth/shell (6.5"/steel-brass vs verified 8"/8-ply maple), cymbal brand (Zildjian vs verified Sabian), all 3 drumhead specs (Remo vs verified Evans).
+5. **#11193 how-to-sound-like-shannon-larkin.md** — wrong birth month + fabricated birthplace, wrong pre-Godsmack band ("Amen" vs verified "Wrathchild America"). The band error is a **root bug in `soundLikeGuides.js` itself**, not just .md drift — issue scopes the fix to both files.
+6. **#11194 evolution/john-otto.md** — OCDP kit stated as "maple shells" in both the .md (3 locations) and its source `drummerEvolution.js` (3 locations) vs `api/drummers/index.js`'s explicit "Custom Type 5 Acrylic" / "transparent acrylic shell set" current-gear record. Another root-level bug, scoped to fix both files so it can't resurface on regeneration.
+7. **#11195 evolution/gavin-harrison.md** — fabricates Tama/Zildjian gear for the pre-2002 "Session & Touring Era" where `drummerEvolution.js` explicitly marks drums/snare/cymbals/hardware as "Not publicly documented" / brand unconfirmed for that exact era — a clean CLAUDE.md binding-rule-#2 (verified-only) violation.
+8. **#11196 how-to-sound-like-arin-ilejay.md** — stick brand (Vic Firth vs verified Promark 5B) and tom-vs-snare drumhead conflation (both specced as Ambassador Coated when toms should be Emperor Coated per `soundLikeGuides.js`).
+
+### Not filed this run (legitimate candidates, not dupes — prioritize next run)
+- **how-to-sound-like-art-cruz.md**: real findings (double-bass kick config fabricated — verified setup is single kick + double pedal; floor tom size 18" not in ground truth) — didn't make the 8-slot cut.
+- **how-to-sound-like-jocke-wallgren.md**: real finding (asserts "maple/birch hybrid" snare shell as fact where both root sources explicitly hedge the snare as unverified) — same binding-rule-#2 pattern as #11195/#11196, narrow single-field fix, didn't make the cut.
+- **how-to-sound-like-martin-lopez.md**: genuine 3-way conflict — `soundLikeGuides.js` says Sonor/Sabian kit+cymbals+hedges the pre-2010 pedal as unverified, `api/drummers/index.js` says Noble & Cooley/Zildjian, and the .md agrees with `api/drummers/index.js` on kit/cymbals but states the pedal as fact where `soundLikeGuides.js` hedges it. Needs a reconciliation call on which root source is authoritative before scoping an atomic fix (same shape as held #10032/#10099/#10655/#10656) — not filed as a straight fabrication fix; flag for a founder-level re-verification issue instead next run.
+- **brands/pro-mark.md**: 2 minor findings (see Audit summary) — lower severity, deferred not dropped.
+
+### GSC / metrics
+Metrics 13:02 UTC: GA4 772u/828s/1,094v 7d, engagement 43.60%. GSC 18,221 impr/313 clicks/1.72% CTR/pos 7.2. Same single content-gap row as the 07:xx run (`joey jordison drum kit`, 52 impr, 1.92% CTR, pos 8.6) — per the CEO's 12:11 decisions-log entry this is already held (trending the right direction, 4 prior closed CTR-fix issues on this cluster) rather than re-filed; not actioned again here for the same reason.
+
+### Next run
+1. Watch #11189-11196 pick up via CEO triage/Roadie.
+2. `evolution/` and `gear-history/` families: **fully swept** (0 unreferenced files in either) — drop as standing candidates; only revisit if new evolution entries are added.
+3. `guides/how-to-sound-like-*`: 2 of the 14 never-referenced files remain unfiled with a real, atomic finding (Art Cruz, Jocke Wallgren), plus Martin Lopez needs a founder-level re-verification issue (3-way source conflict), not a straight fix. File these 3 first next run before sampling the ~58 how-to-sound-like files that HAVE been referenced before (to check whether prior fixes were partial, same pattern as the blake-richardson/nick-augusto precedent of incomplete prior sweeps).
+4. `brands/pro-mark.md`: 2 minor deferred findings, low priority, bundle with other brand-file work if any surfaces.
+5. `guides/best-<gear>-for-<genre>` (270 files): template/generator-backed, not a hand-authored-fabrication risk class — only re-check if the shared template changes (per the #10720 bot-shell lesson), not a per-file candidate.
+6. GSC content-gap: 1 row, already held by CEO (trending positive) — no new action.
+7. Drum-chair watch due 2026-11-30 (group 1, ISO-week rotation) — next run if it lands Monday.

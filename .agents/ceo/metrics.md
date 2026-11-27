@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-27 12:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-27 13:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,31 +8,31 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 767 |
-| Sessions | 823 |
-| Page views | 1,084 |
-| Engagement rate | 43.38% |
+| Active users | 772 |
+| Sessions | 828 |
+| Page views | 1,094 |
+| Engagement rate | 43.60% |
 | Avg session (s) | 64 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /bpm | 73 | 71 |
-| / | 42 | 27 |
+| / | 44 | 29 |
 | /drummer/eloy-casagrande | 18 | 15 |
+| /drummer/bill-ward | 12 | 9 |
 | /quiz | 12 | 4 |
 | /articles/slipknot-self-titled-drum-setup | 11 | 8 |
 | /drummer/igor-cavalera | 11 | 8 |
 | /drummers/nick-menza/evolution | 11 | 3 |
 | /cymbals | 10 | 3 |
 | /drummer/mario-duplantier | 10 | 9 |
-| /songs/fastest-metal-songs | 10 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 439 | 384 |
-| Direct | 379 | 379 |
+| Organic Search | 442 | 387 |
+| Direct | 381 | 381 |
 | Unassigned | 10 | 10 |
 | AI Assistant | 1 | 1 |
 
@@ -42,13 +42,13 @@
 | Singapore | 302 | 303 |
 | United States | 184 | 167 |
 | Germany | 29 | 26 |
-| Canada | 22 | 19 |
-| United Kingdom | 20 | 17 |
+| Canada | 23 | 20 |
+| United Kingdom | 21 | 18 |
 | Brazil | 18 | 17 |
 | Australia | 16 | 16 |
 | China | 14 | 13 |
+| Netherlands | 13 | 12 |
 | Finland | 12 | 11 |
-| France | 12 | 11 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

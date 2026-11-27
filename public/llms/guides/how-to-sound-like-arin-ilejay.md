@@ -21,8 +21,8 @@ Ilejay recorded Hail to the King on a **DW Collector's Series** kit in Tobacco B
 - **Floor Toms:** 16", 18"
 - **Cymbals:** Zildjian A Custom — 14" hi-hats, 16"/18"/19" crashes, 20" ride, A Custom China
 - **Pedal:** DW 9000 Series Double Bass Pedal
-- **Sticks:** Vic Firth American Classic 5A
-- **Heads:** Remo Powerstroke 3 (kick), Remo Ambassador Coated (snare/toms)
+- **Sticks:** Promark 5B
+- **Heads:** Remo Powerstroke 3 (kick), Remo Ambassador Coated (snare), Remo Emperor Coated (toms)
 
 ## Tuning & Setup
 
@@ -52,8 +52,8 @@ Ilejay's technique centers on disciplined power playing — locking into a stead
 | Snare | DW Collector's 14" x 5.5" Maple/Mahogany | Any medium-tuned maple/mahogany 14" x 5.5" snare |
 | Cymbals | Zildjian A Custom (full setup) | Zildjian Planet Z hi-hats + crash (~$150) |
 | Pedal | DW 9000 Series Double Bass Pedal | Tama Speed Cobra HP310LW (~$50-100) |
-| Sticks | Vic Firth American Classic 5A | Same spec |
-| Heads | Remo Powerstroke 3 / Ambassador Coated | Same specs |
+| Sticks | Promark 5B | Same spec |
+| Heads | Remo Powerstroke 3 / Ambassador Coated / Emperor Coated | Same specs |
 
 **Starter budget path (~$850):** Pearl Export + Zildjian Planet Z + Tama Speed Cobra single pedal. See [/brands/dw](https://metalforge.io/brands/dw) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
 
@@ -71,7 +71,7 @@ Ilejay's technique centers on disciplined power playing — locking into a stead
 A: Arin Ilejay was Avenged Sevenfold's drummer from 2011 to 2015, joining after the death of founding drummer Jimmy "The Rev" Sullivan. He recorded "Hail to the King" (2013), the band's only #1 Billboard 200 album, bringing a restrained, groove-forward classic heavy metal approach that deliberately contrasted with The Rev's technically extravagant style.
 
 **Q: What gear should I use to sound like Arin Ilejay?**  
-A: Ilejay recorded Hail to the King on a DW Collector's Series kit in Tobacco Burst finish, a DW Collector's 14" x 5.5" Maple/Mahogany snare, a full Zildjian A Custom cymbal setup, a DW 9000 Series double bass pedal, and Vic Firth American Classic 5A sticks.
+A: Ilejay recorded Hail to the King on a DW Collector's Series kit in Tobacco Burst finish, a DW Collector's 14" x 5.5" Maple/Mahogany snare, a full Zildjian A Custom cymbal setup, a DW 9000 Series double bass pedal, and Promark 5B sticks.
 
 **Q: What songs should I learn first to sound like Arin Ilejay?**  
 A: Start with "Shepherd of Fire" for its half-time power groove, then "Hail to the King" for its Metallica-style galloping verse pattern. "This Means War" is the clearest double-bass gallop showcase, and "Coming Home" demonstrates his restrained, ride-carried dynamic building.

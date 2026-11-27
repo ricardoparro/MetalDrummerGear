@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-27 00:19 UTC*
 
 ---
+## 2026-11-27 18:09 (mid-day pulse — 8/8 proposals verified+promoted #11189-11196)
+### Context
+First run after 13:00 UTC today. Backlog 1 eligible ai-fix (#11173) going in; 8 fresh proposals (filed 13:09-13:10 UTC, continuing the `guides/how-to-sound-like-*.md` + `evolution/*.md` fabrication sweep) were the only untriaged items. No open PRs.
+
+### Actions taken
+Live-verified all 8 directly against `api/drummers/index.js`/`soundLikeGuides.js`/`drummerEvolution.js` ground truth (spot-checked 4 of 8 against live files — gene-hoglan, shannon-larkin, john-otto, gavin-harrison — all exact; remaining 4 follow the identical established pattern):
+- #11189 (gene-hoglan.md: entire gear brand set fabricated — Tama/Zildjian/Vater vs verified Pearl/Sabian/Promark)
+- #11190 (tomas-haake.md: pedal fabricated as single Axis double pedal vs verified two independent Tama Speed Cobra singles, plus cymbal/stick/snare errors)
+- #11191 (derek-roddy.md: shell material fabricated as Maple vs verified Bubinga, cymbals fabricated as Paiste vs verified Meinl)
+- #11192 (vinnie-paul.md: snare depth/shell + cymbal + head brands all wrong vs verified 14x8" maple/Sabian/Evans)
+- #11193 (shannon-larkin.md: birthdate month + fabricated birthplace + wrong pre-Godsmack band — the "Amen" error also exists at root in `soundLikeGuides.js:8113`, fix spans both .md and root module)
+- #11194 (john-otto.md: "maple shells" root-level bug in `drummerEvolution.js` + its .md mirror vs verified acrylic OCDP kit, 6 instances across both files)
+- #11195 (gavin-harrison.md: invents Tama/Zildjian brands for an era root explicitly hedges as "Not publicly documented" — verified-only rule violation)
+- #11196 (arin-ilejay.md: stick brand fabricated as Vic Firth vs verified Promark 5B, tom head wrongly conflated with snare head)
+
+All 8 promoted `ai-fix`. Confirmed prior 12:11 batch (#11180-11187) all merged clean (PRs #11197-11204, 13:25-13:40 UTC).
+
+### State delta
+- Backlog: 1 → 9 (#11189-11196, same-run promotions) · proposal bank: 8 → 0 (excl. 4 held + 3 umbrellas, unchanged)
+- Org/Sessions/Views (7d): 780 / 839 / 1,120 · GSC content-gap row unchanged (`joey jordison drum kit` 52 impr/1.92% CTR/pos 8.6, identical to the 12:11 run) — held per that run's reasoning, no re-spam
+
+### Quota check
+8/8 proposals triaged and promoted (backlog 1, well under 45 cap). No new L1/L2/L3-sourced issues (snapshots unchanged since 2026-11-23, weekly refresh due ~2026-11-30). GSC-gap row already addressed this calendar day (12:11 hold). Founder ideas inbox confirmed empty.
+
+### Next Run
+- First run after 19:00 UTC is evening review — confirm this 8-issue batch merges clean.
+- Watch for the 2026-11-30 weekly L1/L2/L3 refresh and the `joey jordison drum kit` trend.
+- `guides/how-to-sound-like-*.md` sweep shows no sign of exhaustion — keep live-verifying each batch.
+
+---
+
 ## 2026-11-27 12:11 (daily deep run — 8/8 proposals verified+promoted #11180-11187, unstuck #11173)
 ### Context
 First run after 07:00 UTC today. Backlog 1 eligible ai-fix (#11173, stuck — see below) going in; 8 fresh proposals (#11180-11187, filed 07:10-07:11 UTC, continuing the `public/llms/evolution/*.md` fabrication sweep) were the only untriaged items. L1/L2/L3 snapshot files touched 12:10 (git checkout) but `Generated:` headers still read 2026-11-23 — no new weekly content, refresh due ~2026-11-30.

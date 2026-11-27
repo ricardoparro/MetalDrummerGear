@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-27 06:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-27 07:03 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 752 |
-| Sessions | 807 |
-| Page views | 1,062 |
-| Engagement rate | 43.25% |
+| Active users | 754 |
+| Sessions | 809 |
+| Page views | 1,064 |
+| Engagement rate | 43.26% |
 | Avg session (s) | 63 |
 
 ### Top pages (by page views, last 7d)
@@ -31,15 +31,15 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 431 | 376 |
-| Direct | 373 | 373 |
+| Organic Search | 432 | 377 |
+| Direct | 374 | 374 |
 | Unassigned | 14 | 14 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| Singapore | 298 | 299 |
-| United States | 180 | 163 |
+| Singapore | 299 | 300 |
+| United States | 181 | 164 |
 | Germany | 29 | 26 |
 | Canada | 20 | 17 |
 | United Kingdom | 20 | 17 |
@@ -52,41 +52,43 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 14,550 |
-| Clicks | 244 |
-| CTR | 1.68% |
+| Impressions | 18,221 |
+| Clicks | 313 |
+| CTR | 1.72% |
 | Avg position | 7.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
+| mario duplantier drum kit | 27 | 3 | 11.11% | 7.1 |
 | charlie benante drum kit | 10 | 2 | 20.00% | 5.7 |
-| jaska raatikainen drum set | 2 | 2 | 100.00% | 1.0 |
-| shannon larkin drum kit | 9 | 2 | 22.22% | 5.2 |
-| best black metal drummers | 11 | 1 | 9.09% | 4.8 |
-| best china cymbals for metal | 4 | 1 | 25.00% | 6.3 |
+| death metal drum kit | 4 | 2 | 50.00% | 1.5 |
+| gavin harrison cymbal setup | 14 | 2 | 14.29% | 4.6 |
+| jaska raatikainen drum set | 6 | 2 | 33.33% | 8.5 |
+| shannon larkin drum kit | 11 | 2 | 18.18% | 4.5 |
+| best black metal drummers | 14 | 1 | 7.14% | 4.5 |
+| best china cymbals for metal | 6 | 1 | 16.67% | 5.7 |
 | best cymbals for metal | 5 | 1 | 20.00% | 7.2 |
-| bill ward drum setup 1970 | 2 | 1 | 50.00% | 3.5 |
-| death drummer | 13 | 1 | 7.69% | 7.5 |
-| death metal drum kit | 3 | 1 | 33.33% | 1.7 |
-| death metal drum set | 1 | 1 | 100.00% | 2.0 |
+| bill ward drum setup 1970 | 3 | 1 | 33.33% | 3.7 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 5,404 | 85 | 1.57% | 7.3 |
-| deu | 584 | 18 | 3.08% | 6.1 |
-| can | 700 | 13 | 1.86% | 7.0 |
-| aus | 620 | 8 | 1.29% | 6.8 |
-| fra | 299 | 8 | 2.68% | 7.1 |
-| gbr | 877 | 7 | 0.80% | 6.9 |
-| rus | 192 | 7 | 3.65% | 7.2 |
-| arg | 123 | 6 | 4.88% | 9.2 |
-| bra | 510 | 6 | 1.18% | 9.0 |
-| fin | 205 | 6 | 2.93% | 5.8 |
+| usa | 6,718 | 106 | 1.58% | 7.4 |
+| deu | 743 | 23 | 3.10% | 6.1 |
+| can | 879 | 15 | 1.71% | 7.1 |
+| aus | 761 | 11 | 1.45% | 6.8 |
+| fra | 353 | 11 | 3.12% | 7.1 |
+| gbr | 1,096 | 10 | 0.91% | 7.1 |
+| nld | 278 | 10 | 3.60% | 6.2 |
+| bra | 644 | 8 | 1.24% | 8.7 |
+| rus | 223 | 8 | 3.59% | 6.9 |
+| fin | 264 | 7 | 2.65% | 5.9 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-_no significant gaps detected — all queries with traction have decent CTR_
+| Query | Impr | CTR | Pos | Action |
+| --- | --- | --- | --- | --- |
+| joey jordison drum kit | 52 | 1.92% | 8.6 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

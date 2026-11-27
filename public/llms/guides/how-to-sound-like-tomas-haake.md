@@ -13,13 +13,13 @@ Tomas Haake is the architect of modern extreme metal drumming. As Meshuggah's dr
 
 Tomas uses **Sonor SQ2** drums with beech shells — built for precision and projection to cut through Meshuggah's dense eight-string guitar arrangements:
 
-- **Kick Drum:** 22" x 18" with Axis Longboard A Double Pedal
-- **Snare:** 14" x 6" Tomas Haake Signature Snare (steel shell for maximum brightness)
+- **Kick Drum:** 24" x 18" with two independent Tama Speed Cobra Single Pedals (not a double pedal — Haake prefers two single pedals for greater foot independence)
+- **Snare:** 14" x 6.5" Sonor Tomas Haake Signature (bronze shell for added warmth and projection)
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 14" x 12", 16" x 14"
-- **Cymbals:** Zildjian K Custom Dark Series — complex, dark tone ideal for constant hi-hat use
-- **Pedals:** Axis Longboard A Double Pedal (direct feel, longboard design for ankle-based technique)
-- **Sticks:** Vic Firth Tomas Haake Signature (extended length with barrel tip for consistent cymbal response)
+- **Cymbals:** Sabian HHX & AAX Series — compression hi-hats, stage crashes, and a legacy ride for constant articulation
+- **Pedals:** Tama Speed Cobra Single Pedals (x2) — two independent single pedals rather than a double pedal, for greater foot independence
+- **Sticks:** Wincent Tomas Haake Signature (extended length with barrel tip for consistent cymbal response)
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
 
 ## Tuning & Setup
@@ -27,7 +27,7 @@ Tomas uses **Sonor SQ2** drums with beech shells — built for precision and pro
 Tomas tunes for maximum articulation. Every note in his complex patterns must be heard clearly, even at extreme speeds:
 
 - **Kick:** Tight tension with heavy muffling (pillow plus felt strip). Zero sustain — every double bass note needs to be distinct and clear. Critical for songs like "Bleed." Tune higher than typical metal.
-- **Snare:** High tension for crack and projection. Steel shell adds brightness to cut through eight-string guitars. Minimal muffling — let the shell provide the character.
+- **Snare:** High tension for crack and projection. Bronze shell adds warmth and cuts through eight-string guitars. Minimal muffling — let the shell provide the character.
 - **Toms:** High tension with one Moongel each. Quick decay is more important than sustain. Articulation over tone.
 
 ## Technique Tips
@@ -47,13 +47,13 @@ Tomas uses **matched grip** with extreme wrist control. The defining feature of 
 | Item | Tomas's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Sonor SQ2 (Beech) | Mapex Armory (~$900) |
-| Snare | Tomas Haake Signature Snare 14" x 6" (Steel) | Sonor SQ1 or Ludwig Supraphonic |
-| Cymbals | Zildjian K Custom Dark Series | Zildjian S Dark Pack (~$300) |
-| Double Pedal | Axis Longboard A Double Pedal | Pearl Eliminator Redline (~$350) |
-| Sticks | Vic Firth Tomas Haake Signature | Vic Firth 5B |
+| Snare | Sonor Tomas Haake Signature 14" x 6.5" (Bronze) | Sonor SQ1 or Ludwig Supraphonic |
+| Cymbals | Sabian HHX & AAX Series | Sabian XSR Pack (~$300) |
+| Pedals | Tama Speed Cobra Single Pedals (x2) | Pearl Eliminator Redline (single, x2) (~$350) |
+| Sticks | Wincent Tomas Haake Signature | Wincent 5B |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EMAD |
 
-**Starter budget path (~$1,200):** Mapex Armory + Zildjian S Dark pack + Pearl Eliminator. See [/brands/sonor](https://metalforge.io/brands/sonor) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
+**Starter budget path (~$1,200):** Mapex Armory + Sabian XSR pack + Pearl Eliminator (single, x2). See [/brands/sonor](https://metalforge.io/brands/sonor) and [/brands/sabian](https://metalforge.io/brands/sabian).
 
 ## Practice Routine
 

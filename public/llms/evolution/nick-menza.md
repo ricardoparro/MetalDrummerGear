@@ -24,10 +24,10 @@ See also: [Nick Menza drummer profile](/llms/drummers/nick-menza.md)
 Nick Menza joined Megadeth in 1989, initially working as a drum technician before taking the drum seat full-time. He contributed to sessions for So Far, So Good... So What! and stepped up as Megadeth's primary drummer in preparation for what would become Rust in Peace. His Tama Artstar II — a professional-grade birch kit — was the professional foundation that matched Megadeth's exacting technical requirements.
 
 - **Drums:** Tama Artstar II — birch shells: 22" kick, 10"/12"/14"/16" toms (punchy, focused birch — the same kit Lars Ulrich used on Master of Puppets, capable of extreme thrash tempos)
-- **Snare:** Tama Artstar II 14"×6.5" Birch (crisp, cutting birch snare for Megadeth's dense guitar arrangements)
+- **Snare:** 14x5.5" Tama steel snare (bright, cutting steel snare for Megadeth's dense guitar arrangements)
 - **Cymbals:** Zildjian A Series — 14" A New Beat hi-hats, 17"/18" A crashes, 22" A ride (bright, cutting — standard thrash metal cymbal setup of the late 1980s)
-- **Hardware:** Tama Titan hardware with double pedal (heavy-duty stands for aggressive double bass)
-- **Sticks:** Vic Firth 2B (heavy hickory for thrash projection — Menza's consistent career choice)
+- **Hardware:** Tama Iron Cobra Double Pedal (heavy-duty double pedal for aggressive double bass)
+- **Sticks:** Vater Nick Menza Signature (Menza's consistent career choice)
 - **Heads:** Remo Emperor on toms (double-ply for extreme tempo durability)
 - **Estimated kit cost (original):** ~$7,000
 
@@ -45,22 +45,22 @@ Nick Menza joined Megadeth in 1989, initially working as a drum technician befor
 **Tours:** Clash of the Titans Tour 1990, Rust in Peace World Tour 1990–1992
 
 **Q: What drums did Nick Menza use on Rust in Peace?**
-A: For Rust in Peace (1990), Nick Menza recorded on the same Tama Artstar II kit carried over from the So Far, So Good era — no gear change during this period. The focused, punchy birch attack cut through Dave Mustaine and Marty Friedman's dense guitar arrangements. The same Tama Artstar II 14"×6.5" birch snare delivered the explosive, cutting attack heard on "Holy Wars," "Hangar 18," and "Tornado of Souls." He did switch to a Pearl Eliminator double pedal during this era, for faster, more controlled double bass response at the extreme tempos demanded by Rust in Peace's compositions — the Pearl drum and snare switch itself didn't come until Countdown to Extinction (1992).
+A: For Rust in Peace (1990), Nick Menza recorded on the same Tama Artstar II kit carried over from the So Far, So Good era — no gear change during this period. The focused, punchy birch attack cut through Dave Mustaine and Marty Friedman's dense guitar arrangements. The 14x5.5" Tama steel snare delivered the explosive, cutting attack heard on "Holy Wars," "Hangar 18," and "Tornado of Souls," driven by the same Tama Iron Cobra Double Pedal for the machine-gun double-kick response the compositions demanded — the Pearl drum and snare switch itself didn't come until Countdown to Extinction (1992).
 
 Rust in Peace is widely considered one of the greatest thrash metal albums ever made. Menza's drumming is central to its power — technically demanding, precisely executed, and endlessly cited by thrash drummers as a benchmark.
 
 - **Drums:** Tama Artstar II — birch shells, Midnight Blue finish: 22" kick, 10"/12"/14"/16" toms *(no change — same kit carried over from the So Far, So Good era; the Pearl switch comes later, for Countdown to Extinction)*
-- **Snare:** Tama Artstar II 14"×6.5" Birch *(no change — same birch snare carried over from the So Far, So Good era)*
+- **Snare:** 14x5.5" Tama steel snare *(no change — same steel snare carried over from the So Far, So Good era)*
 - **Cymbals:** Zildjian A Custom Series — 14" A Custom hi-hats, 17"/18"/19" A Custom crashes, 21" A Custom ride *(upgrade — brighter, more cutting for precise fast-moving cymbal work on Rust in Peace)*
-- **Hardware:** Pearl Eliminator Double Pedal *(switch — cam-driven pedal for faster, more controlled double bass at extreme tempos)*
-- **Sticks:** Vic Firth 2B (consistent heavy choice)
+- **Hardware:** Tama Iron Cobra Double Pedal *(no change — same double pedal carried over from the So Far, So Good era)*
+- **Sticks:** Vater Nick Menza Signature (consistent choice)
 - **Heads:** Remo Emperor on toms, Powerstroke 3 on kick *(upgrade — Powerstroke 3 for precise double bass attack on "Holy Wars" and "Tornado of Souls")*
 - **Estimated kit cost (original):** ~$9,000
 
 **Key developments:**
 - Rust in Peace (1990) — thrash metal masterpiece; Menza's defining recording
 - Recorded on the same Tama Artstar II kit from the So Far, So Good era — no gear switch until the 1992 Pearl upgrade for Countdown to Extinction
-- Tama Artstar II birch snare carried over from the So Far, So Good era
+- 14x5.5" Tama steel snare carried over from the So Far, So Good era
 - Clash of the Titans Tour (1990) alongside Slayer, Anthrax, Alice in Chains
 - "Holy Wars," "Hangar 18," "Tornado of Souls" — thrash drumming benchmarks
 
@@ -72,22 +72,22 @@ Rust in Peace is widely considered one of the greatest thrash metal albums ever 
 **Tours:** Countdown to Extinction Tour 1992–1993, Youthanasia Tour 1994–1995, arena headlining dates
 
 **Q: What gear did Nick Menza use on Countdown to Extinction?**
-A: For Countdown to Extinction (1992) and Youthanasia (1994), Menza upgraded to Pearl Masterworks — the premium custom-order tier of the Pearl range, switching from the Tama Artstar II he'd played through Rust in Peace. The maple shell kit in a custom stage finish matched Megadeth's arena headlining status. He switched to a Pearl Free-Floating Brass snare (replacing the Tama Artstar II birch snare used through Rust in Peace) suited to the polished, accessible production of the commercial peak era. He also switched from Zildjian to Paiste 2002 / Signature cymbals, matching the album's more melodic, arena-rock-oriented production without losing thrash-level cut.
+A: For Countdown to Extinction (1992) and Youthanasia (1994), Menza upgraded to Pearl Masterworks — the premium custom-order tier of the Pearl range, switching from the Tama Artstar II he'd played through Rust in Peace. The maple shell kit in a custom stage finish matched Megadeth's arena headlining status. He switched to a Pearl Free-Floating Brass snare (replacing the 14x5.5" Tama steel snare used through Rust in Peace) suited to the polished, accessible production of the commercial peak era. He also switched from Zildjian to Paiste 2002 / Signature cymbals, matching the album's more melodic, arena-rock-oriented production without losing thrash-level cut.
 
 Countdown to Extinction went platinum and produced mainstream hits including "Symphony of Destruction" and "Sweating Bullets." Menza's drumming evolved to serve more accessible song structures without abandoning the technical edge that defined Rust in Peace.
 
 - **Drums:** Pearl Masterworks — maple shells, custom finish: 22" kick, 10"/12"/14"/16" toms *(upgrade from Tama Artstar II — premium custom Pearl tier for arena headlining status)*
 - **Snare:** Pearl Free-Floating Brass 14"×6.5" *(switch from Tama Artstar II birch — warmer brass for polished commercial production)*
 - **Cymbals:** Paiste 2002 / Signature *(switch from Zildjian — Paiste 2002 and Signature series mix matching Countdown's more melodic, arena-rock-oriented production)*
-- **Hardware:** Pearl Eliminator Double Pedal (continued — consistent platform)
-- **Sticks:** Vic Firth 2B (consistent career choice)
+- **Hardware:** Tama Iron Cobra Double Pedal (continued — consistent platform)
+- **Sticks:** Vater Nick Menza Signature (consistent career choice)
 - **Heads:** Remo Emperor on toms, EMAD on kick *(upgrade — EMAD for tighter, more focused kick in arena production)*
 - **Estimated kit cost (original):** ~$12,000
 
 **Key developments:**
 - Countdown to Extinction (1992) — platinum album; "Symphony of Destruction" becomes global hit
 - Pearl Masterworks — arena-ready premium kit; most impressive stage setup of Megadeth career
-- Brass Free-Floating snare replaces the Tama Artstar II birch snare for a warmer commercial sound
+- Brass Free-Floating snare replaces the 14x5.5" Tama steel snare for a warmer commercial sound
 - Megadeth headlines arenas worldwide — massive stage production
 - Youthanasia (1994) — commercial follow-up; drum sound polished further
 
@@ -104,7 +104,7 @@ A: For Cryptic Writings (1997) — Menza's final full studio album with Megadeth
 - **Drums:** Pearl Reference Custom — flagship Pearl tier; specific shell configuration not independently documented *(upgrade from Pearl Masterworks)*
 - **Snare:** Pearl Free-Floating Brass 14"×6.5" (continued brass preference)
 - **Cymbals:** Sabian AA / Signature Series — specific size configuration not independently documented *(switch — no Zildjian cymbals are documented for this era)*
-- **Sticks:** Vic Firth 2B (lifelong consistent choice)
+- **Sticks:** Vater Nick Menza Signature (lifelong consistent choice)
 - **Heads:** Remo Emperor on toms, EMAD on kick (continued)
 - **Estimated kit cost (original):** ~$14,000
 
@@ -151,13 +151,13 @@ A: After a series of personal challenges including knee surgery and cancer treat
 
 - **Tama (drums)** — 1989–1992 (Artstar II, carried from joining Megadeth through Rust in Peace; Pearl switch comes at Countdown to Extinction)
 - **Pearl (drums)** — 1992–1998 (Masterworks → Reference Custom; no gear independently verified post-Megadeth)
-- **Tama Artstar II (snare)** — 1989–1992 (birch, carried through Rust in Peace)
+- **Tama (snare)** — 1989–1992 (14x5.5" steel, carried through Rust in Peace)
 - **Pearl Free-Floating (snares)** — 1992–1998 (Brass, from Countdown to Extinction era onward)
 - **Zildjian A / A Custom (cymbals)** — 1989–1992 (A Series through A Custom, through Rust in Peace era)
 - **Paiste 2002 / Signature (cymbals)** — 1992–1996 (Countdown to Extinction through Youthanasia era)
 - **Sabian AA / Signature Series (cymbals)** — 1997–1998 (Cryptic Writings era; no cymbal brand is independently verified post-Megadeth)
-- **Pearl Eliminator (hardware)** — 1990–1996 (Rust in Peace through Countdown/Youthanasia era; no hardware independently verified for Cryptic Writings or post-Megadeth)
-- **Vic Firth 2B (sticks)** — 1989–1998 (consistent through his full Megadeth tenure; not independently documented post-Megadeth)
+- **Tama Iron Cobra Double Pedal (hardware)** — 1989–1998 (consistent through his full Megadeth tenure; not independently documented post-Megadeth)
+- **Vater Nick Menza Signature (sticks)** — 1989–1998 (consistent through his full Megadeth tenure; not independently documented post-Megadeth)
 - **Remo (heads)** — 1989–1998 (Emperor / Powerstroke 3 / EMAD; not independently documented post-Megadeth)
 
 ---
@@ -168,7 +168,7 @@ A: After a series of personal challenges including knee surgery and cancer treat
 A: Nick Menza joined Megadeth with a Tama Artstar II, which he played through Rust in Peace (1990), before upgrading to Pearl Masters for Countdown to Extinction (1992) and Pearl Masterworks for Youthanasia (1994). He upgraded to Pearl Reference Custom for Cryptic Writings (1997), his final Megadeth album. No independently verified gear information exists for his post-Megadeth years.
 
 **Q: What snare did Nick Menza use on Rust in Peace?**
-A: On Rust in Peace, Menza played the Tama Artstar II 14"×6.5" birch snare carried over from the So Far, So Good era — the same birch shell delivered the explosive, cutting attack heard on "Holy Wars," "Hangar 18," and "Tornado of Souls." He later switched to a Pearl Free-Floating Brass snare for the warmer tone of Countdown to Extinction's polished production in 1992.
+A: On Rust in Peace, Menza played a 14x5.5" Tama steel snare carried over from the So Far, So Good era — the same steel shell delivered the explosive, cutting attack heard on "Holy Wars," "Hangar 18," and "Tornado of Souls." He later switched to a Pearl Free-Floating Brass snare for the warmer tone of Countdown to Extinction's polished production in 1992.
 
 **Q: How did Nick Menza die?**
 A: Nick Menza passed away on May 21, 2016, collapsing on stage during a performance with his band OHM at Baked Potato, a jazz club in Woodland Hills, California. He suffered a cardiac arrest while playing. He was 51 years old. His death on stage — doing what he loved — became one of metal's most poignant final chapters. The metal community paid widespread tribute to his contributions to Megadeth and thrash drumming.
@@ -180,7 +180,7 @@ A: Nick Menza is most celebrated for his work on Rust in Peace (1990), widely co
 A: Menza played Zildjian A Custom during the Rust in Peace era, then switched to Paiste 2002 / Signature cymbals for Countdown to Extinction (1992) and Youthanasia (1994). He switched to Sabian AA / Signature Series cymbals for Cryptic Writings (1997) — no Zildjian or Paiste cymbals are documented for that era. No independently verified gear information exists for his post-Megadeth years.
 
 **Q: What double bass pedal did Nick Menza use?**
-A: Menza switched to a Pearl Eliminator double pedal during the Rust in Peace era and kept it through Countdown to Extinction and Youthanasia. No independently verified hardware information exists for the Cryptic Writings era or his post-Megadeth years. His use of Vic Firth 2B sticks was consistent across his full Megadeth tenure (1989–1998) — one of his most recognizable technical signatures.
+A: Menza played a Tama Iron Cobra Double Pedal consistently from joining Megadeth in 1989 through Countdown to Extinction and Youthanasia. No independently verified hardware information exists for the Cryptic Writings era or his post-Megadeth years. His use of Vater Nick Menza Signature sticks was consistent across his full Megadeth tenure (1989–1998) — one of his most recognizable technical signatures.
 
 ---
 

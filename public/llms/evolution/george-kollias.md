@@ -25,7 +25,7 @@ Before joining Nile, George Kollias honed his extreme technique in the Athens me
 
 - **Drums:** Tama Rockstar / Starclassic — basic 5-piece: 22" kick, 12"/13"/16" toms
 - **Snare:** Tama Steel 14"×5.5" (crisp, cutting tone suited to extreme tempos)
-- **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 16"/18" crashes, 20" ride
+- **Cymbals:** Paiste 2002 — 14" hi-hats, 16"/18" crashes, 20" ride
 - **Hardware:** Tama Iron Cobra Double Pedal (the foundational speed pedal built into his muscle memory)
 - **Sticks:** Vic Firth 5B hickory (off-the-shelf, pre-endorsement)
 - **Heads:** Remo Ambassador clear on toms
@@ -49,10 +49,10 @@ George Kollias joined Nile in 2004 and immediately delivered one of the most tec
 
 - **Drums:** Pearl Reference Series (maple/birch hybrid) — 22" kick, 10"/12"/14"/16" toms *(switch — Pearl endorsement begins)*
 - **Snare:** Pearl (specific model not independently verified) *(switch — Pearl endorsement confirmed, specific snare model not documented by any cited source)*
-- **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China *(continued — consistent cymbal partnership since the Greek underground years)*
+- **Cymbals:** Zildjian A Custom Series — 14" hi-hats, 17"/18" crashes, 20" ride, 18" China *(switch — first and only cymbal brand since joining Nile)*
 - **Hardware:** Tama Iron Cobra HP900 Double Pedal *(continued — unchanged through the brand switch)*
 - **Sticks:** Vic Firth 5B hickory (pre-signature era)
-- **Heads:** Remo Emperor on toms, Powerstroke 3 on kick *(upgrade — double-ply durability and focused kick punch)*
+- **Heads:** Evans G2 Coated (toms), EMAD (kick) *(upgrade — double-ply durability and focused kick punch)*
 - **Estimated kit cost (original):** ~$9,000
 
 **Key developments:**
@@ -76,7 +76,7 @@ George Kollias's technical and artistic peak. Those Whom the Gods Detest and At 
 - **Cymbals:** Zildjian A Custom Series (full configuration) — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China
 - **Hardware:** Tama Iron Cobra HP900 Double Pedal *(continued — central to his blast beat precision)*
 - **Sticks:** Vic Firth George Kollias Signature *(signature — first GK signature, engineered for extreme blast beat speeds)*
-- **Heads:** Remo Emperor on toms, Powerstroke 3 on kick
+- **Heads:** Evans G2 Coated (toms), EMAD (kick)
 - **Electronics:** ddrum triggers on kick drums *(new — ensures double bass cuts through at extreme live volumes)*
 - **Estimated kit cost (original):** ~$14,000
 
@@ -102,7 +102,7 @@ In the modern era, Kollias has refined his setup to an elite standard that refle
 - **Cymbals:** Zildjian — 14" K Mastersound Hi-Hats, 17"/18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China *(current live and studio configuration)*
 - **Hardware:** Pearl Demon XR Double Pedal *(current pedal, co-designed with Pearl for extreme-speed applications)*
 - **Sticks:** Vic Firth (no specific signature model documented)
-- **Heads:** Remo Emperor on toms, Powerstroke 3 on kick
+- **Heads:** Evans G2 Coated (toms), EMAD (kick)
 - **Electronics:** ddrum Acoustic Pro Triggers on kick and snare *(upgrade — refined hybrid system)*
 - **Estimated kit cost (original):** ~$18,000
 

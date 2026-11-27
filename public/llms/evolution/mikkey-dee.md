@@ -10,7 +10,7 @@ last_updated: "2026-07-11"
 
 # Mikkey Dee Drum Kit Evolution — Complete Timeline
 
-Mikkey Dee holds one of the longest unbroken tenures in metal drumming history: 23 years as Motörhead's drummer, from Bastards in 1993 to Lemmy Kilmister's death in December 2015. His career spans a King Diamond apprenticeship, the full arc of Motörhead's later career as a relentless touring and recording machine, and a post-Motörhead chapter with Scorpions that continues today. His Paiste cymbal endorsement, unbroken since 1987, and his drum progression from Tama through to Sonor SQ2, track nearly four decades of non-stop professional metal drumming. This timeline documents every major equipment era across his career.
+Mikkey Dee holds one of the longest unbroken tenures in metal drumming history: 23 years as Motörhead's drummer, from Bastards in 1993 to Lemmy Kilmister's death in December 2015. His career spans a King Diamond apprenticeship, the full arc of Motörhead's later career as a relentless touring and recording machine, and a post-Motörhead chapter with Scorpions that continues today. His Paiste cymbal endorsement, unbroken since 1987, and his Sonor SQ2 partnership — carried from before Motörhead through to today, with the formal Sonor Drums signature-snare endorsement established in 2012 — track nearly four decades of non-stop professional metal drumming. This timeline documents every major equipment era across his career.
 
 See also: [Mikkey Dee drummer profile](/llms/drummers/mikkey-dee.md)
 
@@ -47,10 +47,10 @@ Mikkey Dee joined King Diamond's band in 1985, recording Fatal Portrait (1986) a
 **Albums:** Bastards (1993), Sacrifice (1995), Overnight Sensation (1996), Snake Bite Love (1998), We Are Motörhead (2000)
 **Tours:** Motörhead world tours 1993–2004, extensive North American and European touring, Lemmy's 50th birthday tour (1995)
 
-Mikkey Dee joined Motörhead in 1992, replacing Phil Taylor ahead of Bastards (1993, ZYX Music) — the biggest and most demanding role of his career: the sonic avatar of Motörhead's thundering, unrelenting rock 'n' roll. He joined on a Tama kit, and the combination of Tama's punchy character and the band's massive touring schedule drove constant refinement of his live setup. His Paiste cymbals, already in place since 1987, carried over unchanged.
+Mikkey Dee joined Motörhead in 1992, replacing Phil Taylor ahead of Bastards (1993, ZYX Music) — the biggest and most demanding role of his career: the sonic avatar of Motörhead's thundering, unrelenting rock 'n' roll. His Sonor SQ2 kit carried over into Motörhead, and the combination of Sonor's punchy birch character and the band's massive touring schedule drove constant refinement of his live setup. His Paiste cymbals, already in place since 1987, carried over unchanged.
 
-- **Drums:** Tama Artstar II / Swingstar — birch/maple shells: 22"×18" kick, 10"/12"/14"/16" toms *(switch — joined Motörhead on a Tama kit in 1992, first heard on Bastards)*
-- **Snare:** Tama steel snare 14"×6.5" *(switch — deeper steel snare for the explosive, walloping crack that became Dee's Motörhead signature)*
+- **Drums:** Sonor SQ2 — birch shells: 22"×18" kick, 10"/12"/14"/16" toms *(continued the Sonor SQ2 partnership into the Motörhead era, first heard on Bastards)*
+- **Snare:** Sonor Steel Snare 14"×6.5" *(deeper steel snare for the explosive, walloping crack that became Dee's Motörhead signature)*
 - **Cymbals:** Paiste Signature Series — 14" hi-hats, 16"/18" crashes, 20" ride (maintained the Paiste relationship established in 1987; bright, cutting character suited Motörhead's raw rock production)
 - **Hardware:** DW 5000 Double Pedal — dual-chain drive *(dependable touring hardware that could survive hundreds of shows per year)*
 - **Sticks:** Wincent 5B (consistent heavier hickory through the early Motörhead years)
@@ -59,7 +59,7 @@ Mikkey Dee joined Motörhead in 1992, replacing Phil Taylor ahead of Bastards (1
 
 **Key developments:**
 - Joined Motörhead — replaced Phil Taylor ahead of Bastards (1993)
-- Joined on a Tama Artstar II / Swingstar kit — Paiste cymbals carried over unchanged
+- Continued the Sonor SQ2 partnership into Motörhead — Paiste cymbals carried over unchanged
 - Bastards (1993) debut with band; Overnight Sensation (1996) reaches new commercial peak
 - Established one of the most consistent drummer/band combinations in metal history
 - Motörhead touring schedule among the most relentless in rock history — up to 200 shows per year
@@ -73,9 +73,9 @@ Mikkey Dee joined Motörhead in 1992, replacing Phil Taylor ahead of Bastards (1
 **Albums:** Kiss of Death (2006), Motörizer (2008), The Wörld Is Yours (2010), Aftershock (2013), Bad Magic (2015)
 **Tours:** Motörhead world tours 2004–2015, Download/Wacken/Hellfest headline slots, final Motörhead touring cycle 2015
 
-The final and most refined chapter of Mikkey Dee's Motörhead tenure. Dee's setup reached its most polished form during this period: his Tama kit gave way to a new Sonor SQ2 endorsement in 2012, complete with a Mikkey Dee Signature Snare, a full Evans head partnership, and an expanded Paiste cymbal configuration needed to fill increasingly large arenas and festival stages. Bad Magic won a Grammy for Best Metal Performance ("Thunder & Lightning") — Motörhead's only Grammy, awarded weeks before Lemmy's death on December 28, 2015.
+The final and most refined chapter of Mikkey Dee's Motörhead tenure. Dee's setup reached its most polished form during this period: his existing Sonor SQ2 partnership was formalized into a signature endorsement in 2012, complete with a Mikkey Dee Signature Snare, a full Evans head partnership, and an expanded Paiste cymbal configuration needed to fill increasingly large arenas and festival stages. Bad Magic won a Grammy for Best Metal Performance ("Thunder & Lightning") — Motörhead's only Grammy, awarded weeks before Lemmy's death on December 28, 2015.
 
-- **Drums:** Tama Artstar II / Swingstar (2004–2012), then Sonor SQ2 — maple/birch hybrid: 22"×18" kick, 8"/10"/12"/14"/16" toms *(switch in 2012 — Sonor SQ2 endorsement signed, fuller, more resonant tone for the arena and festival stages Motörhead now regularly headlined)*
+- **Drums:** Sonor SQ2 — maple/birch hybrid: 22"×18" kick, 8"/10"/12"/14"/16" toms *(continued the Sonor SQ2 partnership; fuller, more resonant tone for the arena and festival stages Motörhead now regularly headlined)*
 - **Snare:** Sonor SQ2 Mikkey Dee Signature Snare, 14"×7.25" birch *(signature — released alongside the 2012 Sonor SQ2 endorsement; explosive crack remained his defining sound)*
 - **Cymbals:** Paiste Signature Series — 14" hi-hats, 17"/18" crashes, 21" ride, 19" China *(upgrade — expanded configuration for warmer wash and the biggest production contexts; same Paiste endorsement held since 1987)*
 - **Hardware:** DW 5000 Series Double Pedal *(dependable touring hardware for precise, consistent response across hundreds of festival and arena shows per year)*
@@ -84,7 +84,7 @@ The final and most refined chapter of Mikkey Dee's Motörhead tenure. Dee's setu
 - **Estimated kit cost (original):** ~$18,000
 
 **Key developments:**
-- Sonor SQ2 endorsement signed in 2012, replacing Tama as primary kit
+- Sonor SQ2 signature endorsement formalized in 2012, continuing a partnership already in place since before joining Motörhead
 - Sonor Mikkey Dee Signature Snare released alongside the 2012 Sonor SQ2 deal
 - Evans G2/EMAD heads adopted
 - DW 5000 Series Double Pedal continued
@@ -137,8 +137,8 @@ Following Lemmy's death and Motörhead's dissolution, Mikkey Dee joined Scorpion
 ## Gear Brand Partnerships Timeline
 
 - **No fixed drum brand (various kits)** — 1985–1992 (King Diamond foundation)
-- **Tama Artstar II / Swingstar (drums)** — 1992–2012 (early through late Motörhead era)
-- **Sonor SQ2 + Mikkey Dee Signature Snare (drums)** — 2012–present (late Motörhead through Scorpions)
+- **Sonor SQ2 (drums)** — 1992–present (carried into Motörhead, continuing through Scorpions)
+- **Sonor SQ2 + Mikkey Dee Signature Snare (signature endorsement, drums)** — 2012–present (formalized in the late Motörhead era, continuing through Scorpions)
 - **Paiste Signature Series (cymbals)** — 1987–present (unbroken from pre-Motörhead through King Diamond, Motörhead, and Scorpions)
 - **DW 5000 Series Double Pedal (hardware)** — 1992–present (adopted joining Motörhead, carried through Scorpions)
 - **Wincent Mikkey Dee Signature (sticks)** — signature model, Wincent endorsement throughout his career
@@ -149,7 +149,7 @@ Following Lemmy's death and Motörhead's dissolution, Mikkey Dee joined Scorpion
 ## FAQ
 
 **Q: What drum kit did Mikkey Dee use in Motörhead?**
-A: Mikkey Dee joined Motörhead in 1992 on a Tama Artstar II / Swingstar kit, playing Tama through 2004 and into the start of the late Motörhead / Bad Magic era, before switching to a Sonor SQ2 kit with a Mikkey Dee Signature Snare in 2012 — the setup that carried through the band's final tours and their 2015 Grammy win.
+A: Mikkey Dee joined Motörhead in 1992 on a Sonor SQ2 kit, a partnership he carried throughout his entire 23-year tenure. The 2012 milestone was the formal Sonor Drums signature endorsement — including a Mikkey Dee Signature Snare — not a change of kit, and the setup carried through the band's final tours and their 2015 Grammy win.
 
 **Q: What drum kit does Mikkey Dee use today?**
 A: Mikkey Dee currently plays a Sonor SQ2 kit with Scorpions — a maple/birch hybrid configuration with a 22"×18" kick and 8"/10"/12"/14"/16" toms, alongside Paiste Signature Series cymbals and the DW 5000 Series Double Pedal.

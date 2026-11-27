@@ -25,7 +25,7 @@ August Burns Red's formative years. Greiner developed his technically demanding,
 
 - **Drums:** Pearl Export/Vision Series — 22" kick, 10"/12"/14"/16" toms
 - **Snare:** Pearl Export/Vision Steel Snare 14"×5.5"
-- **Cymbals:** Paiste 2002 / Alpha Series — 14" hi-hats, 16"/18" crashes, 20" ride, 18" China
+- **Cymbals:** Meinl (developing endorsement) — specific models not documented before 2011 — 14" hi-hats, 16"/18" crashes, 20" ride, 18" China
 - **Hardware:** Pearl P-2002C Eliminator double pedal (cam-driven)
 - **Sticks:** Vic Firth 5B hickory
 - **Heads:** Remo Ambassador — clear on toms, coated on snare
@@ -50,7 +50,7 @@ August Burns Red's commercial and critical peak. *Constellations* and *Leveler* 
 
 - **Drums:** Pearl Reference Series (maple/birch hybrid) — 22" kick, 10"/12"/14"/16" toms *(continuation from the original Export/Vision endorsement — Reference Series upgrade)*
 - **Snare:** Pearl Reference 14"×6.5" (maple/birch hybrid with die-cast hoops) *(switch — punchy, musical tone)*
-- **Cymbals:** Paiste Signature Series — 14" Signature hi-hats, 16"/17"/18" crashes, 22" ride, 18" China *(upgrade from 2002/Alpha)*
+- **Cymbals:** Meinl Byzance Series — 14" Byzance hi-hats, 16"/17"/18" crashes, 22" ride, 18" China *(upgrade from the developing Meinl endorsement)*
 - **Hardware:** Pearl Eliminator Demon Drive direct drive double pedal *(upgrade — direct drive for precision)*
 - **Sticks:** Vic Firth Matt Greiner Signature (hickory, long taper, nylon tip) *(first signature sticks)*
 - **Heads:** Evans G2 / EMAD *(switch to Evans for studio/live control)*
@@ -59,14 +59,14 @@ August Burns Red's commercial and critical peak. *Constellations* and *Leveler* 
 **Key developments:**
 - Pearl Reference endorsement — first major kit deal
 - Vic Firth Matt Greiner signature sticks launched
-- Upgraded to Paiste Signature line for professional touring
+- Solidified the Meinl Byzance cymbal setup for professional touring
 - *Constellations* — considered one of metalcore's defining albums
 
 | Gear | Change |
 |---|---|
 | Pearl Reference Series | Upgrade from Export/Vision (same brand, higher tier) |
 | Vic Firth Matt Greiner Signature | First signature |
-| Paiste Signature Series | Upgrade from 2002/Alpha |
+| Meinl Byzance Series | Upgrade from developing Meinl endorsement |
 | Pearl Demon Drive | Upgrade — direct drive |
 
 > "Getting the Pearl Reference deal was a turning point. That kit is built to last — it sounds incredible and it can handle the road. Constellations opened those doors for us." — *Pearl Drums Artist Profile, 2010*
@@ -78,11 +78,11 @@ August Burns Red's commercial and critical peak. *Constellations* and *Leveler* 
 **Albums:** Rescue & Restore (2013), Florian (2014)
 **Tours:** Rescue & Restore Tour, Florian Tour
 
-August Burns Red's most creatively ambitious period. *Florian* in particular pushed the band toward orchestral textures and wider dynamic swings — demands that drove Greiner's first electronics integration and a Paiste Formula 602 cymbal upgrade for darker, more complex tonal options.
+August Burns Red's most creatively ambitious period. *Florian* in particular pushed the band toward orchestral textures and wider dynamic swings — demands that drove Greiner's first electronics integration and an extended Meinl Byzance cymbal setup for a wider range of tonal options.
 
 - **Drums:** Pearl Reference Series (refined, custom finish) — 22" kick, 10"/12"/14"/16" toms
 - **Snare:** Pearl Reference 14"×5.5" + 14"×6.5" (two snare depths in rotation) *(upgrade — dual snare for textural range)*
-- **Cymbals:** Paiste Signature / Formula 602 — 14" hi-hats, 17"/18"/19" crashes, 22" ride, 18"/20" Chinas, 10" splash *(upgrade — 602 added for darker palette)*
+- **Cymbals:** Meinl Byzance (extended setup) — 14" hi-hats, 17"/18"/19" crashes, 22" ride, 18"/20" Chinas, 10" splash *(upgrade — more voices added for wider dynamic range)*
 - **Hardware:** Pearl Demon Drive (continued)
 - **Sticks:** Vic Firth Matt Greiner Signature (continued)
 - **Heads:** Evans G2 / EMAD2 *(upgrade — EMAD2 for tighter kick response)*
@@ -90,7 +90,7 @@ August Burns Red's most creatively ambitious period. *Florian* in particular pus
 - **Estimated kit cost (original):** ~$12,000
 
 **Key developments:**
-- Paiste Formula 602 added alongside Signature series for darker tonal options
+- Meinl Byzance cymbal setup extended with more voices for wider dynamic range
 - Roland SPD-SX introduced — first electronics integration for ambient live sampling
 - Evans EMAD2 upgrade for tighter kick attack
 - *Florian* — ABR's most orchestrally ambitious album
@@ -149,7 +149,8 @@ Greiner's current and most praised era. The switch to Mapex Black Panther Design
 - **Pearl Export/Vision Series** — 2003–2008 (formative years)
 - **Pearl Reference Series** — 2009–2015 (first major endorsement)
 - **Mapex Black Panther Design Lab** — 2016–present (current primary kit)
-- **Paiste** — throughout career (2002/Alpha → Signature → Formula 602 primary)
+- **Meinl** — 2003–2015 (developing endorsement → Byzance Series → Byzance extended setup)
+- **Paiste** — 2016–present (Formula 602 primary)
 - **Vic Firth Matt Greiner Signature** — 2009–present
 - **Evans Heads** — 2009–present (G2/EMAD → G2/EMAD2)
 - **Roland SPD-SX** — 2013–present

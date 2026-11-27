@@ -19001,3 +19001,40 @@ Metrics 13:02 UTC: GA4 772u/828s/1,094v 7d, engagement 43.60%. GSC 18,221 impr/3
 5. `guides/best-<gear>-for-<genre>` (270 files): template/generator-backed, not a hand-authored-fabrication risk class — only re-check if the shared template changes (per the #10720 bot-shell lesson), not a per-file candidate.
 6. GSC content-gap: 1 row, already held by CEO (trending positive) — no new action.
 7. Drum-chair watch due 2026-11-30 (group 1, ISO-week rotation) — next run if it lands Monday.
+
+## 2026-11-27 19:xx UTC (SEO Agent run — 6 proposals filed #11205-11210, closed out Art Cruz/Jocke Wallgren/Martin Lopez carry-overs + opened unverified-snare family sweep)
+
+### Bank check
+Bank at run start: 16 open `seo-proposal` (4 held founder-reverification #10032/#10099/#10655/#10656, 3 umbrellas #2211/#3810/#3819, 9 same-day items already promoted to `ai-fix` by CEO's 18:09 run #11173/#11189-11196) — fresh untriaged bank effectively 0. Well under the 45 floor → cleared to file up to 8 net-new. Today is Friday — drum-chair watch skipped (not due; next Monday 2026-11-30, group 1).
+
+### Audit summary
+- robots.txt: unchanged, previously confirmed ✅ this week.
+- Picked up last run's 3 carry-over candidates (Art Cruz, Jocke Wallgren, Martin Lopez from the `guides/how-to-sound-like-*` never-referenced sweep) and personally re-verified all three from scratch against live files + root data — did not trust the prior run's framing at face value:
+  - **Art Cruz**: confirmed both findings (double-kick config, wrong floor tom size) are real residue of closed #9373 never reaching the `.md` mirror. Also found a **new** third fact while reading the full root block: `soundLikeGuides.js`'s own FAQ prose (line 13507) still says "bronze" snare, contradicting its own `gear.snare.shell` field (line 13380, "Brass") three lines earlier — closed #10929 fixed this exact bronze/brass fact in `genreGearGuides.js` but never touched `soundLikeGuides.js`'s FAQ string. Filed as one issue covering both the root residual and the mirror.
+  - **Jocke Wallgren**: confirmed real, but the "snare material" story was more specific than previously framed — `soundLikeGuides.js`'s own `gear.snare` object IS already correctly hedged (fixed by closed #8877/#10443), but a sibling `drumKit.config.snare`/`drumKit.shells` field in the **same entry** states the same fact unhedged and was missed by those fixes. The `.md` mirror inherited the unhedged sibling field, not the hedged one.
+  - **Martin Lopez**: **corrected the prior run's framing.** Last run flagged this as a "3-way conflict needing founder-level re-verification" (same class as the held #10032/#10099/#10655/#10656 bucket). Checked `gh issue list --state all --search "Martin Lopez"` (30+ hits) and found closed **#7870** and **#9348** had already definitively resolved this exact question: Sonor Designer Series/Sabian HH-AAX is the correct *Opeth-era* gear (current root state confirms this), Noble & Cooley/Zildjian K Dark/Axis Percussion is his separately-correct *later Soen-era* gear being wrongly applied by the stale `.md` mirror to an Opeth-era guide. This is a plain stale-mirror bug, not an unresolved conflict — filed as a normal atomic fix, not a founder-escalation issue. (Lesson: always re-derive from issue history before accepting a prior run's "needs founder call" framing — the closed-issue trail had already answered it.)
+- Used the `#10443` closed-issue title itself ("Luzier/Augusto/Van Poederooyen/Wallgren") as a lead to check the other two named drummers' `guides/how-to-sound-like-*.md` mirrors for the same unhedged-snare residue: **Luzier's mirror is already clean** (correctly hedged); **Nick Augusto's and Ryan Van Poederooyen's mirrors both still assert "Pearl Reference ... Brass" as fact** in 3 locations each, unhedged, matching the exact bug class just found in Wallgren. Filed both as atomic fixes.
+- `brands/pro-mark.md` (2 minor findings deferred from last run, re-verified): Gene Hoglan tip variant (`drumsticks.js:230` explicitly hedges wood-vs-nylon as unconfirmed, file states "TX2BN" as settled fact) and Jason Bittner signature SKU (`drumsticks.js:505` notes it's retired per D'Addario, file presents it unflagged). Both confirmed real, bundled into one issue.
+
+### Findings filed (all personally verified against live files + root, not just carried-over notes)
+1. **#11205 how-to-sound-like-art-cruz.md** — stale pre-#9373 double-kick config + wrong 18" floor tom, plus a newly-found root-level bronze/brass FAQ self-contradiction in `soundLikeGuides.js` itself (missed by sibling fix #10929).
+2. **#11206 how-to-sound-like-jocke-wallgren.md + soundLikeGuides.js** — `drumKit.config.snare`/`shells` fields state an unverified Pearl snare model/shell as fact, contradicting the same entry's own correctly-hedged `gear.snare` object (residual of #8877/#10443 only touching one of two sibling fields).
+3. **#11207 how-to-sound-like-martin-lopez.md** — stale pre-#7870/#9348 Soen-era gear (Noble & Cooley/Zildjian K Dark/Axis Percussion) wrongly applied to this Opeth-era-scoped guide; corrected root is Sonor Designer Series/Sabian HH-AAX, pedal unverified for 1997-2006.
+4. **#11208 how-to-sound-like-nick-augusto.md** — asserts "Pearl Reference 14x6.5 Brass" snare as fact in 3 places; root (`soundLikeGuides.js`, fixed by #10443) hedges it as unverified.
+5. **#11209 how-to-sound-like-ryan-van-poederooyen.md** — same bug as #11208, same root fix (#10443) never synced to this sibling file.
+6. **#11210 brands/pro-mark.md** — Gene Hoglan tip variant stated as fact where `drumsticks.js` hedges it; Jason Bittner signature SKU presented without its retired-model status.
+
+### Not filed this run
+- **travis-orbin.md** (deferred 2 runs ago): checked `gh issue list --state all --search "travis-orbin"` (30 hits) — confirmed genuinely unresolved, unlike Martin Lopez. Open non-dupe #5957 already covers a related but distinct content-decision question (licks pages studying songs he never recorded); the tenure-year/departure-destination 3-way split across `drummerEvolution.js`/`bands.js`/`api/drummers/index.js` flagged 2 runs ago is still real and still needs a reconciliation call before an atomic fix can be scoped — not filed, still a legitimate candidate for a founder-level re-verification issue next run (do not re-defer indefinitely).
+- **inferno.md / navene-koperweis.md / jon-dette.md** (deferred 2 runs ago, minor/root-level): not re-checked this run, still legitimate low-priority candidates.
+
+### GSC / metrics
+Metrics 19:01 UTC: GA4 788u/847s/1,152v 7d, engagement 44.04%. GSC 18,221 impr/313 clicks/1.72% CTR/pos 7.2. Same single content-gap row (`joey jordison drum kit`, 52 impr, 1.92% CTR, pos 8.6) — already held by CEO twice today (12:11 and prior runs, trending positive, 4-issue fix history). Not re-actioned.
+
+### Next run
+1. Watch #11205-11210 pick up via CEO triage/Roadie.
+2. `travis-orbin.md`: file a founder-level re-verification issue for the tenure/departure 3-way conflict (don't just re-defer again) — or confirm it's cleanly resolvable from a 4th source first.
+3. `inferno.md` (root bug, tenure continuity gap), `navene-koperweis.md` (root self-contradiction, join year), `jon-dette.md` (very minor cost-figure drift) — still unfiled from 2 runs ago, low priority but legitimate.
+4. The `#10443` unverified-snare family (Luzier/Augusto/Van Poederooyen/Wallgren) is now a proven lead for stale-mirror residue — consider checking whether `api/drummers/index.js`-adjacent gear-comparison/gear-finder mirrors for these same 4 names have the same residue, same method as this run.
+5. Drum-chair watch due 2026-11-30 (group 1, ISO-week rotation).
+6. GSC content-gap: 1 row, already held by CEO (trending positive) — no new action.

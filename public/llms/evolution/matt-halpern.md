@@ -10,18 +10,18 @@ last_updated: "2026-06-27"
 
 # Matt Halpern Drum Kit Evolution — Complete Timeline
 
-Matt Halpern is the co-founding drummer of Periphery, one of the defining bands of the djent movement in progressive metal. Born in Philadelphia, Pennsylvania, he helped build Periphery from online demos into one of the most critically acclaimed technical metal bands of the 2000s and 2010s. This timeline documents his complete gear evolution from the band's earliest DIY beginnings through their current era as genre leaders.
+Matt Halpern joined Periphery in 2009, replacing Travis Orbin (who had in turn replaced founding drummer Jason Berlin in 2008), and has since become one of the defining drummers of the djent movement in progressive metal. Born in Philadelphia, Pennsylvania, he helped push Periphery's sound into one of the most critically acclaimed technical metal bands of the 2000s and 2010s. This timeline documents his complete gear evolution from his arrival in the band through their current era as genre leaders.
 
 See also: [Matt Halpern drummer profile](/llms/drummers/matt-halpern.md)
 
 ---
 
-## DIY / Self-Titled Debut Era (2005–2011)
+## DIY / Self-Titled Debut Era (2009–2011)
 
 **Albums:** Periphery (2010)
 **Tours:** Early club touring, Warped Tour appearances
 
-Matt Halpern and guitarist Misha Mansoor co-founded Periphery in the mid-2000s, building the band's reputation through self-released demos distributed online before signing to Sumerian Records. The early setup was assembled on a limited budget, centered on functional gear that could survive relentless touring rather than premium tone. His Istanbul Agop cymbal choice in this era was distinctive — Turkish handmade cymbals with a dark, complex wash that sat apart from standard metal fare.
+Matt Halpern joined Periphery in 2009, replacing Travis Orbin behind the kit, as the band built its reputation through self-released demos distributed online before signing to Sumerian Records. The early setup was assembled on a limited budget, centered on functional gear that could survive relentless touring rather than premium tone. His Istanbul Agop cymbal choice in this era was distinctive — Turkish handmade cymbals with a dark, complex wash that sat apart from standard metal fare.
 
 - **Drums:** Mapex — entry-level shell pack: 22" kick, 10"/12"/14"/16" toms (pre-endorsement Mapex kit, functional and reliable for heavy touring; preceded his 2010 Yamaha endorsement)
 - **Snare:** Mapex 14"×6.5" steel (standard pre-endorsement snare)
@@ -32,7 +32,7 @@ Matt Halpern and guitarist Misha Mansoor co-founded Periphery in the mid-2000s, 
 - **Estimated kit cost (original):** ~$4,000
 
 **Key developments:**
-- Co-founded Periphery with Misha Mansoor, building band through online demos
+- Joined Periphery in 2009, replacing Travis Orbin, as the band built its following through online demos
 - Istanbul Agop cymbals established as a distinctive tone element
 - Periphery self-titled (2010) introduced the band to a global audience
 - Developed signature polyrhythmic approach within the djent framework

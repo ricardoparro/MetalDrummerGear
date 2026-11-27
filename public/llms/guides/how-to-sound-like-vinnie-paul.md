@@ -16,13 +16,13 @@ What defines Vinnie Paul is his pocket. He sits slightly behind the beat, making
 Vinnie Paul played **custom Ddrum** kits with oversized bass drums — built for maximum low-end punch and stage projection:
 
 - **Kick Drum:** 24" x 18" Bass Drums (double kick)
-- **Snare:** 14" x 6.5" Steel or Brass Snare
+- **Snare:** 14" x 8" ddrum Vinnie Paul Signature (8-ply maple, die-cast hoops)
 - **Rack Toms:** 10" x 9", 12" x 10"
 - **Floor Toms:** 16" x 16", 18" x 16"
-- **Cymbals:** Zildjian Z Custom Series — loud, powerful cymbals suited for arena-level volumes
+- **Cymbals:** Sabian AA / AAX Series — loud, powerful cymbals suited for arena-level volumes
 - **Pedals:** DW 5000 Double Pedal
 - **Sticks:** Vic Firth 5B or 2B (heavier weight for massive impact)
-- **Heads:** Remo Powerstroke P3 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
+- **Heads:** Evans EQ3 Clear (kick), Evans G2 Coated (snare), Evans G2 Coated (toms)
 
 ## Tuning & Setup
 
@@ -49,13 +49,13 @@ Vinnie Paul plays **matched grip** with a heavy, relaxed approach. His signature
 | Item | Vinnie Paul's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Custom Ddrum with 24" kicks | Tama Imperialstar with 22" kicks (~$600) |
-| Snare | 14" x 6.5" Steel or Brass | Ludwig Acrophonic or Pearl Sensitone Brass |
-| Cymbals | Zildjian Z Custom Series | Zildjian A Pack (~$300) |
+| Snare | 14" x 8" 8-ply Maple (ddrum Signature) | Ludwig Acrophonic or Pearl Sensitone Brass |
+| Cymbals | Sabian AA / AAX Series | Sabian XSR Performance Set (~$300) |
 | Pedal | DW 5000 Double | Tama Iron Cobra or Pearl Eliminator (~$150) |
 | Sticks | Vic Firth 2B | Promark 2B or Vater Power 5B |
-| Kick Head | Remo Powerstroke P3 Clear | Evans EMAD Coated |
+| Kick Head | Evans EQ3 Clear | Remo Powerstroke P3 Clear |
 
-**Starter budget path (~$1,100):** Tama Imperialstar (largest kick available) + Zildjian A pack + DW 5000 double pedal. Get the biggest kicks you can afford — the low-tuned punch is essential. See [/brands/ddrum](https://metalforge.io/brands/ddrum) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
+**Starter budget path (~$1,100):** Tama Imperialstar (largest kick available) + Sabian XSR pack + DW 5000 double pedal. Get the biggest kicks you can afford — the low-tuned punch is essential. See [/brands/ddrum](https://metalforge.io/brands/ddrum) and [/brands/sabian](https://metalforge.io/brands/sabian).
 
 ## Practice Routine
 
@@ -71,7 +71,7 @@ Vinnie Paul plays **matched grip** with a heavy, relaxed approach. His signature
 A: Vinnie Paul's defining trait is his pocket — he sits slightly behind the beat, making every riff feel heavier than it would with a drummer who plays on top. His double bass is used for musical weight rather than technical speed, and his fills are large, decisive gestures. He always prioritized serving Pantera's songs over showcasing technique.
 
 **Q: What drums did Vinnie Paul use?**  
-A: Vinnie Paul played custom Ddrum kits with oversized bass drums — typically 24" kicks for maximum low-end punch. He used deep metal snare drums (steel or brass) for powerful crack and large floor toms for sweeping fills. His maple shells provided warmth and punch suited to Pantera's mix.
+A: Vinnie Paul played custom Ddrum kits with oversized bass drums — typically 24" kicks for maximum low-end punch. He used a 14" x 8" 8-ply maple signature snare for a massive, authoritative crack and large floor toms for sweeping fills. His maple shells provided warmth and punch suited to Pantera's mix.
 
 **Q: How do I get the Pantera drum sound?**  
 A: Tune the kick low with heavy muffling for a deep, punchy thud. Tune the snare firm for a thick, authoritative crack with body. Tune toms low so they sound massive. Most importantly, sit behind the beat — place your kick slightly after the click and feel the groove get heavier. That pocket is the Pantera drum sound.

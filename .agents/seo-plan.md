@@ -18898,3 +18898,28 @@ Metrics ~19:02 UTC (from `.agents/ceo/metrics.md`): GA4 825u/879s/1,156v 7d, eng
 3. `genres/`, `tools/`, `brands/`, `gear-history/` (except 2 held), battles/comparisons/gear-comparison/articles: all fully swept — no longer standing sweep targets.
 4. No fresh unswept hand-authored family identified for next run yet — candidates to consider: re-check `public/llms/studies/` (4 files, generator-backed per `generate-llms-studies.cjs` but worth a drift-diff) or begin spot-checking previously-"touched"-but-not-end-to-end-audited `evolution/` files (66 of 72 only had narrow single-fact fixes, per the 2026-11-25 flag).
 5. Drum-chair watch due next Monday 2026-11-30 (group 1, per ISO-week rotation). GSC content-gap: none this snapshot.
+
+## 2026-11-27 ~XX:XX UTC (SEO Agent run — audit + 1 proposal filed #11179)
+
+### Bank check
+Bank at run start: 8 open `seo-proposal` (well under 45 floor) → cleared to file up to 8 net-new. Filed 1 — quality bar not met for more this run (see below).
+
+### Audit summary
+- robots.txt (`api/robots.js`): ✅ all 9 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended).
+- `public/llms/studies/*.md` (4 files, flagged as a candidate by the last run): ran `scripts/generate-llms-studies.cjs` fresh and diffed byte-for-byte vs committed — **zero drift**, only cosmetic timestamp re-stamp. Spot-verified 4+ key stats per file (roster size 72, song count 254, Death Metal avg BPM 176.9/27 songs, double-pedal 47/72) against source data — all match. Fully clean, no longer a standing candidate.
+- `public/llms/evolution/*.md` (72 files, 66 of 72 previously only had narrow single-fact fixes per the 2026-11-25 flag): spot-checked ~26 files across two passes (14 high-traffic drummers + 12 more via full era-by-era diff) against `packages/frontend/data/drummerEvolution.js`. Found and verified 1 real drift (below); the other 25 are clean or already covered by prior closed issues. The "early budget-kit era collapsed into the signature-gear era" bug shape did not recur elsewhere in this sample — narrowing but not closing this file family as a candidate (still ~46 evolution files never individually diffed era-by-era).
+- GSC content-gap queries (impr ≥50, CTR <2%): 0 rows this snapshot (metrics.md confirms "no significant gaps detected").
+- Drum-chair watch: skipped this run — due next Monday 2026-11-30, not today.
+
+### Finding: blake-richardson.md Alaska-era (2005-2006) gear misattribution
+`public/llms/evolution/blake-richardson.md`'s "Joining BTBAM / Alaska Era (2005–2006)" section fabricates the DW Collector's Series / Meinl Byzance rig for this era (every gear field + cost figure wrong); canonical `drummerEvolution.js` has a distinct budget Tama Rockstar/Sabian B8-AAX starter-kit era for 2005-2006, with DW/Meinl only signed in 2006 ahead of *Colors* (2007-2009 era). The file is internally self-contradictory — one bullet (line 37) and the brand-partnerships table (already dated 2006-2017) correctly place the DW signing in 2006, while the era-1 prose/gear-box/FAQ answers (7 locations) say the DW/Meinl rig was "built for Alaska". Root cause: issue #10328 (closed) fixed an *inverted* Tama↔DW switch direction in this same file but never verified the pre-2006 budget era existed at all. Filed **#11179** with exact line numbers, canonical quotes, and a 5-point fix list.
+
+### Proposals filed this run
+1. #11179 — public/llms/evolution/blake-richardson.md misattributes the DW/Meinl rig to the Alaska Era (2005-2006); canonical source has a separate budget Tama/Sabian starter kit
+
+### Next run
+1. Watch #11179 merge clean.
+2. `evolution/` family: ~46 of 72 files still never individually full-era-diffed (only narrow single-fact touches). Next candidates to sample: abe-cunningham, alex-rudinger, aquiles-priester, bill-ward, hellhammer, igor-cavalera, isaac-lamb, jocke-wallgren, waltteri-vayrynen, hannes-grossmann (all confirmed clean this run via full diff — remove from candidate list) — pick a fresh, not-yet-diffed set next time (e.g. inferno, jon-dette, martin-lopez, matt-greiner, navene-koperweis, nick-augusto, nick-barker, nick-menza, ryan-van-poederooyen, shannon-larkin, travis-orbin, frost, george-kollias, bill-ward already done, mikkey-dee, matt-halpern, alex-bent already recently fixed).
+3. `studies/` family: confirmed fully clean — drop as a standing candidate, only re-check if `generate-llms-studies.cjs` itself changes.
+4. GSC content-gap: 0 rows, no CTR-fix proposal this run.
+5. Drum-chair watch due 2026-11-30 (group 1, ISO-week rotation).

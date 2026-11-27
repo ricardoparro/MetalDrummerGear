@@ -11,15 +11,15 @@ Gene Hoglan earned his nickname "The Atomic Clock" through decades of impossibly
 
 ## Kit Setup
 
-Gene uses **Tama Starclassic** drums with maple shells, choosing larger drum sizes that match his physical presence and style:
+Gene uses a **Pearl Reference Pure** drum kit, choosing larger drum sizes that match his physical presence and style:
 
 - **Kick Drums:** 24" x 16" (x2) — larger size for low-end power and authority
-- **Snare:** 14" x 6.5" Tama Warlord Spartan (bell brass shell for massive projection)
+- **Snare:** Pearl (specific model not independently verified) — delivers the precise, cutting crack his playing demands
 - **Rack Toms:** 12" x 9", 13" x 10"
 - **Floor Toms:** 16" x 14", 18" x 16"
-- **Cymbals:** Zildjian A Custom Series — bright and cutting to project in any mix
+- **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China) — bright and cutting to project in any mix
 - **Pedals:** Pearl Demon Drive Double Pedal (direct-drive for maximum speed and responsiveness)
-- **Sticks:** Vater Gene Hoglan Signature (large diameter with round tip for extra power)
+- **Sticks:** Promark Classic Forward 2B (large diameter for extra power)
 - **Heads:** Remo Powerstroke P3 Clear (kick), Remo Emperor X Coated (snare), Remo Emperor Clear (toms)
 
 ## Tuning & Setup
@@ -27,7 +27,7 @@ Gene uses **Tama Starclassic** drums with maple shells, choosing larger drum siz
 Gene tunes for power and projection. His drums are heard, not lost in the mix. Larger drums require different approaches:
 
 - **Kick:** Medium tension with moderate muffling. The 24" kicks have depth and punch — don't choke them. Larger drums need lower tuning to sound their best and need room to move air.
-- **Snare:** High tension for maximum crack and projection. The bell brass shell adds body even at high tuning. Tune high for maximum cut and let the brass shell do the work.
+- **Snare:** High tension for maximum crack and projection. Tune high for maximum cut and let the Pearl shell do the work.
 - **Toms:** Medium tension with minimal or no muffling. Gene's toms have depth and sustain — they're part of the musicality, tuned in musical intervals. His toms sing.
 
 ## Technique Tips
@@ -46,14 +46,14 @@ Gene uses **matched grip** with a powerful, arm-incorporated stroke. He emphasiz
 
 | Item | Gene's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Tama Starclassic Maple (24" kicks) | Tama Imperialstar (~$600) |
-| Snare | Tama Warlord Spartan 14" x 6.5" (Bell Brass) | Tama SLP Brass or Ludwig Black Beauty |
-| Cymbals | Zildjian A Custom Series | Zildjian S Series (~$300) |
+| Drum Kit | Pearl Reference Pure (24" kicks) | Pearl Export (~$600) |
+| Snare | Pearl (specific model not independently verified) | Pearl SensiTone or Ludwig Black Beauty |
+| Cymbals | Sabian AAX Series | Sabian SBR Series (~$300) |
 | Double Pedal | Pearl Demon Drive | Pearl P932 Double Pedal (~$150) |
-| Sticks | Vater Gene Hoglan Signature | Vater Power 5B |
+| Sticks | Promark Classic Forward 2B | Promark Hickory 5B |
 | Kick Head | Remo Powerstroke P3 Clear | Evans EMAD |
 
-**Starter budget path (~$1,000):** Tama Imperialstar + Zildjian S Series + Pearl double pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
+**Starter budget path (~$1,000):** Pearl Export + Sabian SBR Series + Pearl double pedal. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/sabian](https://metalforge.io/brands/sabian).
 
 ## Practice Routine
 
@@ -75,7 +75,7 @@ A: Both "Individual Thought Patterns" and "Symbolic" showcase Gene at his peak w
 A: Gene uses his mass efficiently, incorporating arm and body motion while maintaining control. His technique complements his physical presence — larger hands give him leverage, and his size allows him to generate power without excessive tension.
 
 **Q: What snare does Gene Hoglan play?**  
-A: Gene uses the Tama Warlord Spartan with a bell brass shell — known for massive projection and crack. The brass shell provides a distinctive tone that cuts through any mix. It's a powerful choice for death metal where the snare needs to be heard above fast, dense arrangements.
+A: Gene uses a Pearl snare — the specific model has not been independently verified — known for massive projection and crack. It's a powerful choice for death metal where the snare needs to be heard above fast, dense arrangements.
 
 **Q: How many bands has Gene Hoglan recorded with?**  
 A: Gene has recorded with more than 25 bands throughout his career, including Death, Testament, Strapping Young Lad, Dark Angel, Dethklok, Fear Factory, Devin Townsend Project, and many others. This range demonstrates his ability to adapt precision and power across death metal, thrash, industrial metal, and progressive styles.
@@ -86,4 +86,4 @@ A: Gene has recorded with more than 25 bands throughout his career, including De
 **Drummer profile:** [https://metalforge.io/drummer/gene-hoglan](https://metalforge.io/drummer/gene-hoglan)  
 **Related guides:** [Dave Lombardo](https://metalforge.io/llms/guides/how-to-sound-like-dave-lombardo.md) · [Joey Jordison](https://metalforge.io/llms/guides/how-to-sound-like-joey-jordison.md)
 
-*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-06-19*
+*Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-11-27*

@@ -1,6 +1,6 @@
 # MetalForge — Digest
 
-*Generated 2026-11-27 08:14 UTC · Window: last 12h*
+*Generated 2026-11-27 19:07 UTC · Window: last 12h*
 
 ---
 
@@ -8,23 +8,23 @@
 
 | Metric | Value |
 | --- | --- |
-| Open `ai-fix` issues | **21** |
-| Open `seo-proposal` issues | 16 |
+| Open `ai-fix` issues | **29** |
+| Open `seo-proposal` issues | 22 |
 | Open `human-founder` issues | 8 |
 | Open `broken-video` issues | 0 |
-| Open PRs | 0 |
-| PRs merged in window | **1** |
-| Issues closed in window | 1 |
-| Commits to `main` in window | 5 |
+| Open PRs | 2 |
+| PRs merged in window | **9** |
+| Issues closed in window | 9 |
+| Commits to `main` in window | 15 |
 
 ## 📈 Business metrics
 
 | Metric | Last 7d |
 | --- | --- |
-| Active users | **763** |
-| Sessions | 819 |
-| Page views | 1,074 |
-| Engagement rate | 43.22% |
+| Active users | **791** |
+| Sessions | 850 |
+| Page views | 1,156 |
+| Engagement rate | 44.12% |
 | GSC impressions | 18,221 |
 | GSC clicks | 313 |
 | GSC CTR | 1.72% |
@@ -36,10 +36,10 @@
 
 | Metric | Value |
 | --- | --- |
-| Est. pageviews / mo | ~4,603 |
-| Est. ad revenue / mo | **~€13.81** |
-| Progress to €1000/mo | 1.4% |
-| Pageviews/mo needed for €1000 | ~333,333 (72× current) |
+| Est. pageviews / mo | ~4,954 |
+| Est. ad revenue / mo | **~€14.86** |
+| Progress to €1000/mo | 1.5% |
+| Pageviews/mo needed for €1000 | ~333,333 (67× current) |
 
 ## 🔬 Improvement loops — are the KPIs moving?
 
@@ -73,41 +73,48 @@ _No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.
 
 | Workflow | Total | ✅ | ❌ |
 | --- | --- | --- | --- |
-| PR Merger | 47 | 47 | 0 |
+| PR Merger | 59 | 59 | 0 |
+| Check llms freshness | 12 | 0 | 10 |
+| Roadie (Watcher + Implementer) | 6 | 6 | 0 |
 | Health Check | 4 | 4 | 0 |
-| Check llms freshness | 2 | 0 | 2 |
+| Loop Watchdog | 3 | 3 | 0 |
+| Daily Digest | 2 | 1 | 0 |
 | SEO Agent | 2 | 2 | 0 |
 | CEO Agent | 2 | 2 | 0 |
-| Roadie Night Fleet | 2 | 2 | 0 |
-| Daily Digest | 1 | 0 | 0 |
-| Roadie (Watcher + Implementer) | 1 | 1 | 0 |
+| Roadie Night Fleet | 1 | 0 | 0 |
+| X Agent | 1 | 1 | 0 |
 | Verify YouTube Videos | 1 | 1 | 0 |
-| Loop Watchdog | 1 | 1 | 0 |
-| Prune Proposals | 1 | 1 | 0 |
-| Deploy to Production (batched) | 1 | 1 | 0 |
 
 ## 🧠 Today's CEO decisions
 
+- 2026-11-27 18:09 (mid-day pulse — 8/8 proposals verified+promoted #11189-11196)
+- 2026-11-27 12:11 (daily deep run — 8/8 proposals verified+promoted #11180-11187, unstuck #11173)
 - 2026-11-27 06:13 (cheap pulse — 1/1 proposal verified+promoted #11179)
 - 2026-11-27 00:19 (cheap pulse — 1/1 proposal verified+promoted #11173)
 - 2026-11-26 12:11 (daily deep run — 7/7 proposals verified+promoted #11148-11154)
 - 2026-11-26 00:19 (cheap pulse — 2/2 proposals verified+promoted #11136-11137)
-- 2026-11-26 06:13 (cheap pulse — 5/5 proposals verified+promoted #11140-11144, 1 scope-widened)
-- 2026-11-26 18:09 (mid-day pulse — 5/5 proposals verified+promoted #11160-11164)
 
-## 📦 Shipped to main (1)
+## 📦 Shipped to main (9)
 
+- #11204 fix: #11187 SEO: evolution/nick-augusto.md asserts unverified Pearl snare model as fact — root hedges it explicitly
+- #11203 fix: #11186 SEO: evolution/nick-menza.md sticks/hardware/snare contradict verified api/drummers/index.js profile
+- #11202 fix: #11185 SEO: evolution/matt-greiner.md fabricates 'Paiste' cymbal brand throughout career — verified Meinl 2003-2015, Paiste only 2016-present
+- #11201 fix: #11184 SEO: evolution/george-kollias.md fabricates cymbal brand (Zildjian vs verified Paiste) + head brand (Remo vs verified Evans) across eras
+- #11200 fix: #11183 SEO: evolution/matt-halpern.md fabricates 'co-founding drummer' status — verified he joined Periphery in 2009, its third drummer
+- #11199 fix: #11182 SEO: evolution/frost.md backdates Tama/Zildjian gear 14 years early (1999 vs verified 2013 switch) + wrong birthplace
+- #11198 fix: #11180 SEO: evolution/shannon-larkin.md presents him as Godsmack's active drummer — verified retired 2024, replaced by Mike Mangini 2026
+- #11197 fix: #11181 SEO: evolution/mikkey-dee.md fabricates entire 'Tama Artstar II/Swingstar' era (1992-2012) — verified continuous Sonor SQ2
 - #11188 fix: #11179 SEO: public/llms/evolution/blake-richardson.md misattributes the DW/Meinl rig to the Alaska Era (2005-2006) — canonical source has a separate budget Tama/Sabian starter kit
 
 ## 🔴 Needs attention
 
-- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 571h)_
-- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2881h)_
-- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2977h)_
-- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 3154h)_
-- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4239h)_
+- 🧑 Issue #10174 — 🧑 Decide: should check-llms-freshness self-heal via direct-to-main commits? (split 2/2 of #10162) _(open 582h)_
+- 🧑 Issue #5141 — 🧑 Backlink outreach for the 4 shipped /studies pages — the one lever agents can't pull _(open 2892h)_
+- 🧑 Issue #5100 — 🧑 L2 recovery items #3/#4/#5 — need founder go (docs/seo-l2-l3-recovery.md) _(open 2988h)_
+- 🧑 Issue #4892 — 🧑 Claude subscription capacity: backup token hit its WEEKLY limit (resets Jul 23) — pipeline has no failover until then _(open 3165h)_
+- 🧑 Issue #875 — 🧑 GA4: Configure key events (affiliate-click, wishlist-save) — revenue intent is currently invisible _(open 4250h)_
 
 ---
 
-_Next refresh: 19:00 UTC_
+_Next refresh: 08:00 UTC_
 _Source: `.agents/scripts/generate-digest.cjs` · History: `.agents/digest/history/`_

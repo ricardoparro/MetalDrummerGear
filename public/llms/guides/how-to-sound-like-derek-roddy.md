@@ -13,13 +13,13 @@ Roddy's approach treats extreme speed as a mechanical and educational problem ra
 
 ## Kit Setup
 
-Roddy plays a **Tama Starclassic Maple** kit with 100% maple shells:
+Roddy plays a **Tama Starclassic Bubinga** kit with dense, bass-heavy bubinga shells:
 
 - **Kick Drums:** 22" x 18" Bass Drums (x2, double bass configuration)
-- **Snare:** 14" x 6.5" Tama Starclassic Maple Snare
+- **Snare:** 14" x 6.5" Tama SLP Black Brass Snare
 - **Rack Toms:** 10", 12"
 - **Floor Toms:** 16", 18"
-- **Cymbals:** Paiste 2002 / Rude Series — 14" hi-hats, 16"/18" crashes, 20" ride, 18" china
+- **Cymbals:** Meinl Byzance & Mb20 Series — 14" Byzance Heavy hi-hats, 18"/19" Mb20 Heavy crashes, 21" Mb20 Heavy ride, 18" Byzance China
 - **Pedals:** Tama Speed Cobra Double Bass Pedal
 - **Sticks:** Vater custom specification (wood tip, weighted)
 - **Heads:** Remo Powerstroke 3 (kick), Remo Ambassador Coated (snare, toms)
@@ -48,14 +48,14 @@ Roddy's signature is generating extreme blast beat speed from wrist mechanics an
 
 | Item | Roddy's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Tama Starclassic Maple | Pearl Export (~$750) |
-| Snare | Tama Starclassic Maple 14" x 6.5" | Any maple-shell snare, medium-bright tuning |
-| Cymbals | Paiste 2002 / Rude Series | Paiste 101 hi-hats + crash (~$200) |
+| Drum Kit | Tama Starclassic Bubinga | Pearl Export (~$750) |
+| Snare | Tama SLP Black Brass 14" x 6.5" | Any brass-shell snare, medium-bright tuning |
+| Cymbals | Meinl Byzance & Mb20 Series | Meinl HCS hi-hats + crash (~$200) |
 | Pedal | Tama Speed Cobra Double Bass Pedal | DW 3000 Double Pedal (~$150) |
 | Sticks | Vater custom specification | Vic Firth 5B or Promark 5B |
 | Kick Head | Remo Powerstroke 3 | Same, attack-focused |
 
-**Starter budget path (~$1,100):** Pearl Export + Paiste 101 pack + DW 3000 double pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/paiste](https://metalforge.io/brands/paiste).
+**Starter budget path (~$1,100):** Pearl Export + Meinl HCS pack + DW 3000 double pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/meinl](https://metalforge.io/brands/meinl).
 
 ## Practice Routine
 
@@ -71,7 +71,7 @@ Roddy's signature is generating extreme blast beat speed from wrist mechanics an
 A: The gravity blast is a technique in which a single hand executes multiple strokes per arm motion by letting the stick's rebound off the drum head raise it for the next stroke, derived from the rudimental percussion "gravity roll." Derek Roddy is the technique's foremost practitioner in death metal, and his performance on Hate Eternal's "King of All Kings" (2002) is the definitive recorded example at extreme tempo.
 
 **Q: What gear should I use to sound like Derek Roddy?**  
-A: Roddy plays a Tama Starclassic Maple kit with a double 22" x 18" bass drum configuration, a 14" x 6.5" Tama Starclassic Maple snare, Paiste 2002/Rude series cymbals, a Tama Speed Cobra double bass pedal, and Vater sticks with a custom weighted specification.
+A: Roddy plays a Tama Starclassic Bubinga kit with a double 22" x 18" bass drum configuration, a 14" x 6.5" Tama SLP Black Brass snare, Meinl Byzance & Mb20 Series cymbals, a Tama Speed Cobra double bass pedal, and Vater sticks with a custom weighted specification.
 
 **Q: What tempo should I practice at to sound like Derek Roddy?**  
 A: Roddy's gravity blasts are documented in the 220–280 BPM range. Start well below that — build the gravity roll and heel-toe mechanics at a slow, controlled tempo before applying them at extreme speed.

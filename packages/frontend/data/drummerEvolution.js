@@ -12383,7 +12383,7 @@ export const DRUMMER_EVOLUTION = {
         gear: {
           drums: {
             item: 'OCDP custom kit',
-            details: 'Established configuration — maple shells, double bass setup',
+            details: 'Established configuration — acrylic shells, double bass setup',
             notes: 'Orange County Drum and Percussion endorsement fully solidified; custom shells configured to Otto\'s cross-genre requirements.',
             change: CHANGE_TYPES.SIGNATURE,
           },
@@ -12454,7 +12454,7 @@ export const DRUMMER_EVOLUTION = {
         gear: {
           drums: {
             item: 'OCDP custom kit',
-            details: 'Current configuration, maple shells',
+            details: 'Current configuration, acrylic shells',
             notes: 'Confirmed current setup — same OCDP platform established over two decades ago, still serving the band\'s nu-metal revival.',
             change: null,
           },
@@ -12519,7 +12519,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does John Otto play now?',
-        a: 'John Otto currently plays an Orange County Drum and Percussion (OCDP) custom kit — a California-built rig configured to his specifications, with maple shells, a double bass configuration, two rack toms, and two floor toms. He pairs it with a full Zildjian A/A Custom cymbal setup, Gibraltar hardware, Zildjian sticks, and Remo heads.',
+        a: 'John Otto currently plays an Orange County Drum and Percussion (OCDP) custom kit — a California-built rig configured to his specifications, with acrylic shells, a double bass configuration, two rack toms, and two floor toms. He pairs it with a full Zildjian A/A Custom cymbal setup, Gibraltar hardware, Zildjian sticks, and Remo heads.',
       },
       {
         q: 'Did John Otto always play OCDP drums?',

@@ -73,7 +73,7 @@ Limp Bizkit's commercial peak. "Significant Other" (1999) sold over 7 million co
 
 Limp Bizkit weathered lineup changes — including Wes Borland's departure and return — across "Results May Vary" (2003) and the original-lineup reunion that produced "Gold Cobra" (2011). Otto remained the band's one constant, his fully established OCDP kit providing the groove foundation for the comeback.
 
-- **Drums:** OCDP custom kit *(signature — established configuration, maple shells, double bass setup)*
+- **Drums:** OCDP custom kit *(signature — established configuration, acrylic shells, double bass setup)*
 - **Snare:** OCDP custom snare, 14"x6.5" *(signature — medium-high tension)*
 - **Cymbals:** Full Zildjian A / A Custom setup *(upgrade — hi-hats, multiple crashes, ride, China)*
 - **Hardware:** Gibraltar Professional Series — confirmed throughout this era
@@ -98,7 +98,7 @@ Limp Bizkit weathered lineup changes — including Wes Borland's departure and r
 
 "Still Sucks" (2021) arrived as a surprise free release and demonstrated that Limp Bizkit's audience was larger than anyone anticipated for a nu-metal act in the 2020s. The 2024 touring cycle confirmed the revival, with Otto's groove-centered drumming — unchanged in its fundamentals since "Significant Other" — remaining the rhythmic engine of the band.
 
-- **Drums:** OCDP custom kit (current configuration, maple shells)
+- **Drums:** OCDP custom kit (current configuration, acrylic shells)
 - **Snare:** OCDP custom snare (confirmed current)
 - **Cymbals:** Zildjian full setup — A and A Custom series (confirmed current)
 - **Hardware:** Gibraltar hardware (confirmed current)
@@ -132,7 +132,7 @@ Limp Bizkit weathered lineup changes — including Wes Borland's departure and r
 A: John Otto started on a standard Pearl kit during Limp Bizkit's "Three Dollar Bill, Y'all$" era (1997), transitioned to custom Orange County Drum and Percussion (OCDP) drums during the band's "Significant Other" commercial peak (1999), and has used a fully established OCDP custom kit with Zildjian cymbals and Gibraltar hardware ever since — including on the 2021 comeback album "Still Sucks."
 
 **Q: What drum kit does John Otto play now?**
-A: John Otto currently plays an Orange County Drum and Percussion (OCDP) custom kit — a California-built rig configured to his specifications, with maple shells, a double bass configuration, two rack toms, and two floor toms. He pairs it with a full Zildjian A/A Custom cymbal setup, Gibraltar hardware, Zildjian sticks, and Remo heads.
+A: John Otto currently plays an Orange County Drum and Percussion (OCDP) custom kit — a California-built rig configured to his specifications, with acrylic shells, a double bass configuration, two rack toms, and two floor toms. He pairs it with a full Zildjian A/A Custom cymbal setup, Gibraltar hardware, Zildjian sticks, and Remo heads.
 
 **Q: Did John Otto always play OCDP drums?**
 A: No. Otto played a standard Pearl kit during Limp Bizkit's early years, including "Three Dollar Bill, Y'all$" (1997). He began transitioning to custom OCDP drums during the "Significant Other" era (1999), and the relationship became fully established by "Results May Vary" (2003) and "Gold Cobra" (2011).

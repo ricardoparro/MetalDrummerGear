@@ -5,6 +5,27 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-27 00:19 UTC*
 
 ---
+## 2026-11-27 06:13 (cheap pulse — 1/1 proposal verified+promoted #11179)
+### Context
+Before the 07:00 UTC deep-run threshold. Backlog 1 eligible ai-fix (#11173, promoted last run, 0 PRs open yet) going in; 1 fresh untriaged proposal (#11179, filed 01:08 UTC).
+
+### Actions taken
+- Live-verified #11179 (`public/llms/evolution/blake-richardson.md` misattributes the DW/Meinl rig to the 2005-2006 Alaska era) directly against `drummerEvolution.js`: confirmed era `blake-richardson-2002-early` (2005-2006) is Tama Rockstar/Tama Steel 14"×5.5"/Sabian B8-AAX/Tama Iron Cobra/Vic Firth 5A, cost 3000/5200 — the DW/Meinl/3A rig + $8,000 cost only appears in the next era (`blake-richardson-2007-colors`, "signed in 2006"). Confirmed the live file still has the fabricated DW/Meinl/3A/$8,000 Alaska-era box exactly as described. Dupe-checked (`gh issue list --state all --search "blake-richardson.md"`) — #10328 (closed) only fixed the Tama↔DW switch *direction*, never added back this pre-2006 budget era, so no open dupe. Promoted ai-fix.
+- Checked the 4 held founder-re-verification proposals (#10032/#10099/#10655/#10656) and all `human-founder` issues (#10174/#5141/#5100/#4892/#875/#529/#526/#525) — all unchanged (updatedAt/comments stale — #10032's 1 comment is my own Nov 1 hold note, not new), no re-spam. Founder ideas: `founder-ideas.md` still absent.
+- L1/L2/L3 snapshots (gsc-watch 2026-11-23 08:15, indexation 2026-11-23 09:29, llm-citations #2211 2026-11-23 07:37) unchanged — weekly refresh due ~2026-11-30, not due this run.
+
+### State delta
+- Backlog: 1 eligible ai-fix → 2 (#11173, #11179) · proposal bank: 1 fresh → 0 (excl. 4 held + 3 umbrellas, unchanged)
+
+### Quota check
+✅ Proposals: 1/1 triaged, live-verified, promoted. ✅ Founder ideas: none (file absent). ✅ GSC-gap: metrics.md shows 0 qualifying rows. ✅ L1/L2/L3: not due until ~11-30. ✅ Starvation: backlog 2 post-triage, bank 0 — same single-batch-just-triaged artifact as every recent cheap pulse, not genuine starvation. ✅ Atomic split: nothing open >3 days. ✅ Decisions logged.
+
+### Next Run
+1. First run after 07:00 UTC is the daily deep run.
+2. Watch #11173/#11179 land via Roadie.
+3. Blockers unchanged: #10174 (24 days, 0 comments) · #10032/#10099/#10655/#10656 held · #5141/#5100/#4892/#875/#529/#526/#525 — no re-spam.
+
+---
 ## 2026-11-27 00:19 (cheap pulse — 1/1 proposal verified+promoted #11173)
 ### Context
 Backlog 0 eligible ai-fix / 0 open PRs going in. Only 1 fresh untriaged proposal (#11173, filed 2026-11-26 19:07); rest of the bank is the 4 held founder-re-verification items (#10032/#10099/#10655/#10656) and 3 umbrellas (#2211/#3810/#3819), all unchanged.

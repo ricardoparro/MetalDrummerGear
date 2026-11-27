@@ -48,7 +48,7 @@ Before Trivium, Nick Augusto built his playing style on the technical grindcore 
 A: Augusto's path into Trivium began unusually: he joined the band as its drum technician in 2010, then stepped in as a fill-in drummer after founding drummer Travis Smith went on hiatus mid-tour. The fill-in role became permanent, and Augusto's studio debut came on "In Waves" (2011) — the album that established the Pearl Reference Pure / Sabian AAX rig that would define his tenure. His powerful, technically aggressive playing pushed Trivium's thrash-metalcore hybrid toward tighter, more precise execution than the band's earlier records, and "In Waves" expanded Trivium's international fanbase considerably.
 
 - **Drums:** Pearl Reference Pure — double-bass 6-piece, maple/birch hybrid shells; 22"x18" bass drum (x2), 10"x8"/12"x9" rack toms, 16"x16"/18"x16" floor toms
-- **Snare:** Pearl Reference 14"x6.5" Brass
+- **Snare:** a Pearl snare (specific model not independently verified)
 - **Cymbals:** Sabian AAX Series — 14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China
 - **Hardware:** DW 9000 Series Double Pedal
 - **Sticks:** Pro-Mark Nylon Tip 5B
@@ -72,7 +72,7 @@ A: Augusto's path into Trivium began unusually: he joined the band as its drum t
 A: Augusto carried the same Pearl Reference Pure / Sabian AAX / Evans configuration into "Vengeance Falls" (2013), his second and final studio album with Trivium, produced by Gojira's Joe Duplantier. The consistency of the rig across both albums reflected Augusto's road-tested approach to gear — built for speed and power rather than studio experimentation. He departed Trivium in 2014 citing creative differences and was replaced by Mat Madiro.
 
 - **Drums:** Pearl Reference Pure *(unchanged from In Waves)*
-- **Snare:** Pearl Reference 14"x6.5" Brass *(unchanged)*
+- **Snare:** a Pearl snare (specific model not independently verified) *(unchanged)*
 - **Cymbals:** Sabian AAX Series *(unchanged)*
 - **Hardware:** DW 9000 Series Double Pedal *(unchanged)*
 - **Sticks:** Pro-Mark Nylon Tip 5B *(unchanged)*
@@ -140,7 +140,7 @@ A: Nick Augusto was Trivium's drummer from 2010 to 2014. He initially joined as 
 A: Nick Augusto recorded two studio albums with Trivium: "In Waves" (2011), his studio debut, and "Vengeance Falls" (2013), produced by Gojira's Joe Duplantier, before departing the band in 2014.
 
 **Q: What drum kit did Nick Augusto use in Trivium?**
-A: Nick Augusto played a Pearl Reference Pure kit throughout his Trivium tenure, paired with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX cymbals, and a DW 9000 Series double pedal — a rig established for his 2011 studio debut In Waves and carried unchanged through Vengeance Falls (2013).
+A: Nick Augusto played a Pearl Reference Pure kit throughout his Trivium tenure, paired with a Pearl snare (specific model not independently verified), Sabian AAX cymbals, and a DW 9000 Series double pedal — a rig established for his 2011 studio debut In Waves and carried unchanged through Vengeance Falls (2013).
 
 **Q: Why did Nick Augusto leave Trivium?**
 A: Nick Augusto departed Trivium in 2014, citing creative differences. He was replaced by Mat Madiro and went on to form his own band, Corrosion, while continuing to tour with acts including Light the Torch.

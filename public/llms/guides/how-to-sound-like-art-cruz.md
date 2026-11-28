@@ -15,10 +15,10 @@ Before Lamb of God, Cruz built his reputation the hard way: extensive touring an
 
 Cruz plays a **Ludwig Drums (Classic Maple/Oak)** kit:
 
-- **Kick Drums:** 22" x 18" Bass Drums (x2, double bass configuration)
+- **Kick Drum:** 22" x 18" Bass Drum (single kick, driven by double pedal)
 - **Snare:** Ludwig 14" x 6.5" Black Beauty Snare
 - **Rack Toms:** 10", 12"
-- **Floor Toms:** 16", 18"
+- **Floor Toms:** 14" x 16", 16" x 16"
 - **Cymbals:** Zildjian A Custom Series — 14" Mastersound Hi-Hats, 18"/19"/20" Crashes, 21" A Zildjian Mega Bell Ride, 19" Ultra Hammered China
 - **Pedal:** Trick Pro 1-V Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
@@ -29,7 +29,7 @@ Cruz plays a **Ludwig Drums (Classic Maple/Oak)** kit:
 Cruz tunes for full-bodied power that still stays articulate enough for precise, syncopated riff-lock patterns and sudden dynamic contrast:
 
 - **Kick:** Medium tension, moderate/focused attack muffling. Balances boom and attack for weight and double-bass articulation.
-- **Snare:** Medium-high tension, light muffling. The Black Beauty's bronze shell cuts through the downtuned mix without losing its rich overtone character.
+- **Snare:** Medium-high tension, light muffling. The Black Beauty's brass shell cuts through the downtuned mix without losing its rich overtone character.
 - **Toms:** Medium tension, light muffling. Evans G2 Coated heads keep toms responsive for Cruz's dynamic, explosive fills.
 
 ## Technique Tips
@@ -49,7 +49,7 @@ Cruz's playing combines Lamb of God's established groove-metal foundation with a
 | Item | Cruz's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Ludwig Classic Maple/Oak | Pearl Export (~$750) |
-| Snare | Ludwig 14" x 6.5" Black Beauty | Any 14" bronze/brass shell snare, medium-high tuning |
+| Snare | Ludwig 14" x 6.5" Black Beauty | Any 14" brass shell snare, medium-high tuning |
 | Cymbals | Zildjian A Custom Series | Zildjian ZBT hi-hats + crash (~$180) |
 | Pedal | Trick Pro 1-V Double Pedal | DW 3000 Double Pedal (~$150) |
 | Sticks | Vic Firth American Classic 5B | Promark 5B |
@@ -71,7 +71,7 @@ Cruz's playing combines Lamb of God's established groove-metal foundation with a
 A: Cruz filled in for Chris Adler on Lamb of God's 2018 North American tour supporting Slayer's farewell run, then officially became the band's drummer in 2019. He recorded the band's 2020 self-titled album and 2022's "Omens" as his first studio work with the band.
 
 **Q: What gear should I use to sound like Art Cruz?**  
-A: Cruz plays a Ludwig drum kit with a 14" x 6.5" Ludwig Black Beauty bronze snare, Zildjian A Custom cymbals, a Trick Pro 1-V double pedal, and Vic Firth American Classic 5B sticks.
+A: Cruz plays a Ludwig drum kit with a 14" x 6.5" Ludwig Black Beauty brass snare, Zildjian A Custom cymbals, a Trick Pro 1-V double pedal, and Vic Firth American Classic 5B sticks.
 
 **Q: What was Art Cruz's drumming background before Lamb of God?**  
 A: Cruz built his reputation through extensive touring and recording with Winds of Plague and Prong, developing the reliability, power, and versatility that made him a natural fit to handle Chris Adler's technical catalog live while bringing his own explosive dynamics to new material.

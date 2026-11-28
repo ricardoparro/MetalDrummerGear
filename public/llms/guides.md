@@ -2790,7 +2790,7 @@ Cruz's playing combines Lamb of God's established groove-metal foundation with a
 A: Cruz filled in for Chris Adler on Lamb of God's 2018 North American tour supporting Slayer's farewell run, then officially became the band's drummer in 2019 after Adler's departure. He recorded the band's 2020 self-titled album and 2022's "Omens" as his first studio work with the band.
 
 **Q: What gear should I use to sound like Art Cruz?**
-A: Cruz plays a Ludwig drum kit with a 14" x 6.5" Ludwig Black Beauty bronze snare, Zildjian A Custom cymbals, a Trick Pro 1-V double pedal, and Vic Firth American Classic 5B sticks. A Pearl Export kit with Zildjian ZBT cymbals approximates the full-bodied, powerful character on a budget.
+A: Cruz plays a Ludwig drum kit with a 14" x 6.5" Ludwig Black Beauty brass snare, Zildjian A Custom cymbals, a Trick Pro 1-V double pedal, and Vic Firth American Classic 5B sticks. A Pearl Export kit with Zildjian ZBT cymbals approximates the full-bodied, powerful character on a budget.
 
 **Q: What was Art Cruz's drumming background before Lamb of God?**
 A: Cruz built his reputation through extensive touring and recording with Winds of Plague and Prong, developing the reliability, power, and versatility that made him a natural fit to handle Chris Adler's technical catalog live while bringing his own explosive dynamics to new Lamb of God material.

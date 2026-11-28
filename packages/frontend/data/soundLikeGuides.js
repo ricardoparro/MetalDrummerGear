@@ -13379,7 +13379,7 @@ This guide breaks down the technique, gear, and practice approach behind Cruz's 
         size: '14" x 6.5"',
         shell: 'Brass (Black Beauty)',
         description: "The legendary Black Beauty's brass shell delivers a full, cutting crack with rich overtones — powerful enough to anchor Lamb of God's heaviest sections while staying sensitive for ghost-note dynamics.",
-        alternative: "Any 14\" brass or bronze shell snare tuned medium-high will approximate the crack."
+        alternative: "Any 14\" brass shell snare tuned medium-high will approximate the crack."
       },
       cymbals: {
         brand: 'Zildjian',
@@ -13504,7 +13504,7 @@ This guide breaks down the technique, gear, and practice approach behind Cruz's 
       },
       {
         question: "What gear should I use to sound like Art Cruz?",
-        answer: "Cruz plays a Ludwig drum kit with a 14\" x 6.5\" Ludwig Black Beauty bronze snare, Zildjian A Custom cymbals, a Trick Pro 1-V double pedal, and Vic Firth American Classic 5B sticks. A Pearl Export kit with Zildjian ZBT cymbals approximates the full-bodied, powerful character on a budget."
+        answer: "Cruz plays a Ludwig drum kit with a 14\" x 6.5\" Ludwig Black Beauty brass snare, Zildjian A Custom cymbals, a Trick Pro 1-V double pedal, and Vic Firth American Classic 5B sticks. A Pearl Export kit with Zildjian ZBT cymbals approximates the full-bodied, powerful character on a budget."
       },
       {
         question: "What was Art Cruz's drumming background before Lamb of God?",

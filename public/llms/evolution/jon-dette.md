@@ -54,7 +54,7 @@ Dette's longest relationship outside Slayer was with Testament, across two touri
 - **Hardware:** DW 9000 / Tama Iron Cobra Double Pedal — carried over from his Slayer era (unchanged)
 - **Sticks:** Pro-Mark / Vater 5B (unchanged)
 - **Heads:** Remo Powerstroke 3 (kicks), Emperor Coated (toms)
-- **Estimated kit cost (original, 1997):** ~$4,262
+- **Estimated kit cost (original, 1997):** ~$4,200
 
 **Key developments:**
 - Joined Testament in 1994 after John Tempesta's departure, his first of two touring-only stints
@@ -122,7 +122,7 @@ Since leaving Iced Earth, Dette has continued as one of metal's busiest session 
 | Era | Years | Kit Cost (Original) | Inflation-Adjusted |
 |---|---|---|---|
 | Slayer Touring Debut | 1996-1997 | $3,400 | ~$6,800 |
-| Testament: Two Touring Stints | 1994-1995, 1997-1998 | $4,262 | ~$6,900 |
+| Testament: Two Touring Stints | 1994-1995, 1997-1998 | $4,200 | ~$6,900 |
 | Iced Earth Touring Stint | 2013-2015 | $4,600 | ~$5,900 |
 | Present: Session Work & Continued Touring | 2015-present | $4,600 | ~$5,100 |
 

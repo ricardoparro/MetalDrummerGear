@@ -10,7 +10,7 @@ last_updated: "2026-06-30"
 
 # Inferno Drum Kit Evolution — Complete Timeline
 
-Inferno (Zbigniew Robert Promiński) joined Behemoth in 1997, replacing Baal Ravenlock, and has remained the band's drummer for over 25 years — the longest-serving member of the lineup. He anchored Behemoth's transition from raw black metal into one of extreme metal's most technically demanding and commercially successful blackened death metal acts. This timeline documents his complete gear evolution — from developing-era Pearl kits to the Pearl Reference Series / Paiste RUDE rig that powers "The Satanist" and "Opvs Contra Natvram."
+Inferno (Zbigniew Robert Promiński) joined Behemoth in 1997, replacing Baal Ravenlock. Apart from a brief departure around the 1999 release of "Satanica" (he returned in early 2000), he has remained the band's drummer for over 25 years — the longest-serving member of the lineup. He anchored Behemoth's transition from raw black metal into one of extreme metal's most technically demanding and commercially successful blackened death metal acts. This timeline documents his complete gear evolution — from developing-era Pearl kits to the Pearl Reference Series / Paiste RUDE rig that powers "The Satanist" and "Opvs Contra Natvram."
 
 See also: [Inferno drummer profile](/llms/drummers/inferno.md), [What's In Inferno's Kit](/llms/articles/whats-in-infernos-kit.md), [Demigod drum setup](/llms/articles/demigod-drum-setup.md), [The Satanist drum setup](/llms/articles/the-satanist-drum-setup.md)
 
@@ -21,7 +21,7 @@ See also: [Inferno drummer profile](/llms/drummers/inferno.md), [What's In Infer
 **Albums:** Satanica (1999); Thelema.6 (2000); Zos Kia Cultus (2002)
 **Tours:** Behemoth European underground tours 1997–2003
 
-Inferno joined Behemoth in 1997, replacing Baal Ravenlock as the band transitioned from pure black metal toward the blackened death metal sound that would define their career. "Satanica" (1999) marked his recording debut and the start of that stylistic shift, followed by "Thelema.6" (2000) and "Zos Kia Cultus" (2002), which progressively refined the band's technical death metal identity.
+Inferno joined Behemoth in 1997, replacing Baal Ravenlock as the band transitioned from pure black metal toward the blackened death metal sound that would define their career. "Satanica" (1999) marked his recording debut and the start of that stylistic shift. He left the band briefly around Satanica's 1999 release and returned in early 2000, then recorded "Thelema.6" (2000) and "Zos Kia Cultus" (2002), which progressively refined the band's technical death metal identity.
 
 - **Drums:** Pearl kits (developing endorsement) — standard production shells, double bass configuration
 - **Snare:** Pearl steel/maple snare, 14" standard configuration
@@ -34,6 +34,7 @@ Inferno joined Behemoth in 1997, replacing Baal Ravenlock as the band transition
 **Key developments:**
 - Joined Behemoth in 1997, replacing Baal Ravenlock
 - Recording debut on "Satanica" (1999), transitioning the band toward blackened death metal
+- Left briefly around Satanica's 1999 release, returned in early 2000
 - "Thelema.6" (2000) and "Zos Kia Cultus" (2002) refined the technical sound
 - No fixed gear endorsements yet — developing preferences across these early sessions
 
@@ -129,7 +130,7 @@ Inferno joined Behemoth in 1997, replacing Baal Ravenlock as the band transition
 ## FAQ
 
 **Q: How long has Inferno been Behemoth's drummer?**
-A: Inferno (Zbigniew Robert Promiński) joined Behemoth in 1997, replacing Baal Ravenlock, and has remained the band's drummer for over 25 years — the longest-serving member of the lineup. He has performed on every Behemoth album from "Satanica" (1999) onward.
+A: Inferno (Zbigniew Robert Promiński) joined Behemoth in 1997, replacing Baal Ravenlock. Apart from a brief departure around the 1999 release of "Satanica" (he returned in early 2000), he has remained the band's drummer for over 25 years — the longest-serving member of the lineup. He has performed on every Behemoth album from "Satanica" (1999) onward.
 
 **Q: What drum kit does Inferno play?**
 A: Inferno plays a Pearl Reference Series kit with double 22"×18" bass drums, two rack toms, and two floor toms. He prefers two separate triggered bass drums over a single kick with a double pedal, giving him independent tonal control during sustained blast-beat passages.

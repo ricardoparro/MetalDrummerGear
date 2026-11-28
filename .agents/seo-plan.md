@@ -19038,3 +19038,33 @@ Metrics 19:01 UTC: GA4 788u/847s/1,152v 7d, engagement 44.04%. GSC 18,221 impr/3
 4. The `#10443` unverified-snare family (Luzier/Augusto/Van Poederooyen/Wallgren) is now a proven lead for stale-mirror residue — consider checking whether `api/drummers/index.js`-adjacent gear-comparison/gear-finder mirrors for these same 4 names have the same residue, same method as this run.
 5. Drum-chair watch due 2026-11-30 (group 1, ISO-week rotation).
 6. GSC content-gap: 1 row, already held by CEO (trending positive) — no new action.
+
+## 2026-11-28 ~XX:XX UTC (SEO Agent run — 6 proposals filed #11220-11225, cleared the carry-over queue)
+
+### Bank check
+Bank at run start: 14 open `seo-proposal` (4 held founder-reverification #10032/#10099/#10655/#10656, 3 umbrellas #2211/#3810/#3819, 6 same-week items awaiting CEO triage #11173/#11205-11210 — all already promoted or in-flight by the time of this run per decisions-log). Well under the 45 floor → cleared to file up to 8 net-new. Today is Saturday — drum-chair watch skipped (not due; next Monday 2026-11-30, group 1).
+
+### Audit summary
+- Content-gap queries (impr≥50, CTR<2%) per metrics.md (refreshed 2026-11-28 01:02 UTC): none this snapshot ("no significant gaps detected").
+- Instead of opening a new sweep family, cleared the full carry-over backlog flagged by the last 2 runs: travis-orbin.md 3-way tenure conflict + 4 low-priority deferred candidates (inferno.md, navene-koperweis.md, jon-dette.md) + the `#10443` unverified-snare family's remaining lead (checking gear-comparison/gear-finder mirrors for Luzier/Augusto/Van Poederooyen/Wallgren).
+- Dispatched 5 parallel verification agents against ground truth (not just trusting prior-run framing) — all 5 returned real, non-duplicate findings. Personally reviewed each agent's file:line citations before filing.
+
+### Findings filed (all independently verified against live files + root data)
+1. **#11220 travis-orbin.md tenure/destination 3-way conflict** — `bands.js` (2008-2009 → Sky Eats Airplane) vs. `drummerEvolution.js`+`api/drummers/index.js` (2006-Feb 2009 → Sky Harbor/Darkest Hour, the latter already self-consistent per closed #8965). Closed #10654 explicitly deferred this reconciliation and it was never filed until now. Filed as founder-level re-verification, not a mechanical pick-a-side fix — same class as held #10032/#10099/#10655/#10656.
+2. **#11221 evolution/travis-orbin.md drumhead fabrication** — states Remo across all eras incl. current; verified Evans EMAD/G2 Coated since 2010 (#8318/#9523). Closed #9207 fixed this file's hardware/stick errors but never touched heads — residual gap. (Confirmed sticks are NOT wrong — 5B is correct, contra the two-runs-ago framing of "5A vs 5B".)
+3. **#11222 drummerEvolution.js + evolution/inferno.md tenure-continuity gap** — root file omits the 1999-2000 Behemoth departure/return around Satanica that `bands.js:2088/2104/2111/2126` documents; 3 closed issues (#9941/#10452/#10517) fixed this same fact in 3 other files but never this pair.
+4. **#11223 drummerEvolution.js Navene Koperweis self-contradiction** — era block correctly says 2009 (fixed by closed #9237) but 3 sibling locations in the same object (keyChanges bullet + 2 FAQ answers) still say 2010. `bands.js`/`api/drummers/index.js` both confirm 2009; the `.md` mirror is already correct — pure root-file internal-consistency fix, no regen needed.
+5. **#11224 evolution/jon-dette.md cost drift** — Testament-era original cost $4,262 in mirror vs. verified $4,200 in `drummerEvolution.js:20797-20801` (inflation-adjusted figure matches correctly in both; isolated single-field drift, the other 3 eras in this file are clean).
+6. **#11225 drummerComparisons.js Nick Augusto unhedged snare** — 3rd unswept module in the `#10443` family (after `soundLikeGuides.js` fixed by #10443, and the `.md` guide mirrors fixed by #11208/#11209 this week): 6 prose locations assert "Pearl Reference 14x6.5\" brass snare" as fact where the file's own metadata blocks are already hedged, cascading into 3 `public/llms/vs/*.md` mirrors. Checked the other 3 #10443-family drummers (Luzier, Van Poederooyen, Wallgren) — all already correctly hedged in this file and its mirrors; no gear-finder file exists in the repo.
+
+### Carry-over queue status
+All 5 items flagged as unfiled candidates across the last 2 runs (travis-orbin 3-way conflict, inferno, navene-koperweis, jon-dette) are now filed — this backlog is cleared. The #10443-family lead (checking gear-comparison/gear-finder) surfaced exactly 1 new finding (Nick Augusto/drummerComparisons.js) and is now closed out as a sweep target.
+
+### GSC / metrics
+Metrics 2026-11-28 01:02 UTC: GA4 702u/757s/1,035v 7d, engagement 46.90%. GSC 15,506 impr/260 clicks/1.68% CTR/pos 7.2. 0 content-gap rows — `joey jordison drum kit` (the row held across several prior runs) has dropped out of the top-10 query list entirely this snapshot, consistent with the "trending positive" read from the 2026-11-27 12:11 CEO decision.
+
+### Next run
+1. Watch #11220-11225 pick up via CEO triage/Roadie. #11220 should land in the founder-level re-verification queue (same as #10032/#10099/#10655/#10656), not straight to Roadie.
+2. No open carry-over candidates remain from prior runs — next run needs to pick a fresh unswept surface. Candidates not yet tried: `public/llms/gear-finder` (confirmed not to exist as a named file this run — verify this isn't a missing-feature gap worth flagging separately), or begin a fresh spot-check pass of `guides/how-to-sound-like-*` files that HAVE been referenced before (per the 2026-11-27 13:xx run's note that prior fixes to this family were sometimes partial).
+3. Drum-chair watch due 2026-11-30 (group 1, ISO-week rotation) — next run if it lands Monday.
+4. GSC content-gap: 0 rows, no CTR-fix proposal needed this run.

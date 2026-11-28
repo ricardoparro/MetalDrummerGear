@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-28 00:18 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-28 01:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 696 |
-| Sessions | 751 |
-| Page views | 1,029 |
-| Engagement rate | 46.87% |
+| Active users | 702 |
+| Sessions | 757 |
+| Page views | 1,035 |
+| Engagement rate | 46.90% |
 | Avg session (s) | 68 |
 
 ### Top pages (by page views, last 7d)
@@ -19,7 +19,7 @@
 | --- | --- | --- |
 | / | 48 | 31 |
 | /bpm | 35 | 33 |
-| /drummer/eloy-casagrande | 14 | 11 |
+| /drummer/eloy-casagrande | 15 | 12 |
 | /drummer/mario-duplantier | 14 | 10 |
 | /quiz | 13 | 5 |
 | /articles/reign-in-blood-drum-setup | 12 | 7 |
@@ -31,8 +31,8 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 433 | 379 |
-| Direct | 314 | 314 |
+| Organic Search | 438 | 384 |
+| Direct | 315 | 315 |
 | Unassigned | 13 | 13 |
 | AI Assistant | 1 | 1 |
 
@@ -43,8 +43,8 @@
 | United States | 180 | 161 |
 | Germany | 29 | 23 |
 | Canada | 23 | 20 |
-| Brazil | 18 | 17 |
-| United Kingdom | 18 | 17 |
+| Brazil | 20 | 19 |
+| United Kingdom | 19 | 18 |
 | Australia | 16 | 16 |
 | China | 14 | 13 |
 | France | 14 | 13 |

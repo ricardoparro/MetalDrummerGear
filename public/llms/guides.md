@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-11-23 · Source: https://metalforge.io
+> Last updated: 2026-11-28 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -2842,7 +2842,7 @@ Bent plays matched grip with a clean, controlled stroke honed in technical death
 A: Alex Bent was Trivium's drummer from 2017 to 2025, recording four studio albums: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), "In the Court of the Dragon" (2021), and "Struck Dead" (2025).
 
 **Q: What gear does Alex Bent use?**
-A: Bent plays a TAMA Starclassic Maple kit with a 14" x 6.5" maple snare, Zildjian K Custom Hybrid cymbals, an Axis A Longboard double pedal (endorsed since 2021; his earlier 2017-2021 Trivium years predate this deal), and Vic Firth 5B sticks.
+A: Bent plays a TAMA Starclassic Maple kit with a 14" x 5" maple snare, Zildjian K Custom Hybrid cymbals, an Axis A Longboard double pedal (endorsed since 2021; his earlier 2017-2021 Trivium years predate this deal), and Vic Firth 5B sticks.
 
 **Q: What was Alex Bent's background before Trivium?**
 A: Bent built his reputation in technical death metal with Brain Drill, Arkaik, and Battlecross, and filled in for Gene Hoglan on Testament tour dates. Producer Mark Lewis recommended him to Trivium in 2017.

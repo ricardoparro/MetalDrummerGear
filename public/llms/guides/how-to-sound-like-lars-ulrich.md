@@ -11,7 +11,7 @@ Lars Ulrich co-invented thrash metal. As Metallica's co-founder, primary songwri
 
 ## Kit Setup
 
-Lars has used multiple kits across his career. Classic albums (Kill 'Em All through ...And Justice for All) featured **Camco** and **Ludwig** drums. His current setup uses **Tama Starclassic** with maple/bubinga shells:
+Lars has used multiple kits across his career. Classic albums (Kill 'Em All through ...And Justice for All) featured **Camco** drums. His current setup uses **Tama Starclassic** with maple/bubinga shells:
 
 - **Kick Drums:** 22" x 18" (x2) with Tama Iron Cobra 900 Double Pedal
 - **Snare:** 14" x 6.5" Lars Ulrich Signature Snare (steel shell)
@@ -66,7 +66,7 @@ Lars uses **matched grip** with a powerful, arm-based stroke for crashes and a w
 ## FAQ
 
 **Q: What drums did Lars use on Master of Puppets?**  
-A: Lars used Camco drums on Master of Puppets, not Tama as is commonly assumed. He later switched to Tama. For the classic "Master of Puppets" sound, Camco or older Ludwig kits tuned tight and punchy are the reference point.
+A: Lars used Camco drums on Master of Puppets, not Tama as is commonly assumed. He later switched to Tama. For the classic "Master of Puppets" sound, a Camco kit tuned tight and punchy is the reference point.
 
 **Q: How do I get the Lars Ulrich drum sound?**  
 A: Tune tight and punchy — heavily muffled kick that thumps, high snare for crack, toms with controlled sustain. Zildjian A Custom cymbals provide the bright projection he's known for. Focus on serving the riff rather than showing off technically.

@@ -13752,7 +13752,7 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
       },
       {
         question: "What gear does Alex Bent use?",
-        answer: "Bent plays a TAMA Starclassic Maple kit with a 14\" x 6.5\" maple snare, Zildjian K Custom Hybrid cymbals, an Axis A Longboard double pedal (endorsed since 2021; his earlier 2017-2021 Trivium years predate this deal), and Vic Firth 5B sticks."
+        answer: "Bent plays a TAMA Starclassic Maple kit with a 14\" x 5\" maple snare, Zildjian K Custom Hybrid cymbals, an Axis A Longboard double pedal (endorsed since 2021; his earlier 2017-2021 Trivium years predate this deal), and Vic Firth 5B sticks."
       },
       {
         question: "What was Alex Bent's background before Trivium?",

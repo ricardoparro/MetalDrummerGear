@@ -52,7 +52,7 @@ A: Orbin left Periphery in February 2009, before the band wrote or recorded its 
 - **Cymbals:** Zildjian K Custom Dark *(unchanged)*
 - **Hardware:** DW 9000 Series Double Pedal *(unchanged)*
 - **Sticks:** Vic Firth American Classic 5B *(unchanged)*
-- **Heads:** Remo standard package
+- **Heads:** Evans EMAD / G2 Coated *(since 2010)*
 - **Estimated kit cost (original):** ~$8,900 (inflation-adjusted to 2026: ~$11,400)
 
 **Key developments:**
@@ -76,7 +76,7 @@ A: From 2016 onward, Orbin built a substantial solo career centered on drum play
 - **Cymbals:** Zildjian K Custom Dark *(unchanged)*
 - **Hardware:** DW 9000 Series Double Pedal *(unchanged)*
 - **Sticks:** Vic Firth American Classic 5B *(unchanged)*
-- **Heads:** Remo standard package *(Orbin left Periphery before 2010 and never adopted the Evans heads sometimes associated with the post-2010 Periphery lineup)*
+- **Heads:** Evans EMAD / G2 Coated *(since 2010)*
 - **Estimated kit cost (original):** ~$9,200 (inflation-adjusted to 2026: ~$10,500)
 
 **Key developments:**

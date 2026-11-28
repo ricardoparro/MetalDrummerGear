@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-27 19:07 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-28 00:18 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,66 +8,66 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 791 |
-| Sessions | 850 |
-| Page views | 1,156 |
-| Engagement rate | 44.12% |
+| Active users | 696 |
+| Sessions | 751 |
+| Page views | 1,029 |
+| Engagement rate | 46.87% |
 | Avg session (s) | 68 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /bpm | 73 | 71 |
 | / | 48 | 31 |
-| /drummer/eloy-casagrande | 18 | 15 |
+| /bpm | 35 | 33 |
+| /drummer/eloy-casagrande | 14 | 11 |
 | /drummer/mario-duplantier | 14 | 10 |
 | /quiz | 13 | 5 |
 | /articles/reign-in-blood-drum-setup | 12 | 7 |
-| /drummer/bill-ward | 12 | 9 |
-| /drummer/igor-cavalera | 12 | 8 |
-| /drummers | 12 | 7 |
 | /articles/slipknot-self-titled-drum-setup | 11 | 8 |
+| /drummer/bill-ward | 11 | 8 |
+| /drummer/igor-cavalera | 11 | 7 |
+| /drummers/nick-menza/evolution | 11 | 3 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 455 | 397 |
-| Direct | 390 | 390 |
-| Unassigned | 10 | 10 |
+| Organic Search | 433 | 379 |
+| Direct | 314 | 314 |
+| Unassigned | 13 | 13 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| Singapore | 308 | 309 |
-| United States | 187 | 170 |
-| Germany | 34 | 28 |
+| Singapore | 247 | 248 |
+| United States | 180 | 161 |
+| Germany | 29 | 23 |
 | Canada | 23 | 20 |
-| United Kingdom | 22 | 19 |
 | Brazil | 18 | 17 |
+| United Kingdom | 18 | 17 |
 | Australia | 16 | 16 |
-| China | 15 | 14 |
+| China | 14 | 13 |
 | France | 14 | 13 |
-| Netherlands | 13 | 12 |
+| Finland | 11 | 10 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 18,221 |
-| Clicks | 313 |
-| CTR | 1.72% |
+| Impressions | 15,506 |
+| Clicks | 260 |
+| CTR | 1.68% |
 | Avg position | 7.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 27 | 3 | 11.11% | 7.1 |
+| mario duplantier drum kit | 18 | 3 | 16.67% | 6.2 |
 | charlie benante drum kit | 10 | 2 | 20.00% | 5.7 |
 | death metal drum kit | 4 | 2 | 50.00% | 1.5 |
-| gavin harrison cymbal setup | 14 | 2 | 14.29% | 4.6 |
+| gavin harrison cymbal setup | 11 | 2 | 18.18% | 4.6 |
 | jaska raatikainen drum set | 6 | 2 | 33.33% | 8.5 |
 | shannon larkin drum kit | 11 | 2 | 18.18% | 4.5 |
-| best black metal drummers | 14 | 1 | 7.14% | 4.5 |
+| best black metal drummers | 13 | 1 | 7.69% | 4.8 |
 | best china cymbals for metal | 6 | 1 | 16.67% | 5.7 |
 | best cymbals for metal | 5 | 1 | 20.00% | 7.2 |
 | bill ward drum setup 1970 | 3 | 1 | 33.33% | 3.7 |
@@ -75,21 +75,19 @@
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 6,718 | 106 | 1.58% | 7.4 |
-| deu | 743 | 23 | 3.10% | 6.1 |
-| can | 879 | 15 | 1.71% | 7.1 |
-| aus | 761 | 11 | 1.45% | 6.8 |
-| fra | 353 | 11 | 3.12% | 7.1 |
-| gbr | 1,096 | 10 | 0.91% | 7.1 |
-| nld | 278 | 10 | 3.60% | 6.2 |
-| bra | 644 | 8 | 1.24% | 8.7 |
-| rus | 223 | 8 | 3.59% | 6.9 |
-| fin | 264 | 7 | 2.65% | 5.9 |
+| usa | 5,734 | 91 | 1.59% | 7.3 |
+| deu | 637 | 16 | 2.51% | 6.0 |
+| can | 727 | 14 | 1.93% | 7.1 |
+| fra | 306 | 10 | 3.27% | 7.0 |
+| aus | 634 | 8 | 1.26% | 6.7 |
+| bra | 543 | 8 | 1.47% | 8.8 |
+| fin | 219 | 7 | 3.20% | 5.8 |
+| pol | 234 | 7 | 2.99% | 6.5 |
+| rus | 190 | 7 | 3.68% | 6.7 |
+| chl | 111 | 6 | 5.41% | 5.9 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-| Query | Impr | CTR | Pos | Action |
-| --- | --- | --- | --- | --- |
-| joey jordison drum kit | 52 | 1.92% | 8.6 | open issue to answer better |
+_no significant gaps detected — all queries with traction have decent CTR_
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -53,7 +53,7 @@ Portnoy uses **matched grip** with fluid transitions between wrist-led precision
 | Drum Kit | Tama Starclassic | Tama Imperialstar with extra tom (~$550) |
 | Snare | Tama Signature Melody Master 14" x 5.5" | Tama Starclassic Maple 14" x 5.5" or Ludwig Supraphonic |
 | Cymbals | Sabian HHX MAX / AAX MAXX selection | Sabian SBR selection (~$400) |
-| Double Pedal | Not independently verified | Tama Iron Cobra 200 Double (~$150) |
+| Double Pedal | Tama Iron Cobra Power Glide Twin Pedal (HP900PSW) | Tama Iron Cobra 200 Double (~$150) |
 | Sticks | Promark TXMP420XW-AG (Mike Portnoy Signature) | Promark TX5AW or Vic Firth 5A |
 | Kick Head | Remo Powerstroke P3 Clear | Remo Powerstroke P3 Clear (already accessible) |
 

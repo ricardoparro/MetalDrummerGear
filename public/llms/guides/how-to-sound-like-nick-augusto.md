@@ -16,7 +16,7 @@ Nick Augusto joined Trivium in 2010 following the departure of Travis Smith, ste
 Augusto played a **Pearl Reference Pure** kit, paired with a DW 9000 Series double pedal for the punchy, attack-focused tone behind his driving double bass work:
 
 - **Kick Drum:** 22" x 18" Bass Drums (double kick)
-- **Snare:** Pearl Reference 14" x 6.5" Brass
+- **Snare:** Pearl snare (specific model not independently verified)
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 16"
 - **Cymbals:** Sabian AAX Series — 14" AAX Stage Hi-Hats, 18"/19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China
@@ -49,7 +49,7 @@ Augusto plays **matched grip** with an aggressive, high-energy attack rooted in 
 | Item | Augusto's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Pearl Reference Pure | Pearl Export or Pearl Decade Maple (~$650) |
-| Snare | Pearl Reference 14" x 6.5" Brass | Pearl Sensitone Steel or Ludwig Supraphonic |
+| Snare | Pearl (specific model not independently verified) | Pearl Sensitone Steel or Ludwig Supraphonic |
 | Cymbals | Sabian AAX Series | Sabian B8X Pack (~$250) |
 | Pedal | DW 9000 Series Double | Pearl Eliminator or DW 5000 |
 | Sticks | Pro-Mark Nylon Tip 5B | Vater Power 5B or Regal Tip 5B |
@@ -71,7 +71,7 @@ Augusto plays **matched grip** with an aggressive, high-energy attack rooted in 
 A: Nick Augusto was Trivium's drummer from 2010 to 2014, recording two studio albums: "In Waves" (2011) and "Vengeance Falls" (2013).
 
 **Q: What gear did Nick Augusto use with Trivium?**  
-A: Augusto played a Pearl Reference Pure kit with a Pearl Reference 14" x 6.5" Brass snare, Sabian AAX Series cymbals, a DW 9000 Series double pedal, and Pro-Mark Nylon Tip 5B sticks.
+A: Augusto played a Pearl Reference Pure kit with a Pearl snare (the specific model has not been independently verified), Sabian AAX Series cymbals, a DW 9000 Series double pedal, and Pro-Mark Nylon Tip 5B sticks.
 
 **Q: Why did Nick Augusto leave Trivium?**  
 A: Augusto parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro, and Alex Bent later joined the band in 2017.

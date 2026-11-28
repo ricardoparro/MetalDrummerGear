@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-28 00:18 UTC*
 
 ---
+## 2026-11-28 12:10 (daily deep run — 7/7 proposals verified+promoted #11232-11238, logged Roadie-reclaim lesson from #11173)
+### Context
+First run after 07:00 UTC today. Backlog 0 eligible ai-fix going in (06:13's #11221-11225 batch + 11-27's #11189-11210 batches all merged/closed, confirmed via git log — last 20 commits all `fix: #112xx`). 7 fresh proposals (#11232-11238, filed 07:08-07:10 UTC, continuing the `guides/how-to-sound-like-*.md` fabrication sweep) were the only untriaged items. No open PRs.
+
+### Actions taken
+- **Live-verified all 7 directly against ground truth** (`soundLikeGuides.js`, `drummerEvolution.js`, `api/drummers/index.js`) before promoting, not just issue text — spot-checked 3 of 7 against live files in full (abe-cunningham sticks, lars-ulrich Ludwig claim, mike-portnoy pedal hedge), all exact:
+  - #11232 abe-cunningham.md: confirmed `soundLikeGuides.js:15350-15354` sticks block reads `brand: 'Pro-Mark', model: 'Pro-Mark (specific model unverified)'` — the `.md`'s "Zildjian Abe Cunningham Artist Series" (3 locations) is a flat fabrication, no such signature stick exists anywhere in the codebase.
+  - #11233 alex-bent.md: FAQ field inside `soundLikeGuides.js` itself (line 13756, "14\" x 6.5\"") was never swept when #10932 fixed the same snare depth to 14"x5" in 2 other locations of the same entry — root-cause fix, not just mirror sync. Cross-module Trivium tenure conflict correctly flagged, not silently resolved.
+  - #11234 george-kollias.md: kit model "Pearl Reference Pure" belongs to a different drummer (Daniel Erlandsson) and to Kollias's own aspirational budget tier, wrongly promoted into the factual section; heads fabricated as specific Remo models vs root's plain `brand: 'Evans'`.
+  - #11235 jason-bittner: `drumsticks.js:491-505` explicitly flags the TX5BXN SKU as retired ("do not wire affiliate links") but `soundLikeGuides.js` + its `.md` still present it as current gear, including recommending it in a "Budget Alternative" buy table — same defect class #11210 just fixed in `brands/pro-mark.md` for the same drummer, never propagated here.
+  - #11236 lars-ulrich.md: confirmed `drummerEvolution.js` lines 59/129 — classic era is Camco→Tama Artstar II, zero Ludwig. The only "Ludwig" in his entire timeline (line 277) is a one-off *borrowed* St. Anger-era (2001-2008) snare, explicitly noted as "not a Tama" — the `.md` misattributes this 20-years-later one-off snare to an entire classic-era drum kit.
+  - #11237 mike-portnoy.md: confirmed `api/drummers/index.js:1002` + `soundLikeGuides.js:990/1002` both state `Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)` plainly, no hedge — the `.md`'s "Not independently verified" is an inverted-hedge bug (claiming uncertainty about a confirmed fact), likely a leftover from before #9492/#6378 fixed the rest of the file's brand set.
+  - #11238 paul-bostaph.md: wholesale rig fabrication (ddrum/Zildjian/Vic-Firth vs verified Pearl Masters/Sabian AAX/Pearl Eliminator/Vater) — not isolated drift, the entire gear section needs rewriting to match `soundLikeGuides.js` ~line 7290-7560.
+  - All 7 dupe-checked (`gh issue list --state all --search` per filename) — zero open dupes, only unrelated closed hits on each entity → all 7 promoted `ai-fix`.
+- **Logged a new learned-patterns rule from #11173** (the `/quotes` 0/35-verified-quotes issue, reclassified to `human-founder` at 00:18 today): found it had been claimed-and-stalled by Roadie **6 more times after** the 12:11-run-11-27 CEO comment explicitly authorized proceeding with deletion (13:17/15:17/17:16/19:05/23:07/23:11 UTC) — the authorization comment alone did nothing; only the eventual label change (`ai-fix`→`human-founder`) stopped the reclaim loop. Appended the rule to `.agents/seo/learned-patterns.md`: an unblock/authorization comment is exactly as toothless as a hold comment (extends the existing line-274 Rule 3) — a CEO decision that changes what Roadie should do must change the label in the same action, not just explain itself in prose.
+- Checked held proposals #10032/#10099/#10655/#10656 + #11220 (held `human`, labeled 06:14 today) + 3 umbrellas (#2211/#3810/#3819) — all unchanged, no re-spam. `human-founder` queue (#11173/#10174/#5141/#5100/#4892/#875/#529/#526/#525) unchanged since each was last touched.
+- GSC content-gap row reviewed, not escalated: `joey jordison drum kit` still 60 impr/1.67% CTR/pos 8.4 — identical to the 06:13 run, no new movement to act on; `gsc-watch-snapshot.md`/`indexation-snapshot.md`/llm-citations (#2211) all still dated 2026-11-23, weekly refresh due ~2026-11-30, nothing new to close the loop on. Founder ideas inbox confirmed empty (unchanged since 2026-06-19). Epics #4763/#4767-4771 all confirmed CLOSED (shipped) — no open strategic epics need a status check this run.
+- Atomic-split sweep: the 7 new ai-fix issues are all <5h old — nothing eligible.
+
+### State delta
+- Backlog: 0 eligible ai-fix → 7 (#11232-11238, same-run promotions) · proposal bank: 7 fresh → 0 (excl. 4 held #10032/#10099/#10655/#10656 + #11220 held `human` + 3 umbrellas, all unchanged)
+- Org/Sessions/Views (7d): 749 / 805 / 1,095 · GSC 19,828 impr / 330 clicks / 1.66% CTR / pos 7.2, 1 content-gap row (reviewed, held, no change since last review)
+
+### Quota check
+7/7 proposals triaged and promoted (backlog 7, well under 45 cap — promote liberally). GSC-gap: 1 qualifying row, reviewed and held (no movement since last check). No L1/L2/L3-sourced issues this run (no new weekly refresh, due ~11-30). Founder ideas: none. Atomic-split: nothing eligible. Decisions logged, including the #11173 process lesson.
+
+### Next Run
+- First run after 13:00 UTC is the mid-day pulse — confirm this 7-issue batch merges clean.
+- Watch for the 2026-11-30 weekly L1/L2/L3 refresh — that's the next point to re-check `joey jordison drum kit` and the L2 cited-count floor.
+- `guides/how-to-sound-like-*.md` sweep shows no sign of exhaustion — keep live-verifying each batch.
+
+---
 ## 2026-11-28 06:13 (cheap pulse — 5/6 proposals verified+promoted #11221-11225, 1 held as cross-module conflict)
 ### Context
 Pre-07:00 cheap pulse. Backlog 0 eligible ai-fix going in (prior 00:18 batch #11205-11210 not yet checked for merge status, 0 open PRs). 6 fresh proposals (filed 01:06 UTC, continuing the `evolution/*.md` + `drummerEvolution.js`/`drummerComparisons.js` fabrication sweep) were the only untriaged items.

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-28 08:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-28 12:09 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,44 +8,44 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 737 |
-| Sessions | 794 |
-| Page views | 1,076 |
-| Engagement rate | 47.61% |
-| Avg session (s) | 67 |
+| Active users | 749 |
+| Sessions | 805 |
+| Page views | 1,095 |
+| Engagement rate | 47.83% |
+| Avg session (s) | 71 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 52 | 36 |
+| / | 53 | 37 |
 | /bpm | 35 | 33 |
 | /drummer/eloy-casagrande | 16 | 13 |
 | /drummer/mario-duplantier | 15 | 11 |
 | /quiz | 13 | 5 |
+| /articles/from-mars-to-sirius-drum-setup | 12 | 11 |
 | /articles/reign-in-blood-drum-setup | 12 | 7 |
 | /drummer/igor-cavalera | 12 | 8 |
-| /articles/from-mars-to-sirius-drum-setup | 11 | 10 |
 | /articles/slipknot-self-titled-drum-setup | 11 | 8 |
 | /drummer/bill-ward | 11 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 464 | 408 |
-| Direct | 325 | 325 |
-| Unassigned | 16 | 16 |
+| Organic Search | 469 | 414 |
+| Direct | 331 | 331 |
+| Unassigned | 6 | 6 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| Singapore | 251 | 252 |
-| United States | 198 | 178 |
-| Germany | 30 | 24 |
+| Singapore | 255 | 256 |
+| United States | 199 | 179 |
+| Germany | 31 | 25 |
 | Canada | 27 | 24 |
 | Brazil | 21 | 20 |
 | United Kingdom | 19 | 18 |
-| Australia | 17 | 17 |
+| Australia | 18 | 18 |
 | China | 14 | 13 |
 | France | 14 | 13 |
 | Poland | 12 | 9 |

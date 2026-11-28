@@ -15,23 +15,23 @@ The clearest example is "Disciple" from God Hates Us All (2001) — a mid-tempo 
 
 ## Kit Setup
 
-Paul plays **ddrum Paladin Series** drums (his current endorsement since 2013):
+Paul plays a **Pearl Masters Maple Complete (MCX)** — the all-maple, double-bass professional line producer Terry Date brought in for the Repentless (2015) sessions:
 
 - **Kick Drums:** 22" x 18" (x2) — double kick for continuous thrash double-bass
-- **Snare:** 14" x 6.5" ddrum Paladin Maple (warm crack, cuts through dense tunings)
+- **Snare:** 14" x 6.5" Pearl Masters Steel (powerful, cutting crack, tuned medium-high for Terry Date's dry Repentless mix)
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 14", 18" x 16"
-- **Cymbals:** Zildjian A Custom Series — 14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" A Custom Ride, 18" A Custom China
-- **Pedals:** ddrum Mercury Double Pedal (chain-drive for smooth groove double-bass feel)
-- **Sticks:** Vic Firth American Classic 5B
-- **Heads:** Evans EQ3 Clear (kick), Evans G2 Coated (snare/toms), Evans G1 Clear (resonant)
+- **Cymbals:** Sabian AAX Series — 14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China
+- **Pedals:** Pearl Eliminator Double Pedal (smooth, consistent feel for groove double-bass)
+- **Sticks:** Vater Power 5B
+- **Heads:** Remo Powerstroke 3 (kick), Remo Emperor Coated (snare/toms), Remo Ambassador (resonant)
 
 ## Tuning & Setup
 
 Bostaph tunes for power and punch. Thrash metal requires drums that cut through dense guitar arrangements with authority:
 
 - **Kick:** Medium tension with pillow/foam contact muffling — focused, punchy attack with controlled sustain. Full deadening makes the kick too thin and loses the power that groove-thrash requires.
-- **Snare:** Medium-high tension for warm, powerful crack. The 14" x 6.5" maple snare's extra depth provides volume and body without overtuning — tune batter and resonant heads to the same pitch for a full, balanced sound.
+- **Snare:** Medium-high tension for a cutting crack. The steel shell gives the 14" x 6.5" snare more bite than a wood shell — tune batter and resonant heads to the same pitch for a full, balanced sound.
 - **Toms:** Medium tension with one Moongel per tom. Clearly distinct tom pitches help fast fills read clearly in dense thrash mixes.
 
 ## Technique Tips
@@ -51,14 +51,14 @@ Bostaph uses **matched grip** with a firm, controlled wrist-led technique. His p
 
 | Item | Paul's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | ddrum Paladin Series (22" kicks) | Pearl Export (~$550) |
-| Snare | ddrum Paladin 14" x 6.5" Maple | Pearl Sensitone Maple 14" x 6.5" |
-| Cymbals | Zildjian A Custom Series | Zildjian S Series (~$300) |
-| Double Pedal | ddrum Mercury Double Pedal | Pearl P932 Double Pedal (~$150) |
-| Sticks | Vic Firth 5B | Vater 5B |
-| Kick Head | Evans EQ3 Clear | Evans EMAD |
+| Drum Kit | Pearl Masters Maple Complete (MCX), 22" kicks | Pearl Export (~$550) |
+| Snare | Pearl Masters Steel 14" x 6.5" | Pearl Sensitone Steel 14" x 6.5" |
+| Cymbals | Sabian AAX Series | Sabian XS20 Series (~$300) |
+| Double Pedal | Pearl Eliminator Double Pedal | Pearl P932 Double Pedal (~$150) |
+| Sticks | Vater Power 5B | Vater Power 5B (~$10) |
+| Kick Head | Remo Powerstroke 3 | Remo Powerstroke 3 |
 
-**Starter budget path (~$1,000):** Pearl Export + Zildjian S Series + Pearl P932 double pedal. See [/brands/zildjian](https://metalforge.io/brands/zildjian) and [/brands/pearl](https://metalforge.io/brands/pearl).
+**Starter budget path (~$1,000):** Pearl Export + Sabian XS20 Series + Pearl P932 double pedal. See [/brands/sabian](https://metalforge.io/brands/sabian) and [/brands/pearl](https://metalforge.io/brands/pearl).
 
 ## Practice Routine
 
@@ -72,7 +72,7 @@ Bostaph uses **matched grip** with a firm, controlled wrist-led technique. His p
 ## FAQ
 
 **Q: What drum kit does Paul Bostaph play?**  
-A: Paul Bostaph plays ddrum Paladin Series drums — ddrum's professional maple line. His setup includes double 22" x 18" kick drums, 10" and 12" rack toms, 14" and 16" floor toms, and a 14" x 6.5" ddrum Paladin maple snare. He became a ddrum endorser during his return to Slayer in 2013, using this setup on Repentless (2015) and the band's final world tour.
+A: Paul Bostaph played a Pearl Masters Maple Complete (MCX) — Pearl's all-maple, double-bass professional line. His setup included double 22" x 18" kick drums, 10" and 12" rack toms, 14" and 16" floor toms, and a 14" x 6.5" Pearl Masters Steel snare. He recorded Repentless (2015) on this kit and played it throughout Slayer's Final World Tour.
 
 **Q: How does Paul Bostaph's drumming differ from Dave Lombardo's?**  
 A: The key difference is feel. Lombardo's playing is pure attack-forward aggression where every hit is an assault. Bostaph brings a groove-based approach where the double bass and blast beats are locked into a pocket, serving the rhythm guitar's feel rather than overwhelming it. Lombardo's genius is chaos and energy; Bostaph's genius is precision and groove. Both serve their respective Slayer eras effectively — Divine Intervention and God Hates Us All are intentionally different from Reign in Blood and South of Heaven.
@@ -81,7 +81,7 @@ A: The key difference is feel. Lombardo's playing is pure attack-forward aggress
 A: Yes. Bostaph played on God Hates Us All (2001), which won the Grammy Award for Best Metal Performance for 'Disciple'. He recorded the entire album during his first stint with Slayer, demonstrating his groove-thrash approach at its most developed. He also recorded Repentless (2015) during his second stint with the band.
 
 **Q: What cymbals does Paul Bostaph use?**  
-A: Bostaph uses Zildjian A Custom cymbals. His setup includes 14" A Custom hi-hats, 18" and 19" A Custom crashes, a 21" A Custom ride, and an 18" A Custom China. The A Custom series' brilliant finish and bright, cutting tone projects cleanly through Slayer's dense guitar arrangements.
+A: Paul Bostaph plays Sabian AAX Series cymbals. His Repentless-era setup includes 14" AAX Stage hi-hats, 17" and 19" AAX X-Plosion crashes, a 21" AAX Stage Ride, and an 18" AAXtreme China. The AAX series' bright finish and cutting tone projects clearly through Slayer's dense guitar arrangements.
 
 **Q: What bands did Paul Bostaph play with before Slayer?**  
 A: Before joining Slayer in 1992, Bostaph established his reputation in the San Francisco Bay Area thrash scene with Forbidden (1987-1992), recording the albums Forbidden Evil (1988) and Twisted Into Form (1990).

@@ -15108,10 +15108,10 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
       },
       sticks: {
         brand: 'ProMark',
-        model: 'ProMark Jason Bittner Signature 5BX',
+        model: 'ProMark Jason Bittner Signature 5BX (TX5BXN) — retired/discontinued',
         specs: 'Hickory, oversized 5B diameter with signature taper',
-        description: "Bittner's signature 5BX, played since 1997, provides the mass needed to drive Zildjian K and A Custom cymbals and Saturn V shells at full metal volume, while the signature taper keeps wrist balance for ghost notes and cross-stick work.",
-        alternative: "ProMark 5B for a very similar weight and feel"
+        description: "Bittner's signature 5BX, played since 1997, provided the mass needed to drive Zildjian K and A Custom cymbals and Saturn V shells at full metal volume, while the signature taper kept wrist balance for ghost notes and cross-stick work. SKU retired per D'Addario's Retired Models page — historical signature, no longer purchasable new; not a current budget recommendation.",
+        alternative: "ProMark 5B for a very similar weight and feel (the signature 5BX itself is retired and not available to buy)"
       },
       heads: {
         kick: 'Evans EMAD (batter), Evans G2 Coated (resonant)',

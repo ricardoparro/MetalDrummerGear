@@ -21,7 +21,7 @@ Jason Bittner plays a **Mapex Saturn V** kit with all-maple shells:
 - **Floor Toms:** 14", 16"
 - **Cymbals:** Zildjian K and A Custom Series — Zildjian K 14" Hi-Hats, Zildjian A Custom 18" Crash, Zildjian A Custom 19" Crash, Zildjian K Custom 21" Ride, Zildjian K 18" China
 - **Pedals:** Mapex Falcon Double Pedal
-- **Sticks:** ProMark Jason Bittner Signature 5BX
+- **Sticks:** ProMark Jason Bittner Signature 5BX (TX5BXN) — retired/discontinued, historical signature only
 - **Heads:** Evans EMAD (kick batter), Evans G2 Coated (kick resonant, snare batter, toms), Evans Snare Side (snare resonant), Evans G1 Clear (resonant)
 
 The all-maple shell pack delivers focused attack while adding tonal warmth, keeping the kit from sounding brittle against dense, distorted guitars in both Shadows Fall's NWOAHM arrangements and Overkill's thrash context.
@@ -54,7 +54,7 @@ Bittner's technique is built on dynamic control across two distinct vocabularies
 | Snare | Mapex Black Panther Brass 14" x 6.5" | Pearl Sensitone Brass or Tama Bell Brass |
 | Cymbals | Zildjian K and A Custom Series | Zildjian ZBT Pack (~$200) |
 | Pedal | Mapex Falcon Double Pedal | Mapex P400 Double (~$150) |
-| Sticks | ProMark Jason Bittner Signature 5BX | ProMark 5B |
+| Sticks | ProMark Jason Bittner Signature 5BX (retired — not purchasable new) | ProMark 5B |
 
 **Starter budget path (~$900):** Mapex Tornado + Zildjian ZBT pack + Mapex P400 double pedal. See [/brands/mapex](https://metalforge.io/brands/mapex) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
 

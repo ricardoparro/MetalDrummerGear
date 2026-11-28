@@ -18511,7 +18511,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Animals as Leaders in 2010',
+          'Joined Animals as Leaders in 2009',
           'Recorded Weightless (2011), a djent-genre landmark',
           '"Tooth and Claw" introduced his riff-locked double-bass technique',
           'Meinl Cymbals endorsement began — the one constant across his entire career',
@@ -18660,11 +18660,11 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'Was Navene Koperweis in Animals as Leaders?',
-        a: 'Yes — Koperweis was Animals as Leaders\' drummer from 2010 to 2012, recording the djent landmark "Weightless" (2011), including "Tooth and Claw," which introduced his riff-locked double-bass technique. He later returned to co-produce the band\'s "The Joy of Motion" (2014).',
+        a: 'Yes — Koperweis was Animals as Leaders\' drummer from 2009 to 2012, recording the djent landmark "Weightless" (2011), including "Tooth and Claw," which introduced his riff-locked double-bass technique. He later returned to co-produce the band\'s "The Joy of Motion" (2014).',
       },
       {
         q: 'What bands has Navene Koperweis played in?',
-        a: 'Navene Koperweis has drummed for Animosity (2003–2008), Animals as Leaders (2010–2012), and Entheos (2015–present), which he founded with vocalist Chaney Crabb. He has also done session work for Whitechapel and Machine Head.',
+        a: 'Navene Koperweis has drummed for Animosity (2003–2008), Animals as Leaders (2009–2012), and Entheos (2015–present), which he founded with vocalist Chaney Crabb. He has also done session work for Whitechapel and Machine Head.',
       },
       {
         q: 'What cymbals does Navene Koperweis use?',

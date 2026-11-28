@@ -9,10 +9,10 @@ Pro-Mark is a Houston, Texas drumstick maker founded in 1957 by Herb Brochstein,
 - Mike Portnoy (Dream Theater, The Winery Dogs) — TXMP420XW-AG ActiveGrip 420X (oversized 5A)
 - Chris Adler (Lamb of God) — TX5AXW Signature (slightly longer 5A)
 - Eloy Casagrande (Slipknot, ex-Sepultura) — TXECW Signature
-- Gene Hoglan (Death, Testament, Dethklok) — TX2BN Classic Forward 2B
+- Gene Hoglan (Death, Testament, Dethklok) — 2B Classic Forward (exact tip variant — wood vs. nylon — not independently confirmed)
 - Matt Halpern (Periphery) — TXMHW Signature (2B weight, plays like 5B)
 - Aquiles Priester (ex-Angra, Hangar) — TX419W Autograph 419 (2B-class)
-- Jason Bittner (Overkill, Shadows Fall) — TX5BXN Jason Bittner Signature 5BX
+- Jason Bittner (Overkill, Shadows Fall) — TX5BXN Jason Bittner Signature 5BX (historical signature model, retired per D'Addario)
 
 ## Key Pro-Mark Product Lines for Metal
 

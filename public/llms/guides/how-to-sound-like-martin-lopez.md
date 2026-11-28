@@ -13,14 +13,14 @@ What separates Lopez from most extreme metal drummers is dynamic range treated a
 
 ## Kit Setup
 
-Lopez plays a **Noble & Cooley Walnut** kit:
+Lopez plays a **Sonor Designer Series** maple kit:
 
 - **Kick Drum:** 22" x 18" Bass Drum (single, with double pedal)
-- **Snare:** 14" x 6" Noble & Cooley Solid Shell Maple
-- **Rack Toms:** 10", 12"
-- **Floor Toms:** 14", 16"
-- **Cymbals:** Zildjian K Dark Series — 14" K Dark Thin hi-hats, 18"/20" K Dark Medium Thin crashes, 22" K Dark Light ride, 18" K China
-- **Pedal:** Axis Percussion Double Pedal
+- **Snare:** Sonor Designer Series maple snare (matched to kit)
+- **Rack Toms:** 10" x 8", 12" x 9"
+- **Floor Toms:** 14" x 12", 16" x 14"
+- **Cymbals:** Sabian HH / AAX Series — 14" HH Hi-Hats, 16"/18" AAX Medium Crashes, 21" HH Raw Bell Dry Ride, 18" AAX Chinese
+- **Pedal:** No pedal brand confirmed for the 1997-2006 Opeth era
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Remo Powerstroke 3 (kick), Remo Coated Ambassador (snare), Remo Ambassador Coated (toms)
 
@@ -48,14 +48,14 @@ Lopez's technique is built around seamless transitions between extreme metal bru
 
 | Item | Lopez's Spec | Budget Alternative |
 |------|-------------|-------------------|
-| Drum Kit | Noble & Cooley Walnut | Pearl Export (~$700) |
-| Snare | Noble & Cooley Solid Shell Maple 14" x 6" | Any solid-shell maple snare, sensitivity-tuned |
-| Cymbals | Zildjian K Dark Series | Zildjian Planet Z hi-hats + crash (~$150) |
-| Pedal | Axis Percussion Double Pedal | DW 3000 Double Pedal (~$150) |
+| Drum Kit | Sonor Designer Series (Maple) | Pearl Export (~$700) |
+| Snare | Sonor Designer Series maple snare (matched to kit) | Any solid-shell maple snare, sensitivity-tuned |
+| Cymbals | Sabian HH / AAX Series | Sabian SBR hi-hats + crash (~$150) |
+| Pedal | No pedal brand confirmed for the 1997-2006 Opeth era | DW 3000 Double Pedal (~$150) |
 | Sticks | Vic Firth American Classic 5A | Promark TX5AW or Vater Los Angeles 5A |
 | Heads | Remo Powerstroke 3 / Coated Ambassador | Same specs |
 
-**Starter budget path (~$1,000):** Pearl Export + Zildjian Planet Z + DW 3000 double pedal. See [/brands/zildjian](https://metalforge.io/brands/zildjian) and [/gear/pedals](https://metalforge.io/gear/pedals).
+**Starter budget path (~$1,000):** Pearl Export + Sabian SBR + DW 3000 double pedal. See [/brands/sabian](https://metalforge.io/brands/sabian) and [/gear/pedals](https://metalforge.io/gear/pedals).
 
 ## Practice Routine
 
@@ -71,7 +71,7 @@ Lopez's technique is built around seamless transitions between extreme metal bru
 A: Martin Lopez drummed for Opeth from 1997 to 2006, anchoring the band's most celebrated creative era across "My Arms, Your Hearse," "Still Life," "Blackwater Park," "Deliverance," "Damnation," and "Ghost Reveries." His jazz- and classically-trained dynamic range helped define progressive death metal's genre-blending identity. He co-founded Soen in 2010.
 
 **Q: What gear should I use to sound like Martin Lopez?**  
-A: Lopez plays Noble & Cooley Walnut drums with a Noble & Cooley Solid Shell 14" x 6" Maple snare, Zildjian K Dark Series cymbals, an Axis Percussion double pedal, and Vic Firth American Classic 5A sticks.
+A: Lopez plays a Sonor Designer Series maple kit with a matching Sonor Designer Series maple snare, Sabian HH / AAX Series cymbals, and Vic Firth American Classic 5A sticks. No specific pedal brand has been independently verified for his 1997-2006 Opeth tenure.
 
 **Q: What tempo should I practice at to sound like Martin Lopez?**  
 A: Practice across a wide tempo range, from slow acoustic-influenced passages around 60–90 BPM up to full-extremity blast sections near 220 BPM — the point is building dynamic and technical control to move between those extremes within a single song.

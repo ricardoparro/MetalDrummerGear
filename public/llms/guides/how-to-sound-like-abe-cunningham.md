@@ -21,7 +21,7 @@ Cunningham plays a **Tama Starclassic Bubinga** kit:
 - **Floor Toms:** 14", 16"
 - **Cymbals:** Zildjian A Custom / K Custom Hybrid — 14" K Custom hi-hats, 18"/20" K Custom crashes, 22" K Custom ride, 19" A Custom China
 - **Pedal:** Tama Iron Cobra Power Glide Twin Pedal (HP900PTW)
-- **Sticks:** Zildjian Abe Cunningham Artist Series
+- **Sticks:** Pro-Mark (specific model not independently verified; endorsed since 1997)
 - **Heads:** Remo Powerstroke P3 (kick), Remo Ambassador (snare/resonant), Remo Pinstripe (toms)
 
 ## Tuning & Setup
@@ -52,7 +52,7 @@ Cunningham's technique centers on unconventional snare and accent placement comb
 | Snare | Matching Tama Starclassic snare, 14" x 6.5" (no separate model documented) | Any matching bubinga shell-pack snare, medium-tuned |
 | Cymbals | Zildjian A Custom / K Custom Hybrid | Zildjian Planet Z hi-hats + crash (~$150) |
 | Pedal | Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) | Tama Speed Cobra HP310LW (~$100) |
-| Sticks | Zildjian Abe Cunningham Artist Series | Vic Firth American Classic 5A |
+| Sticks | Pro-Mark (specific model not independently verified) | Vic Firth American Classic 5A |
 | Heads | Remo Powerstroke P3 / Ambassador / Pinstripe | Same specs |
 
 **Starter budget path (~$900):** Pearl Export + Zildjian Planet Z + Tama Speed Cobra pedal. See [/brands/tama](https://metalforge.io/brands/tama) and [/brands/zildjian](https://metalforge.io/brands/zildjian).
@@ -71,7 +71,7 @@ Cunningham's technique centers on unconventional snare and accent placement comb
 A: Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across ten studio albums, from "Adrenaline" (1995) through "Private Music" (2025). His dynamic, restraint-focused approach — prioritizing taste and emotional arc over technical showmanship — helped define alternative metal's atmospheric identity. "Elite" from White Pony won a Grammy for Best Metal Performance in 2001.
 
 **Q: What gear should I use to sound like Abe Cunningham?**  
-A: Cunningham plays a Tama Starclassic Bubinga kit with a matching Tama Starclassic snare (no separate model publicly documented), a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), and Zildjian Abe Cunningham Artist Series signature sticks.
+A: Cunningham plays a Tama Starclassic Bubinga kit with a matching Tama Starclassic snare (no separate model publicly documented), a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), and Pro-Mark sticks (he has endorsed Pro-Mark since 1997, though the specific model has not been independently verified).
 
 **Q: What tempo should I practice at to sound like Abe Cunningham?**  
 A: Practice in the 60–120 BPM range that covers most of Deftones' catalog, from ambient, texture-focused passages around 60–90 BPM up to driving grooves near 120 BPM — the key isn't raw speed, it's building dynamic control between whisper-quiet and full-weight intensity within a single song.

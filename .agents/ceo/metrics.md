@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-28 06:11 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-28 07:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,19 +8,19 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 724 |
-| Sessions | 781 |
-| Page views | 1,063 |
-| Engagement rate | 47.63% |
-| Avg session (s) | 68 |
+| Active users | 732 |
+| Sessions | 789 |
+| Page views | 1,071 |
+| Engagement rate | 47.66% |
+| Avg session (s) | 67 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 51 | 35 |
+| / | 52 | 36 |
 | /bpm | 35 | 33 |
 | /drummer/eloy-casagrande | 16 | 13 |
-| /drummer/mario-duplantier | 14 | 10 |
+| /drummer/mario-duplantier | 15 | 11 |
 | /quiz | 13 | 5 |
 | /articles/reign-in-blood-drum-setup | 12 | 7 |
 | /drummer/igor-cavalera | 12 | 8 |
@@ -31,16 +31,16 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 457 | 401 |
-| Direct | 319 | 319 |
+| Organic Search | 462 | 406 |
+| Direct | 322 | 322 |
 | Unassigned | 16 | 16 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| Singapore | 248 | 249 |
-| United States | 193 | 173 |
+| Singapore | 249 | 250 |
+| United States | 197 | 177 |
 | Germany | 30 | 24 |
 | Canada | 25 | 22 |
 | Brazil | 21 | 20 |

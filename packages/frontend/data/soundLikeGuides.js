@@ -10927,7 +10927,7 @@ This guide breaks down the technique, gear, and practice approach behind Wallgre
         finish: 'Touring finish',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Reference Pure',
+          snare: '14" x 6.5" Pearl Snare (model unverified)',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },

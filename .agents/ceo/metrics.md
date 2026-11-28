@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-28 01:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-11-28 06:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,86 +8,88 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 702 |
-| Sessions | 757 |
-| Page views | 1,035 |
-| Engagement rate | 46.90% |
+| Active users | 724 |
+| Sessions | 781 |
+| Page views | 1,063 |
+| Engagement rate | 47.63% |
 | Avg session (s) | 68 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 48 | 31 |
+| / | 51 | 35 |
 | /bpm | 35 | 33 |
-| /drummer/eloy-casagrande | 15 | 12 |
+| /drummer/eloy-casagrande | 16 | 13 |
 | /drummer/mario-duplantier | 14 | 10 |
 | /quiz | 13 | 5 |
 | /articles/reign-in-blood-drum-setup | 12 | 7 |
+| /drummer/igor-cavalera | 12 | 8 |
+| /articles/from-mars-to-sirius-drum-setup | 11 | 10 |
 | /articles/slipknot-self-titled-drum-setup | 11 | 8 |
 | /drummer/bill-ward | 11 | 8 |
-| /drummer/igor-cavalera | 11 | 7 |
-| /drummers/nick-menza/evolution | 11 | 3 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 438 | 384 |
-| Direct | 315 | 315 |
-| Unassigned | 13 | 13 |
+| Organic Search | 457 | 401 |
+| Direct | 319 | 319 |
+| Unassigned | 16 | 16 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| Singapore | 247 | 248 |
-| United States | 180 | 161 |
-| Germany | 29 | 23 |
-| Canada | 23 | 20 |
-| Brazil | 20 | 19 |
+| Singapore | 248 | 249 |
+| United States | 193 | 173 |
+| Germany | 30 | 24 |
+| Canada | 25 | 22 |
+| Brazil | 21 | 20 |
 | United Kingdom | 19 | 18 |
-| Australia | 16 | 16 |
+| Australia | 17 | 17 |
 | China | 14 | 13 |
 | France | 14 | 13 |
-| Finland | 11 | 10 |
+| Poland | 12 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 15,506 |
-| Clicks | 260 |
-| CTR | 1.68% |
+| Impressions | 19,828 |
+| Clicks | 330 |
+| CTR | 1.66% |
 | Avg position | 7.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 18 | 3 | 16.67% | 6.2 |
-| charlie benante drum kit | 10 | 2 | 20.00% | 5.7 |
-| death metal drum kit | 4 | 2 | 50.00% | 1.5 |
-| gavin harrison cymbal setup | 11 | 2 | 18.18% | 4.6 |
+| mario duplantier drum kit | 42 | 5 | 11.90% | 6.8 |
+| charlie benante drum kit | 13 | 2 | 15.38% | 5.9 |
+| death metal drum kit | 6 | 2 | 33.33% | 1.8 |
+| gavin harrison cymbal setup | 18 | 2 | 11.11% | 4.2 |
 | jaska raatikainen drum set | 6 | 2 | 33.33% | 8.5 |
-| shannon larkin drum kit | 11 | 2 | 18.18% | 4.5 |
-| best black metal drummers | 13 | 1 | 7.69% | 4.8 |
-| best china cymbals for metal | 6 | 1 | 16.67% | 5.7 |
-| best cymbals for metal | 5 | 1 | 20.00% | 7.2 |
-| bill ward drum setup 1970 | 3 | 1 | 33.33% | 3.7 |
+| shannon larkin drum kit | 12 | 2 | 16.67% | 4.2 |
+| abe cunningham drum kit | 22 | 1 | 4.55% | 8.0 |
+| best black metal drummers | 17 | 1 | 5.88% | 4.4 |
+| best china cymbals for metal | 7 | 1 | 14.29% | 5.7 |
+| best cymbals for metal | 7 | 1 | 14.29% | 7.3 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 5,734 | 91 | 1.59% | 7.3 |
-| deu | 637 | 16 | 2.51% | 6.0 |
-| can | 727 | 14 | 1.93% | 7.1 |
-| fra | 306 | 10 | 3.27% | 7.0 |
-| aus | 634 | 8 | 1.26% | 6.7 |
-| bra | 543 | 8 | 1.47% | 8.8 |
-| fin | 219 | 7 | 3.20% | 5.8 |
-| pol | 234 | 7 | 2.99% | 6.5 |
-| rus | 190 | 7 | 3.68% | 6.7 |
-| chl | 111 | 6 | 5.41% | 5.9 |
+| usa | 7,263 | 108 | 1.49% | 7.3 |
+| deu | 791 | 22 | 2.78% | 5.9 |
+| can | 956 | 18 | 1.88% | 7.2 |
+| fra | 380 | 12 | 3.16% | 7.1 |
+| aus | 784 | 11 | 1.40% | 6.8 |
+| bra | 739 | 10 | 1.35% | 8.8 |
+| fin | 268 | 9 | 3.36% | 5.8 |
+| pol | 299 | 9 | 3.01% | 6.5 |
+| swe | 228 | 9 | 3.95% | 6.8 |
+| rus | 235 | 8 | 3.40% | 6.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-_no significant gaps detected — all queries with traction have decent CTR_
+| Query | Impr | CTR | Pos | Action |
+| --- | --- | --- | --- | --- |
+| joey jordison drum kit | 60 | 1.67% | 8.4 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

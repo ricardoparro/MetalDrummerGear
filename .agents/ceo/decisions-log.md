@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-11-28 00:18 UTC*
 
 ---
+## 2026-11-28 06:13 (cheap pulse — 5/6 proposals verified+promoted #11221-11225, 1 held as cross-module conflict)
+### Context
+Pre-07:00 cheap pulse. Backlog 0 eligible ai-fix going in (prior 00:18 batch #11205-11210 not yet checked for merge status, 0 open PRs). 6 fresh proposals (filed 01:06 UTC, continuing the `evolution/*.md` + `drummerEvolution.js`/`drummerComparisons.js` fabrication sweep) were the only untriaged items.
+
+### Actions taken
+Live-verified all 6 directly against ground truth before promoting:
+- #11221 (evolution/travis-orbin.md: "Remo" drumheads stated for all eras incl. 2010-present; `endorsementNews.js` + closed #8318/#9523 establish Evans EMAD/G2 Coated since 2010 — confirmed lines 31/55/79 still unhedged)
+- #11222 (drummerEvolution.js + its inferno.md mirror present unbroken 1997-present Behemoth tenure; `bands.js:2088/2104/2111/2126` documents a verified 1999 departure/early-2000 return around Satanica that 3 prior closed issues on sibling files never reached this root module/mirror — confirmed root FAQ line 12190 explicitly says "remained... ever since")
+- #11223 (drummerEvolution.js self-contradicts Navene Koperweis's AAL join year — era block says 2009 correctly post-#9237, but 3 other locations in the same object (keyChanges + 2 FAQ lines) still say 2010, confirmed present; bands.js/api/drummers/index.js/the .md mirror all already agree on 2009)
+- #11224 (evolution/jon-dette.md: Testament-era original kit cost drifted to $4,262 vs `drummerEvolution.js`'s $4,200 in 2 spots; inflation-adjusted figure and all 3 other eras match exactly — isolated single-field drift)
+- #11225 (drummerComparisons.js + 3 vs/*.md mirrors still assert Nick Augusto's "Pearl Reference brass snare" as unhedged fact in 6+3 locations; closed #10443 only hedged `soundLikeGuides.js`, confirmed via soundLikeGuides.js:13991's hedge language that drummerComparisons.js was never swept)
+
+All 5 exact against ground truth, zero open dupes (`gh issue list --state all --search` per filename/entity) → promoted `ai-fix`.
+
+- **#11220 held, not promoted.** Travis Orbin's Periphery tenure/destination: `bands.js` alone says "2008-2009 → Sky Eats Airplane" while `drummerEvolution.js` + `api/drummers/index.js` (already aligned by closed #8965) both say "2006-Feb 2009 → Sky Harbor/Darkest Hour." 2-vs-1 agreement is suggestive but `bands.js` has been the authoritative tiebreaker elsewhere — genuine cross-module conflict, not a typo. Labeled `human` (kept `seo-proposal`), commented, parked alongside #10032/#10099/#10655/#10656 pending a 4th independent source or founder call. Related-but-distinct open item #5957 (Travis Orbin lick pages studying songs he never recorded) is a separate content-shape question, not a dupe.
+- Checked held proposals #10032/#10099/#10655/#10656 + 3 umbrellas (#2211/#3810/#3819) — all unchanged (updatedAt stale), no re-spam. #11173 (human-founder, reclassified 00:18) unchanged since that run.
+- GSC content-gap row reviewed, not escalated: `joey jordison drum kit` now 60 impr/1.67% CTR/pos 8.4 (vs 11-27 12:11's 52 impr/1.92%/pos 8.6) — position still improving, CTR dip is within daily noise on a non-refreshed weekly snapshot (`gsc-watch-snapshot.md` still dated 2026-11-23, refresh due ~11-30); 4+ closed CTR-fix issues already exist on this query. Holding per the 11-27 reasoning, will re-check at the weekly refresh.
+- L1/L2/L3 snapshots (gsc-watch/indexation/structured-data) all still dated 2026-11-23 — no new weekly refresh. Founder ideas inbox confirmed empty (unchanged since 2026-06-19).
+
+### State delta
+- Backlog: 0 eligible ai-fix → 5 (#11221-11225, same-run promotions) · proposal bank: 6 fresh → 0 (1 moved to held `human`, excl. 4 pre-existing held + 3 umbrellas, unchanged)
+- Org/Sessions/Views (7d): 724 / 781 / 1,063 · GSC 19,828 impr / 330 clicks / 1.66% CTR / pos 7.2, 1 content-gap row (reviewed, held)
+
+### Quota check
+5/6 proposals promoted, 1 held as a genuine founder-level conflict (backlog 5, well under 45 cap). GSC-gap: 1 qualifying row, reviewed and held (trend still improving, no new info since last review). No L1/L2/L3-sourced issues (no new weekly refresh). Founder ideas: none. Atomic-split: no non-hold `ai-fix` open >3 days.
+
+### Next Run
+- First run after 07:00 UTC is the daily deep run — check whether the 11-30 L1/L2/L3 weekly refresh has landed early, and confirm this 5-issue batch + prior 00:18 batch (#11205-11210) merge clean.
+- Watch #11220 for a 4th independent source or founder reply.
+- `evolution/*.md` / `drummerComparisons.js` sweep shows no sign of exhaustion — keep live-verifying each batch.
+
+---
 ## 2026-11-28 00:18 (cheap pulse — 6/6 proposals verified+promoted #11205-11210, #11173 reclassified to human-founder)
 ### Context
 Pre-07:00 cheap pulse. Backlog 1 eligible ai-fix (#11173) going in; 6 fresh proposals (filed 19:05-19:06 UTC 11-27, continuing the `guides/how-to-sound-like-*.md` mirror-sync + `brands/*.md` sweep) were the only untriaged items. No open PRs.

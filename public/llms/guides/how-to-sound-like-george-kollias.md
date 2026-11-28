@@ -11,7 +11,7 @@ George Kollias is renowned for sustaining blast beats at 200-260+ BPM throughout
 
 ## Kit Setup
 
-George plays **Pearl Reference Pure** drums with a setup optimized for sustained extreme performance:
+George plays **Pearl Masterworks Series** drums with a setup optimized for sustained extreme performance:
 
 - **Kick Drums:** 22" x 18" (x2) with Pearl Demon XR Pedals
 - **Snare:** 14" x 6.5" Pearl Masterworks Series Snare
@@ -20,7 +20,7 @@ George plays **Pearl Reference Pure** drums with a setup optimized for sustained
 - **Cymbals:** Zildjian A Custom Series — clarity and fast attack response
 - **Pedals:** Pearl Demon XR Pedals (direct drive for zero-lag precision)
 - **Sticks:** Vic Firth
-- **Heads:** Remo Powerstroke P4 Clear (kick), Remo Ambassador X Coated (snare), Remo Emperor Clear (toms)
+- **Heads:** Evans
 
 ## Tuning & Setup
 
@@ -46,12 +46,12 @@ George uses **matched grip** with a highly refined wrist technique. His approach
 
 | Item | Kollias's Spec | Budget Alternative |
 |------|---------------|-------------------|
-| Drum Kit | Pearl Reference Pure | Pearl Export Series (~$700) |
+| Drum Kit | Pearl Masterworks Series | Pearl Export Series (~$700) |
 | Snare | Pearl Masterworks Series 14" x 6.5" | Pearl Free-Floating Steel or Ludwig Supraphonic |
 | Cymbals | Zildjian A Custom Series | Meinl HCS Set (~$250) |
 | Pedal | Pearl Demon XR ($600) | Pearl P930 Double (~$150) |
 | Sticks | Vic Firth | Vic Firth 5B |
-| Kick Head | Remo Powerstroke P4 Clear | Evans EMAD Clear |
+| Kick Head | Evans | Evans EMAD Clear |
 
 **Starter budget path (~$1,100):** Pearl Export + Meinl HCS + Pearl P930 Double. See [/brands/pearl](https://metalforge.io/brands/pearl) and [/brands/meinl](https://metalforge.io/brands/meinl).
 

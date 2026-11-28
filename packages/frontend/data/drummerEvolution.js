@@ -11905,7 +11905,7 @@ export const DRUMMER_EVOLUTION = {
         years: '1997–2003',
         startYear: 1997,
         endYear: 2003,
-        description: 'Inferno joined Behemoth in 1997, replacing Baal Ravenlock as the band transitioned from pure black metal toward the blackened death metal sound that would define their career. "Satanica" (1999) marked his recording debut and the start of that stylistic shift, followed by "Thelema.6" (2000) and "Zos Kia Cultus" (2002), which progressively refined the band\'s technical death metal identity. Inferno\'s relentless blast beats and double bass drumming quickly established him as one of extreme metal\'s most disciplined players.',
+        description: 'Inferno joined Behemoth in 1997, replacing Baal Ravenlock as the band transitioned from pure black metal toward the blackened death metal sound that would define their career. "Satanica" (1999) marked his recording debut and the start of that stylistic shift. He left the band briefly around Satanica\'s 1999 release and returned in early 2000, then recorded "Thelema.6" (2000) and "Zos Kia Cultus" (2002), which progressively refined the band\'s technical death metal identity. Inferno\'s relentless blast beats and double bass drumming quickly established him as one of extreme metal\'s most disciplined players.',
         albums: ['Satanica (1999)', 'Thelema.6 (2000)', 'Zos Kia Cultus (2002)'],
         tours: ['Behemoth European underground tours 1997–2003'],
         image: null,
@@ -11958,6 +11958,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Joined Behemoth in 1997, replacing Baal Ravenlock',
           'Recording debut on "Satanica" (1999), transitioning the band toward blackened death metal',
+          'Left briefly around Satanica\'s 1999 release, returned in early 2000',
           '"Thelema.6" (2000) and "Zos Kia Cultus" (2002) refined the technical sound',
           'No fixed gear endorsements yet — developing preferences across these early sessions',
         ],
@@ -12187,7 +12188,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'How long has Inferno been Behemoth\'s drummer?',
-        a: 'Inferno (Zbigniew Robert Promiński) joined Behemoth in 1997, replacing Baal Ravenlock, and has remained the band\'s drummer for over 25 years — the longest-serving member of the lineup. He has performed on every Behemoth album from "Satanica" (1999) onward.',
+        a: 'Inferno (Zbigniew Robert Promiński) joined Behemoth in 1997, replacing Baal Ravenlock. Apart from a brief departure around the 1999 release of "Satanica" (he returned in early 2000), he has remained the band\'s drummer for over 25 years — the longest-serving member of the lineup. He has performed on every Behemoth album from "Satanica" (1999) onward.',
       },
       {
         q: 'What drum kit does Inferno play?',

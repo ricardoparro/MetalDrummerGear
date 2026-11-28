@@ -18,7 +18,7 @@ This guide breaks down exactly how to capture Van Poederooyen's playing — from
 The Pearl Reference series' maple/mahogany hybrid shells give Van Poederooyen the versatility his role demands — bright, articulate attack from the maple for fast double-kick passages, and warm low-end body from the mahogany for the physical weight Devin Townsend's heaviest material needs:
 
 - **Kick Drums:** 22" x 18" (x2)
-- **Snare:** 14" x 6.5" Pearl Reference Brass (brass shell)
+- **Snare:** 14" x 6.5" Pearl Snare (model unverified)
 - **Rack Toms:** 10" x 8", 12" x 9"
 - **Floor Toms:** 16" x 14", 18" x 16"
 - **Cymbals:** Sabian HHX & AAX Series — 14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crash, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China
@@ -31,7 +31,7 @@ The Pearl Reference series' maple/mahogany hybrid shells give Van Poederooyen th
 Van Poederooyen tunes for versatility above all — a kit that responds honestly whether he's playing at a whisper or at full intensity, rather than one optimized for a single extreme:
 
 - **Kick:** Medium tension with moderate, focused muffling — enough punch for driving double-bass passages without the boom that would muddy the ambient, low-volume sections of Townsend's catalogue. Use a small pillow touching both heads and a port hole in the resonant head for control without killing tone at low volumes.
-- **Snare:** Medium-bright tension with minimal muffling — keeps the brass snare's natural cut available at high volume while still sounding musical during quiet, textural passages. Tune both heads close in pitch for a focused, controlled crack rather than an overly ringy tone.
+- **Snare:** Medium-bright tension with minimal muffling — keeps the snare's natural cut available at high volume while still sounding musical during quiet, textural passages. Tune both heads close in pitch for a focused, controlled crack rather than an overly ringy tone.
 - **Toms:** Medium tension with light muffling — preserves tone for cascading fills while keeping enough control for the dense, layered mixes Townsend's productions favor. Tune toms a third apart and keep resonant heads slightly looser than batter heads for fuller sustain on fills.
 
 ## Technique Tips
@@ -51,7 +51,7 @@ Van Poederooyen's technique is built around serving the song across an unusually
 | Item | Ryan's Spec | Budget Alternative |
 |------|-------------|-------------------|
 | Drum Kit | Pearl Reference Series (Maple/Mahogany) | Pearl Export Series (~$700) |
-| Snare | Pearl Reference Brass 14" x 6.5" | Pearl Sensitone Brass or Ludwig Supraphonic |
+| Snare | Pearl Snare 14" x 6.5" (model unverified) | Pearl Sensitone Brass or Ludwig Supraphonic |
 | Cymbals | Sabian HHX & AAX Series | Sabian SBR or B8X Pack (~$200-300) |
 | Double Pedal | Pearl Demon Drive | Pearl P930 Double Pedal (~$130) |
 | Sticks | Vic Firth American Classic 5B | Vic Firth American Classic 5B |
